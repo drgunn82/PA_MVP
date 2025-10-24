@@ -1,0 +1,97 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2155-7
+Program Prior Authorization/Medical Necessity
+Medication Tegsedi® (inotersen)
+P&T Approval Date 11/2018, 11/2019, 11/2020, 11/2021, 11/2022, 11/2023, 11/2024
+Effective Date 2/1/2025
+1. Background:
+Tegsedi (inotersen) is a transthyretin-directed antisense oligonucleotide indicated for treatment
+of the polyneuropathy of hereditary transthyretin-mediated amyloidosis in adults.
+2. Coverage Criteria a:
+A. Hereditary transthyretin-mediated (hATTR) amyloidosis with polyneuropathy
+1. Initial Authorization
+a. Tegsedi will be approved based on all of the following criteria:
+(1) Both of the following:
+(a) Diagnosis of hATTR amyloidosis with polyneuropathy
+(b) Documentation that the patient has a pathogenic TTR mutation (e.g.,
+V30M)
+-AND-
+(2) Prescribed by or in consultation with a neurologist
+-AND-
+(3) Documentation of one of the following:
+(a) Patient has a baseline polyneuropathy disability (PND) score ≤ IIIb
+(b) Patient has a baseline FAP Stage 1 or 2
+(c) Patient has a baseline neuropathy impairment (NIS) score ≥ 10 and ≤ 130
+-AND-
+(4) Patient has not had a liver transplant
+-AND-
+(5) Presence of clinical signs and symptoms of the disease (e.g., peripheral
+sensorimotor polyneuropathy, autonomic neuropathy, motor disability, etc.)
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+1
+(6) Patient is not receiving Tegsedi in combination with either of the following:
+(a) Oligonucleotide agents [e.g., Onpattro (patisiran), Amvuttra (vutrisiran)]
+(b) Tafamidis (e.g., Vyndaqel, Vyndamax)
+Authorization of therapy will be issued for 12 months.
+2. Reauthorization
+a. Tegsedi will be approved based on both of the following criteria:
+(1) Documentation that the patient has experienced a positive clinical response to
+Tegsedi therapy (e.g., improved neurologic impairment, motor function, quality
+of life, slowing of disease progression, etc.)
+-AND-
+(2) Patient is not receiving Tegsedi in combination with either of the following:
+(a) Oligonucleotide agents [e.g., Onpattro (patisiran), Amvuttra (vutrisiran)]
+(b) Tafamidis (e.g., Vyndaqel, Vyndamax)
+Authorization of therapy will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Tegsedi [package insert]. Boston, MA: Akcea Therapeutics, Inc.; January 2024.
+2. Coutinho P, Martins da Silva A, Lopes Lima J, Resende Barbosa A. (1980) Forty years of
+experience with type I amyloid neuropathy. Review of 483 cases. In: Glenner G., Costa P.,
+de Freitas A., editors (eds.), Amyloid and Amyloidosis. Amsterdam: Execerpta Medica, pp.
+88–98
+3. Yamamoto S, Wilczek H, Nowak G, et al. Liver transplantation for familial amyloidotic
+polyneuropathy (FAP): a single-center experience over 16 years. Am J Transplant. 2007
+Nov;7(11):2597-604. https://clinicaltrials.gov/ct2/show/NCT02586805. Accessed October 8,
+2018.
+4. Koike H, Misu K, Ikeda S, et al. Type I (transthyretin Met30) familial amyloid
+polyneuropathy in Japan: early- vs late-onset form. Arch Neurol. 2002 Nov;59(11):1771-6.
+© 2024 UnitedHealthcare Services, Inc.
+2
+5. Koike H, Tanaka F, Hashimoto R, et al. Natural history of transthyretin Val30Met familial
+amyloid polyneuropathy: analysis of late-onset cases from non-endemic areas. J Neurol
+Neurosurg Psychiatry. 2012 Feb;83(2):152-8.
+6. Institute for Clinical and Economic Review: Draft Evidence Report - Inotersen and Patisiran for
+Hereditary Transthyretin Amyloidosis: Effectiveness and Value. July 20, 2018.
+7. Benson MD, Waddington-Cruz M, Berk JL, et al. Inotersen Treatment for Patients with
+Hereditary Transthyretin Amyloidosis. N Engl J Med. 2018 Jul 5;379(1):22-31.
+8. Ionis Pharmaceuticals. Efficacy and Safety of Inotersen in Familial Amyloid Polyneuropathy. In:
+ClinicalTrials.gov [Internet]. Bethesda (MD): National Library of Medicine (US). 2000- [cited
+2018 October 8]. Available from: https://clinicaltrials.gov/show/NCT01737398. NLM Identifier:
+NCT01737398.
+Program Prior Authorization/Medical Necessity - Tegsedi™ (inotersen)
+Change Control
+11/2018 New program.
+11/2019 Annual review. Updated references.
+11/2020 Annual review. Added examples of tafamidis products but no change to
+clinical intent. Updated references.
+11/2021 Annual review with no change to clinical criteria. Updated reference.
+11/2022 Annual review. Added Amvuttra (vutrisiran) as an example of not to be
+used in combination with no change in clinical intent. Updated
+reference.
+11/2023 Annual review. Simplified reauthorization criteria to only require
+positive clinical response and not used in combination with other
+treatment medications.
+11/2024 Annual review with no changes to clinical criteria.
+© 2024 UnitedHealthcare Services, Inc.
+3

@@ -1,0 +1,93 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1432-4
+Program Prior Authorization/Notification
+Medication Fabhalta® (iptacopan)
+P&T Approval Date 2/2024, 4/2024, 10/2024, 5/2025
+Effective Date 8/1/2025
+1. Background:
+Fabhalta (iptacopan) a complement factor B inhibitor, indicated for the treatment of adults with
+paroxysmal nocturnal hemoglobinuria (PNH), the reduction of proteinuria in adults with primary
+immunoglobulin A nephropathy (IgAN) at risk of rapid disease progression, generally a urine
+protein-to-creatinine ratio (UPCR) ≥1.5 g/g, and for the treatment of adults with complement 3
+glomerulopathy (C3G), to reduce proteinuria.
+2. Coverage Criteriaa:
+A. Paroxysmal nocturnal hemoglobinuria (PNH)
+1. Initial Authorization
+a. Fabhalta will be approved based on both of the following criteria:
+(1) Diagnosis of paroxysmal nocturnal hemoglobinuria (PNH)
+-AND-
+(2) One of the following:
+(a) Patient will not be prescribed Fabhalta in combination with another
+complement inhibitor used for the treatment of PNH (e.g., eculizumab,
+Empaveli, PiaSky, Ultomiris)
+-OR-
+(b) Patient is currently receiving another complement inhibitor (e.g.,
+eculizumab, Empaveli, PiaSky, Ultomiris) which will be discontinued and
+Fabhalta will be initiated in accordance with the United States Food and
+Drug Administration approved labeling
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Fabhalta will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Fabhalta therapy
+© 2025 UnitedHealthcare Services Inc.
+1
+-AND-
+(2) Patient is not receiving Fabhalta in combination with another complement
+inhibitor used for the treatment of PNH (e.g., eculizumab, Empaveli, PiaSky,
+Ultomiris)
+Authorization will be issued for 12 months.
+B. Primary immunoglobulin A nephropathy (IgAN)
+1. Initial Authorization
+a. Fabhalta will be approved based on all the following criteria:
+(1) Diagnosis of primary immunoglobulin A nephropathy (IgAN)
+-AND-
+(2) Patient is at risk of rapid disease progression [e.g., generally a urine protein-to-
+creatinine ratio (UPCR) greater than or equal to 1.5 g/g]
+-AND-
+(3) Used to reduce proteinuria
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Fabhalta will be approved based on the following criterion:
+(1) Documentation of positive clinical response to Fabhalta therapy
+Authorization will be issued for 12 months.
+C. Complement 3 glomerulopathy (C3G)
+1. Initial Authorization
+a. Fabhalta will be approved based on both the following criteria:
+(1) Diagnosis of complement 3 glomerulopathy (C3G)
+-AND-
+(2) Used to reduce proteinuria
+Authorization will be issued for 12 months.
+2. Reauthorization
+© 2025 UnitedHealthcare Services Inc.
+2
+a. Fabhalta will be approved based on the following criterion:
+(1) Documentation of positive clinical response to Fabhalta therapy demonstrated
+by a reduction in proteinuria
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-
+10) and/or claim logic. Use of automated approval and re-approval processes varies by
+program and/or therapeutic class.
+• Supply limits may also be in place.
+4. References:
+1. Fabhalta [package insert]. East Hanover, New Jersey: Novartis Pharmaceuticals Corporation;
+March 2025.
+Program Prior Authorization/Notification - Fabhalta® (iptacopan)
+Change Control
+2/2024 New program
+4/2024 Simplified criteria language for converting to new complement inhibitor
+therapy.
+10/2024 Updated background and added coverage criteria with additional
+indication for primary immunoglobulin A nephropathy (IgAN).
+Updated list of examples for combination use requirement for PNH.
+Updated reference.
+5/2025 Added new indication and criteria for C3 glomerulopathy (C3G).
+Replaced Soliris with eculizumab in list of examples of complement
+inhibitors. Updated background and references.
+© 2025 UnitedHealthcare Services Inc.
+3

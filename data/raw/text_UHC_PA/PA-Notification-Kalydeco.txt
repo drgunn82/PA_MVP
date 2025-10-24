@@ -1,0 +1,95 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1054-15
+Program Prior Authorization/Notification
+Medication Kalydeco® (ivacaftor)
+P&T Approval Date 2/2012, 2/2013, 2/2014, 4/2014, 2/2015, 2/2016, 2/2017, 8/2017, 8/2018,
+8/2019, 8/2020, 8/2021, 8/2022, 6/2023, 6/2024, 6/2025
+Effective Date 9/1/2025
+1. Background:
+Kalydeco® (ivacaftor) is a cystic fibrosis transmembrane conductance regulator (CFTR) potentiator
+indicated for the treatment of cystic fibrosis (CF) in patients aged 1 months and older who have at
+least one mutation in the CFTR gene that is responsive to ivacaftor based on clinical and/or in vitro
+assay data.
+If the patient’s genotype is unknown, an FDA-cleared CF mutation test should be used to detect the
+presence of a CFTR mutation followed by verification with bi-directional sequencing when
+recommended by the mutation test instructions for use. 1
+Members will be required to meet the coverage criteria below.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Kalydeco will be approved based upon both of the following criteria:
+a. Diagnosis of cystic fibrosis (CF)
+-AND-
+b. Documentation confirming that patient has at least one of the following mutations in the
+CFTR gene that is responsive to Kalydeco^:
+^List of CFTR gene mutations responsive to Kalydeco. A complete up to date list of responsive mutations
+can be referenced in the Kalydeco Prescribing Information.
+711+3A→G * F311del I148T R75Q S589N
+2789+5G→A * F311L I175V R117C * S737F
+3272-26A→G * F508C I807M R117G S945L *
+3849+10kbC→T * F508C;S1251N † I1027T R117H * S977F *
+A120T F1052V I1139V R117L S1159F
+© 2025 UnitedHealthcare Services, Inc.
+1
+A234D F1074L K1060T R117P S1159P
+A349V G178E L206W * R170H S1251N *
+A455E * G178R * L320V R347H * S1255P *
+A1067T G194R L967S R347L T338I
+D110E G314E L997F R352Q * T1053I
+D110H G551D * L1480P R553Q V232D
+D192G G551S * M152V R668C V562I
+D579G * G576A M952I R792G V754M
+D924N G970D M952T R933G V1293G
+D1152H * G1069R P67L * R1070Q W1282R
+D1270N G1244E * Q237E R1070W * Y1014C
+E56K G1249R Q237H R1162L Y1032C
+E193K G1349D * Q359R R1283M
+E822K H939R Q1291R S549N *
+E831X * H1375P R74W S549R *
+* Clinical data exist for these mutations.
+† Complex/compound mutations where a single allele of the CFTR gene has multiple mutations;
+these exist independent of the presence of mutations on the other allele.
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Kalydeco will be approved based on the following criterion:
+a. Documentation of positive clinical response to Kalydeco therapy (e.g., improved lung
+function, stable lung function)
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+© 2025 UnitedHealthcare Services, Inc.
+2
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Medical Necessity and/or Supply limits may be in place.
+4. References:
+1. Kalydeco [Package Insert]. Boston, MA: Vertex Pharmaceuticals, Inc.; August 2023.
+Program Prior Authorization/Notification - Kalydeco (ivacaftor)
+Change Control
+2/2014 Annual review. Increased re-authorization from 6 months to 24 months.
+4/2014 Added eight additional CFTR mutations based on label change.
+2/2015 Annual review. Expanded coverage to include R117H mutation.
+Updated Background and References.
+2/2016 Annual review. Updated reference.
+2/2017 Annual review. Updated background information to include indication
+in those 2 years and older
+8/2017 Added 28 additional CFTR mutations based on labeling change.
+8/2018 Annual review. No changes.
+8/2019 Annual review. Updated background and references.
+8/2020 Annual review with no changes to clinical coverage criteria.
+8/2021 Annual review. Updated background to reflect approval of 4 months
+and older. Updated with most recent approved mutation table.
+Decreased re-authorization to 12 months. Updated reference.
+8/2022 Annual review with no change to coverage criteria. Added state
+mandate footnote.
+6/2023 Updated background to reflect approval for patients one month and
+older. Simplified reauthorization criteria and updated reference.
+6/2024 Annual review. Increased initial authorization approval duration to 12
+months. Updated reference.
+6/2025 Annual review. Added notation in the CFTR gene mutations table. No
+changes to coverage criteria.
+© 2025 UnitedHealthcare Services, Inc.
+3

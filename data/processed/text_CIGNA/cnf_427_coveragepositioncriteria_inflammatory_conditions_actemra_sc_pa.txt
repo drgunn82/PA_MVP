@@ -1,0 +1,550 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Inflammatory Conditions – Tocilizumab Subcutaneous Products Prior
+Authorization Policy
+• Actemra (tocilizumab subcutaneous injection − Genentech/Roche)
+• Tyenne® (tocilizumab-aazg subcutaneous injection – Fresenius Kabi)
+REVIEW DATE: 04/23/2025; selected revision 06/11/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Tocilizumab subcutaneous injection, an interleukin-6 (IL-6) receptor inhibitor, is
+approved for the following uses:1
+• Giant cell arteritis in adults.
+• Interstitial lung disease associated with systemic sclerosis, to slow the
+rate of decline in pulmonary function in adults.
+• Polyarticular juvenile idiopathic arthritis, for the treatment of active
+disease in patients ≥ 2 years of age.
+• Rheumatoid arthritis, for treatment of adults with moderate to severe active
+disease who have had an inadequate response to one or more disease-
+modifying antirheumatic drugs (DMARDs).
+• Systemic juvenile idiopathic arthritis, for the treatment of active disease
+in patients ≥ 2 years of age.
+Page 1 of 12 - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Tocilizumab Subcutaneous
+Products Prior Authorization Policy
+Guidelines/Clinical Efficacy
+IL-6 blockers are mentioned in multiple guidelines for treatment of inflammatory
+conditions. Clinical data also support use of tocilizumab in other conditions.
+• Giant Cell Arteritis: Recommendations from the European League Against
+Rheumatism (EULAR) [2023] state the diagnosis of giant cell arteritis may be
+made without biopsy if there is a high suspicion of giant cell arteritis and a
+positive imaging test.2 In the pivotal trial evaluating tocilizumab subcutaneous
+for giant cell arteritis (n = 251), patients were treated with corticosteroids in
+an open-label fashion (20 mg to 60 mg/day) during the screening period prior
+to treatment with tocilizumab subcutaneous.3,4 Sustained remission at Week
+52 was achieved in 56% of patients who received tocilizumab subcutaneous
+every week + 26-week prednisone taper and 53% of patients who received
+tocilizumab every other week + 26-week prednisone taper vs. 14% of patients
+in the 26-week prednisone taper and 18% of patients in the 52-week
+prednisone taper.
+• Interstitial Lung Disease Associated with Systemic Sclerosis (SSc-
+ILD): EULAR guidelines for systemic sclerosis (2023) address tocilizumab.5
+Regarding patients with lung involvement, tocilizumab may be considered for
+treatment of SSc-ILD (level of evidence: 1b; strength of recommendation:
+A). In the pivotal trial evaluating tocilizumab subcutaneous for systemic
+sclerosis-associated interstitial lung disease, patients were required to have a
+percentage of predicted forced vital capacity (FVC% predicted) > 55%.6
+Among patients with interstitial lung disease confirmed on high-resolution
+computed tomography scan (n = 136), the change from baseline in FVC%
+predicted at Week 48 was significantly improved in the group taking
+tocilizumab (0.07 vs. -6.40 with placebo).
+• Polyarticular Juvenile Idiopathic Arthritis: The American College of
+Rheumatology (ACR)/Arthritis Foundation guidelines for the treatment of
+Juvenile Idiopathic Arthritis (2019) are specific to juvenile non-systemic
+polyarthritis, sacroiliitis, and enthesitis.7 For patients without risk factors,
+initial therapy with a DMARD is conditionally recommended over a biologic
+(including tocilizumab). Biologics (e.g., tocilizumab) are conditionally
+recommended as initial treatment when combined with a DMARD over biologic
+monotherapy.
+• Polymyalgia Rheumatica: Guidelines from the European League Against
+Rheumatism (EULAR)/ACR (2015) were published prior to approval of
+tocilizumab for this condition.8 The minimum effective individualized duration
+of glucocorticoid therapy is strongly recommended
+• Rheumatoid Arthritis: Guidelines from the ACR for the treatment of
+rheumatoid arthritis (2021) have tumor necrosis factor (TNF) inhibitors and
+non-TNF biologics (such as tocilizumab) equally positioned as a recommended
+therapy following a trial of a conventional synthetic DMARD (e.g.,
+methotrexate, leflunomide, hydroxychloroquine, sulfasalazine).9
+• Still’s Disease (Systemic Juvenile Idiopathic Arthritis [sJIA] and Adult
+Onset Still’s Disease [AOSD]): The European Alliance of Associations for
+Rheumatology (EULAR) and Pediatric Rheumatology European Society (PReS)
+joint clinical guidelines for management of Still’s disease (2024) recognize sJIA
+3 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Tocilizumab Subcutaneous
+Products Prior Authorization Policy
+and AOSD as the same disease, differing only in age of onset. Therefore, they
+can collectively be referred to as Still’s disease.10 Guidelines recommend an
+IL-1 or an IL-6 inhibitor be initiated as early as possible when the diagnosis is
+established.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of tocilizumab
+subcutaneous. All approvals are provided for the approval duration noted below. In
+cases where the approval is authorized in months, 1 month is equal to 30 days.
+Because of the specialized skills required for evaluation and diagnosis of a patient
+treated with tocilizumab subcutaneous as well as the monitoring required for adverse
+events and long-term efficacy, initial approval requires tocilizumab subcutaneous to
+be prescribed by or in consultation with a physician who specializes in the condition
+being treated.
+• Actemra (tocilizumab subcutaneous injection - Genentech/Roche)
+• Tyenne® (tocilizumab-aazg subcutaneous injection – Fresenius Kabi)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Giant Cell Arteritis. Approve for the duration noted if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, and iii):
+i. Patient is > 18 years of age; AND
+ii. Patient has tried or is currently taking a systemic corticosteroid, or systemic
+corticosteroids are contraindicated; AND
+Note: An example of a systemic corticosteroid is prednisone.
+iii. The medication is prescribed by or in consultation with a rheumatologist;
+OR
+B) Patient is Currently Receiving a Tocilizumab Subcutaneous or Intravenous
+Product. Approve for 1 year if the patient meets BOTH of the following (i and
+ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating a
+tocilizumab product); OR
+3 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Tocilizumab Subcutaneous
+Products Prior Authorization Policy
+Note: Examples of objective measures are serum markers (e.g., C-
+reactive protein, erythrocyte sedimentation rate), resolution of fever,
+and/or reduced dosage of corticosteroids.
+b) Compared with baseline (prior to initiating a tocilizumab product),
+patient experienced an improvement in at least one symptom, such as
+decreased headache, scalp or jaw pain, decreased fatigue, and/or
+improved vision.
+2. Interstitial Lung Disease Associated with Systemic Sclerosis. Approve for
+1 year if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve if the patient meets ALL of the following (i, ii, iii, iv,
+and v):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has elevated acute phase reactants, defined as at least ONE of the
+following (a, b, or c):
+a) C-reactive protein (CRP) ≥ 6 mg/mL; OR
+b) Erythrocyte sedimentation rate (ESR) ≥ 28 mm/h; OR
+c) Platelet count ≥ 330 x 109/L; AND
+iii. Forced vital capacity (FVC) is > 55% of the predicted value; AND
+iv. Diagnosis is confirmed by high-resolution computed tomography; AND
+v. The medication is prescribed by or in consultation with a pulmonologist or
+a rheumatologist; OR
+B) Patient is Currently Receiving a Tocilizumab Subcutaneous or Intravenous
+Product. Approve if the patient meets ALL of the following (i, ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has experienced a beneficial response to therapy over the previous
+1 year while receiving a tocilizumab product; AND
+Note: For a patient who has received less than 1 year of therapy, response
+to therapy is from baseline prior to initiating a tocilizumab product.
+Examples of a beneficial response include a reduction in the anticipated
+decline in forced vital capacity, improvement in 6-minute walk distance,
+and/or reduction in the number or severity of disease-related
+exacerbations.
+iii. The medication is prescribed by or in consultation with a pulmonologist or
+a rheumatologist.
+3. Polyarticular Juvenile Idiopathic Arthritis. Approve for the duration noted if
+the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, and iii):
+i. Patient is > 2 years of age; AND
+ii. Patient meets ONE of the following (a, b, c, or d):
+a) Patient has tried one other systemic therapy for this condition; OR
+Note: Examples of other systemic therapies include methotrexate,
+sulfasalazine, leflunomide, or a nonsteroidal anti-inflammatory drug
+(NSAID). A previous trial of one biologic other than the requested drug
+also counts as a trial of one systemic therapy for Juvenile Idiopathic
+3 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Tocilizumab Subcutaneous
+Products Prior Authorization Policy
+Arthritis. A biosimilar of Actemra does not count. Refer to Appendix for
+examples of biologics used for Juvenile Idiopathic Arthritis.
+b) Patient will be starting on tocilizumab subcutaneous concurrently with
+methotrexate, sulfasalazine, or leflunomide; OR
+c) Patient has an absolute contraindication to methotrexate, sulfasalazine,
+or leflunomide; OR
+Note: Examples of absolute contraindications to methotrexate include
+pregnancy, breastfeeding, alcoholic liver disease, immunodeficiency
+syndrome, and blood dyscrasias; OR
+d) Patient has aggressive disease, as determined by the prescriber; AND
+iii. The medication is prescribed by or in consultation with a rheumatologist;
+OR
+B) Patient is Currently Receiving a Tocilizumab Subcutaneous or Intravenous
+Product. Approve for 1 year if the patient meets BOTH of the following (i and
+ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with this medication is reviewed under criterion A (Initial
+Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating a
+tocilizumab product); OR
+Note: Examples of objective measures include Physician Global
+Assessment (MD global), Parent/Patient Global Assessment of Overall
+Well-Being (PGA), Parent/Patient Global Assessment of Disease Activity
+(PDA), Juvenile Arthritis Disease Activity Score (JDAS), Clinical Juvenile
+Arthritis Disease Activity Score (cJDAS), Juvenile Spondyloarthritis
+Disease Activity Index (JSpADA), serum markers (e.g., C-reactive
+protein, erythrocyte sedimentation rate), and/or reduced dosage of
+corticosteroids.
+b) Compared with baseline (prior to initiating a tocilizumab product),
+patient experienced an improvement in at least one symptom, such as
+improvement in limitation of motion, less joint pain or tenderness,
+decreased duration of morning stiffness or fatigue, improved function or
+activities of daily living.
+4. Rheumatoid Arthritis. Approve for the duration noted if the patient meets ONE
+of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii and iii):
+i. Patient is > 18 years of age; AND
+ii. Patient has tried one conventional synthetic disease-modifying
+antirheumatic drug (DMARD) for at least 3 months; AND
+Note: Examples of conventional DMARDs include methotrexate (oral or
+injectable), leflunomide, hydroxychloroquine, and sulfasalazine. An
+exception to the requirement for a trial of one conventional synthetic
+DMARD can be made if the patient has already had a 3-month trial with at
+3 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Tocilizumab Subcutaneous
+Products Prior Authorization Policy
+least one biologic other than a tocilizumab product. A biosimilar of Actemra
+does not count. Refer to Appendix for examples of biologics used for
+rheumatoid arthritis. A patient who has already tried a biologic for
+rheumatoid arthritis is not required to “step back” and try a conventional
+synthetic DMARD.
+iii. The medication is prescribed by or in consultation with a rheumatologist;
+OR
+B) Patient is Currently Receiving a Tocilizumab Subcutaneous or Intravenous
+Product. Approve for 1 year if the patient meets BOTH of the following (i and
+ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) Patient experienced a beneficial clinical response when assessed by at
+least one objective measure; OR
+Note: Examples of standardized and validated measures of disease
+activity include Clinical Disease Activity Index (CDAI), Disease Activity
+Score (DAS) 28 using erythrocyte sedimentation rate (ESR) or C-
+reactive protein (CRP), Patient Activity Scale (PAS)-II, Rapid
+Assessment of Patient Index Data 3 (RAPID-3), and/or Simplified
+Disease Activity Index (SDAI).
+b) Patient experienced an improvement in at least one symptom, such as
+decreased joint pain, morning stiffness, or fatigue; improved function or
+activities of daily living; decreased soft tissue swelling in joints or tendon
+sheaths.
+5. Systemic Juvenile Idiopathic Arthritis. Approve for the duration noted if the
+patient meets ONE of the following (A or B):
+Note: Systemic juvenile idiopathic arthritis (SJIA) and adult-onset Still’s disease
+(AOSD) are considered the same disease (Still’s disease) but differ in age of onset.
+For a patient ≥ 18 years of age, refer to AOSD indication below.
+A) Initial Therapy. Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient is > 2 years of age; AND
+ii. The medication is prescribed by or in consultation with a rheumatologist;
+OR
+B) Patient is Currently Receiving a Tocilizumab Subcutaneous or Intravenous
+Product. Approve for 1 year if the patient meets BOTH of the following (i and
+ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with this medication is reviewed under criterion A (Initial
+Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating the
+requested drug); OR
+3 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Tocilizumab Subcutaneous
+Products Prior Authorization Policy
+Note: Examples of objective measures include resolution of fever,
+improvement in rash or skin manifestations, clinically significant
+improvement or normalization of serum markers (e.g., C-reactive
+protein, erythrocyte sedimentation rate), and/or reduced dosage of
+corticosteroids.
+b) Compared with baseline (prior to initiating the requested drug), patient
+experienced an improvement in at least one symptom, such as less joint
+pain/tenderness, stiffness, or swelling; decreased fatigue; improved
+function or activities of daily living.
+Other Uses with Supportive Evidence
+6. Polymyalgia Rheumatica. Approve for the duration noted if the patient meets
+ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, and iii):
+i. Patient is > 18 years of age; AND
+ii. Patient has tried one systemic corticosteroid; AND
+Note: An example of a systemic corticosteroid is prednisone.
+iii. The medication is prescribed by or in consultation with a rheumatologist;
+OR
+B) Patient is Currently Receiving a Tocilizumab Subcutaneous or Intravenous
+Product. Approve for 1 year if the patient meets BOTH of the following (i and
+ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating a
+tocilizumab product); OR
+Note: Examples of objective measures are serum markers (e.g., C-
+reactive protein, erythrocyte sedimentation rate), resolution of fever,
+and/or reduced dosage of corticosteroids.
+b) Compared with baseline (prior to initiating a tocilizumab product),
+patient experienced an improvement in at least one symptom, such as
+decreased shoulder, neck, upper arm, hip, or thigh pain or stiffness;
+improved range of motion; and/or decreased fatigue.
+7. Still’s Disease, Adult Onset. Approve for the duration noted if the patient meets
+the following criteria (A or B):
+Note: Adult-onset Still’s disease (AOSD) and systemic juvenile idiopathic arthritis
+(SJIA) are considered the same disease (Still’s disease) but differ in age of onset.
+For a patient < 18 years of age, refer to the SJIA indication above.
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i and ii):
+i. Patient is > 18 years of age; AND
+3 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Tocilizumab Subcutaneous
+Products Prior Authorization Policy
+ii. The medication is prescribed by or in consultation with a rheumatologist;
+OR
+B) Patient is Currently Receiving a Tocilizumab Intravenous or Subcutaneous
+Product. Approve for 1 year if the patient meets BOTH of the following (i and
+ii):
+i. Patient has been established on this medication for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with this medication is reviewed under criterion A (Initial
+Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating the
+requested drug); OR
+Note: Examples of objective measures include resolution of fever,
+improvement in rash or skin manifestations, clinically significant
+improvement or normalization of serum markers (e.g., C-reactive
+protein, erythrocyte sedimentation rate), and/or reduced dosage of
+corticosteroids.
+b) Compared with baseline (prior to initiating the requested drug), patient
+experienced an improvement in at least one symptom, such as less joint
+pain/tenderness, stiffness, or swelling; decreased fatigue; improved
+function or activities of daily living.
+CONDITIONS NOT COVERED
+• Actemra (tocilizumab subcutaneous injection - Genentech/Roche)
+• Tyenne® (tocilizumab-aazg subcutaneous injection – Fresenius Kabi)
+is(are) considered not medically necessary for ANY other use(s) including the
+following (this list may not be all inclusive; criteria will be updated as new published
+data are available):
+1. Concurrent Use with a Biologic or with a Targeted Synthetic Oral Small
+Molecule Drug. This medication should not be administered in combination with
+another biologic or with a targeted synthetic oral small molecule drug used for an
+inflammatory condition (see Appendix for examples). Combination therapy is
+generally not recommended due to a potentially higher rate of adverse events and
+lack of controlled clinical data supporting additive efficacy.
+Note: This does NOT exclude the use of conventional synthetic DMARDs (e.g.,
+methotrexate, leflunomide, hydroxychloroquine, or sulfasalazine) in combination
+with this medication.
+2. Crohn’s Disease. In a 12-week pilot study conducted in Japan, 36 adults with
+active Crohn’s disease (Crohn’s Disease Activity Index [CDAI] ≥ 150 and
+increased C-reactive protein [CRP]) were randomized in a double-blind fashion to
+intravenous tocilizumab 8 mg/kg every 2 weeks, or alternating infusions of
+tocilizumab 8 mg/kg every 4 weeks and placebo (i.e., alternating with placebo
+3 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Tocilizumab Subcutaneous
+Products Prior Authorization Policy
+every 2 weeks), or to placebo every 2 weeks.11 At baseline, the mean CDAI
+ranged from 287 to 306. Patients had been treated with corticosteroids,
+mesalamine-type drugs, metronidazole, or elemental diet. Six patients in the
+placebo group, four on tocilizumab every 4 weeks, and one on tocilizumab every
+2 weeks dropped out. The mean reduction in the CDAI score in the tocilizumab 8
+mg/kg every 2 week group was 88 points – from (mean) 306 to 218. Further
+studies are needed.
+REFERENCES
+1. Actemra® [prescribing information]. South San Francisco, CA: Genentech; November 2024.
+2. The NCCN Management of Immunotherapy-Related Toxicities Clinical Practice Guidelines in
+Oncology (version 1.2025 – December 20, 2024). © 2024 National Comprehensive Cancer Network.
+Available at: http://www.nccn.org. Accessed on March 26, 2025.
+3. Tuckwell K, Collinson N, Dimonaco S, et al. Newly diagnosed vs. relapsing giant cell arteritis:
+baseline data from the GiACTA trial. Semin Arthritis Rheum. 2017;46(5):657-664.
+4. Stone JH, Tuckwell K, Dimonaco S, et al. Trial of tocilizumab in giant-cell arteritis. N Engl J Med.
+2017 ;377(4):317-328
+5. Del Galdo F, Lescoat A, Conaghan PG, et al. EULAR recommendations for the treatment of systemic
+sclerosis: 2023 update. Ann Rheum Dis. 2025 Jan;84(1):29-40. doi: 10.1136/ard-2024-226430.
+[Epub].
+6. Khanna D, Lin CJF, Furst DE, et al. Tocilizumab in systemic sclerosis: a randomised, double-blind,
+placebo-controlled, phase 3 trial. Lancet Respir Med. 2020;8(10):963-974.
+7. Ringold S, Angeles-Han ST, Beukelman T, et al. 2019 American College of Rheumatology/Arthritis
+Foundation guideline for the treatment of juvenile idiopathic arthritis: therapeutic approaches for
+non-systemic polyarthritis, sacroiliitis, and enthesitis. Arthritis Care Res. 2019;71(6):717-734.
+8. Dejaco C, Singh YP, Perel P, et al. 2015 Recommendations for the management of polymyalgia
+rheumatica: a European League Against Rheumatism/American College of Rheumatology
+collaborative initiative. Ann Rheum Dis. 2015;74(10):1799-807.
+9. Fraenkel L, Bathon JM, England BR, et al. 2021 American College of Rheumatology guideline for the
+treatment of rheumatoid arthritis. Arthritis Rheumatol. 2021;73(7):1108-1123.
+10. Fautrel B, Mitrovic S, De Matteis A, et al. EULAR/PReS recommendations for the diagnosis and
+management of Still's disease, comprising systemic juvenile idiopathic arthritis and adult-onset
+Still's disease. Ann Rheum Dis. 2024;83(12):1614-1627.
+11. Ito H, Takazoe M, Fukuda Y, et al. A pilot randomized trial of a human anti-interleukin-6 receptor
+monoclonal antibody in active Crohn’s disease. Gastroenterology. 2004;126:989-996.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 05/10/2023
+Revision
+Early Annual Policy was renamed as Inflammatory Conditions – Tocilizumab 04/24/2024
+Revision Subcutaneous Products. Throughout the policy, wording was changed
+from Actemra to tocilizumab.
+Systemic Juvenile Idiopathic Arthritis: The Note was revised to
+remove tumor necrosis factor inhibitors from the examples of other
+systemic therapies that could have been tried prior to Actemra
+subcutaneous.
+Selected Tyenne subcutaneous was added to the policy with the same criteria as 06/26/2024
+Revision the other Actemra subcutaneous products.
+Selected Giant Cell Arteritis: For initial approvals, a requirement that the 09/11/2024
+Revision patient is ≥ 18 years of age was added.
+3 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Tocilizumab Subcutaneous
+Products Prior Authorization Policy
+Polyarticular Juvenile Idiopathic Arthritis: For initial approvals, a
+requirement that the patient is ≥ 2 years of age was added.
+Rheumatoid Arthritis: For initial approvals, a requirement that the
+patient is ≥ 18 years of age was added.
+Systemic Juvenile Idiopathic Arthritis: For initial approvals, a
+requirement that the patient is ≥ 2 years of age was added.
+Polymyalgia Rheumatica: For initial approvals, a requirement that
+the patient is ≥ 18 years of age was added.
+Conditions Not Covered
+: Concurrent use with a Biologic or with a Targeted Synthetic Oral
+Small Molecule Drug was changed to as listed (previously oral small
+molecule drug was listed as Disease-Modifying Antirheumatic Drug).
+Annual Removed the following from the Policy Statement: “All reviews for use 04/23/2025
+Revision of tocilizumab subcutaneous for Coronavirus Disease 2019 (COVID-19)
+and/or cytokine release syndrome associated with COVID-19 will be
+forwarded to the Medical Director.”
+Conditions Not Covered
+: Removed COVID-19.
+Selected Giant Cell Arteritis: The requirement that the patient has tried one 06/11/2025
+Revision systemic corticosteroid was changed to now specify the patient has
+tried or currently is taking a systemic corticosteroid, unless a systemic
+corticosteroid is contraindicated.
+Systemic Juvenile Idiopathic Arthritis: The following Note was
+added “Systemic juvenile idiopathic arthritis (SJIA) and adult-onset
+Still’s disease (AOSD) are considered the same disease (Still’s disease)
+but differ in age of onset. For a patient ≥ 18 years of age, refer to
+AOSD indication.” Additionally, the requirement for a previous trial of
+one other systemic therapy was removed.
+Still’s Disease, Adult-Onset: The new condition of approval was
+added under other uses with supportive evidence.
+3 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Tocilizumab Subcutaneous
+Products Prior Authorization Policy
+APPENDIX
+Mechanism of Action Examples of Indications*
+Biologics
+Adalimumab SC Products (Humira®, Inhibition of TNF AS, CD, JIA, PsO, PsA, RA, UC
+biosimilars)
+Cimzia® (certolizumab pegol SC Inhibition of TNF AS, CD, nr-axSpA, PsO, PsA,
+injection) RA
+Etanercept SC Products (Enbrel®, Inhibition of TNF AS, JIA, PsO, PsA, RA
+biosimilars)
+Infliximab IV Products (Remicade®, Inhibition of TNF AS, CD, PsO, PsA, RA, UC
+biosimilars)
+Zymfentra® (infliximab-dyyb SC Inhibition of TNF CD, UC
+injection)
+Simponi®, Simponi Aria® (golimumab Inhibition of TNF SC formulation: AS, PsA, RA,
+SC injection, golimumab IV infusion) UC
+IV formulation: AS, PJIA,
+PsA, RA
+Tocilizumab Products (Actemra® IV, Inhibition of IL-6 SC formulation: PJIA, RA,
+biosimilar; Actemra SC, biosimilar) SJIA
+IV formulation: PJIA, RA,
+SJIA
+Kevzara® (sarilumab SC injection) Inhibition of IL-6 RA
+Orencia® (abatacept IV infusion, T-cell costimulation SC formulation: JIA, PSA, RA
+abatacept SC injection) modulator IV formulation: JIA, PsA, RA
+Rituximab IV Products (Rituxan®, CD20-directed cytolytic RA
+biosimilars) antibody
+Kineret® (anakinra SC injection) Inhibition of IL-1 JIA^, RA
+Omvoh® (mirikizumab IV infusion, SC Inhibition of IL-23 CD, UC
+injection)
+Ustekinumab Products (Stelara® IV, Inhibition of IL-12/23 SC formulation: CD, PsO,
+biosimilar; Stelara SC, biosimilar) PsA, UC
+IV formulation: CD, UC
+Siliq® (brodalumab SC injection) Inhibition of IL-17 PsO
+Cosentyx® (secukinumab SC injection; Inhibition of IL-17A SC formulation: AS, ERA, nr-
+secukinumab IV infusion) axSpA, PsO, PsA
+IV formulation: AS, nr-
+axSpA, PsA
+Taltz® (ixekizumab SC injection) Inhibition of IL-17A AS, nr-axSpA, PsO, PsA
+Bimzelx® (bimekizumab-bkzx SC Inhibition of IL- PsO, AS, nr-axSpA, PsA
+injection) 17A/17F
+Ilumya® (tildrakizumab-asmn SC Inhibition of IL-23 PsO
+injection)
+Skyrizi® (risankizumab-rzaa SC Inhibition of IL-23 SC formulation: CD, PSA,
+injection, risankizumab-rzaa IV infusion) PsO, UC
+IV formulation: CD, UC
+Tremfya® (guselkumab SC injection, Inhibition of IL-23 SC formulation: CD, PsA,
+guselkumab IV infusion) PsO, UC
+IV formulation: CD, UC
+Entyvio® (vedolizumab IV infusion, Integrin receptor CD, UC
+vedolizumab SC injection) antagonist
+Oral Therapies/Targeted Synthetic Oral Small Molecule Drugs
+Otezla® (apremilast tablets) Inhibition of PDE4 PsO, PsA
+Cibinqo™ (abrocitinib tablets) Inhibition of JAK AD
+pathways
+Olumiant® (baricitinib tablets) Inhibition of JAK RA, AA
+pathways
+3 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Tocilizumab Subcutaneous
+Products Prior Authorization Policy
+Litfulo® (ritlecitinib capsules) Inhibition of JAK AA
+pathways
+Leqselvi® (deuruxolitinib tablets) Inhibition of JAK AA
+pathways
+Rinvoq® (upadacitinib extended-release Inhibition of JAK AD, AS, nr-axSpA, RA, PsA,
+tablets) pathways CD, UC
+Rinvoq® LQ (upadacitinib oral solution) Inhibition of JAK PsA, PJIA
+pathways
+Sotyktu® (deucravacitinib tablets) Inhibition of TYK2 PsO
+Xeljanz® (tofacitinib tablets/oral Inhibition of JAK RA, PJIA, PsA, UC
+solution) pathways
+Xeljanz® XR (tofacitinib extended- Inhibition of JAK RA, PsA, UC
+release tablets) pathways
+Zeposia® (ozanimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+Velsipity® (etrasimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+* Not an all-inclusive list of indications. Refer to the prescribing information for the respective agent for
+FDA-approved indications; SC – Subcutaneous; TNF – Tumor necrosis factor; AS – Ankylosing
+spondylitis; CD – Crohn’s disease; JIA – Juvenile idiopathic arthritis; PsO – Plaque psoriasis; PsA –
+Psoriatic arthritis; RA – Rheumatoid arthritis; UC – Ulcerative colitis; nr-axSpA – Non-radiographic axial
+spondyloarthritis; IV – Intravenous, PJIA – Polyarticular juvenile idiopathic arthritis; IL – Interleukin;
+SJIA – Systemic juvenile idiopathic arthritis; ^ Off-label use of Kineret in JIA supported in guidelines;
+ERA – Enthesitis-related arthritis; DMARD – Disease-modifying antirheumatic drug; PDE4 –
+Phosphodiesterase 4; JAK – Janus kinase; AD – Atopic dermatitis; AA – Alopecia areata; TYK2 – Tyrosine
+kinase 2.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Tocilizumab Subcutaneous
+Products Prior Authorization Policy

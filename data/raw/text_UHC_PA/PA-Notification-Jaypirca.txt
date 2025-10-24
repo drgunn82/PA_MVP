@@ -1,0 +1,114 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1406-3
+Program Prior Authorization/Notification
+Medication Jaypirca® (pirtobrutinib)
+P&T Approval Date 3/2023, 2/2024, 2/2025
+Effective Date 5/1/2025
+1. Background:
+Jaypirca® (pirtobrutinib) is a kinase inhibitor indicated for the treatment of adult patients with
+relapsed or refractory mantle cell lymphoma (MCL) after at least two lines of systemic therapy,
+including a Bruton Tyrosine Kinase (BTK) inhibitor. This indication is approved under accelerated
+approval based on response rate. Continued approval for this indication may be contingent upon
+verification and description of clinical benefit in a confirmatory trial. Jaypirca is also indicated for the
+treatment of adult patients with chronic lymphocytic leukemia or small lymphocytic lymphoma
+(CLL/SLL) who have received at least two prior lines of therapy, including a BTK inhibitor and a B-
+cell lymphoma 2 (BCL-2) inhibitor. This indication is approved under accelerated approval based on
+response rate. Continued approval for this indication may be contingent upon verification and
+description of clinical benefit in a confirmatory trial. The National Comprehensive Cancer Network
+(NCCN) recommends the use of Jaypirca for the treatment of B-cell lymphomas, including splenic
+and nodal marginal zone lymphoma, extranodal marginal zone lymphoma (EMZL) of the stomach,
+extranodal marginal zone lymphoma of nongastric sites (noncutaneous), and Waldenström
+macroglobulinemia/lymphoplasmacytic lymphoma.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of 19
+years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or under
+some circumstances. Some states also mandate usage of other Compendium references. Where such
+mandates apply, they supersede language in the benefit document or in the notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Jaypirca will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. B-Cell Lymphomas
+1. Initial Authorization
+a. Jaypirca will be approved based on the following criteria:
+© 2025 UnitedHealthcare Services, Inc.
+1
+(1) All of the following:
+(a) Diagnosis of one of the following:
+i. extranodal marginal zone lymphoma of nongastric sites (noncutaneous)
+ii. extranodal marginal zone lymphoma of the stomach
+iii. mantle cell lymphoma (MCL)
+iv. nodal marginal zone lymphoma
+v. splenic marginal zone lymphoma
+-AND-
+(b) Disease is relapsed, refractory, or progressive
+-AND-
+(c) Patient has received at least two prior systemic therapies [e.g., chemotherapy],
+one of which is a Bruton Tyrosine Kinase (BTK) inhibitor therapy [e.g.,
+Imbruvica (ibrutinib), Calquence (acalabrutinib), Brukinsa (zanubrutinib)]
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Jaypirca will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Jaypirca therapy
+Authorization will be issued for 12 months.
+C. Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+1. Initial Authorization
+a. Jaypirca will be approved based on both of the following criteria:
+(1) Diagnosis of chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma
+(SLL)
+-AND-
+(2) Patient has been previously treated with both of the following:
+(a) Bruton Tyrosine Kinase (BTK) inhibitor therapy [e.g., Imbruvica (ibrutinib),
+Calquence (acalabrutinib), Brukinsa (zanubrutinib)]
+(b) B-cell lymphoma 2 (BCL-2) inhibitor therapy [e.g., Venclexta (venetoclax)]
+Authorization will be issued for 12 months.
+2. Reauthorization
+© 2025 UnitedHealthcare Services, Inc.
+2
+a. Jaypirca will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Jaypirca therapy
+Authorization will be issued for 12 months.
+D. Waldenström Macroglobulinemia/Lymphoplasmacytic Lymphoma
+1. Initial Authorization
+a. Jaypirca will be approved based on the following criterion:
+(1) Diagnosis of Waldenström Macroglobulinemia/Lymphoplasmacytic Lymphoma
+which has been previously treated
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Jaypirca will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Jaypirca therapy
+Authorization will be issued for 12 months.
+E. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category of
+Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Jaypirca [package insert]. Indianapolis, IN: Lilly USA, LLC. June 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org/professionals/drug_compendium/content/contents.asp. Accessed January 7,
+2025.
+© 2025 UnitedHealthcare Services, Inc.
+3
+Program Prior Authorization/Notification – Jaypirca® (pirtobrutinib)
+Change Control
+3/2023 New program.
+2/2024 Added coverage for updated labeled indication for CLL/SLL in patients
+who have received at least two lines of therapy, including a BTK
+inhibitor and a BCL-2 inhibitor. Updated references.
+2/2025 Annual review. Added criteria for B-cell lymphomas and Waldenström
+Macroglobulinemia according to NCCN guidelines. Updated
+references.
+© 2025 UnitedHealthcare Services, Inc.
+4

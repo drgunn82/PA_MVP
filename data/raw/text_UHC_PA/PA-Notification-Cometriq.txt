@@ -1,0 +1,115 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1021-13
+Program Prior Authorization/Notification
+Medication Cometriq® (cabozantinib)
+P&T Approval Date 02/2013, 07/2013, 8/2014, 8/2015, 6/2016, 6/2017, 6/2018, 6/2019,
+6/2020, 6/2021, 6/2022, 6/2023, 6/2024, 6/2025
+Effective Date 9/1/2025
+1. Background:
+Cometriq® (cabozantinib) is a kinase inhibitor indicated for the treatment of patients with
+progressive, metastatic medullary thyroid cancer (MTC).
+In addition, the National Cancer Comprehensive Network (NCCN) recommends Cometriq for the
+treatment of medullary, follicular, oncocytic and papillary thyroid carcinomas. NCCN also
+recommends Cometriq for the treatment of non-small cell lung cancer (NSCLC) with RET gene
+rearrangement.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Cometriq will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Thyroid Carcinoma
+1. Initial Authorization
+a. Cometriq will be approved based on the following criterion:
+(1) One of the following:
+(a) Diagnosis of medullary carcinoma
+-OR-
+© 2025 UnitedHealthcare Services, Inc.
+1
+(b) All of the following:
+i. Diagnosis of one of the following:
+• Follicular carcinoma
+• Oncocytic cell carcinoma
+• Papillary carcinoma
+-AND-
+ii. Disease is progressive after treatment with one of the following:
+• Lenvima (lenvatinib)
+• Nexavar (sorafenib)
+-AND-
+iii. Disease is at least one of the following:
+• Symptomatic iodine-refractory
+• Unresectable locoregional recurrent or persistent disease
+• Distant metastatic disease
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Cometriq will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Cometriq therapy
+Authorization will be issued for 12 months.
+C. Non-Small Cell Lung Cancer (NSCLC)
+1. Initial Authorization
+a. Cometriq will be approved based on both of the following criteria:
+(1) Diagnosis of non-small cell lung cancer (NSCLC)
+-AND-
+(2) Positive for RET gene rearrangements
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Cometriq will be approved based on the following criterion:
+© 2025 UnitedHealthcare Services, Inc.
+2
+(1) Patient does not show evidence of progressive disease while on Cometriq therapy
+Authorization will be issued for 12 months.
+D. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim
+logic. Use of automated approval and re-approval processes varies by program and/or
+therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Cometriq [prescribing information]. Alameda, CA: Exelixis, Inc.; August 2023.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org/professionals/drug_compendium/content/ . Accessed May 5, 2025.
+Program Prior Authorization/Notification - Cometriq (cabozantinib)
+Change Control
+7/2013 Review of clinical criteria. No change to coverage. Updated formatting.
+8/2014 Annual review. Added coverage for NSCLC, clarified thyroid cancer,
+updated formatting, Background and References.
+8/2015 Annual review with no change to clinical criteria. Increased authorization
+and reauthorization from 11 months to 12 months for all indications.
+Updated references.
+6/2016 Annual review. Updated MTC clinical criteria to include only a diagnosis
+of MTC. Updated background, formatting and references.
+6/2017 Annual review. Changed MTC clinical criteria to Thyroid Cancer to
+include NCCN expanded thyroid cancer indications. Updated background,
+formatting and references.
+6/2018 Annual review. Updated references.
+6/2019 Annual review. Revised criteria for thyroid carcinoma. Updated
+references.
+© 2025 UnitedHealthcare Services, Inc.
+3
+6/2020 Annual review. Updated references.
+6/2021 Annual review. No change to clinical criteria. Updated references.
+6/2022 Annual review. Revised clinical criteria for thyroid carcinomas to align
+with NCCN indications. Added NCCN Recommended Regimens to
+coverage criteria. Updated references.
+6/2023 Annual review. Updated Hürthle cell neoplasm to Oncocytic carcinoma in
+background and criteria per NCCN guidelines. No change in clinical
+intent of criteria. Updated references and added state mandate footnote.
+6/2024 Annual review. Updated references.
+6/2025 Annual review. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+4

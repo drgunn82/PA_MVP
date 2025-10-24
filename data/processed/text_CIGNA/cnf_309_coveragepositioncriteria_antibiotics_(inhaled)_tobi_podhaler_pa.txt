@@ -1,0 +1,118 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Antibiotics (Inhaled) – TOBI Podhaler Prior Authorization Policy
+• TOBI® Podhaler (tobramycin inhalation powder – Novartis)
+REVIEW DATE: 03/12/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+TOBI Podhaler, an aminoglycoside antibiotic, is indicated for the management of
+cystic fibrosis (CF) patients with Pseudomonas aeruginosa.1 Safety and efficacy
+have not been demonstrated in patients < 6 years of age, patients with forced
+expiratory volume in 1 second (FEV ) < 25% or > 80% predicted, or patients
+1
+colonized with Burkholderia cepacia.
+Guidelines
+The Cystic Fibrosis Foundation (CFF) Pulmonary Therapeutics Committee (2013)
+provides recommendations for the use of chronic medications in the management of
+CF lung disease.2 In patients ≥ 6 years of age with CF and moderate-to-severe lung
+disease with P. aeruginosa persistently present in cultures of the airways, chronic use
+of inhaled tobramycin is strongly recommended to improve lung function and quality
+of life, and reduce exacerbations. For mild disease, the Committee recommends
+chronic use of inhaled tobramycin for patients ≥ 6 years of age with CF and P.
+aeruginosa persistently present in cultures of the airways, to reduce exacerbations.
+The CFF published a systematic review of the literature regarding eradication of initial
+P. aeruginosa infections to develop guidelines for effective prevention (2014).3 The
+recommendations pertaining to inhaled antibiotics are as follows: 1) Inhaled
+Page 1 of 3 - Cigna National Formulary Coverage - Policy:Antibiotics (Inhaled) – TOBI Podhaler Prior Authorization
+Policy
+antibiotic therapy is recommended for the treatment of initial or new growth of P.
+aeruginosa (the favored antibiotic regimen is tobramycin [300 mg twice daily ] for
+28 days); and 2) Prophylactic antipseudomonal antibiotics to prevent the acquisition
+of P. aeruginosa are not recommended.
+The American Thoracic Society (ATS) published a clinical review (2013) of non-cystic
+fibrosis bronchiectasis on their webpage.4 The review lists nebulized antibiotics (e.g.,
+colistin, gentamicin, tobramycin) as treatment options for the eradication or
+suppression of P. aeruginosa. The European Respiratory Society (ERS) have
+published guidelines (2017) for the management of adult bronchiectasis and
+recommends patients with a new isolate of P. aeruginosa be offered eradication
+antibiotic treatment which includes nebulized antibiotics (e.g., colistin, gentamicin,
+tobramycin).5 Neither the ATS nor the ERS guidelines include TOBI Podhaler as a
+treatment option for bronchiectasis and no clinical trials have been published with
+TOBI Podhaler for treatment of non-cystic fibrosis bronchiectasis.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of TOBI
+Podhaler. All approvals are provided for the duration noted below. In cases where
+the approval is authorized in months, 1 month is equal to 30 days. Because of the
+specialized skills required for evaluation and diagnosis of patients treated with TOBI
+Podhaler as well as the monitoring required for adverse events and long-term
+efficacy, approval requires TOBI Podhaler to be prescribed by or in consultation with
+a physician who specializes in the condition being treated.
+• TOBI® Podhaler (tobramycin inhalation powder – Novartis)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Cystic Fibrosis. Approve for 1 year if the patient meets ALL of the following (A,
+B, and C):
+A) Patient is ≥ 6 years of age; AND
+B) Patient has Pseudomonas aeruginosa in culture of the airway; AND
+Note: Examples of culture of the airway include sputum culture, oropharyngeal
+culture, bronchoalveolar lavage culture.
+C) The medication is prescribed by or in consultation with a pulmonologist or a
+physician who specializes in the treatment of cystic fibrosis.
+Other Uses with Supportive Evidence
+2 Pages - Cigna National Formulary Coverage - Policy:Antibiotics (Inhaled) – TOBI Podhaler Prior Authorization
+Policy
+2. Continuation of TOBI Podhaler Therapy. Approve for 1 month if the patient
+was started on TOBI Podhaler and is continuing a course of therapy.
+CONDITIONS NOT COVERED
+TOBI® Podhaler (tobramycin inhalation powder – Novartis)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following; criteria will be updated as new published
+data are available
+REFERENCES
+1. TOBI® Podhaler inhalation powder [prescribing information]. East Hanover, NJ: Novartis; February
+2023.
+2. Mogayzel PJ, Naureckas ET, Robinson KA, et al. Cystic Fibrosis Pulmonary Guidelines. Chronic
+Medications for Maintenance of Lung Health. Am J Respir Crit Care Med. 2013;187:680-689.
+3. Mogayzel PJ, Naureckas ET, Robinson KA, et al; and the Cystic Fibrosis Foundation Pulmonary
+Clinical Practice Guidelines Committee. Pharmacologic approaches to prevention and eradication of
+initial Pseudomonas aeruginosa infection. Ann Am Thorac Soc. 2014;11(10):1640-1650.
+4. McShane PJ, Naureckas ET, Tino G, Strek ME. Non-cystic fibrosis bronchiectasis. Am J Respir Crit
+Care Med. 2013;188:647-656.
+5. Polverino E, Goeminne PC, McDonnell, et al. European Respiratory Society guidelines for the
+management of adult bronchiectasis. Eur Respir J. 2017;50:1700629.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 03/29/2023
+Revision
+Annual No criteria changes. 03/27/2024
+Revision
+Annual No criteria changes. 03/12/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2025 The Cigna
+Group.
+2 Pages - Cigna National Formulary Coverage - Policy:Antibiotics (Inhaled) – TOBI Podhaler Prior Authorization
+Policy

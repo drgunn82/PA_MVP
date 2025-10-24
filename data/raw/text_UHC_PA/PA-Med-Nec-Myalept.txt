@@ -1,0 +1,106 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2032-15
+Program Prior Authorization/Medical Necessity
+Medication Myalept® (metreleptin)
+P&T Approval Date 5/2014, 7/2014, 8/2014, 7/2015, 6/2016, 5/2017, 5/2018, 5/2019, 5/2020,
+5/2021, 5/2022, 6/2023, 6/2024, 6/2025
+Effective Date 9/1/2025
+1. Background:
+Myalept (metreleptin) is a leptin analog indicated as an adjunct to diet as replacement therapy to
+treat the complications of leptin deficiency in patients with congenital or acquired generalized
+lipodystrophy.
+Limitations of Use:
+• The safety and effectiveness of Myalept for the treatment of complications of partial
+lipodystrophy have not been established.
+• The safety and effectiveness of Myalept for the treatment of liver disease, including nonalcoholic
+steatohepatitis (NASH), have not been established.
+• Myalept is not indicated for use in patients with HIV-related lipodystrophy.
+• Myalept is not indicated for use in patients with metabolic disease, without concurrent evidence
+of generalized lipodystrophy.
+Myalept is available only through a restricted distribution program under a Risk Evaluation and
+Mitigation Strategy (REMS), called the Myalept REMS program, because of the risks associated with
+the development of anti-metreleptin antibodies that neutralize endogenous leptin and the risk of
+lymphoma.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Myalept will be approved based on all of the following criteria:
+a. Diagnosis of congenital or acquired generalized lipodystrophy associated with leptin
+deficiency
+-AND-
+b. Myalept is being used as an adjunct to diet modification
+-AND-
+c. Prescribed by an endocrinologist
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+1
+d. Patient has at least one of the following:
+(1) Diabetes mellitus or insulin resistance with persistent hyperglycemia (HgbA1C > 7.0)
+despite both of the following:
+(a) Dietary intervention
+(b) Optimized insulin therapy at maximum tolerated doses
+-OR-
+(2) Persistent hypertriglyceridemia (TG > 200) despite both of the following:
+(a) Dietary intervention
+(b) Optimized therapy with at least two triglyceride-lowering agents from different
+classes (e.g., fibrates, statins) at maximum tolerated doses
+Authorization will be issued for 12 months
+B. Reauthorization
+1. Myalept will be approved based on all of the following criteria:
+a. Documentation of positive clinical response to Myalept therapy
+-AND-
+b. Myalept is being used as an adjunct to diet modification
+-AND-
+c. Prescribed by an endocrinologist
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Myalept [package insert]. Amryt Pharmaceuticals, Inc. Cambridge, MA. February 2022.
+© 2025 UnitedHealthcare Services, Inc.
+2
+2. Brown RJ, Araujo-Vilar D, Cheung PT, et al. The Diagnosis and Management of Lipodystrophy
+Syndromes: A Multi-Society Practice Guideline. J Clin Endocrinol Metab. 2016;101(12):4500-
+4511.
+3. Brush M, Auh S, Cochran E, et al. Effects of Metreleptin in Patients With Generalized
+Lipodystrophy Before vs After the Onset of Severe Metabolic Disease. J Clin Endocrinol Metab.
+2025;110(4):e1051-e1061.
+Program Prior Authorization/Medical Necessity – Myalept™ (metreleptin)
+Change Control
+5/2014 New program.
+7/2014 Added criterion requiring that patient continues to have insulin
+resistance and/or hyperglycemia or elevated triglyceride levels despite
+optimized standard pharmacotherapy and dietary interventions.
+8/2014 Added reference values for HgbA1C and triglycerides. Clarified that
+optimized therapy refers to maximum tolerated doses. Modified to
+require insulin therapy for diabetes mellitus or insulin resistance and to
+require two lipid-lowering agents from different classes for
+hypertriglyceridemia.
+7/2015 Revisions to background. Additional documentation language around
+the criteria. Updated references.
+6/2016 Annual Review. Added prescriber requirement for reauthorization.
+Updated background and references.
+5/2017 Annual review. Removed requirement for submission of medical
+records (A.1.a). Updated background.
+5/2018 Annual review. No changes to coverage criteria.
+12/2018 Administrative change to add statement regarding use of automated
+processes.
+5/2019 Annual review. No changes to coverage criteria.
+5/2020 Annual review. No changes to coverage criteria.
+5/2021 Annual review. No changes to coverage criteria.
+5/2022 Annual review. Revised documentation language in initial authorization
+coverage criteria. Added state mandate language to coverage criteria.
+Updated references.
+6/2023 Annual review with no changes to coverage criteria.
+6/2024 Annual review with no changes to coverage criteria. Updated
+background.
+6/2025 Annual review. Updated reference value for triglycerides. Updated
+references.
+© 2025 UnitedHealthcare Services, Inc.
+3

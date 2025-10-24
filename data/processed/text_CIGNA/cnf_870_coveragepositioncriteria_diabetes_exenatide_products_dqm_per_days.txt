@@ -1,0 +1,120 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Diabetes – Exenatide Products Drug Quantity Management Policy – Per
+Days
+• Bydureon BCise® (exenatide extended-release subcutaneous
+injection – AstraZeneca)
+• Byetta® (exenatide subcutaneous injection – AstraZeneca)
+REVIEW DATE: 10/30/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Byetta and Bydureon BCise are glucagon-like peptide-1 (GLP-1) agonists.1,2
+Byetta is indicated as an adjunct to diet and exercise to improve glycemic control
+in adults with type 2 diabetes mellitus.1
+Bydureon BCise is indicated as an adjunct to diet and exercise to improve
+glycemic control in adults and pediatric patients ≥ 10 years of age with type 2
+diabetes mellitus.2
+Dosing
+The recommended dose of Byetta is 5 mcg administered subcutaneous (SC) twice
+daily (BID) within 60 minutes prior to the morning and evening meals (or the two
+main meals of the day, approximately ≥ 6 hours apart). The dose of Byetta may be
+increased to 10 mcg BID after 1 month of therapy if needed, based on clinical
+response. If a dose is missed, resume the treatment regimen as prescribed with
+the next scheduled dose.
+Page 1 of 3 - Cigna National Formulary Coverage - Policy: Diabetes – Exenatide Products Drug Quantity
+Management Policy – Per Days
+The recommended dose of Bydureon BCise is 2 mg SC once weekly (QW) [every 7
+days].2 The dose may be administered with or without meals, at any time of day.
+Patients switching from another extended-release exenatide product should
+discontinue that product and then initiate Bydureon BCise at the next regularly
+scheduled dose. Patients switching from immediate-release exenatide may
+experience transient blood glucose elevations (approximately 2 to 4 weeks). A
+patient may change the day of weekly administration, as long as the previous dose
+was administered ≥ 3 days before the new administration day. If a dose is missed,
+it can be administered as soon as it is noticed if the next schedule dose is due at
+least 3 days later. If the next regularly scheduled dose is due 1 or 2 days later,
+skip the missed dose and resume Bydureon BCise with the next regularly scheduled
+dose.
+Availability
+Byetta is supplied as a 250 mcg/mL solution in single-patient-use prefilled pens in
+the following sizes:1
+• 5 mcg/0.02 mL per dose (60 doses per pen [1.2 mL total])
+• 10 mcg/ 0.04 mL per dose (60 doses per pen [2.4 mL total])
+Bydureon BCise is supplied as a 2 mg/0.85 mL prefilled, single-dose auto-injector.2
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of the exenatide products. There are no overrides to the
+Per Days quantity limits outlined below.
+Drug Quantity Limits
+Product Strength and Form Retail Home Delivery
+Maximum Quantity Maximum Quantity
+Byetta® 5 mcg/0.02 mL per dose 1.2 mL (1 pen) per 30 3.6 mL (3 pens) per 90
+(exenatide SC prefilled pens (1.2 mL days days
+injection) total)
+10 mcg/0.04 mL per dose 2.4 mL (1 pen) per 30 7.2 mL (3 pens) per 90
+prefilled pens (2.4 mL days days
+total)
+Bydureon BCise® 2 mg/0.85 mL prefilled 3.4 mL (4 pens) per 10.2 mL (12 pens) per
+(exenatide auto-injector 28 days 84 days
+extended-release
+SC injection)
+SC – Subcutaneous.
+Diabetes – Exenatide Products Drug Quantity Management Policy – Per
+Days product(s) is(are) covered as medically necessary when the following
+criteria is(are) met. Any other exception is considered not medically
+necessary.
+3 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Exenatide Products Drug Quantity Management
+Policy – Per Days
+CRITERIA
+Byetta 5 mcg per dose pens and 10 mcg per dose pens
+No overrides recommended.
+Bydureon BCise 2 mg pens
+No overrides recommended.
+REFERENCES
+1. Byetta® subcutaneous injection [prescribing information]. Wilmington, DE: AstraZeneca; December
+2022.
+2. Bydureon BCise® subcutaneous injection [prescribing information]. Wilmington, DE: AstraZeneca;
+March 2024.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy New policy created to add additional quantity limits to approve ONE 07/17/2024
+claim collectively for ONE glucagon-like peptide-1 (GLP-1) agonist or
+GLP-1/glucose-dependent insulinotropic polypeptide (GIP) agonist
+every 21 days at retail or home delivery. New clinical overrides
+apply to these limits. Existing “Per Days” quantity limits were not
+changed and no overrides apply.
+Bydureon 2 mg/0.65 mL pen: The quantity limits for the
+Bydureon 2 mg/0.65 mL pen were removed from the policy
+(obsolete).
+Early Annual The quantity limit of ONE claim of ONE glucagon-like peptide-1 (GLP- 10/30/2024
+Revision 1) agonist or GLP-1/glucose-dependent insulinotropic polypeptide
+(GIP) agonist to be dispensed every 21 days at retail or home
+delivery was removed from this policy (refer to the “Diabetes –
+Glucagon-Like Peptide-1 Agonists Drug Quantity Management Policy
+– Claim Per Days” document for additional information).
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. ©
+2024 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Exenatide Products Drug Quantity Management
+Policy – Per Days

@@ -1,0 +1,321 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Dermatology – Opzelura Prior Authorization Policy
+• Opzelura® (ruxolitinib 1.5% cream – Incyte)
+REVIEW DATE: 06/25/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Opzelura, a Janus kinase (JAK) inhibitor, is indicated for the following uses:1
+• Atopic dermatitis, for the topical short-term and non-continuous treatment of mild
+to moderate disease in patients ≥ 12 years of age whose disease is not adequately
+controlled with topical prescription therapies or when those therapies are not
+advisable.
+• Nonsegmental vitiligo, for the topical treatment of patients ≥ 12 years of age.
+Limitation of Use: Use of Opzelura in combination with therapeutic biologics, other JAK
+inhibitors, or potent immunosuppressants such as azathioprine or cyclosporine is not
+recommended.
+For atopic dermatitis, Opzelura is applied twice daily to affected areas of up to 20% body
+surface area (BSA). Patients should stop using Opzelura when signs and symptoms of
+atopic dermatitis (e.g., itch, rash, and redness) resolve. If signs and symptoms do not
+improve within 8 weeks, patients should be re-evaluated by their healthcare provider.
+Page 1 of 9 - Cigna National Formulary Coverage - Policy:Dermatology – Opzelura Prior Authorization Policy
+For vitiligo, Opzelura is applied twice daily to affected areas of up to 10% BSA.1 Patients
+may require more than 24 weeks of treatment to achieve a satisfactory response. If the
+patient does not find the repigmentation meaningful after 24 weeks of therapy, the patient
+should be re-evaluated by their healthcare provider.
+Clinical Efficacy
+Atopic Dermatitis
+Two pivotal Opzelura studies enrolled patients ≥ 12 years of age with a diagnosis of atopic
+dermatitis present for ≥ 2 years, affecting 3% to 20% of their BSA.1,2 Patients were also
+required to have an Investigator’s Global Assessment (IGA) score of 2 or 3. While prior
+treatment was not a requirement for study enrollment, 90% of patients had received prior
+therapies for atopic dermatitis, including low-, medium-, and high-potency topical
+corticosteroids (49.6%, 42.4%, and 32.7% of patients, respectively), as well as topical
+calcineurin inhibitors (e.g., tacrolimus 0.03% and 0.1% ointment and pimecrolimus 1%
+cream [Elidel®, generic]) [21.5% of patients]. At Week 8, Opzelura cream was found to be
+more effective in achieving IGA treatment success, defined as an IGA score of 0 (clear) or 1
+(almost clear) with a ≥ 2-grade improvement from baseline. A third, non-pivotal, Phase II
+trial of Opzelura cream in a similar patient population included a triamcinolone acetonide
+0.1% cream comparator arm.3 At Week 4, Opzelura 1.5% cream produced greater
+improvement in the Eczema Area and Severity Index score from baseline; however, the
+treatment difference vs. triamcinolone was not statistically significant.
+Vitiligo
+One Phase III Opzelura study enrolled patients ≥ 12 years of age with a diagnosis of non-
+segmental vitiligo and depigmented areas covering ≤ 10% of their BSA.4 While prior
+treatment was not a requirement for study enrollment, 61% of patients had received prior
+topical therapies for vitiligo, including topical corticosteroids and topical calcineurin
+inhibitors. Efficacy was evaluated at Week 24.
+Guidelines
+Atopic Dermatitis Guidelines
+In general, the American Academy of Dermatology Guidelines of Care for the Management
+of Atopic Dermatitis (2023) recommends moisturizers/emollients as first-line therapy,
+followed by topical corticosteroids, when appropriate.5 Topical calcineurin inhibitors are
+recommended for the treatment of atopic dermatitis, particularly when use of topical
+corticosteroids is not appropriate due to safety concerns (e.g., young infants, treatment of
+sensitive areas such as the face, eyelids, or genitalia). Opzelura is recommended for the
+treatment of patients with mild to moderate atopic dermatitis. However, Opzelura should
+not be used on more than 20% of the patient’s BSA to avoid potential adverse events.
+Vitiligo Guidelines
+Guidelines from the International Vitiligo Task Force (2023) recommend topical
+corticosteroids, topical calcineurin inhibitors, and Opzelura as treatment options in patients
+with vitiligo.6 Most of the studies to support the use of topical corticosteroids used potent to
+very potent corticosteroids applied topically daily for 3 to 6 months.
+Intermittent/alternating treatment schemes have been found to reduce adverse effects from
+topical corticosteroids and may enable longer treatment periods. Topical corticosteroids
+should be used with caution on the eyelids, axilla, and inguinal regions. Topical calcineurin
+inhibitors are often prescribed initially for up to 6 months. The guidelines note that topical
+corticosteroids and topical calcineurin inhibitors have not been found to be different in terms
+of efficacy; however, there are safety differences. These therapies may be used in
+combination. The guidelines do not compare the efficacy of Opzelura with that of the other
+topical therapies.
+6 Pages - Cigna National Formulary Coverage - Policy:Dermatology – Opzelura Prior Authorization Policy
+Safety
+Opzelura carries a Boxed Warning regarding the risk of serious infections, mortality,
+malignancy and lymphoproliferative disorders, major adverse cardiac events, and
+thrombosis.1 Other Warnings and Precautions include thrombocytopenia, anemia,
+neutropenia, and lipid elevations. Based on these risks, critical evaluation and monitoring of
+certain patients are recommended in the Opzelura prescribing information.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Opzelura cream. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Opzelura cream as well as the
+monitoring required for adverse events and long-term efficacy, approval requires Opzelura
+cream to be prescribed by or in consultation with a physician who specializes in the
+condition being treated.
+• Opzelura® (ruxolitinib 1.5% cream – Incyte)
+is(are) covered as medically necessary when the following criteria is(are) met for
+FDA-approved indication(s) or other uses with supportive evidence (if applicable):
+FDA-Approved Indications
+1. Atopic Dermatitis. Approve for 8 weeks if the patient meets ALL of the following (A, B,
+C, D, and E):
+A) Patient is ≥ 12 years of age; AND
+B) According to the prescriber, patient has mild to moderate atopic dermatitis; AND
+C) Patient has atopic dermatitis involvement estimated to affect ≤ 20% of the body
+surface area; AND
+D) Patient meets ONE of the following (i or ii):
+i. Patient meets ALL of the following (a, b, and c):
+a) Patient has tried at least one medium-, medium-high, high-, and/or super-
+high-potency prescription topical corticosteroid; AND
+Note: Concomitant use of a topical corticosteroid with a topical calcineurin
+inhibitor would meet the requirement.
+b) This topical corticosteroid was applied daily for at least 28 consecutive days;
+AND
+c) According to the prescriber, inadequate efficacy was demonstrated with this
+topical corticosteroid therapy; OR
+ii. Patients meets ALL of the following (a, b, and c):
+a) Patient has tried at least one topical calcineurin inhibitor; AND
+Note: Examples of topical calcineurin inhibitors include tacrolimus ointment
+(Protopic, generic) and pimecrolimus cream (Elidel, generic). Concomitant
+use of a topical calcineurin inhibitor with a topical corticosteroid would meet
+the requirement.
+b) This topical calcineurin inhibitor was applied daily for at least 28 consecutive
+days; AND
+c) According to the prescriber, inadequate efficacy was demonstrated with this
+topical calcineurin inhibitor; AND
+E) The medication is prescribed by or in consultation with an allergist, immunologist, or
+dermatologist.
+6 Pages - Cigna National Formulary Coverage - Policy:Dermatology – Opzelura Prior Authorization Policy
+2. Vitiligo. Approve for 6 months if the patient meets ALL of the following (A, B, C, D, and
+E):
+A) Patient is ≥ 12 years of age; AND
+B) Patient has nonsegmental vitiligo; AND
+C) Patient has vitiligo involvement estimated to affect ≤ 10% of the body surface area;
+AND
+D) Patient meets ONE of the following (i or ii):
+i. Patient meets ALL of the following (a, b, and c):
+a) Patient has tried at least one high-, and/or super-high-potency prescription
+topical corticosteroid; AND
+Note: Concomitant use of a topical corticosteroid with a topical calcineurin
+inhibitor would meet the requirement.
+b) The duration of this topical corticosteroid therapy was at least 12 weeks; AND
+Note: Intermittent or continuous use of a topical corticosteroid for at least 12
+weeks would meet the requirement.
+c) According to the prescriber, inadequate efficacy was demonstrated with this
+topical corticosteroid therapy; OR
+ii. Patients meets ALL of the following (a, b, and c):
+a) Patient has tried at least one topical calcineurin inhibitor; AND
+Note: Examples of topical calcineurin inhibitors include tacrolimus ointment
+(Protopic, generic) and pimecrolimus cream (Elidel, generic). Concomitant use of
+a topical calcineurin inhibitor with a topical corticosteroid would meet the
+requirement.
+b) This topical calcineurin inhibitor was applied daily for at least 12 weeks; AND
+c) According to the prescriber, inadequate efficacy was demonstrated with this
+topical calcineurin inhibitor; AND
+E) The medication is prescribed by or in consultation with a dermatologist.
+CONDITIONS NOT COVERED
+• Opzelura® (ruxolitinib 1.5% cream – Incyte)
+is(are) considered not medically necessary for ANY other use(s) including the
+following (this list may not be all inclusive; criteria will be updated as newly
+published data are available):
+1. Concurrent Use with a Biologic or with other JAK inhibitors. Use of Opzelura in
+combination with therapeutic biologics or other JAK inhibitors is not recommended (see
+Appendix for examples).1 Use of biologics or other JAK inhibitors was prohibited during
+the Opzelura pivotal studies.2 There are no data evaluating combination use of Opzelura
+with these therapies; therefore, safety and efficacy of these combinations are unknown.
+2. Concurrent use with Other Potent Immunosuppressants (e.g., azathioprine,
+cyclosporine). Use of Opzelura in combination with potent immunosuppressants is not
+recommended.1 Use of systemic immunosuppressants was prohibited during the
+Opzelura pivotal studies.2 There are no data evaluating combination of Opzelura with
+these therapies; therefore, safety and efficacy of these combinations are unknown.
+3. Alopecia. Opzelura is not indicated for the treatment of alopecia.1 A Phase II study
+involving patients with alopecia areata did not find any significant improvement in hair
+regrowth with Opzelura 1.5% cream compared with vehicle.7 Additional data are
+needed to establish the efficacy and safety of Opzelura in patients with alopecia.
+6 Pages - Cigna National Formulary Coverage - Policy:Dermatology – Opzelura Prior Authorization Policy
+4. Plaque Psoriasis. Opzelura is not indicated for the treatment of plaque psoriasis.1
+There are very limited Phase II data regarding the use of Opzelura in patients with
+plaque psoriasis.8,9 Additional data are needed to establish the efficacy and safety of
+Opzelura in patients with plaque psoriasis.
+REFERENCES
+1. Opzelura® cream [prescribing information]. Wilmington, DE: Incyte; August 2024.
+2. Papp K, Szepietowski JC, Sun K, et al. Efficacy and safety of ruxolitinib cream for the
+treatment of atopic dermatitis: results from two phase 3, randomized, double-blind
+studies. J Am Acad Dermatol. 2021;85:863-872.
+3. Kim BS, Howell MD, Sun K, et al. Treatment of atopic dermatitis with ruxolitinib cream
+(JAK1/JAK2 inhibitor) or triamcinolone cream. J Allergy Clin Immunol.
+2020;145(2):572-582.
+4. Rosmarin D, Passeron T, Pandya AG, et al. Two phase 3, randomized, controlled trials of
+ruxolitinib cream for vitiligo. N Engl J Med. 2022;387(16):1445-1455.
+5. Sidbury R, Alikhan A, Bercovitch L, et al. Guidelines of care for the management of
+atopic dermatitis in adults with topical therapies. J Am Acad Dermatol. 2023;89(1):e1-
+e20.
+6. Seneschal J, Speekaert R, Taieb A, et al. Worldwide expert recommendations for the
+diagnosis and management of vitiligo: position statement from the International Vitiligo
+Task Force—Part 2: specific treatment recommendations. J Eur Acad Dermatol
+Venereol. 2023;37(11):2185-2195.
+7. Olsen EA, Kornacki D, Sun K, et al. Ruxolitinib cream for the treatment of patients with
+alopecia areata: a 2-part, double-blind, randomized, vehicle-controlled phase 2 study.
+J Am Acad Dermatol. 2020;82(2):412-419.
+8. US National Institutes of Health. In: ClinicalTrials.gov [Internet]. Bethesda (MD):
+National Library of Medicine (US). 2000- [cited 2025 June 10]. Available from:
+https://clinicaltrials.gov/. Search term: ruxolitinib cream.
+9. Punwani N, Scherle P, Flores R, et al. Preliminary clinical activity of a topical JAK1/2
+inhibitor in the treatment of psoriasis. J Am Acad Dermatol. 2012;67(4):658-664.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 08/16/2023
+Revision
+Annual No criteria changes. 09/04/2024
+Revision
+The Appendix was updated to include the following biologic agents:
+Zymfentra (infliximab-dyyb subcutaneous [SC] injection), Omvoh™
+(mirikizumab-mrkz SC and IV injection), Leqselvi™ (deuruxolitinib
+tablets), Litfulo™ (ritlecitinib capsules), Nemluvio® (nemlizumab-ilto
+SC injection), Zeposia® (ozanimod tablets), Velsipity® (etrasimod
+tablets), and biosimilars to Actemra.
+Early Annual Atopic Dermatitis: Criteria were updated to require a trial of either 06/25/2025
+Revision one medium-, medium-high, high-, and/or super-high-potency
+prescription topical corticosteroid OR a topical calcineurin inhibitor.
+Previously, criteria required a trial of both a medium-, medium-high,
+high-, and/or super-high-potency prescription topical corticosteroid
+and a topical calcineurin inhibitor. The criterion allowing an
+exception to a prescription topical corticosteroid trial for a patient
+treating atopic dermatitis affecting the face, eyes/eyelids, skin folds,
+and/or genitalia was removed (not needed).
+6 Pages - Cigna National Formulary Coverage - Policy:Dermatology – Opzelura Prior Authorization Policy
+Vitiligo: Criteria were updated to require a trial of either one high-,
+and/or super-high-potency prescription topical corticosteroid OR a
+topical calcineurin inhibitor. Previously, criteria required a trial of
+both a high-, and/or super-high-potency prescription topical
+corticosteroid and a topical calcineurin inhibitor. The criterion
+allowing an exception to a prescription topical corticosteroid trial for
+a patient treating vitiligo affecting the face, eyes/eyelids, skin folds,
+and/or genitalia was removed (not needed).
+The Appendix was updated to include the following biologic agents:
+biosimilars to Stelara, Bimzelx® (bimekizumab-bkzx SC injection),
+Cosentyx® (secukinumab IV infusion), Skyrizi® (risankizumab-rzaa
+IV infusion), Tremfya (guselkumab IV infusion), Entyvio
+(vedolizumab SC injection), Rinvoq® LQ (upadacitinib oral solution),
+and Ebglyss™ (lebrikizumab-lbkz SC injection).
+APPENDIX
+Table 1. Examples of Other Therapeutic Biologics and Other JAK Inhibitors.
+Product Mechanism of Action
+Adalimumab SC Products (Humira®, biosimilars) Inhibition of TNF
+Cimzia (certolizumab pegol SC injection) Inhibition of TNF
+Etanercept SC Products (Enbrel, biosimilars) Inhibition of TNF
+Infliximab IV Products (Remicade®, biosimilars) Inhibition of TNF
+Simponi®, Simponi® Aria™ (golimumab SC injection; Inhibition of TNF
+golimumab IV infusion)
+Zymfentra® (infliximab-dyyb SC injection) Inhibition of TNF
+Tocilizumab Products (Actemra® IV, biosimilar; Actemra SC, Inhibition of IL-6
+biosimilar)
+Kevzara® (sarilumab SC injection) Inhibition of IL-6
+Orencia® (abatacept IV infusion, abatacept SC injection) T-cell costimulation modulator
+Rituximab IV Products (Rituxan®, biosimilars) CD20-directed cytolytic antibody
+Kineret® (anakinra SC injection) Inhibition of IL-1
+Ustekinumab Products (Stelara® SC, biosimilars; Stelara IV, Inhibition of IL-12/23
+biosimilars)
+Siliq® (brodalumab SC injection) Inhibition of IL-17
+Bimzelx® (bimekizumab-bkzx SC injection) Inhibition of IL-17A/17F
+Cosentyx® (secukinumab IV infusion; secukinumab SC Inhibition of IL-17A
+injection)
+Taltz® (ixekizumab SC injection) Inhibition of IL-17A
+Ilumya® (tildrakizumab-asmn SC injection) Inhibition of IL-23
+Omvoh™ (mirikizumab-mrkz SC injection, mirikizumab IV Inhibition of IL-23
+injection)
+Skyrizi® (risankizumab-rzaa SC injection; risankizumab-rzaa Inhibition of IL-23
+IV infusion)
+Tremfya® (guselkumab SC injection; guselkumab IV infusion) Inhibition of IL-23
+Entyvio® (vedolizumab IV infusion; vedolizumab SC injection) Integrin receptor antagonist
+Otezla® (apremilast tablets) Inhibition of PDE4
+Sotyktu™ (deucravacitinib tablets) Inhibition of TYK2
+Inrebic® (fedratinib tablets) Inhibition of JAK pathways
+Jakafi® (ruxolitinib tablets) Inhibition of JAK pathways
+Leqselvi™ (deuruxolitinib tablets) Inhibition of JAK pathways
+Olumiant® (baricitinib tablets) Inhibition of JAK pathways
+Cibinqo® (abrocitinib tablets) Inhibition of JAK pathways
+Rinvoq® (upadacitinib extended-release tablets) Inhibition of JAK pathways
+6 Pages - Cigna National Formulary Coverage - Policy:Dermatology – Opzelura Prior Authorization Policy
+Rinvoq® LQ (upadacitinib oral solution) Inhibition of JAKE pathways
+Xeljanz® (tofacitinib tablets, oral solution) Inhibition of JAK pathways
+Xeljanz® XR (tofacitinib extended-release tablets) Inhibition of JAK pathways
+Litfulo® (ritlecitinib capsules) Inhibition of kinases
+Xolair® (omalizumab SC injection) IgE antagonist
+Dupixent® (dupilumab SC injection) IL-4 receptor antagonist
+Cinqair® (reslizumab IV injection) IL-5 antagonist
+Nucala® (mepolizumab SC injection) IL-5 antagonist
+Fasenra® (benralizumab SC injection) IL-5 receptor antagonist
+Adbry® (tralokinumab-ldrm SC injection) IL-13 antagonist
+Ebglyss™ (lebrikizumab-lbkz SC injection) IL-13 antagonist
+Nemluvio® (nemlizumab-ilto SC injection) IL-31 receptor antagonist
+Zeposia® (ozanimod tablets) Sphingosine 1 phosphate receptor
+modulator
+Velsipity® (etrasimod tablets) Sphingosine 1 phosphate receptor
+modulator
+Tezspire® (tezepelumab-ekko SC injection) TSLP blocker
+JAK – Janus kinase; SC – Subcutaneous; TNF – Tumor necrosis factor; IV – Intravenous; IL –
+Interleukin; PDE4 – Phosphodiesterase 4; TYK2 – Tyrosine kinase 2; IgE – Immunoglobulin E; TSLP –
+Thymic stromal lymphopoietin.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+6 Pages - Cigna National Formulary Coverage - Policy:Dermatology – Opzelura Prior Authorization Policy

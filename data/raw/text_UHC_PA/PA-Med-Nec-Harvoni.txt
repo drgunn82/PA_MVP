@@ -1,0 +1,300 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2052-17
+Program Prior Authorization/Medical Necessity
+Medication Harvoni® (ledipasvir/sofosbuvir)
+P&T Approval Date 4/2015, 8/2015, 11/2015, 8/2016, 12/2016, 9/2017, 11/2017, 6/2019,
+3/2020, 5/2021, 5/2022, 5/2023, 5/2024, 5/2025
+Effective Date 8/1/2025
+1. Background:
+Harvoni® (ledipasvir/sofosbuvir) is a fixed-dose combination of ledipasvir, a hepatitis C virus
+(HCV) NS5A inhibitor, and sofosbuvir, an HCV nucleotide analog NS5B polymerase inhibitor,
+and is indicated for the treatment of chronic HCV in adults and pediatric patients 3 years of age
+and older:
+• Genotype 1, 4, 5, or 6 infection without cirrhosis or with compensated cirrhosis
+• Genotype 1 infection with decompensated cirrhosis, in combination with ribavirin
+• Genotype 1 or 4 infection who are liver transplant recipients without cirrhosis or with
+compensated cirrhosis, in combination with ribavirin.
+2. Coverage Criteriaa:
+A. For the treatment of chronic hepatitis C genotype 1 infection in treatment-naïve patients
+without cirrhosis who have pre-treatment HCV RNA less than 6 million IU/mL, Harvoni will
+be approved based on all of the following criteria:
+1. Diagnosis of chronic hepatitis C genotype 1 infection
+-AND-
+2. Patient is treatment-naive [patient has not experienced treatment failure (defined as viral
+relapse, breakthrough while on therapy, or non-responder to therapy) with peginterferon
+plus ribavirin or peginterferon plus ribavirin plus an HCV protease inhibitor (e.g., Incivek,
+Olysio, Victrelis) or Sovaldi (sofosbuvir)]
+-AND-
+3. Submission of laboratory report documenting a pre-treatment HCV RNA less than 6
+million IU/mL
+-AND-
+4. Physician/provider asserts patient demonstrates treatment readiness, including the ability
+to adhere to the treatment regimen
+-AND-
+5. Patient is not receiving Harvoni in combination with another HCV direct acting antiviral
+© 2025 UnitedHealthcare Services, Inc.
+1
+agent [e.g., Sovaldi (sofosbuvir)]
+Authorization will be issued for 8 weeks.
+B. For the treatment of chronic hepatitis C genotype 1 infection in treatment-naïve patients who
+are without cirrhosis and have a pre-treatment HCV RNA equal to or greater than 6 million
+IU/mL OR have compensated cirrhosis regardless of pre-treatment HCV RNA level, Harvoni
+will be approved based on all of the following criteria:
+1. Diagnosis of chronic hepatitis C genotype 1 infection
+-AND-
+2. Patient is treatment-naive [patient has not experienced treatment failure (defined as viral
+relapse, breakthrough while on therapy, or non-responder to therapy) with peginterferon
+plus ribavirin or peginterferon plus ribavirin plus an HCV protease inhibitor (e.g., Incivek,
+Olysio, Victrelis) or Sovaldi (sofosbuvir)]
+-AND-
+3. One of the following:
+a. Both of the following:
+i. Patient is without cirrhosis
+-AND-
+ii. Submission of laboratory report documenting a pre-treatment HCV RNA equal to
+or greater than 6 million IU/mL
+-OR-
+b. Patient has compensated cirrhosis (Child-Pugh A)
+-AND-
+4. Physician/provider asserts patient demonstrates treatment readiness, including the ability
+to adhere to the treatment regimen
+-AND-
+5. Patient is not receiving Harvoni in combination with another HCV direct acting antiviral
+agent [e.g., Sovaldi (sofosbuvir)]
+-AND-
+6. One of the following:
+© 2025 UnitedHealthcare Services, Inc.
+2
+a. History of intolerance or contraindication to Epclusa therapy
+-OR-
+b. Patient is currently on Harvoni therapy
+Authorization will be issued for 12 weeks.
+C. For the treatment of chronic hepatitis C genotype 1 infection in treatment-naïve OR treatment-
+experienced patients with decompensated cirrhosis, Harvoni will be approved based on all of
+the following criteria:
+1. Diagnosis of chronic hepatitis C genotype 1 infection
+-AND-
+2. One of the following:
+a. Patient is treatment-naive [patient has not experienced treatment failure (defined as
+viral relapse, breakthrough while on therapy, or non-responder to therapy) with
+peginterferon plus ribavirin or peginterferon plus ribavirin plus an HCV protease
+inhibitor (e.g., Incivek, Olysio, Victrelis) or Sovaldi (sofosbuvir)]
+-OR-
+b. Patient has experienced treatment failure, defined as viral relapse/breakthrough while
+on therapy or non-responder to therapy, with a previous treatment regimen that
+included peginterferon plus ribavirin or an HCV protease inhibitor (e.g., Incivek,
+Olysio, Victrelis) plus peginterferon plus ribavirin or Sovaldi (sofosbuvir)
+-AND-
+3. Both of the following:
+a. Patient has decompensated liver disease (Child-Pugh B or C)
+-AND-
+b. Used in combination with ribavirin
+-AND-
+4. Physician/provider asserts patient demonstrates treatment readiness, including the ability
+to adhere to the treatment regimen
+-AND-
+5. Patient is not receiving Harvoni in combination with another HCV direct acting antiviral
+© 2025 UnitedHealthcare Services, Inc.
+3
+agent [e.g., Sovaldi (sofosbuvir)]
+-AND-
+6. One of the following:
+a. History of intolerance or contraindication to Epclusa therapy
+-OR-
+b. Patient is currently on Harvoni therapy
+Authorization will be issued for 12 weeks.
+D. For the treatment of chronic hepatitis C genotype 1 infection in treatment-experienced patients
+without cirrhosis, Harvoni will be approved based on all of the following criteria:
+1. Diagnosis of chronic hepatitis C genotype 1 infection
+-AND-
+2. Patient has experienced treatment failure, defined as viral relapse/breakthrough while on
+therapy or non-responder to therapy, with a previous treatment regimen that included
+peginterferon plus ribavirin or an HCV protease inhibitor (e.g., Incivek, Olysio, Victrelis)
+plus peginterferon plus ribavirin or Sovaldi (sofosbuvir)
+-AND-
+3. Patient is without cirrhosis
+-AND-
+4. Physician/provider asserts patient demonstrates treatment readiness, including the ability
+to adhere to the treatment regimen
+-AND-
+5. Patient is not receiving Harvoni in combination with another HCV direct acting antiviral
+agent [e.g., Sovaldi (sofosbuvir)]
+-AND-
+6. One of the following:
+a. History of intolerance or contraindication to Epclusa therapy
+-OR-
+b. Patient is currently on Harvoni therapy
+© 2025 UnitedHealthcare Services, Inc.
+4
+Authorization will be issued for 12 weeks.
+E. For the treatment of chronic hepatitis C genotype 1 infection in treatment-experienced patients
+with compensated cirrhosis, Harvoni will be approved based on all of the following criteria:
+1. Diagnosis of chronic hepatitis C genotype 1 infection
+-AND-
+2. Patient has experienced treatment failure, defined as viral relapse/breakthrough while on
+therapy or non-responder to therapy, with a previous treatment regimen that included
+peginterferon plus ribavirin or an HCV protease inhibitor (e.g., Incivek, Olysio, Victrelis)
+plus peginterferon plus ribavirin or Sovaldi (sofosbuvir)
+-AND-
+3. Patient has compensated cirrhosis (Child-Pugh A)
+-AND-
+4. Physician/provider asserts patient demonstrates treatment readiness, including the ability
+to adhere to the treatment regimen
+-AND-
+5. Patient is not receiving Harvoni in combination with another HCV direct acting antiviral
+agent [e.g., Sovaldi (sofosbuvir)]
+-AND-
+6. One of the following:
+a. History of intolerance or contraindication to Epclusa therapy
+-OR-
+b. Patient is currently on Harvoni therapy
+Authorization will be issued for 24 weeks.
+F. For the treatment of chronic hepatitis C genotype 1 or 4 infection in treatment-naïve and
+treatment-experienced liver transplant recipients who are without cirrhosis or have
+compensated cirrhosis, Harvoni will be approved based on all of the following criteria:
+1. Diagnosis of chronic hepatitis C genotype 1 or 4 infection
+© 2025 UnitedHealthcare Services, Inc.
+5
+-AND-
+2. One of the following:
+a. Patient is treatment-naive [patient has not experienced treatment failure (defined as
+viral relapse, breakthrough while on therapy, or non-responder to therapy) with
+peginterferon plus ribavirin or peginterferon plus ribavirin plus an HCV protease
+inhibitor (e.g., Incivek, Olysio, Victrelis) or Sovaldi (sofosbuvir)]
+-OR-
+b. Patient has experienced treatment failure, defined as viral relapse/breakthrough while
+on therapy or non-responder to therapy, with a previous treatment regimen that
+included peginterferon plus ribavirin or an HCV protease inhibitor (e.g., Incivek,
+Olysio, Victrelis) plus peginterferon plus ribavirin or Sovaldi (sofosbuvir)
+-AND-
+3. Both of the following:
+a. Patient has received a liver transplant
+-AND-
+b. Used in combination with ribavirin
+-AND-
+4. One of the following:
+a. Patient is without cirrhosis
+-OR-
+b. Patient has compensated cirrhosis (Child-Pugh A)
+-AND-
+5. Physician/provider asserts patient demonstrates treatment readiness, including the ability
+to adhere to the treatment regimen
+-AND-
+6. Patient is not receiving Harvoni in combination with another HCV direct acting antiviral
+agent [e.g., Sovaldi (sofosbuvir)]
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+6
+7. One of the following:
+a. History of intolerance or contraindication to Epclusa therapy
+-OR-
+b. Patient is currently on Harvoni therapy
+Authorization will be issued for 12 weeks.
+G. For the treatment of chronic hepatitis C genotype 4, 5 or 6 infection in treatment-naïve or
+treatment-experienced patients who are without cirrhosis or have compensated cirrhosis,
+Harvoni will be approved based on all of the following criteria:
+1. Diagnosis of chronic hepatitis C genotype 4, 5 or 6 infection
+-AND-
+2. One of the following:
+a. Patient is without cirrhosis
+-OR-
+b. Patient has compensated cirrhosis (Child-Pugh A)
+-AND-
+3. Physician/provider asserts patient demonstrates treatment readiness, including the ability
+to adhere to the treatment regimen
+-AND-
+4. Patient is not receiving Harvoni in combination with another HCV direct acting antiviral
+agent [e.g., Sovaldi (sofosbuvir)]
+-AND-
+5. One of the following:
+a. History of intolerance or contraindication to Epclusa therapy
+-OR-
+b. Patient is currently on Harvoni therapy
+Authorization will be issued for 12 weeks.
+© 2025 UnitedHealthcare Services, Inc.
+7
+H. For the treatment of chronic hepatitis C genotype 1, 4, 5, or 6 infection in treatment-naïve and
+non-direct acting antiviral treatment-experienced kidney transplant recipients who are without
+cirrhosis or have compensated cirrhosis, Harvoni will be approved based on all of the
+following criteria:
+1. Diagnosis of chronic hepatitis C genotype 1, 4, 5, or 6 infection
+-AND-
+2. One of the following:
+a. Patient is treatment-naive [patient has not experienced treatment failure (defined as
+viral relapse, breakthrough while on therapy, or nonresponder to therapy) with
+peginterferon plus ribavirin or peginterferon plus ribavirin plus an HCV protease
+inhibitor (e.g., Incivek, Olysio, Victrelis) or Sovaldi (sofosbuvir)]
+-OR-
+b. Patient has not been previously treated with a direct acting antiviral [e.g., Sovaldi
+(sofosbuvir)]
+-AND-
+3. Patient has received a kidney transplant
+-AND-
+4. One of the following:
+a. Patient is without cirrhosis
+-OR-
+b. Patient has compensated cirrhosis (Child-Pugh A)
+-AND-
+5. Physician/provider asserts patient demonstrates treatment readiness, including the ability
+to adhere to the treatment regimen
+-AND-
+6. Patient is not receiving Harvoni in combination with another HCV direct acting antiviral
+agent [e.g., Sovaldi (sofosbuvir)]
+© 2025 UnitedHealthcare Services, Inc.
+8
+-AND-
+7. One of the following:
+a. History of intolerance or contraindication to Epclusa therapy
+-OR-
+b. Patient is currently on Harvoni therapy
+Authorization will be issued for 12 weeks.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply Limits may be in place.
+4. References:
+1. Harvoni [package insert]. Foster City, CA: Gilead Sciences, Inc.; December 2024.
+2. American Association for the Study of Liver Diseases and the Infectious Diseases Society of
+America. Recommendations for Testing, Managing, and Treating Hepatitis C.
+http://www.hcvguidelines.org/full-report-view. Accessed April 9, 2025.
+Program Prior Authorization/Medical Necessity - Harvoni (ledipasvir/sofosbuvir)
+Change Control
+4/2015 Coverage requirements for State of New Jersey effective 5/18/2015.
+8/2015 Added criteria for genotype 4 infection
+11/2015 Changed program title to include all lines of business, added genotypes 5
+and 6, and updated language regarding documentation of liver fibrosis.
+8/2016 Revised treatment-experienced with cirrhosis criteria to include ribavirin
+and Epclusa.
+11/2016 Added California coverage information.
+12/2016 Removed abstinence-based criteria and replaced with treatment readiness
+screening criteria. Added Maryland, Indiana and West Virginia coverage
+information.
+5/2017 Administrative update to reorder criteria. State mandate reference
+language updated.
+5/2017 Administrative update to correct formatting.
+9/2017 Revised step therapy criteria based on new product availability, included
+NY prescriber requirement, removed treatment readiness screening tools
+and removed medical record submission requirements.
+© 2025 UnitedHealthcare Services, Inc.
+9
+11/2017 Update to language in Genotype 1 criteria for treatment naïve
+compensated cirrhotic patients.
+6/2019 Annual review. Added kidney transplant recipient section based on
+AASLD guidelines to allow for 12 weeks of therapy. Updated references.
+3/2020 Added requirement of Epclusa use for requests greater than 8 weeks.
+Clarified kidney transplant criteria to align with current AASLD
+guidelines. Updated background and references.
+5/2021 Annual review. Removed prescriber requirement. Updated references.
+5/2022 Reformatted criteria. Updated references.
+5/2023 Annual review. Updated references.
+5/2024 Annual review. Removed liver disease staging criteria that was included
+for quality purposes rather than part of coverage decision. Updated
+references.
+5/2025 Annual review. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+10

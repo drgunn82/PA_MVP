@@ -1,0 +1,236 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Human Immunodeficiency Virus – Rukobia Prior Authorization Policy
+• Rukobia™ (fostemsavir extended-release tablets –
+ViiV/GlaxoSmithKline)
+REVIEW DATE: 07/16/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Rukobia is a human immunodeficiency virus-1 (HIV-1) gp120-directed attachment
+inhibitor.1 It is indicated in combination with other antiretroviral(s) [ARVs] for the
+treatment of HIV-1 infection in heavily treatment-experienced adults with
+multidrug-resistant HIV-1 infection failing their current ARV regimen due to
+resistance, intolerance, or safety considerations.
+Clinical Efficacy
+The efficacy of Rukobia was established in one ongoing, Phase III, multicenter, 96-
+week pivotal study in heavily treatment-experienced adults with HIV-1 infection
+failing their current ARV regimen (BRIGHTE; n = 371).2,5 Eligible patients were ≥ 18
+years of age and had failure of their current ARV regimen (baseline HIV-1 RNA ≥ 400
+copies/mL), with no viable ARV combination therapy due to exhaustion of a least four
+Page 1 of 6: Cigna National Formulary Coverage - Policy: Human Immunodeficiency Virus -
+Rukobia Prior Authorization Policy
+of six ARV classes (i.e., nucleoside reverse transcriptase inhibitors, non-nucleoside
+reverse transcriptase inhibitors, integrase inhibitors, protease inhibitors, CCR5
+antagonists, and entry inhibitors). Exhaustion was defined as the elimination of all
+ARVs within a given class as a fully active option to pair with Rukobia because of
+resistance, previous adverse events, or unwillingness to use Fuzeon® (enfuvirtide
+subcutaneous injection). Patients were assigned to one of two cohorts, “randomized”
+or “non-randomized”, based on the number of fully active available ARVs with which
+to construct an optimized background regimen. Patients in the randomized cohort
+had one or two available fully active ARVs while those in the non-randomized cohort
+had no available fully active ARVs. There were 15 patients who received Trogarzo®
+(ibalizumab-uiyk intravenous injection) in combination with Rukobia in the original
+study (after approval of Rukobia, in 2018, 6 patients in the randomized cohort added
+Trogarzo to their optimized background therapy). At Week 48 (all patients on
+Rukobia + optimized background therapy), 54% of patients achieved viral
+suppression (HIV-1 RNA < 40 copies/mL) and CD4 T-cell count increased to a mean
+of 139 cells/mm3 (median baseline 99 cells/mm3). At Week 96, viral suppression was
+maintained or improved (60% of patients in the randomized cohort and 37% of
+patients in the non-randomized cohort).5 Virologic response rates (in the intent-to-
+treat population) at Week 240 decreased to 45% in the randomized cohort and to
+22% in the non-randomized cohort; however, this included 24 patients (n = 19 in
+the randomized cohort and n = 5 in the non-randomized cohort) who did not have
+virologic data due to Coronaviris-19-related disruptions to care. At Week 240, in the
+observed analysis, HIV-1 RNA was < 40 copies/mL in 82% of patients in the
+randomized cohort and in 66% of patients in the non-randomized cohort and was <
+400 copies/mL in 95% and 80% of patients in the randomized and non-randomized
+cohorts, respectively. Mean CD4 T-cell count increased through Week 192 in the
+randomized cohort and remained similar at Week 240; in the non-randomized cohort,
+CD4 T-cell count increased through Week 240. A safety analysis reported additional
+findings.7 At Week 102, 58% of patients with CD4 T-cell count < 200 cells/mm3 at
+baseline had on-treatment CD4 T-cell count reported at Week 192, and 75% of these
+patients had a CD4 T-cell count ≥ 200 cells/mm2. In addition, acquired
+immunodeficiency syndrome-defining events were lower among patients with CD4 T-
+cell count ≥ 200 cells/mm3 vs. < 200 cells/mm3.
+Page 2 of 6: Cigna National Formulary Coverage - Policy: Human Immunodeficiency Virus -
+Rukobia Prior Authorization Policy
+Guidelines
+According to the Department of Health and Human Services Guidelines (September
+12, 2024) for the use of Antiviral Agents in Adults and Adolescents with HIV Infection,
+treatment-experienced patients with ongoing detectable viremia who lack sufficient
+treatment options to construct a fully suppressive regimen may be candidates for
+Trogarzo, Rukobia, and/or Sunlenca® (lenacapavir tablets/subcutaneous injection).3
+Patients who continue to have detectable viremia and who lack sufficient treatment
+options to construct a fully suppressive regimen may also be candidates for research
+studies or expanded access programs, or they may qualify for single-patient access
+to an investigational new drug as specified in FDA regulations. The goal of therapy
+is maximal virologic suppression; however, if it cannot be achieved, the goals of
+therapy are to preserve immunologic function (e.g., CD4 T-cell count), prevent
+clinical progression, and minimize the development of further resistance that may
+compromise future regimens. CD4 T-cell count is recommended to be monitored at
+entry into care, when switching or modifying ARVs, and then every 3, 6, or 12 months
+depending on CD4 T-cell count and the duration of viral suppression. The CD4 count
+response to ARV therapy varies widely, but a poor CD4 response in a patient with
+viral suppression is rarely an indication for modifying a treatment regimen.
+The International Antiviral Society-USA Recommendations (2024) for the Treatment
+and Prevention of HIV in Adults recommend agents with novel mechanisms of action
+(e.g., Trogarzo, Rukobia, or Sunlenca), ideally in combination with two fully active
+ARVs in individuals with virologic failure with extensive multiclass resistance.4 In the
+setting of integrase strand-transfer inhibitor resistance, Trogarzo, Rukobia, or
+Sunlenca are similarly recommended in combination with two fully active ARVs.
+Consensus recommendations for the use of novel ARVs in individuals with HIV who
+are heavily treatment-experienced and/or have multidrug-resistant HIV-1 endorsed
+by the American Academy of HIV Medicine and the American College of Clinical
+Pharmacology (2024) recommend adding Rukobia to an optimized background
+regimen that includes at least one other active drug in patients with multidrug
+resistant HIV-1 who are heavily treatment-experienced and are unable to achieve or
+maintain viral suppression on their current ARV regimen.8 If an active drug cannot
+be included in the optimized background regimen, then the regimen should include
+partially active agents (preferably several). Prior treatment with Trogarzo should not
+impact candidacy for Rukobia.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Rukobia. All
+approvals are provided for the duration noted below. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Rukobia as well as the
+monitoring required for adverse events and long-term efficacy, initial approval
+requires Rukobia to be prescribed by or in consultation with a physician who
+specializes in the condition being treated.
+Page 3 of 6: Cigna National Formulary Coverage - Policy: Human Immunodeficiency Virus -
+Rukobia Prior Authorization Policy
+• Rukobia™ (fostemsavir extended-release tablets –
+ViiV/GlaxoSmithKline)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Human Immunodeficiency Virus (HIV)-1 Infection. Approve for the
+duration noted if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, iii, iv, and v):
+i. Patient is ≥ 18 years of age; AND
+ii. According to the prescriber, the patient is failing a current antiretroviral
+regimen for HIV; AND
+iii. According to the prescriber, the patient has exhausted at least FOUR of the
+following antiretroviral classes defined as elimination of all antiretrovirals
+within a given class due to demonstrated or projected resistance to the
+agent(s) in that class OR due to significant intolerance (at least FOUR of a,
+b, c, d, e, or f):
+a) Nucleoside reverse transcriptase inhibitor; OR
+Note: Examples of nucleoside reverse transcriptase inhibitors include
+abacavir, didanosine, emtricitabine, lamivudine, stavudine, tenofovir
+disoproxil fumarate, tenofovir alafenamide, zidovudine.
+b) Non-nucleoside reverse transcriptase inhibitor; OR
+Note: Examples of non-nucleoside reverse transcriptase inhibitor
+include delavirdine, efavirenz, etravirine, nevirapine, nevirapine XR,
+rilpivirine.
+c) Protease inhibitor; OR
+Note: Examples of protease inhibitors include atazanavir, darunavir,
+fosamprenavir, indinavir, nelfinavir, ritonavir, saquinavir, tipranavir.
+d) Fusion inhibitor; OR
+Note: Examples of fusion inhibitors include Fuzeon (enfuvirtide
+subcutaneous injection).
+e) Integrase strand transfer inhibitor; OR
+Note: Examples of integrase strand-transfer inhibitors include
+raltegravir, dolutegravir, elvitegravir.
+f) CCR5 antagonist; AND
+Note: Examples of CCR5 antagonists include Selzentry (maraviroc
+tablets).
+iv. The medication will be taken in combination with an optimized antiviral
+background regimen including one or more other antiretroviral agents; AND
+v. The medication is prescribed by or in consultation with a physician who
+specializes in the treatment of HIV infection.
+B) Patient is Currently Receiving Rukobia. Approve for 1 year if the patient meets
+BOTH of the following (i and ii):
+Page 4 of 6: Cigna National Formulary Coverage - Policy: Human Immunodeficiency Virus -
+Rukobia Prior Authorization Policy
+i. The medication will continue to be taken in combination with an optimized
+antiviral background regimen including one or more other antiretroviral
+agents; AND
+ii. Patient has responded to a Rukobia-containing regimen, as determined by
+the prescriber.
+Note: Examples of a response are HIV RNA < 40 cells/mm3, HIV-1 RNA ≥
+0.5 log reduction from baseline in viral load, improvement or stabilization
+10
+of CD4 T-cell count.
+CONDITIONS NOT COVERED
+• Rukobia™ (fostemsavir extended-release tablets –
+ViiV/GlaxoSmithKline)
+is(are) considered not medically necessary for ANY other use(s); criteria will
+be updated as new published data are available.
+REFERENCES
+1. Rukobia™ extended-release tablets [prescribing information]. Research Triangle Park, NC:
+ViiV/GlaxoSmithKline; February 2024.
+2. Kozal M, Aberg J, Pialoux G, et al. Fostemsavir in adults with multidrug-resistant HIV-1 infection.
+N Engl J Med. 2020;382(13):1232-1243.
+3. Panel on Antiretroviral Guidelines for Adults and Adolescents. Guidelines for the use of antiretroviral
+agents in adults and
+adolescents with HIV. Department of Health and Human Services. Last Updated: September 12,
+2024. Available at: https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-
+adolescent-arv/whats-new. Accessed on: July 8, 2025.
+4. Ghandi RT, Landovitz RJ, Sax PE, et al. Antiretroviral drugs for treatment and prevention of HIV in
+adults: 2024 recommendations of the international antiviral society-USA Panel. JAMA.
+2025;333(7):609-628.
+5. Lataillade M, Lalezari J, Kozal M, et al. Safety and efficacy of the HIV-1 attachment inhibitor prodrug
+fostemsavir in heavily treatment-experienced individuals: week 96 results of the phase 3 BRIGHTE
+study. Lancet HIV. 2020; 7(11):e740-e751.
+6. Aberg JA, Shepard B, Wang M, et al. Week 240 efficacy and safety of fostemsavir plus optimized
+background therapy in heavily treatment-experienced adults with HIV-1. Infect Dis Ther.
+2023;12:2321-2335.
+7. llibre JM, Aberg JA, Walmsley S, et al. Long-term safety and impact of immune recovery in heavily
+treatment-experienced adults receiving fostemsavir for up to 5 years in the phase 3 BRIGHTE study.
+Front Immunol. 2024;15:1394664.
+8. Cluck DB, Chastain DB, Murray M, et al. Consensus recommendations for the use of novel
+antiretrovirals in persons with HIV who are heavily treatment-experienced and/or have multidrug-
+resistant HIV-1: Endorsed by the American Academy of HIV Medicine, American College of Clinical
+Pharmacy. Pharmacotherapy. 2024;44;360.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 07/12/2023
+Revision
+Annual Human Immunodeficiency Virus-1 Infection. The indication 07/17/2024
+Revision was modified from Human Immunodeficiency Virus Infection to
+Human Immunodeficiency Virus-1 Infection. Initial Therapy The
+Page 5 of 6: Cigna National Formulary Coverage - Policy: Human Immunodeficiency Virus -
+Rukobia Prior Authorization Policy
+criterion requiring the patient to have human immunodeficiency
+virus type 1 was removed (this is now captured in the approval
+indication). Patient is Currently Receiving Rukobia The criterion
+requiring the patient to have human immunodeficiency virus type 1
+was removed (this is now captured in the approval indication). The
+note with examples of a response to a Rukobia-containing regimen
+was updated to add improvement or stabilization in CD4 T-cell count.
+Annual No criteria changes. 07/16/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 6 of 6: Cigna National Formulary Coverage - Policy: Human Immunodeficiency Virus -
+Rukobia Prior Authorization Policy

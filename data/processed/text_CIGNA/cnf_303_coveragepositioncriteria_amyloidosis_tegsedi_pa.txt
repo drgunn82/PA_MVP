@@ -1,0 +1,162 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Amyloidosis – Tegsedi Prior Authorization Policy
+• Tegsedi® (inotersen subcutaneous injection – Ionis/Akcea
+Therapeutics)
+REVIEW DATE: 12/04/2024
+INSTRUCTIONS FOR USE
+The following Coverage Policy applies to health benefit plans administered by Cigna Companies. Certain Cigna
+Companies and/or lines of business only provide utilization review services to clients and do not make coverage
+determinations. References to standard benefit plan language and coverage determinations do not apply to those
+clients. Coverage Policies are intended to provide guidance in interpreting certain standard benefit plans administered
+by Cigna Companies. Please note, the terms of a customer's particular benefit plan document [Group Service
+Agreement, Evidence of Coverage, Certificate of Coverage, Summary Plan Description (SPD) or similar plan
+document] may differ significantly from the standard benefit plans upon which these Coverage Policies are based.
+For example, a customer's benefit plan document may contain a specific exclusion related to a topic addressed in a
+Coverage Policy. In the event of a conflict, a customer's benefit plan document always supersedes the information in
+the Coverage Policies. In the absence of a controlling federal or state coverage mandate, benefits are ultimately
+determined by the terms of the applicable benefit plan document. Coverage determinations in each specific instance
+require consideration of 1) the terms of the applicable benefit plan document in effect on the date of service; 2) any
+applicable laws/regulations; 3) any relevant collateral source materials including Coverage Policies and; 4) the
+specific facts of the particular situation. Each coverage request should be reviewed on its own merits. Medical
+directors are expected to exercise clinical judgment and have discretion in making individual coverage
+determinations. Coverage Policies relate exclusively to the administration of health benefit plans. Coverage Policies
+are not recommendations for treatment and should never be used as treatment guidelines. In certain markets,
+delegated vendor guidelines may be used to support medical necessity and other coverage determinations.
+Cigna National Formulary Coverage:
+Overview
+Tegsedi, an antisense oligonucleotide, is indicated for treatment of adults with
+polyneuropathy of hereditary transthyretin-mediated amyloidosis (hATTR).1
+Tegsedi has not been studied in patients with a history of liver transplantation. hATTR
+is a progressive disease caused by mutations in the transthyretin (TTR) gene leading
+to multisystem organ dysfunction.2 Common neurologic manifestations include
+sensiomotor polyneuropathy, autonomic neuropathy, small-fiber polyneuropathy,
+and carpal tunnel syndrome.
+Guidelines
+A scientific statement from the American Heart Association (AHA) on the treatment
+of cardiomyopathy of hATTR (July 2020) includes recommendations related to
+polyneuropathy.3 Canadian guidelines for the treatment of patients with
+polyneuropathy (February 2021) and recommendations from the European Society
+of Cardiology (ESC) [2021] include treatment recommendations for hATTR
+polyneuropathy as well.2,4 The American College of Cardiology (ACC) expert
+consensus decision pathway on comprehensive multidisciplinary care for patients
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Amyloidosis – Tegsedi Prior Authorization Policy
+with cardiac amyloidosis (2023) mention Tegsedi for polyneuropathy of hATTR.5 In
+general, Onpattro and Tegsedi are recommended for patients with hATTR
+polyneuropathy.
+For patients with hATTR with polyneuropathy, the AHA recommends treatment with
+Onpattro or Tegsedi.3 For patients with hATTR with polyneuropathy and
+cardiomyopathy, Onpattro, Tegsedi, or Vyndamax/Vyndaqel are recommended. Use
+of combination therapy is discussed; however, it is noted that there is little data to
+support combination therapy.
+The Canadian guidelines recommend Onpattro and Tegsedi as first-line treatment to
+stop the progression of neuropathy and improve polyneuropathy in early and late
+stage hATTR with polyneuropathy.2
+The ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure
+note that TTR stabilization and reduction are the recommended basis of treatment
+for cardiomyopathy of hATTR.4 Onpattro and Tegsedi may be considered for patients
+with hATTR polyneuropathy and cardiomyopathy.
+Safety
+Tegsedi has a Boxed Warning regarding sudden and unpredictable thrombocytopenia
+which may be life-threatening.1 It is contraindicated in patients with a platelet count
+less than 100 x 109/L. Based on monitoring, Tegsedi may need to be interrupted or
+discontinued. Following discontinuation, continue to monitor platelet counts for 8
+weeks (or longer if platelet count is less than 100 x 109/L). Tegsedi also has a Boxed
+Warning regarding glomerulonephritis, which may require immunosuppressive
+treatment and may lead to dialysis-dependent renal failure. Due to the risks and
+frequent monitoring for both serious bleeding caused by severe thrombocytopenia
+and because of glomerulonephritis, Tegsedi is only available through a restricted
+distribution program under the Tegsedi REMS (Risk Evaluation and Mitigation
+Strategy).
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Tegsedi. All
+approvals are provided for the duration noted below. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Tegsedi as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Tegsedi to be prescribed by or in consultation with a physician who specializes in the
+condition being treated.
+• Tegsedi® (inotersen subcutaneous injection – Ionis/Akcea
+Therapeutics)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+4 Pages - Cigna National Formulary Coverage - Policy:Amyloidosis – Tegsedi Prior Authorization Policy
+FDA-Approved Indication
+1. Polyneuropathy of Hereditary Transthyretin–Mediated Amyloidosis
+(hATTR). Approve for 1 year if the patient meets ALL of the following (A, B, C,
+D, and E):
+A) Patient is ≥ 18 years of age; AND
+B) Patient has a transthyretin pathogenic variant as confirmed by genetic testing;
+AND
+C) Patient has symptomatic polyneuropathy; AND
+Note: Examples of polyneuropathy include reduced motor
+strength/coordination, and impaired sensation (e.g., pain, temperature,
+vibration, touch). Examples of assessments for symptomatic disease include
+history and clinical exam, electromyography, or nerve conduction velocity
+testing.
+D) Patient does not have a history of liver transplantation; AND
+E) The medication is prescribed by or in consultation with a neurologist,
+geneticist, or a physician who specializes in the treatment of amyloidosis.
+CONDITIONS NOT COVERED
+• Tegsedi® (inotersen subcutaneous injection – Ionis/Akcea
+Therapeutics)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria will
+be updated as new published data are available):
+1. Concurrent use with other medications indicated for the treatment of
+polyneuropathy of hereditary transthyretin-mediated amyloidosis or
+transthyretin-mediated amyloidosis-cardiomyopathy (e.g., Amvuttra
+[vutrisiran subcutaneous injection], Attruby [acoramidis tablets],
+Onpattro [patisiran lipid complex intravenous infusion], Wainua
+[eplontersen subcutaneous injection], or a tafamidis product).
+The requested medication should not be administered in combination with other
+medications indicated for polyneuropathy of hereditary transthyretin-mediated
+amyloidosis or transthyretin-mediated amyloidosis-cardiomyopathy. Combination
+therapy is generally not recommended due to a lack of controlled clinical trial data
+supporting additive efficacy.
+REFERENCES
+1. Tegsedi® injection [prescribing information]. Carlsbad, CA: Ionis/Akcea Therapeutics; January
+2024.
+2. Alcantara M, Mezi MM, Baker SK, et al. Canadian guidelines for hereditary transthyretin amyloidosis
+polyneuropathy management. Can J Nero Sci. 2022;49:7-18.
+3. Kittleson MM, Maurer MS, Ambardekar AV, et al; on behalf of the American Heart Association Heart
+Failure and Transplantation Committee of the Council on Clinical Cardiology. AHA scientific
+4 Pages - Cigna National Formulary Coverage - Policy:Amyloidosis – Tegsedi Prior Authorization Policy
+statement: cardiac amyloidosis: evolving diagnosis and management. Circulation. 2020;142:e7-
+e22.
+4. McDonagh TA, Metra M, Adamo M, et al. 2021 ESC guidelines for the diagnosis and treatment of
+acute and chronic heart failure. Eur Heart J. 2021;42:3599-3726.
+5. Kittleson M, Ruberg FL, Ambardekar AV, et al. A report of the American College of Cardiology
+Solution Set Oversight Committee. 2023 ACC expert consensus decision pathway on
+comprehensive multidisciplinary care for the patient with cardiac amyloidosis. JACC.
+2023;81(11):1076-1126.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 11/29/2023
+Revision
+Selected Conditions Not Covered 01/03/2024
+Revision Concomitant Use With Amvuttra (vutrisiran subcutaneous
+injection), Onpattro (patisiran lipid complex intravenous
+infusion), Wainua (eplontersen subcutaneous injection), or a
+Tafamidis Product. Wainua was added to this condition not
+recommended for approval.
+Annual Polyneuropathy of Hereditary Transthyretin-Mediated 12/04/2024
+Revision Amyloidosis (hATTR): For diagnosis confirmed by genetic testing,
+rephrased the term “mutation” to “pathogenic variant.”
+Conditions Not Covered: Concurrent use with other medications
+indicated for the treatment of polyneuropathy of hereditary
+transthyretin-mediated amyloidosis or transthyretin-mediated
+amyloidosis-cardiomyopathy (e.g., Amvuttra (vutrisiran
+subcutaneous injection), Attruby (acoramidis tablets), Onpattro
+(patisiran lipid complex intravenous infusion), Wainua (eplontersen
+subcutaneous injection), or a Tafamidis Product.) was changed to as
+listed (previously, concomitant use with Amvuttra [vutrisiran
+subcutaneous injection], Onpattro [patisiran lipid complex
+intravenous infusion], Wainua [eplontersen subcutaneous injection],
+or a Tafamidis product was listed).
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2024 The Cigna
+Group.
+4 Pages - Cigna National Formulary Coverage - Policy:Amyloidosis – Tegsedi Prior Authorization Policy

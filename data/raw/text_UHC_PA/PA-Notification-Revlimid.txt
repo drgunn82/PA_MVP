@@ -1,0 +1,396 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1090-14
+Program Prior Authorization/Notification
+Medication Revlimid® (lenalidomide)
+P&T Approval Date 6/2009, 3/2010, 6/2010, 9/2010, 12/2010, 9/2011, 8/2012, 7/2013,
+5/2014, 5/2015, 5/2016, 5/2017, 5/2018, 5/2019, 5/2020, 5/2021,
+5/2022, 5/2023, 5/2024, 5/2025
+Effective Date 8/1/2025
+1. Background:
+Revlimid® (lenalidomide) is a thalidomide analogue indicated for the treatment of adult patients
+with the following: multiple myeloma (MM), in combination with dexamethasone; MM, as
+maintenance following autologous hematopoietic stem cell transplantation (auto-HSCT);
+transfusion-dependent anemia due to low- or intermediate-1-risk myelodysplastic syndromes
+(MDS) associated with a deletion 5q abnormality with or without additional cytogenetic
+abnormalities; mantle cell lymphoma (MCL) whose disease has relapsed or progressed after two
+prior therapies, one of which included bortezomib; previously treated follicular lymphoma (FL),
+in combination with a rituximab product; and previously treated marginal zone lymphoma
+(MZL), in combination with a rituximab product.1
+The National Cancer Comprehensive Network (NCCN) also recommends use of Revlimid for
+treatment of the following B-Cell lymphomas: histologic transformation of indolent lymphomas
+to diffuse large B-cell lymphoma, mantle cell lymphoma, nodal marginal zone lymphoma, classic
+follicular lymphoma, extranodal marginal zone lymphoma of nongastric sites (noncutaneous),
+extranodal marginal zone lymphoma (EMZL) of the stomach, high-grade B-cell lymphoma,
+splenic marginal zone lymphoma, post-transplant lymphoproliferative disorders, diffuse large B-
+cell lymphoma, and HIV-related B-cell lymphomas. Additionally, NCCN recommends the use of
+Revlimid for Kaposi Sarcoma, primary CNS lymphoma, castleman disease, chronic lymphocytic
+leukemia (CLL)/small lymphocytic lymphoma (SLL), MDS/MPN overlap neoplasms,
+myelofibrosis-associated anemia, systemic light chain amyloidosis, classic Hodgkin lymphoma,
+Langerhans cell histiocytosis, Rosai-Dorfman disease, and the following T-cell lymphomas:
+hepatosplenic T-cell lymphoma, peripheral T-cell lymphoma, and adult T-cell
+leukemia/lymphoma.
+Because of the risk of serious malformations if given during pregnancy, there is an extensive risk
+management program requiring registration by patients, prescribers and dispensing pharmacies.
+Additional information about the lenalidomide Risk Evaluation and Mitigation Strategy (REMS)
+[Lenalidomide REMS] program may be found at http://www.lenalidomiderems.com/.4
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or under
+some circumstances. Some states also mandate usage of other Compendium references. Where such
+mandates apply, they supersede language in the benefit document or in the notification criteria.
+© 2025 UnitedHealthcare Services, Inc.
+1
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Revlimid will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Multiple Myeloma
+1. Initial Authorization
+a. Revlimid will be approved based on the following criterion:
+(1) Diagnosis of multiple myeloma
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Revlimid will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Revlimid
+therapy
+Authorization will be issued for 12 months.
+C. Myelodysplastic Syndromes (MDS)
+1. Initial Authorization
+a. Revlimid will be approved based on one of the following criteria:
+(1) Diagnosis of symptomatic anemia due to myelodysplastic syndrome (MDS)
+associated with a deletion 5q
+-OR-
+(2) Both of the following:
+(a) Diagnosis of symptomatic anemia due to myelodysplastic syndrome (MDS)
+without deletion 5q
+-AND-
+(b) One of the following:
+i. Both of the following:
+© 2025 UnitedHealthcare Services, Inc.
+2
+• One of the following:
+Ring sideroblasts ≥ 15%
+o
+Ring sideroblasts ≥ 5% with an SF3B1 mutation
+o
+• History of failure, contraindication, or intolerance to one of the
+following:
+Rytelo (imetelstat)
+o
+Reblozyl (luspatercept-aamt)
+o
+-OR-
+ii. All of the following:
+• One of the following:
+Ring sideroblasts < 15%
+o
+Ring sideroblasts < 5% with an SF3B1 mutation
+o
+• Serum erythropoetin levels ≤ 500 mU/mL
+• History of failure, contraindication, or intolerance to one of the
+following:
+Erythropoietin stimulating agent (ESA) [e.g., Epogen, Procrit,
+o
+Retacrit (epoetin alfa)] or darbepoetin alfa
+Reblozyl (luspatercept-aamt)
+o
+• Used in combination with an erythropoietin stimulating agent
+(ESA) [e.g., Epogen, Procrit, Retacrit (epoetin alfa)] or darbepoetin
+alfa
+-OR-
+iii. All of the following:
+• One of the following:
+Ring sideroblasts < 15%
+o
+Ring sideroblasts < 5% with an SF3B1 mutation
+o
+• Serum erythropoetin levels > 500 mU/mL
+• One of the following:
+Poor probability to respond to immunosuppressive therapy
+o
+(e.g., azacitidine, decitabine)
+History of failure, contraindication, or intolerance to
+o
+immunosuppressive therapy (e.g., azacitidine, decitabine)
+-OR-
+(3) Both of the following:
+(a) Diagnosis of MDS/MPN overlap neoplasm
+© 2025 UnitedHealthcare Services, Inc.
+3
+-AND-
+(b) One of the following:
+i. Patient has SF3B1 mutation and thrombocytosis
+ii. Patient has ring sideroblasts and thrombocytosis (MDS/MPN-RS-T)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Revlimid will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Revlimid
+therapy
+Authorization will be issued for 12 months.
+D. B-Cell Lymphomas
+1. Initial Authorization
+a. Revlimid will be approved based on one of the following criteria:
+(1) Diagnosis of one of the following:
+(a) Mantle cell lymphoma (MCL)
+(b) Extranodal marginal zone lymphoma of nongastric sites (noncutaneous)
+(c) Extranodal marginal zone lymphoma (EMZL) of the stomach
+(d) Classic follicular lymphoma
+(e) Nodal marginal zone lymphoma
+(f) Splenic marginal zone lymphoma
+-OR-
+(2) Both of the following:
+(a) One of the following diagnoses:
+i. HIV-related B-cell lymphoma
+ii. Diffuse large B-cell lymphoma
+iii. High-grade B-cell lymphoma
+iv. Histologic transformation of indolent lymphomas to diffuse large B-cell
+lymphoma
+v. Post-transplant lymphoproliferative disorders
+-AND-
+(b) Used as second line and subsequent therapy
+© 2025 UnitedHealthcare Services, Inc.
+4
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Revlimid will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Revlimid
+therapy
+Authorization will be issued for 12 months.
+E. Myelofibrosis-Associated Anemia
+1. Initial Authorization
+a. Revlimid will be approved based on all of the following criteria:
+(1) Diagnosis of myelofibrosis-associated anemia
+-AND-
+(2) Presence of del(5q) mutation
+-AND-
+(3) No symptomatic splenomegaly and/or constitutional symptoms
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Revlimid will be approved based on the following criterion:
+(1) Documentation of positive clinical response while on Revlimid therapy
+Authorization will be issued for 12 months.
+F. Hodgkin Lymphoma
+1. Initial Authorization
+a. Revlimid will be approved based on all of the following criteria:
+(1) Diagnosis of Hodgkin lymphoma
+-AND-
+(2) Used for primary refractory disease or suspected relapse
+© 2025 UnitedHealthcare Services, Inc.
+5
+-AND-
+(3) Patient is not a candidate for high-dose therapy and autologous stem cell rescue
+(HDT/ASCR)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Revlimid will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Revlimid
+therapy
+Authorization will be issued for 12 months.
+G. Systemic Light Chain Amyloidosis
+1. Initial Authorization
+a. Revlimid will be approved based on both of the following criteria:
+(1) Diagnosis of systemic light chain amyloidosis
+-AND-
+(2) Used in combination with one of the following:
+(a) Dexamethasone
+(b) Dexamethasone and cyclophosphamide
+(c) Dexamethasone and Ninlaro (ixazomib)
+(d) Dexamethasone and Darzalex (daratumumab)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Revlimid will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Revlimid
+therapy
+Authorization will be issued for 12 months.
+H. Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+1. Initial Authorization
+a. Revlimid will be approved based on all the following criteria:
+© 2025 UnitedHealthcare Services, Inc.
+6
+(1) Diagnosis of chronic lymphocytic leukemia (CLL) / small lymphocytic
+lymphoma (SLL)
+-AND-
+(2) Disease is relapsed or refractory
+-AND-
+(3) Used after prior therapy with Bruton Tyrosine Kinase (BTK) inhibitor- and
+venetoclax-based regimens
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Revlimid will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Revlimid
+therapy
+Authorization will be issued for 12 months.
+I. T-Cell Lymphomas
+1. Initial Authorization
+a. Revlimid will be approved based on one of the following criteria:
+(1) Both of the following:
+(a) Diagnosis of peripheral T-cell lymphoma
+-AND-
+(b) One of the following:
+i. Used as initial palliative intent therapy
+ii. Used as second-line and subsequent therapy
+-OR-
+(2) Both of the following:
+(a) Diagnosis of adult T-cell lymphoma
+(b) Used as second-line and subsequent therapy
+-OR-
+(3) Both of the following:
+© 2025 UnitedHealthcare Services, Inc.
+7
+(a) Diagnosis of hepatosplenic T-cell lymphoma
+(b) Used for refractory disease after two first-line therapy regimens
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Revlimid will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Revlimid
+therapy
+Authorization will be issued for 12 months.
+J. Central Nervous System Cancers – Primary CNS Lymphomas
+1. Initial Authorization
+a. Revlimid will be approved based on the following criterion:
+(1) Diagnosis of primary central nervous system lymphoma
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Revlimid will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Revlimid
+therapy
+Authorization will be issued for 12 months.
+K. Kaposi Sarcoma
+1. Initial Authorization
+a. Revlimid will be approved based on both of the following criteria:
+(1) One of the following:
+(a) Diagnosis of HIV-negative Kaposi Sarcoma
+-OR-
+(b) Both of the following:
+i. Diagnosis of HIV-related Kaposi Sarcoma
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+8
+ii. Patient is currently being treated with antiretroviral therapy (ART)
+-AND-
+(2) Disease has progressed or not responded to two different systemic first-line
+systemic therapies (e.g., liposomal doxorubicin, sirolimus, paclitaxel)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Revlimid will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Revlimid
+therapy
+Authorization will be issued for 12 months.
+L. Histiocytic Neoplasms
+1. Initial Authorization
+a. Revlimid will be approved based on the following criterion:
+(1) Diagnosis of one of the following histiocytic neoplasms:
+(a) Langerhans cell histiocytosis
+(b) Rosai-Dorfman disease
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Revlimid will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Revlimid
+therapy
+Authorization will be issued for 12 months.
+M. Castleman Disease
+1. Initial Authorization
+a. Revlimid will be approved based on both of the following criteria:
+(1) Diagnosis of multicentric castleman disease
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+9
+(2) One of the following:
+(a) Progressed following treatment of relapsed/refractory disease
+(b) Considered progressive disease
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Revlimid will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Revlimid
+therapy
+Authorization will be issued for 12 months.
+N. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Revlimid [package insert]. Summit, NJ: Celgene Corporation; March 2023.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+www.nccn.org. Accessed April 10, 2025.
+3. Lenalidomide REMS. Available at http://www.lenalidomiderems.com/. Accessed April 10, 2025.
+Program Prior Authorization/Notification - Revlimid (lenalidomide)
+Change Control
+5/2014 Annual review. Clarified criteria for MDS. Added coverage for
+Hodgkin lymphoma per NCCN.
+9/2014 Administrative change - Tried/Failed exemption for State of New Jersey
+removed.
+© 2025 UnitedHealthcare Services, Inc.
+10
+5/2015 Added smoldering myeloma and Castleman’s disease. Removed nodal
+marginal zone lymphoma. Updated mantle cell criteria. Updated
+formatting, background and references.
+5/2016 Annual review. Broke out systemic light chain amyloidosis. Removed
+‘cytogenic abnormality’ from MDS. Added criteria for Mycosis
+Fungoides (MF) / Sezary Syndrome (SS), peripheral T-cell lymphoma,
+T-cell lymphoma / leukemia, and primary cutaneous CD30+ T-cell
+lymphoproliferative disorders. Updated formatting, background and
+references.
+5/2017 Annual review. Changed member to patient in criteria A.1.a (patients <
+19 years old). Removed try/fail of immunosuppressants from MDS.
+Added criteria to MF associated anemia per NCCN guidelines.
+Removed progressive solitary plasmacytoma and smoldering myeloma,
+added nodal marginal zone lymphoma per NCCN. Reordered NHL
+diagnoses to separate second line use and first line use. Updated
+background and references.
+5/2018 Annual review. Revised criteria for NHL, added criteria for
+histological transformation of marginal zone lymphoma to diffuse large
+B-cell lymphoma, post-transplant lymphoproliferative disorders, and
+primary CNS lymphoma. Updated background and references.
+5/2019 Annual review. Reformatted coverage criteria indications to align with
+NCCN guidelines. Revised criteria for diffuse large B cell lymphoma,
+myelodysplastic syndromes and Hodgkin Lymphoma. Added criteria
+for High-grade B-cell lymphoma, Gamma-delta T-Cell lymphoma.
+Updated background and references.
+5/2020 Annual review. Reformatted coverage criteria indications to align with
+NCCN guidelines. Added criteria for AIDs related Kaposi Sarcoma and
+MDS/MPN overlap neoplasm according to NCCN guidelines. Clarified
+criteria for CLL/SLL, T-cell lymphoma, and primary CNS lymphoma
+according to NCCN guidelines.
+5/2021 Annual review. Added Langerhans cell histiocytosis criteria according
+to NCCN guidelines. Updated criteria for Kaposi Sarcoma according to
+NCCN guidelines.
+5/2022 Annual review. Formatting changes. Updated background and criteria
+to remove primary cutaneous lymphoma according to NCCN
+guidelines. Added criteria to be used in combination with
+dexamethasone and Ninlaro for systemic light chain amyloidosis.
+Updated Kaposi Sarcoma according to NCCN guidelines. Updated
+references.
+5/2023 Annual review. Revised the name of gastric and nongastric MALT
+lymphoma per NCCN guidelines. Updated Systemic Light Chain
+Amyloidosis criteria per NCCN guidelines. Updated CLL/SLL criteria
+per NCCN guidelines. Added state mandate and oncology medications
+footnote. Updated references.
+5/2024 Annual review. Updated background to reflect current NCCN guidance
+and updated the lenalidomide REMS program information. Removed
+footnote for state mandate for oncology medications. Updated criteria
+per NCCN for myelodysplastic syndrome, b-cell lymphomas,
+myelofibrosis-associated anemia, Hodgkin lymphoma, systemic light
+chain amyloidosis, chronic lymphocytic leukemia/small lymphocytic
+© 2025 UnitedHealthcare Services, Inc.
+11
+lymphoma, t-cell lymphoma, and kaposi sarcoma. Renamed and
+updated criteria for histiocytic neoplasms. Moved castleman disease
+from b-cell lymphoma into its own criteria. Updated references.
+5/2025 Annual review. Updated coverage criteria for myelodysplastic
+syndromes (MDS), Hodgkin lymphoma, systemic light chain
+amyloidosis, T-Cell Lymphomas. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+12

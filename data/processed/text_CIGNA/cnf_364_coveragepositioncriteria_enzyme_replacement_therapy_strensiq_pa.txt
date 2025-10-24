@@ -1,0 +1,122 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Enzyme Replacement Therapy – Strensiq Prior Authorization Policy
+• Strensiq® (asfotase alfa subcutaneous injection – Alexion)
+REVIEW DATE: 07/16/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Strensiq, a tissue non-specific alkaline phosphatase (TNSALP), is indicated for the
+treatment of patients with perinatal/infantile- and juvenile-onset
+hypophosphatasia (HPP).1 Strensiq is an enzyme replacement therapy which
+replaces human TNSALP.
+Disease Overview
+HPP is an inherited metabolic disease caused by a loss-of-function pathogenic variant
+in the gene which codes for TNSALP.2 TNSALP is tissue-bound and expressed in high
+concentrations in the liver, kidney, neurons, neutrophils, bone, and teeth.2,3 In HPP,
+inorganic pyrophosphate and pyridoxal 5’-phosphate, substrates for TNSALP, are
+increased and lead to disease manifestations. Inorganic pyrophosphate is an inhibitor
+of bone mineralization, and its accumulation leads to rickets and osteomalacia.
+Pyridoxal 5’-phosphate, a derivative of vitamin B , is necessary for the synthesis of
+6
+gamma aminobutyric acid (GABA). However, for pyridoxal 5’-phosphate to enter the
+Page 1 of 4 - Cigna National Formulary Coverage - Policy: Enzyme Replacement Therapy – Strensiq Prior
+Authorization Policy
+neuron, it must be dephosphorylated to allow pyridoxal to enter the neuron where it
+is rephosphorylated. The decreased synthesis of GABA in HPP leads to seizures.
+HPP is a rare disease, with an estimated live-birth incidence, for the severe forms of
+HPP, of 1:100,000 in Canada and approximately 1:300,000 in Europe.2,4 Prevalence
+in certain populations, such as Canadian Mennonites, may be as high as 1:2,500
+births. Disease severity can range from neonatal death with almost no skeletal
+mineralization to dental problems in adults without any bone symptoms.2-4 In
+patients most severely affected by HPP, mortality ranges from 50% to nearly 100%
+during infancy.2
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Strensiq. All
+approvals are provided for the duration noted below. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Strensiq as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Strensiq to be prescribed by or in consultation with a physician who specializes in the
+condition being treated.
+• Strensiq® (asfotase alfa subcutaneous injection – Alexion)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Hypophosphatasia – Perinatal/Infantile- and Juvenile-Onset. Approve for
+1 year if the patient meets ALL of the following (A, B, C, and D):
+A) Diagnosis is supported by ONE of the following (i, ii, or iii):
+i. Molecular genetic testing documenting pathogenic tissue non-specific
+alkaline phosphatase (ALPL) gene variants; OR
+ii. Low baseline serum alkaline phosphatase activity; OR
+iii. An elevated level of a tissue non-specific alkaline phosphatase substrate
+(i.e., serum pyridoxal 5’-phosphate, serum or urinary inorganic
+pyrophosphate, urinary phosphoethanolamine); AND
+B) Patient meets ONE of the following (i or ii):
+i. Patient currently has, or had a history of, clinical manifestations consistent
+with hypophosphatasia; OR
+Note: Examples of clinical manifestations include skeletal abnormalities,
+premature tooth loss, muscle weakness, poor feeding, failure to thrive,
+respiratory problems, vitamin B -dependent seizures.
+6
+ii. Patient has a family history (parent or sibling) of hypophosphatasia without
+current clinical manifestations of hypophosphatasia; AND
+C) Disease onset < 18 years of age; AND
+2 Pages - Cigna National Formulary Coverage - Policy: Enzyme Replacement Therapy – Strensiq Prior
+Authorization Policy
+D) The medication is prescribed by or in consultation with a geneticist,
+endocrinologist, a metabolic disorder sub-specialist, or a physician who
+specializes in the treatment of hypophosphatasia or related disorders.
+CONDITIONS NOT COVERED
+• Strensiq® (asfotase alfa subcutaneous injection – Alexion)
+is(are) considered not medically necessary for ANY other use(s) including
+the following; criteria will be updated as new published data are available
+REFERENCES
+1. Strensiq® subcutaneous injection [prescribing information]. Cheshire, CT: Alexion; July 2024.
+2. Whyte MP. Hypophosphatasia: Enzyme Replacement Therapy Brings New Opportunities and New
+Challenges. J Bone Miner Res. 2017;32:667-675.
+3. Orima H. Pathophysiology of Hypophosphatasia and the Potential Role of Asfotase Alfa. Ther Clin
+Risk Manag. 2016;12:777-786.
+4. Millan JL, Plotkin H. Hypophosphatasia – Pathophysiology and Treatment. Actual Osteol.
+2012;8:164-182.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 07/26/2023
+Revision
+Annual Hypophosphatasia – Perinatal/Infantile- and Juvenile- 07/31/2024
+Revision Onset: For diagnosis by genetic testing, rephrased the term
+“mutation” to “pathogenic variant”
+Annual No criteria changes. 07/16/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+2 Pages - Cigna National Formulary Coverage - Policy: Enzyme Replacement Therapy – Strensiq Prior
+Authorization Policy

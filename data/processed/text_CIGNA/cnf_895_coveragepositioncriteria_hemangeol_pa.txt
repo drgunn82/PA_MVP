@@ -1,0 +1,106 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Hemangeol Prior Authorization with Step Therapy Policy
+• Hemangeol® (propranolol hydrochloride oral solution [4.28 mg/mL]
+− Pierre Fabre)
+REVIEW DATE: 11/13/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Hemangeol, a beta-adrenergic blocker, is indicated for the treatment of proliferating
+infantile hemangioma requiring systemic therapy.1 Initiate treatment at ages 5 weeks to 5
+months.
+Disease Overview
+Infantile hemangiomas are common pediatric vascular tumors;2,3 they may occur in up to
+5% of infants.4 The pathogenesis is not clearly known but may be due to the proliferation of
+endothelial cells present in the chorionic villi of the placenta.3 Onset may occur as early as a
+few weeks after birth. The most significant growth occurs between 1 month to 3 months of
+age.4 Although hemangiomas may occur anywhere on the body, most occur on the head
+and neck. Some are small and resolve on their own without treatment.2-4 Others, due to
+their size the location, are disfiguring (e.g., those present in the facial region), cause
+functional impairment (e.g., periorbital infantile hemangiomas), or lead to permanent skin
+changes (scarring).2-4 Early active interventions should be sought for infantile
+hemangiomas that are problematic (ideally by before 5 weeks of age).3
+Guidelines
+The American Academy of Pediatrics published clinical practice guidelines for the
+management of infantile hemangiomas in 2019.4 Regarding pharmacological therapy, oral
+propranolol is the treatment of choice for problematic infantile hemangiomas that require
+Page 1 of 3 - Cigna National Formulary Coverage - Policy:Hemangeol Prior Authorization with Step Therapy Policy
+systemic treatment. Oral prednisolone or prednisone may be used for infantile
+hemangiomas if there are contraindications or if patients have experienced an inadequate
+response to propranolol. Intralesional injection of triamcinolone and/or betamethasone may
+be used to treat focal, bulky infantile hemangiomas during proliferation or in selected critical
+anatomic locations (e.g., the lip). Topical timolol may be utilized to treat some thin and/or
+superficial infantile hemangiomas. Surgery and/or laser treatment may be used for selected
+patients. Early intervention (ideally by 1 month of age) is recommended for infants who
+may have problematic infantile hemangiomas. It is notable that infantile hemangiomas have
+a maximum growth potential between 1 and 3 months of age; the majority of growth is
+complete by 5 months of age. However, deeper infantile hemangiomas may have a slightly
+later onset and more prolonged duration of growth. By 5 to 12 months of age, most infantile
+hemangiomas have stopped growing and are beginning to involute. Changes in color of the
+infantile hemangiomas may change from red to milky-white or gray. Lesions gradually
+flatten and shrink. In general, infantile hemangioma involution is complete by 4 years of
+age in 90% of patients. Extended therapy may need to account for the remainder of the
+infantile hemangiomas.
+Safety
+Hemangeol is contraindicated in the following conditions: premature infants with corrected
+age < 5 weeks; infants weighing less than 2 kg; asthma or history of bronchospasm; heart
+rate < 80 beats per minute, greater than first degree heart block, or decompensated heart
+failure; blood pressure < 50/30 mmHg; and pheochromocytoma.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Hemangeol. There
+is also a Step Therapy component which applies only to a patient ≥ 6 months of age. When
+Step Therapy applies, a trial of generic propranolol is required prior to Hemangeol.
+• Hemangeol® (propranolol hydrochloride oral solution [4.28 mg/mL] -
+Pierre Fabre)
+is(are) covered as medically necessary when the following criteria is(are) met for
+FDA-approved indication(s) or other uses with supportive evidence (if applicable):
+FDA-Approved Indication
+1. Infantile Hemangioma, Proliferating. Approve for 1 year if the patient meets BOTH
+of the following (A and B):
+A) Patient is less than 6 years of age; AND
+B) If the patient is greater than or equal to 6 months of age, patient has tried generic
+propranolol.
+CONDITIONS NOT COVERED
+• Hemangeol® (propranolol hydrochloride oral solution [4.28 mg/mL] -
+Pierre Fabre)
+is(are) considered experimental, investigational, or unproven for ANY other
+use(s).
+1. Coverage is not recommended for circumstances not listed in the Recommended
+Authorization Criteria. Criteria will be updated as new published data are available.
+2 Pages - Cigna National Formulary Coverage - Policy:Hemangeol Prior Authorization with Step Therapy Policy
+REFERENCES
+1. Hemangeol® oral solution [prescribing information]. Parsippany, NJ: Pierre Fabre; June
+2021.
+2. Hasbani DJ, Hamie L. Infantile hemangiomas. Dermatol Clin. 2022; 40:383-392.
+3. Sebaratnam DF, Rodriquez Bandera AI, Wong LF, Wargon O. Infantile hemangioma. Part
+2: management. J Am Acad Dermatol. 2021;85(6):1395-1404.
+4. Krowchuk DP, Frieden IL, Mancini AJ, et al. Clinical practice guideline for the
+management of infantile hemangiomas. Pediatrics. 2019;143(1): e20183475.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 11/13/2024
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and
+services are provided exclusively by or through such operating subsidiaries, including Cigna
+Health and Life Insurance Company, Connecticut General Life Insurance Company,
+Evernorth Behavioral Health, Inc., Cigna Health Management, Inc., and HMO or service
+company subsidiaries of The Cigna Group. © 2024 The Cigna Group.
+2 Pages - Cigna National Formulary Coverage - Policy:Hemangeol Prior Authorization with Step Therapy Policy

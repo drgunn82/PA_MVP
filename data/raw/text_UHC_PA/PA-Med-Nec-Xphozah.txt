@@ -1,0 +1,67 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2331-2
+Program Prior Authorization/Medical Necessity
+Medication Xphozah® (tenapanor)
+P&T Approval Date 1/2025
+Effective Date 4/1/2025
+1. Background:
+Xphozah® (tenapanor) is a sodium hydrogen exchanger 3 (NHE3) inhibitor indicated to reduce
+serum phosphorus in adults with chronic kidney disease (CKD) on dialysis as add-on therapy in
+patients who have an inadequate response to phosphate binders or who are intolerant of any dose
+of phosphate binder therapy.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Xphozah will be approved based upon all of the following criteria:
+a. Diagnosis of chronic kidney disease (CKD)
+-AND-
+b. Patient is receiving dialysis
+-AND-
+c. Serum phosphorus is > 6.5 mg/dL
+-AND-
+d. Patient has had an inadequate response to a maximally tolerated dose of two of the
+following phosphate binders:
+(1) calcium acetate (generic PhosLo)
+(2) lanthanum carbonate (generic Fosenrol)
+(3) sevelamer carbonate (generic Renvela)
+(4) Velphoro (sucroferric oxyhydroxide)]
+-AND-
+e. Xphozah will be used as add-on therapy
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+1
+f. Prescribed by or in consultation with a nephrologist.
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Xphozah will be approved based on both the following criterion:
+a. Documentation of positive clinical response to Xphozah therapy [e.g., reduction of serum
+phosphorus towards the normal range (3.5 to 5.5 mg/dL)]
+-AND-
+b. Prescribed by or in consultation with a nephrologist.
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. Reference:
+1. Xphozah® [package insert]. Waltham, MA: Ardelyx, Inc.; October 2023
+2. National Kidney Foundation. K/DOQI clinical practice guidelines for bone metabolism and
+disease in chronic kidney disease. Am J Kidney Dis. 2003;42(4 Suppl 3):S1-S201.
+3. Kidney Disease: Improving Global Outcomes (KDIGO) CKD-MBD Work Group. KDIGO
+clinical practice guideline for the diagnosis, evaluation, prevention, and treatment of Chronic
+Kidney Disease-Mineral and Bone Disorder (CKD-MBD). Kidney Int Suppl. 2009;(113):S1-
+S130. doi:10.1038/ki.2009.188
+4. Ketteler M, Block GA, Evenepoel P, et al. Executive summary of the 2017 KDIGO Chronic
+Kidney Disease-Mineral and Bone Disorder (CKD-MBD) Guideline Update: what's changed and
+why it matters [published correction appears in Kidney Int. 2017 Dec;92(6):1558]. Kidney Int.
+2017;92(1):26-36. doi:10.1016/j.kint.2017.04.006
+Program Prior Authorization/Medical Necessity - Xphozah (tenapanor)
+Change Control
+3/2024 New program.
+1/2025 Annual review with no updates.
+© 2025 UnitedHealthcare Services, Inc.
+2

@@ -1,0 +1,580 @@
+PREFERRED SPECIALTY MANAGEMENT POLICY
+POLICY: Hepatitis C Virus Direct-Acting Antivirals Preferred Specialty
+Management Policy for National Preferred Formulary and Basic
+Formulary
+• Epclusa® (sofosbuvir/velpatasvir tablets and oral pellets – Gilead)
+• sofosbuvir/velpatasvir tablets (authorized generic to Epclusa 400
+mg/100 mg tablets – Asegua Therapeutics)
+• Harvoni® (ledipasvir/sofosbuvir tablets and oral pellets – Gilead)
+• ledipasvir/sofosbuvir tablets (authorized generic to Harvoni –
+Asegua Therapeutics)
+• Mavyret (glecaprevir/pibrentasvir tablets and oral pellets –
+AbbVie)
+• Sovaldi (sofosbuvir tablets and oral pellets – Gilead)
+• Vosevi (sofosbuvir/velpatasvir/voxilaprevir tablets − Gilead)
+• Zepatier (grazoprevir/elbasvir tablets − Merck)
+REVIEW DATE: 04/02/2025; selected revision 06/25/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Page 1 of 12 - Cigna National Formulary Coverage - Policy:Hepatitis C Virus Direct-Acting Antivirals Preferred
+Specialty Management Policy for National Preferred Formulary and Basic Formulary
+The standard of care for all Hepatitis C genotypes is all-oral therapy with direct-
+acting antivirals. For more information on criteria within a Prior Authorization
+program by specific condition, refer to the respective standard Hepatitis C Prior
+Authorization Policy.
+All of the direct-acting antivirals (DAAs) are indicated for the treatment of chronic
+hepatitis C virus (HCV). Mavyret is the only agent indicated for acute HCV.6
+Epclusa is indicated for the treatment of HCV genotypes 1 through 6 in patients ≥ 3
+years of age with or without compensated cirrhosis, or with decompensated
+cirrhosis in combination with ribavirin.4 Harvoni is indicated for the treatment of
+patients ≥ 3 years of age: 1) with genotypes 1, 4, 5, and 6 chronic HCV with or
+without compensated cirrhosis; 2) with genotype 1 chronic HCV with
+decompensated cirrhosis; and 3) with genotype 1 or 4 infection in liver transplant
+recipients without cirrhosis or with compensated cirrhosis, in combination with
+ribavirin.1 Mavyret is indicated for the treatment of patients ≥ 3 years of age with
+acute or chronic HCV genotype 1, 2, 3, 4, 5, or 6 infection with or without
+compensated cirrhosis and for the treatment of patients ≥ 3 years of age with HCV
+genotype 1 infection who have previously been treated with a regimen containing
+an HCV NS5A inhibitor or an NS3/4A protease inhibitor, but not both.6 Mavyret is
+additionally indicated in kidney and liver transplant patients with specific dosing for
+these patient populations. Sovaldi is indicated for the treatment of adults with
+genotypes 1, 2, 3, and 4 chronic HCV in combination with ribavirin or pegylated
+interferon + ribavirin.2 Sovaldi is also indicated in pediatric patients ≥ 3 years of
+age with genotypes 2 or 3 chronic HCV in combination with ribavirin. Vosevi is
+indicated for the treatment of adults with chronic HCV infection with or without
+compensated cirrhosis in the following types of patients: Patients with genotype 1,
+2, 3, 4, 5, or 6 infection who have previously been treated with an HCV regimen
+containing an NS5A inhibitor; and for patients with genotype 1a or 3 infection and
+who have previously been treated with an HCV regimen containing Sovaldi without
+an NS5A inhibitor.5 Zepatier is indicated for the treatment of patients ≥ 12 years
+(or ≥ 30 kg) with genotypes 1 and 4 chronic HCV.3
+Epclusa and Harvoni are the products indicated in decompensated liver disease.
+POLICY STATEMENT
+This Preferred Specialty Management program has been developed to encourage
+the use of Preferred Products. For all medications (Preferred and Non-Preferred),
+the patient is required to meet the respective standard Hepatitis C Prior
+Authorization Policy criteria. The program also directs the patient to try one
+Preferred Product. Requests for Non-Preferred Products will also be reviewed using
+the exception criteria (below). If the patient meets the standard Hepatitis C Prior
+Authorization Policy criteria, but has not tried a Preferred Product, a review will be
+offered for the Preferred Product using the respective standard Hepatitis C Prior
+Authorization Policy criteria. All approvals are provided for the duration
+documented in the respective standard Hepatitis C Prior Authorization Policy.
+Documentation: Documentation is required for use of a non-preferred product as
+noted in the criteria as [documentation required]. Documentation may include,
+12 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C Virus Direct-Acting Antivirals Preferred
+Specialty Management Policy for National Preferred Formulary and Basic Formulary
+but is not limited to, chart notes, prescription claims records, prescription receipts,
+and/or other information.
+National Preferred Formulary and Basic Formulary – Preferred and Non-Preferred
+Products for Chronic Hepatitis C Virus.
+Genotype 1 Genotype 2 Genotype 3 Genotype 4 Genotype 5 or
+6
+Preferred • Epclusa • Epclusa • Epclusa (brand) • Epclusa (brand) • Epclusa (brand)
+(brand) (brand) • Vosevi • Harvoni • Harvoni
+• Harvoni • Vosevi (brand) (brand)
+(brand) • Vosevi • Vosevi
+• Vosevi • Zepatier
+• Zepatier
+Non- • Mavyret • Mavyret • Mavyret • Mavyret • Mavyret
+Preferred • sofosbuvir/ • Sovaldi • Sovaldi • sofosbuvir/ • sofosbuvir/
+velpatasvir • sofosbuvir/ • sofosbuvir/ velpatasvir velpatasvir
+(generic) velpatasvir velpatasvir (generic) (generic)
+• ledipasvir/ (generic) (generic) • ledipasvir/ • ledipasvir/
+sofosbuvir sofosbuvir sofosbuvir
+(generic) (generic) (generic)
+*Note: Epclusa oral pellets and Harvoni oral pellets are only available as a brand product. The authorized
+generics are not available as oral pellets.
+Hepatitis C Virus Direct-Acting Antivirals Preferred Specialty Management
+Policy non-preferred product(s) is(are) covered as medically necessary
+when the following non-preferred product exception criteria is(are) met.
+Any other exception is considered not medically necessary.
+NON-PREFERRED PRODUCT EXCEPTION CRITERIA
+Non- Exception Criteria
+Preferred
+Product
+Epclusa 1. Approve for the duration specified in the standard Hepatitis C –
+(brand only) Epclusa PA Policy if the patient has met the standard Hepatitis C
+– Epclusa PA Policy criteria.
+sofosbuvir/ 1. Sofosbuvir/velpatasvir (generic only) is not approved; offer to
+velpatasvir review for Epclusa (brand only) using the standard Hepatitis C –
+(generic Epclusa PA Policy criteria.
+only)
+Harvoni 1. Approve for the duration specified in the standard Hepatitis C –
+(brand only) Harvoni PA Policy if the patient has met the standard Hepatitis C
+– Harvoni PA Policy criteria.
+ledipasvir/ 1. Ledipasvir/sofosbuvir (generic only) is not approved; offer to
+sofosbuvir review for Harvoni (brand only) using the standard Hepatitis C –
+(generic Harvoni PA Policy criteria.
+only)
+12 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C Virus Direct-Acting Antivirals Preferred
+Specialty Management Policy for National Preferred Formulary and Basic Formulary
+Sovaldi 1. Genotype 2 or 3 Chronic Hepatitis C Virus, Pediatric
+Patient (≥ 3 Years of Age and < 18 Years of Age) – New
+Start. Sovaldi is not approved. Offer to review for Epclusa
+(brand only) using the standard Hepatitis C – Epclusa PA Policy
+criteria.
+2. Patient Continuing Therapy with Sovaldi. Refer to the
+standard Hepatitis C – Sovaldi PA Policy criteria.
+Mavyret 1. Genotype 1, 2, 3, 4, 5, or 6, Acute Hepatitis C Virus.
+Approve for the duration specified in the Hepatitis C – Mavyret
+PA for PSM Policy criteria if the patient has met the Hepatitis C
+– Mavyret PA for PSM Policy criteria.
+2. Genotype 1 Chronic Hepatitis C Virus Adults (≥ 18 years
+of age) – New Start.
+A) Patient is treatment-naïve: Mavyret is not approved. Offer
+to review for Epclusa (brand only), Harvoni (brand only), or
+Zepatier using the respective Hepatitis C PA Policy criteria;
+OR
+B) Approve for the duration specified in the Hepatitis C –
+Mavyret PA for PSM Policy if the patient meets BOTH of the
+following (i and ii):
+i. Patient has met the Hepatitis C – Mavyret PA for PSM
+Policy criteria; AND
+ii. Patient meets ONE of the following (a, b, or c):
+a) Patient has previously been treated with pegylated
+interferon/ribavirin, Incivek, Olysio, or Victrelis AND
+meets the following (1):
+(1) Patient has completed a course of therapy with
+ONE of Epclusa (brand or generic), Harvoni (brand
+or generic), or Zepatier and has documentation
+that the patient did not achieve a sustained viral
+response (SVR; virus undetectable 12 weeks
+following completion of therapy) with the
+respective therapy [documentation required];
+OR
+b) Patient has previously been treated with Daklinza,
+Epclusa (brand or generic), Harvoni (brand or
+generic), or Zepatier and meets the following (1):
+(1) Patient has completed a course of therapy with
+Vosevi and has documentation that the patient did
+not achieve a sustained viral response (SVR; virus
+undetectable 12 weeks following completion of
+therapy) with the respective therapy
+[documentation required]; OR
+c) Patient has previously been treated with Sovaldi +
+ribavirin ± pegylated interferon/interferon OR Sovaldi
++ Olysio.
+C) Patient meets criteria 2Bi and 2Biia but NOT 2Biia(1): offer
+to review for Epclusa (brand only), Harvoni (brand only),
+12 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C Virus Direct-Acting Antivirals Preferred
+Specialty Management Policy for National Preferred Formulary and Basic Formulary
+Vosevi, or Zepatier using the respective standard Hepatitis C
+PA Policy criteria.
+D) Patient meets criteria 2Bi and 2Biib but NOT 12iib(1): offer
+to review for Vosevi using standard Hepatitis C – Vosevi PA
+Policy criteria.
+3. Genotype 1 Chronic Hepatitis C Virus, Pediatric Patient (≥
+3 Years of Age and < 18 Years of Age) – New Start.
+A) Patient is treatment-naïve: Mavyret is not approved. Offer
+to review for Epclusa (brand only) or Harvoni (brand only)
+using the respective Hepatitis C PA Policy criteria; OR
+B) Approve for the duration specified in the Hepatitis C –
+Mavyret PA for PSM Policy if the patient meets BOTH of the
+following (i and ii):
+i. Patient has met the Hepatitis C – Mavyret PA for PSM
+Policy criteria; AND
+ii. Patient meets ONE of the following (a, b, or c):
+a) Patient has previously been treated with pegylated
+interferon/ribavirin, Incivek, Olysio, or Victrelis AND
+meets the following (1):
+(1) Patient has completed a course of therapy with
+ONE of Epclusa (brand or generic) or Harvoni
+(brand or generic) and has documentation that the
+patient did not achieve a sustained viral response
+(SVR; virus undetectable 12 weeks following
+completion of therapy) with the respective therapy
+[documentation required]; OR
+b) Patient has previously been treated with Daklinza,
+Epclusa (brand or generic), Harvoni (brand or
+generic), or Zepatier; OR
+c) Patient has previously been treated with Sovaldi +
+ribavirin ± pegylated interferon/interferon OR Sovaldi
++ Olysio.
+C) Patient meets criteria 3Bi and 3Biia but NOT 3Biia(1): offer
+to review for Epclusa (brand only) or Harvoni (brand only)
+using the respective standard Hepatitis C PA Policy criteria.
+4. Genotype 2 Chronic Hepatitis C Virus – New Start.
+A) Patient is treatment-naïve: Mavyret is not approved. Offer
+to review for Epclusa (brand only) using the standard
+Hepatitis C – Epclusa PA Policy criteria; OR
+B) Approve for the duration specified in the Hepatitis C –
+Mavyret PA for PSM Policy if the patient meets BOTH of the
+following (i and ii):
+i. Patient has met the Hepatitis C – Mavyret PA for PSM
+Policy criteria; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has previously been treated with pegylated
+interferon/ribavirin AND meets the following (1):
+12 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C Virus Direct-Acting Antivirals Preferred
+Specialty Management Policy for National Preferred Formulary and Basic Formulary
+(1) Patient has completed a course of therapy with
+Epclusa (brand or generic) and has documentation
+that the patient did not achieve a sustained viral
+response (SVR; virus undetectable 12 weeks
+following completion of therapy) with the
+respective therapy [documentation required];
+OR
+b) Patient has previously been treated with Sovaldi +
+ribavirin ± pegylated interferon/interferon.
+C) Patient meets criteria 4Bi and 4Biia but NOT 4Biia(1); offer
+to review for Epclusa (brand only) using the standard
+Hepatitis C – Epclusa PA Policy criteria.
+5. Genotype 3 Chronic Hepatitis C Virus Pediatric Patient (≥
+3 Years of Age and < 18 Years of Agee) – New Start.
+A) Patient is treatment-naïve: Mavyret is not approved. Offer
+to review for Epclusa (brand only) using the standard
+Hepatitis C – Epclusa PA Policy criteria; OR
+B) Approve for the duration specified in the Hepatitis C –
+Mavyret PA for PSM Policy if the patient meets BOTH of the
+following (i and ii):
+i. Patient has met the standard Hepatitis C – Mavyret PA for
+PSM criteria; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has previously been treated with pegylated
+interferon/ribavirin AND meets the following (1):
+(1) Patient has completed a course of therapy with
+Epclusa (brand or generic) and has documentation
+that the patient did not achieve a sustained viral
+response (SVR; virus undetectable 12 weeks
+following completion of therapy) with the
+respective therapy [documentation required];
+OR
+b) Patient has previously been treated with Sovaldi +
+ribavirin ± pegylated interferon/interferon.
+C) Patient meets criteria 5Bi and 5Biia but NOT 5Biia(1): offer
+to review for Epclusa (brand only) using the standard
+Hepatitis C – Epclusa PA Policy criteria.
+6. Genotype 3 Chronic Hepatitis C Virus, Adult (≥ 18 Years
+of Age) – New Start.
+A) Patient is treatment-naïve: Mavyret is not approved. Offer
+to review for Epclusa (brand only) using the standard
+Hepatitis C – Epclusa PA Policy criteria; OR
+B) Approve for the duration specified in the Hepatitis C –
+Mavyret PA for PSM Policy if the patient meets BOTH of the
+following (i and ii):
+i. Patient has met the standard Hepatitis C – Mavyret PA for
+PSM criteria; AND
+ii. Patient meets ONE of the following (a or b):
+12 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C Virus Direct-Acting Antivirals Preferred
+Specialty Management Policy for National Preferred Formulary and Basic Formulary
+a) Patient has previously been treated with pegylated
+interferon/ribavirin AND meets the following (1):
+(1) Patient has completed a course of therapy with
+Epclusa (brand or generic) and has documentation
+that the patient did not achieve a sustained viral
+response (SVR; virus undetectable 12 weeks
+following completion of therapy) with the
+respective therapy [documentation required];
+OR
+b) Patient has previously been treated with Sovaldi +
+ribavirin ± pegylated interferon/interferon and meets
+the following (1):
+(1) The patient has completed a course of therapy
+with Vosevi and has documentation that the
+patient did not achieve a sustained viral response
+(SVR; virus undetectable 12 weeks following
+completion of therapy) with the respective therapy
+[documentation required].
+C) Patient meets criteria 6Bi and 6Biia but NOT 6Biia(1): offer
+to review for Epclusa (brand only) using the standard
+Hepatitis C – Epclusa PA Policy criteria.
+D) Patient meets criteria 6Bi and 6Biib but NOT 6Biib(1): offer
+to review for Vosevi, using the standard Hepatitis C – Vosevi
+PA Policy criteria.
+7. Genotype 4 Chronic Hepatitis C Virus, Adult (≥ 18 Years
+of Age) – New Start.
+A) Patient is treatment-naïve: Mavyret is not approved. Offer
+to review for Epclusa (brand only), Harvoni (brand only), or
+Zepatier using the respective standard Hepatitis C PA Policy
+criteria; OR
+B) Approve for the duration specified in the Hepatitis C –
+Mavyret PA for PSM Policy if the patient meets BOTH of the
+following (i and ii):
+i. Patient has met the Hepatitis C – Mavyret PA for PSM
+Policy criteria; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has previously been treated with pegylated
+interferon/ribavirin AND meets the following (1):
+(1) Patient has completed a course of therapy with
+Epclusa (brand or generic), Harvoni (brand or
+generic), or Zepatier, and has documentation that
+the patient did not achieve a sustained viral
+response (SVR; virus undetectable 12 weeks
+following completion of therapy) with the
+respective therapy [documentation required];
+OR
+b) Patient has previously been treated with Sovaldi +
+ribavirin ± pegylated interferon/interferon.
+12 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C Virus Direct-Acting Antivirals Preferred
+Specialty Management Policy for National Preferred Formulary and Basic Formulary
+C) Patient meets criteria 7Bi and 7Biia but NOT 7Biia(1); offer
+to review for Epclusa (brand only), Harvoni (brand only), or
+Zepatier using the respective standard Hepatitis C PA Policy
+criteria.
+8. Genotype 4 Chronic Hepatitis C Virus, Pediatric Patient (≥
+3 Years of Age and < 18 Years of Age) – New Start.
+A) Patient is treatment-naïve: Mavyret is not approved. Offer
+to review for Epclusa (brand only) or Harvoni (brand only)
+using the respective standard Hepatitis C PA Policy criteria;
+OR
+B) Approve for the duration specified in the Hepatitis C –
+Mavyret PA for PSM Policy if the patient meets BOTH of the
+following (i and ii):
+i. Patient has met the Hepatitis C – Mavyret PA for PSM
+Policy criteria; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has previously been treated with pegylated
+interferon/ribavirin AND meets the following (1):
+(1) Patient has completed a course of therapy with
+Epclusa (brand or generic) or Harvoni (brand or
+generic) and has documentation that the patient
+did not achieve a sustained viral response (SVR;
+virus undetectable 12 weeks following completion
+of therapy) with the respective therapy
+[documentation required]; OR
+b) Patient has previously been treated with Sovaldi +
+ribavirin ± pegylated interferon/interferon.
+C) Patient meets criteria 8Bi and 8Biia but NOT 8Biia(1); offer
+to review for Epclusa (brand only) or Harvoni (brand only)
+using the respective standard Hepatitis C PA Policy criteria.
+9. Genotype 5 or 6 Chronic Hepatitis C Virus – New Start.
+A) Patient is treatment-naïve: Mavyret is not approved: Offer
+to review for Epclusa (brand only) or Harvoni (brand only)
+using the respective standard Hepatitis C PA Policy criteria;
+OR
+B) Approve for the duration specified in the Hepatitis C –
+Mavyret PA for PSM Policy if the patient meets BOTH of the
+following (i and ii):
+i. Patient has met the Hepatitis C – Mavyret PA for PSM
+Policy criteria; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has previously been treated with pegylated
+interferon/ribavirin AND meets the following (1):
+(1) Patient has completed a course of therapy with
+Epclusa (brand or generic) or Harvoni (brand or
+generic) and has documentation that the patient
+did not achieve a sustained viral response (SVR;
+virus undetectable 12 weeks following completion
+12 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C Virus Direct-Acting Antivirals Preferred
+Specialty Management Policy for National Preferred Formulary and Basic Formulary
+of therapy) with the respective therapy
+[documentation required]; OR
+b) Patient has previously been treated with Sovaldi +
+ribavirin ± pegylated interferon/interferon.
+C) Patient meets criteria 9Bi and 9Biia but NOT 9Biia(1): offer
+to review for Epclusa (brand only) or Harvoni (brand only)
+using the respective standard Hepatitis C PA Policy criteria.
+10. Genotype 1 Hepatitis C Virus with Renal Impairment
+(Estimated Glomerular Filtration Rate [eGFR] < 30
+mL/min or End-Stage Renal Disease [ESRD]), Adult (≥ 18
+Years of Age) – New Start.
+A) Patient is treatment-naïve: Mavyret is not approved. Offer
+to review for Zepatier using the standard Hepatitis C –
+Zepatier PA Policy criteria; OR
+B) Approve for the duration specified in the Hepatitis C –
+Mavyret PA for PSM Policy if the patient meets BOTH of the
+following (i and ii):
+i. Patient has met the Hepatitis C – Mavyret PA for PSM
+Policy criteria; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has previously been treated with pegylated
+interferon/ribavirin, Incivek, Olysio, or Victrelis and
+meets the following (1):
+(1) Patient has completed a course of therapy with
+Zepatier and has documentation that the patient
+did not achieve a sustained viral response (SVR;
+virus undetectable 12 weeks following completion
+of therapy) with the respective therapy
+[documentation required]; OR
+b) Patient has previously been treated with Sovaldi +
+ribavirin ± pegylated interferon/interferon, or Sovaldi
++ Olysio, or Daklinza, or Epclusa (brand or generic),
+or Harvoni (brand or generic), or Zepatier.
+C) Patient meets criteria 10Bi and 10Biia but NOT 10Biia(1):
+offer to review for Zepatier using the standard Hepatitis C –
+Zepatier PA Policy criteria.
+11. Genotype 4 Hepatitis C Virus with Renal Impairment
+(Estimated Glomerular Filtration Rate [eGFR] < 30
+mL/min or End-Stage Renal Disease [ESRD]), Adult (≥ 18
+Years of Age) – New Start.
+A) Patient is treatment-naïve: Mavyret is not approved. Offer
+to review for Zepatier using the standard Hepatitis C –
+Zepatier PA Policy criteria; OR
+B) Approve for the duration specified in the Hepatitis C –
+Mavyret PA for PSM Policy if the patient meets BOTH of the
+following (i and ii):
+i. Patient has met the Hepatitis C – Mavyret PA for PSM
+Policy criteria; AND
+12 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C Virus Direct-Acting Antivirals Preferred
+Specialty Management Policy for National Preferred Formulary and Basic Formulary
+ii. Patient meets ONE of the following (a or b):
+a) Patient has previously been treated with pegylated
+interferon/ribavirin and meets the following (1):
+(1) Patient has completed a course of therapy with
+Zepatier and has documentation that the patient
+did not achieve a sustained viral response (SVR;
+virus undetectable 12 weeks following completion
+of therapy) with Zepatier [documentation
+required]; OR
+b) Patient has previously been treated with Sovaldi +
+ribavirin ± pegylated interferon/interferon.
+C) Patient meets criteria 11Bi and 11Biia but NOT 11Biia(1):
+offer to review for Zepatier using the standard Hepatitis C –
+Zepatier PA Policy criteria.
+12. Genotype 1 or 4 Hepatitis C Virus in a Patient with
+Renal Impairment (Estimated Glomerular Filtration Rate
+[eGFR] < 30 mL/min or End-Stage Renal Disease
+[ESRD]), Pediatric Patient (≥ 3 Years of Age and < 18
+Years of Age) – New Start. Approve for the duration
+specified in the Hepatitis C – Mavyret PA for PSM Policy criteria
+if the patient has met the Hepatitis C – Mavyret PA for PSM
+Policy criteria.
+13. Genotype 2, 3, 5, or 6 Hepatitis C Virus with Renal
+Impairment (Estimated Glomerular Filtration Rate
+[eGFR] < 30 mL/min or End-Stage Renal Disease
+[ESRD]) – New Start. Approve for the duration specified in
+the Hepatitis C – Mavyret PA for PSM Policy criteria if the
+patient has met the Hepatitis C – Mavyret PA for PSM Policy
+criteria.
+14. Genotype 1, 2, 3, 4, 5, or 6 Hepatitis C Virus, Kidney
+Transplant – New Start. Approve for the duration specified in
+the Hepatitis C – Mavyret PA for PSM Policy criteria if the
+patient has met the Hepatitis C – Mavyret PA for PSM Policy
+criteria.
+15. Genotype 2 or 3 Recurrent Hepatitis C Virus Post-Liver
+Transplantation – New Start. Approve for the duration
+specified in the Hepatitis C – Mavyret PA for PSM Policy criteria
+if the patient has met the Hepatitis C – Mavyret PA for PSM
+Policy criteria.
+16. Genotype 1, 4, 5, or 6 Recurrent Hepatitis C Virus
+Post-Liver Transplantation – New Start, Adult (≥ 18
+Years of Age).
+A) Approve for the duration specified in the Hepatitis C –
+Mavyret PA for PSM Policy if the patient meets the following
+(i and ii):
+i. Patient has met the Hepatitis C – Mavyret PA for PSM
+Policy criteria; AND
+12 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C Virus Direct-Acting Antivirals Preferred
+Specialty Management Policy for National Preferred Formulary and Basic Formulary
+ii. Patient has completed a course of therapy with Harvoni
+(brand or generic) and has documentation that the
+patient did not achieve a sustained viral response (SVR;
+virus undetectable 12 weeks following completion of
+therapy) with Harvoni (brand or generic)
+[documentation required].
+B) Patient meets criteria 16Ai but NOT 16Aii: offer to review
+for Harvoni (brand only) using the standard Hepatitis C –
+Harvoni PA Policy criteria.
+17. Genotype 1, 4, 5, or 6 Recurrent Hepatitis C Virus
+Post-Liver Transplantation – New Start, Pediatric (≥ 3
+Years of Age and < 18 Years of Age). Approve for the
+duration specified in the Hepatitis C – Mavyret PA for PSM Policy
+criteria if the patient has met the Hepatitis C – Mavyret PA for
+PSM Policy criteria.
+18. Genotype 1, 2, 3, 4, 5, or 6 Hepatitis C Virus Liver
+Transplant Recipient – New Start. Approve for the duration
+specified in the Hepatitis C – Mavyret PA for PSM Policy criteria
+if the patient has met the Hepatitis C – Mavyret PA for PSM
+Policy criteria.
+19. Chronic Hepatitis C Virus (HCV), Genotype
+Unknown/Undetermined, No Cirrhosis. Mavyret is not
+approved. Offer to review for Epclusa (brand only) using the
+Hepatitis C – Epclusa PA Policy criteria.
+20. Chronic Hepatitis C Virus (HCV), Genotype
+Unknown/Undetermined, Compensated Cirrhosis.
+Approve for the duration specified in the Hepatitis C – Mavyret
+PA for PSM Policy criteria if the patient has met the Hepatitis C
+– Mavyret PA for PSM Policy criteria.
+21. Patient Continuing Therapy with Mavyret. Refer to the
+Hepatitis C – Mavyret PA for PSM Policy criteria.
+Vosevi 1. Genotype 1, 2, 3, 4, 5, or 6 chronic Hepatitis C Virus.
+Approve for the duration specified in the standard Hepatitis C –
+Vosevi PA Policy criteria if the patient has met the standard
+Hepatitis C – Vosevi PA Policy criteria.
+2. Patient Continuing Therapy with Vosevi. Refer to the
+standard Hepatitis C – Vosevi PA Policy criteria.
+Zepatier 1. Genotype 1 or 4 Chronic Hepatitis C Virus – New Start.
+Approve for the duration specified in the standard Hepatitis C –
+Zepatier PA Policy criteria if the patient has met the standard
+Hepatitis C – Zepatier PA Policy criteria.
+2. Patient Continuing Therapy with Zepatier. Refer to the
+standard Hepatitis C – Zepatier PA Policy criteria.
+REFERENCES
+1. Harvoni® tablets and oral pellets [prescribing information]. Foster City, CA: Gilead; December
+2024.
+12 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C Virus Direct-Acting Antivirals Preferred
+Specialty Management Policy for National Preferred Formulary and Basic Formulary
+2. Sovaldi® tablets and oral pellets [prescribing information]. Foster City, CA: Gilead; December
+2024.
+3. Zepatier® tablets [prescribing information]. Whitehouse Station, NJ: Merck; December 2021.
+4. Epclusa® tablets and oral pellets [prescribing information]. Foster City, CA: Gilead; April 2022.
+5. Vosevi® tablets [prescribing information]. Foster City, CA: Gilead; November 2019.
+6. Mavyret® tablets and oral pellets [prescribing information]. North Chicago, IL: AbbVie; June 2025.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Early Annual Mavyret 04/05/2023
+Revision Chronic Hepatitis C Virus (HCV), Genotype
+Unknown/Undetermined: A new condition of coverage was
+added. A patient is offered a review for Epclusa (brand only)
+using the standard Epclusa PA policy.
+Annual Mavyret 04/03/2024
+Revision Chronic Hepatitis C Virus (HCV), Genotype
+Unknown/Undetermined, No Cirrhosis. Criteria were
+modified to add “No Cirrhosis” to the indication (previously
+“Chronic Hepatitis C Virus (HCV), Genotype
+Unknown/Undetermined”). A patient continued to be offered a
+review for Epclusa (brand only) using the standard Epclusa PA
+Policy.
+Chronic Hepatitis C Virus (HCV), Genotype
+Unknown/Undetermined, Compensated Cirrhosis. Criteria
+were created for a patient with unknown or undetermined
+genotype with compensated cirrhosis. A patient is approved for
+the duration specified in the Hepatitis C – Mavyret PA for PSM
+Policy criteria if the patient has met the Hepatitis C – Mavyret PA
+for PSM Policy criteria. Previously, a patient would have been
+reviewed under criteria for “Chronic Hepatitis C Virus (HCV),
+Genotype Unknown/Undetermined” and would have been offered
+a review for Epclusa (brand only) using the standard Epclusa PA
+policy.
+Annual No criteria changes. 04/02/2025
+Revision
+Selected Mavyret 06/25/2025
+Revision Acute Hepatitis C Virus (HCV), Genotype 1, 2, 3, 4, 5, or 6.
+A condition of approval was added. Mavyret is approved for the
+duration specified in the Hepatitis C – Mavyret PA for PSM Policy
+criteria if the patient has met the Hepatitis C – Mavyret PA for
+PSM Policy criteria.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company, Connecticut
+General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc., and HMO or
+service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+12 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C Virus Direct-Acting Antivirals Preferred
+Specialty Management Policy for National Preferred Formulary and Basic Formulary

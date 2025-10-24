@@ -1,0 +1,98 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Infectious Disease – Pretomanid Prior Authorization Policy
+• Pretomanid tablets (Mylan)
+REVIEW DATE: 12/11/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Pretomanid, a nitroimidazole, is indicated as part of a combination regimen with
+Sirturo® (bedaquiline tablets) and linezolid tablets or oral suspension (Zyvox®,
+generic) for the treatment of pulmonary extensively drug-resistant or
+treatment-intolerant or nonresponsive multidrug-resistant tuberculosis
+(TB) in adults.1 Approval of this indication is based on limited clinical safety and
+efficacy data. This drug is indicated for use in a limited and specific population of
+patients.
+Limitation of use: Pretomanid is not indicated for use in patients with the following
+conditions: drug-sensitive TB, latent infection due to Mycobacterium tuberculosis,
+extra-pulmonary infection due to M. tuberculosis, multidrug-resistant TB that is not
+treatment-intolerant or nonresponsive to standard therapy. The safety and
+effectiveness of Pretomanid when used with drugs other than Sirturo and linezolid
+have not been established.
+The prescribing information notes the total duration of treatment with Pretomanid,
+Sirturo, and linezolid to be 26 weeks.1 The dosing of the combination regimen can
+be extended beyond 26 weeks.2
+Page 1 of 3 - Cigna National Formulary Coverage - Policy:Infectious Disease – Pretomanid Prior Authorization
+Policy
+Guidelines
+The World Health Organization (WHO) issued consolidated guidelines (2022) with
+information on the choice and design of regimens for the treatment of drug-resistant
+TB, including multidrug- or rifampin-resistant TB and confirmed rifampicin-
+susceptible, isoniazid-resistant TB.2 Drug susceptibility tests are recommended to
+assist the prescriber in choosing the appropriate initial regimen. In addition, a
+surveillance system is recommended to determine the local prevalence of drug-
+resistant TB strains. The WHO notes that the duration of treatment is different for
+regimens containing different drugs. The duration for regimens containing
+Pretomanid, Sirturo, and linezolid range from 6 to 9 months.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Pretomanid.
+All approvals are provided for the duration noted below. In cases where the approval
+is authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Pretomanid as well as
+the monitoring required for adverse events and long-term efficacy, approval requires
+Pretomanid to be prescribed by or in consultation with a physician who specializes in
+the condition being treated.
+• Pretomanid tablets (Mylan)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Tuberculosis. Approve for 9 months if the patient meets ALL of the following (A,
+B, C, and D):
+A) Patient is ≥ 18 years of age; AND
+B) Patient meets ONE of the following (i, ii, or iii):
+i. Patient has extensively drug resistant tuberculosis; OR
+ii. Patient has treatment-intolerant tuberculosis; OR
+iii. Patient has nonresponsive multidrug-resistant tuberculosis; AND
+C) Pretomanid is prescribed in combination with Sirturo (bedaquiline tablets) and
+linezolid tablets or oral suspension (Zyvox, generic); AND
+D) The medication is prescribed by or in consultation with an infectious diseases
+specialist.
+CONDITIONS NOT COVERED
+• Pretomanid tablets (Mylan)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s); criteria will be updated as new published data are available.
+3 Pages - Cigna National Formulary Coverage - Policy:Infectious Disease – Pretomanid Prior Authorization Policy
+REFERENCES
+1. Pretomanid tablets [prescribing information]. Limited Hyerabad, India: Mylan; November 2024.
+2. World Health Organization consolidated guidelines on tuberculosis. Module 4: treatment - drug-
+resistant tuberculosis treatment, 2022. Geneva: World Health Organization. 2022. Available at:
+https://www.who.int/publications/i/item/9789240063129. Accessed on December 5, 2024.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Revision No criteria changes. 12/06/2023
+Annual Revision No criteria changes. 12/11/2024
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2024 The Cigna
+Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Infectious Disease – Pretomanid Prior Authorization Policy

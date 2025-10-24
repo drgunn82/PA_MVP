@@ -1,0 +1,168 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2371-1
+Program Prior Authorization/Medical Necessity
+Medications Nemluvio® (nemolizumab-ilto)
+P&T Approval Date 5/2025
+Effective Date 9/1/2025
+1. Background:
+Nemluvio (nemolizumab-ilto) is an interleukin-31 receptor antagonist indicated for the
+treatment of adults with prurigo nodularis and for the treatment of adults and pediatric patients
+12 years of age and older with moderate to severe atopic dermatitis in combination with
+topical corticosteroids and/or calcineurin inhibitors when the disease is not adequately
+controlled with topical prescription therapies.
+2. Coverage Criteriaa:
+A. Atopic Dermatitis
+1. Initial Authorization
+a. Nemluvio will be approved based on all of the following criteria:
+(1) Diagnosis of moderate to severe atopic dermatitis
+-AND-
+(2) History of failure, contraindication, or intolerance to two of the following
+therapeutic classes of topical therapies (document drug, date of trial, and/ or
+contraindication to medication)^:
+(a) Medium,high, or very-high potency topical corticosteroid [e.g., Elocon
+(mometasone furoate), Synalar (fluocinolone acetonide), Lidex
+(fluocinonide)]
+(b) Topical calcineurin inhibitor [e.g., Elidel (pimecrolimus), Protopic
+(tacrolimus)].*
+(c) Eucrisa (crisaborole)*
+-AND-
+(3) Patient is not receiving Nemluvio in combination with either of the following
+for treatment of the same indication:
+(a) Biologic immunomodulator [e.g., Adbry (tralokinumab-ldrm), Dupixent
+(dupilumab), Ebglyss (lebrikizumab-lbkz)]
+(b) Janus kinase inhibitor [e.g., Rinvoq (upadacitinib), Xeljanz/XR (tofacitinib),
+Opzelura (topical ruxolitinib), Cibinqo (abrocitinib)]
+© 2025 UnitedHealthcare Services, Inc.
+1
+-AND-
+(4) Prescribed by one of the following:
+(a) Dermatologist
+(b) Allergist
+(c) Immunologist
+Authorization will be issued for 6 months.
+2. Reauthorization
+a. Nemluvio will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Nemluvio therapy
+-AND-
+(2) Patient is not receiving Nemluvio in combination with either of the following
+for treatment of the same indication:
+(a) Biologic immunomodulator [e.g., Adbry (tralokinumab-ldrm), Dupixent
+(dupilumab), Ebglyss (lebrikizumab-lbkz)]
+(b) Janus kinase inhibitor [e.g., Rinvoq (upadacitinib), Xeljanz/XR
+(tofacitinib), Opzelura (topical ruxolitinib), Cibinqo (abrocitinib)]
+-AND-
+(3) Prescribed by one of the following:
+(a) Dermatologist
+(b) Allergist
+(c) Immunologist
+-AND-
+(4) One of the following:
+(a) Patient has achieved clear or almost clear skin
+(Authorization of Nemluvio 30mg given every 8 weeks for 12 months)
+(b) Patient has not yet achieved clear or almost clear skin
+(Authorization of Nemluvio 30mg given every 4 weeks for 6 months)
+B. Prurigo Nodularis
+1. Initial Authorization
+a. Nemluvio will be approved based on all of the following criteria:
+© 2025 UnitedHealthcare Services, Inc.
+2
+(1) Diagnosis of prurigo nodularis
+-AND-
+(2) Patient has greater than or equal to 20 nodular lesions
+-AND-
+(3) History of failure, contraindication, or intolerance to previous prurigo nodularis
+treatment(s) (e.g., topical corticosteroids, topical calcineurin inhibitors, topical
+capsaicin)
+-AND-
+(4) Patient is not receiving Nemluvio in combination with Dupixent for treatment
+of the same indication
+-AND-
+(5) Prescribed by one of the following:
+(a) Dermatologist
+(b) Allergist
+(c) Immunologist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Nemluvio will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Nemluvio therapy
+-AND-
+(2) Patient is not receiving Nemluvio in combination with Dupixent for treatment
+of the same indication
+-AND-
+(3) Prescribed by one of the following:
+(a) Dermatologist
+(b) Allergist
+(c) Immunologist
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services, Inc.
+3
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+^Tried/failed alternative(s) are supported by FDA labeling.
+* Elidel, Protopic/tacrolimus ointment, and Eucrisa require prior authorization.
+Table 1: Relative potencies of topical corticosteroids
+Class Drug Dosage Form Strength
+(%)
+Augmented betamethasone Ointment, gel 0.05
+dipropionate
+Very high
+Clobetasol propionate Cream, foam, ointment 0.05
+potency
+Diflorasone diacetate Ointment 0.05
+Halobetasol propionate Cream, ointment 0.05
+Amcinonide Cream, lotion, ointment 0.1
+Augmented betamethasone Cream, lotion 0.05
+dipropionate
+Betamethasone dipropionate Cream, foam, ointment, solution 0.05
+Desoximetasone Cream, ointment 0.25
+High Potency Desoximetasone Gel 0.05
+Diflorasone diacetate Cream 0.05
+Fluocinonide Cream, gel, ointment, solution 0.05
+Halcinonide Cream, ointment 0.1
+Mometasone furoate Ointment 0.1
+Triamcinolone acetonide Cream, ointment 0.5
+Betamethasone valerate Cream, foam, lotion, ointment 0.1
+Clocortolone pivalate Cream 0.1
+Desoximetasone Cream 0.05
+Fluocinolone acetonide Cream, ointment 0.025
+Medium
+Flurandrenolide Cream, ointment, lotion 0.05
+potency
+Fluticasone propionate Cream 0.05
+Fluticasone propionate Ointment 0.005
+Mometasone furoate Cream, lotion 0.1
+Triamcinolone acetonide Cream, ointment, lotion 0.1
+Hydrocortisone butyrate Cream, ointment, solution 0.1
+Lower-
+Hydrocortisone probutate Cream 0.1
+medium
+Hydrocortisone valerate Cream, ointment 0.2
+potency
+Prednicarbate Cream 0.1
+Alclometasone dipropionate Cream, ointment 0.05
+Low potency Desonide Cream, gel, foam, ointment 0.05
+Fluocinolone acetonide Cream, solution 0.01
+Dexamethasone Cream 0.1
+Lowest
+Hydrocortisone Cream, lotion, ointment, solution 0.25, 0.5, 1
+potency
+Hydrocortisone acetate Cream, ointment 0.5-1
+© 2025 UnitedHealthcare Services, Inc.
+4
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class
+• Supply limitations may be in place
+4. References:
+1. Nemluvio [package insert]. Dallas, TX: Galderma Laboratories, L.P., December 2024.
+2. Eichenfield LF, Tom WL, Berger TG, et al. Guidelines of care for the management of atopic
+dermatitis: section 2. Management and treatment of atopic dermatitis with topical therapies. J Am
+Acad Dermatol. 2014; 71(1):116-32.
+Program Prior Authorization/Medical Necessity - Nemluvio (nemolizumab-ilto)
+Change Control
+6/2025 New program.
+© 2025 UnitedHealthcare Services, Inc.
+5

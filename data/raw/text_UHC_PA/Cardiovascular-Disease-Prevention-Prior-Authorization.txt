@@ -1,0 +1,73 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1213-9
+Program Prior Authorization/Regulatory
+Medication Health Care Reform - Cardiovascular Disease Prevention Zero Cost
+Share - atorvastatin (generic Lipitor) 10 mg and 20 mg and simvastatin
+(generic Zocor) 5 mg, 10 mg, 20 mg, 40 mg
+P&T Approval Date 3/2017, 3/2018, 3/2019, 3/2020, 3/2021, 3/2022, 11/2022, 1/2024,
+3/2025
+Effective Date 6/1/2025
+1. Background:
+The U.S. Preventive Services Task Force (USPSTF)1 recommends that clinicians engage in
+shared, informed decision making with patients who are at increased risk for cardiovascular
+disease (CVD).
+The USPSTF recommends that adults without a history of cardiovascular disease (CVD) (i.e.,
+myocardial infarction or ischemic stroke) use a low- to moderate-dose statin for the
+prevention of CVD events and mortality when all of the following criteria are met: 1) they are
+aged 40 to 75 years; 2) they have 1 or more CVD risk factors (i.e., dyslipidemia, diabetes,
+hypertension, or smoking); and 3) they have an estimated 10-year risk of a cardiovascular
+event of 10% or greater. (http://tools.acc.org/ASCVD-Risk-estimator/)
+This program is designed to evaluate whether or not members meet the primary prevention
+criteria for obtaining coverage of low-to moderate-dose lipid lowering therapy (statins) at
+zero dollar cost share.
+2. Coverage Criteria:
+A. Upon request, coverage at zero dollar cost share will be approved based on all of the
+following criteria:
+1. Member is between the ages of 40 and 75
+-AND-
+2. Medication is being used for primary prevention of CVD (i.e., member has no history
+of cardiovascular events)
+-AND-
+3. Member has one or more risk factors for CVD (i.e., dyslipidemia, diabetes,
+hypertension, or smoking)
+-AND-
+4. Member has an estimated 10-year risk of a cardiovascular event of 10% or greater
+© 2025 UnitedHealthcare Services Inc.
+1
+Authorization will be issued for zero copay with deductible bypass for 24 months. If zero
+dollar cost share criteria is not met the requested drug will default to plan coverage
+requirements.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-
+10) and/or claim logic. Use of automated approval and re-approval processes varies by
+program and/or therapeutic class.
+4. References:
+1. U.S. Preventive Services Task Force http://www.uspreventiveservicestaskforce.org/
+Accessed February 2025.
+2. Arnett DK, Blumenthal RS, Albert MA, et al. 2019 ACC/AHA Guideline on the primary
+prevention of cardiovascular disease: a report of the American College of
+Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.
+Circulation. 2019;140(11):e596-e646.
+3. ASCVD Risk Estimator Plus: http://tools.acc.org/ASCVD-Risk-estimator/
+Program Prior Authorization/HCR- Cardiovascular Disease Prevention Copay
+Reduction
+Change Control
+Date Change
+3/2017 New program.
+3/2018 Annual review. No changes.
+3/2019 Annual review. No changes.
+3/2020 Annual review. No changes.
+3/2021 Annual review. No changes.
+3/2022 Annual review. Added dyslipidemia definition to background.
+11/2022 Updated background to align with latest USPSTF recommendation
+(removed definition of dyslipidemia, replaced calculated risk with
+estimated risk, replaced symptomatic coronary artery disease with
+myocardial infarction). Updated criteria to replace calculated risk with
+estimated risk. Updated references.
+1/2024 Annual review. Updated references. Revised criteria to add that review
+is upon request with no change to clinical intent.
+3/2025 Annual review. Updated references.
+© 2025 UnitedHealthcare Services Inc.
+2

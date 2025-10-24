@@ -1,0 +1,83 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2090-14
+Program Prior Authorization/Medical Necessity
+Medication Epclusa® (sofosbuvir/velpatasvir)
+P&T Approval Date 5/2016, 8/2016, 12/2016, 9/2017, 11/2018, 11/2019, 11/2020, 5/2021,
+8/2021, 8/2022, 7/2023, 7/2024
+Effective Date 10/1/2024
+1. Background:
+Epclusa (sofosbuvir/velpatasvir) is a fixed-dose combination of sofosbuvir, a hepatitis C virus
+(HCV) nucleotide analog NS5B polymerase inhibitor, and velpatasvir, an HCV NS5A inhibitor,
+and is indicated for the treatment of adult patients and pediatric patients 3 years of age and older
+with chronic HCV genotype 1, 2, 3, 4, 5 or 6 infection: 1
+• without cirrhosis or with compensated cirrhosis
+• with decompensated cirrhosis for use in combination with ribavirin
+2. Coverage Criteriaa:
+A. For the treatment of chronic hepatitis C genotype 1, 2, 3, 4, 5 or 6 infection, Epclusa will be
+approved based on all of the following criteria:
+1. Diagnosis of chronic hepatitis C genotype 1, 2, 3, 4, 5 or 6 infection
+-AND-
+2. One of the following:
+a. Patient does not have decompensated liver disease (e.g., Child-Pugh Class B or C)
+-OR-
+b. Both of the following:
+(1) Patient has decompensated liver disease (e.g., Child-Pugh Class B or C)
+-AND-
+(2) Used in combination with ribavirin
+-AND-
+3. Patient is not receiving Epclusa in combination with another HCV direct acting antiviral
+agent [e.g., Mavyret (glecaprevir/pibrentasvir), Harvoni (ledipasvir/sofosbuvir), Sovaldi
+(sofosbuvir), Zepatier (elbasvir/grazoprevir)]
+© 2024 UnitedHealthcare Services Inc.
+1
+-AND-
+4. Physician/provider asserts patient demonstrates treatment readiness, including the
+ability to adhere to the treatment regimen
+Authorization will be issued for 12 weeks.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Epclusa [package insert]. Foster City, CA: Gilead Sciences, Inc.; April 2022.
+2. American Association for the Study of Liver Diseases and the Infectious Diseases Society of
+America. Recommendations for Testing, Managing, and Treating Hepatitis C.
+https://www.hcvguidelines.org/. Accessed June 5, 2024.
+Program Prior Authorization/Medical Necessity – Epclusa
+(sofosbuvir/velpatasvir)
+Change Control
+Date Change
+5/2016 New program.
+8/2016 Added step requirement of Harvoni for genotypes 1, 4, 5 or 6 infection.
+11/2016 Added California coverage information.
+12/2016 Removed abstinence-based criteria and replaced with treatment
+readiness screening criteria. Added Maryland, Indiana and West
+Virginia coverage information.
+5/2017 Administrative update to reorder criteria. State mandate reference
+language updated.
+9/2017 Revised step therapy criteria based on new product availability,
+included NY prescriber requirement, removed treatment readiness
+screening tools and removed medical record submission requirements.
+11/2018 Annual update with no changes to the criteria. Updated references.
+11/2019 Annual update with no changes to the criteria. Updated references.
+11/2020 Annual review. Updated background with no changes to clinical
+criteria. Updated references.
+5/2021 Removed prescriber requirement. Updated references.
+© 2024 UnitedHealthcare Services Inc.
+2
+8/2021 Updated background with no changes to clinical criteria. Updated
+references.
+8/2022 Annual review. Added Child-Pugh classes for decompensated cirrhosis.
+Updated references.
+7/2023 Annual review. Updated order of criteria without change to clinical
+intent. Updated references.
+7/2024 Annual review. Removed liver disease staging criteria that was included
+for quality purposes rather than part of coverage decision. Updated
+references.
+© 2024 UnitedHealthcare Services Inc.
+3

@@ -1,0 +1,109 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2286-5
+Program Prior Authorization/Medical Necessity
+Medication Vtama® (tapinarof)
+P&T Approval Date 9/2022, 11/2022, 11/2023, 12/2024, 5/2025
+Effective Date 8/1/2025
+1. Background:
+Vtama cream is an aryl hydrocarbon receptor agonist indicated for the topical treatment of plaque
+psoriasis in adults and the topical treatment of atopic dermatitis in adults and pediatric patients 2
+years of age and older.1
+2. Coverage Criteriaa:
+A. Plaque Psoriasis
+1. Initial Authorization
+a. Vtama will be approved based on all of the following criteria:
+(1) Diagnosis of plaque psoriasis
+-AND-
+(2) Minimum duration of a 4-week trial and failure, contraindication, or intolerance
+to one of the following topical therapies2:
+(a) Corticosteroids (e.g., betamethasone, clobetasol, desonide)
+(b) Vitamin D analogs (e.g., calcitriol, calcipotriene)
+(c) Tazarotene
+(d) Calcineurin inhibitors (e.g., tacrolimus, pimecrolimus)
+(e) Anthralin
+(f) Coal tar
+-AND-
+(3) Patient is not receiving Vtama in combination with a Targeted Immunomodulator
+[e.g., Enbrel (etanercept), Cimzia (certolizumab), Simponi (golimumab), Orencia
+(abatacept), adalimumab, Stelara (ustekinumab), Skyrizi (risankizumab), Tremfya
+(guselkumab), Cosentyx (secukinumab), Taltz (ixekizumab), Siliq (brodalumab),
+Ilumya (tildrakizumab), Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq
+(upadacitinib), Otezla (apremilast)]
+Authorization will be issued for 12 months.
+2. Reauthorization
+© 2025 UnitedHealthcare Services, Inc.
+1
+a. Vtama will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to therapy
+-AND-
+(2) Patient is not receiving Vtama in combination with a Targeted Immunomodulator
+[e.g., Enbrel (etanercept), Cimzia (certolizumab), Simponi (golimumab), Orencia
+(abatacept), adalimumab, Stelara (ustekinumab), Skyrizi (risankizumab), Tremfya
+(guselkumab), Cosentyx (secukinumab), Taltz (ixekizumab), Siliq (brodalumab),
+Ilumya (tildrakizumab), Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq
+(upadacitinib), Otezla (apremilast)]
+Authorization will be issued for 12 months.
+B. Atopic Dermatitis
+1. Initial Authorization
+a. Vtama will be approved based on all of the following criteria:
+(1) Diagnosis of atopic dermatitis
+-AND-
+(2) History of failure, contraindication, or intolerance to one of the following
+therapeutic classes of topical therapies:
+(a) One of the following:
+For mild atopic dermatitis: a topical corticosteroid [e.g., DesOwen
+o
+(desonide), hydrocortisone] (any potency)
+For moderate atopic dermatitis: a topical corticosteroid of at least a
+o
+medium- to high-potency (e.g., Elocon (mometasone furoate),
+Synalar (fluocinolone acetonide), Lidex (fluocinonide)]
+(b) One topical calcineurin inhibitor [e.g., Elidel (pimecrolimus), Protopic
+(tacrolimus)]*
+-AND-
+(3) Patient is not receiving Vtama in combination with a targeted immunomodulator
+[e.g., Adbry (tralokinumab-ldrm), Cibinqo (abrocitinib), Dupixent (dupilumab),
+Rinvoq (upadacitinib)]
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Vtama will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to therapy
+© 2025 UnitedHealthcare Services, Inc.
+2
+-AND-
+(2) Patient is not receiving Vtama in combination with a targeted immunomodulator
+[e.g., Adbry (tralokinumab-ldrm), Cibinqo (abrocitinib), Dupixent (dupilumab),
+Rinvoq (upadacitinib)]
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+* Elidel and Protopic/tacrolimus ointment require prior authorization.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim
+logic. Use of automated approval and re-approval processes varies by program and/or
+therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Vtama [package insert]. Long Beach, CA: Dermavant Sciences Inc.; December 2024.
+2. Elmets CA, Korman NJ, Farley Prater E, et al. Joint AAD-NPF guidelines of care for the
+management and treatment of psoriasis with topical therapy and alternative medicine
+modalities for psoriasis severity measures. J Am Acad Dermatol 2021;84:432-70.
+Program Prior Authorization/Medical Necessity - Vtama® (tapinarof)
+Change Control
+9/2022 New program.
+11/2022 Revised trial and failure requirement from either two topical therapies
+or calcipotriene and betamethasone dipropionate to a trial and failure of
+one topical therapy.
+11/2023 Annual review. Updated not to be used in combination to Targeted
+Immunomodulators. Simplified reauthorization criteria to only require
+positive clinical response and not used in combination with other
+treatment medications.
+12/2024 Annual review. Removed prescriber requirement. Updated initial
+authorization to 12 months.
+5/2025 Added coverage criteria for atopic dermatitis. Updated background and
+reference.
+© 2025 UnitedHealthcare Services, Inc.
+3

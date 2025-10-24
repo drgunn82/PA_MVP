@@ -1,0 +1,121 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Adrenal Hyperplasia – Crenessity Prior Authorization Policy
+• Crenessity™ (crinecerfont capsules and oral solution − Neurocrine
+Biosciences)
+REVIEW DATE: 12/18/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Crenessity, a corticotropin-releasing factor type 1 receptor antagonist, is indicated
+for the treatment of classic congenital adrenal hyperplasia (CAH) as adjunctive
+treatment to glucocorticoid replacement to control androgens in adults and pediatric
+patients ≥ 4 years of age.1
+Disease Overview
+Classic CAH due to 21-hydroxalase deficiency is the most common cause of primary
+adrenal insufficiency in children.2 The prevalence of classic CAH is 1 in 10,000 to 1
+in 15,000 live births. However, the prevalence of classic CAH is lower in Black and
+Asian populations. CAH typically presents during the newborn screening or by
+presentation of atypical genitalia in females. Early detection can prevent salt
+wasting adrenal crisis and decrease neonatal mortality. A diagnosis of CAH is most
+often confirmed during the newborn screenings which tests for elevated 17-
+hydroxyprogesterone levels. Other tests that are used in the diagnosis of CAH
+include cosyntropin stimulation tests and genetic testing with confirmed cytochrome
+(CYP)21A2 genotype. Management of classic CAH requires adequate glucocorticoid
+replacement with hydrocortisone at supraphysiological doses.
+Page 1 of 3 - Cigna National Formulary Coverage - Policy:Adrenal Hyperplasia – Crenessity Prior Authorization
+Policy
+Clinical Efficacy
+The efficacy of Crenessity for the treatment of classic CAH has been evaluated in
+two pivotal studies.1,3,4 One study included pediatric patients and the other
+included adults. Both studies required the patients to have a confirmed diagnosis
+of CAH and to receive a stable dose of glucocorticoid of > 12 mg/m2/day in
+hydrocortisone dose equivalents. In both studies, compared with placebo,
+Crenessity significantly decreased serum androstenedione levels from baseline at
+Week 4. In addition, compared with placebo, the total glucocorticoid dose while
+androstenedione was controlled (≤ 120% of baseline or ≤ upper limit of normal)
+was significantly reduced in the Crenessity group at Week 24.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Crenessity.
+All approvals are provided for the duration noted below. In cases where the
+approval is authorized in months, 1 month is equal to 30 days. Because of the
+specialized skills required for evaluation and diagnosis of patients treated with
+Crenessity as well as the monitoring required for adverse events and long-term
+efficacy, initial approval requires Crenessity to be prescribed by or in consultation
+with a physician who specializes in the condition being treated.
+• Crenessity™ (crinecerfont capsules and oral solution - Neurocrine
+Biosciences)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Classic Congenital Adrenal Hyperplasia (CAH). Approve for the duration
+noted if the patient meets ONE of the following (A and B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the
+following (i, ii, and iii):
+i. Patient is ≥ 4 years of age; AND
+ii. Patient meets BOTH of the following (a and b):
+a) The medication will be taken in combination with a systemic
+glucocorticoid; AND
+Note: Examples of glucocorticoids include hydrocortisone, prednisone,
+prednisolone, or dexamethasone.
+b) Patients has a diagnosis of 21-hydroxylase deficiency CAH confirmed
+by ONE of the following [(1), (2), (3), or (4)]:
+(1) Elevated 17-hydroxyprogesterone level; OR
+(2) Confirmed cytochrome (CYP)21A2 genotype; OR
+(3) Positive newborn screening with confirmatory second-tier
+testing; OR
+3 Pages - Cigna National Formulary Coverage - Policy:Adrenal Hyperplasia – Crenessity Prior Authorization Policy
+(4) Diagnostic results after cosyntropin stimulation; AND
+iii. The medication is prescribed by or in consultation with an endocrinologist,
+urologist, or a physician who specializes in the treatment of adrenal
+hyperplasia.
+B) Patient is Currently Receiving Crenessity. Approve for 1 year if, according to
+the prescriber, the patient is continuing to derive benefit from Crenessity.
+Note: Examples of responses to Crenessity therapy are reduced
+androstenedione levels, decreased 17-hydroxyprogesterone levels, or
+reduction in glucocorticoid dose from baseline (i.e., prior to Crenessity
+therapy) or improved or stabilized clinical signs/symptoms of classic
+Congenital Adrenal Hyperplasia (e.g., decrease in body mass index standard
+deviation scores, improved insulin resistance, reduction of hirsutism, or
+improvement in androstenedione-to-testosterone ratio).
+CONDITIONS NOT COVERED
+• Crenessity™ (crinecerfont capsules and oral solution - Neurocrine
+Biosciences)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s); criteria will be updated as new published data are available.
+REFERENCES
+1. Crenessity™ capsules and oral solution [prescribing information]. San Diago, CA: Neurocrine
+Biosciences, December 2024.
+2. Fraga NR, Minaeian N, Kim MS. Congenital adrenal hyperplasia. Pediatr Rev. 2024;45(2):74-84.
+3. Auchus RJ, Hamidi O, Pivonello R, et al. Phase 3 trial of crinecerfont in adult congenital adrenal
+hyperplasia. N Engl J Med. 2024;391(6):504-514.
+4. Sarafoglou K, Kim MS, Lodish M, et al. Phase 3 trial of crinecerfont in pediatric congenital adrenal
+hyperplasia. N Engl J Med. 2024;391(6):493-503.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 12/18/2024
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2025 The Cigna
+Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Adrenal Hyperplasia – Crenessity Prior Authorization Policy

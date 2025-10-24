@@ -1,0 +1,66 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1373-5
+Program Prior Authorization/Notification
+Medication Livmarli™ (maralixibat)
+P&T Approval Date 11/2021, 11/2022, 5/2023, 5/2024, 9/2024
+Effective Date 12/1/2024
+1. Background:
+Livmarli (maralixibat) is an ileal bile acid transporter inhibitor indicated for the treatment of
+cholestatic pruritis in patients 12 months of age and older with progressive familial intrahepatic
+cholestasis (PFIC). Livmarli is also indicated for the treatment of cholestatic pruritis in patients
+3 months of age and older with Alagille syndrome (ALGS).
+Limitation of Use:
+Livmarli is not recommended in a subgroup of PFIC type 2 patients with specific ABCB11
+variants resulting in non-functional or complete absence of bile salt export pump (BSEP) protein.
+2. Coverage Criteriaa:
+A. Progressive Familial Intrahepatic Cholestasis
+1. Initial Authorization
+a. Livmarli will be approved based upon both of the following criteria:
+(1) Diagnosis of progressive familial intrahepatic cholestasis (PFIC)
+-AND-
+(2) Patient is experiencing pruritus associated with PFIC.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Livmarli will be approved based on the following criterion:
+(1) Documentation of positive clinical response to Livmarli therapy
+Authorization will be issued for 12 months.
+B. Alagille Syndrome
+1. Initial Authorization
+a. Livmarli will be approved based upon both of the following criteria:
+© 2024 UnitedHealthcare Services, Inc.
+1
+(1) Diagnosis of Alagille syndrome (ALGS).
+-AND-
+(2) Patient is experiencing pruritus associated with ALGS.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Livmarli will be approved based on the following criterion:
+(1) Documentation of positive clinical response to Livmarli therapy
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by
+program and/or therapeutic class.
+• Supply limits may be in place.
+4. Reference:
+1. Livmarli [package insert]. Foster City, CA: Mirum Pharmaceuticals, Inc.; July 2024.
+Program Prior Authorization/Notification - Livmarli (maralixibat)
+Change Control
+11/2021 New program
+11/2022 Annual review with no changes to coverage criteria. Added state
+mandate footnote.
+5/2023 Updated background with expanded indication in ALGS patients 3
+months of age and older. No change to coverage criteria. Updated
+reference.
+5/2024 Annual review. Added coverage criteria for new PFIC indication.
+Updated initial authorization duration to 12 months for ALGS
+indication. Updated background and reference.
+9/2024 Updated background with expanded PFIC indication in patients 12
+months to 4 years of age. Updated reference.
+© 2024 UnitedHealthcare Services, Inc.
+2

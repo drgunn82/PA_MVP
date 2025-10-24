@@ -1,0 +1,83 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2232-7
+Program Prior Authorization/Medical Necessity
+Medication Orladeyo® (berotralstat)*
+P&T Approval Date 3/2021, 8/2021, 10/2021, 10/2022, 10/2023, 3/2024, 3/2025
+Effective Date 6/1/2025
+1. Background:
+Orladeyo is a plasma kallikrein inhibitor indicated for prophylaxis to prevent attacks of hereditary
+angioedema (HAE) in adults and pediatric patients 12 years and older. Orladeyo should not be
+used for the treatment of acute HAE attacks.1
+2. Coverage Criteriaa:
+A. Orladeyo* will be approved based on all of the following criteria:
+1. Diagnosis of hereditary angioedema (HAE) as confirmed by one of the following:
+a. C1 inhibitor (C1-INH) deficiency or dysfunction (Type I or II HAE) as documented by
+one of the following (per laboratory standard):
+(1) C1-INH antigenic level below the lower limit of normal
+(2) C1-INH functional level below the lower limit of normal
+-OR-
+b. HAE with normal C1 inhibitor levels and one of the following:
+(1) Confirmed presence of variant(s) in the gene(s) for factor XII, angiopoietin-1,
+plasminogen-1, kininogen-1, myoferlin, and heparan sulfate-glucosamine 3-O-
+sulfotransferase 6
+(2) Recurring angioedema attacks that are refractory to high-dose antihistamines with
+confirmed family history of angioedema
+(3) Recurring angioedema attacks that are refractory to high-dose antihistamines with
+unknown background de-novo mutation(s) (i.e., no family history) (HAE-unknown)
+-AND-
+2. All of the following:
+a. Prescribed for the prophylaxis of HAE attacks
+-AND-
+b. Not used in combination with other approved products indicated for prophylaxis against
+HAE attacks (i.e., Cinryze, Haegarda, Takhzyro)
+© 2025 UnitedHealthcare Services Inc.
+1
+-AND-
+c. Prescriber attests that patient has experienced attacks of a severity and/or frequency
+such that they would clinically benefit from prophylactic therapy with Orladeyo
+-AND-
+d. History of failure to both of the following (document date of trial and list reason for
+therapeutic failure):
+(1) Haegarda (C1 esterase inhibitor, human)
+(2) Takhzyro (lanadelumab)
+-AND-
+3. Prescribed by one of the following:
+1. Immunologist
+2. Allergist
+Authorization of therapy will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+* Orladeyo is typically excluded from coverage. Coverage reviews may be in place if required by
+law or the benefit plan.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim
+logic. Use of automated approval and re-approval processes varies by program and/or
+therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Orladeyo [package insert]. Durham, NC: BioCryst Pharmaceuticals Inc.; October 2024.
+2. Busse, P., Christiansen, S., Riedl, M., et. al. “US HAEA Medical Advisory Board 2020
+Guidelines for the Management of Hereditary Angioedema.” The Journal of Allergy and
+Clinical Immunology. 2020 September 05.
+3. Maurer, M., Magerl, M., et. al. “The international WAO/EAACI guideline for the management
+of hereditary angioedema – the 2017 revision and update.” World Allergy Organization
+Journal. 2018 February 27.
+© 2025 UnitedHealthcare Services Inc.
+2
+Program Prior Authorization/Medical Necessity – Orladeyo (berotralstat)
+Change Control
+3/2021 New program.
+8/2021 Criteria updated to include failure of both Haegarda and Takhzyro.
+Reauthorization criteria removed. Exclusion statement added.
+10/2021 Removed Initial Authorization verbiage and updated formatting with no
+change to clinical criteria.
+10/2022 Annual review with no changes to clinical criteria. Updated reference.
+10/2023 Annual review with no changes to clinical criteria.
+3/2024 Annual review with update to diagnostic criteria for HAE with normal C1
+inhibitor levels.
+3/2025 Annual review with no changes to clinical criteria. Updated reference.
+© 2025 UnitedHealthcare Services Inc.
+3

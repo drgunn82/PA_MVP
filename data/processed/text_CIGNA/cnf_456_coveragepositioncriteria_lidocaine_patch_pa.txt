@@ -1,0 +1,259 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Lidocaine Patch Products Prior Authorization Policy
+• Lidoderm® (lidocaine 5% patch − Endo, generic)
+• ZTlido® (lidocaine 1.8% topical system – Scilex)
+REVIEW DATE: 10/02/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Lidocaine 5% patch and ZTlido are indicated for the relief of pain associated with
+postherpetic neuralgia (PHN).1,2
+Lidocaine is an amide-type local anesthetic agent that is suggested to stabilize
+neuronal membranes by inhibiting sodium ion channels and the ionic fluxes required
+for the initiation and conduction of neuronal impulses producing a local analgesic
+effect when applied transdermally.1,2 The lidocaine penetration into intact skin is
+adequate to produce an analgesic effect, but less than the amount needed to produce
+a complete sensory block. In a single-dose, crossover study in healthy volunteers,
+ZTlido demonstrated equivalent exposure and peak concentration of lidocaine to
+lidocaine patch 5% (Lidoderm, generics).2
+Other Uses with Supportive Evidence
+Lidocaine 5% patches have been shown to be effective in treating low back pain in
+open-label studies in patients not achieving adequate pain relief despite as needed
+or stable doses of non-selective nonsteroidal anti-inflammatory drugs (NSAIDs),
+cyclooxygenase-2 (COX-2) inhibitors, gabapentin, tramadol, or opioids.3-5 The
+guidelines for treatment of low back pain (2017) do not address the use of topical
+Page 1 of 7 - Cigna National Formulary Coverage - Policy:Lidocaine Patch Products Prior Authorization Policy
+lidocaine; however, various other agents are used for pain associated with low back
+pain.6 In patients with acute or subacute low back pain, the guidelines recommend
+NSAIDs or skeletal muscle relaxants as pharmacologic treatment options (strong
+recommendation; moderate-quality evidence). In patients with chronic low back pain
+who have had an inadequate response to nonpharmacologic therapy, the guidelines
+recommend consideration of pharmacologic treatment with NSAIDs as first-line
+therapy or tramadol or duloxetine as second-line therapy. Of note, tramadol is a
+narcotic and, like other opioids, is associated with the risk for abuse. Clinicians should
+only consider opioids as an option in patients who have failed the aforementioned
+treatments and only if the potential benefits outweigh the risks for individual patients
+and after a discussion of known risks and realistic benefits with patients (weak
+recommendation; moderate-quality evidence). Moderate-quality evidence showed
+no difference in pain between tricyclic antidepressants (TCAs) or selective serotonin
+reuptake inhibitors vs. placebo, and low-quality evidence showed no differences in
+function for antidepressants. Moderate-quality evidence showed that duloxetine was
+associated with a small improvement in pain intensity and function vs. placebo.
+Lidocaine 5% patch has been shown to be effective in treating neuropathic pain of
+various forms and etiologies as monotherapy and, more commonly, as adjunctive
+therapy to a stable analgesic regimen.3,7-14 There is evidence to suggest that
+lidocaine 5% patch, along with several other analgesics (i.e., opioids, tramadol,
+TCAs), can be effective as first-line therapy in the management of neuropathic pain.12
+The 2011 evidence-based guideline on treatment of painful diabetic neuropathy,
+published by the American Academy of Neurology (AAN), indicates the lidocaine 5%
+patch may be considered for the treatment of painful diabetic neuropathy.15
+Recommendations for the pharmacological management of neuropathic pain,
+published by the Mayo Foundation, indicate that lidocaine 5% patch has shown
+efficacy in patients with varying types of neuropathic pain, and are considered a first-
+line therapy.16
+Several open-label trials have shown lidocaine 5% patches to be effective in treating
+pain associated with osteoarthritis of the knee both as monotherapy and in
+combination with other analgesics (e.g., NSAIDs, COX-2 inhibitors, opioids, tramadol,
+acetaminophen).17-20 In one open-label comparative trial (prematurely terminated
+before enrollment goals were achieved due to safety concerns surrounding the entire
+COX-2 class),21 treatment of knee osteoarthritis with lidocaine 5% patches (1-⅓
+patches applied every 24 hours) resulted in comparable reductions in pain intensity
+scores as celecoxib 200 mg/day.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of lidocaine
+patches. All approvals are provided for the duration noted below.
+• Lidoderm® (lidocaine 5% patch ( Endo, generic)
+• ZTlido® (lidocaine 1.8% topical system – Scilex)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+3 Pages - Cigna National Formulary Coverage - Policy:Lidocaine Patch Products Prior Authorization Policy
+FDA-Approved Indication
+1. Postherpetic Neuralgia (PHN). Approve for 1 year.
+Other Uses with Supportive Evidence
+2. Low Back Pain. Approve for 1 year after trying at least three pharmacologic
+therapies with each one from a different class of medication used to treat low
+back pain.
+Note: Examples of different classes of pharmacologic therapies for low back pain
+include acetaminophen, nonsteroidal anti-inflammatory drugs, muscle relaxants,
+celecoxib, duloxetine, gabapentin. Examples of nonsteroidal anti-inflammatory
+drugs include etodolac, meloxicam, and nabumetone. Examples of muscle
+relaxants include carisoprodol, chlorzoxazone, cyclobenzaprine, metaxalone,
+methocarbamol, and orphenadrine.
+3. Neuropathic Pain. Approve for 1 year.
+Note: For neuropathic pain due to radiculopathy or sciatica, please refer
+to the Conditions Not Covered
+Lidoderm® (lidocaine 5% patch ( Endo, generic)
+ZTlido® (lidocaine 1.8% topical system – Scilex)
+is(are) considered experimental, investigational or unproven for ANY other use(s)
+including the following (this list may not be all inclusive; criteria will be updated
+as new published data are available):
+section for Radiculopathy or Sciatica.
+4. Osteoarthritis. Approve for 1 year after trying at least three pharmacologic
+therapies with each one from a different class of medication used for the
+treatment of osteoarthritis.
+Note: Examples of different classes of pharmacologic therapies for osteoarthritis
+include acetaminophen, celecoxib, nonsteroidal anti-inflammatory drugs,
+salicylates, intraarticular glucocorticoids, intraarticular hyaluronan, topical
+capsaicin, and topical methylsalicylate.22 Examples of nonsteroidal anti-
+inflammatory drugs include etodolac, meloxicam, and nabumetone.
+3 Pages - Cigna National Formulary Coverage - Policy:Lidocaine Patch Products Prior Authorization Policy
+CONDITIONS NOT COVERED
+1. Carpal Tunnel Syndrome. Two open-label trials have investigated the lidocaine
+5% patch for the relief of pain associated with carpal tunnel symdrome.23,24 In an
+open-label, parallel-group, single-center, active-controlled trial,23 40 patients with
+carpal tunnel syndrome were randomized to daily treatment with lidocaine patch
+5% or an injection of lidocaine 1% plus methylprednisolone. After 4 weeks of
+treatment, both groups reported statistically significant improvement in pain
+scores. A 6-week, randomized, parallel-group, open-label multicenter study24
+found that lidocaine 5% patches given every 24 hours and naproxen 500 mg twice
+daily both led to significant reductions is the Average Pain Intensity scores in 100
+patients with carpal tunnel syndrome. The 2016 American Academy of
+Orthopaedic Surgeons (AAOS) guidelines on carpal tunnel syndrome do not
+mention topical lidocaine in their recommendations for treatment.25 In addition,
+the AAOS guidelines have a supplemental evidence table that addresses the
+studies AAOS evaluated for their guidelines. This table states that the above-
+referenced articles were excluded from their guidelines because they used non-
+validated outcome measures.
+2. Fibromyalgia. There are no data available on the use of lidocaine patches in
+treating pain associated with fibromyalgia.
+3. Myofascial Pain as Adjunctive Therapy. Published data are limited to small
+(n < 60 in each study) studies of lidocaine 5% patches.26-29 Larger, controlled
+studies are needed to fully determine the place in therapy of lidocaine patches for
+the treatment of myofascial pain.
+4. Pain Associated with Rib Fractures. Lidocaine 5% patch did not significantly
+improve pain control in patients with traumatic rib fractures in one randomized,
+double-blind, placebo-controlled study.30 A retrospective chart analysis found
+lidocaine patches decreased pain scores in 29 patients with rib fractures vs. 29
+matched controls, with no change in narcotic use and no difference in time to
+return to baseline activity.31 A small (n = 44) double-blind, placebo-controlled
+study in hospitalized patients with traumatic rib fracture in Taiwan found that
+lidocaine 5% patch decreased pain scores after Day 5 of therapy vs. placebo, with
+no difference in oral opioid use but decreased meperidine injection use.32 Larger,
+controlled studies are needed to fully determine the place in therapy of lidocaine
+5% patch for the treatment of pain associated with rib fractures.
+5. Radiculopathy. Published data on the use of lidocaine patches in treating pain
+associated with radiculopathy is limited.11,33 Larger, controlled studies are needed
+to fully determine the place in therapy of lidocaine patches for the treatment of
+radiculopathy.
+6. Rheumatoid Arthritis (RA). There are no data available on the use of lidocaine
+patches in treating pain associated with RA.
+3 Pages - Cigna National Formulary Coverage - Policy:Lidocaine Patch Products Prior Authorization Policy
+7. Sciatica. There are no data available on the use of lidocaine patches in treating
+pain associated with sciatica.
+REFERENCES
+1. Lidoderm® patches [prescribing information]. Malvern, PA: Endo; November 2022.
+2. ZTlido® transdermal system [prescribing information]. San Diego, CA: Scilex; April 2021.
+3. White WT, Patel N, Drass M, Nalamachu S. Lidocaine patch 5% with systemic analgesics such as
+gabapentin: a rational polypharmacy approach for the treatment of chronic pain. Pain Med.
+2003;4(4):321-30.
+4. Galer BS, Gammaitoni AR, Oleka N, Jensen MP, Argoff CE. Use of the lidocaine patch 5% in reducing
+intensity of various pain qualities reported by patients with low-back pain. Curr Med Res Opin.
+2004;20(Suppl 2):S5-12.
+5. Gimbel J, Linn R, Hale M, Nicholson B. Lidocaine patch treatment in patients with low back pain:
+results of an open-label, nonrandomized pilot study. Am J Ther. 2005;12:311-319.
+6. Qaseem A, Wilt TJ, McLean RM, et al. Noninvasive treatments for acute, subacute, and chronic low
+back pain: a clinical practice guideline from the American College of Physicians. Ann Intern Med.
+2017;166(7):514-530.
+7. Barbano RL, Herrmann DN, Hart-Gouleau S, Pennella-Vaughan J, Lodewick PA, Dworkin RH.
+Effectiveness, tolerability, and impact on quality of life of the 5% lidocaine patch in diabetic
+polyneuropathy. Arch Neurol. 2004;61(6):914-918.
+8. IBM Micromedex®. 2024 IBM Corporation. Available at:
+http://www.micromedexsolutions.com/home/dispatch. Accessed on September 30, 2024. Search
+terms: lidocaine.
+9. Meier T, Wasner G, Faust M, et al. Efficacy of lidocaine patch 5% in the treatment of focal peripheral
+neuropathic pain syndromes: a randomized, double-blind, placebo-controlled study. Pain.
+2003;106(1-2):151-158.
+10. Galer BS, Jensen MP, Ma T, et al. The lidocaine patch 5% effectively treats all neuropathic pain
+qualities: results of a randomized, double-blind, vehicle-controlled, three-week efficacy study with
+use of the neuropathic pain scale. Clin J Pain. 2002;18:297-301.
+11. Devers A, Galer BS. Topical lidocaine patch relieves a variety of neuropathic pain conditions: an
+open-label study. Clin J Pain. 2000;16:205-208.
+12. Dworkin RH, Backonja M, Rowbotham MC, et al. Advances in neuropathic pain: diagnosis,
+mechanisms, and treatment recommendations. Arch Neurol. 2003;60(11):1524-1534.
+13. Herrmann DN, Barbano RL, Hart-Gouleau S, et al. An open-label study of the lidocaine patch 5%
+in painful idiopathic sensory polyneuropathy. Am Acad Pain Med. 2005;6(5):379-384.
+14. Fleming JA, O’Connor BD. Use of lidocaine patches for neuropathic pain in a comprehensive cancer
+centre. Pain Res Manage. 2009;14:381-388.
+15. Bril V, England J, Franklin GM, et al. Evidence-based Guideline: Treatment of Painful Diabetic
+Neuropathy Report of the American Academy of Neurology, the American Association of
+Neuromuscular and Electrodiagnostic Medicine, and the American Academy of Physical Medicine and
+Rehabilitation. Neurology. 2011;76(20):1758-1765.
+16. Dworkin RH, O’Connor AB, Audette J, et al. Recommendations for the pharmacological management
+of neuropathic pain: an overview and literature update. Mayo Clin Proc. 2010;85:S3-S14.
+17. Galer BS, Sheldon E, Patel N, et al. Topical lidocaine patch 5% may target a novel underlying pain
+mechanism in osteoarthritis. Curr Med Res Opin. 2004;20(9):1455-1458.
+18. Gammaitoni AR, Galer BS, Onawala R, et al. Lidocaine patch 5% and its positive impact on pain
+qualities in osteoarthritis: results of a pilot 2-week, open-label study using the Neuropathic Pain
+Scale. Curr Med Res Opin. 2004;20(Suppl 2):S13-19.
+19. Burch F, Codding C, Patel N, Sheldon E. Lidocaine patch 5% improves pain, stiffness, and physical
+function in osteoarthritis pain patients. Osteoarthritis Cartilage. 2004;12(3):253-255.
+20. Stitik TP, Altschuler E, Foye PM. Pharmacotherapy of osteoarthritis. Am J Phys Med Rehabil.
+2006;85(11 Suppl):S15-S28.
+21. Kivitz A, Fairfax M, Sheldon EA, et al. Comparison of the effectiveness and tolerability of lidocaine
+patch 5% versus celecoxib for osteoarthritis-related knee pain: post hoc analysis of a 12-week,
+prospective, randomized, active-controlled, open-label, parallel-group trial in adults. Clin Ther.
+2008;30:2366-2377.
+3 Pages - Cigna National Formulary Coverage - Policy:Lidocaine Patch Products Prior Authorization Policy
+22. Hochberg MC, Altman RD, April KT, et al. American College of Rheumatology 2012
+recommendations for the use of nonpharmacologic and pharmacologic therapies in osteoarthritis of
+the hand, hip, and knee. Arthritis Care Res. 2012;64:465-474.
+23. Nalamachu S, Crockett RS, Mathur D. Lidocaine patch 5 for carpal tunnel syndrome: how it
+compared with injections: a pilot study. J Fam Pract. 2006;55(3):209-214.
+24. Nalamachu S, Crockett RS, Gammaitoni AR, Gould EM. A comparison of the lidocaine patch 5% vs.
+naproxen 500 mg twice daily for the relief of pain associated with carpal tunnel syndrome: a 6-
+week, randomized, parallel-group study. MedGenMed. 2006;8(3):33.
+25. American Academy of Orthopaedic Surgeons. Management of Carpal Tunnel Syndrome Evidence-
+Based Clinical Practice Guideline. Available at: http://www.orthoguidelines.org/topic?id=1020.
+Published February 29, 2016. Accessed on September 30, 2024.
+26. Dalpiaz AS, Lordon SP, Lipman AG. Topical lidocaine patch therapy for myofascial pain. J Pain
+Palliat Care Pharmacother. 2004;18(3):15-34.
+27. Firmani M, Miralles R, Casassus R. Effect of lidocaine patches on upper trapezius EMG activity and
+pain intensity in patients with myofascial trigger points: a randomized clinical study. Acta Odontol
+Scand. 2015;73(3):210-218.
+28. Affaitati G, Fabrizio A, Savini A, et al. A randomized, controlled study comparing a lidocaine patch,
+a placebo patch, and anesthetic injection for treatment of trigger points in patients with myofascial
+pain syndrome: evaluation of pain and somatic pain thresholds. Clin Ther. 2009;31:705-720.
+29. Lin YC, Kuan TS, Hsieh PC, et al. Therapeutic effects of lidocaine patch on myofascial pain syndrome
+of the upper trapezius: a randomized, double-blind, placebo-controlled study. Am J Phys Med
+Rehabil. 2012;91:871-882.
+30. Ingalls NK, Horton ZA, Bettendorf M, et al. Randomized, double-blind, placebo-controlled trial using
+lidocaine patch 5% in traumatic rib fractures. J Am Coll Surg. 2010;210:205-209.
+31. Zink KA, Mayberry JC, Peck EG, et al. Lidocaine patches reduce pain in trauma patients with rib
+fractures. Am Surg. 2011;77(4):438-442.
+32. Cheng YJ. Lidocaine skin patch (Lidopat® 5%) is effective in the treatment of traumatic rib fractures:
+a prospective double-blinded and vehicle-controlled study. Med Princ Pract. 2016;25(1):36-39.
+33. Martini A, Del Balzo G, Schweiger V, et al. Efficacy of lidocaine 5% medicated plaster (VERSATIS®)
+in patients with localized neuropathic pain poorly responsive to pharmacological therapy. Minerva
+Med. 2018;109(5):344-351.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. Title of Policy was updated to from “Lidocaine 09/27/2023
+Revision Patch” to “Lidocaine Patch Products”.
+Annual No criteria changes. 10/02/2024
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2024 The Cigna
+Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Lidocaine Patch Products Prior Authorization Policy

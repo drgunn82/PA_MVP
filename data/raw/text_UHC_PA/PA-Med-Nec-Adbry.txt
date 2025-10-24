@@ -1,0 +1,155 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2269-5
+Program Prior Authorization/Medical Necessity
+Medications Adbry™ (tralokinumab-ldrm)
+P&T Approval Date 2/2022, 7/2022, 3/2023, 3/2023, 4/2025
+Effective Date 7/1/2025
+1. Background:
+Adbry (tralokinumab-ldrm) is an interleukin-13 antagonist indicated for the treatment of
+moderate to severe atopic dermatitis in patients aged 12 years and older whose disease is not
+adequately controlled with topical prescription therapies or when those therapies are not
+advisable. Adbry can be used with or without topical corticosteroids.
+2. Coverage Criteriaa:
+A. Atopic Dermatitis
+1. Initial Authorization
+a. Adbry will be approved based on all of the following criteria:
+(1) Diagnosis of moderate to severe chronic atopic dermatitis
+-AND-
+(2) History of failure, contraindication, or intolerance to two of the following
+therapeutic classes of topical therapies (document drug, date of trial, and/ or
+contraindication to medication)^:
+(a) Medium, high, or very-high potency topical corticosteroid [e.g., Elocon
+(mometasone furoate), Synalar (fluocinolone acetonide), Lidex
+(fluocinonide)]
+(b) Topical calcineurin inhibitor [e.g., Elidel (pimecrolimus), Protopic
+(tacrolimus)]*
+(c) Eucrisa (crisaborole)*
+-AND-
+(3) Patient is not receiving Adbry in combination with either of the following:
+(a) Biologic immunomodulator [e.g., Dupixent (dupilumab), Ebglyss
+(lebrikizumab-lbkz), Nemluvio (nemolizumab-ilto)]
+(b) Janus kinase inhibitor [e.g., Cibinqo (abrocitinib), Opzelura (topical
+ruxolitinib), Rinvoq (upadacitinib), Xeljanz/XR (tofacitinib)]
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+1
+(4) Prescribed by one of the following:
+(a) Dermatologist
+(b) Allergist
+(c) Immunologist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Adbry will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Adbry therapy
+-AND-
+(2) Patient is not receiving Adbry in combination with either of the following:
+(a) Biologic immunomodulator [e.g., Dupixent (dupilumab), Ebglyss
+(lebrikizumab-lbkz), Nemluvio (nemolizumab-ilto)]
+(b) Janus kinase inhibitor [e.g., Cibinqo (abrocitinib), Opzelura (topical
+ruxolitinib), Rinvoq (upadacitinib), Xeljanz/XR (tofacitinib)]
+-AND-
+(3) Prescribed by one of the following:
+(a) Dermatologist
+(b) Allergist
+(c) Immunologist
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+^Tried/failed alternative(s) are supported by FDA labeling.
+* Elidel, Protopic/tacrolimus ointment, and Eucrisa require prior authorization.
+© 2025 UnitedHealthcare Services, Inc.
+2
+Table 1: Relative potencies of topical corticosteroids
+Class Drug Dosage Form Strength
+(%)
+Augmented betamethasone Ointment, gel 0.05
+dipropionate
+Very high
+Clobetasol propionate Cream, foam, ointment 0.05
+potency
+Diflorasone diacetate Ointment 0.05
+Halobetasol propionate Cream, ointment 0.05
+Amcinonide Cream, lotion, ointment 0.1
+Augmented betamethasone Cream, lotion 0.05
+dipropionate
+Betamethasone dipropionate Cream, foam, ointment, solution 0.05
+Desoximetasone Cream, ointment 0.25
+High Potency Desoximetasone Gel 0.05
+Diflorasone diacetate Cream 0.05
+Fluocinonide Cream, gel, ointment, solution 0.05
+Halcinonide Cream, ointment 0.1
+Mometasone furoate Ointment 0.1
+Triamcinolone acetonide Cream, ointment 0.5
+Betamethasone valerate Cream, foam, lotion, ointment 0.1
+Clocortolone pivalate Cream 0.1
+Desoximetasone Cream 0.05
+Fluocinolone acetonide Cream, ointment 0.025
+Medium
+Flurandrenolide Cream, ointment, lotion 0.05
+potency
+Fluticasone propionate Cream 0.05
+Fluticasone propionate Ointment 0.005
+Mometasone furoate Cream, lotion 0.1
+Triamcinolone acetonide Cream, ointment, lotion 0.1
+Hydrocortisone butyrate Cream, ointment, solution 0.1
+Lower-
+Hydrocortisone probutate Cream 0.1
+medium
+Hydrocortisone valerate Cream, ointment 0.2
+potency
+Prednicarbate Cream 0.1
+Alclometasone dipropionate Cream, ointment 0.05
+Low potency Desonide Cream, gel, foam, ointment 0.05
+Fluocinolone acetonide Cream, solution 0.01
+Dexamethasone Cream 0.1
+Lowest
+Hydrocortisone Cream, lotion, ointment, solution 0.25, 0.5, 1
+potency
+Hydrocortisone acetate Cream, ointment 0.5-1
+© 2025 UnitedHealthcare Services, Inc.
+3
+Table 2: Low, medium and high daily doses of inhaled corticosteroids
+Adults and adolescents (12 years of age and older)
+Drug Daily dose (mcg)
+Low Medium High
+Beclometasone dipropionate (CFC) 200-500 >500-1000 >1000
+Beclometasone dipropionate (HFA) 100-200 >200-400 >400
+Budesonide DPI 200-400 >400-800 >800
+Ciclesonide (HFA) 80-160 >160-320 >320
+Fluticasone furoate (DPI) 100 n.a 200
+Fluticasone propionate (DPI) 100-250 >250-500 >500
+Fluticasone propionate (HFA) 100-250 >250-500 >500
+Mometasone furoate 110-220 >220-440 >440
+Triamcinolone acetonide 400-1000 >1000-2000 >2000
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim
+logic. Use of automated approval and re-approval processes varies by program and/or
+therapeutic class
+• Supply limitations may be in place
+4. References:
+1. Adbry [package insert]. Madison, NJ: Leo Pharma Inc.; June 2024.
+2. Eichenfield LF, Tom WL, Chamlin SL et al. Guidelines of care for the management of atopic
+dermatitis: section 1. Diagnosis and assessment of atopic dermatitis. J Am Acad Dermatol.
+2014; 70(1):338-51.
+3. Eichenfield LF, Tom WL, Berger TG, et al. Guidelines of care for the management of atopic
+dermatitis: section 2. Management and treatment of atopic dermatitis with topical therapies. J
+Am Acad Dermatol. 2014; 71(1):116-32.
+4. Sidbury R, Davis DM, Cohen DE, et al. Guidelines of care for the management of atopic
+dermatitis: Section 3. Management and treatment with phototherapy and systemic agents. J Am
+Acad Dermatol. 2014 Aug;71(2):327-49.
+Program Prior Authorization/Medical Necessity - Adbry (tralokinumab-ldrm)
+Change Control
+2/2022 New program.
+7/2022 Removed age requirement from initial authorization. Updated
+reference.
+3/2023 Annual review. Updated not used in combination criteria and reference.
+3/2024 Annual review. Clarified topical steroid potency in atopic dermatitis
+with no change to clinical intent or coverage criteria. Updated
+background and reference.
+4/2025 Annual review with no changes to coverage criteria. Updated examples
+with no change to clinical intent. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+4

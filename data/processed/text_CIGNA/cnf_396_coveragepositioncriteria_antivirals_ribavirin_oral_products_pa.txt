@@ -1,0 +1,164 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Antivirals – Ribavirin (Oral Products) Prior Authorization Policy
+• ribavirin tablets (generic)
+• ribavirin capsules (generic)
+REVIEW DATE: 06/18/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED.
+FOR EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A
+COVERAGE POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN
+THE COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE
+APPLICABLE COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION
+OF HEALTH BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS
+TREATMENT GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND
+OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+The ribavirin products included in this Prior Authorization policy are indicated for
+use in combination with pegylated interferons or interferon for the
+treatment of chronic hepatitis C virus (HCV) in adults and children with
+compensated disease. Ribavirin remains a component of some regimens for the
+management of HCV; however, there is no role for interferon (specifically non-
+pegylated interferon) in the management of HCV.2 The specific indications vary
+slightly among the oral ribavirin products:
+• Ribavirin capsules are indicated in combination with PegIntron®
+(peginterferon alfa-2b injection [obsolete]) or Intron A® (interferon alfa-2b
+injection [obsolete]) for the treatment of chronic HCV in patients ≥ 3 years of
+age with compensated liver disease.1
+• Ribavirin tablets are indicated in combination with Pegasys® (peginterferon
+alfa-2a) for the treatment of patients ≥ 5 years of age with chronic HCV with
+Page 1 of 4: Cigna National Formulary Coverage - Policy: Antivirals – Ribavirin (Oral
+Products) Prior Authorization Policy
+compensated liver disease who have not previously been treated with
+interferon alfa, and in adults with chronic HCV co-infected with human
+immunodeficiency virus.7
+Ribavirin is an antiviral agent with direct antiviral activity in tissue culture against
+many RNA viruses.1 Ribavirin increases the mutation frequency in the genomes of
+several viruses and ribavirin triphosphate inhibits HCV polymerase in a biochemical
+reaction.
+According to the Centers for Disease Control and Prevention, oral ribavirin has been
+used off-label to treat other systemic viral infections including, but not limited to,
+Lassa fever5,6, Nipah virus12, West Nile virus13, and Crimean Congo hemorrhagic
+fever.4,11 In addition, oral ribavirin has a place in therapy for the management of
+respiratory syncytial virus in transplant recipients.3
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of ribavirin.
+The intent of this Prior Authorization program is to ensure ribavirin is not used in
+the absence of pegylated interferon or a direct-acting antiviral for the treatment of
+HCV. All approvals are provided for the duration noted below. Because of the
+specialized skills required for evaluation and diagnosis of patients being treated
+with ribavirin, as well as the monitoring required for adverse events and efficacy,
+approval requires ribavirin (for hepatitis C indications) to be prescribed by or in
+consultation with a physician who specializes in the condition being treated.
+• ribavirin tablets (generic)
+• ribavirin capsules (generic)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Hepatitis C Virus (HCV). Approve for 1 year if the patient meets BOTH of the
+following (A and B):
+A) Patient meets ONE of the following (i or ii):
+i. The medication is prescribed in combination with peginterferon alfa; OR
+Note: Pegasys (pegylated interferon alfa-2a injection) is an example of a
+peginterferon alfa.
+ii. The medication is prescribed in combination with a direct-acting antiviral
+for HCV; AND
+Note: Examples of direct-acting antivirals for HCV include but are not
+limited to Epclusa (velpatasvir/sofosbuvir tablets), Sovaldi (sofosbuvir
+tablets/oral pellets), Harvoni (ledipasvir/sofosbuvir tablets/oral pellets),
+Zepatier (elbasvir/grazoprevir tablets).
+B) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, or liver transplant physician.
+Page 2 of 4: Cigna National Formulary Coverage - Policy: Antivirals – Ribavirin (Oral
+Products) Prior Authorization Policy
+Other Uses with Supportive Evidence
+2. Other Systemic Viral Infections, Excluding COVID-19 (Coronavirus
+Disease 2019). Approve for 1 year.
+CONDITIONS NOT COVERED
+• ribavirin tablets (generic)
+• ribavirin capsules (generic)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. COVID-19 (Coronavirus Disease 2019). Efficacy is not established.8,9
+Ribavirin is not addressed as a treatment modality in guidelines from the
+Infectious Diseases Society of America.10
+REFERENCES
+1. Ribavirin capsules [prescribing information]. East Windsor, NJ: Aurobindo Pharma; July 2023.
+2. American Association for the Study of Liver Diseases and the Infectious Diseases Society of
+America. Testing, managing, and treating hepatitis C. Updated December 19, 2023. Available
+at: http://www.hcvguidelines.org. Accessed on June 12, 2025.
+3. Shah JN and Chemaly RF. Management of RSV infection in adult recipients of hematopoietic stem
+cell transplantation. 2011;117:2755-2763.
+4. Ergonul O, Keske S, Celdir MG, et al. Systematic review and meta-analysis of postexposure
+prophylaxis for Crimean-Congo Hemorrhagic Fever Virus among healthcare workers. Emerg Infect
+Dis. 2018;24(9):1642-1648.
+5. Bausch DG, Hadi CM, Khan SH, Lertora JJL. Review of the literature and proposed guidelines for
+the use of oral ribavirin as postexposure prophylaxis for lassa fever. Clin Infect Dis.
+2010;51(12):1435-1441.
+6. Centers for Disease Control and Prevention. Lassa fever. Treatment. Last reviewed: January 31,
+2025. Available at: https://www.cdc.gov/lassa-
+fever/about/?CDC_AAref_Val=https://www.cdc.gov/vhf/lassa/treatment/index.html. Accessed on
+June 12, 2025.
+7. Ribavirin tablets [prescribing information]. East Windsor, NJ: Aurobindo Pharma; February 2024.
+8. Hung IF, Lung KC, Tso EY, et al. Triple combination of interferon beta-1b, lopinavir-ritonavir, and
+ribavirin in the treatment of patients admitted to hospital with COVID-19: an open-label,
+randomised, Phase 2 trial. Lancet. 2020;395(10238):1695-1704.
+9. Elalfy H, Besheer T, El-Mesery A, et al. Effect of a combination of nitazoxanide, ribavirin, and
+ivermectin plus zinc supplement (MANS.NRIZ study) on the clearance of mild COVID-19. J Med
+Virol. 2021;93(5):3176-3183.
+10. Bhimraj A, Morgan RL, Hirsch Shumaker A, et al. Infectious Diseases Society of America
+Guidelines on the treatment and management of patients with COVID-19. Available at:
+https://www.idsociety.org/practice-guideline/covid-19-guideline-treatment-and-management/.
+Updated June 4, 2025. Accessed on June 4, 2024.
+11. Centers for Disease Control and Prevention. Crimean-Congo Hemorrhagic Fever. Treatment. Last
+reviewed: March 5, 2024. Available at: https://www.cdc.gov/crimean-congo-
+hemorrhagic/about/?CDC_AAref_Val=https://www.cdc.gov/vhf/crimean-
+congo/treatment/index.html. Accessed on June 11, 2025.
+12. Centers for Disease Control and Prevention. Nipah Virus. Treatment. Last reviewed: March 25,
+2024. Available at: https://www.cdc.gov/nipah-virus/hcp/clinical-
+Page 3 of 4: Cigna National Formulary Coverage - Policy: Antivirals – Ribavirin (Oral
+Products) Prior Authorization Policy
+overview/?CDC_AAref_Val=https://www.cdc.gov/vhf/nipah/treatment/index.html. Accessed on
+June 11, 2025.
+13. Centers for Disease Control and Prevention. West Nile Virus. Treatment and prevention. Last
+reviewed: May 15, 2024. Available at: https://www.cdc.gov/west-nile-virus/hcp/treatment-
+prevention/therapeutics-review.html. Accessed on June 12, 2025.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Rebetol and Ribasphere were removed from the policy; both 06/14/2023
+Revision products have been obsolete for 3 years.
+No criteria changes.
+Annual No criteria changes. 06/19/2024
+Revision Hepatitis C Virus (HCV): The note was updated to remove Viekira
+Pak (obsolete) and to note that the products listed within the note
+are examples of HCV direct-acting antivirals, but not a
+comprehensive list.
+Annual No criteria changes. 06/18/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025
+The Cigna Group.
+Page 4 of 4: Cigna National Formulary Coverage - Policy: Antivirals – Ribavirin (Oral
+Products) Prior Authorization Policy

@@ -1,0 +1,70 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2317-2
+Program Prior Authorization/Medical Necessity
+Medication Litfulo™ (ritlecitinib)
+P&T Approval Date 11/2023, 12/2024
+Effective Date 3/1/2025
+1. Background:
+Litfulo (ritlecitinib) is a kinase inhibitor indicated for the treatment of severe alopecia areata in adults
+and adolescents 12 years and older.
+Limitations of Use:
+Not recommended for use in combination with other JAK inhibitors, biologic immunomodulators,
+cyclosporine or other potent immunosuppressants
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Litfulo will be approved based on all of the following criteria:
+a. Diagnosis of severe alopecia areata
+-AND-
+b. Other causes of hair loss have been ruled out (e.g., androgenetic alopecia, cicatricial
+alopecias, secondary syphilis, tinea capitis, triangular alopecia, and trichotillomania)
+-AND-
+c. Patient has a current episode of alopecia areata with at least 50% scalp hair loss
+-AND-
+d. Patient is not receiving Litfulo in combination with either of the following:
+(1) Targeted immunomodulator [e.g., Olumiant (baricitinib), Enbrel (etanercept),
+Cimzia (certolizumab), Simponi (golimumab), Orencia (abatacept), adalimumab,
+Xeljanz (tofacitinib), Rinvoq (upadacitinib)]
+(2) Potent immunosuppressant (e.g., azathioprine or cyclosporine)
+-AND-
+e. Prescribed by or in consultation with a dermatologist
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services Inc.
+1
+B. Reauthorization
+1. Litfulo will be approved based on both of the following criteria:
+a. Documentation of positive clinical response to Litfulo therapy
+-AND-
+b. Patient is not receiving Litfulo in combination with either of the following:
+(1) Targeted immunomodulator [e.g., Olumiant (baricitinib), Enbrel (etanercept),
+Cimzia (certolizumab), Simponi (golimumab), Orencia (abatacept), adalimumab,
+Xeljanz (tofacitinib), Rinvoq (upadacitinib)]
+(2) Potent immunosuppressant (e.g., azathioprine or cyclosporine)
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits and/or Step Therapy may be in place.
+4. References:
+1. Litfulo [package insert]. New York, NY: Pfizer, Inc.; June 2023.
+2. Messenger AG, McKillop J, Farrant P, et al. British Association of Dermatologists' guidelines for
+the management of alopecia areata 2012. Br J Dermatol. 2012;166(5):916-926.
+3. King BA, Mesinkovska NA, Craiglow B, et al. Development of the alopecia areata scale for
+clinical use: results of an academic-industry collaborative effort. J Am Acad Dermatol.
+2022;86(2):359-364.
+4. Meah N, Wall D, York K, et al. The Alopecia Areata Consensus of Experts (ACE) study: Results
+of an international expert opinion on treatments for alopecia areata. J Am Acad Dermatol.
+2020;83(1):123-130.
+5. King BA, Senna MM, Ohyama M, et al. Defining Severity in Alopecia Areata: Current
+Perspectives and a Multidimensional Framework. Dermatol Ther (Heidelb). 2022 Apr;12(4):825-
+834.
+Program Prior Authorization/Medical Necessity - Litfulo (ritlecitinib)
+Change Control
+11/2023 New program.
+12/2024 Annual review with no change to coverage criteria.
+© 2024 UnitedHealthcare Services Inc.
+2

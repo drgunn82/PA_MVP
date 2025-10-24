@@ -1,0 +1,228 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1231-9
+Program Prior Authorization/Notification
+Medication Mavyret® (glecaprevir/pibrentasvir)
+P&T Approval Date 9/2017, 11/2018, 11/2019, 3/2020, 3/2021, 8/2021, 8/2022, 8/2023,
+8/2024
+Effective Date 11/1/2024
+1. Background:
+Mavyret is a fixed-dose combination of glecaprevir, a hepatitis C virus (HCV) NS3/4A protease
+inhibitor, and pibrentasvir, an HCV NS5A inhibitor, and is indicated for the treatment of adult
+and pediatric patients 3 years and older with chronic HCV genotype (GT) 1, 2, 3, 4, 5 or 6
+infection without cirrhosis and with compensated cirrhosis (Child-Pugh A). Mavyret is also
+indicated for the treatment of adult and pediatric patients 3 years and older with HCV genotype
+1 infection, who previously have been treated with a regimen containing an HCV NS5A
+inhibitor or an NS3/4A protease inhibitor, but not both.1
+2. Coverage Criteriaa:
+A. For the treatment of chronic hepatitis C genotype 1, 2, 3, 4, 5 or 6 infection in treatment-
+naïve patients without cirrhosis, or with compensated cirrhosis, Mavyret will be approved
+based on all of the following criteria:
+1. Diagnosis of chronic hepatitis C genotype 1, 2, 3, 4, 5 or 6 infection
+-AND-
+2. Patient is treatment-naïve
+-AND-
+3. One of the following:
+a. Patient is without cirrhosis
+b. Patient has compensated cirrhosis (Child-Pugh A)
+-AND-
+4. Patient is not receiving Mavyret in combination with another HCV direct acting antiviral
+agent [e.g., Epclusa (sofosbuvir/velpatasvir), Harvoni (ledipasvir/sofosbuvir), Sovaldi
+(sofosbuvir), Zepatier (elbasvir/grazoprevir)]
+Authorization will be issued for 8 weeks.
+B. For the treatment of chronic hepatitis C genotype 1, 2, 4, 5 or 6 infection in patients who are
+treatment-experienced with regimens containing interferon, pegylated interferon, ribavirin,
+© 2024 UnitedHealthcare Services Inc.
+1
+and/or Sovaldi (sofosbuvir) without cirrhosis, Mavyret will be approved based on all of the
+following criteria:
+1. Diagnosis of chronic hepatitis C genotype 1, 2, 4, 5 or 6 infection
+-AND-
+2. Patient has prior treatment experience with a regimen including at least one of the
+following:
+a. Interferon (e.g., Intron-A)
+b. Pegylated interferon (e.g., Pegasys, PegIntron)
+c. Ribavirin (e.g., Rebetol)
+d. Sofosbuvir (e.g., Sovaldi)
+-AND-
+3. Patient has no prior treatment experience with any of the following regimens:
+a. HCV NS3/4A protease inhibitor [e.g., Incivek (teleprevir), Victrelis (boceprevir),
+Viekira (dasabuvir/ombitasvir/ paritaprevir/ritonavir), Zepatier
+(elbasvir/grazoprevir)]
+b. HCV NS5A inhibitor [e.g., Daklinza (daclatasvir), Epclusa (sofosbuvir/velpatasvir),
+Harvoni (ledipasvir/sofosbuvir), Viekira (dasabuvir/ombitasvir/
+paritaprevir/ritonavir), Zepatier (elbasvir/grazoprevir)]
+-AND-
+4. Patient is without cirrhosis
+-AND-
+5. Patient is not receiving Mavyret in combination with another HCV direct acting antiviral
+agent [e.g., Epclusa (sofosbuvir/velpatasvir), Harvoni (ledipasvir/sofosbuvir), Sovaldi
+(sofosbuvir), Zepatier (elbasvir/grazoprevir)]
+Authorization will be issued for 8 weeks.
+C. For the treatment of chronic hepatitis C genotype 1, 2, 4, 5 or 6 infection in patients who are
+treatment-experienced with regimens containing interferon, pegylated interferon, ribavirin,
+and/or Sovaldi (sofosbuvir) with cirrhosis, Mavyret will be approved based on all of the
+following criteria:
+1. Diagnosis of chronic hepatitis C genotype 1, 2, 4, 5 or 6 infection
+-AND-
+2. Patient has prior treatment experience with a regimen including at least one of the
+© 2024 UnitedHealthcare Services Inc.
+2
+following:
+a. Interferon (e.g., Intron-A)
+b. Pegylated interferon (e.g., Pegasys, PegIntron)
+c. Ribavirin (e.g., Rebetol)
+d. Sofosbuvir (e.g., Sovaldi)
+-AND-
+3. Patient has no prior treatment experience with any of the following regimens:
+a. HCV NS3/4A protease inhibitor [e.g., Incivek (teleprevir), Olysio (simeprevir),
+Victrelis (boceprevir), Viekira (dasabuvir/ombitasvir/ paritaprevir/ritonavir),
+Zepatier (elbasvir/grazoprevir)]
+b. HCV NS5A inhibitor [e.g., Daklinza (daclatasvir), Epclusa (sofosbuvir/velpatasvir),
+Harvoni (ledipasvir/sofosbuvir), Viekira (dasabuvir/ombitasvir/
+paritaprevir/ritonavir), Zepatier (elbasvir/grazoprevir)]
+-AND-
+4. Patient has compensated cirrhosis (Child-Pugh A)
+-AND-
+5. Patient is not receiving Mavyret in combination with another HCV direct acting antiviral
+agent [e.g., Epclusa (sofosbuvir/velpatasvir), Harvoni (ledipasvir/sofosbuvir), Sovaldi
+(sofosbuvir), Zepatier (elbasvir/grazoprevir)]
+Authorization will be issued for 12 weeks.
+D. For the treatment of chronic hepatitis C genotype 3 infection in patients who are treatment-
+experienced with regimens containing interferon, pegylated interferon, ribavirin, and/or
+Sovaldi (sofosbuvir), who are without cirrhosis or have compensated cirrhosis, or is a liver
+or kidney transplant recipient, Mavyret will be approved based on all of the following
+criteria:
+1. Diagnosis of chronic hepatitis C genotype 3 infection
+-AND-
+2. Patient has prior treatment experience with a regimen including at least one of the
+following:
+a. Interferon (e.g., Intron-A)
+b. Pegylated interferon (e.g., Pegasys, PegIntron)
+c. Ribavirin (e.g., Rebetol)
+d. Sofosbuvir (e.g., Sovaldi)
+© 2024 UnitedHealthcare Services Inc.
+3
+-AND-
+3. Patient has no prior treatment experience with any of the following regimens:
+a. HCV NS3/4A protease inhibitor [e.g., Incivek (teleprevir), Olysio (simeprevir),
+Victrelis (boceprevir), Viekira (dasabuvir/ombitasvir/ paritaprevir/ritonavir),
+Zepatier (elbasvir/grazoprevir)]
+b. HCV NS5A inhibitor [e.g., Daklinza (daclatasvir), Epclusa (sofosbuvir/velpatasvir),
+Harvoni (ledipasvir/sofosbuvir), Viekira (dasabuvir/ombitasvir/
+paritaprevir/ritonavir), Zepatier (elbasvir/grazoprevir)]
+-AND-
+4. One of the following:
+a. Patient is without cirrhosis
+b. Patient has compensated cirrhosis (Child-Pugh A)
+c. Patient is a liver or kidney transplant recipient
+-AND-
+5. Patient is not receiving Mavyret in combination with another HCV direct acting antiviral
+agent [e.g., Epclusa (sofosbuvir/velpatasvir), Harvoni (ledipasvir/sofosbuvir), Sovaldi
+(sofosbuvir), Zepatier (elbasvir/grazoprevir)]
+Authorization will be issued for 16 weeks.
+E. For the treatment of chronic hepatitis C genotype 1 infection in patients who are treatment-
+experienced with an NS5A inhibitor without prior treatment with an NS3/4A protease
+inhibitor, who are without cirrhosis or have compensated cirrhosis, or is a liver or kidney
+transplant recipient, Mavyret will be approved based on all of the following criteria:
+1. Diagnosis of chronic hepatitis C genotype 1 infection
+-AND-
+2. Patient has prior treatment experience with an HCV NS5A inhibitor [e.g., Daklinza
+(daclatasvir), Epclusa (sofosbuvir/velpatasvir), Harvoni (ledipasvir/sofosbuvir)]. This
+does not include combination products also containing an NS3/4A inhibitor [e.g.,
+Viekira (dasabuvir/ombitasvir/paritaprevir/ritonavir), Zepatier (elbasvir/grazoprevir)].
+-AND-
+3. Patient has no prior treatment experience with an NS3/4A protease inhibitor [e.g.,
+Incivek (teleprevir), Olysio (simeprevir), Victrelis (boceprevir), Viekira
+(dasabuvir/ombitasvir/ paritaprevir/ritonavir), Zepatier (elbasvir/grazoprevir)]
+© 2024 UnitedHealthcare Services Inc.
+4
+-AND-
+4. One of the following:
+a. Patient is without cirrhosis
+b. Patient has compensated cirrhosis (Child-Pugh A)
+c. Patient is a liver or kidney transplant recipient
+-AND-
+5. Patient is not receiving Mavyret in combination with another HCV direct acting antiviral
+agent [e.g., Epclusa (sofosbuvir/velpatasvir), Harvoni (ledipasvir/sofosbuvir), Sovaldi
+(sofosbuvir), Zepatier (elbasvir/grazoprevir)]
+Authorization will be issued for 16 weeks.
+F. For the treatment of chronic hepatitis C genotype 1 in patients who are treatment-
+experienced with an NS3/4A protease inhibitor without prior treatment with an NS5A
+inhibitor, who are without cirrhosis or have compensated cirrhosis, Mavyret will be
+approved based on all of the following criteria:
+1. Diagnosis of chronic hepatitis C genotype 1 infection
+-AND-
+2. Patient has prior treatment experience with an NS3/4A protease inhibitor [e.g., Incivek
+(teleprevir), Olysio (simeprevir), Victrelis (boceprevir)]. This does not include
+combination products also containing an NS5A inhibitor [e.g., Viekira
+(dasabuvir/ombitasvir/ paritaprevir/ritonavir), Zepatier (elbasvir/grazoprevir)].
+-AND-
+3. Patient has no prior treatment experience with an HCV NS5A inhibitor [e.g., Daklinza
+(daclatasvir), Epclusa (sofosbuvir/velpatasvir), Harvoni (ledipasvir/sofosbuvir), Viekira
+(dasabuvir/ombitasvir/ paritaprevir/ritonavir), Zepatier (elbasvir/grazoprevir)]
+-AND-
+4. One of the following:
+a. Patient is without cirrhosis.
+b. Patient has compensated cirrhosis (Child-Pugh A)
+-AND-
+5. Patient is not receiving Mavyret in combination with another HCV direct acting antiviral
+agent [e.g., Epclusa (sofosbuvir/velpatasvir), Harvoni (ledipasvir/sofosbuvir), Sovaldi
+© 2024 UnitedHealthcare Services Inc.
+5
+(sofosbuvir), Zepatier (elbasvir/grazoprevir)]
+Authorization will be issued for 12 weeks.
+G. For treatment of hepatitis C genotype 1, 2, 3, 4, 5, and 6 in liver or kidney transplant
+recipients who are without cirrhosis or have compensated cirrhosis, Mavyret will be
+approved based on all of the following criteria:
+1. Diagnosis of hepatitis C genotype 1, 2, 3, 4, 5 or 6 infection
+-AND-
+2. One of the following:
+a. Patient is a liver transplant recipient
+b. Patient is a kidney transplant recipient
+-AND-
+3. One of the following:
+a. Patient is without cirrhosis
+-OR-
+b. Patient has compensated cirrhosis (Child-Pugh A)
+-AND-
+4. Patient is not receiving Mavyret in combination with another HCV direct acting antiviral
+agent [e.g., Epclusa (sofosbuvir/velpatasvir), Harvoni (ledipasvir/sofosbuvir), Sovaldi
+(sofosbuvir), Zepatier (elbasvir/grazoprevir)]
+Authorization will be issued for 12 weeks.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place
+• Medical necessity may be in place.
+© 2024 UnitedHealthcare Services Inc.
+6
+4. References:
+1. Mavyret [package insert]. North Chicago, IL: AbbVie Inc.; October 2023.
+2. American Association for the Study of Liver Diseases and the Infectious Diseases Society of
+America. Recommendations for Testing, Managing, and Treating Hepatitis C. Accessed July 9,
+2024.
+Program Prior Authorization/Notification – Mavyret (glecaprevir/pibrentasvir)
+Change Control
+Date Change
+9/2017 New program.
+11/2018 Annual review with no changes to clinical criteria. Updated references.
+11/2019 Annual review. Updated treatment duration for treatment naïve patients
+with cirrhosis based on updated labeling. Updated background and
+references.
+3/2020 Updated criteria to include treatment for liver and kidney transplant
+recipients. Updated background and references.
+3/2021 Annual review with no changes to clinical criteria. Updated references.
+8/2021 Updated background with no changes to clinical criteria. Updated
+references.
+8/2022 Annual review. Updated coverage criteria for liver or kidney transplant
+recipients per prescribing information. Updated references.
+8/2023 Annual review with no changes to coverage criteria.
+8/2024 Annual review with no changes to coverage criteria. Updated
+references.
+© 2024 UnitedHealthcare Services Inc.
+7

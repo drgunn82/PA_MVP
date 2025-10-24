@@ -1,0 +1,96 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 1249-9
+Program Prior Authorization/Notification
+Medication Olumiant® (baricitinib)
+P&T Approval Date 7/1/2108, 7/2019, 7/2020, 7/2021, 2/2022, 8/2022, 7/2023, 9/2023,
+10/2024
+Effective Date 1/1/2025
+1. Background:
+Olumiant (baricitinib) is a Janus Kinase (JAK) inhibitor indicated for the treatment of adult
+patients with moderately to severely active rheumatoid arthritis who have had an inadequate
+response to one or more tumor necrosis factor (TNF) antagonist therapies and for the
+treatment of adult patients with severe alopecia areata. Use of Olumiant in combination
+with other JAK inhibitors, biologic DMARDs, or with potent immunosuppressants such as
+azathioprine and cyclosporine is not recommended. Olumiant is also indicated for the
+treatment of COVID-19 in hospitalized adults requiring supplemental oxygen, non-invasive
+or invasive mechanical ventilation, or ECMO.1
+2. Coverage Criteriaa:
+A. Rheumatoid Arthritis (RA)
+1. Initial Authorization
+a. Olumiant will be approved based on all of the following criteria:
+(1) Diagnosis of moderately to severely active RA
+-AND-
+(2) History of failure, contraindication, or intolerance to at least one TNF antagonist
+therapy
+-AND-
+(3) Patient is not receiving Olumiant in combination with either of the following:
+(a) Targeted immunomodulator [e.g., adalimumab, Cimzia (certolizumab), Enbrel
+(etanercept), Orencia (abatacept), Rinvoq (upadacitinib), Simponi
+(golimumab), Xeljanz (tofacitinib)]
+(b) Potent immunosuppressant (e.g., azathioprine or cyclosporine)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Olumiant will be approved based on both of the following criteria:
+© 2024 UnitedHealthcare Services, Inc.
+1
+(1) Documentation of positive clinical response to Olumiant therapy
+-AND-
+(2) Patient is not receiving Olumiant in combination with either of the following:
+(a) Targeted immunomodulator [e.g., adalimumab, Cimzia (certolizumab), Enbrel
+(etanercept), Orencia (abatacept), Rinvoq (upadacitinib), Simponi
+(golimumab), Xeljanz (tofacitinib)]
+(b) Potent immunosuppressant (e.g., azathioprine or cyclosporine)
+Authorization will be issued for 12 months.
+B. Alopecia Areata
+1. Initial Authorization
+a. Olumiant will be approved based on both of the following criteria:
+(1) Diagnosis of severe alopecia areata
+-AND-
+(2) Patient is not receiving Olumiant in combination with either of the following:
+(a) Targeted immunomodulator [e.g., adalimumab, Cimzia (certolizumab), Enbrel
+(etanercept), Orencia (abatacept), Rinvoq (upadacitinib), Simponi
+(golimumab), Xeljanz (tofacitinib)]
+(b) Potent immunosuppressant (e.g., azathioprine or cyclosporine)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Olumiant will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Olumiant therapy
+-AND-
+(2) Patient is not receiving Olumiant in combination with either of the following:
+(a) Targeted immunomodulator [e.g., adalimumab, Cimzia (certolizumab), Enbrel
+(etanercept), Orencia (abatacept), Rinvoq (upadacitinib), Simponi
+(golimumab), Xeljanz (tofacitinib)]
+(b) Potent immunosuppressant (e.g., azathioprine or cyclosporine)
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+2
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits, Step Therapy, and/or Medical Necessity may be in place.
+4. References:
+1. Olumiant [package insert]. Indianapolis, IN: Lilly USA, LLC; June 2022.
+2. Fraenkel L, Bathon JM, England BR, et al. 2021 American College of Rheumatology
+Guideline for the Treatment of Rheumatoid Arthritis. Arthritis Care & Research. Arthritis
+Rheum. 2021;73(7):924-939.
+Program Prior Authorization/Notification – Olumiant (baricitinib)
+Change Control
+7/2018 New program.
+7/2019 Annual review. No changes to the program.
+7/2020 Annual review. Updated reauthorization issue duration.
+7/2021 Annual review. No changes to coverage criteria.
+2/2022 Added Rinvoq as an example of JAKi. Updated references.
+8/2022 Added coverage criteria for alopecia areata. Updated background and
+reference. Added state mandate footnote.
+7/2023 Updated not receiving in combination language to targeted
+immunomodulator and updated examples.
+9/2023 Updated examples. No change to coverage criteria.
+10/2024 Annual review. Updated example with no change to clinical intent.
+© 2024 UnitedHealthcare Services, Inc.
+3

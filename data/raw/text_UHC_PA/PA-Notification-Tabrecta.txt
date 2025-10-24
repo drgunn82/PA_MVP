@@ -1,0 +1,74 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1321-5
+Program Prior Authorization/Notification
+Medication Tabrecta® (capmatinib)
+P&T Approval Date 7/2020, 7/2021, 7/2022, 7/2023, 7/2024
+Effective Date 10/1/2024
+1. Background:
+Tabrecta (capmatinib) is a kinase inhibitor indicated for the treatment of adult patients with
+metastatic non-small cell lung cancer (NSCLC) whose tumors have a mutation that leads to
+mesenchymal-epithelial transition (MET) exon 14 skipping.
+The National Cancer Comprehensive Network (NCCN) guideline also recommends use of
+Tabrecta as single-agent therapy for NSCLC with high-level MET amplification.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Tabrecta will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Non-Small Cell Lung Cancer (NSCLC)
+1. Initial Authorization
+a. Tabrecta will be approved based on all of the following criteria:
+(1) Both of the following:
+(a) Diagnosis of non-small cell lung cancer (NSCLC)
+-AND-
+(b) One of the following:
+© 2024 UnitedHealthcare Services, Inc.
+1
+i. Presence of mesenchymal-epithelial transition (MET) exon 14 skipping
+positive tumors
+ii. High level MET amplification in lung cancer
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tabrecta will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tabrecta
+therapy
+Authorization will be issued for 12 months.
+C. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Tabrecta [package insert]. East Hanover, New Jersey: Novartis Pharmaceuticals Corporation,
+March 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+www.nccn.org. Accessed June 4, 2024.
+© 2024 UnitedHealthcare Services, Inc.
+2
+Program Prior Authorization/Notification – Tabrecta® (capmatinib)
+Change Control
+7/2020 New program.
+7/2021 Updated coverage criteria for NSCLC according to NCCN guidelines.
+7/2022 Annual review. Added state mandate with no other changes to criteria.
+Updated references.
+7/2023 Annual review. Updated background with FDA regular approval.
+Updated references.
+7/2024 Annual review. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+3

@@ -1,0 +1,294 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1091-15
+Program Prior Authorization/Notification
+Medication Sandostatin® (octreotide acetate)
+Note: Only the subcutaneous formulation of octreotide requires
+notification. Sandostatin LAR is covered under the medical benefit and
+therefore addressed in the Somatostatin Analogs drug policy.
+P&T Approval Date 8/2008, 12/2009, 11/2010, 11/2011, 11/2012, 7/2013, 11/2013,
+11/2014, 11/2015, 9/2016, 9/2017, 9/2018, 9/2019, 9/2020, 10/2021,
+1/2022, 1/2023, 1/2024, 2/2025, 4/2025
+Effective Date 5/1/2025
+1. Background:
+Sandostatin (octreotide acetate) is indicated to reduce blood levels of growth hormone and IGF-I
+(somatomedin C) in acromegaly patients who have had inadequate response to or cannot be treated
+with surgical resection, pituitary irradiation and bromocriptine mesylate at maximally tolerated
+doses. It is also indicated for the symptomatic treatment of patients with metastatic carcinoid
+tumors where it suppresses or inhibits the severe diarrhea and flushing episodes associated with
+the disease and for the treatment of profuse watery diarrhea associated with vasoactive intestinal
+peptide (VIP)-secreting tumors.
+The National Comprehensive Cancer Network (NCCN) recommends the use of octreotide acetate
+for the treatment of thyomas and thymic carcinomas as well as meningiomas. The NCCN also
+recommends octreotide acetate for the treatment of several types of neuroendocrine and adrenal
+tumors, including neuroendocrine tumors of the gastrointestinal tract, lung and thymus,
+neuroendocrine tumors of the pancreas, well-differentiated Grade 3 neuroendocrine tumors, and
+pheochromocytoma/paraganglioma. The NCCN Palliative Care Guidelines recommend octreotide
+for the treatment of chemotherapy and/or radiation-induced diarrhea and malignant bowel
+obstruction.
+Clinical evidence supports the use of octreotide acetate as an adjunct to endoscopic therapy for
+bleeding gastroesophageal varices associated with liver disease.
+Coverage Information:
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or under
+some circumstances. Some states also mandate usage of other Compendium references. Where such
+mandates apply, they supersede language in the benefit document or in the notification criteria.
+© 2025 UnitedHealthcare Services, Inc.
+1
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Initial Authorization
+a. Sandostatin will be approved based on both of the following criteria:
+(1) Patient is less than 19 years of age
+(2) Treatment is for an oncology indication
+Authorization will be issued for 12 months.
+B. Acromegaly
+1. Initial Authorization
+a. Sandostatin will be approved based on both of the following criteria:
+(1) Diagnosis of acromegaly
+-AND-
+(2) One of the following:
+(a) Inadequate response to one of the following:
+i. Surgical resection
+ii. Pituitary irradiation
+iii. Dopamine agonist (e.g., bromocriptine, cabergoline) therapy
+-OR-
+(b) Not a candidate for any of the following:
+i. Surgical resection
+ii. Pituitary irradiation
+iii. Dopamine agonist (e.g., bromocriptine, cabergoline) therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Sandostatin will be approved based on the following criterion:
+(1) Documentation of positive clinical response to Sandostatin therapy
+© 2025 UnitedHealthcare Services, Inc.
+2
+Authorization will be issued for 12 months.
+C. Meningioma
+1. Initial Authorization
+a. Sandostatin will be approved based on all of the following criteria:
+(1) Diagnosis of meningioma
+-AND-
+(2) Disease is surgically inaccessible
+-AND-
+(3) One of the following:
+(a) Disease is recurrent
+(b) Disease is progressive
+-AND-
+(4) Radiation is not possible
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Sandostatin will be approved based upon the following criterion:
+(1) Patient does not show evidence of progressive disease while on Sandostatin
+therapy
+Authorization will be issued for 12 months.
+D. Neuroendocrine and Adrenal Tumors
+1. Initial Authorization
+a. Sandostatin will be approved based on diagnosis of one of the following:
+(1) Neuroendocrine tumor [i.e., carcinoid tumors, Islet cell tumors, gastrinomas,
+glucagonomas, insulinomas, lung tumors, somatostatinomas, tumors of the
+pancreas, GI tract, lung, thymus, adrenal glands, and vasoactive intestinal
+polypeptidomas (VIPomas)]
+© 2025 UnitedHealthcare Services, Inc.
+3
+-OR-
+(2) Both of the following:
+(a) One of the following:
+i. Diagnosis of Pheochromocytoma or Paraganglioma
+ii. Well-differentiated grade 3 neuroendocrine tumor
+-AND-
+(b) Disease is one of the following:
+i. Locally unresectable
+ii. Metastatic
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Sandostatin will be approved based upon one of the following criteria:
+(1) Patient does not show evidence of progressive disease while on Sandostatin
+therapy
+-OR-
+(2) Documentation of positive clinical response (e.g., suppression of severe
+diarrhea, flushing, etc.) to Sandostatin therapy
+Authorization will be issued for 12 months.
+E. Thymoma or Thymic Carcinoma
+1. Initial Authorization
+a. Sandostatin will be approved based on all of the following criteria:
+(1) Diagnosis of thymoma or thymic carcinoma
+-AND-
+(2) One of the following:
+(a) Used as a second-line therapy for one of the following:
+i. Unresectable locally advanced disease
+ii. Solitary metastasis or ipsilateral pleural metastasis
+© 2025 UnitedHealthcare Services, Inc.
+4
+iii. Extrathoracic metastatic disease
+-OR-
+(b) Both of the following:
+i. Used as first line therapy for one of the following:
+• Potentially resectable locally advanced disease
+• Potentially resectable solitary metastasis or ipsilateral pleural
+metastasis
+• Consideration following surgery for solitary metastasis or ipsilateral
+pleural metastasis
+• Medically inoperable/unresectable solitary metastasis or ipsilateral
+pleural metastasis
+• Extrathoracic metastatic disease
+• Postoperative treatment for thymoma after R2 resection
+• Preoperative systemic therapy for surgically resectable disease if R0
+resection uncertain
+-AND-
+ii. Patient is unable to tolerate first-line combination regimens
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Sandostatin will be approved based upon the following criterion:
+(1) Patient does not show evidence of progressive disease while on Sandostatin
+therapy
+Authorization will be issued for 12 months.
+F. Malignant Bowel Obstruction
+1. Initial Authorization
+a. Sandostatin will be approved based on both of the following criterion:
+(1) Diagnosis of malignant bowel obstruction
+-AND-
+(2) Gut function cannot be maintained
+© 2025 UnitedHealthcare Services, Inc.
+5
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Sandostatin will be approved based upon the following criterion:
+(1) Documentation of positive clinical response to Sandostatin therapy
+Authorization will be issued for 12 months.
+G. Chemotherapy- and/or Radiation-Induced Diarrhea
+1. Initial Authorization
+a. Sandostatin will be approved based on both of the following criterion:
+(1) Diagnosis of diarrhea due to concurrent cancer chemotherapy and/or radiation
+-AND-
+(2) One of the following:
+(a) Presence of Grade 3 or 4 severe diarrhea
+-OR-
+(b) Patients in palliative or end of life care
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Sandostatin will be approved based on the following criterion:
+(1) Documentation of positive clinical response to Sandostatin therapy
+Authorization will be issued for 12 months.
+H. Bleeding Gastroesophageal Varices
+1. Initial Authorization
+a. Sandostatin will be approved based on the following criterion:
+(1) Diagnosis of bleeding gastroesophageal varices associated with liver disease
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services, Inc.
+6
+2. Reauthorization
+a. Sandostatin will be approved based upon the following criterion:
+(1) Documentation of positive clinical response to Sandostatin therapy
+Authorization will be issued for 12 months.
+I. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+4. References:
+1. Sandostatin [package insert]. East Hanover, NJ: Novartis Pharmaceuticals Corporation; July
+2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org. Accessed November 27, 2024.
+3. NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®). Palliative Care.
+Version 1.2025. Available at
+http://www.nccn.org/professionals/physician_gls/pdf/palliative.pdf. Accessed November 27,
+2024.
+4. Cello JP, Grendell JH, Basuk, P, et al. Effect of octreotide on refractory AIDS-associated
+diarrhea. A prospective, multicenter clinical trial. Annals Internal Medicine.
+1991;115(9):705-10.
+5. DuPont HL. Guidelines on Acute Infectious Diarrhea in Adults. Am J Gastroenterol. 1997
+Nov;92(11):1962-75.
+6. Fanning M, Monte M, Sutherland LR, et al. Pilot study of sandostatin (octreotide) therapy of
+refractory HIV-associated diarrhea. 1991;36(4):476-80.
+7. Garcia Compean D, Ramos Jimenez J, Guzman de la Garza F, et al. Octreotide therapy of
+large-volume refractory AIDS-associated diarrhea: a randomized controlled trial. AIDS.
+1994;8(11):1563-7.
+8. Liberti A, Bisogno A, Izzo E. Octreotide treatment in secretory and cryptosporidial diarrhea in
+patients with acquired immunodeficiency syndrome (AIDS): clinical evaluation. J Chemother.
+1992;4(5):303-5.
+© 2025 UnitedHealthcare Services, Inc.
+7
+9. Moroni M, Esposito R, Cernuschi M, et al. Treatment of AIDS-related refractory diarrhea with
+octreotide. Digestion. 1993;54 Suppl 1:30-2.
+10. New York State Department of Health AIDS Institute. Gastrointestinal complications.
+October 2006. Located at www.hivguidelines.org. Accessed November 23, 2022
+11. Romeu J, Miro JM, Sirera G, et al. Efficacy of octreotide in the management of chronic
+diarrhea in AIDS. AIDS. 1991;5(12):1495.
+12. Simon DM, Cello JP, Valenzuela J, et al. Multicenter trial of octreotide in patients with
+refractory acquired immunodeficiency syndrome-associated diarrhea. Gastroenterology
+1995;108(6):1753-60.
+13. Gotzsche PC, Hrobjartsson A. Somatostatin analogues for acute bleeding esophageal varices.
+Cochrane Database Syst Rev. 2008, Issue 3. Art. No.:CD000193. DOI:
+10.1002/14651858.CD000193.pub3.
+14. Shah HA, Mumtaz K, Jafri W, et al. Sclerotherapy plus octreotide versus sclerotherapy alone
+in the management of gastro-esophageal variceal hemorrhage. J Ayub Med Coll Abbottabad.
+2005 Jan-Mar;17(1):10-4.
+15. Yücesoy M, Başkol M, Keklik M, et al. Efficacy of five days of subcutaneous octreotide
+treatment after sclerotherapy in preventing rebleeding from esophageal varices. Turk J
+Gastroenterol. 2004 Sep;15(3):137-43.
+16. Banares R, Albillos A, Rincon D, et al. Endoscopic treatment versus endoscopic plus
+pharmacologic treatment for acute variceal bleeding: A meta-analysis. Hepatology.
+2002;35(3):609-15.
+17. Gøtzsche PC1, Hróbjartsson A. Somatostatin analogues for acute bleeding esophageal varices.
+Cochrane Database Syst Rev. 2008 Jul 16;(3):CD000193.
+18. Garcia-Tsao G, Sanyal AJ, Grace ND, et al. Prevention and management of gastroesophageal
+varices and variceal hemorrhage in cirrhosis. Am J Gastroenterol. 2007 Sep;102(9):2086-102.
+19. Katznelson L, Laws ER Jr, Melmed S, et al. Acromegaly: an endocrine society clinical practice
+guideline. J Clin Endocrinol Metab. 2014;99(11):3933-3951.
+20. Panel on Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and
+Adolescents With HIV. Guidelines for the Prevention and Treatment of Opportunistic Infections
+in Adults and Adolescents With HIV. National Institutes of Health, HIV Medicine Association,
+and Infectious Diseases Society of America. Updated December 16, 2024.
+Program Prior Authorization/Notification – Sandostatin (octreotide acetate)
+Change Control
+7/2013 Clarified information presented in Table 1
+11/2013 Removed detailed criteria for chemotherapy- and/or radiation-induced
+diarrhea and HIV/AIDS-related diarrhea. Revised reauthorization
+criteria to standard language throughout. Updated references.
+9/2014 Administrative change – Tried/Failed exemption for State of New
+Jersey removed.
+11/2014 Annual review with no changes to coverage. Updated references.
+11/2015 Annual review. Updated background section. Updated to align with
+Indication Section of FDA label. Added age criteria for those less than
+19 years of age with an oncology indication. Increased authorization
+and reauthorization period from 6 months to 12 months. Edited
+reauthorization wording for oncology indication. References updated.
+9/2016 Annual review. Changed Member to Patient. Revised criteria for
+meningioma and neuroendocrine tumor.
+9/2017 Annual review. Updated criteria for meningioma and neuroendocrine
+tumors. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+8
+9/2018 Annual review. Revised coverage criteria based on NCCN guidelines.
+Updated references.
+9/2019 Annual review. Revised coverage criteria based on NCCN guidelines.
+Updated background and references.
+9/2020 Annual review. Revised coverage for meningioma based on NCCN
+guidelines. Updated references.
+10/2021 Annual review. Revised coverage criteria for thymoma based on NCCN
+guidelines. Updated references.
+1/2022 Revised coverage criteria for thymoma to include postoperative
+treatment for thymic carcinoma in accordance with NCCN guidelines.
+1/2023 Annual review. Removed thymic carcinoma after R1/R2 resection from
+thymoma criteria based on NCCN guidelines. Added state mandate and
+updated references.
+2/2024 Annual review with no changes to coverage criteria. Updated
+background and references.
+4/2025 Annual review. Updated wording within acromegaly and meningioma
+coverage criteria without change in clinical intent. Added criteria for
+well-differentiated grade 3 neuroendocrine tumor. Updated criteria for
+thymoma or thymic carcinoma. Removed HIV/AIDS-related diarrhea
+coverage criteria align with current clinical evidence. Added general
+NCCN recommended review criteria. Updated background and
+references.
+© 2025 UnitedHealthcare Services, Inc.
+9

@@ -1,0 +1,362 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Hepatitis C – Harvoni Drug Quantity Management Policy – Per Days
+• Harvoni® (ledipasvir/sofosbuvir tablets and oral pellets – Gilead)
+• ledipasvir/sofosbuvir tablets (authorized generic to Harvoni
+90mg/400 mg tablets – Gilead)
+REVIEW DATE: 10/07/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Ledipasvir/sofosbuvir is a fixed-dose combination of ledipasvir, a hepatitis C virus
+(HCV) NS5A inhibitor, and sofosbuvir, an HCV nucleotide analog NS5B polymerase
+inhibitor.1 It is indicated for the treatment of chronic HCV in patients ≥ 3 years of
+age in the following instances:
+• Genotype 1, 4, 5, or 6 infection with or without compensated cirrhosis; and
+• Genotype 1 infection with decompensated cirrhosis in combination with
+ribavirin; and
+• Genotype 1 or 4 infection who are liver transplant recipients with or without
+compensated cirrhosis, in combination with ribavirin.
+Dosing
+In adults, the recommended dosage of ledipasvir/sofosbuvir is one tablet (90
+mg/400 mg) taken orally once daily with or without food.1
+The recommended dose of ledipasvir/sofosbuvir tablets or pellets in pediatric
+patients ≥ 3 years of age is based on weight (Table 1).1 The ledipasvir/sofosbuvir
+pellets can be taken in pediatric patients who cannot swallow the tablet
+Page 1 of 8 - Cigna National Formulary Coverage - Policy:Hepatitis C – Harvoni Drug Quantity Management
+Policy – Per Days
+formulation. Table 1 below provides the recommended duration of therapy with
+ledipasvir/sofosbuvir.
+Table 1. Ledipasvir/sofosbuvir* Dosing in Pediatric Patients ≥ 3 Years of Age.1
+Body Weight Dose of Pellets or Tablets Daily Dose of
+(kg) ledipasvir/sofosbuvir
+< 17 kg 1 x 33.75 mg/150 mg packet of pellets QD 33.75 mg/150 mg
+17 kg to < 35 kg 1 x 45 mg/200 mg packet of pellets QD; OR 45 mg/200 mg
+1 x 45 mg/200 mg tablet QD
+≥ 35 kg 2 x 45 mg/200 mg packets of pellets QD; OR 90 mg/400 mg
+2 x 45 mg/200 mg tablets QD; OR
+1 x 90 mg/400 mg tablet QD
+* Only 90 mg/400 mg tablets are available as the authorized generic to Harvoni. All other dosage forms
+are available as Harvoni only (see Availability below); QD – Once daily
+Availability
+Brand Harvoni is available as a tablet containing 90 mg of ledipasvir/400 mg
+sofosbuvir or 45 mg/ledipasvir/200 mg sofosbuvir.1 It is also available as an oral
+pellet packet formulation containing 45 mg ledipasvir/200 mg sofosbuvir or 33.75
+mg ledipasvir/150 mg sofosbuvir. The ledipasvir/sofosbuvir authorized generic is
+only available as the 90 mg/400 mg strength tablet. The table below provides the
+FDA recommended ledipasvir/sofosbuvir treatment durations for treatment-naïve
+and treatment-experienced patients and those with and without cirrhosis.
+Table 2. Recommended Treatment Duration for ledipasvir/sofosbuvir in Patients ≥ 3 Years
+of Age with Chronic HCV Genotype 1, 4, 5, or 6.1
+Patient Population Duration of Treatment
+Genotype 1 – Treatment-naïve with or without ledipasvir/sofosbuvir 12 weeks*
+compensated (Child Pugh A) cirrhosis
+Genotype 1 – Treatment-experienced** without ledipasvir/sofosbuvir 12 weeks
+cirrhosis
+Genotype 1 – Treatment-experienced** with ledipasvir/sofosbuvir 24 weeks†
+compensated (Child Pugh A) cirrhosis
+Genotype 1 – Treatment-naïve and treatment- ledipasvir/sofosbuvir + ribavirin 12 weeks
+experienced** with decompensated (Child-Pugh B
+or C) cirrhosis.
+Genotype 1 or 4 – Transplant recipients without ledipasvir/sofosbuvir + ribavirin 12 weeks
+cirrhosis, or with compensated (Child-Pugh A)
+cirrhosis
+Genotype 4, 5, or 6 – Treatment-naïve and ledipasvir/sofosbuvir 12 weeks
+treatment-experienced**, with or without
+compensated (Child-Pugh A) cirrhosis
+Hepatitis C virus – Hepatitis C virus; * Ledipasvir/sofosbuvir for 8 weeks can be considered in treatment-
+naïve patients without cirrhosis who have pretreatment hepatitis C virus RNA < 6 million IU/mL; **
+Treatment-experienced patients who have failed treatment with either peginterferon alfa + ribavirin or
+a hepatitis C virus protease inhibitor + peginterferon + ribavirin; † Ledipasvir/sofosbuvir for 12 weeks
+can be considered in treatment-experienced patients with cirrhosis who are eligible for ribavirin.
+Guidelines
+The American Association for the Study of Liver Diseases/Infectious Diseases
+Society of America have simplified recommendations for the management of
+chronic HCV in adults (December 19, 2023).2 In treatment-naïve adults without
+cirrhosis, the recommended regimens are Mavyret® (glecaprevir/pibrentasvir
+8 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Harvoni Drug Quantity Management Policy –
+Per Days
+tablets and oral pellets) for 8 weeks or Epclusa® (sofosbuvir/velpatasvir tablets
+[generic] and oral pellets) for 12 weeks. In treatment-naïve adults with
+compensated cirrhosis, the recommended regimens are Mavyret for 8 weeks
+(genotypes 1 through 6) or sofosbuvir/velpatasvir for 12 weeks (genotypes 1, 2, 4,
+5, or 6; patients with genotype 3 require baseline NS5A resistance-associated
+substitution testing and those without Y93H can be treated with 12 weeks of
+Epclusa). Additional genotype-specific and/or special circumstance-specific
+recommendations are also provided for patients falling outside of these parameters.
+Ledipasvir/sofosbuvir continues to be recommended in various situations as
+outlined below in Table 3.
+Table 2. AASLD Recommendations for Ledipasvir/Sofosbuvir.2
+DAA Duration FDA AASLD Level of Evidence
+Approved
+(Y/N)
+Genotype 1, 4, 5, and 6 Chronic HCV Treatment-Naïve Adults – Recommended
+ledipasvir/sofosbuvir 12 weeks (± Y Class I, Level A
+compensated cirrhosis) Class IIa, Level B (Genotype 4
+Not recommended for compensated cirrhosis, Genotype
+genotype 6e if subtype 5/6 ± compensated cirrhosis)
+is known.
+ledipasvir/sofosbuvir 8 weeks (HIV- Y Class I, Level B
+uninfected, HCV RNA < 6
+million IU/mL, no
+cirrhosis, absence of
+genotype 4r)
+Genotype 1, 4, 5, or 6 Chronic HCV, Decompensated Cirrhosis Adults Ribavirin Eligible –
+Recommended
+ledipasvir/sofosbuvir 12 weeks Y Class I, Level A
++ ribavirin
+Genotype 1, 4, 5, or 6 Chronic HCV, Decompensated Cirrhosis Adults Ribavirin Ineligible –
+Recommended
+ledipasvir/sofosbuvir 24 weeks N Class I, Level A
+Genotype 1, 4, 5, or 6 Chronic HCV, Decompensated Cirrhosis Adults Prior Sovaldi or NSA
+Failure – Recommended
+ledipasvir/sofosbuvir 24 weeks N Class II, Level C
++ ribavirin
+Genotype 1, 4, 5, or 6 Recurrent HCV Post-Liver Transplant, No Cirrhosis, Treatment-Naïve
+or Treatment-Experienced – Recommended
+ledipasvir/sofosbuvir 12 weeks Y Class I, Level B
+Genotype 1, 4, 5, or 6 Recurrent HCV Post-Liver Transplant, Compensated Cirrhosis,
+Treatment-Naïve or Treatment-Experienced – Recommended
+ledipasvir/sofosbuvir 12 weeks Y Class I, Level A
+Genotype 1, 4, 5, or 6 Recurrent HCV Post-Liver Transplant, Decompensated Cirrhosis,
+Treatment-Naïve or Treatment-Experienced – Recommended
+ledipasvir/sofosbuvir 12 to 24 weeks Y Class I, Level B
++ ribavirin
+Genotype 1, 4, 5, or 6 Kidney Transplant Treatment-Naïve or DAA-Experienced ±
+Compensated Cirrhosis, Adults – Recommended
+ledipasvir/sofosbuvir 12 weeks N Class I, Level A
+Genotype 1, 4, 5, or 6 Treatment-Naïve Adolescents ≥ 3 years, ± Compensated Cirrhosis –
+Recommended
+ledipasvir/sofosbuvir 12 weeks Y Class I, Level B
+8 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Harvoni Drug Quantity Management Policy –
+Per Days
+Genotype 1, 4, 5, or 6 Treatment-Experienced (Interferon + Protease Inhibitor)
+Adolescents ≥ 3 years, ± Compensated Cirrhosis – Recommended
+ledipasvir/sofosbuvir 12 weeks (genotype 1 no Y Class I, Level C
+cirrhosis)
+ledipasvir/sofosbuvir 24 weeks (genotype 1 Y Class I, Level C
+compensated cirrhosis)
+ledipasvir/sofosbuvir 12 weeks (genotypes 4, Y Class I, Level C
+5, or 6 ± compensated
+cirrhosis)
+AASLD – American Association for the Study of Liver Diseases; DAA – Direct-acting antiviral; Y – Yes;
+N – No; HCV – Hepatitis C virus; HIV – Human immunodeficiency virus.
+A quantity sufficient to allow for 8 weeks of therapy per 365 days will be covered
+without prior authorization. For coverage of additional quantities (for example, a
+12 week or 24 week regimen), a coverage review is required.
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to prevent to prevent
+stockpiling, misuse and/or overuse of ledipasvir/sofosbuvir (Harvoni, generic). If the
+Drug Quantity Management rule is not met for the requested medication at the point
+of service, coverage will be determined by the Criteria below. All approvals are
+provided for 1 year in duration unless otherwise noted below.
+Drug Quantity Limits
+Product Strength and Form Retail or Home Delivery
+Maximum Quantity per 365
+days
+Harvoni® 90/400 mg tablets 56 tablets
+(ledipasvir/sofosbuvir) (28 tablets per dispensing)
+45/200 mg tablets 112 tablets
+(56 tablets per dispensing)
+45/200 mg pellet packets 112 packets
+(56 packets per dispensing)
+33.75/150 mg pellet packets 56 packets
+(28 packets per dispensing)
+Ledipasvir/sofosbuvir 90/400 mg tablets 56 tablets (28 tablets/28 days)
+(authorized generic)
+Hepatitis C – Harvoni Drug Quantity Management Policy – Per Days
+product(s) is(are) covered as medically necessary when the following
+criteria is(are) met. Any other exception is considered not medically
+necessary.
+CRITERIA
+Ledipasvir/sofosbuvir 90 mg/400 mg tablets (Harvoni, generic)
+1. Chronic Hepatitis C Virus, Genotype 1.
+A) Approve 84 tablets per 365 days at retail or home delivery if the patient
+meets ONE of the following (i, ii, or iii):
+8 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Harvoni Drug Quantity Management Policy –
+Per Days
+i. Patient is treatment-naïve AND meets at least ONE of the following (a, b,
+or c):
+a) Patient has compensated cirrhosis (Child-Pugh A) [includes patients
+awaiting liver transplant]; OR
+b) Patient does not have cirrhosis and baseline HCV RNA ≥ 6 million
+IU/mL (includes patients awaiting liver transplant); OR
+c) Patient has human immunodeficiency virus; OR
+ii. Patient has previously been treated for HCV and does not have cirrhosis;
+OR
+iii. Patient is treatment-naïve OR has previously been treated for HCV AND
+meets BOTH of the following (a and b):
+a) Patient has decompensated cirrhosis (Child-Pugh B or C); AND
+b) The medication will be prescribed in combination with ribavirin.
+Note: This is a quantity sufficient to treat with one tablet per day for 12
+weeks.
+B) Approve 168 tablets per 365 days at retail or home delivery if the patient
+meets ONE of the following (i or ii):
+i. Patient has previously been treated for HCV AND has compensated
+cirrhosis (Child-Pugh A); OR
+ii. Patient is treatment-naïve OR has previously been treated for HCV AND
+meets BOTH of the following (a and b):
+a) Patient has decompensated cirrhosis (Child-Pugh B or C); AND
+b) Patient is ribavirin ineligible, according to the prescriber.
+Note: This is a quantity sufficient to treat with one tablet per day for 24
+weeks.
+2. Chronic Hepatitis C Virus, Genotype 4, 5, or 6. Approve 84 tablets per 365
+days at retail or home delivery.
+Note: This is a quantity sufficient to treat with one tablet per day for 12 weeks.
+3. Recurrent Hepatitis C Virus Post-Liver Transplantation, Genotype 1, 4, 5,
+OR 6. Approve 84 tablets per 365 days at retail or home delivery.
+Note: This is a quantity sufficient to treat with one tablet per day for 12 weeks.
+4. Hepatitis C Virus Kidney Transplant Recipient, Genotype 1 or 4. Approve
+84 tablets per 365 days at retail or home delivery.
+Note: This is a quantity sufficient to treat with one tablet per day for 12 weeks.
+5. For an indication or condition addressed as an approval in the above criteria
+section, approve the quantity requested, not to exceed 168 tablets per 365 days
+at retail or home delivery, to complete a course therapy.
+Note: For example, if the patient has received 4 weeks of therapy (28 tablets)
+and is eligible for 12 weeks of treatment, approve 56 tablets to complete 12
+weeks of therapy. If a patient has received 4 weeks (28 tablets) of therapy and
+is eligible for 24 weeks of treatment, approve 140 tablets to complete 24 weeks
+of therapy.
+Harvoni 45 mg/200 mg tablets, Harvoni 45 mg/200 mg pellet packets
+8 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Harvoni Drug Quantity Management Policy –
+Per Days
+1. Chronic Hepatitis C Virus (HCV) Genotype 1.
+A) Approve 168 tablets or pellet packets per 365 days at retail or home delivery
+if the patient meets criterion (i) AND meets ONE of the following (ii or iii or
+iv):
+i. Patient is < 12 years of age; AND
+ii. Patient is treatment-naïve AND meets at least ONE of the following (a, b,
+or c):
+a) Patient has compensated cirrhosis (Child-Pugh A) [includes patients
+awaiting liver transplant]; OR
+b) Patient does not have cirrhosis and baseline HCV RNA ≥ 6 million
+IU/mL (includes patients awaiting liver transplant); OR
+c) Patient has human immunodeficiency virus; OR
+iii. Patient has previously been treated for HCV and does not have cirrhosis;
+OR
+iv. Patient is treatment-naïve OR has previously been treated for HCV AND
+meets BOTH of the following (a and b):
+a) Patient has decompensated cirrhosis (Child-Pugh B or C); AND
+b) The medication will be prescribed in combination with ribavirin.
+Note: This is a quantity sufficient for two tablets or two pellet packets per
+day for 12 weeks.
+B) Approve 336 tablets or pellet packets per 365 days at retail or home delivery
+if the patient meets BOTH of the following (i and ii):
+i. Patient is < 12 years of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has previously been treated for HCV AND has compensated
+cirrhosis (Child-Pugh A); OR
+b) Patient is treatment-naïve OR has previously been treated for HCV
+AND meets BOTH of the following (1 and 2):
+(1) Patient has decompensated cirrhosis (Child-Pugh B or C);
+(2) Patient is ribavirin ineligible, according to the prescriber.
+Note: This is a quantity sufficient for two tablets or two pellet packets per
+day for 24 weeks.
+2. Chronic Hepatitis C Virus Genotype, 4, 5, or 6. If the patient is < 12 years
+of age, approve 168 tablets or pellet packets per 365 days at retail or home
+delivery.
+Note: This is a quantity sufficient to treat with two tablets or pellet packets per
+day for 12 weeks.
+3. Recurrent Hepatitis C Virus Post-Liver Transplantation, Genotype 1 OR
+4. If the patient is < 12 years of age, approve 168 tablets or pellet packets per
+365 days at retail or home delivery.
+Note: This is a quantity sufficient to treat with two tablets or pellet packets per
+day for 12 weeks.
+4. For an indication or condition addressed as an approval in the above criteria
+section, approve the quantity requested, not to exceed 336 tablets or pellet
+packets per 365 days at retail or home delivery, to complete a course therapy.
+8 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Harvoni Drug Quantity Management Policy –
+Per Days
+Note: For example, if the patient has received 4 weeks of therapy (56 tablets or
+pellet packets) and is eligible for 12 weeks of treatment, approve 112 tablets to
+complete 12 weeks of therapy. If a patient has received 4 weeks (56 tablets or
+pellet packets) of therapy and is eligible for 24 weeks of treatment, approve 280
+tablets or pellet packets to complete 24 weeks of therapy.
+Harvoni 33.75 mg/150 mg pellet packets
+1. Chronic Hepatitis C Virus Genotype 1.
+A) Approve 84 pellet packets per 365 days at retail or home delivery if the
+patient meets BOTH of the following (i and ii):
+i. Patient is < 12 years of age; AND
+ii. Patient meets ONE of the following (a, b, or c):
+a) Patient is treatment-naïve AND meets at least ONE of the following (1,
+2, or 3):
+(1) Patient has compensated cirrhosis (Child-Pugh A) [includes
+patients awaiting liver transplant]; OR
+(2) Patient does not have cirrhosis and baseline HCV RNA ≥ 6
+million IU/mL (includes patients awaiting liver transplant); OR
+(3) Patient has human immunodeficiency virus; OR
+b) Patient has previously been treated for HCV and does not have
+cirrhosis; OR
+c) Patient is treatment-naïve OR has previously been treated for HCV
+AND meets BOTH of the following (1 and 2):
+(1) Patient has decompensated cirrhosis (Child-Pugh B or C); AND
+(2) The medication will be prescribed in combination with ribavirin.
+Note: This is a quantity sufficient to treat with one pellet packet per day for
+12 weeks.
+B) Approve 168 tablets per 365 days at retail or home delivery if the patient
+meets BOTH of the following (i and ii):
+i. Patient is < 12 years of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has previously been treated for HCV AND has compensated
+cirrhosis (Child-Pugh A); OR
+b) Patient is treatment-naïve OR has previously been treated for hepatitis
+C virus (HCV) AND meets BOTH of the following (1 and 2):
+(1) Patient has decompensated cirrhosis (Child-Pugh B or C);
+(2) Patient is ribavirin ineligible, according to the prescriber.
+Note: This is a quantity sufficient to treat with one pellet packet per day for
+24 weeks.
+2. Chronic Hepatitis C Virus Genotype 4, 5, or 6. If the patient is < 12 years
+of age, approve 84 pellet packets per 365 days at retail or home delivery.
+Note: This is a quantity sufficient to treat with one pellet packet per day for 12
+weeks.
+3. Recurrent Hepatitis C Virus Post-Liver Transplantation, Genotype 1 OR
+4. If the patient is < 12 years of age, approve 84 pellet packets per 365 days at
+retail or home delivery.
+8 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Harvoni Drug Quantity Management Policy –
+Per Days
+Note: This is a quantity sufficient to treat with one pellet packet per day for 12
+weeks.
+4. For an indication or condition addressed as an approval in the above criteria
+section, approve the quantity requested, not to exceed 168 pellet packets per
+365 days at retail or home delivery, to complete a course therapy.
+Note: For example, if the patient has received 4 weeks of therapy (28 pellet
+packets) and is eligible for 12 weeks of treatment, approve 56 tablets to
+complete 12 weeks of therapy. If a patient has received 4 weeks (28 pellet
+packets) of therapy and is eligible for 24 weeks of treatment, approve 140
+tablets to complete 24 weeks of therapy.
+REFERENCES
+1. Harvoni® tablets and oral pellets [prescribing information]. Foster City, CA: Gilead; March 2020.
+2. American Association for the Study of Liver Diseases and the Infectious Diseases Society of
+America. Testing, managing, and treating hepatitis C. Available at:
+http://www.hcvguidelines.org. Updated December 19, 2024. Accessed on October 1, 2024
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 09/28/2023
+Revision
+Annual No criteria changes. 10/07/2024
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. ©
+2024 The Cigna Group.
+8 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Harvoni Drug Quantity Management Policy –
+Per Days

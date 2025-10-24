@@ -1,0 +1,217 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER RX
+POLICY: Antivirals – Famciclovir Drug Quantity Management Policy – Per Rx
+• Famciclovir tablets (generic only)
+REVIEW DATE: 04/03/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Famciclovir is an orally administered prodrug of the anti-alpha herpes viral agent
+penciclovir.1 It is indicated for:
+• Immunocompetent Adults:
+o Treatment of recurrent herpes labialis (cold sores).
+o Treatment and chronic suppressive therapy of recurrent episodes of
+genital herpes.
+o Treatment of herpes zoster.
+• Human Immunodeficiency Virus (HIV)-Infected Adults:
+o Treatment of recurrent episodes of orolabial or genital herpes.
+Dosing/Availability
+Famciclovir is available as 125 mg, 250 mg, and 500 mg tablets.1 Recommended
+dosing is provided in Table 1. The maximum number of tablets needed per course
+Page 1 of 5 - Cigna National Formulary Coverage - Policy:Antivirals – Famciclovir Drug Quantity Management
+Policy – Per Rx
+of treatment is 21 tablets, unless famciclovir is being used for the suppression of
+recurrent genital herpes; then, it may be used for up to 1 year.
+Table 1. FDA-Approved Indications and Dosing.1
+Indication Normal Dose Renal Dosing Adjustments
+(CrCl  60 CrCl 40 to 59 CrCl 20 to 39 CrCl < 20 Hemodialysi
+mL/min) mL/min mL/min mL/min s
+Immunocompetent Adults
+Recurrent 1,500 mg 750 mg single 500 mg single 250 mg single 250 mg single
+herpes labialis single dose dose dose dose dose following
+(cold sores) dialysis
+Recurrent 1 gram BID 500 mg Q12H 500 mg single 250 mg single 250 mg single
+genital herpes for 1 day for 1 day dose dose dose following
+dialysis
+Suppression of 250 mg BID 250 mg Q12H 125 mg Q12H 125 mg Q24H 125 mg
+recurrent for up to 1 for up to 1 for up to 1 for up to 1 following each
+genital herpes year year year year dialysis for up
+to 1 year
+Herpes zoster 500 mg Q8H 500 mg Q12H 500 mg Q24H 250 mg Q24H 250 mg
+(shingles) for 7 days for 7 days for 7 days for 7 days following each
+dialysis for 7
+days
+HIV-Infected Adults
+Recurrent 500 mg BID 500 mg Q12H 500 mg Q24H 250 mg Q24H 250 mg
+orolabial and for 7 days for 7 days for 7 days for 7 days following each
+genital herpes dialysis for 7
+infection days
+CrCl – Creatinine clearance; BID – Twice daily; Q12H – Once every 12 hours; Q24H – Once every 24
+hours; Q8H – Once every 8 hours; HIV – human immunodeficiency virus.
+Off-Label Dosing
+There are data and/or guidelines to support several off-label uses of famciclovir.
+Quantity limits for famciclovir provide for 21 tablets per dispensing at retail or 63
+tablets per dispensing at home delivery for the 125 mg and 500 mg tablets. The
+quantity limits for the famciclovir 250 mg tablets provide for 60 tablets per
+dispensing at retail or 180 tablets per dispensing at home delivery. This provides a
+quantity sufficient for the majority of labeled and off-label doses. Below are
+situations where additional quantities of famciclovir may be needed.
+• Herpes simplex virus (HSV): In adults and adolescents with HIV, famciclovir
+500 mg BID is recommended for chronic suppression of HSV.2 Valacyclovir 500
+mg BID is also recommended for HSV prophylaxis in immunocompromised
+patients who have undergone solid organ transplant who are not already
+receiving CMV prophylaxis.3 In this same population in patients with severe
+mucocutaneous HSV, after initial intravenous (IV) therapy, oral therapy can be
+used as oral lesions begin to regress (famciclovir 500 mg BID continued until
+lesions are completely healed).
+• Herpes zoster (shingles): In adults and adolescents with HIV, guidelines
+recommend famciclovir 500 mg TID for 7 to 10 days (or longer if lesions are
+slow to resolve) for the treatment of acute, localized, dermatomal herpes zoster
+(shingles).2
+• Varicella zoster virus (VZV) [chickenpox]: In adults and adolescents with HIV,
+guidelines recommend famciclovir TID for 5 to 7 days for the treatment of
+5 Pages - Cigna National Formulary Coverage - Policy:Antivirals – Famciclovir Drug Quantity Management Policy
+– Per Rx
+uncomplicated cases of primary varicella infection (chickenpox).2 For severe or
+complicated cases, patients are treated with IV therapy and are then
+transitioned to oral therapy with famciclovir 500 mg TID after defervescence if
+no evidence of visceral involvement is notes is noted.
+• Viral ophthalmic infections: Famciclovir dosed TID is recommended for the
+treatment of viral ocular infections, including acute retinal necrosis, an
+ophthalmic reactivation of herpes zoster virus, following initial IV antiviral
+treatment.2,4,5
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of famciclovir. If the Drug Quantity Management rule
+is not met for the requested medication at the point of service, coverage will be
+determined by the Criteria below. All approvals are provided for 1 year in duration.
+Drug Quantity Limits
+Product Strength and Form Retail Home Delivery
+Maximum Maximum
+Quantity Quantity
+per Rx per Rx
+Famciclovir tablets 125 mg tablets 21 tablets 63 tablets
+(generic only) 250 mg tablets 60 tablets 180 tablets
+500 mg tablets 21 tablets 63 tablets
+Antivirals – Famciclovir Drug Quantity Management Policy – Per Rx
+product(s) is(are) covered as medically necessary when the following
+criteria is(are) met. Any other exception is considered not medically
+necessary.
+CRITERIA
+Famciclovir 125 mg tablets
+1. If the patient meets BOTH of the following criteria (A and B), approve the
+requested quantity, not to exceed 60 tablets per dispensing at retail or 180
+tablets per dispensing at home delivery:
+A) The medication is being requested for chronic suppression or prevention of
+recurrent genital herpes; AND
+B) Patient has reduced renal function.
+2. If the medication is being requested for a viral ophthalmic infection, approve the
+requested quantity, not to exceed 90 tablets per dispensing at retail or 270
+tablets per dispensing at home delivery.
+Famciclovir 250 mg tablets
+1. If the medication is being requested for a viral ophthalmic infection, approve the
+requested quantity, not to exceed 90 tablets per dispensing at retail or a 270
+tablets per dispensing at home delivery.
+5 Pages - Cigna National Formulary Coverage - Policy:Antivirals – Famciclovir Drug Quantity Management Policy
+– Per Rx
+Famciclovir 500 mg tablets
+1. If the medication is being requested for the chronic suppression or prevention of
+herpes simplex virus in an immunocompromised patient, approve the requested
+quantity, not to exceed 60 tablets per dispensing at retail or 180 tablets per
+dispensing at home delivery.
+2. If the medication is being requested for the treatment of herpes simplex virus in
+an immunocompromised patient, approve the requested quantity, not to exceed
+60 tablets per dispensing at retail or 180 tablets per dispensing at home delivery.
+3. If the medication is being requested for a viral ophthalmic infection, approve the
+requested quantity, not to exceed 90 tablets per dispensing at retail or 270
+tablets per dispensing at home delivery.
+4. If the medication is being requested for the treatment of varicella zoster virus
+infection in an immunocompromised patient, approve the requested quantity, not
+to exceed 90 tablets per dispensing at retail or 270 tablets per dispensing at
+home delivery.
+5. If the medication is being requested for the treatment of acute local dermatomal
+herpes zoster in an immunocompromised patient, approve the requested
+quantity, not to exceed 90 tablets per dispensing at retail or 270 tablets per
+dispensing at home delivery.
+REFERENCES
+1. Famciclovir tablets [prescribing information]. Parippany, NJ: Teva; November 2022.
+2. Panel on Opportunistic Infections in HIV-Infected Adults and Adolescents. Guidelines for the
+prevention and treatment of opportunistic infections in HIV-infected adults and adolescents:
+recommendations from the Centers for Disease Control and Prevention, the National Institutes of
+Health, and the HIV Medicine Association of the Infectious Diseases Society of America. Updated
+December 16, 2024. Available at: https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-
+guidelines-adult-and-adolescent-opportunistic-infections/whats-new. Accessed March 19, 2025.
+3. Lee DH, Zuckerman RA, et al. Herpes simplex virus infections in solid organ transplantation:
+guidelines from the American Society of Transplantation Infectious Diseases Community of
+Practice. Clin Transplant. 2019;33(9):e13526.
+4. Powell B, Wang D, Llop S, et al. Management strategies of acute retinal necrosis: current
+perspectives. Clin Ophthalmol. 2020;14:1931-1943.
+5. Schoenberger SD, Kim SJ, Thorne JE, et al. Diagnosis and treatment of acute retinal necrosis: a
+report by the American Academy of Ophthalmology. Ophthalmology. 2017;124(3):382-392.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Policy was updated to reflect the existing quantity limits when a 04/06/2023
+Revision product is obtained via home delivery.
+No criteria changes.
+Annual • Famciclovir 125 mg tablets: Override criteria to approve the 04/19/2024
+Revision requested quantity, not to exceed a 30-day supply per dispensing at
+retail or a 90-day supply per dispensing at home delivery if the
+5 Pages - Cigna National Formulary Coverage - Policy:Antivirals – Famciclovir Drug Quantity Management Policy
+– Per Rx
+medication is being requested for an ophthalmic infection were
+updated to approve the requested quantity, not to exceed 90 tablets
+per dispensing at retail or 270 tablets per dispensing at home
+delivery, if the medication is being requested for a viral ophthalmic
+infection.
+• Famciclovir 250 mg tablets: Override criteria to approve the
+requested quantity, not to exceed a 30-day supply per dispensing at
+retail or a 90-day supply per dispensing at home delivery if the
+medication is being requested for an ophthalmic infection were
+updated to approve the requested quantity, not to exceed 90 tablets
+per dispensing at retail or 270 tablets per dispensing at home
+delivery, if the medication is being requested for a viral ophthalmic
+infection.
+• Famciclovir 500 mg tablets: Override criteria for patients
+requesting famciclovir for the chronic suppression or prevention or
+treatment of “Mucocutaneous herpes (genital, perianal, oral)” were
+clarified to chronic suppression or prevention of “herpes simplex
+virus”. Override criteria to approve the requested quantity, not to
+exceed a 30-day supply per dispensing at retail or a 90-day supply
+per dispensing at home delivery if the medication is being requested
+for an ophthalmic infection were updated to approve the requested
+quantity, not to exceed 90 tablets per dispensing at retail or 270
+tablets per dispensing at home delivery, if the medication is being
+requested for a viral ophthalmic infection.
+Annual No criteria changes. 04/03/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+5 Pages - Cigna National Formulary Coverage - Policy:Antivirals – Famciclovir Drug Quantity Management Policy
+– Per Rx

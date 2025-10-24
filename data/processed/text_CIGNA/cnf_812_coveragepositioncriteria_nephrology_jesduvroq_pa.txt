@@ -1,0 +1,211 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Nephrology − Jesduvroq Prior Authorization Policy
+• Jesduvroq® (daprodustat tablets − GlaxoSmithKline)
+REVIEW DATE: 07/23/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Jesduvroq, a hypoxia-inducible factor prolyl hydroxylase inhibitor (HIF-PHI), is
+indicated for the treatment of anemia due to chronic kidney disease (CKD) in
+adults who have been receiving dialysis for at least 4 months.1
+Limitations of Use: Jesduvroq has not been shown to improve quality of life, fatigue,
+or patient well-being.1 Jesduvroq is not indicated as a substitute for red blood cell
+(RBC) transfusions in those who require immediate correction of anemia or for the
+treatment of anemia due to CKD in patients who are not on dialysis.
+It is recommended to evaluate the iron status in patients before and during Jesduvroq
+therapy.1 Administer supplemental iron therapy when serum ferritin is < 100
+mcg/mL or when serum transferrin saturation is < 20%. Most patients with CKD will
+require supplemental iron during the course of therapy. Do not target a hemoglobin
+Page 1 of 5: Cigna National Formulary Coverage - Policy: Nephrology - Jesduvroq Prior
+Authorization Policy
+level higher than 11.0 g/dL. If the hemoglobin level exceeds 12.0 g/dL, interrupt
+treatment with Jesduvroq. When the hemoglobin level is within the target range,
+treatment may be restarted at a lower level. Treatment with Jesduvroq should not
+be continued beyond 24 weeks of therapy if a clinically meaningful increase in
+hemoglobin level is not achieved.
+Note: The manufacturer announced they had notified the FDA that they had
+withdrawn all strengths of Jesduvroq from the market for business reasons effective
+December 19, 2024.4 According to the manufacturer, this voluntary action is not
+related to the safety or efficacy of Jesduvroq.
+Guidelines
+The Kidney Disease: Improving Global Outcomes (KDIGO) clinical practice guidelines
+for anemia in CKD (2025) provide recommendations for the use of HIF-PHIs.2 The
+KDIGO guidelines recommend addressing all correctable causes of anemia (i.e. iron
+deficiency, malignancy, infection, etc.) before initiating treatment with an
+erythropoiesis-stimulating agent (ESA) or HIF-PHIs. After all correctable causes of
+anemia are addressed, KDIGO suggests using ESAs as first-line therapy for treating
+anemia in patients with CKD rather than HIF-PHIs. Although clinical trials have
+revealed noninferiority of HIF-PHIs versus ESAs for efficacy as treatment for anemia,
+some studies suggested a higher risk of major adverse cardiovascular events with
+HIF-PHIs compared to ESAs in at least some CKD populations. HIF-PHI use should
+be reserved for select patients where ESA use is contraindicated or not tolerated.
+KDIGO indicates ESAs and HIF-PHIs should not be used concurrently. In patients
+with CKD and anemia, treatment with HIF-PHIs should not be started and should be
+suspended in those who experience cardiovascular/thromboembolic events or have
+newly diagnosed cancer. KDIGO reference HIF-PHIs as a class and do not
+differentiate recommendations between available products.
+Safety
+Jesduvroq has a Boxed Warning regarding an increased risk of death, myocardial
+infarction, stroke, venous thromboembolism, and thrombosis of vascular access.1
+Targeting a hemoglobin level greater than 11.0 g/dL is expected to further increase
+the risk of death and arterial venous thrombotic events, as occurs with ESAs, which
+also increase erythropoietin levels. No trial has identified a hemoglobin target level,
+dose of Jesduvroq, or dosing strategy that does not increase these risks. Use the
+lowest dose of Jesduvroq sufficient to reduce the need for RBC transfusions. If the
+hemoglobin level is > 12 g/dL, interrupt treatment with Jesduvroq. When the
+hemoglobin level is within the target range, treatment may be restarted.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Jesduvroq.
+All approvals are provided for the duration noted below. In cases where the approval
+is authorized in months, 1 month is equal to 30 days. Because of the specialized
+skills required for evaluation and diagnosis of patients treated with Jesduvroq, as well
+Page 2 of 5: Cigna National Formulary Coverage - Policy: Nephrology - Jesduvroq Prior
+Authorization Policy
+as the monitoring required for adverse events and long-term efficacy, approval
+requires Jesduvroq to be prescribed by or in consultation with a physician who
+specializes in the condition being treated.
+• Jesduvroq® (daprodustat tablets ( GlaxoSmithKline)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Anemia in a Patient with Chronic Kidney Disease who is on Dialysis.
+Approve for the duration noted below if the patient meets ONE of the following (A
+or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL the following
+(i, ii, iii, iv, and v):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has been receiving dialysis for at least 4 consecutive months; AND
+iii. Patient meets ONE of the following (a or b):
+a) Patient meets BOTH of the following (1 and 2):
+(1) Patient is currently receiving an erythropoiesis-stimulating
+agent and transitioning to Jesduvroq; AND
+Note: Examples of erythropoiesis-stimulating agents include
+epoetin alfa products (e.g., Epogen, Procrit, or Retacrit
+intravenous or subcutaneous injection), Aranesp (darbepoetin
+alfa intravenous or subcutaneous injection), Mircera (methoxy
+polyethylene glycol-epoetin beta intravenous or subcutaneous
+injection).
+(2) Patient has a hemoglobin level ≤ 12.0 g/dL; OR
+b) Patient meets BOTH of the following (1 and 2):
+(1) Patient is NOT currently receiving an erythropoiesis-
+stimulating agent; AND
+Note: Examples of erythropoiesis-stimulating agents include
+epoetin alfa products (e.g., Epogen, Procrit, or Retacrit
+intravenous or subcutaneous injection), Aranesp (darbepoetin
+alfa intravenous or subcutaneous injection), Mircera (methoxy
+polyethylene glycol-epoetin beta intravenous or subcutaneous
+injection).
+(2) Patient has a baseline (prior to initiation of Jesduvroq)
+hemoglobin level < 11 g/dL; AND
+iv. Patient meets ONE of the following (a or b):
+a) Patient is currently receiving iron therapy; OR
+b) According to the prescriber, patient has adequate iron stores; AND
+Page 3 of 5: Cigna National Formulary Coverage - Policy: Nephrology - Jesduvroq Prior
+Authorization Policy
+v. The medication is prescribed by or in consultation with a nephrologist; OR
+B) Patient is Continuing Therapy with Jesduvroq. Approve for 1 year if the patient
+meets ALL of the following (i, ii, iii, iv, v, and vi):
+Note: For a patient who has not received 6 months (24 weeks) of therapy or
+who is restarting therapy, refer to Initial Therapy criteria above.
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has been receiving dialysis for at least 4 consecutive months; AND
+iii. Patient has a hemoglobin level ≤ 12.0 g/dL; AND
+iv. Patient meets ONE of the following (a or b):
+a) Patient is currently receiving iron therapy; OR
+b) According to the prescriber, patient has adequate iron stores; AND
+v. According to the prescriber, patient has experienced a response to therapy;
+AND
+Note: Examples of a response include an increase or stabilization in
+hemoglobin levels or a reduction or absence in red blood cell transfusions.
+vi. The medication is prescribed by or in consultation with a nephrologist.
+CONDITIONS NOT COVERED
+• Jesduvroq® (daprodustat tablets - GlaxoSmithKline)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Anemia in a Patient with Chronic Kidney Disease who is NOT on Dialysis.
+Jesduvroq is not indicated for the treatment of anemia due to chronic kidney
+disease in patients who are not on dialysis.1 The safety of Jesduvroq has not been
+established for the treatment of anemia due to CKD in patients who are not on
+dialysis. In a large cardiovascular outcomes trial in adults with anemia due to
+CKD who were not on dialysis (ASCEND-ND), an increased risk of cardiovascular
+mortality, stroke, thromboembolism, serious acute kidney injury, hospitalization
+for heart failure, and serious gastrointestinal erosions was observed in patients
+treated with Jesduvroq compared with erythropoietin-stimulating agent therapy.3
+2. Anemia Associated with Cancer. Jesduvroq is not indicated for this use.1
+3. Active Malignancy. Jesduvroq has not been studied and is not recommended in
+patients with active malignancies. Increased hypoxia inducible factor-1 levels
+may be associated with unfavorable effects on cancer growth.
+4. Anemia due to Acute Blood Loss. Use of Jesduvroq is not appropriate in these
+types of situations. Jesduvroq is not indicated for use as a substitute for
+transfusion in patients requiring immediate correction of anemia.
+Page 4 of 5: Cigna National Formulary Coverage - Policy: Nephrology - Jesduvroq Prior
+Authorization Policy
+5. Concurrent Use with Erythropoiesis-Stimulating Agents. Concurrent use is
+not recommended.2
+Note: Examples of erythropoiesis-stimulating agents include epoetin alfa products
+(Procrit, Epogen, Retacrit intravenous or subcutaneous injection), Aranesp
+(darbepoetin alfa intravenous or subcutaneous injection), and Mircera (methoxy
+polyethylene glycol-epoetin beta intravenous or subcutaneous injection).
+6. Concurrent Use with Vafseo (vadadustat tablets). The safety and efficacy
+of concurrent use of Jesduvroq and Vafseo have not been established.
+7. To Enhance Athletic Performance. Jesduvroq is not recommended for
+approval because this indication is excluded from coverage in a typical pharmacy
+benefit.
+REFERENCES
+1. Jesduvroq® tablets [prescribing information]. GlaxoSmithKline: Research Triangle Park, NC;
+February 2023.
+2. Kidney Disease: Improving Global Outcomes (KDIGO) Anemia Work Group. KDIGO Clinical Practice
+Guideline for Anemia in Chronic Kidney Disease. (2025). Public Review Draft; November 2024.
+Accessed on June 17, 2025. Available at: https://kdigo.org/guidelines/anemia-in-ckd/.
+3. Singh AJ, Carroll K, McMurray JJV, et al, for the ASCEND-ND Study Group. Daprodustat for the
+treatment of anemia in patients not undergoing dialysis. N Engl J Med. 2021;385(25):2313-
+2324.
+4. Food and Drug Administration, Department of Health and Human Services. Determination That
+Jesduvroq (daprodustat) Tablets, 1 Milligram, 2 Milligrams, 4 Milligrams, 6 Milligrams, and 8
+Milligrams, Were Not Withdrawn from Sale for Reasons of Safety or Effectiveness. Federal Register:
+2024-26915 (89 FR 91410). Published on: November 19, 2024. Available at:
+https://www.federalregister.gov/documents/2024/11/19/2024-26915/determination-that-
+jesduvroq-daprodustat-tablets-1-milligram-2-milligrams-4-milligrams-6-milligrams. Accessed on:
+July 10, 2025.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 09/27/2023
+Early Annual Conditions Not Covered: Concurrent use of Jesduvroq with Vafseo 07/24/2024
+Revision (vadadustat tablets) was added to Conditions Not Covered.
+Annual No criteria changes. 07/23/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 5 of 5: Cigna National Formulary Coverage - Policy: Nephrology - Jesduvroq Prior
+Authorization Policy

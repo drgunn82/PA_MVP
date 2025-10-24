@@ -1,0 +1,117 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1169-11
+Program Prior Authorization/Notification
+Medication Lonsurf® (trifluridine/tipiracil)
+P&T Approval Date 11/2015, 9/2016, 9/2017, 9/2018, 4/2019, 4/2020, 4/2021, 4/2022, 4/2023,
+4/2024, 4/2025
+Effective Date 7/1/2025
+1. Background:
+Lonsurf (trifluridine/tipiracil) is a combination of trifluridine, a nucleoside metabolic inhibitor,
+and tipiracil, a thymidine phosphorylase inhibitor, indicated for the treatment of adult patients
+with:
+• Metastatic colorectal cancer as a single agent or in combination with bevacizumab who have
+been previously treated with fluoropyrimidine-, oxaliplatin-, and irinotecan-based
+chemotherapy, an anti-VEGF biological therapy, and if RAS wild-type, an anti-EGFR therapy.
+• Metastatic gastric or gastroesophageal junction adenocarcinoma previously treated with at
+least two prior lines of chemotherapy that included a fluoropyrimidine, a platinum, either a
+taxane or irinotecan, and if appropriate, HER2/neu-targeted therapy.
+In addition, the National Cancer Comprehensive Network (NCCN) also recommends the use of
+Lonsurf as second-line and subsequent therapy as a single agent, or in combination with
+bevacizumab (preferred), for advanced or metastatic colon, appendiceal, or rectal cancer.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age
+of 19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Lonsurf will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Colorectal Cancer
+1. Lonsurf will be approved based on all of the following criteria:
+a. Diagnosis of advanced or metastatic colorectal cancer (mCRC) (i.e., colon,
+© 2025 UnitedHealthcare Services, Inc.
+1
+appendiceal, or rectal cancer).
+-AND-
+b. History of failure, contraindication, or intolerance to treatment with all of the following:
+(1) Fluoropyrimidine-based chemotherapy
+(2) Oxaliplatin-based chemotherapy
+(3) Irinotecan-based chemotherapy
+(4) Anti-VEGF biological therapy
+-AND-
+c. One of the following:
+(1) Tumor is RAS mutant-type
+-OR-
+(2) Both of the following:
+(a) Tumor is RAS wild-type
+(b) History of failure, contraindication, or intolerance to anti-EGFR therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Lonsurf will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Lonsurf therapy.
+Authorization will be issued for 12 months.
+C. Gastric/Gastroesophageal Junction Adenocarcinoma
+1. Lonsurf will be approved based on both of the following criteria:
+a. Diagnosis of one of the following:
+(1) Unresectable locally advanced, recurrent, or metastatic gastric cancer
+(2) Unresectable locally advanced, recurrent, or metastatic gastroesophageal junction
+adenocarcinoma
+-AND-
+b. History of failure, contraindication, or intolerance to treatment with at least two prior
+lines of chemotherapy that consisted of the following agents:
+(1) Fluoropyrimidine (e.g, fluorouracil)
+© 2025 UnitedHealthcare Services, Inc.
+2
+(2) Platinum (e.g., carboplatin, cisplatin, oxaliplatin)
+(3) Taxane (e.g, docetaxel, paclitaxel) or irinotecan
+(4) HER2/neu-targeted therapy (e.g., trastuzumab) (if HER2 overexpression)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Lonsurf will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Lonsurf therapy
+Authorization will be issued for 12 months.
+D. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category of
+Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class
+• Supply limits may be in place.
+4. References:
+1. Lonsurf [package insert]. Cambridge, MA: ARIAD Pharmaceuticals, Inc.; August 2023.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+https://www.nccn.org/professionals/drug_compendium/content/. Accessed March 6, 2025.
+Program Prior Authorization/Notification - Lonsurf® (trifluridine/tipiracil)
+Change Control
+11/2015 New program.
+9/2016 Annual review. Updated references.
+9/2017 Annual review. Updated references.
+9/2018 Annual review. Updated references.
+4/2019 Added coverage for metastatic gastric cancer. Updated references.
+4/2020 Annual review. Added general NCCN recommendations for use criteria.
+Updated reference.
+© 2025 UnitedHealthcare Services, Inc.
+3
+4/2021 Annual review with no changes to coverage criteria. Updated background and
+references.
+4/2022 Annual review. Updated references.
+4/2023 Annual review. Added state mandate and oncology medications footnote.
+Updated references.
+4/2024 Annual review. Removed oncology medications footnote. Updated background
+for FDA indications and NCCN recommendations. Updated diagnostic criteria
+for colorectal cancer. Updated gastric/gastroesophageal junction
+adenocarcinoma diagnostic criteria. Updated references.
+4/2025 Annual review. No changes to clinical criteria. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+4

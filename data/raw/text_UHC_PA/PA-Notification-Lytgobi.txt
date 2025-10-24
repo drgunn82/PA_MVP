@@ -1,0 +1,79 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1399-3
+Program Prior Authorization/Notification
+Medication Lytgobi® (futibatinib)
+P&T Approval Date 11/2022, 11/2023, 11/2024
+Effective Date 2/15/2025
+1. Background:
+Lytgobi (futibatinib) is a kinase inhibitor indicated for the treatment of adult patients with
+previously treated, unresectable, locally advanced or metastatic intrahepatic cholangiocarcinoma
+harboring fibroblast growth factor receptor 2 (FGFR2) gene fusions or other rearrangements.
+The National Cancer Comprehensive Network (NCCN) also recommends the use of Lytgobi in
+extrahepatic cholangiocarcinoma for subsequent treatment for progression on or after systemic
+treatment for unresectable or resected gross residual (R2) disease, or metastatic disease with
+fibroblast growth factor receptor 2 (FGFR2) fusions or rearrangements.
+This indication is approved under accelerated approval based on overall response rate and duration
+of response. Continued approval for this indication may be contingent upon verification and
+description of clinical benefit in a confirmatory trial(s).
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the notification
+criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Lytgobi will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Cholangiocarcinoma
+1. Initial Authorization
+a. Lytgobi will be approved based on all of the following criteria:
+(1) Diagnosis of cholangiocarcinoma (intrahepatic or extrahepatic)
+© 2024 UnitedHealthcare Services, Inc.
+1
+-AND-
+(2) Disease is one of the following:
+i. Unresectable
+ii. Resected gross residual (R2)
+iii. Metastatic
+-AND-
+(3) Positive for fibroblast growth factor receptor 2 (FGFR2) fusions or
+rearrangements
+-AND-
+(4) Used as second line or subsequent treatment
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Lytgobi will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Lytgobi therapy
+Authorization will be issued for 12 months.
+C. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits and/or step therapy may be in place.
+© 2024 UnitedHealthcare Services, Inc.
+2
+4. References:
+1. Lytgobi [package insert]. Princeton, NJ: Taiho Pharmaceutical Co., Ltd. April 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org. Accessed September 21, 2024.
+Program Prior Authorization/Notification – Lytgobi® (futibatinib)
+Change Control
+11/2022 New program.
+11/2023 Annual review. Updated cholangiocarcinoma criteria to include NCCN
+recommendations. Updated background. Added reference.
+11/2024 Annual review. Modified criteria for disease type in
+cholangiocarcinoma. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+3

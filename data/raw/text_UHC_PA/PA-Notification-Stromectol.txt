@@ -1,0 +1,55 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1369-4
+Program Prior Authorization/Notification
+Medication Stromectol® (ivermectin) oral dosage form
+P&T Approval Date 9/2021, 12/2022, 1/2024, 3/2025
+Effective Date 6/1/2025
+1. Background:
+Ivermectin (oral dosage form) is indicated for the treatment of parasitic infections including
+strongyloidiasis and onchocerciasis. Ivermectin may also be used for other compendia
+supported parasitic infections including but not limited to scabies, hookworm disease, and
+ascariasis. Most infections are treated with a single weight-based dose. The U.S. Food and
+Drug Administration (FDA) has determined that currently available clinical trial data do not
+demonstrate that ivermectin is effective against COVID-19 in humans1.
+2. Coverage Criteriaa:
+A. Stromectol (ivermectin) will be approved based on the following criterion:
+1. Diagnosis of one of the following:
+a. Onchocerciasis due to nematode parasite.
+b. Pediculosis
+c. Strongyloidiasis
+d. Ascariasis
+e. Scabies (including crusted scabies)
+f. Cutaneous larva migrans (hook worm disease)
+g. Enterobiasis
+h. Filariasis
+i. Trichuriasis
+Authorization will be issued for 1 month
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-
+10) and/or claim logic. Use of automated approval and re-approval processes varies by
+program and/or therapeutic class.
+• Supply limits, Medical Necessity and/or Step Therapy may be in place.
+© 2025 UnitedHealthcare Services, Inc.
+1
+4. References:
+1. U.S. Food and Drug Administration. Ivermectin and COVID-19. Updated April 5, 2024.
+Accessed February 2, 2025.
+2. Ivermectin [package insert]. Parsippany, NJ: Edenbridge Pharmaceuticals, LLC.; March
+2022.
+3. Clinical Pharmacology [database online]. Ivermectin. Tampa, FL: Gold Standard, Inc.;
+2022. Updated February 10, 2025.
+Program Prior Authorization/Notification - Stromectol (ivermectin)
+Change Control
+9/2021 New program.
+12/2022 Updated references, added state mandate footnote, revised language in
+background to align with updated NIH reference.
+1/2024 Annual review. Updated references.
+3/2025 Annual review. Updated references and background with FDA
+reference.
+© 2025 UnitedHealthcare Services, Inc.
+2

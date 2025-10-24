@@ -1,0 +1,56 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1477-1
+Program Prior Authorization/Notification
+Medication Romvimza™ (vimseltinib)
+P&T Approval Date 4/2025
+Effective Date 7/1/2025
+1. Background:
+Romvimza is a kinase inhibitor indicated for treatment of adult patients with symptomatic
+tenosynovial giant cell tumor (TGCT) for which surgical resection will potentially cause worsening
+functional limitation or severe morbidity.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of 19
+years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or under
+some circumstances. Some states also mandate usage of other Compendium references. Where such
+mandates apply, they supersede language in the benefit document or in the notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Romvimza will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Tenosynovial Giant Cell Tumor (TGCT)
+1. Initial Authorization
+a. Romvimza will be approved based on both of the following criteria:
+(1) Diagnosis of tenosynovial giant cell tumor (TGCT)
+-AND-
+(2) Surgical resection will potentially cause worsening functional limitation or severe
+morbidity
+Authorization will be issued for 12 months.
+2. Reauthorization
+© 2025 UnitedHealthcare Services Inc.
+1
+a. Romvimza will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Romvimza therapy
+Authorization will be issued for 12 months.
+C. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category of
+Evidence and Consensus of 1, 2A, or 2B.
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+• Romvimza [package insert]. Waltham, MA: Deciphera Pharmaceuticals, LLC; February, 2025.
+Program Program type - Prior Authorization/Notification – Romvimza (vimseltinib)
+Change Control
+4/2025 New program.
+© 2025 UnitedHealthcare Services Inc.
+2

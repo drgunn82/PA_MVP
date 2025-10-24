@@ -1,0 +1,78 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1246-9
+Program Prior Authorization/Notification
+Medication Prevymis™ (letermovir)
+P&T Approval Date 6/2018, 6/2019, 6/2020, 6/2021, 6/2022, 6/2023, 7/2023, 7/2024,
+10/2024
+Effective Date 1/1/2025
+1. Background:
+Prevymis (letermovir) is a CMV DNA terminase complex inhibitor indicated for prophylaxis of
+cytomegalovirus (CMV) infection and disease in adult and pediatric patients 6 months of age and
+older and weighing at least 6 kg who are CMV-seropositive recipients [R+] of an allogeneic
+hematopoietic stem cell transplant (HSCT). Prevymis is also indicated for prophylaxis of CMV
+disease in adult and pediatric patients 12 years of age and older and weighing at least 40 kg who
+are kidney transplant recipients at high risk (Donor CMV seropositive/Recipient CMV
+seronegative [D+/R-]).1
+2. Coverage Criteriaa:
+A. Cytomegalovirus Prophylaxis
+1. Initial Therapy
+a. Prevymis will be approved based on one of the following criteria
+(1) All of the following:
+(a) Patient is a recipient of an allogeneic hematopoietic stem cell transplant
+-AND-
+(b) Patient is CMV-seropositive
+-AND-
+(c) Provider attests that Prevymis will be initiated between Day 0 and Day 28
+post-transplantation (before or after engraftment) and is being prescribed as
+prophylaxis and not treatment of CMV infection
+-OR-
+(2) All of the following:
+(a) Patient is a recipient of a kidney transplant
+© 2024 UnitedHealthcare Services Inc.
+1
+-AND-
+(b) Patient is CMV-seronegative
+-AND-
+(c) Donor is CMV-seropositive
+-AND-
+(d) Provider attests that Prevymis will be initiated between Day 0 and Day 7
+post-transplantation (before or after engraftment) and is being prescribed as
+prophylaxis and not treatment of CMV infection
+Authorization will be issued for 9 months.
+2. Reauthorization
+All requests for reauthorization will be denied by OptumRx. All requests for
+continuation of therapy must be submitted through the appeals process to
+UnitedHealthcare Pharmacy appeals for consideration.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits, Step Therapy, and/or Medical Necessity may be in place.
+4. References:
+1. Prevymis [package insert]. Rahway, NJ: Merck Sharp & Dohme LLC.; August 2024.
+Program Prior Authorization/Notification – Prevymis (letermovir)
+Change Control
+6/2018 New program
+6/2019 Annual review with no change to coverage criteria. Updated reference.
+6/2020 Annual review with no changes to coverage criteria.
+6/2021 Annual review with no changes to coverage criteria.
+6/2022 Annual review with no changes to coverage criteria. Updated
+reference.
+6/2023 Annual review with no changes to coverage criteria. Updated reference
+and added state mandate footnote.
+7/2023 Updated background with additional FDA approved indication and
+© 2024 UnitedHealthcare Services Inc.
+2
+updated coverage criteria. Updated reference.
+7/2024 Annual review with no changes to coverage criteria. Updated
+reference.
+10/2024 Updated background with expanded FDA approved indications in
+pediatric population. No changes to coverage criteria. Updated
+reference.
+© 2024 UnitedHealthcare Services Inc.
+3

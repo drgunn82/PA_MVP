@@ -1,0 +1,113 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1166-12
+Program Prior Authorization/Notification
+Medication Praluent® (alirocumab)*
+P&T Approval Date 8/2015, 7/2016, 7/2017, 7/2018, 7/2019, 7/2020, 6/2021, 6/2022, 6/2023,
+2/2024, 5/2024, 5/2025
+Effective Date 8/1/2025
+1. Background:
+Praluent (alirocumab) is a PCSK9 (Proprotein Convertase Subtilisin Kexin Type 9) inhibitor
+antibody indicated:
+• To reduce the risk of myocardial infarction, stroke, and unstable angina requiring
+hospitalization in adults with established cardiovascular disease.
+• As adjunct to diet, alone or in combination with other low-density lipoprotein cholesterol
+(LDL-C)-lowering therapies (e.g., statins, ezetimibe), for the treatment of adults with primary
+hyperlipidemia (including heterozygous familial hypercholesterolemia) to reduce LDL-C.
+• As an adjunct to other LDL-C-lowering therapies in adult patients with homozygous familial
+hypercholesterolemia (HoFH) to reduce LDL-C.
+• As an adjunct to diet and other LDL-C-lowering therapies in pediatric patients aged 8 years
+and older with HeFH to reduce LDL-C.
+2. Coverage Criteriaa:
+A. Hyperlipidemia
+1. Initial Authorization
+a. Praluent* will be approved based on all of the following criteria:
+(1) One of the following diagnoses:
+(a) Primary hyperlipidemia
+-OR-
+(b) Heterozygous familial hypercholesterolemia (HeFH)
+-OR-
+(c) Atherosclerotic cardiovascular disease (ASCVD) (e.g., acute coronary
+syndromes, history of myocardial infarction, stable or unstable angina,
+coronary or other arterial revascularization, stroke, transient ischemic attack, or
+peripheral arterial disease presumed to be of atherosclerotic origin)
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+1
+(2) Not used in combination with another proprotein convertase subtilisin/kexin type
+9 (PCSK9) inhibitor [e.g., Repatha (evolocumab)]
+-AND-
+(3) Not used in combination with Leqvio (inclisiran)
+Authorization will be issued for 12 months
+2. Reauthorization
+a. Praluent* will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Praluent* therapy
+-AND-
+(2) Not used in combination with another proprotein convertase subtilisin/kexin type
+9 (PCSK9) inhibitor [e.g., Repatha (evolocumab)]
+-AND-
+(3) Not used in combination with Leqvio (inclisiran)
+Authorization will be issued for 12 months
+B. Homozygous Familial Hypercholesterolemia
+1. Initial Authorization
+a. Praluent* will be approved based on all of the following criteria:
+(1) Diagnosis of homozygous familial hypercholesterolemia
+-AND-
+(2) Patient is receiving other lipid-lowering therapy (e.g., statin, ezetimibe, LDL
+apheresis)
+-AND-
+(3) Not used in combination with another proprotein convertase subtilisin/kexin type 9
+(PCSK9) inhibitor [e.g., Repatha (evolocumab)]
+-AND-
+(4) Not used in combination with Juxtapid (lomitapide)
+Authorization will be issued for 12 months
+© 2025 UnitedHealthcare Services, Inc.
+2
+2. Reauthorization
+a. Praluent* will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Praluent* therapy
+-AND-
+(2) Not used in combination with another proprotein convertase subtilisin/kexin type 9
+(PCSK9) inhibitor
+-AND-
+(3) Not used in combination with Juxtapid (lomitapide)
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+*Praluent is typically excluded from coverage. Tried/Failed criteria may be in place. Please refer to
+plan specifics to determine exclusion status.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Medical Necessity, Supply Limits and Step Therapy may be in place.
+4. References:
+1. Praluent [package insert]. Tarrytown, NY: Regeneron Pharmaceuticals; March 2024.
+Program Prior Authorization/Notification – Praluent® (alirocumab)
+Change Control
+8/2015 New program.
+7/2016 Annual Review. Updated reference.
+7/2017 Annual review with no changes to coverage criteria. Updated reference.
+7/2018 Annual review with no changes to coverage criteria. Updated reference.
+7/2019 Annual review. Updated background and criteria aligning with new label
+for the prevention of cardiovascular events in patients with established
+ASCVD and in patients with primary hyperlipidemia alone or in
+combination with other therapies. Updated reference.
+7/2020 Annual review with no changes to coverage intent. Changed initial
+authorization to 12 months. Updated reference.
+6/2021 Annual review. Updated background and added criteria to align with new
+label for homozygous familial hypercholesterolemia. Added Praluent
+exclusion statement. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+3
+6/2022 Annual review with no changes to coverage criteria. Added state mandate
+footnote and updated exclusion statement.
+6/2023 Annual review. Updated background. Added criteria that Praluent is not
+to be used in combination with Leqvio.
+2/2024 Simplified reauthorization criteria.
+5/2024 Updated background to align with new label for pediatric patients aged 8
+years and older with HeFH. Updated reference.
+5/2025 Annual review. Removed diet requirement.
+© 2025 UnitedHealthcare Services, Inc.
+4

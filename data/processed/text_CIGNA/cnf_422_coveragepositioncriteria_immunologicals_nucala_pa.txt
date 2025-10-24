@@ -1,0 +1,626 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Immunologicals – Nucala Prior Authorization Policy
+• Nucala® (mepolizumab subcutaneous injection − GlaxoSmithKline)
+REVIEW DATE: 06/04/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Nucala, an interleukin (IL)-5 antagonist monoclonal antibody, is indicated for the
+following uses:1
+• Asthma, as add-on maintenance treatment of patients ≥ 6 years of age with
+severe disease with an eosinophilic phenotype. Limitations of Use: Nucala is
+not indicated for the relief of acute bronchospasm or status asthmaticus.
+• Chronic obstructive pulmonary disease (COPD), as add-on maintenance
+treatment in patients ≥ 18 years of age with inadequately controlled disease
+and an eosinophilic phenotype.
+Limitation of Use: Nucala is not indicated for the relief of acute bronchospasm.
+• Chronic rhinosinusitis with nasal polyps (CRSwNP), as an add-on
+maintenance treatment in patients ≥ 18 years of age with an inadequate
+response to nasal corticosteroids.
+• Eosinophilic granulomatosis with polyangiitis (EGPA) [formerly known as
+Churg-Strauss Syndrome] in adult patients.
+Page 1 of 13 - Cigna National Formulary Coverage - Policy: Immunologicals – Nucala Prior Authorization Policy
+• Hypereosinophilic syndrome (HES), in patients ≥ 12 years of age who have
+had HES for ≥ 6 months without an identifiable non-hematologic secondary
+cause.
+Clinical Efficacy
+Asthma
+In the pivotal asthma studies of Nucala, patients were generally required to have
+elevated eosinophils at baseline (e.g., peripheral blood eosinophil count ≥ 150
+cells/microliter at screening or ≥ 300 cells/microliter at some time during the
+previous year). Across the studies, efficacy was assessed as early as 24 weeks.1-4
+Chronic Obstructive Pulmonary Disease
+Data to support the use of Nucala in COPD come from one pivotal study, MATINEE,
+and a subgroup of patients with elevated eosinophils in a second pivotal study,
+METREX.22,23 To be eligible for enrollment in MATINEE, patients had a blood
+eosinophil level ≥ 300 cells per microliter at screening and a level ≥ 150 cells per
+microliter within 12 months of study enrollment. Patients were required to have been
+receiving background triple inhaler therapy (i.e., an inhaled corticosteroid [ICS] with
+a long-acting muscarinic antagonist [LAMA] and a long-acting beta -agonist [LABA]),
+2
+for at least 3 months prior to randomization. Patients also experienced at least two
+moderate COPD exacerbations requiring treatment with a systemic corticosteroid
+with or without antibiotics, or at least one severe COPD exacerbation requiring
+hospitalization for ≥ 24 hours during the year prior to screening. Patients were
+randomized to receive either Nucala or placebo in addition to background
+maintenance therapy for 52 weeks (METREX) or 52 to 104 weeks (MATINEE).
+Chronic Rhinosinusitis with Nasal Polyps
+In one pivotal study involving adult patients with chronic rhinosinusitis with nasal
+polyposis, the primary efficacy endpoints were assessed at 52 weeks.1,5 However,
+improvements in nasal polyp size and symptoms compared with placebo were
+observed much earlier on in the course of treatment (i.e., between 9 and 24 weeks).
+Eosinophilic Granulomatosis with Polyangiitis
+One study evaluated the efficacy of Nucala in patients ≥ 18 years of age with
+relapsing or refractory EGPA who had received ≥ 4 weeks of a stable oral
+corticosteroid dose (i.e., prednisolone, prednisone).6 Patients were also required to
+have a baseline relative eosinophil level of 10% or an absolute eosinophil level >
+1,000 cells per microliter; however, the baseline mean absolute eosinophil level was
+approximately 175 cells per microliter across both treatment groups. While remission
+benefit of Nucala was demonstrated in the overall patient population, the magnitude
+of improvements observed with Nucala were larger in patients with baseline
+eosinophil levels ≥ 150 cells per microliter than in patients with lower baseline levels.
+An additional study evaluated the efficacy of Nucala compared with another anti-IL-
+5 agent, Fasenra® (benralizumab subcutaneous injection), in patients ≥ 18 years of
+age with relapsing or refractory EGPA who had received ≥ 4 weeks of a stable oral
+corticosteroid dose (i.e., prednisolone, prednisone, methylprednisolone, or
+hydrocortisone).30 The primary endpoint was the proportion of patients in remission
+at both Week 36 and Week 48.
+Page 2 of 13 - Cigna National Formulary Coverage - Policy: Immunologicals – Nucala Prior Authorization Policy
+Hypereosinophilic Syndrome
+One study evaluated the efficacy of Nucala in patients ≥ 12 years of age with
+hypereosinophilic syndrome for ≥ 6 months.7 Patients with non-hematologic
+secondary hypereosinophilic syndrome and those with FIP1L1-PDGFRα kinase-
+positive hypereosinophilic syndrome were excluded. All patients had a baseline blood
+eosinophil count ≥ 1,000 cells per microliter. Additionally, all patients had been on
+stable therapy for their hypereosinophilic syndrome (e.g., oral corticosteroids,
+immunosuppressive agents, or cytotoxic therapy) for 4 weeks or more prior to
+randomization. Efficacy was assessed following 32 weeks of therapy.
+Guidelines
+Asthma Guidelines
+The Global Initiative for Asthma Global Strategy for Asthma Management and
+Prevention (2025) proposes a step-wise approach to asthma treatment.8 Nucala is
+listed as an option for add-on therapy in patients ≥ 6 years of age with severe
+eosinophilic asthma. Severe asthma is defined as asthma that is uncontrolled despite
+adherence to optimized high-dose inhaled corticosteroid (ICS)/long-acting beta -
+2
+agonist (LABA) therapy or that worsens when high-dose treatment is decreased.
+Higher blood eosinophil levels, higher number of severe exacerbations in the previous
+year, adult-onset asthma, nasal polyps, maintenance oral corticosteroid
+requirements, and low lung function may predict a good asthma response to Nucala.
+According to the European Respiratory Society/American Thoracic Society guidelines
+(2014; updated in 2020), severe asthma is defined as asthma which requires
+treatment with a high-dose ICS in addition to a second controller medication (and/or
+systemic corticosteroids) to prevent it from becoming uncontrolled, or asthma which
+remains uncontrolled despite this therapy.9,10 Uncontrolled asthma is defined as
+asthma that worsens upon tapering of high-dose ICS or systemic corticosteroids or
+asthma that meets one of the following four criteria:
+1) Poor symptom control: Asthma Control Questionnaire consistently ≥ 1.5 or
+Asthma Control Test < 20;
+2) Frequent severe exacerbations: two or more bursts of systemic corticosteroids
+in the previous year;
+3) Serious exacerbations: at least one hospitalization, intensive care unit stay,
+or mechanical ventilation in the previous year;
+4) Airflow limitation: forced expiratory volume in 1 second (FEV ) < 80%
+1
+predicted after appropriate bronchodilator withholding.
+Chronic Obstructive Pulmonary Disease Guidelines
+The Global Initiative for Chronic Obstructive Lung Disease (GOLD) Global Strategy
+for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary
+Disease (2025) recommends triple inhaled therapy with an ICS/LAMA/LABA
+combination in patients with a history of exacerbations and elevated eosinophils.24
+However, guidelines note that ICS therapy increases the risk of pneumonia in patients
+with COPD, particularly those with severe disease. Nucala is not currently addressed
+in GOLD recommendations.
+Page 3 of 13 - Cigna National Formulary Coverage - Policy: Immunologicals – Nucala Prior Authorization Policy
+Chronic Rhinosinusitis with Nasal Polyps Guidelines
+The Joint Task Force on Practice Parameters (JTFPP) published a focused guideline
+update for the medical management of CRSwNP (2023), which updated
+recommendations regarding intranasal corticosteroids and biologic therapies.11
+Intranasal corticosteroids are recommended for the treatment of CRSwNP. Use of
+biologics (e.g., Nucala) is also recommended. However, in patients who derived a
+sufficient benefit from other therapies such as intranasal corticosteroids, surgery, or
+aspirin therapy after desensitization, biologics may not be preferred. Conversely,
+biologics may be preferred over other medical treatment options in patients who
+continue to have a high burden of disease despite receiving at least 4 weeks of
+treatment with an intranasal corticosteroid.
+The diagnosis of CRSwNP was not addressed in this focused guideline update.
+Previous guidelines have noted that the presence of two or more signs and symptoms
+of chronic rhinosinusitis (e.g., rhinorrhea, postnasal drainage, anosmia, nasal
+congestion, facial pain, headache, fever, cough, and purulent discharge) that persist
+for an extended period of time makes the diagnosis of chronic rhinosinusitis likely.12-
+15 However, this requires confirmation of sinonasal inflammation, which can either
+be done via direct visualization or computed tomography (CT) scan. Oral
+corticosteroids and surgical intervention were not specifically addressed in this
+update. Prior guidelines recommend short courses of oral corticosteroid as needed
+and consideration of surgical removal as an adjunct to medical therapy in patients
+with CRSwNP that is not responsive or is poorly responsive to medical therapy.12,13,15
+Eosinophilic Granulomatosis with Polyangiitis Guidelines
+The American College of Rheumatology (ACR)/Vasculitis Foundation Guideline for the
+Management of Antineutrophil Cytoplasmic Antibody-Associated (ANCA) Vasculitis
+(2021) includes recommendations regarding the management of EGPA.16 For
+patients with active, non-severe EGPA, combination therapy with Nucala and
+corticosteroids is recommended over other traditional treatments such as
+methotrexate, azathioprine, or mycophenolate mofetil in the setting of remission
+induction. Non-severe EGPA is defined as vasculitis in the absence of life- or organ-
+threatening manifestations. In general, the clinical profile includes rhinosinusitis,
+asthma, mild systemic symptoms, uncomplicated cutaneous disease, and mild
+inflammatory arthritis. Nucala, in combination with corticosteroids, is also a
+recommended therapy for patients who have relapsed and are experiencing non-
+severe disease manifestations (i.e., asthma and/or sinonasal disease) while receiving
+either low-dose corticosteroids alone, methotrexate, azathioprine, or mycophenolate
+mofetil. For patients with severe EGPA, cyclophosphamide or rituximab is preferred
+over Nucala for remission induction. The European Alliance of Associations for
+Rheumatology (EULAR) recommendations for the management of ANCA-associated
+vasculitis (2022) also address the use of Nucala for the treatment of EGPA.17 Similar
+to the ACR guidelines, EULAR recommends Nucala for induction of remission in
+patients with relapsing or refractory EGPA without active organ- or life-threatening
+disease. It is also recommended for maintenance of remission in these patients.
+Additionally, it is also among the many recommended treatment options for the
+maintenance of remission of EGPA after induction of remission for organ-threatening
+or life-threatening disease.
+Page 4 of 13 - Cigna National Formulary Coverage - Policy: Immunologicals – Nucala Prior Authorization Policy
+Hypereosinophilia Guidelines
+The World Health Organization (WHO) and international consensus classification of
+eosinophilic disorders update on diagnosis, risk stratification, and management
+(2024) notes that corticosteroids remain first-line therapy for the treatment of HES.18
+Nucala, hydroxyurea, pegylated-interferon, imatinib, and hematopoietic stem cell
+transplantation are listed as second-line treatment options.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Nucala. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Nucala as well as the
+monitoring required for adverse events and long-term efficacy, initial approval
+requires Nucala to be prescribed by or in consultation with a physician who specializes
+in the condition being treated.
+• Nucala® (mepolizumab subcutaneous injection - GlaxoSmithKline)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Asthma. Approve Nucala for the duration noted if the patient meets ONE of the
+following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, iii, iv, and v):
+i. Patient is ≥ 6 years of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has a blood eosinophil level ≥ 150 cells per microliter within the
+previous 6 weeks; OR
+b) Patient had a blood eosinophil level ≥ 150 cells per microliter prior to
+treatment with Nucala or another monoclonal antibody therapy that may
+alter blood eosinophil levels; AND
+Note: Examples of monoclonal antibody therapies that may alter blood
+eosinophil levels include Nucala, Adbry (tralokinumab-ldrm
+subcutaneous injection), Cinqair (reslizumab intravenous infusion),
+Dupixent (dupilumab subcutaneous injection), Ebglyss (lebrikizumab-
+lbkz subcutaneous injection), Fasenra (benralizumab subcutaneous
+injection), Nemluvio (nemolizumab-ilto subcutaneous injection),
+Tezspire (tezepelumab-ekko subcutaneous injection), Xolair
+(omalizumab subcutaneous injection).
+iii. Patient has received at least 3 consecutive months of combination therapy
+with BOTH of the following (a and b):
+a) An inhaled corticosteroid; AND
+Page 5 of 13 - Cigna National Formulary Coverage - Policy: Immunologicals – Nucala Prior Authorization Policy
+b) At least one additional asthma controller or asthma maintenance
+medication; AND
+Note: Examples of additional asthma controller or asthma maintenance
+medications are inhaled long-acting beta -agonists, inhaled long-acting
+2
+muscarinic antagonists, and monoclonal antibody therapies for asthma
+(e.g., Cinqair, Dupixent, Fasenra, Nucala, Tezspire, and Xolair). Use of
+a combination inhaler containing both an inhaled corticosteroid and
+additional asthma controller/maintenance medication(s) would fulfill the
+requirement for both criteria a and b.
+iv. Patient has asthma that is uncontrolled or was uncontrolled at baseline as
+defined by ONE of the following (a, b, c, d, or e):
+Note: “Baseline” is defined as prior to receiving Nucala or another
+monoclonal antibody therapy for asthma. Examples of monoclonal antibody
+therapies for asthma include Nucala, Cinqair, Dupixent, Fasenra, Tezspire,
+and Xolair.
+a) Patient experienced two or more asthma exacerbations requiring
+treatment with systemic corticosteroids in the previous year; OR
+b) Patient experienced one or more asthma exacerbation(s) requiring a
+hospitalization, an emergency department visit, or an urgent care visit
+in the previous year; OR
+c) Patient has a forced expiratory volume in 1 second (FEV ) < 80%
+1
+predicted; OR
+d) Patient has an FEV /forced vital capacity (FVC) < 0.80; OR
+1
+e) Patient has asthma that worsens upon tapering of oral (systemic)
+corticosteroid therapy; AND
+v. The medication is prescribed by or in consultation with an allergist,
+immunologist, or pulmonologist; OR
+B) Patient is Currently Receiving Nucala. Approve for 1 year if the patient meets
+ALL of the following (i, ii, and iii):
+i. Patient has already received at least 6 months of therapy with Nucala; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with Nucala should be considered under criterion 1A
+(Asthma, Initial Therapy).
+ii. Patient continues to receive therapy with one inhaled corticosteroid or one
+inhaled corticosteroid-containing combination inhaler; AND
+iii. Patient has responded to therapy as determined by the prescriber.
+Note: Examples of a response to Nucala therapy are decreased asthma
+exacerbations; decreased asthma symptoms; decreased hospitalizations,
+emergency department, urgent care, or medical clinic visits due to asthma;
+and decreased requirement for oral corticosteroid therapy.
+2. Chronic Obstructive Pulmonary Disease (COPD). Approve for the duration
+noted if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, iii, iv, and v):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient meets ONE of the following (a or b):
+Page 6 of 13 - Cigna National Formulary Coverage - Policy: Immunologicals – Nucala Prior Authorization Policy
+a) Patient has a blood eosinophil level ≥ 300 cells per microliter within the
+previous 6 weeks; OR
+b) Patient had a blood eosinophil level ≥ 300 cells per microliter prior to
+treatment with Nucala or another monoclonal antibody therapy that may
+alter blood eosinophil levels; AND
+Note: Examples of monoclonal antibody therapies that may alter blood
+eosinophil levels include Nucala, Adbry (tralokinumab-ldrm
+subcutaneous injection), Cinqair (reslizumab intravenous infusion),
+Dupixent (dupilumab subcutaneous injection); Ebglyss (lebrikizumab-
+lbkz subcutaneous injection); Fasenra (benralizumab subcutaneous
+injection), Nemluvio (nemolizumab-ilto subcutaneous injection);
+Tezspire (tezepelumab subcutaneous injection), and Xolair (omalizumab
+subcutaneous injection).
+iii. Patient meets ONE of the following (a or b):
+a) Patient has received at least 3 consecutive months of combination
+therapy with ALL of the following (1, 2, and 3):
+(1) Inhaled long-acting beta -agonist (LABA); AND
+2
+(2) Inhaled long-acting muscarinic antagonist (LAMA); AND
+(3) Inhaled corticosteroid (ICS); OR
+Note: Use of single-entity inhalers or a combination inhaler
+containing multiple agents from the medication classes listed would
+fulfill the requirement.
+b) Patient meets BOTH of the following (1 and 2):
+(1) Patient has received at least 3 consecutive months of combination
+therapy with an inhaled LABA and an inhaled LAMA; AND
+Note: Use of single-entity inhalers or a combination inhaler
+containing multiple agents from the medication classes listed would
+fulfill the requirement.
+(2) According to the prescriber, the patient has a contraindication to
+the use of an inhaled corticosteroid; AND
+iv. Patient meets ONE of the following (a or b):
+a) Patient experienced two or more COPD exacerbations requiring
+treatment with a systemic corticosteroid with or without an antibiotic in
+the previous 12 months; OR
+b) Patient experienced one or more COPD exacerbation(s) requiring a
+hospitalization in the previous 12 months; AND
+Note: A hospitalization includes a hospital admission or an emergency
+medical care visit with observation lasting > 24 hours.
+v. The medication is prescribed by or in consultation with an allergist,
+immunologist, or pulmonologist; OR
+B) Patient is Currently Receiving Nucala. Approve for 1 year if the patient meets
+the following (i, ii, and iii):
+i. Patient has already received at least 6 months of therapy with Nucala; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with Nucala should be considered under criterion 2A
+(Chronic Obstructive Pulmonary Disease, Initial Therapy).
+ii. Patient continues to receive combination therapy with an inhaled LABA and
+LAMA; AND
+Page 7 of 13 - Cigna National Formulary Coverage - Policy: Immunologicals – Nucala Prior Authorization Policy
+Note: Use of single-entity inhalers or a combination inhaler containing
+multiple agents from the medication classes listed would fulfill the
+requirement.
+iii. Patient has experienced a beneficial clinical response, defined by ONE of
+the following (a, b, c, d, or e):
+a) Reduced COPD symptoms; OR
+b) Reduced COPD exacerbations; OR
+c) Reduced COPD-related hospitalizations; OR
+d) Reduced emergency department or urgent care visits; OR
+e) Improved lung function parameters.
+3. Chronic Rhinosinusitis with Nasal Polyps. Approve Nucala for the duration
+noted if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, iii, iv, v, and vi):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has chronic rhinosinusitis with nasal polyps as evidenced by direct
+examination, endoscopy, or sinus computed tomography (CT) scan; AND
+iii. Patient has experienced two or more of the following symptoms for at least
+6 months: nasal congestion, nasal obstruction, nasal discharge, and/or
+reduction/loss of smell; AND
+iv. Patient meets BOTH of the following (a and b):
+a) Patient has received at least 4 weeks of therapy with an intranasal
+corticosteroid; AND
+b) Patient will continue to receive therapy with an intranasal corticosteroid
+concomitantly with Nucala; AND
+v. Patient meets ONE of the following (a, b, or c):
+a) Patient has received at least one course of treatment with a systemic
+corticosteroid for 5 days or more within the previous 2 years; OR
+b) Patient has a contraindication to systemic corticosteroid therapy; OR
+c) Patient has had prior surgery for nasal polyps; AND
+vi. Nucala is prescribed by or in consultation with an allergist, immunologist,
+or an otolaryngologist (ear, nose, and throat [ENT] physician specialist);
+OR
+B) Patient is Currently Receiving Nucala. Approve for 1 year if the patient meets
+ALL of the following (i, ii, and iii):
+i. Patient has already received at least 6 months of therapy with Nucala; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with Nucala should be considered under criterion 3A
+(Chronic Rhinosinusitis with Nasal Polyps, Initial Therapy).
+ii. Patient continues to receive therapy with an intranasal corticosteroid; AND
+iii. Patient has responded to therapy as determined by the prescriber.
+Note: Examples of a response to Nucala therapy are reduced nasal polyp
+size, improved nasal congestion, reduced sinus opacification, decreased
+sino-nasal symptoms, improved sense of smell.
+Page 8 of 13 - Cigna National Formulary Coverage - Policy: Immunologicals – Nucala Prior Authorization Policy
+4. Eosinophilic Granulomatosis with Polyangiitis (EGPA) [formerly known as
+Churg-Strauss Syndrome]. Approve Nucala for the duration noted if the patient
+meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 9 months if the patient meets ALL of the following
+(i, ii, iii, and iv):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has active, non-severe disease; AND
+Note: Non-severe disease is defined as vasculitis without life- or organ-
+threatening manifestations. Examples of symptoms in patients with non-
+severe disease include rhinosinusitis, asthma, mild systemic symptoms,
+uncomplicated cutaneous disease, mild inflammatory arthritis.
+iii. Patient meets BOTH of the following (a and b):
+a) Patient is currently receiving a systemic corticosteroid (e.g., prednisone)
+and has been on therapy for a minimum of 4 weeks; AND
+b) Patient meets ONE of the following [(1) or (2)]:
+(1) Patient has a blood eosinophil level ≥ 150 cells per microliter
+within the previous 4 weeks; OR
+(2) Patient had a blood eosinophil level ≥ 150 cells per microliter prior
+to treatment with Nucala or another monoclonal antibody therapy
+that may alter blood eosinophil levels; AND
+Note: Examples of monoclonal antibody therapies that may alter
+blood eosinophil levels include Nucala, Adbry (tralokinumab-ldrm
+subcutaneous injection), Cinqair (reslizumab intravenous infusion),
+Dupixent (dupilumab subcutaneous injection), Ebglyss
+(lebrikizumab-lbkz subcutaneous injection), Fasenra (benralizumab
+subcutaneous injection), Nemluvio (nemolizumab-ilto subcutaneous
+injection), Tezspire (tezepelumab-ekko subcutaneous injection),
+Xolair (omalizumab subcutaneous injection).
+iv. The medication is prescribed by or in consultation with an allergist,
+immunologist, pulmonologist, or rheumatologist; OR
+B) Patient is Currently Receiving Nucala. Approve for 1 year if the patient meets
+BOTH of the following (i and ii):
+i. Patient has already received at least 9 months of therapy with Nucala; AND
+Note: A patient who has received < 9 months of therapy or who is
+restarting therapy with Nucala should be considered under criterion 4A
+(Eosinophilic Granulomatosis with Polyangiitis, Initial Therapy).
+ii. Patient has responded to therapy as determined by the prescriber.
+Note: Examples of a response to Nucala therapy are reduced rate of
+relapse, corticosteroid dose reduction, and reduced eosinophil levels.
+5. Hypereosinophilic Syndrome. Approve Nucala for the duration noted if the
+patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 8 months if the patient meets ALL of the following
+(i, ii, iii, iv, v, vi, and vii):
+i. Patient is ≥ 12 years of age; AND;
+ii. Patient has had hypereosinophilic syndrome for ≥ 6 months; AND
+iii. Patient has FIP1L1-PDGFRα-negative disease; AND
+Page 9 of 13 - Cigna National Formulary Coverage - Policy: Immunologicals – Nucala Prior Authorization Policy
+iv. Patient does NOT have an identifiable non-hematologic secondary cause of
+hypereosinophilic syndrome according to the prescriber; AND
+Note: Examples of secondary causes of hypereosinophilic syndrome
+include drug hypersensitivity, parasitic helminth infection, human
+immunodeficiency virus infection, non-hematologic malignancy.
+v. Patient has/had a blood eosinophil level ≥ 1,000 cells per microliter prior
+to treatment with any monoclonal antibody therapy that may alter blood
+eosinophil levels; AND
+Note: Examples of monoclonal antibody therapies that may alter blood
+eosinophil levels include Nucala, Adbry (tralokinumab-ldrm subcutaneous
+injection), Cinqair (reslizumab intravenous infusion), Dupixent (dupilumab
+subcutaneous injection), Ebglyss (lebrikizumab-lbkz subcutaneous
+injection), Fasenra (benralizumab subcutaneous injection), Nemluvio
+(nemolizumab-ilto subcutaneous injection), Tezspire (tezepelumab-ekko
+subcutaneous injection), Xolair (omalizumab subcutaneous injection).
+vi. Patient has tried at least one other treatment for hypereosinophilic
+syndrome for a minimum of 4 weeks; AND
+Note: Example of treatments for hypereosinophilic syndrome include
+systemic corticosteroids, hydroxyurea, cyclosporine, imatinib, or
+pegylated-interferon.
+vii. Nucala is prescribed by or in consultation with an allergist,
+immunologist, pulmonologist, or rheumatologist; OR
+B) Patient is Currently Receiving Nucala. Approve for 1 year if the patient meets
+BOTH of the following (i and ii):
+i. Patient has already received at least 8 months of therapy with Nucala; AND
+Note: A patient who has received < 8 months of therapy or who is
+restarting therapy with Nucala should be considered under criterion 5A
+(Hypereosinophilic Syndrome, Initial Therapy).
+ii. Patient has responded to therapy as determined by the prescriber.
+Note: Examples of a response to Nucala therapy are decreased number of
+flares, improved fatigue, reduced corticosteroid requirements, and
+decreased eosinophil levels.
+CONDITIONS NOT COVERED
+• Nucala® (mepolizumab subcutaneous injection - GlaxoSmithKline)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Atopic Dermatitis. Nucala is not indicated for the treatment of atopic dermatitis.1
+In one small study, intravenous (IV) mepolizumab significantly reduced peripheral
+blood eosinophil counts in patients with moderate to severe atopic dermatitis.19,20
+However, mepolizumab IV therapy did not result in clinical success as assessed
+by Physician’s Global Assessment of Improvement scores compared with placebo.
+Other clinical outcomes were also not significantly improved with mepolizumab
+Page 10 of 13 - Cigna National Formulary Coverage - Policy: Immunologicals – Nucala Prior Authorization Policy
+IV. Another small study evaluated subcutaneous Nucala in patients with moderate
+to severe atopic dermatitis.21 Following 16 weeks of therapy, Nucala did not
+demonstrate efficacy, with 11% (n = 2/11) of patients meeting the primary
+endpoint of treatment success with Nucala vs. 0 with placebo. Further research is
+warranted to determine if Nucala has a place in therapy in the treatment of these
+conditions.
+2. Concurrent use of Nucala with another Monoclonal Antibody Therapy. The
+efficacy and safety of Nucala used in combination with other monoclonal antibody
+therapies have not been established.
+Note: Monoclonal antibody therapies are Adbry® (tralokinumab-ldrm
+subcutaneous injection), Cinqair® (reslizumab intravenous injection), Dupixent®
+(dupilumab subcutaneous injection), Ebglyss® (lebrikizumab-lbkz subcutaneous
+injection), Fasenra® (benralizumab subcutaneous injection), Nemluvio®
+(nemolizumab-ilto subcutaneous injection), Tezspire® (tezepelumab-ekko
+subcutaneous injection), or Xolair® (omalizumab subcutaneous injection).
+3. Eosinophilic Esophagitis, Eosinophilic Gastroenteritis, or Eosinophilic
+Colitis. Nucala is not indicated for the treatment of eosinophilic esophagitis,
+eosinophilic gastroenteritis or eosinophilic colitis.1 A few small studies reported
+IV mepolizumab to be efficacious in these conditions.25-27 Of note, Nucala is not
+approved for IV administration.1 One randomized, double-blind trial (n = 66)
+evaluated the efficacy of Nucala in patients with eosinophilic esophagitis.28
+Following 3 months of therapy, there was no statistically significant improvement
+in dysphagia symptoms with Nucala vs. placebo, as measured by the Eosinophilic
+Esophagitis Symptom Activity Index (EEsAI) [primary endpoint]. The EEsAI was
+also not significantly different between the two treatment groups at 6 months of
+treatment. However, significantly more patients achieved a histologic response
+(i.e., < 15 eosinophils/high-power field) with Nucala compared with placebo.
+Clinical guidelines on the diagnosis and management of eosinophilic esophagitis
+from the American College of Gastroenterology (2025) do not make a
+recommendation for or against Nucala citing inconsistent data.29 Further research
+is warranted to determine if Nucala has a place in therapy in the treatment of
+these conditions.
+REFERENCES
+1. Nucala® subcutaneous injection [prescribing information]. Research Triangle Park, NC:
+GlaxoSmithKline; March 2023.
+2. Pavord ID, Korn S, Howarth P, et al. Mepolizumab for severe eosinophilic asthma (DREAM): a
+multicentre, double-blind, placebo-controlled trial. Lancet. 2012;380:651-659.
+3. Ortega HG, Liu MC, Pavord ID, et al. Mepolizumab treatment in patients with severe eosinophilic
+asthma. N Engl J Med. 2014;371:1198-1207.
+4. Bel EH, Wenzel SE, Thompson PJ, et al. Oral glucocorticoid-sparing effect of mepolizumab in
+eosinophilic asthma. N Engl J Med. 2014;371(13):1189-1197.
+5. Han JK, Bachert C, Fokkens W, et al. Mepolizumab for chronic rhinosinusitis with nasal polyps
+(SYNAPSE): a randomized, double-blind, placebo-controlled, phase 3 trial. Lancet Respir Med.
+2021;9(10):1141-1153.
+6. Wechsler ME, Akuthota P, Jayne D. Mepolizumab or placebo for eosinophilic granulomatosis with
+polyangiitis. N Engl J Med. 2017;376(20):1921-1932.
+Page 11 of 13 - Cigna National Formulary Coverage - Policy: Immunologicals – Nucala Prior Authorization Policy
+7. Roufosse F, Kahn JE, Rothenberg ME, et al. Efficacy and safety of mepolizumab in
+hypereosinophilic syndrome: a phase III, randomized, placebo-controlled trial. J Allergy Clin
+Immunol. 2020;146(6):1397-1405.
+8. Global Initiative for Asthma. Global strategy for asthma management and prevention. Updated
+2025. Available at: http://www.ginasthma.org. Accessed on May 29, 2025.
+9. Chung KF, Wenzel SE, Brozek JL, et al. International ERS/ATS guidelines on definition, evaluation,
+and treatment of severe asthma. Eur Respir J. 2014;43:343-373.
+10. Holguin F, Cardet JC, Chung KF, et al. Management of severe asthma: a European Respiratory
+Society/American Thoracic Society Guideline. Eur Respir J. 2020;55:1900588.
+11. Rank MA, Chu DK, Bognanni A, et al. Joint Task Force on Practice Parameters GRADE guidelines
+for the medical management of chronic rhinosinusitis with nasal polyposis. J Allergy Clin Immunol.
+2023;151(2):386-398.
+12. Peters AT, Spector S, Hsu J, et al. Diagnosis and management of rhinosinusitis: a practice
+parameter update. Ann Allergy Asthma Immunol. 2014:347-385.
+13. Dykewicz MS, Wallace DV, Baroody F, et al. Treatment of seasonal allergic rhinitis: an evidenced-
+based focused 2017 guideline update. Ann Allergy Asthma Immunol. 2017;119(6):489-511.
+14. Joint Task Force on Practice Parameters: American Academy of Allergy, Asthma and Immunology
+and the American College of Allergy, Asthma, and Immunology. Rhinitis 2020: a practice
+parameter update. J Allergy Clin Immunol. 2020;146:721-767.
+15. Rosenfeld RM, Piccirillo JF, Chandrasekhar SS, et al. Clinical practice guideline (update): adult
+sinusitis. Otolaryngol Head Neck Surg. 2015;152(2S):S1-S39.
+16. Chung SA, Langford CA, Maz M, et al. 2021 American College of Rheumatology/Vasculitis
+Foundation guideline for the management of antineutrophil cytoplasmic antibody-associated
+vasculitis. Arthritis Rheumatol. 2021;73(8):1088-1105).
+17. Hellmich B, Sanchez-Alamo B, Schirmer JH, et al. EULAR recommendations for the management of
+ANCA-associated vasculitis: 2022 update. Ann Rheum Dis. 2024;83(1):30-47.
+18. Shomali W, Gotlib J. World Health Organization, and international consensus classification of
+eosinophilic disorders: 2024 update on diagnosis, risk stratification, and management. Am J
+Hematol. 2024;99(5):946-968.
+19. Oldhoff JM, Darsow U, Werfel T, et al. Anti-IL-5 recombinant humanized monoclonal antibody
+(mepolizumab) for the treatment of atopic dermatitis. Allergy. 2005;60(5):693-696.
+20. Oldhoff JM, Darsow U, Werfel T, et al. No effect of anti-interleukin-5 therapy (mepolizumab) on
+the atopy patch test in atopic dermatitis patients. Int Arch Allergy Immunol. 2006;141(3):290-
+294.
+21. Kang EG, Narayana PK, Pouliguen IJ, et al. Efficacy and safety of mepolizumab administered
+subcutaneously for moderate to severe atopic dermatitis. Allergy. 2020;75(4):950-953.
+22. Pavord ID, Chanez P, Criner GJ, et al. Mepolizumab for eosinophilic chronic obstructive pulmonary
+disease. N Engl J Med. 2017;377(17):1613-1629.
+23. Sciurba FC, Criner GJ, Christenson SA, et al. Mepolizumab to prevent exacerbations of COPD with
+an eosinophilic phenotype. N Engl J Med. 2025;392;1710-1720.
+24. Global Initiative for Chronic Obstructive Lung Disease. Global strategy for the diagnosis,
+management, and prevention of chronic obstructive pulmonary disease: 2025 report. Global
+Initiative for Chronic Obstructive Lung Disease. Available from: http://goldcopd.org/. Accessed on
+May 30, 2025.
+25. Stein ML, Collins MH, Villanueva JM, et al. Anti-IL-5 (mepolizumab) therapy for eosinophilic
+esophagitis. J Allergy Clin Immunol. 2006;118(6):1312-1319.
+26. Straumann A, Conus S, Grzonka P, et al. Anti-interleukin-5 antibody treatment (mepolizumab) in
+active eosinophilic esophagitis: a randomized, placebo-controlled, double-blind trial. Gut.
+2010;59:21-30.
+27. Assa’ad AH, Gupta SK, Collins MH, et al. An antibody against IL-5 reduces numbers of esophageal
+intraepithelial eosinophils in children with eosinophilic esophagitis. Gastroenterology.
+2011;141(5):1593-1604.
+28. Dellon ES, Peterson KA, Mitlyng BL, et al. Mepolizumab for treatment of adolescents and adults
+with eosinophilic oesophagitis: a multicenter, randomized, double-blind, placebo-controlled
+clinical trial. Gut. 2023;72(10):1828-1837.
+29. Dellon ES, Muir AB, Katzka DA, et al. ACG Clinical Guideline: Diagnosis and Management of
+Eosinophilic Esophagitis. Am J Gastrenterol. 2025;120(1):31-59.
+30. Wechsler ME, Nair P, Terrier B, et al. Benralizumab versus mepolizumab for eosinophilic
+granulomatosis with polyangiitis. New Engl J Med. 2024;390(10):911-921.
+Page 12 of 13 - Cigna National Formulary Coverage - Policy: Immunologicals – Nucala Prior Authorization Policy
+History
+Type of Summary of Changes Review
+Revision Date
+Annual Revision Conditions Not Covered: Criteria were updated to clarify that use 03/22/2023
+of Nucala with another monoclonal antibody therapy is specific to
+Cinqair, Fasenra, Dupixent, Tezspire, Xolair, and Adbry.
+Selected Chronic Rhinosinusitis with Nasal Polyps: Approval condition 02/14/2024
+Revision updated from “Nasal Polyps” to “Chronic Rhinosinusitis with Nasal
+Polyps.” Duration of the intranasal corticosteroid requirement was
+changed from 3 months to 4 weeks.
+Annual Revision Asthma: Removed leukotriene receptor antagonists as an example 04/19/2024
+of additional asthma controller or asthma maintenance medications.
+Selected Eosinophilic granulomatosis with polyangiitis: Criteria 07/17/2024
+Revision requiring the patient to have tried a minimum of 4 weeks of
+corticosteroid therapy were clarified to require the patient be
+currently receiving a systemic corticosteroid and have been on
+therapy for a minimum of 4 weeks.
+Selected Asthma: Eosinophil level requirements were clarified to require a 10/02/2024
+Revision level ≥ 150 cells/microliter either within the previous 6 weeks OR
+prior to treatment with a monoclonal antibody that may alter
+eosinophil levels. Previously, criteria required a level ≥ 150
+cells/microliter either within the previous 6 weeks OR within 6 weeks
+prior to treatment with a monoclonal antibody that may lower
+eosinophil levels.
+Eosinophilic Granulomatosis with Polyangiitis: Initial approval
+duration was changed from 6 months to 9 months. Eosinophil level
+requirements were clarified to require a level ≥ 150 cells/microliter
+either within the previous 4 weeks OR prior to treatment with a
+monoclonal antibody that may alter eosinophil levels. Previously,
+criteria required a level ≥ 150 cells/microliter either within the
+previous 6 weeks OR within 6 weeks prior to treatment with a
+monoclonal antibody that may lower eosinophil levels.
+Hypereosinophilic Syndrome: Eosinophil level requirements were
+clarified that the level be taken prior to treatment with any
+monoclonal antibody therapy that may alter blood eosinophil levels.
+Previously, criteria required the level to be taken prior to any
+monoclonal antibody therapy that may lower blood eosinophil levels.
+Throughout the policy, Ebglyss (lebrikizumab-lbkz subcutaneous
+injection) and Nemluvio (nemolizumab-ilto subcutaneous injection)
+were added to notes as examples of monoclonal antibody therapies.
+Annual Revision No criteria changes. 04/09/2025
+Early Annual Chronic Obstructive Pulmonary Disease (COPD): This new 06/04/2025
+Revision condition and criteria for approval were added to the policy. New
+approval criteria for this indication were added that include an age
+requirement, an eosinophil requirement, a trial of inhaled therapies,
+a history of COPD exacerbations, and specialist involvement.
+Conditions Not Covered, Chronic Obstructive Pulmonary
+Disease: Chronic Obstructive Pulmonary Disease was removed
+from the “Conditions Not Covered”.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 13 of 13 - Cigna National Formulary Coverage - Policy: Immunologicals – Nucala Prior Authorization Policy

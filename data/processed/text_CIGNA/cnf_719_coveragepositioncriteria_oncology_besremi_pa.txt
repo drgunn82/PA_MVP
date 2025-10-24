@@ -1,0 +1,114 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Oncology (Injectable) – Besremi Prior Authorization Policy
+• Besremi® (ropeginterferon alfa-2b-njft subcutaneous injection –
+PharmaEssentia)
+REVIEW DATE: 07/16/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Besremi, an interferon alfa-2b, is indicated for treatment of polycythemia vera in
+adults.1
+Guidelines
+The National Comprehensive Cancer Network guidelines for myeloproliferative
+neoplasms (version 2.2025 – July 8, 2025) discuss therapies for polycythemia vera.2
+In low-risk patients, management of cardiovascular risk factors, low-dose aspirin (81
+to 100 mg/day), and phlebotomy to maintain hematocrit < 45% are recommended
+(category 2A for all). Besremi or participation in a clinical trial are listed as “preferred”
+regimens for symptomatic low-risk polycythemia vera (category 2A). In high-risk
+patients, “preferred” regimens for cytoreductive therapy include hydroxyurea or
+Besremi (category 2A for both). Besremi is listed as “other recommended regimen”
+Page 1 of 3 - Cigna National Formulary Coverage - Policy: Oncology (Injectable) – Besremi Prior Authorization
+Policy
+if the patient has an inadequate response or loss of response to first-line therapy, if
+not previously used.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Besremi. All
+approvals are provided for the duration noted below. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Besremi as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Besremi to be prescribed by or in consultation with a physician who specializes in the
+condition being treated.
+• Besremi® (ropeginterferon alfa-2b-njft subcutaneous injection –
+PharmaEssentia)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Polycythemia Vera. Approve for 1 year if the patient meets BOTH of the
+following (A and B):
+A) Patient is ≥ 18 years of age; AND
+B) The medication is prescribed by or in consultation with an oncologist.
+CONDITIONS NOT COVERED
+• Besremi® (ropeginterferon alfa-2b-njft subcutaneous injection –
+PharmaEssentia)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Concomitant Use with Other Interferon Products. Besremi was not studied
+in combination with other interferon products; concomitant use would be expected
+to result in increased toxicity.
+Note: An example of an interferon product is Pegasys® (peginterferon alfa-2a
+subcutaneous injection).
+2. Hepatitis B Virus. Besremi is not indicated for hepatitis B.1 Pegylated interferons
+are recommended in American Association for the Study of Liver Diseases
+(AASLD) guidelines for chronic hepatitis B (updated 2018).3 Phase I/II data
+suggest similar efficacy between Besremi and Pegasys for chronic hepatitis B;
+however, further data are needed.4
+3 Pages - Cigna National Formulary Coverage - Policy: Oncology (Injectable) – Besremi Prior Authorization Policy
+3. Hepatitis C Virus. Besremi is not indicated for hepatitis C.1 Pegasys, another
+pegylated interferon, is indicated for the treatment of chronic hepatitis C.
+However, peginterferons are no longer addressed by the AASLD recommendations
+for testing, managing, and treating HCV (updated October 24, 2022).5
+REFERENCES
+1. Besremi® subcutaneous injection [prescribing information]. Burlington, MA: PharmaEssentia; April
+2024.
+2. The NCCN Myeloproliferative Neoplasms Clinical Practice Guidelines in Oncology (version 2.2025 –
+July 8, 2025). © 2025 National Comprehensive Cancer Network. Available at: http://www.nccn.org.
+Accessed on July 14, 2025.
+3. Terrault NA, Lok ASF, McMahon BJ, et al. Update on prevention, diagnosis, and treatment of chronic
+hepatitis B: AASLD 2018 hepatitis B guidance. Hepatology. 2018 Apr;67(4):1560-1599.
+4. Huang YW, Hsu CW, Lu SN, et al. Ropeginterferon alfa-2b every 2 weeks as a novel pegylated
+interferon for patients with chronic hepatitis B. Hepatol Int. 2020 Dec;14(6):997-1008.
+5. American Association for the Study of Liver Diseases and the Infectious Diseases Society of America.
+Testing, managing, and treating hepatitis C. Updated October 24, 2022. Available at:
+http://www.hcvguidelines.org. Accessed on: July 5, 2025.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 11/15/2023
+Revision
+Annual No criteria changes. 07/10/2024
+Revision
+Annual No criteria changes. 07/16/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+3 Pages - Cigna National Formulary Coverage - Policy: Oncology (Injectable) – Besremi Prior Authorization Policy

@@ -1,0 +1,120 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2290-3
+Program Prior Authorization/Medical Necessity
+Medication Corlanor® (ivabradine)
+P&T Approval Date 10/2022, 8/2023, 9/2024
+Effective Date 12/1/2024
+1. Background:
+Corlanor (ivabradine) is a hyperpolarization-activated cycle nucleotide-gated channel blocker
+indicated to reduce the risk of hospitalization for worsening of heart failure in patients with
+stable, symptomatic chronic heart failure with left ventricular ejection fraction < 35%, who are
+in sinus rhythm with resting heart rate > 70 beats per minute and either are on maximally
+tolerated doses of beta-blockers or have a contraindication to beta-blocker use. It is also
+indicated to treat stable symptomatic heart failure due to dilated cardiomyopathy (DCM) in
+pediatric patients aged 6 months and older, who are in sinus rhythm with an elevated heart rate.
+Also, although not an FDA-approved indication, Corlanor has also shown to have efficacy in
+treating inappropriate sinus tachycardia (IST).
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Corlanor will be approved based on one of the following criteria:
+a. All of the following:
+(1) Worsening heart failure in a diagnosis of stable, symptomatic chronic [e.g. New
+York Heart Association (NYHA) class II, III or IV] heart failure
+-AND-
+(2) Patient has a left ventricular ejection fraction (EF) < 35%
+-AND-
+(3) The patient is in sinus rhythm
+-AND-
+(4) Patient has a resting heart rate > 70 beats per minute
+-AND-
+(5) One of the followingb:
+© 2024 UnitedHealthcare Services, Inc.
+1
+i. Patient is on a stabilized dose and receiving concomitant therapy with a
+maximally tolerated beta-blocker (e.g., carvedilol, metoprolol succinate,
+bisoprolol)
+ii. Patient has a contraindication or intolerance to beta-blocker therapy
+-AND-
+(6) One of the following:
+i. Patient is on a stabilized dose and receiving concomitant therapy with
+Jardiance or Farxiga* (includes combination products containing
+empagliflozin and dapagliflozin*)
+ii. Patient has a contraindication or intolerance to SGLT2 inhibitor therapy
+-AND-
+(7) One of the following:
+i. Patient is on a stabilized dose and receiving concomitant therapy with one
+of the following:
+(1) angiotensin-converting enzyme (ACE) inhibitor (e.g. captopril,
+enalapril)
+(2) angiotensin II receptor blocker (ARB) (e.g. candesartan, valsartan)
+(3) angiotensin receptor-neprilysin inhibitor (ARNI) (e.g. Entresto)
+-OR-
+ii. Patient has a contraindication or intolerance to ACE inhibitors, ARBs, and
+ARNIs
+-AND-
+(8) One of the following:
+i. Patient is on a stabilized dose and receiving concomitant therapy with a
+maximally tolerated aldosterone antagonist (e.g. eplerenone, spironolactone)
+ii. Patient has a contraindication or intolerance to aldosterone antagonist
+therapy
+-AND-
+(9) Prescribed by or in consultation with a cardiologist
+-OR-
+b. All of the following:
+© 2024 UnitedHealthcare Services, Inc.
+2
+(1) Diagnosis of stable symptomatic heart failure due to dilated cardiomyopathy
+(DCM)
+-AND-
+(2) Patient is in sinus rhythm
+-AND-
+(3) Patient has an elevated heart rate
+-AND-
+(4) Prescribed by or in consultation with a cardiologist
+-OR-
+c. All of the following:
+(1) Diagnosis of inappropriate sinus tachycardia (IST)
+-AND-
+(2) Patient is in sinus rhythm
+-AND-
+(3) One of the following:
+i. Patient has tried and failed or had an inadequate response to a beta-blocker
+(e.g., carvedilol, metoprolol succinate, bisoprolol)
+ii. Patient has a contraindication or intolerance to beta-blocker therapy
+-AND-
+(4) Prescribed by or in consultation with a cardiologist
+-OR-
+d. Patient is currently established on Corlanor therapy
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Corlanor will be approved based on the following criterion:
+a. Documentation of positive clinical response to Corlanor therapy
+© 2024 UnitedHealthcare Services, Inc.
+3
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+b Tried/failed alternatives are supported by FDA labeling
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply Limits may be in place.
+• *Typically excluded from coverage
+4. References:
+1. Corlanor [Package Insert] Thousand Oaks, CA: Amgen Inc.; August 2021
+2. Heidenreich, P. A., Bozkurt, B., Aguilar, D., et al. 2022 ACC/AHA/HFSA guideline for the
+management of heart failure. Journal of Cardiac Failure, 2022 28(5), e1-e167.
+3. Sheldon, R.S., Grubb, B.P., et al. 2015 Heart Rhythm Society Expert Consensus Statement
+on the Diagnosis and Treatment of Postural Tachycardia Syndrome, Inappropriate Sinus
+Tachycardia, and Vasovagal Syncope. Heart Rhythm, 2015, 12(6), e41-e63.
+Program Prior Authorization/Medical Necessity – Corlanor® (ivabradine)
+Change Control
+10/2022 New program.
+8/2023 Updated background and added criteria for use in inappropriate sinus
+tachycardia.
+9/2024 Annual review. No changes.
+© 2024 UnitedHealthcare Services, Inc.
+4

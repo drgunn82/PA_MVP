@@ -1,0 +1,103 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1030-12
+Program Prior Authorization/Notification
+Medication Erivedge® (vismodegib)
+P&T Approval Date 4/2012, 8/2012, 7/2013, 11/2014, 11/2015, 9/2016, 9/2017, 9/2018,
+9/2019, 9/2020, 10/2021, 10/2022, 10/2023, 10/2024
+Effective Date 1/1/2025
+1. Background:
+Erivedge® (vismodegib) is a hedgehog pathway inhibitor indicated for the treatment of adults
+with metastatic basal cell carcinoma, or with locally advanced basal cell carcinoma that has
+recurred following surgery or who are not candidates for surgery, and who are not candidates for
+radiation.1
+The National Comprehensive Cancer Network (NCCN) also recommends Erivedge for the
+treatment of medulloblastoma for recurrence as a single agent in patients who have received
+prior chemotherapy and have mutations in the sonic hedgehog pathway.2
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age
+of 19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Erivedge will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Basal Cell Carcinoma
+1. Initial Authorization
+a. Erivedge will be approved based on one of the following criteria:
+(1) Diagnosis of metastatic basal cell carcinoma
+-OR-
+© 2024 UnitedHealthcare Services, Inc.
+1
+(2) Both of the following:
+(a) Diagnosis of locally advanced basal cell carcinoma
+-AND-
+(b) One of the following:
+i. Cancer has recurred following surgery
+ii. Patient is not a candidate for surgery
+iii. Patient is not a candidate for radiation
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Erivedge will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Erivedge
+therapy
+Authorization will be issued for 12 months.
+C. Medulloblastoma
+1. Initial Authorization
+a. Erivedge will be approved based on all of the following criteria:
+(1) Diagnosis of medulloblastoma
+-AND-
+(2) Patient has mutations in the sonic hedgehog pathway
+-AND-
+(3) Patient has failed prior chemotherapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Erivedge will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Erivedge
+therapy
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+2
+D. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Erivedge [package insert]. South San Francisco, CA: Genentech, Inc.; March 2023.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+https://www.nccn.org/compendia-templates/compendia/nccn-compendia. Accessed
+September 6, 2024.
+Program Prior Authorization/Notification - Erivedge (vismodegib)
+Change Control
+11/2014 Annual review with no change to coverage criteria.
+11/2015 Annual review. Increased authorization from 10 months to 12 months.
+Updated background & references.
+9/2016 Annual review. Verbiage change in coverage criteria from Member to
+Patient. Formatting changes to criteria with no change to clinical intent.
+Updated background and references.
+9/2017 Annual review with no change to coverage criteria. Updated references.
+9/2018 Annual review with no change to coverage criteria. Updated references.
+9/2019 Annual review. Added coverage for medulloblastoma. Updated references.
+Added general NCCN recommended review criteria.
+9/2020 Annual review with no changes to coverage criteria.
+10/2021 Annual review with no changes to coverage criteria.
+10/2022 Annual review with no changes to coverage criteria. Added state mandate.
+Updated references.
+10/2023 Annual review with no changes to coverage criteria. Updated references.
+10/2024 Annual review with no changes to coverage criteria. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+3

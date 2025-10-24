@@ -1,0 +1,385 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1062-16
+Program Prior Authorization/Notification
+Medication Mekinist® (trametinib)
+P&T Approval Date 7/2013, 2/2014, 5/2014, 5/2015, 5/2016, 3/2017, 3/2018, 3/2019,
+3/2020, 3/2021, 3/2022, 8/2022, 5/2023, 5/2024, 5/2025
+Effective Date 8/1/2025
+1. Background:
+Mekinist® (trametinib) is a kinase inhibitor indicated as a single agent or in combination with
+Tafinlar® (dabrafenib) for treatment of patients with unresectable or metastatic melanoma with
+BRAF V600E or BRAF V600K mutations as detected by an FDA-approved test. It is also
+indicated in combination with Tafinlar for the treatment of metastatic non-small cell lung cancer
+(NSCLC) with BRAF V600E mutation as detected by an FDA approved test, for the adjuvant
+treatment of melanoma with BRAF V600E or BRAF V600K mutations, as detected by an FDA-
+approved test, involving the lymph nodes following resection, for the treatment of locally
+advanced or metastatic anaplastic thyroid cancer with BRAF V600E mutation with no satisfactory
+locoregional treatment options, and for the treatment of adult and pediatric patients 1 year of age
+and older with unresectable or metastatic solid tumors with BRAF V600E mutation who have
+progressed following prior treatment and have no satisfactory alternative treatment options. The
+latter indication is approved under accelerated approval based on overall response rate and
+duration of response. Continued approval for this indication may be contingent upon verification
+and description of clinical benefit in a confirmatory trial(s). Mekinist, in combination with
+Tafinlar, is also indicated for the treatment of pediatric patients 1 year of age and older with low-
+grade glioma (LGG) with a BRAF V600E mutation who require systemic therapy.
+The National Comprehensive Cancer Network (NCCN) also recommends use of Mekinist in
+combination with Tafinlar for the adjuvant treatment of anaplastic thyroid cancer with BRAF
+V600E mutations following resection; for the treatment of follicular, oncocytic, and papillary
+thyroid carcinomas with a BRAF mutation; for the treatment of central nervous system (CNS)
+cancer in patients with melanoma or infiltrative supratentorial astrocytoma/oligodendroglioma;
+distant metastatic uveal melanoma; epithelial ovarian cancer/fallopian tube cancer/primary
+peritoneal cancer with persistent disease, recurrence in BRAF V600E positive tumors, or
+recurrence of low-grade serous carcinoma; pancreatic and ampullary adenocarcinomas if BRAF
+V600E mutation positive; BRAF V600E mutation positive histiocytic neoplasms and
+hepatobiliary cancers; hairy cell leukemia; salivary gland tumor; and gastrointestinal stromal
+tumor.
+Information on FDA-approved tests for the detection of BRAFV600 mutations in melanoma
+may be found at: http://www.fda.gov/CompanionDiagnostics.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age
+of 19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+© 2025 UnitedHealthcare Services, Inc.
+1
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Mekinist will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Melanoma
+1. Initial Authorization
+a. Mekinist will be approved based on one of the following criteria:
+(1) Both of the following:
+(a) One of the following:
+i. Unresectable melanoma
+ii. Metastatic melanoma
+iii. Both of the following:
+• Prescribed as adjuvant therapy for melanoma involving the lymph
+node(s)
+-AND-
+• Used in combination with Tafinlar (dabrafenib)
+-AND-
+(b) Cancer is positive for BRAF V600 mutation
+-OR-
+(2) Distant metastatic uveal melanoma
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Mekinist will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Mekinist
+therapy
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services, Inc.
+2
+C. Non-Small Cell Lung Cancer (NSCLC)
+1. Initial Authorization
+a. Mekinist will be approved based on all of the following criteria:
+(1) Diagnosis of non-small cell lung cancer (NSCLC)
+-AND-
+(2) Disease is one of the following:
+(a) Metastatic
+(b) Advanced
+(c) Recurrent
+-AND-
+(3) Cancer is positive for BRAF V600E mutation
+-AND-
+(4) Used in combination with Tafinlar (dabrafenib)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Mekinist will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Mekinist
+therapy
+Authorization will be issued for 12 months.
+D. Thyroid Cancer
+1. Initial Authorization
+a. Mekinist will be approved based on one of the following criteria:
+(1) All of the following:
+(a) Diagnosis of anaplastic thyroid cancer (ATC)
+-AND-
+(b) Cancer is positive for BRAF V600E mutation
+© 2025 UnitedHealthcare Services, Inc.
+3
+-AND-
+(c) Used in combination with Tafinlar (dabrafenib)
+-AND-
+(d) One of the following:
+i. Disease is one of the following:
+1. Metastatic
+2. Locally advanced
+3. Unresectable
+-OR-
+ii. Prescribed as adjuvant therapy following resection
+-OR-
+(2) All of the following:
+(a) One of the following diagnoses:
+i. Follicular Carcinoma
+ii. Oncocytic Carcinoma
+iii. Papillary Carcinoma
+-AND-
+(b) One of the following:
+i. Unresectable locoregional recurrent disease
+ii. Persistent disease
+iii. Metastatic disease
+-AND-
+(c) One of the following:
+i. Patient has symptomatic disease
+ii. Patient has progressive disease
+-AND-
+(d) Disease is refractory to radioactive iodine treatment
+-AND-
+(e) Cancer is positive for BRAF V600 mutation
+© 2025 UnitedHealthcare Services, Inc.
+4
+-AND-
+(f) Used in combination with Tafinlar (dabrafenib)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Mekinist will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Mekinist
+therapy
+Authorization will be issued for 12 months.
+E. Central Nervous System (CNS) Cancers
+1. Initial Authorization
+a. Mekinist will be approved based on all of the following criteria:
+(1) One of the following:
+(a) Both of the following:
+i. Patient has metastatic brain lesions
+-AND-
+ii. Mekinist is active against primary tumor (melanoma)
+-OR-
+(b) Patient has a glioma
+-AND-
+(2) Cancer is positive for BRAF V600E mutation
+-AND-
+(3) Used in combination with Tafinlar (dabrafenib)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Mekinist will be approved based on the following criterion:
+© 2025 UnitedHealthcare Services, Inc.
+5
+(1) Patient does not show evidence of progressive disease while on Mekinist
+therapy
+Authorization will be issued for 12 months.
+F. Epithelial Ovarian Cancer/Fallopian Tube Cancer/Primary Peritoneal Cancer
+1. Initial Authorization
+a. Mekinist will be approved based on all of the following criteria:
+(1) Diagnosis of one of the following:
+(a) Epithelial Ovarian Cancer
+(b) Fallopian Tube Cancer
+(c) Primary Peritoneal Cancer
+-AND-
+(2) One of the following:
+(a) Persistent disease
+(b) Recurrence in BRAF V600E positive tumors
+(c) Recurrence of low-grade serous carcinoma
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Mekinist will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Mekinist
+therapy
+Authorization will be issued for 12 months.
+G. Hepatobiliary Cancers
+1. Initial Authorization
+a. Mekinist will be approved based on all of the following criteria:
+(1) Diagnosis of one of the following:
+(a) Gallbladder cancer
+(b) Extrahepatic Cholangiocarcinoma
+(c) Intrahepatic Cholangiocarcinoma
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+6
+(2) Used as subsequent treatment after progression on or after systemic treatment
+-AND-
+(3) Disease is unresectable or metastatic
+-AND-
+(4) Cancer is positive for BRAF V600E mutation
+-AND-
+(5) Used in combination with Tafinlar (dabrafenib)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Mekinist will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Mekinist
+therapy
+Authorization will be issued for 12 months.
+H. Histiocytic Neoplasms
+1. Initial Authorization
+a. Mekinist will be approved based on both of the following:
+(1) Diagnosis of one of the following:
+(a) Langerhans Cell Histiocytosis
+(b) Erdheim-Chester Disease
+(c) Rosai-Dorfman Disease
+-AND-
+(2) Mitogen-activated protein (MAP) kinase pathway mutation, no detectable
+mutation, or testing not available
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Mekinist will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Mekinist
+therapy
+© 2025 UnitedHealthcare Services, Inc.
+7
+Authorization will be issued for 12 months.
+I. Solid Tumors
+1. Initial Authorization
+a. Mekinist will be approved based on all of the following criteria:
+(1) Presence of solid tumor
+-AND-
+(2) Used as subsequent treatment after progression on or after systemic treatment
+-AND-
+(3) Disease is unresectable or metastatic
+-AND-
+(4) Cancer is positive for BRAF V600E mutation
+-AND-
+(5) Used in combination with Tafinlar (dabrafenib)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Mekinist will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Mekinist
+therapy
+Authorization will be issued for 12 months.
+J. Pancreatic Cancer / Ampullary Cancer
+1. Initial Authorization
+a. Mekinist will be approved based on all of the following criteria:
+(1) Diagnosis of one of the following:
+(a) pancreatic adenocarcinoma
+(b) ampullary adenocarcinoma
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+8
+(2) Disease is one of the following:
+(a) Metastatic
+(b) Locally advanced
+(c) Unresectable
+-AND-
+(3) Cancer is positive for BRAF V600E mutation
+-AND-
+(4) Used in combination with Tafinlar (dabrafenib)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Mekinist will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Mekinist
+therapy
+Authorization will be issued for 12 months.
+K. Hairy Cell Leukemia
+1. Initial Authorization
+a. Mekinist will be approved based on both of the following:
+(1) Diagnosis of hairy cell leukemia
+(2) Used in combination with Tafinlar (dabrafenib)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Mekinist will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Mekinist
+therapy
+Authorization will be issued for 12 months.
+L. Salivary Gland Tumor
+1. Initial Authorization
+© 2025 UnitedHealthcare Services, Inc.
+9
+a. Mekinist will be approved based on all of the following criteria:
+(1) Diagnosis of salivary gland tumor
+-AND-
+(2) Disease is one of the following:
+(a) Recurrent and unresectable
+(b) Metastatic
+-AND-
+(3) Cancer is positive for BRAF V600E mutation
+-AND-
+(4) Used in combination with Tafinlar (dabrafenib)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Mekinist will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Mekinist
+therapy
+Authorization will be issued for 12 months.
+M. Gastrointestinal Stromal Tumor (GIST)
+1. Initial Authorization
+a. Mekinist will be approved based on all the following criteria:
+(1) Diagnosis of BRAF V600E-mutated GIST
+-AND-
+(2) Disease is one of the following:
+(a) Gross residual disease (R2 resection)
+(b) Unresectable primary disease
+(c) Tumor rupture
+(d) Progressive
+(e) Recurrent
+(f) Metastatic
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+10
+(3) Used in combination with Tafinlar (dabrafenib)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Mekinist will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Mekinist
+therapy
+Authorization will be issued for 12 months.
+N. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Mekinist [package insert]. East Hanover, NJ: Novartis Pharmaceuticals Corporation; April
+2025.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available
+atwww.nccn.org. Accessed April 8, 2025.
+Program Prior Authorization/Notification - Mekinist (trametinib)
+Change Control
+7/2013 New criteria for Mekinist which was approved 5/29/2013.
+2/2014 Updated approval for combination therapy with Tafinlar.
+5/2014 Auto-update to maintain on cycle review.
+9/2014 Administrative change - Tried/Failed exemption for State of New Jersey
+removed.
+5/2015 Updated coverage criteria and background with NCCN melanoma
+recommendation. Updated references. Increased authorization from 5
+© 2025 UnitedHealthcare Services, Inc.
+11
+months to 12 months.
+5/2016 Annual review. Added coverage for NSCLC that has BRAF V600E
+mutation when used in combination with Tafinlar. Updated references.
+3/2017 Annual review. Changed member to patient, with no change to coverage
+criteria. Updated reference.
+3/2018 Annual review. Updated background information to include new
+indication in NSCLC with BRAF V600E mutation. Updated criteria to
+include NCCN recommendation of adjuvant treatment in combination with
+Tafinlar in stage III disease. Updated references.
+3/2019 Annual review. Updated background information to include new
+indications for the adjuvant treatment of melanoma with BRAF V600
+mutation. Updated background and criteria to include new indication and
+NCCN recommendation for the treatment of ATC with BRAF V600
+mutations. Updated references.
+3/2020 Annual review. Added general NCCN recommendations for use criteria.
+Updated references.
+3/2021 Annual review. Added coverage criteria for NCCN recommendations for
+infiltrative supratentorial astrocytoma/oligodendroglioma, distant
+metastatic uveal melanoma, and epithelial ovarian cancer/fallopian tube
+cancer/primary peritoneal cancer with persistent disease or recurrence of
+low-grade serous carcinoma. References updated.
+3/2022 Annual review. Per NCCN recommendations updated CNS cancer criteria
+and added criteria for hepatobiliary cancer and histiocytic neoplasms.
+Updated background and references.
+8/2022 Updated background and coverage criteria to include new indication for
+solid tumors with BRAF V600E mutation per package insert.
+5/2023 Updated background and coverage criteria with indication for pediatric
+patients with low-grade glioma per prescribing information. Per NCCN
+recommendations: added coverage criteria for pancreatic cancer and
+ampullary cancer; updated coverage criteria for thyroid cancer, ovarian
+cancer/fallopian tube cancer/primary peritoneal cancer, and CNS cancers.
+Updated references.
+5/2024 Added coverage criteria for hairy cell leukemia, salivary gland tumor, and
+GIST per NCCN. Updated background and references.
+5/2025 Annual review. Updated background and references.
+© 2025 UnitedHealthcare Services, Inc.
+12

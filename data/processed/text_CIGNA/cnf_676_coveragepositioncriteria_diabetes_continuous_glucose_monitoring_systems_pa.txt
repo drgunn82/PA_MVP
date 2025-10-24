@@ -1,0 +1,206 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Diabetes – Continuous Glucose Monitoring Systems Prior Authorization
+Policy
+• Dexcom G6 CGM System – Dexcom
+• Dexcom G7 CGM System – Dexcom
+• Eversense E3 CGM System – Ascensia/Senseonics
+• Freestyle Libre CGM System – Abbott
+• Freestyle Libre 2 CGM System – Abbott
+• Freestyle Libre 3 CGM System – Abbott
+• Freestyle Libre 2 Plus CGM System – Abbott
+• Freestyle Libre 3 Plus CGM System – Abbott
+• Guardian Connect CGM System – Medtronic
+• Guardian 4 CGM System – Medtronic
+REVIEW DATE: 01/29/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+The products targeted in this policy are continuous glucose monitoring (CGM)
+systems. Freestyle Libre and Freestyle Libre 2 are considered intermittently scanned
+CGM (isCGM) systems, whereas the other devices are considered real-time CGM
+(rtCGM) systems. Of note, throughout the policy, the term CGM “system” refers to
+all applicable components, including sensor, transmitter/reader, and receiver.
+Most CGM systems are designated as integrated CGM (iCGM), a higher standard set
+by the FDA for integration with other digitally connected devices.1 Dexcom G6,
+Dexcom G7, Eversense E3, FreeStyle Libre 2 Plus, FreeStyle Libre 3 Plus, and
+Page 1 of 5 - Cigna National Formulary Coverage - Policy:Diabetes – Continuous Glucose Monitoring Systems Prior
+Authorization Policy
+Guardian are FDA-approved for use with automated insulin delivery (AID) systems.
+Dexcom G6, Dexcom G7, and FreeStyle Libre 2 are approved for use with connected
+insulin pens.
+Guidelines
+The American Diabetes Association (ADA) Standards of Care (2025) comment on the
+role of rtCGM and isCGM in the management of diabetes.1 CGM is recommended for
+patients with diabetes who are on any type of insulin therapy (level of evidence A for
+rtCGM, level of evidence C for youth, and level of evidence B for adults). In all cases,
+it is noted that the choice of device should be made based on the individual’s
+circumstances, preferences, and needs. In adults with type 2 diabetes treated with
+glucose lowering medications other than insulin, CGM may be considered to achieve
+and maintain glycemic goals (level of evidence B). In pregnant patients, CGM can
+help to achieve glycemic goals for individuals with type 1 diabetes and may be
+beneficial for other types of diabetes in pregnancy.
+When used in addition to blood glucose monitoring in diabetes and pregnancy, CGM
+can help to achieve glycemic goals (level of evidence A) and hemoglobin A goal
+1c
+(level of evidence B) in patients with type 1 diabetes and pregnancy and may be
+beneficial for other types of diabetes in pregnancy (level of evidence E).1 CGM is
+recommended in pregnancies associated with type 1 diabetes (level of evidence A)
+and when used in addition to blood glucose monitoring, achieving traditional pre- and
+post-prandial goals, rtCGM can reduce the risk of large for gestational age infants
+and neonatal hypoglycemia in pregnant patients with type 1 diabetes (level of
+evidence A). There are insufficient data to support the use of CGM in all pregnant
+patients with type 2 diabetes or gestational diabetes. The decision to use CGM in such
+patients should be individualized based on treatment regimen, circumstances,
+preferences, and needs. In pregnant patients with pre-existing type 1 diabetes,
+insulin should be used (level of evidence A); in pregnant patients with pre-existing
+type 2 diabetes, insulin is preferred for glycemic management (level of evidence B).
+CGM is beneficial and recommended for individuals at high risk of hypoglycemia (level
+of evidence A).1 Patients considered to be at high risk of hypoglycemia are a subset
+of patients at risk for hypoglycemia who either have a major hypoglycemia risk factor
+or have multiple other risk factors (determined by the health care professional). One
+of the major risk factors identified in the Standards of Care is a recent (within the
+past 3 to 6 months) level 2 or level 3 hypoglycemia event. Level 2 hypoglycemia is
+defined as a glucose value < 54 mg/dL. Level 3 hypoglycemia is defined as a severe
+event characterized by altered mental and/or physical status requiring assistance for
+treatment of hypoglycemia, irrespective of glucose level.
+The American Association of Clinical Endocrinology (AACE) clinical practice guidelines
+regarding use of advanced technology in the management of persons with diabetes
+mellitus (2021) discuss CGM.2 CGM is strongly recommended for all persons with
+diabetes treated with intensive insulin therapy, defined as three or more injections
+of insulin per day or the use of an insulin pump (Grade A; high strength of evidence).
+It is noted that CGM may be recommended for individuals with type 2 diabetes who
+5 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Continuous Glucose Monitoring Systems Prior
+Authorization Policy
+are treated with less intensive insulin therapy; however, the strength of evidence is
+lower (Grade B; intermediate strength of evidence).
+The AACE consensus statement for type 2 diabetes (2023) notes in patients with type
+2 diabetes on basal insulin, clinical trials have shown that CGM is associated with
+increased time in range, improved hemoglobin A , and decreased hypoglycemia,
+1c
+including severe hypoglycemic events.3
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of the targeted
+continuous glucose monitoring systems in this policy. All approvals are provided for
+the duration noted below. In cases where the approval is authorized in months, 1
+month is equal to 30 days.
+• Dexcom G6 CGM System – Dexcom
+• Dexcom G7 CGM System – Dexcom
+• Eversense E3 CGM System – Ascensia/Senseonics
+• Freestyle Libre CGM System – Abbott
+• Freestyle Libre 2 CGM System – Abbott
+• Freestyle Libre 3 CGM System – Abbott
+• Freestyle Libre 2 Plus CGM System – Abbott
+• Freestyle Libre 3 Plus CGM System – Abbott
+• Guardian Connect CGM System – Medtronic
+• Guardian 4 CGM System – Medtronic
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Diabetes. Approve for 1 year if the patient meets ONE of the following (A or B):
+A) Patient is using an insulin regimen; OR
+Note: This includes patients on a basal insulin regimen, basal and prandial
+insulin regimen, prandial insulin regimen, or continuous subcutaneous insulin
+infusion (insulin pump).
+B) Patient is taking a medication for glycemic control other than insulin AND
+meets ONE the following (i or ii):
+i. Initial Therapy: Approve if the patient meets ONE of the following (a or
+b):
+a) Patient had a level 2 hypoglycemia event in the past 6 months; OR
+Note: A level 2 hypoglycemia event is defined as a blood glucose value
+< 54 mg/dL.
+b) Patient had a level 3 hypoglycemia event in the past 6 months; OR
+Note: A level 3 hypoglycemia event is defined as a severe event
+characterized by altered mental and/or physical status requiring
+assistance for treatment of hypoglycemia, irrespective of glucose level.
+5 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Continuous Glucose Monitoring Systems Prior
+Authorization Policy
+ii. Patient is Currently Receiving a Continuous Glucose Monitoring
+System: Approve if the patient meets ONE of the following (a or b):
+a) Patient had a level 2 hypoglycemia event in the 6 months prior to initial
+continuous glucose monitoring system prescription; OR
+Note: A level 2 hypoglycemia event is defined as a blood glucose value
+< 54 mg/dL.
+b) Patient had a level 3 hypoglycemia event in the 6 months prior to initial
+continuous glucose monitoring system prescription.
+Note: A level 3 hypoglycemia event is defined as a severe event
+characterized by altered mental and/or physical status requiring
+assistance for treatment of hypoglycemia, irrespective of glucose level.
+2. Diabetes in a Pregnant Patient. Approve for 9 months.
+Note: This includes type 1 diabetes, type 2 diabetes, or gestational diabetes.
+CONDITIONS NOT COVERED
+• Dexcom G6 CGM System – Dexcom
+• Dexcom G7 CGM System – Dexcom
+• Eversense E3 CGM System – Ascensia/Senseonics
+• Freestyle Libre CGM System – Abbott
+• Freestyle Libre 2 CGM System – Abbott
+• Freestyle Libre 3 CGM System – Abbott
+• Freestyle Libre 2 Plus CGM System – Abbott
+• Freestyle Libre 3 Plus CGM System – Abbott
+• Guardian Connect CGM System – Medtronic
+• Guardian 4 CGM System – Medtronic
+is(are) considered experimental, investigational or unproven for ANY other
+use(s); criteria will be updated as new published data are available.
+REFERENCES
+1. American Diabetes Association. Standards of care in diabetes – 2025. Diabetes Care. 2025;48(Suppl
+1):S1-S359.
+2. Grunberger G, Sherr J, Allende M, et al. American Association of Clinical Endocrinology clinical
+practice guideline: the use of advanced technology in the management of persons with diabetes
+mellitus. Endocr Pract. 2021;27(6):505-537.
+3. Samson SL, Vellanki P, Blonde L, et al. American Association of Clinical Endocrinology consensus
+statement: comprehensive type 2 diabetes management algorithm – 2023 update. Endocr Pract.
+2023:29:305-340.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Targeted Products: Dexcom G4 Platinum Continuous Glucose 01/17/2024
+Revision Monitoring (CGM) System was removed. Guardian 4 CGM System was
+added.
+5 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Continuous Glucose Monitoring Systems Prior
+Authorization Policy
+Diabetes: The Note was updated to include prandial insulin regimen
+to the list of insulin regimens.
+Selected Automation: The following automation was added to the policy: If 02/07/2024
+Revision the patient has a claim for one insulin (any insulin) within the 130-day
+lookback period, the claim will adjudicate. Previously, there was no
+automation.
+Selected Diabetes: A new criterion was added to address a patient at high risk 09/25/2024
+Revision of hypoglycemia. Initial Therapy. A patient with a recent (within the
+past 6 months) level 2 or level 3 hypoglycemia event may be
+approved. Patient Currently Receiving a Continuous Glucose
+Monitoring System. A patient currently receiving a continuous glucose
+monitoring system may continue to receive a continuous glucose
+monitoring system if they had a level 2 or 3 hypoglycemia event within
+the 6 months prior to the initial prescription.
+Annual Targeted Products: The following products were removed from the 01/29/2025
+Revision policy (obsolete): Dexcom G5 CGM system and Eversense CGM
+system. The following products were added to the policy: Freestyle
+Libre 2 Plus CGM system and Freestyle Libre 3 Plus CGM system.
+Diabetes in a Pregnant Patient: A new criterion was added. This
+includes a patient with type 1 diabetes, type 2 diabetes, or gestational
+diabetes.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2025 The Cigna
+Group.
+5 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Continuous Glucose Monitoring Systems Prior
+Authorization Policy

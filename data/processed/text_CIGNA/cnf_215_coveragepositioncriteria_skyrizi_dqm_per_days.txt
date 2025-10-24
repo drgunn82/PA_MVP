@@ -1,0 +1,130 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Inflammatory Conditions – Skyrizi Subcutaneous Drug Quantity
+Management Policy – Per Days
+• Skyrizi® (risankizumab-rzaa subcutaneous injection – Abbvie)
+REVIEW DATE: 02/03/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Skyrizi subcutaneous (SC), an interleukin (IL)-23 blocker, is indicated for the
+following uses:1
+• Crohn’s disease, for treatment of adults with moderate to severe active
+disease.
+• Plaque psoriasis, for treatment of adults with moderate to severe who are
+candidates for systemic therapy or phototherapy.
+• Psoriatic arthritis, for treatment of adults with active disease.
+• Ulcerative colitis, for treatment of adults with moderate to severe active
+disease.
+Dosing
+Crohn’s Disease
+Page 1 of 3 - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Skyrizi Subcutaneous Drug
+Quantity Management Policy – Per Days
+The recommended induction dose of Skyrizi is 600 mg administered by intravenous
+(IV) infusion at Week 0, Week 4, and Week 8.1 Then, the recommended
+maintenance dose is 180 mg or 360 mg administered by SC injection at Week 12
+and every 8 weeks thereafter. Use the lowest effective dosage needed to maintain
+therapeutic response.
+Plaque Psoriasis and Psoriatic Arthritis
+The recommended dose of Skyrizi is 150 mg at Week 0, Week 4, and then once
+every 12 weeks thereafter.1
+Ulcerative Colitis
+The recommended induction dose of Skyrizi is 1,200 mg administered by
+intravenous (IV) infusion at Week 0, Week 4, and Week 8.1 Then, the
+recommended maintenance dose is 180 mg or 360 mg administered by SC injection
+at Week 12 and every 8 weeks thereafter. Use the lowest effective dosage needed
+to maintain therapeutic response.
+Availability
+Skyrizi SC is available in the following forms:
+• 150 mg/mL prefilled syringes (each carton contains one syringe)
+• 150 mg/mL single-dose prefilled pens (each carton contains one pen)
+• 180 mg/1.2 mL (150 mg/mL) single-dose prefilled cartridge with on-body
+injector
+• 360 mg/2.4 mL (150 mg/mL) single-dose prefilled cartridge with on-body
+injector
+Of note, Skyrizi IV administration is available as a 600 mg/10 mL (60 mg/mL) vial.
+However, the IV vial is not targeted in this policy.
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of Skyrizi SC, and to manage potential premature dose
+escalation. If the Drug Quantity Management rule is not met at the point of service,
+coverage will be determined by the Criteria below. “One-time” overrides are
+provided for 30 days.
+Drug Quantity Limits
+Product Strength and Form Retail and Home Delivery
+Maximum Quantity
+Per Days
+Skyrizi® 150 mg/mL prefilled syringe 150 mg (1 syringe) per 84 days
+(risankizumab-rzaa 150 mg/mL prefilled pen
+subcutaneous 180 mg/1.2 mL (150 mg/mL) prefilled 1.2 mL (1 prefilled cartridge) per
+injection) cartridge 56 days
+360 mg/2.4 mL (150 mg/mL) prefilled 2.4 mL (1 prefilled cartridge) per
+cartridge 56 days
+3 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Skyrizi Subcutaneous Drug
+Quantity Management Policy – Per Days
+Inflammatory Conditions – Skyrizi Subcutaneous Drug Quantity
+Management Policy – Per Days product(s) is(are) covered as medically
+necessary when the following criteria is(are) met. Any other exception is
+considered not medically necessary.
+CRITERIA
+Skyrizi 150 mg prefilled pens and prefilled syringes
+1. If the patient is initiating treatment for plaque psoriasis or psoriatic arthritis or
+requires additional induction dosing for plaque psoriasis or psoriatic arthritis, as
+verified by the absence of claims for Skyrizi in the past 130 days, approve a
+one-time override for 300 mg (2 pens or syringes) at retail or home delivery.
+Note: The approval quantity is the number of mg of Skyrizi the patient has
+received in the past 84 days plus 300 mg at retail and home delivery.
+Skyrizi 180 mg/1.2 mL prefilled cartridge
+No overrides recommended.
+Skyrizi 360 mg/2.4 mL prefilled cartridge
+No overrides recommended.
+REFERENCES
+1. Skyrizi® subcutaneous injection [prescribing information]. North Chicago, IL: AbbVie; June 2024.
+History
+Type of Summary of Changes Review
+Revision Date
+Selected 180 mg/1.2 mL (150 mg/mL) prefilled cartridge: A new 01/11/2023
+Revision quantity limit was added for one 180 mg/1.2 mL prefilled cartridge
+per 56 days. No overrides recommended.
+Annual 75 mg/0.83 mL prefilled syringe: The quantity limits and 01/03/2024
+Revision override criteria for the 75 mg/0.83 mL prefilled syringes were
+removed from the policy (product obsolete).
+Annual Policy statement was updated to clarify that “One-time” overrides 02/03/2025
+Revision are provided for 30 days.
+Skyrizi 150 mg prefilled pens and prefilled syringes: Override
+criteria were updated to reflect the override amount in “mg” instead
+of “number of pens/syringes”. Criteria Note was added to clarify that
+the approval quantity is the number of mg of Skyrizi the patient has
+received in the past 84 days plus 300 mg at retail and home
+delivery.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025
+The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Skyrizi Subcutaneous Drug
+Quantity Management Policy – Per Days

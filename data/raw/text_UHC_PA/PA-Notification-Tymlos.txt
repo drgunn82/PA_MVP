@@ -1,0 +1,101 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1222-10
+Program Prior Authorization/Notification
+Medication Tymlos® (abaloparatide)
+P&T Approval Date 7/2017, 11/2017, 11/2018, 11/2019, 11/2020, 11/2021, 11/2022,
+2/2023, 10/2023, 10/2024
+Effective Date 1/1/2025
+1. Background:
+Tymlos (abaloparatide) is a human parathyroid hormone analog indicated for the treatment of
+postmenopausal women with osteoporosis at high risk for fracture or patients who have failed or
+are intolerant to other available osteoporosis therapy. Tymlos is also indicated to increase bone
+density in men with osteoporosis at high risk for fracture or patients who have failed or are
+intolerant to other available osteoporosis therapy.1
+The American Association of Clinical Endocrinologists/American College of Endocrinology
+(AACE/ACE) recommend the use of abaloparatide in patients unable to use oral therapy and as
+initial therapy for patients at very high fracture risk defined as the following: patients with a
+recent fracture (e.g., within the past 12 months), fractures while on approved osteoporosis
+therapy, multiple fractures, fractures while on drugs causing skeletal harm (e.g., long-term
+glucocorticoids), very low T-score (e.g., less than −3.0), high risk for falls or history of
+injurious falls, and very high fracture probability by FRAX® (fracture risk assessment tool)
+(e.g., major osteoporosis fracture >30%, hip fracture >4.5%) or other validated fracture risk
+algorithm to be at very high fracture risk.2 Additionally, the AACE/ACE and Endocrine Society
+both recommend to limit treatment with abaloparatide to 2 years.2-3
+The safety and efficacy of Tymlos have not been evaluated beyond 2 years of treatment.
+Cumulative use of Tymlos and other parathyroid hormone analogs (e.g., Forteo, Teriparatide
+Injection) for more than 2 years during a patient’s lifetime is not recommended.1-3
+Coverage will be provided for members who meet the following criteria.
+2. Coverage Criteriaa:
+A. Osteoporosis
+1. Tymlos will be approved based on all of the following criteria:
+a. One of the following:
+(1) Both of the following:
+(a) Patient is female
+-AND-
+(b) Diagnosis of postmenopausal osteoporosis
+© 2024 UnitedHealthcare Services, Inc.
+1
+-OR-
+(2) Both of the following:
+(a) Patient is male
+-AND-
+(b) Diagnosis of osteoporosis
+-AND-
+b. One of the following:
+(1) Patient is at high risk of fracture [e.g., recent fracture (e.g., within the past 12
+months), fractures while on approved osteoporosis therapy, multiple fractures,
+fractures while on drugs causing skeletal harm (e.g., long-term glucocorticoids),
+very low T-score (e.g., less than −3.0), high risk for falls or history of injurious
+falls, and very high fracture probability by FRAX® (fracture risk assessment
+tool) (e.g., major osteoporosis fracture >30%, hip fracture >4.5%)]
+-OR-
+(2) Patient has a history of failure, intolerance or contraindication to other available
+osteoporosis therapy (e.g., alendronate, denosumab, risedronate, zoledronate)
+-AND-
+c. Treatment duration has not exceeded a total of 24 months of cumulative use of
+parathyroid hormone analogs (e.g., Teriparatide Injection, Forteo, Tymlos) during
+the patient’s lifetime
+Authorization will be issued for up to 24 months. (Duration of coverage will be
+limited to 24 months of cumulative parathyroid hormone analog therapy (e.g.,
+Teriparatide Injection, Forteo, Tymlos) in the member’s lifetime.)
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+© 2024 UnitedHealthcare Services, Inc.
+2
+4. References:
+1. Tymlos [package insert]. Boston, MA: Radius Health, Inc.; December 2023.
+2. American Association of Clinical Endocrinologists/American College of Endocrinology Clinical
+Practice Guidelines for the Diagnosis and Treatment of Postmenopausal Osteoporosis - 2020
+Update. Endocr Pract. 2020;26(Suppl 1):1-46. doi:10.4158/GL-2020-0524SUPPL
+3. Shoback D, Rosen CJ, Black DM, Cheung AM, Murad MH, Eastell R. Pharmacological
+Management of Osteoporosis in Postmenopausal Women: An Endocrine Society Guideline
+Update. J Clin Endocrinol Metab. 2020 Mar 1;105(3):dgaa048.
+Program Prior Authorization/Notification – Tymlos (abaloparatide)
+Change Control
+7/2017 New program.
+11/2017 Added requirement for BMD T-score submission and previous
+medication trial documentation. Added physician attestation criterion.
+11/2018 Annual review with no changes to clinical criteria. Updated references.
+11/2019 Annual review with no changes to clinical criteria. Updated references.
+11/2020 Annual review. Updated diagnosis criteria according to label. Minor
+revision to coverage criteria to align with other parathyroid programs.
+Updated background and references.
+11/2021 Annual review with no changes to clinical criteria. Updated references.
+11/2022 Annual review. Added state mandate. Updated references.
+2/2023 Added new indication for use in men with osteoporosis to background
+and coverage criteria. Updated criteria confirming osteoporosis
+diagnosis and high fracture risk to align with current treatment
+guidelines. Updated references.
+10/2023 Annual review. Updated background and coverage criteria to align with
+the label and treatment guidelines. Removed “routine audit” language
+from criteria. Updated references.
+10/2024 Annual review with no change to coverage criteria. Updated
+background and references.
+© 2024 UnitedHealthcare Services, Inc.
+3

@@ -1,0 +1,144 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1109-13
+Program Prior Authorization/Notification - tobramycin inhalation
+solution/powder
+Medication* Bethkis®, Kitabis® Pak¥, TOBI™ Nebulizer Solution and TOBI®
+Podhaler™, tobramycin solution for inhalation
+* This list is subject to change
+¥ Kitabis Pak is excluded from coverage for the majority of our benefits.
+P&T Approval Date 5/2013, 2/2014, 2/2015, 2/2016, 2/2017, 2/2018, 2/2019, 2/2020,
+2/2021, 2/2022, 2/2023, 9/2023, 9/2024
+Effective Date 12/1/2024
+1. Background:
+Bethkis (tobramycin) is an inhaled aminoglycoside antibacterial indicated for the management of
+cystic fibrosis (CF) patients with Pseudomonas aeruginosa (P. aeruginosa). Safety and efficacy
+have not been demonstrated in patients under the age of six years, patients with a forced
+expiratory volume in less than one second (FEV ) <40% or >80% predicted, or patients colonized
+1
+with Burkholderia cepacia (B. cepacia). Bethkis is administered by inhalation using a hand-held
+PARI LC Plus® Reusable Nebulizer with a PARI Vios Air compressor. After 28 days of therapy,
+patients should stop Bethkis therapy for the next 28 days, and then resume therapy for the next 28
+day on and 28 day off cycle.3
+TOBI (tobramycin) and tobramycin inhalation solution are aminoglycoside antibacterials
+indicated for the management of CF patients with P. aeruginosa. Safety and efficacy have not
+been demonstrated in patients under the age of 6 years, patients with FEV <25% or >75%
+1
+predicted, or patients colonized with B. cepacia. TOBI is specifically formulated for inhalation
+using the DeVilbiss® Pulmo-Aide® air compressor and PARI LC Plus® Reusable Nebulizer. After
+28 days of therapy, patients should stop TOBI therapy for the next 28 days, and then resume
+therapy for the next 28 day on and 28 day off cycle.1, 5
+TOBI Podhaler (tobramycin) is an antibacterial aminoglycoside indicated for the management of
+CF patients with P. aeruginosa. Safety and efficacy have not been demonstrated in patients under
+the age of 6 years, patients with FEV <25% or >80%, or patients colonized with B. cepacia. The
+1
+contents of TOBI Podhaler capsules are only for oral inhalation and should only be used with the
+Podhaler device. After 28 days of therapy, patients should stop TOBI therapy for the next 28
+days, and then resume therapy for the next 28 day on and 28 day off cycle.2
+Kitabis Pak (co-packaging of tobramycin inhalation solution and PARI LC Plus® Reusable
+Nebulizer) is an aminoglycoside antibacterial drug indicated for the management of CF in
+adults and pediatric patients 6 years of age and older with P. aeruginosa. Safety and efficacy
+have not been demonstrated in patients under the age of 6 years, patients with FEV <25% or
+1
+>75% predicted, or patients colonized with B. cepacia. After 28 days of therapy, patients
+should stop Kitabis therapy for the next 28 days, and then resume therapy for the next 28 day
+on and 28 day off cycle.4
+Members will be required to meet the coverage criteria below.
+© 2024 UnitedHealthcare Services, Inc.
+1
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Bethkis, Kitabis Pak, TOBI Solution for Inhalation, TOBI Podhaler, or tobramycin
+solution for inhalation will be approved based on both of the following criteria:
+a. One of the following:
+(1) Diagnosis of cystic fibrosis (CF)
+-OR-
+(2) Both of the following:
+(a) Diagnosis of noncystic fibrosis bronchiectasis
+-AND-
+(b) One of the following:
+i. Three or more exacerbations per year
+-OR-
+ii. Two or more exacerbations requiring hospitalization per year
+-AND-
+b. Lung infection with positive culture demonstrating Pseudomonas aeruginosa
+infection
+Authorization will be issued for 12 months
+B. Reauthorization
+1. Bethkis, Kitabis Pak, TOBI Solution for Inhalation, TOBI Podhaler, or
+tobramycin solution for inhalation will be approved based on the following criterion:
+a. Documentation of positive clinical response to Bethkis, Kitabis Pak, TOBI
+Nebulizer Solution, TOBI Podhaler, or tobramycin solution for inhalation therapy
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+© 2024 UnitedHealthcare Services, Inc.
+2
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+• Not all tobramycin products are covered. Refer to the most current UHC prescription drug list to
+identify covered products.
+• Exclusion: Kitabis Pak is excluded from coverage for the majority of our benefits.
+4. References:
+1. TOBI Inhalation Solution [package insert]. East Hanover, NJ: Mylan Pharmaceuticals; February
+2023.
+2. TOBI Podhaler [package insert]. San Carlos, CA: Mylan Pharmaceuticals Inc.; February 2023.
+3. Bethkis [package insert]. Woodstock, Illinois: Chesi USA, Inc.; February 2023.
+4. Kitabis Pak [package insert]. Woodstock, Illinois: Catalent Pharma Solutions, LLC; April 2023.
+5. Tobramycin Inhalation Solution [package insert]. Sellersville, PA.: Teva Pharmaceuticals USA;
+October 2023.
+6. Bilton D, Henig N, Morrissey B, Gotfried M. Addition of inhaled tobramycin to ciprofloxacin for
+acute exacerbations of Pseudomonas aeruginosa infection in adult bronchiectasis. Chest.
+2006;130(5):1503-1510. doi:10.1378/chest.130.5.1503
+7. Polverino E, Goeminne PC, McDonnell MJ, et al. European Respiratory Society guidelines for
+the management of adult bronchiectasis. Eur Respir J. 2017;50(3):1700629. Published 2017 Sep
+9. doi:10.1183/13993003.00629-2017
+8. Spencer S, Felix LM, Milan SJ, et al. Oral versus inhaled antibiotics for bronchiectasis. Cochrane
+Database Syst Rev. 2018;3(3):CD012579. Published 2018 Mar 27.
+doi:10.1002/14651858.CD012579.pub2
+9. Chang AB, Bell SC, Torzillo PJ, et al. Chronic suppurative lung disease and bronchiectasis in
+children and adults in Australia and New Zealand Thoracic Society of Australia and New Zealand
+guidelines [published correction appears in Med J Aust. 2015 Feb 16;202(3):130]. Med J Aust.
+2015;202(1):21-23. doi:10.5694/mja14.00287
+10. Chang AB, Bell SC, Byrnes CA, et al. Thoracic Society of Australia and New Zealand (TSANZ)
+position statement on chronic suppurative lung disease and bronchiectasis in children, adolescents
+and adults in Australia and New Zealand. Respirology. 2023;28(4):339-349.
+doi:10.1111/resp.14479
+Laska IF, Crichton ML, Shoemark A, Chalmers JD. The efficacy and safety of inhaled antibiotics
+for the treatment of bronchiectasis in adults: a systematic review and meta-analysis. Lancet
+Respir Med. 2019;7(10):855-869. doi:10.1016/S2213-2600(19)30185-7
+Program Prior Authorization/Notification – Bethkis (tobramycin inhalation
+solution), TOBI Nebulizer Solution (tobramycin inhalation solution)
+and TOBI Podhaler (tobramycin inhalation powder)
+Change Control
+2/2014 Updated Background information and added criteria for Bethkis.
+Removed reauthorization criteria and increased authorization to 60
+months.
+2/2015 Annual review. Added coverage for Kitabis Pak and tobramycin
+inhalation solution. Updated background, clinical rules and references.
+© 2024 UnitedHealthcare Services, Inc.
+3
+2/2016 Annual review with no changes to clinical content. Changed
+authorization period to 12 months and added re-authorization period for
+12 months. Updated references.
+2/2017 Annual review. No changes to coverage criteria.
+2/2018 Annual review. No changes to coverage criteria. Updated reference.
+2/2019 Annual review. No changes to coverage criteria. Updated background
+and references.
+2/2020 Annual review. Updated background and references. No changes to
+coverage criteria.
+2/2021 Annual review. Updated references. No changes to coverage criteria.
+Notation of exclusion for Kitabis Pak from the majority of our benefits.
+2/2022 Annual review without changes to coverage criteria. Updated
+background and references.
+2/2023 Annual review without changes to coverage criteria. Added state
+mandate footnote and updated references.
+9/2023 Added coverage criteria for noncystic fibrosis bronchiectasis with
+recurrent exacerbations. Updated references.
+9/2024 Annual review. No changes to coverage criteria. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+4

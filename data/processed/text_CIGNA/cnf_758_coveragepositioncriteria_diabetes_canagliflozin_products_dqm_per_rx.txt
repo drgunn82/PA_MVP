@@ -1,0 +1,176 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER RX
+POLICY: Diabetes – Canagliflozin Products Drug Quantity Management Policy –
+Per Rx
+• Invokana® (canagliflozin tablets – Janssen)
+• Invokamet® (canagliflozin and metformin HCl tablets – Janssen)
+• Invokamet® XR (canagliflozin and metformin HCl extended-release
+tablets – Janssen)
+REVIEW DATE: 06/03/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Invokana, Invokamet, and Invokamet XR are products that all contain canagliflozin,
+a sodium-glucose co-transporter-2 (SGLT-2) inhibitor.1 Invokamet and Invokamet
+XR are combination products that contain canagliflozin in combination with
+metformin.2 These agents are indicated as an adjunct to diet and exercise to
+improve glycemic control in adults and pediatric patients ≥ 10 years of age with
+Type 2 diabetes mellitus.1,2
+The canagliflozin component, specifically, is indicated in patients with Type 2
+diabetes mellitus:
+Page 1 of 6 - Cigna National Formulary Coverage - Policy:Diabetes – Canagliflozin Products Drug Quantity
+Management Policy – Per Rx
+• To reduce the risk of major adverse cardiovascular events in adults
+with established cardiovascular disease.
+• To reduce the risk of end-stage kidney disease, doubling of serum
+creatinine, cardiovascular death, and hospitalization for heart failure
+in adults with diabetic nephropathy with albuminuria > 300 mg/day.
+Limitation of Use: Invokana is not recommended for use in patients with Type 1
+diabetes mellitus. It may increase the risk of diabetic ketoacidosis in these
+patients. Invokana is not recommended for use to improve glycemic control in
+adults with Type 2 diabetes mellitus with an estimated glomerular filtration rate
+(eGFR) less than 30 mL/min/1.73m2. Invokana is likely to be ineffective in this
+setting based upon its mechanism of action.
+Dosing
+Invokana
+The recommended dose of Invokana for glycemic control is 100 mg once daily
+(QD).1 The dose may be increased to 300 mg QD if needed for additional glycemic
+control. Dose reductions may be needed for patients with renal dysfunction.
+Invokamet/Invokamet XR
+Invokamet is dosed as one tablet twice daily (BID) and Invokamet XR is dosed as
+two tablets QD, with the initial and maintenance dosing based on the patient’s renal
+function and current medication regimen.2 Following initial dosing, if patients
+require additional glycemic control, the dose can be titrated up, to a maximum daily
+dose of canagliflozin 300 mg and metformin HCl 2,000 mg, in patients with an eGFR
+of at least 60 mL/min/1.73m2. For patients with renal impairment, the maximum
+recommended dose is lower. Initiation of Invokamet or Invokamet XR is not
+recommended in patients with an eGFR < 45 mL/min/1.73 m2, due to the
+metformin component.
+Drug Interactions
+If the patient is taking a canagliflozin product with a UDP-glucuronosyltransferase
+(UGT) inducer (e.g., rifampin, phenytoin, phenobarbital, ritonavir), the total daily
+dose should be increased from 100 mg to 200 mg.1,2 If the patient has an eGFR ≥
+60 mL/min/1.73 m2, the daily dose may be further increased to 300 mg, if needed
+for additional glycemic control.
+Availability
+Invokana is available as 100 mg tablets and 300 mg tablets in bottles of 30 or 90
+tablets.1
+Invokamet and Invokamet XR are each available as tablets containing 50 mg/500
+mg, 50 mg/1,000 mg, 150 mg/500 mg, and 150 mg/1,000 mg of
+canagliflozin/metformin, respectively, supplied in bottles of 60 tablets.2 Invokamet
+XR differs from Invokamet in that it provides canagliflozin for immediate-release
+and metformin HCl for extended-release.
+6 Pages - Cigna National Formulary Coverage - Policy: Diabetes – Canagliflozin Products Drug Quantity
+Management Policy – Per Rx
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of the canagliflozin products. If the Drug Quantity
+Management rule is not met for the requested medication at the point of service,
+coverage will be determined by the Criteria below. All approvals are provided for 1
+year in duration.
+Drug Quantity Limits
+Product Strength Retail Home Delivery
+Maximum Quantity Maximum Quantity
+per Rx per Rx
+Invokana® 100 mg tablets 30 tablets 90 tablets
+(canagliflozin tablets) 300 mg tablets 30 tablets 90 tablets
+Invokamet® 50 mg/500 mg 60 tablets 180 tablets
+(canagliflozin and metformin tablets
+HCl tablets) 50 mg/1,000 mg 60 tablets 180 tablets
+tablets
+150 mg/500 mg 60 tablets 180 tablets
+tablets
+150 mg/1,000 mg 60 tablets 180 tablets
+tablets
+Invokamet® XR 50 mg/500 mg 60 tablets 180 tablets
+(canagliflozin and metformin tablets
+HCl extended-release tablets) 50 mg/1,000 mg 60 tablets 180 tablets
+tablets
+150 mg/500 mg 60 tablets 180 tablets
+tablets
+150 mg/1,000 mg 60 tablets 180 tablets
+tablets
+EXCEPTIONS TO THE QUANTITY LIMITS LISTED ABOVE ARE COVERED AS MEDICALLY
+NECESSARY WHEN THE FOLLOWING CRITERIA ARE MET. ANY OTHER EXCEPTION IS
+CONSIDERED NOT MEDICALLY NECESSARY.
+CRITERIA
+Invokana 100 mg tablets
+1. If the patient is taking Invokana with a UDP-glucuronosyltransferase (UGT)
+inducer approve 60 tablets per dispensing at retail or 180 tablets per dispensing
+at home delivery.
+Note: Examples of UGT inducers include rifampin, phenytoin, phenobarbital,
+and ritonavir.
+Invokana 300 mg tablets
+No overrides recommended.
+6 Pages - Cigna National Formulary Coverage - Policy: Diabetes – Canagliflozin Products Drug Quantity
+Management Policy – Per Rx
+Invokamet 50 mg/500 mg tablets
+1. If the patient is taking Invokamet with a UDP-glucuronosyltransferase (UGT)
+inducer, approve 120 tablets per dispensing at retail or 360 tablets per
+dispensing at home delivery.
+Note: Examples of UGT inducers include rifampin, phenytoin, phenobarbital,
+and ritonavir.
+Invokamet 50 mg/1,000 mg tablets
+No overrides recommended.
+Invokamet 150 mg/500 mg tablets
+No overrides recommended.
+Invokamet 150 mg/1,000 mg tablets
+No overrides recommended.
+Invokamet XR 50 mg/500 mg tablets
+1. If the patient is taking Invokamet XR with a UDP-glucuronosyltransferase (UGT)
+inducer, approve 120 tablets per dispensing at retail or 360 tablets per
+dispensing at home delivery.
+Note: Examples of UGT inducers include rifampin, phenytoin, phenobarbital,
+and ritonavir.
+Invokamet XR 50 mg/1,000 mg tablets
+No overrides recommended.
+Invokamet XR 150 mg/500 mg tablets
+No overrides recommended.
+Invokamet XR 150 mg/1,000 mg tablets
+No overrides recommended.
+REFERENCES
+1. Invokana® tablets [prescribing information]. Titusville, NJ: Janssen; December 2024.
+2. Invokamet® tablets/Invokamet® XR extended-release tablets [prescribing information]. Titusville,
+NJ: Janssen; December 2024.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Policy was updated to reflect the existing quantity limits when a 06/01/2023
+Revision product is obtained via home delivery.
+No criteria changes.
+Annual No criteria changes. 06/03/2024
+Revision
+Annual No criteria changes. 06/03/2025
+Revision
+6 Pages - Cigna National Formulary Coverage - Policy: Diabetes – Canagliflozin Products Drug Quantity
+Management Policy – Per Rx
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+6 Pages - Cigna National Formulary Coverage - Policy: Diabetes – Canagliflozin Products Drug Quantity
+Management Policy – Per Rx

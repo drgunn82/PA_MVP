@@ -1,0 +1,107 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Diabetes – Symlin Prior Authorization Policy
+• Symlin® (pramlintide subcutaneous injection – AstraZeneca)
+[obsolete 07/11/2025]
+REVIEW DATE: 08/06/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Symlin, an antihyperglycemic agent, is indicated as an adjunctive treatment in
+patients with type 1 or type 2 diabetes who use mealtime insulin therapy and who
+have failed to achieve desired glucose control despite optimal insulin therapy.1
+Guidelines/Consensus Statements
+The American Diabetes Association Standards of Care (2025) do not provide a specific
+recommendation for use of Symlin in type 1 or type 2 diabetes and the American
+Association of Clinical Endocrinology (AACE) consensus statement of the
+comprehensive management of type 2 diabetes does not provide a recommendation
+for use of Symlin.2,4 The AACE and American College of Endocrinology guidelines for
+developing a comprehensive care plan (2022) recommend adding a glucagon-like
+peptide-1 agonist, a sodium glucose co-transporter-2 inhibitor, or Symlin (less
+Page 1 of 3: Cigna National Formulary Coverage - Policy: Diabetes - Symlin Prior
+Authorization Policy
+commonly used) to reduce postprandial hyperglycemia, hemoglobin A , and weight
+1c
+in individuals with type 2 diabetes who are treated with basal-bolus insulin therapy.3
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Symlin. All
+approvals are provided for the duration noted below.
+• Symlin® (pramlintide subcutaneous injection – AstraZeneca)
+[obsolete 07/11/2025]
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Diabetes Mellitus, Type 1 or Type 2. Approve for 1 year if the medication is
+prescribed in adjunct to insulin therapy.
+CONDITIONS NOT COVERED
+• Symlin® (pramlintide subcutaneous injection – AstraZeneca)
+[obsolete 07/11/2025]
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Weight Loss Treatment. American Association of Clinical
+Endocrinologists/American College of Endocrinology obesity clinical practice
+guidelines (2016) comment that Symlin may lead to modest weight loss in diabetic
+patients but do not comment on a role for Symlin in management of obesity in
+non-diabetic patients.5 Guidelines from the American Gastroenterological
+Association (2022) do not address Symlin for weight loss.6 Other
+pharmacotherapies are available and indicated for weight loss.
+REFERENCES
+1. Symlin® subcutaneous injection [prescribing information]. Wilmington, DE: AstraZeneca;
+December 2019.
+2. American Diabetes Association. Standards of care in diabetes – 2025. Diabetes Care.
+2025;48(Suppl 1):S1-S352.
+3. Samson SL, Vellanki P, Blonde L, et al. American Association of Clinical Endocrinology Consensus
+Statement - comprehensive type 2 diabetes management algorithm – 2023 update. Endocr Pract.
+2023;29:205-340.
+4. Blonde L, Umpierrez GE, Reddy SS et al. American Association of Clinical Endocrinology clinical
+practice guideline: developing a diabetes mellitus comprehensive care plan – 2022 update.
+2022;28(10):923-1049.
+Page 2 of 3: Cigna National Formulary Coverage - Policy: Diabetes - Symlin Prior
+Authorization Policy
+5. Garvey WT, Mechanick JI, Brett EM, et al. American Association of Clinical Endocrinologist and
+American College of Endocrinology comprehensive clinical practice guidelines for medical care of
+patients with obesity. Endocr Pract. 2016;22 Suppl 3:1-203.
+6. Grunvald E, Shah R, Hernaez R, et al; AGA Clinical Guidelines Committee. AGA Clinical Practice
+Guideline on Pharmacological Interventions for Adults with Obesity. Gastroenterology.
+2022;163(5):1198-1225.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Annual No criteria changes. 08/09/2023
+Revision
+Annual No criteria changes. 08/07/2024
+Revision
+Annual No criteria changes. 08/06/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+Page 3 of 3: Cigna National Formulary Coverage - Policy: Diabetes - Symlin Prior
+Authorization Policy

@@ -1,0 +1,274 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Hepatitis C – Mavyret Drug Quantity Management Policy – Per Days
+• Mavyret® (glecaprevir/pibrentasvir tablets and oral pellets −
+AbbVie)
+REVIEW DATE: 12/17/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Mavyret, a direct-acting antiviral, contains glecaprevir, a pangenotypic NS3/4A
+protease inhibitor and pibrentasvir, a pangenotypic NS5A inhibitor.1 It is indicated
+for the treatment of chronic hepatitis C virus (HCV) in the following scenarios:
+• Patients ≥ 3 years of age with genotype 1, 2, 3, 4, 5, or 6 infection without
+cirrhosis or with compensated cirrhosis (Child-Pugh A).
+• Patients ≥ 3 years of age with genotype 1 infection who previously have
+been treated with a regimen containing an HCV NS5A inhibitor or an NS3/4A
+protease inhibitor, but not both.
+Dosing
+Duration of Therapy
+The duration of therapy is 8, 12, or 16 weeks depending on prior treatment
+experience, genotype, and the presence or absence of cirrhosis (see Tables 1 and
+2).1 In addition, Mavyret is recommended for 12 weeks in patients ≥ 3 years of
+age who are liver or kidney transplant recipients. Similar to non-transplant
+recipients, a 16-week treatment duration is recommended in genotype 1-infected
+patients who are NS5A inhibitor-experienced without prior treatment with an
+Page 1 of 7 - Cigna National Formulary Coverage - Policy:Hepatitis C – Mavyret Drug Quantity Management
+Policy – Per Days
+NS3/4A protease inhibitor or in genotype 3-infected patients who are treatment-
+experienced with regimens containing interferon, pegylated interferon, ribavirin,
+and/or Sovaldi® (sofosbuvir tablets/oral pellets).
+Table 1. Recommended Duration for Treatment-Naïve Patients.1
+HCV Genotype Treatment Duration
+No Cirrhosis Compensated Cirrhosis
+(Child-Pugh A)
+1, 2, 3, 4, 5, or 6 8 weeks 8 weeks
+HCV – Hepatitis C virus.
+Table 2. Recommended Duration for Treatment-Experienced Patients.1
+HCV Prior Treatment Duration
+Genotype Experience Without Cirrhosis With Compensated
+Cirrhosis (Child-Pugh
+A)
+1, 2, 4, 5, 6 PRS 8 weeks 12 weeks
+3 PRS 16 weeks 16 weeks
+1 NS3/4 PI1 (NS5A-naïve) 12 weeks 12 weeks
+NS5A inhibitor2 (NS3/4 PI- 16 weeks 16 weeks
+naïve)†
+HCV – Hepatitis C virus; PRS – Prior treatment experience with regimens containing interferon,
+pegylated interferon, ribavirin, and/or Sovaldi® (sofosbuvir tablets), but no prior treatment experience
+with an HCV NS3/4A protease inhibitor (PI) or NS5A inhibitor; PI – Protease inhibitor; 1 Regimens
+containing Olysio® (simeprevir capsules) and Sovaldi, or Olysio, Victrelis® (boceprevir capsules), or
+Incivek® (telaprevir tablets) with interferon or pegylated interferon and ribavirin were studied; 2
+Regimens containing ledipasvir/sofosbuvir or Daklinza® (daclatasvir tablets) + pegylated interferon +
+ribavirin [unapproved regimen] were studied.
+Dosing
+The recommended dose of Mavyret for adults and pediatric patients ≥ 12 years of
+age or in pediatric patients who weigh ≥ 45 kg, is three tablets (total daily dose:
+glecaprevir 300 mg and pibrentasvir 120 mg) taken once daily (QD) with food.1 The
+recommended dosing for patients 3 to < 12 years of age is weight-based given QD
+and is outlined in Table 1. The Mavyret oral pellets are recommended for use in
+patients 3 to < 12 years of age or < 45 kg. Mavyret tablets are intended for use in
+patients ≥ 12 years of age or pediatric patients ≥ 45 kg. In pediatric patients who
+are ≥ 45 kg and unable to swallow tablets, six of the 50 mg/200 mg packets of oral
+pellets may be used.
+Table 3. Recommended Mavyret Dosing in Patients ≥ 3 Years of Age.1
+Body Weight/Age Daily Dose of Mavyret Dosing
+glecaprevir/pibrentasvir
+< 20 kg 150 mg/60 mg per day Three 50 mg/20 mg packets of oral
+pellets QD
+20 kg to < 30 kg 200 mg/80 mg per day Four 50 mg/20 mg packets of oral
+pellets QD
+30 kg to < 45 kg 250 mg/100 mg per day Five 50 mg/20 mg packets of oral
+pellets QD
+≥ 45 kg OR ≥ 12 years of 300 mg/120 mg per day Three 100 mg/40 mg tablets QD†
+age (refer to Recommended Dosage in
+Adults)
+7 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Mavyret Drug Quantity Management Policy –
+Per Days
+QD – Once daily; † Pediatric patients weighing ≥ 45 kg who are unable to swallow tablets may take six
+50 mg/20 mg packets of oral pellets once daily. Dosing with oral pellets has not been studied for
+pediatric patients weighing > 45 kg.
+Availability
+Mavyret is available as a fixed-dose combination tablet containing glecaprevir 100
+mg and pibrentasvir 40 mg and an oral pellet packet containing glecaprevir 50 mg
+and pibrentasvir 20 mg.1
+Mavyret tablets are supplied in 4-week (monthly) cartons, 8-week cartons, bottles,
+or institutional use-only bottles.1 In the carton, the tablets are packaged in daily
+dose wallets that each contain three 100 mg/40 mg tablets. Each weekly carton
+contains seven daily dose wallets. Each monthly carton contains four weekly
+cartons and each 8-week carton contains two monthly cartons. Bottles contain 84 x
+100 mg/40 mg tablets.
+Mavyret oral pellets are supplied in child-resistant unit-dose packets, containing 50
+mg glecaprevir/20 mg pibrentasvir each.1 Each carton contains 28 packets.
+Guidelines
+The current web-based treatment recommendations by the American Association
+for the Study of Liver Diseases and the Infectious Diseases Society of America
+provide guidance for treating patients with chronic HCV infection.2 Consult the
+guidance for the most up-to-date information.
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to prevent
+stockpiling, misuse and/or overuse of Mavyret. If the Drug Quantity Management
+rule is not met for the requested medication at the point of service, coverage will be
+determined by the Criteria below. All approvals are provided for the duration noted
+below.
+Drug Quantity Limits
+Product Strength and Form Retail and Home Delivery
+Maximum Quantity*
+Mavyret® 100 mg/40 mg tablets 168 tablets per 365 days
+(glecaprevir/pibrentasvir tablets and (84 tablets per dispensing)
+oral pellets) 50 mg/20 mg pellet 336 packets per 365 days
+packets (168 packets per dispensing)
+* This is a quantity sufficient for 8 weeks of treatment with the tablets at the recommended dose (300
+mg/120 mg once daily) and 8 weeks of treatment with the pellet packets at the maximal recommended
+dose of six packets of pellets once daily.
+Hepatitis C - Mavyret Drug Quantity Management Policy - Per Days
+product(s) is(are) covered as medically necessary when the following
+criteria is(are) met. Any other exception is considered not medically
+necessary.
+7 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Mavyret Drug Quantity Management Policy –
+Per Days
+CRITERIA
+1. Chronic Hepatitis C Virus, Genotype 1, Treatment-Experienced, NS5A-
+Experienced, NS3/4-Naïve. Approve 336 tablets or 672 pellet packets per
+365 days at retail or home delivery if the patient meets ALL of the following
+criteria (A, B, and C):
+Note: This is a quantity sufficient for 16 weeks of therapy.
+A) Patient does not have cirrhosis or has compensated cirrhosis (Child-Pugh A);
+AND
+B) Patient had a prior null response, prior partial response, or had relapse after
+prior treatment with one of the following NS5A-inhibitor containing products:
+Daklinza (daclatasvir tablets), sofosbuvir/velpatasvir, or
+ledipasvir/sofosbuvir; AND
+C) Patient has not previously been treated with one of the following NS3/4A
+inhibitors or NS3/4A inhibitor-containing products: Olysio (simeprevir
+capsules), Victrelis (boceprevir capsules), or Incivek (telaprevir tablets),
+Technivie (ombitasvir/paritaprevir/ritonavir tablets), Viekira Pak
+(ombitasvir/paritaprevir/ritonavir tablets; dasabuvir tablets, co-packaged),
+Viekira XR (dasabuvir/ombitasvir/paritaprevir/ritonavir extended-release
+tablets), Vosevi (sofosbuvir/velpatasvir/voxilaprevir tablets), or Zepatier
+(elbasvir/grazoprevir tablets).
+2. Chronic Hepatitis C Virus, Genotype 1, Treatment-Experienced, NS3/4-
+Experienced, NS5A-Naïve. Approve 252 tablets or 504 pellet packets per 365
+days at retail or home delivery if the patient meets ALL of the following criteria
+(A, B, and C):
+Note: This is a quantity sufficient for 12 weeks of therapy.
+A) Patient does not have cirrhosis or has compensated cirrhosis (Child-Pugh A);
+AND
+B) Patient has not previously been treated with one of the following NS5A-
+inhibitor containing products: Daklinza (daclatasvir tablets),
+sofosbuvir/velpatasvir, ledipasvir/sofosbuvir, Technivie
+(ombitasvir/paritaprevir/ritonavir tablets ), Viekira Pak
+(ombitasvir/paritaprevir/ritonavir tablets; dasabuvir tablets, co-packaged),
+Viekira XR (dasabuvir/ombitasvir/paritaprevir/ritonavir extended-release
+tablets), Vosevi (sofosbuvir/velpatasvir/voxilaprevir tablets), or Zepatier
+(elbasvir/grazoprevir tablets); AND
+C) Patient had a prior null response, prior partial response, or had relapse after
+prior treatment with one of the following NS3/4A inhibitors or NS3/4A
+inhibitor-containing products: Olysio (simeprevir capsules), Victrelis
+(boceprevir capsules), or Incivek (telaprevir tablets).
+7 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Mavyret Drug Quantity Management Policy –
+Per Days
+3. Chronic Hepatitis C Virus, Genotype 1, 2, 4, 5, and 6 Treatment-
+Experienced, Pegylated Interferon/Interferon, Ribavirin, Sovaldi-
+Experienced. Approve 252 tablets or 504 pellet packets per 365 days at retail
+or home delivery if the patient meets BOTH of the following criteria (A and B):
+Note: This is a quantity sufficient for 12 weeks of therapy.
+A) Patient has compensated cirrhosis (Child-Pugh A); AND
+B) Patient had a prior null response, prior partial response, or had relapse after
+prior treatment with one of the following regimens: interferon ± ribavirin,
+pegylated interferon ± ribavirin, Sovaldi (sofosbuvir tablets/oral pellets) +
+ribavirin, Sovaldi (sofosbuvir tablets/oral pellets) + pegylated interferon +
+ribavirin.
+4. Chronic Hepatitis C Virus, Genotype 3, Treatment-Experienced,
+Pegylated Interferon/Interferon, Ribavirin, Sovaldi-Experienced.
+Approve 336 tablets or 672 pellet packets per 365 days at retail or home
+delivery if the patient meets BOTH of the following criteria (A and B):
+Note: This is a quantity sufficient for 16 weeks of therapy.
+A) Patient does not have cirrhosis or has compensated cirrhosis (Child-Pugh A);
+AND
+B) Patient had a prior null response, prior partial response, or had relapse after
+prior treatment with one of the following regimens: interferon ± ribavirin,
+pegylated interferon ± ribavirin, Sovaldi (sofosbuvir tablets/oral pellets) +
+ribavirin, Sovaldi (sofosbuvir tablets/oral pellets) + pegylated interferon +
+ribavirin.
+5. Recurrent Hepatitis C Virus (HCV) Post-Liver Transplantation, Genotype
+1, 2, 3, 4, 5, OR 6. Approve 252 tablets or 504 pellet packets per 365 days at
+retail or home delivery.
+Note: This is a quantity sufficient for 12 weeks of therapy.
+6. Hepatitis C Virus (HCV) Kidney or Liver Transplant Recipients, Genotype
+2, 4, 5, 6. Approve 252 tablets or 504 pellet packets per 365 days at retail or
+home delivery.
+Note: This is a quantity sufficient for 12 weeks of therapy.
+7. Hepatitis C Virus (HCV) Kidney or Liver Transplant Recipients, Genotype
+1. Approve for the duration below if the patient meets ONE of the following
+conditions (A or B):
+A) NS5A-Experienced, NS3/4-Naïve: Approve 336 tablets or 672 pellet packets
+per 365 days at retail or home delivery if the patient meets BOTH of the
+following criteria (i and ii):
+Note: This is a quantity sufficient for 16 weeks of therapy.
+i. Patient had a prior null response, prior partial response, or had relapse
+after prior treatment with one of the following NS5A-inhibitor containing
+products: Daklinza (daclatasvir tablets), sofosbuvir/velpatasvir,
+ledipasvir/sofosbuvir; AND
+ii. Patient has not previously been treated with one of the following NS3/4A
+inhibitors or NS3/4A inhibitor-containing products: Olysio (simeprevir
+7 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Mavyret Drug Quantity Management Policy –
+Per Days
+capsules), Victrelis (boceprevir capsules), Incivek (telaprevir tablets),
+Technivie (ombitasvir/paritaprevir/ritonavir tablets), Viekira Pak
+(ombitasvir/paritaprevir/ritonavir tablets; dasabuvir tablets, co-
+packaged), Viekira XR (dasabuvir/ombitasvir/paritaprevir/ritonavir
+extended-release tablets), Vosevi (sofosbuvir/velpatasvir/voxilaprevir
+tablets); or Zepatier (elbasvir/grazoprevir tablets); OR
+B) All Other Patients with Genotype 1: Approve 252 tablets or 504 pellet
+packets per 365 days at retail or home delivery.
+Note: This is a quantity sufficient for 12 weeks of therapy.
+8. Hepatitis C Virus (HCV) Kidney or Liver Transplant Recipients, Genotype
+3. Approve for the duration below if the patient meets ONE of the following
+conditions (A or B):
+A) Pegylated Interferon/Interferon, Ribavirin, Sovaldi-Experienced: Approve
+336 tablets or 672 pellet packets per 365 days at retail or home delivery if
+the patient had a prior null response, prior partial response, or had relapse
+after prior treatment with one of the following regimens: interferon ±
+ribavirin, pegylated interferon ± ribavirin, Sovaldi (sofosbuvir tablets/oral
+pellets) + ribavirin, Sovaldi (sofosbuvir tablets/oral pellets) + pegylated
+interferon + ribavirin; OR
+Note: This is a quantity sufficient for 16 weeks of therapy.
+B) All Other Patients with Genotype 3: Approve 252 tablets or 504 pellet
+packets per 365 days at retail or home delivery.
+Note: This is a quantity sufficient for 12 weeks of therapy.
+9. For an indication or condition addressed as an approval in the above criteria,
+approve the quantity described above to complete a course therapy at retail or
+home delivery.
+Note: For example, if a patient who should receive 12 weeks of Mavyret tablets
+(252 tablets) has received 3 weeks of Mavyret tablets (63 tablets) then approve
+a quantity sufficient for 9 weeks of Mavyret tablets (189 tablets) to complete
+their 12-week course of therapy at retail or home delivery.
+REFERENCES
+1. Mavyret® tablets [prescribing information]. North Chicago, IL: AbbVie; October 2023.
+2. American Association for the Study of Liver Diseases and the Infectious Diseases Society of
+America. Testing, managing, and treating hepatitis C. Available at:
+http://www.hcvguidelines.org. Updated December 19, 2023. Accessed on December 3, 2024.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 12/14/2023
+Revision
+Annual No criteria changes. 12/17/2024
+Revision
+7 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Mavyret Drug Quantity Management Policy –
+Per Days
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. ©
+2024 The Cigna Group.
+7 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Mavyret Drug Quantity Management Policy –
+Per Days

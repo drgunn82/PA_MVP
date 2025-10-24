@@ -1,0 +1,212 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Immunologicals – Dupixent Drug Quantity Management Policy – Per
+Days
+• Dupixent® (dupilumab subcutaneous injection – Regeneron/sanofi-
+aventis)
+REVIEW DATE: 08/13/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Dupixent, an interleukin-4 receptor alpha antagonist, is indicated for the following
+uses:1
+• Asthma, as an add-on maintenance treatment in patients ≥ 6 years of age
+with moderate-to-severe disease with an eosinophilic phenotype or with oral
+corticosteroid-dependent asthma.
+Limitation of Use: Dupixent is not indicated for the relief of acute
+bronchospasm or status asthmaticus.
+• Atopic dermatitis, for the treatment of patients ≥ 6 months of age with
+moderate-to-severe disease whose disease is not adequately controlled with
+topical prescription therapies or when those therapies are not advisable.
+• Bullous pemphigoid, in adult patients.
+Page 1 of 5 - Cigna National Formulary Coverage - Policy:Immunologicals – Dupixent Drug Quantity Management
+Policy – Per Days
+• Chronic obstructive pulmonary disease (COPD), as an add-on
+maintenance treatment in adults with inadequately controlled COPD and an
+eosinophilic phenotype.
+Limitation of Use: Dupixent is not indicated for the relief of acute
+bronchospasm.
+• Chronic rhinosinusitis with nasal polyposis (CRSwNP) [i.e., nasal
+polyps], as an add-on maintenance treatment in adults with inadequately
+controlled disease.
+• Chronic spontaneous urticaria, in patients ≥ 12 years of age who remain
+symptomatic despite H antihistamine treatment.
+1
+Limitation of Use: Dupixent is not indicated for the treatment of other forms
+of urticaria.
+• Eosinophilic esophagitis, in patients ≥ 1 year of age who weigh ≥ 15 kg.
+• Prurigo nodularis, in adult patients.
+Dosing
+Table 1. Dosing and Administration of Dupixent.1
+Indication Dosing and Administration
+Atopic Patients ≥ 18 years of age:
+Dermatitis • 600 mg (two 300 mg SC injections), followed by 300 mg SC Q2W
+Patients 6 to 17 years of age:
+• Patients weighing 15 to < 30 kg: 600 mg (two 300 mg SC injections), followed
+by 300 mg SC Q4W
+• Patients weighing 30 kg to < 60 kg: 400 mg (two 200 mg SC injections), followed
+by 200 mg SC Q2W
+• Patients weighing ≥ 60 kg: 600 mg (two 300 mg SC injections), followed by 300
+mg SC Q2W
+Patients 6 months to 5 years of age:
+• 5 kg to < 15 kg: 200 mg (one 200 mg SC injection) Q4W
+• 15 kg to < 30 kg: 300 mg (one 300 mg SC injection) Q4W
+Asthma Adults and Adolescents ≥ 12 years of age:
+• Initial loading dose of 400 mg (two 200 mg injections), followed by 200 mg SC
+Q2W; OR
+• Initial loading dose of 600 mg (two 300 mg injections), followed by 300 mg SC
+Q2W*
+Patients 6 to 11 years of age:†
+• Patients weighing 15 to < 30 kg: 100 mg SC Q2W OR 300 mg SC Q4W
+• Patients weighing ≥ 30 kg: 200 mg SC Q2W
+Bullous Patients ≥ 18 years of age:
+Pemphigoid • Initial loading dose of 600 mg (two 300 mg injections), followed by 300 mg SC
+Q2W
+COPD Patients ≥ 18 years of age:
+• 300 SC Q2W
+Table 1 continued. Dosing and Administration of Dupixent.1
+Indication Dosing and Administration
+CRSwNP Patients ≥ 18 years of age:
+300 mg SC Q2W
+CSU Patients ≥ 18 years of age:
+• 600 mg (two 300 mg SC injections), followed by 300 mg SC Q2W
+Patients 12 to 17 years of age:
+• Patients weighing 30 kg to < 60 kg: Initial loading dose of 400 mg (two 200 mg
+injections), followed by 200 mg SC Q2W; OR
+• Patients weighing ≥ 60 kg: 600 mg (two 300 mg SC injections), followed by 300
+mg SC Q2W
+5 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Dupixent Drug Quantity Management
+Policy – Per Days
+EoE Patients ≥ 1 year of age:
+• Patients weighing 15 to < 30 kg: 200 mg Q2W
+• Patients weighing 30 kg to < 40 kg: 300 mg Q2W
+• Patients weighing ≥ 40 kg: 300 mg SC QW
+Prurigo Patients ≥ 18 years of age:
+Nodularis • 600 mg (two 300 mg SC injections), followed by 300 mg SC Q2W
+SC – Subcutaneous; Q2W – Once every 2 weeks; Q4W – Once every 4 weeks; * The 600 mg loading
+dose followed by 300 mg once every 2 weeks is the recommended regimen for patients with oral
+corticosteroid-dependent asthma, patients with co-morbid moderate-to-severe atopic dermatitis, or
+adults with co-morbid chronic rhinosinusitis with nasal polyposis; † For pediatric patients 6 to 11 years
+of age with asthma and co-morbid moderate-to-severe atopic dermatitis, follow the recommended dose
+for atopic dermatitis; CRSwNP – Chronic rhinosinusitis with nasal polyposis; CSU – Chronic spontaneous
+urticaria; EoE – Eosinophilic esophagitis; QW – Once weekly; COPD – Chronic obstructive pulmonary
+disease.
+Availability
+Dupixent is available as 200 mg/1.14 mL and 300 mg/2 mL prefilled pens and
+prefilled syringes.1 A 100 mg/0.67 mL prefilled syringe was also previously
+available, but has been discontinued. Each carton contains either two prefilled pens
+or prefilled syringes. The prefilled pens are only approved for use in patients ≥ 2
+years of age, while the prefilled syringes can be used in patients ≥ 6 months of
+age.
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of Dupixent. If the Drug Quantity Management rule is
+not met for the requested medication at the point of service, coverage will be
+determined by the Criteria below. All approvals will be provided for 1 year in
+duration, unless noted below. “One-time” approvals are provided for 30 days in
+duration.
+Drug Quantity Limits
+Product Strength and Form Retail Home Delivery
+Maximum Quantity Maximum Quantity
+per 28 days per 84 days
+Dupixent® 100 mg/0.67 mL syringes 2 syringes (200 mg) 6 syringes (600mg)
+(dupilumab 200 mg/1.14 mL pens 400 mg (2 pens) 1,200 mg (6 pens)
+subcutaneous 200 mg/1.14 mL syringes 400 mg (2 syringes) 1,200 mg (6 syringes)
+injection) 300 mg/2 mL pens 600 mg (2 pens) 1,800 mg (6 pens)
+300 mg/2 mL syringes 600 mg (2 syringes) 1,800 mg (6 syringes)
+EXCEPTIONS TO THE QUANTITY LIMITS LISTED ABOVE ARE COVERED AS MEDICALLY
+NECESSARY WHEN THE FOLLOWING CRITERIA ARE MET. ANY OTHER EXCEPTION IS
+CONSIDERED NOT MEDICALLY NECESSARY.
+CRITERIA
+Dupixent 100 mg/0.67 mL syringes
+No overrides recommended.
+5 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Dupixent Drug Quantity Management
+Policy – Per Days
+Dupixent 200 mg/1.14 mL pens and syringes
+1. If the patient is initiating therapy at induction dosing for asthma, atopic
+dermatitis, or chronic spontaneous urticaria, as verified by the absence of claims
+for Dupixent in the past 130 days, approve a one-time override for 800 mg (4
+pens or syringes) at retail or 1,600 mg (8 pens or syringes) at home delivery.
+Note: The retail quantity of four pens or syringes provides a quantity sufficient
+for the initial loading dose of 400 mg followed by 200 mg once every 2 weeks
+thereafter for 28 days. The home delivery quantity of eight pens or syringes
+provides for the initial loading dose of 400 mg followed by 200 mg once every 2
+weeks thereafter for a total of 84 days.
+Dupixent 300 mg/2 mL pens and syringes
+1. If the patient is initiating therapy at induction dosing for asthma, atopic
+dermatitis, bullous pemphigoid, chronic spontaneous urticaria, or prurigo
+nodularis, as verified by the absence of claims for Dupixent in the past 130
+days, approve a one-time override for up to 1,200 mg (4 pens or syringes) at
+retail or 2,400 mg (8 pens or syringes) at home delivery.
+Note: The retail quantity of four pens or syringes provides a quantity sufficient
+for the initial loading dose of 600 mg followed by 300 mg once every 2 weeks
+thereafter for 28 days. The home delivery quantity of eight pens or syringes
+provides for the initial loading dose of 600 mg followed by 300 mg once every 2
+weeks thereafter for a total of 84 days.
+2. If the patient has eosinophilic esophagitis, approve 1,200 mg (4 pens or
+syringes) per 28 days at retail and 3,600 mg (12 pens or syringes) per 84 days
+at home delivery.
+REFERENCES
+1. Dupixent® subcutaneous injection [prescribing information]. Tarrytown, NY: Regeneron/sanofi-
+aventis; September 2024.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 11/01/2023
+Revision
+Early No criteria changes. To help clarify the correct number of syringes for 02/20/2024
+Annual approval, the total milligrams was inserted throughout the Policy.
+Revision
+Annual Policy statement was updated to note that “one-time” approvals are 02/19/2025
+Revision provided for 30 days in duration.
+Dupixent 100 mg/0.67 mL prefilled syringes: Override criteria
+were updated to reflect the override amount in “number of prefilled
+syringes” instead of “mg”.
+Early Dupixent 200 mg/1.14 mL pens and syringes: The one-time 08/13/2025
+Annual override was updated to approve 800 mg (4 pens or syringes) at retail
+Revision or 1,600 mg (8 pens or syringes) at home delivery if the patient is
+initiating therapy at induction dosing for asthma, atopic dermatitis, or
+5 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Dupixent Drug Quantity Management
+Policy – Per Days
+chronic spontaneous urticaria. Previously, this override provided an
+approval if the patient was initiating therapy at induction dosing for
+asthma or atopic dermatitis.
+Dupixent 300 mg/2 mL pens and syringes: The one-time override
+was updated to approve 1,200 mg (4 pens or syringes) at retail or
+2,400mg (8 pens or syringes) at home delivery for a patient initiating
+therapy at induction dosing for asthma, atopic dermatitis, bullous
+pemphigoid, chronic spontaneous urticaria, or prurigo nodularis.
+Previously, this override provided an approval if the patient was
+initiating therapy at induction dosing for asthma, atopic dermatitis, or
+prurigo nodularis.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025
+The Cigna Group.
+5 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Dupixent Drug Quantity Management
+Policy – Per Days

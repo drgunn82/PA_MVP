@@ -1,0 +1,598 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Inflammatory Conditions – Kineret Prior Authorization
+• Kineret® (anakinra subcutaneous injection – Swedish Orphan
+Biovitrim)
+REVIEW DATE: 02/26/2025; selected revision 04/23/2025, 06/11/2025, and
+08/13/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Kineret, an interleukin-1 (IL-1) blocker, is indicated for the following uses:1
+• Cryopyrin-associated periodic syndromes (CAPS), for treatment of
+neonatal-onset multisystem inflammatory disease (NOMID).
+• Deficiency of interleukin-1 receptor antagonist (DIRA) treatment.
+• Rheumatoid arthritis, to reduce the signs and symptoms and slow the
+progression of structural damage with moderately to severely active disease
+in adults who have failed one or more disease-modifying antirheumatic drugs
+(DMARDs); Kineret can be used ± DMARDs, other than tumor necrosis factor
+inhibitors (TNFis).
+Guidelines
+Page 1 of 13 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Kineret Prior Authorization
+Kineret is used for treatment of a variety of periodic fever syndromes and
+inflammatory conditions.
+CAPS and DIRA
+The European Alliance of Associations for Rheumatology (EULAR) and American
+College of Rheumatology (ACR) [2021] provide treatment guidelines for IL-1
+mediated autoinflammatory diseases: CAPS, tumor necrosis factor receptor-
+associated periodic syndrome, mevalonate kinase deficiency, and deficiency of the
+IL-1 receptor antagonist.2 Guidelines indicate IL-blocking therapy has become the
+preferred treatment and a therapeutic trial with IL-1 blocking agents may be started
+when strong clinical suspicious of a diagnosis of CAPS, TRAPS, MKD, or DIRA is
+suspected. The guidelines also provide additional diagnosis-specific treatment
+recommendations:
+• CAPS: CAPS encompasses three rare genetic syndromes (familial cold
+autoinflammatory syndrome, Muckle-Wells syndrome, and neonatal onset
+multisystem inflammatory disease formerly known as chronic infantile
+neurological cutaneous and articular syndrome) that are thought to be one
+condition along a spectrum of disease severity. IL-1 blockers are
+recommended as standard of care across the spectrum of disease for
+improved symptom control and reduced systemic and tissue/organ
+inflammation. The dose and/or frequency of administration should be
+adjusted to control disease activity, normalize markers of systemic
+inflammation, and for appropriate weight gain and development in the
+growing patient. In many cases, patients with CAPS reported an immediate
+clinical response to Kineret with rash, fever, and arthritis disappearing within
+a few days and not recurring during follow-up.3 Dramatic and persistent
+normalization of inflammatory markers and hematologic tests have also been
+achieved.
+• DIRA: DIRA is caused by recessive loss-of-function pathogenic variants in
+the IL1RN gene.2 Treatment with agents that block both IL-α and IL-β is
+recommended and includes Kineret and Arcalyst (rilonacept subcutaneous
+injection). Kineret approval for the treatment of DIRA was based on a
+natural-history study in nine patients (aged 1 month to 9 years at baseline)
+with genetically confirmed DIRA.1 Patients were treated with Kineret for up
+to 10 years. All nine patients achieved remission while on Kineret for DIRA.
+In some patients, skin and bone manifestations resolved within days and
+weeks, respectively.
+Rheumatoid Arthritis
+Current recommendations for the treatment of rheumatoid arthritis from the
+American College of Rheumatology (ACR) [2021] do not make a recommendation
+for the use of Kineret.4 The recommendations also note that Kineret is used
+infrequently for rheumatoid arthritis and that TNFis and other non-TNFi biologics
+(i.e., rituximab, Actemra® [tocilizumab intravenous infusion, tocilizumab
+subcutaneous injection], and Orencia® [abatacept intravenous infusion, abatacept
+subcutaneous injection]) are appropriate initial biologic therapy for most patients
+with rheumatoid arthritis.
+Page 2 of 13 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Kineret Prior Authorization
+Still’s disease [including Systemic Juvenile Idiopathic Arthritis (SJIA) and
+Still’s Disease, Adult Onset (AOSD)]
+The European Alliance of Associations for Rheumatology (EULAR) and Pediatric
+Rheumatology European Society (PReS) joint clinical guidelines for management of
+Still’s disease (2024) indicate SJIA and AOSD are the same disease, differing in age
+of onset, and can be referred to collectively as Still’s disease.5 Guidelines
+recommend an IL-1 or IL-6 inhibitor be initiated as early as possible after diagnosis.
+No preferred agent is provided. Macrophage activation syndrome (MAS), which is a
+life-threatening complication of Still’s disease, should be treated with high dose
+steroids and if needed, other treatments which includes Kineret.
+Other Uses with Supportive Evidence
+The National Comprehensive Cancer Network (NCCN) recommends Kineret for
+treatment or supportive care for the following uses:
+• Castleman Disease: NCCN guidelines (version 2.2025 – January 28, 2025)
+list Kineret as an alternative regimen for subsequent therapy as a single
+agent for multicentric Castleman disease that is relapsed or refractory
+disease.13
+• Histiocytic Neoplasms: NCCN guidelines (version 1.2025 – June 20, 2025)
+provide recommendations for Kineret as first-line or subsequent treatment
+for Erdheim-Chester disease regardless of mutation.14
+• Immunotherapy-Related Toxicities: NCCN guidelines (version 1.2025 –
+December 20, 2024) provide recommendations for use of Kineret as a
+treatment option in the management of immune checkpoint inhibitor-related
+hemophagocytic lymphohistiocytosis (HLH-like syndrome), chimeric antigen
+receptor (CAR) T-cell-related toxicities, including prophylaxis of immune
+effector cell-associated neurotoxicity syndrome (ICANS), and for the
+management of cytokine release syndrome.15
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Kineret. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Kineret as well as the
+monitoring required for adverse events and long-term efficacy, initial approval
+requires Kineret to be prescribed by or in consultation with a physician who
+specializes in the condition being treated.
+• Kineret® (anakinra subcutaneous injection – Swedish Orphan
+Biovitrim)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+Page 3 of 13 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Kineret Prior Authorization
+1. Cryopyrin-Associated Periodic Syndromes. Approve for the duration noted if
+the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. The medication is being used for treatment of familial cold
+autoinflammatory syndrome (FCAS), Muckle-Wells Syndrome (MWS),
+and/or neonatal onset multisystem inflammatory disease (NOMID)
+formerly known as chronic infantile neurological cutaneous and articular
+syndrome (CINCA); AND
+ii. The medication is prescribed by or in consultation with a rheumatologist,
+geneticist, allergist/immunologist, or a dermatologist; OR
+B) Patient is Currently Receiving Kineret. Approve for 1 year if the patient meets
+BOTH of the following (i and ii):
+i. Patient has been established on this medication for at least 6 months;
+AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with this medication is reviewed under criterion A
+(Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating the
+requested drug); OR
+Note: Examples of objective measures include resolution of fever,
+improvement in rash or skin manifestations, clinically significant
+improvement, or normalization of serum markers (e.g., C-reactive
+protein, amyloid A), reduction in proteinuria, and/or stabilization of
+serum creatinine.
+b) Compared with baseline (prior to initiating the requested drug),
+patient experienced an improvement in at least one symptom.
+Note: Examples of improvement in symptoms include fewer cold-
+induced attacks; less joint pain/tenderness, stiffness, or swelling;
+decreased fatigue; improved function or activities of daily living.
+2. Deficiency of Interleukin-1 Receptor Antagonist. Approve for the duration
+noted if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Genetic testing has confirmed bi-allelic pathogenic variants in the IL1RN
+gene; AND
+ii. The medication is prescribed by or in consultation with a rheumatologist,
+geneticist, dermatologist, or a physician specializing in the treatment of
+autoinflammatory disorders; OR
+B) Patient is Currently Receiving Kineret. Approve for 1 year if the patient meets
+BOTH of the following (i and ii):
+i. Patient has been established on this medication for at least 6 months;
+AND
+Page 4 of 13 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Kineret Prior Authorization
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with this medication is reviewed under criterion A
+(Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating the
+requested drug); OR
+Note: Examples of objective measures include improvement in rash or
+skin manifestations, clinically significant improvement, or
+normalization of serum markers (e.g., C-reactive protein, erythrocyte
+sedimentation rate), reduction in proteinuria, and/or stabilization of
+serum creatinine.
+b) Compared with baseline (prior to initiating the requested drug),
+patient experienced an improvement in at least one symptom.
+Note: Examples of improvement of symptoms include improvement of
+skin or bone symptoms; less joint pain/tenderness, stiffness, or
+swelling.
+3. Rheumatoid Arthritis. Approve for the duration noted if the patient meets ONE
+of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the
+following (i, ii, and iii):
+i. Patient is > 18 years of age; AND
+ii. Patient has had a 3-month trial of a biologic OR targeted synthetic
+disease-modifying antirheumatic drug (DMARD) for this condition, unless
+intolerant; AND
+Note: This is a 3-month trial of at least one biologic other than the
+requested drug. A biosimilar of the requested biologic does not count.
+Refer to Appendix for examples of biologics and targeted synthetic
+DMARDs used for rheumatoid arthritis. Conventional synthetic DMARDs
+such as methotrexate, leflunomide, hydroxychloroquine, and sulfasalazine
+do not count.
+iii. The medication is prescribed by or in consultation with a rheumatologist;
+OR
+B) Patient is Currently Receiving Kineret. Approve for 1 year if the patient meets
+BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating the
+requested drug); OR
+Note: Examples of standardized and validated measures of disease
+activity include Clinical Disease Activity Index (CDAI), Disease Activity
+Score (DAS) 28 using erythrocyte sedimentation rate (ESR) or C-
+reactive protein (CRP), Patient Activity Scale (PAS)-II, Rapid
+Page 5 of 13 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Kineret Prior Authorization
+Assessment of Patient Index Data 3 (RAPID-3), and/or Simplified
+Disease Activity Index (SDAI).
+b) Compared with baseline (prior to initiating the requested drug),
+patient experienced an improvement in at least one symptom, such as
+decreased joint pain, morning stiffness, or fatigue; improved function
+or activities of daily living; decreased soft tissue swelling in joints or
+tendon sheaths.
+Other Uses with Supportive Evidence
+4. Castleman Disease. Approve for the duration noted if the patient meets ONE
+of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the
+following (i, ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. The medication is being used for multicentric disease that is relapsed or
+refractory disease; AND
+iii. The medication is prescribed by or in consultation with an oncologist or
+hematologist; OR
+B) Patient is Currently Receiving Kineret. Approve for 1 year if the patient meets
+BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with this medication is reviewed under criterion A
+(Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating the
+requested drug); OR
+Note: Examples of objective measures include clinically significant
+improvement or normalization of serum markers (e.g., C-reactive
+protein, erythrocyte sedimentation rate, fibrinogen, albumin, and/or
+hemoglobin), increased body mass index, and/or reduction in
+lymphadenopathy.
+b) Compared with baseline (prior to initiating the requested drug),
+patient experienced an improvement in at least one symptom.
+Note: Examples of symptoms include constitutional symptoms such as
+fatigue, physical function.
+5. Erdheim-Chester Disease. Approve for 1 year if the patient meets BOTH of
+the following (A and B):
+A) Patient is >18 years of age; AND
+B) The medication is prescribed by or in consultation with an oncologist or
+hematologist.
+6. Immunotherapy-Related Toxicities associated with Chimeric Antigen
+Receptor (CAR) T-cell Therapy. Approve for 1 month if prescribed for a
+patient who has been or will be treated with a CAR T-cell therapy.
+Page 6 of 13 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Kineret Prior Authorization
+Note: Examples of CAR T-cell therapy include Abecma (idecabtagene vicleucel
+intravenous infusion), Aucatzyl (obecabtagene autoleucel intravenous infusion),
+Breyanzi (lisocabtagene maraleucel intravenous infusion), Carvykti
+(ciltacabtagene autoleucel intravenous infusion), Kymriah (tisagenlecleucel
+intravenous infusion), Tecartus (brexucabtagene intravenous infusion), and
+Yescarta (axicabtagene ciloleucel intravenous infusion).
+7. Still’s Disease, Adult Onset (AOSD). Approve for the duration noted if the
+patient meets ONE of the following (A or B):
+Note: Adult-onset Still’s disease (AOSD) and systemic juvenile idiopathic
+arthritis (SJIA) are considered the same disease (Still’s disease) but differ in age
+of onset. For a patient < 18 years of age, refer to the SIJA indication below.
+A) Initial Therapy. Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient is > 18 years of age; AND
+ii. The medication is prescribed by or in consultation with a rheumatologist;
+OR
+B) Patient is Currently Receiving Kineret. Approve for 1 year if the patient meets
+BOTH of the following (i and ii):
+i. Patient has been established on this medication for at least 6 months;
+AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with this medication is reviewed under criterion A
+(Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating the
+requested drug); OR
+Note: Examples of objective measures include resolution of fever,
+improvement in rash or skin manifestations, clinically significant
+improvement or normalization of serum markers (e.g., C-reactive
+protein, erythrocyte sedimentation rate), and/or reduced dosage of
+corticosteroids.
+b) Compared with baseline (prior to initiating the requested drug),
+patient experienced an improvement in at least one symptom, such as
+less joint pain/tenderness, stiffness, or swelling; decreased fatigue;
+improved function or activities of daily living.
+8. Systemic Juvenile Idiopathic Arthritis (SIJA). Approve for the duration
+noted if the patient meets ONE of the following (A or B):
+Note: Systemic juvenile idiopathic arthritis (SJIA) and adult-onset Still’s disease
+(AOSD) are considered the same disease (Still’s disease) but differ in age of
+onset. For a patient ≥ 18 years of age, refer to AOSD indication above.
+A) Initial Therapy. Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient is > 2 years of age; AND
+ii. The medication is prescribed by or in consultation with a rheumatologist;
+OR
+Page 7 of 13 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Kineret Prior Authorization
+B) Patient is Currently Receiving Kineret. Approve for 1 year if the patient meets
+BOTH of the following (i and ii):
+i. Patient has been established on this medication for at least 6 months;
+AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with this medication is reviewed under criterion A
+(Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating the
+requested drug); OR
+Note: Examples of objective measures include resolution of fever,
+improvement in rash or skin manifestations, clinically significant
+improvement, or normalization of serum markers (e.g., C-reactive
+protein, erythrocyte sedimentation rate), and/or reduced dosage of
+corticosteroids.
+b) Compared with baseline (prior to initiating the requested drug),
+patient experienced an improvement in at least one symptom, such as
+less joint pain/tenderness, stiffness, or swelling; decreased fatigue;
+improved function or activities of daily living.
+CONDITIONS NOT COVERED
+• Kineret® (anakinra subcutaneous injection – Swedish Orphan
+Biovitrim)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Ankylosing Spondylitis. Kineret has been beneficial in a few patients with
+ankylosing spondylitis, but results are not consistent.6,7 In a small open-label
+study, patients with active ankylosing spondylitis who were refractory to NSAIDs
+(n = 20) received Kineret 100 mg daily.15 The Bath Ankylosing Spondylitis
+Disease Activity Index (BASDAI) score decreased over a 6-month period but was
+not significant (5.8 at baseline vs. 5.0 at Week 12, and 4.8 at Week 24). No
+significant change was found in Bath Ankylosing Spondylitis Functional Index
+(BASFI) and patients’ and physicians’ global assessment of general pain during
+the study. After 12 weeks, both the assessment in ankylosing spondylitis (ASAS)
+20 and 40 responses improved in 10.5% of patients (intention-to-treat
+analysis). After 24 weeks, ASAS 20 was attained in 26% of patients, ASAS 40 in
+21% of patients, and ASAS 70 in 10.5% of patients. Guidelines for axial
+spondyloarthritis from the Assessment of SpondyloArthritis International Society
+(ASAS)/European Union Against Rheumatism (EULAR) [2016] do not mention
+Kineret as a treatment option.8
+2. Concurrent Use with a Biologic or with a Targeted Synthetic Oral Small
+Molecule Drug. This medication should not be administered in combination
+Page 8 of 13 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Kineret Prior Authorization
+with another biologic or with a targeted synthetic oral small molecule drug used
+for an inflammatory condition (see Appendix for examples). Combination
+therapy is generally not recommended due to a potentially higher rate of
+adverse events and lack of controlled clinical data supporting additive efficacy.9
+Note: This does NOT exclude the use of conventional synthetic disease-
+modifying antirheumatic drugs (e.g., methotrexate, leflunomide,
+hydroxychloroquine, and sulfasalazine) in combination with this medication.
+3. Lupus Arthritis. The effectiveness and safety of Kineret were evaluated in an
+open 3-month pilot trial in patients (n = 4) with systemic lupus erythematosus
+(SLE) and severe, therapy-refractory non-erosive polyarthritis (three patients
+had deforming Jaccoud’s arthropathy) and no other uncontrolled major organ
+involvement.10 Patients were refractory to NSAIDs, antimalarials,
+corticosteroids, methotrexate, cyclophosphamide, and azathioprine. SLE was
+controlled with stable doses of corticosteroids and/or antirheumatic or
+immunosuppressive agents; pain was managed with NSAIDs and/or other
+medications. Patients had improved clinically after 4 weeks on Kineret, but after
+12 weeks, the clinical activity parameters tended to increase again. The results
+from this study are preliminary and a larger controlled study is needed.
+4. Osteoarthritis. In a Phase II study in patients with painful osteoarthritis of the
+knee, Kineret 150 mg administered by intraarticular injection was well
+tolerated.11 The study was not designed to assess the analgesic efficacy of
+Kineret. Patients with osteoarthritis of the knee were enrolled in a multicenter,
+double-blind, placebo-controlled study and randomized to Kineret 50 mg,
+Kineret 150 mg, or placebo for intraarticular injection.12 Although the injections
+were well tolerated, there were no significant differences in improvement in
+knee pain, stiffness, function or cartilage turnover between Kineret doses and
+placebo. Similar to other studies in this population, there was a significant
+placebo effect noted.
+REFERENCES
+1. Kineret subcutaneous injection [prescribing information]. Stockholm, Sweden: Swedish Orphan
+Biovitrum; December 2020.
+2. Romano M, Arici ZS, Piskin D, et al. The 2021 EULAR/American College of Rheumatology points to
+consider for diagnosis, management, and monitoring of the interleukin-1 mediated
+autoinflammatory diseases: cryopyrin-associated periodic syndromes, tumour necrosis factor
+receptor-associated periodic syndrome, mevalonate kinase deficiency, and deficiency of the
+interleukin-1 receptor antagonist. Ann Rheum Dis. 2022;81(7):907-921.
+3. Shinkai K, McCalmont TH, Leslie KS. Cryopyrin-associated periodic syndromes and
+autoinflammation. Clin Exp Dermatol. 2008;33:1-9.
+4. Fraenkel L, Bathon JM, England BR, et al. 2021 American College of Rheumatology Guideline for
+the Treatment of Rheumatoid Arthritis. Arthritis Care Res (Hoboken). 2021;73(7):924-939.
+5. Fautrel B, Mitrovic S, De Matteis A, et al. EULAR/PReS recommendations for the diagnosis and
+management of Still's disease, comprising systemic juvenile idiopathic arthritis and adult-onset
+Still's disease. Ann Rheum Dis. 2024;83(12):1614-1627.
+6. Tan AL, Marzo-Ortega H, O’Connor P, et al. Efficacy of anakinra in active ankylosing spondylitis: a
+clinical and magnetic resonance imaging study. Ann Rheum Dis. 2004;63:1041-1045.
+7. Haibel H, Rudwaleit M, Listing J, et al. Open label trial of anakinra in active ankylosing spondylitis
+over 24 weeks. Ann Rheum Dis. 2005;64:296-298.
+Page 9 of 13 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Kineret Prior Authorization
+8. van der Heijde D, Ramiro S, Landewé R, et al. 2016 update of the ASAS-EULAR management
+recommendations for axial spondyloarthritis. Ann Rheum Dis. 2017;76(6):978-991.
+9. Furst DE, Keystone EC, So AK, et al. Updated consensus statement on biological agents for the
+treatment of rheumatic diseases, 2012. Ann Rheum Dis. 2013;72 Suppl 2:ii2-34.
+10. Ostendorf B, Iking-Konert C, Kurz K, et al. Preliminary results of safety and efficacy of the
+interleukin 1 receptor antagonist anakinra in patients with severe lupus arthritis. Ann Rheum Dis.
+2005;64:630-683.
+11. Chevalier X, Giraudeau B, Conrozier T, et al. Safety study of intraarticular injection of interleukin 1
+receptor antagonist in patients with painful knee osteoarthritis: a multicenter study. J Rheumatol.
+2005;32:1317-1323.
+12. Chevalier X, Goupille P, Beaulieu AD, et al. Intraarticular injection of anakinra in osteoarthritis of
+the knee: a multicenter, randomized, double-blind, placebo-controlled study. Arthritis Rheum.
+2009;61(3):344-352.
+13. The NCCN Castleman Disease Clinical Practice Guidelines in Oncology (version 2.2025 – January
+28, 2025). © 2025 National Comprehensive Cancer Network. Available at: http://www.nccn.org.
+Accessed on July 14, 2025.
+14. The NCCN Histiocytic Neoplasms Clinical Practice Guidelines in Oncology (version 1.2025 – June
+20, 2025). © 2025 National Comprehensive Cancer Network. Available at: http://www.nccn.org.
+Accessed on July 14, 2025.
+15. The NCCN Management of Immunotherapy-Related Toxicities Clinical Practice Guidelines in
+Oncology (version 1.2025 – December 20, 2024). © 2024 National Comprehensive Cancer
+Network. Available at: http://www.nccn.org. Accessed on July 14, 2025.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 01/25/2023
+Revision
+Annual No criteria changes. 02/28/2024
+Revision
+Selected Systemic Juvenile Idiopathic Arthritis: The requirement for 04/24/2024
+Revision previous therapy was removed. Exceptions that apply to a patient
+who is not required to try another therapy prior to Kineret were
+removed (no longer needed).
+Still’s Disease, Adult Onset: The condition was changed to as
+listed (previously was Still’s Disease).
+Selected Rheumatoid Arthritis: For initial approval, a requirement that the 09/11/2024
+Revision patient is ≥ 18 years of age was added.
+Systemic Juvenile Idiopathic Arthritis: For initial approval, a
+requirement that the patient is ≥ 2 years of age was added.
+Still’s Disease, Adult Onset: For initial approval, a requirement
+that the patient is ≥ 18 years of age was added.
+Conditions Not Covered: Concurrent use with a Biologic or with a
+Targeted Synthetic Oral Small Molecule Drug was changed to as
+listed (previously oral small molecule drug was listed as Disease-
+Modifying Antirheumatic Drug).
+Annual Cryopyrin-Associated Periodic Syndromes: An 02/26/2025
+Revision “allergist/immunologist” was added to the existing requirement that
+the medication is being prescribed by or in consultation with a
+rheumatologist, geneticist, or dermatologist. For a patient currently
+receiving Kineret, the examples of improvements in symptoms were
+moved to a Note.
+Deficiency of Interleukin-1 Receptor Antagonist: The term
+“mutation” was rephrased to “biallelic pathogenic variants”. For a
+patient currently receiving Kineret, the examples of improvements in
+symptoms were moved to a Note.
+Page 10 of 13 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Kineret Prior
+Authorization
+Rheumatoid Arthritis: The previous requirement “Patient
+experienced a beneficial clinical response when assessed by at least
+one objective measure” was reworded to “When assessed by at least
+one objective measure, patient experienced a beneficial clinical
+response from baseline (prior to initiating the requested drug).” The
+previous requirement “Patient experienced an improvement in at
+least one symptom…” was updated add “Compared with baseline
+(prior to initiating the requested drug).”
+Still’s Disease, Adult-Onset: The following Note was added
+“Adult-onset Still’s disease (AOSD) and systemic juvenile idiopathic
+arthritis (SJIA) are considered the same disease (Still’s disease) but
+differ in age of onset. For a patient < 18 years of age, refer to the
+SIJA indication below.”
+Systemic Juvenile Idiopathic Arthritis: The following Note was
+added “Systemic juvenile idiopathic arthritis (SJIA) and adult-onset
+Still’s disease (AOSD) are considered the same disease (Still’s
+disease) but differ in age of onset. For a patient ≥ 18 years of age,
+refer to AOSD indication above.”
+Selected Policy Statement: Removed “All reviews for COVID-19 and/or 04/23/2025
+Revision cytokine release syndrome associated with COVID-19 will be
+forwarded to the Medical Director.”
+COVID-19 (Coronavirus Disease 2019): Diagnosis removed from
+Other Uses with Supportive Evidence.
+Selected Still’s Disease, Adult Onset: For initial therapy, the following 06/11/2025
+Revision requirements were removed: “Patient has tried one corticosteroid
+and had an inadequate response to one conventional synthetic
+disease-modifying antirheumatic drug” and “According to the
+prescriber, patient has at least moderate to severe active systemic
+features of this condition or active systemic features with concerns of
+progression to macrophage activation syndrome.”
+Selected Castleman Disease: This condition was added to Other Uses with 08/13/2025
+Revision Supportive Evidence.
+Erdheim-Chester Disease: This condition was added to Other Uses
+with Supportive Evidence.
+Immunotherapy-Related Toxicities associated with Chimeric
+Antigen Receptor T-cell Therapy: This condition was added to
+Other Uses with Supportive Evidence.
+APPENDIX
+Mechanism of Action Examples of Indications*
+Biologics
+Adalimumab SC Products (Humira®, Inhibition of TNF AS, CD, JIA, PsO, PsA, RA, UC
+biosimilars)
+Cimzia® (certolizumab pegol SC Inhibition of TNF AS, CD, nr-axSpA, PsO, PsA,
+injection) RA
+Etanercept SC Products (Enbrel®, Inhibition of TNF AS, JIA, PsO, PsA, RA
+biosimilars)
+Infliximab IV Products (Remicade®, Inhibition of TNF AS, CD, PsO, PsA, RA, UC
+biosimilars)
+Zymfentra® (infliximab-dyyb SC Inhibition of TNF CD, UC
+injection)
+Simponi®, Simponi Aria® (golimumab Inhibition of TNF SC formulation: AS, PsA, RA,
+SC injection, golimumab IV infusion) UC
+Page 11 of 13 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Kineret Prior
+Authorization
+IV formulation: AS, PJIA,
+PsA, RA
+Tocilizumab Products (Actemra® IV, Inhibition of IL-6 SC formulation: PJIA, RA,
+biosimilar; Actemra SC, biosimilar) SJIA
+IV formulation: PJIA, RA,
+SJIA
+Kevzara® (sarilumab SC injection) Inhibition of IL-6 RA
+Orencia® (abatacept IV infusion, T-cell costimulation SC formulation: JIA, PSA, RA
+abatacept SC injection) modulator IV formulation: JIA, PsA, RA
+Rituximab IV Products (Rituxan®, CD20-directed cytolytic RA
+biosimilars) antibody
+Kineret® (anakinra SC injection) Inhibition of IL-1 JIA^, RA
+Omvoh® (mirikizumab IV infusion, SC Inhibition of IL-23 UC
+injection)
+Stelara® (ustekinumab SC injection, Inhibition of IL-12/23 SC formulation: CD, PsO,
+ustekinumab IV infusion) PsA, UC
+IV formulation: CD, UC
+Siliq® (brodalumab SC injection) Inhibition of IL-17 PsO
+Cosentyx® (secukinumab SC injection; Inhibition of IL-17A SC formulation: AS, ERA, nr-
+secukinumab IV infusion) axSpA, PsO, PsA
+IV formulation: AS, nr-
+axSpA, PsA
+Taltz® (ixekizumab SC injection) Inhibition of IL-17A AS, nr-axSpA, PsO, PsA
+Bimzelx® (bimekizumab-bkzx SC Inhibition of IL- PsO
+injection) 17A/17F
+Ilumya® (tildrakizumab-asmn SC Inhibition of IL-23 PsO
+injection)
+Skyrizi® (risankizumab-rzaa SC Inhibition of IL-23 SC formulation: CD, PSA,
+injection, risankizumab-rzaa IV infusion) PsO, UC
+IV formulation: CD, UC
+Tremfya® (guselkumab SC injection, Inhibition of IL-23 SC formulation: PsA, PsO, UC
+guselkumab IV infusion) IV formulation: UC
+Entyvio® (vedolizumab IV infusion, Integrin receptor CD, UC
+vedolizumab SC injection) antagonist
+Oral Therapies/Targeted Synthetic Oral Small Molecule Drugs
+Otezla® (apremilast tablets) Inhibition of PDE4 PsO, PsA
+Cibinqo™ (abrocitinib tablets) Inhibition of JAK AD
+pathways
+Olumiant® (baricitinib tablets) Inhibition of JAK RA, AA
+pathways
+Litfulo® (ritlecitinib capsules) Inhibition of JAK AA
+pathways
+Leqselvi® (deuruxolitinib tablets) Inhibition of JAK AA
+pathways
+Rinvoq® (upadacitinib extended-release Inhibition of JAK AD, AS, nr-axSpA, RA, PsA,
+tablets) pathways UC
+Rinvoq® LQ (upadacitinib oral solution) Inhibition of JAK PsA, PJIA
+pathways
+Sotyktu® (deucravacitinib tablets) Inhibition of TYK2 PsO
+Xeljanz® (tofacitinib tablets/oral Inhibition of JAK RA, PJIA, PsA, UC
+solution) pathways
+Xeljanz® XR (tofacitinib extended- Inhibition of JAK RA, PsA, UC
+release tablets) pathways
+Zeposia® (ozanimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+Page 12 of 13 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Kineret Prior
+Authorization
+Velsipity® (etrasimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+* Not an all-inclusive list of indications. Refer to the prescribing information for the respective agent
+for FDA-approved indications; SC – Subcutaneous; TNF – Tumor necrosis factor; AS – Ankylosing
+spondylitis; CD – Crohn’s disease; JIA – Juvenile idiopathic arthritis; PsO – Plaque psoriasis; PsA –
+Psoriatic arthritis; RA – Rheumatoid arthritis; UC – Ulcerative colitis; nr-axSpA – Non-radiographic
+axial spondyloarthritis; IV – Intravenous, PJIA – Polyarticular juvenile idiopathic arthritis; IL –
+Interleukin; SJIA – Systemic juvenile idiopathic arthritis; ^ Off-label use of Kineret in JIA supported in
+guidelines; ERA – Enthesitis-related arthritis; DMARD – Disease-modifying antirheumatic drug; PDE4 –
+Phosphodiesterase 4; JAK – Janus kinase; AD – Atopic dermatitis; AA – Alopecia areata; TYK2 –
+Tyrosine kinase 2.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025
+The Cigna Group.
+Page 13 of 13 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Kineret Prior
+Authorization

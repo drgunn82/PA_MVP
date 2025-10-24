@@ -1,0 +1,355 @@
+STEP THERAPY POLICY
+POLICY: Diabetes – Sodium Glucose Co-Transporter-2 Inhibitors Step Therapy
+Policy
+• Brenzavvy™ (bexagliflozin tablets − TheracosBio)
+• bexagliflozin tablets – GSMS
+• Farxiga® (dapagliflozin tablets – Bristol-Myers Squibb, authorized
+generic)
+• Invokana® (canagliflozin tablets – Janssen)
+• Invokamet® (canagliflozin and metformin hydrochloride tablets
+Janssen)
+• Invokamet® XR (canagliflozin and metformin hydrochloride
+extended-release tablets – Janssen)
+• Jardiance® (empagliflozin tablets – Boehringer Ingelheim/Lilly)
+• Segluromet® (ertugliflozin and metformin tablets – Merck)
+• Steglatro® (ertugliflozin tablets – Merck)
+• Synjardy® (empagliflozin/metformin hydrochloride tablets –
+Boehringer Ingleheim/ Lilly)
+• Synjardy® XR (empagliflozin/metformin extended-release tablets –
+Boehringer Ingleheim/Lilly)
+• Xigduo® XR (dapagliflozin/metformin extended-release tablets –
+Bristol-Meyers Squibb, authorized generic)
+REVIEW DATE: 05/07/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+Page 1 of 8 - Cigna National Formulary Coverage - Policy: Diabetes – Sodium Glucose Co-Transporter-2 Inhibitors
+Step Therapy Policy
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Bexagliflozin, dapagliflozin, Invokana, Jardiance, and Steglatro are sodium glucose
+co-transporter-2 (SGLT-2) inhibitors indicated as an adjunct to diet and exercise to
+improve glycemic control in adults with type 2 diabetes.1-4 Dapagliflozin,
+Invokana, and Jardiance are also indicated in pediatric patients ≥ 10 years of age
+with type 2 diabetes as an adjunct to diet and exercise to improve glycemic
+control.1-3
+The SGLT-2 inhibitors also possess the following additional indications in patients
+with diabetes:
+• Jardiance: To reduce the risk of cardiovascular (CV) death in adults with
+type 2 diabetes mellitus and established CV disease.
+• Invokana: 1) To reduce the risk of major adverse CV events in adults with
+type 2 diabetes mellitus and established CV disease; AND 2) To reduce the
+risk of end-stage kidney disease, doubling of serum creatinine, CV death, and
+hospitalization for heart failure in adults with type 2 diabetes mellitus and
+diabetic nephropathy with albuminuria.
+• Dapagliflozin: To reduce the risk of hospitalization for heart failure (HHF)
+in adults with type 2 diabetes mellitus and established CV disease or multiple
+CV risk factors.
+In addition to indications in diabetes, dapagliflozin and Jardiance are indicated
+for the following indications in patients with and without diabetes:1,3
+• Heart failure, to reduce the risk of CV death, HHF, and urgent heart failure
+visits in adults with heart failure (included both reduced and preserved
+ejection fraction).
+• Chronic kidney disease (CKD), to reduce the risk of sustained estimated
+glomerular filtration rate (eGFR) decline, end-stage kidney disease, CV
+death, and hospitalization for heart failure in adults with chronic kidney
+disease at risk of progression.
+Guidelines
+Diabetes
+The American Diabetes Association Standards of Care (2025) note that first-line
+therapy for type 2 diabetes depends on comorbidities, patient-centered treatment
+factors, and management needs.5 The SGLT-2 inhibitors (with demonstrated
+benefit) are recommended as initial therapy when pertinent comorbidities are
+present (atherosclerotic CV disease, or high CV risk, CKD, and heart failure),
+independent of metformin use. In pediatric patients with type 2 diabetes,
+metformin is the initial treatment of choice if HbA is < 8.5%; if glycemic goals are
+1c
+no longer met, Jardiance may be considered in children ≥ 10 years of age (the
+updated age indications for dapagliflozin and Invokana are not addressed).
+American Association of Clinical Endocrinology (AACE) Consensus Statement:
+Comprehensive Type 2 Diabetes Management Algorithm (2023) makes similar
+8 Pages - Cigna National Formulary Coverage - Policy: Diabetes – Sodium Glucose Co-Transporter-2 Inhibitors
+Step Therapy Policy
+recommendations.12 It is noted that an agent with proven benefit should be
+utilized; with “proven benefit” referring to a label indication.
+Heart Failure
+The American College of Cardiology (ACC) Expert Consensus Decision Pathway for
+Optimization of Heart Failure Treatment ( 2022) recommends SGLT-2 inhibitors
+(dapagliflozin or Jardiance) to reduce HHF and CV mortality, irrespective of the
+presence of type 2 diabetes in patients with symptomatic chronic heart failure with
+reduced ejection fraction (class 1 recommendation, level of evidence A).6 In
+patients with heart failure with preserved ejection fraction, SGLT-2 inhibitors
+(Jardiance) can be beneficial in decreasing heart failure hospitalizations and CV
+mortality, irrespective of the presence of type 2 diabetes (class 2a
+recommendation, level of evidence B-R). Note: This does not reflect the updated
+indication for dapagliflozin in patients with preserved ejection fraction heart failure.
+The ACC Expert Consensus Decision Pathway on Management of Heart Failure with
+Preserved Ejection Fraction (2023) recommends that all individuals with heart
+failure with preserved ejection fraction be started on an SGLT-2 inhibitor unless
+contraindicated.10 SGLT-2 inhibitors are noted to have demonstrated significant CV
+benefits in individuals without type 2 diabetes, particularly in individuals with heart
+failure. In such patients, SGLT-2 inhibitors have significantly reduced the risk of
+HHF and CV death across all ejection fraction subgroups. Clinical trials with
+Jardiance and dapagliflozin are mentioned. For both agents, a significant decrease
+in HHF was observed.
+The 2023 Focused Update of the 2021 European Society of Cardiology Guidelines
+for the Diagnosis and Treatment of Acute and Chronic Heart Failure recommend an
+SGLT-2 inhibitor (dapagliflozin or Jardiance) in patients with symptomatic HFmrEF
+or HFpEF to reduce the risk of HHF or CV death (Class I, Level A).16 In patients
+with type 2 diabetes and CKD, SGLT-2 inhibitors (dapagliflozin or Jardiance) are
+recommended to reduce the risk of HHF or CV death (Class I, Level A).
+According to the ACC Expert Consensus Decision Pathway for Treatment of Heart
+Failure with Reduced Ejection Fraction: a Report of the ACC Solution Set Oversight
+Committee (2024), guideline-directed medical therapy is the foundation of care in
+patients with heart failure and agents with the highest expected benefit should be
+prioritized.15 The standard four-drug regimen includes renin-angiotensin inhibitors,
+beta-blockers, SGLT inhibitors (i.e., dapagliflozin, Inpefa® [sotaglitflozin tablets],
+Jardiance) and mineralocorticoid antagonists. These therapies should be initiated
+with a sense of urgency; the optimal time to initiate and/or optimize therapy is
+during hospitalization for heart failure with reduced ejection fraction.
+Kidney Disease
+Kidney Diseases Improving Global Outcomes (KDIGO) 2024 guidelines for the
+clinical evaluation and management of CKD recommend treating patients with type
+2 diabetes, CKD, and an estimated glomerular filtration rate (eGFR) ≥ 20
+mL/min/1.73 m2 with an SGLT-2 inhibitor.13 Once initiated, it is reasonable to
+continue the agent, even if the eGFR falls to < 20 mL/min/1.73 m2.
+8 Pages - Cigna National Formulary Coverage - Policy: Diabetes – Sodium Glucose Co-Transporter-2 Inhibitors
+Step Therapy Policy
+In patients with diabetes and chronic kidney disease, the KDIGO guidelines for
+diabetes management in CKD (2022) recommend first-line pharmacotherapy with
+metformin and an SGLT-2 inhibitor with documented kidney or CV benefit
+(Invokana, dapagliflozin, and Jardiance).7
+Peripheral Arterial Disease (PAD)
+According to the Guideline for the Management of Lower Extremity PAD from the
+ACC/American Heart Association/American Association of Cardiovascular and
+Pulmonary Rehabilitation/American Podiatric Medical Association/Association of
+Black Cardiologists/Society for Cardiovascular Angiography and
+Interventions/Society for Vascular Medicine, Society for Vascular Nursing/Society
+for Vascular Surgery/Society of Interventional Radiology, and Vascular &
+Endovascular Surgery Society (2024), SGLT-2 inhibitors (dapagliflozin, Invokana,
+and Jardiance) and some GLP-1 agonists are noted to be effective to reduce the risk
+of MACE in patients with type 2 diabetes and PAD.14
+POLICY STATEMENT
+This program has been developed to encourage the use of a Step 1 Product prior to
+the use of a Step 2 Product, and the use of a Step 2 Product prior to the use of a
+Step 3 Product. If the Step Therapy rule is not met for a Step 2 or Step 3 Product
+at the point of service, coverage will be determined by the Step Therapy criteria
+below. All approvals are provided for 1 year in duration.
+• Requests for a Step 2 Product: A patient with a history of one of the
+following within the 130-day look-back period is excluded from Step Therapy:
+o One Step 1 Product; OR
+o One of the following metformin-containing products: Glumetza ER,
+Riomet, metformin oral solution, metformin extended-release
+(generics to Fortamet ER and Glumetza ER), glyburide/metformin,
+glipizide/metformin, Actoplus Met, pioglitazone/metformin, Kazano,
+alogliptin/metformin, Jentadueto, Jentadueto XR, Kombiglyze XR,
+saxagliptin/metformin extended-release, Janumet, Janumet XR,
+sitagliptin/metformin (authorized generic to Zituvimet), Zituvimet,
+Zituvimet XR; OR
+o One Step 2 Product; OR
+o One Step 3 Product.
+• Requests for a Step 3 Product: A patient with a history of one Step 2
+Product within the 130-day look-back period is excluded from Step Therapy.
+Step 1: generic metformin, generic metformin-extended release (generic to
+Glucophage XR only)
+Step 2: Farxiga, Jardiance, Synjardy, Synjardy XR, Xigduo XR
+Step 3: Brenzavvy, bexagliflozin, Invokana, Invokamet, Invokamet XR,
+dapagliflozin (authorized generic to Farxiga), dapagliflozin/metformin
+8 Pages - Cigna National Formulary Coverage - Policy: Diabetes – Sodium Glucose Co-Transporter-2 Inhibitors
+Step Therapy Policy
+extended-release (authorized generic to Xigduo XR), Segluromet,
+Steglatro
+Diabetes – Sodium Glucose Co-Transporter-2 Inhibitors Step Therapy
+Policy product(s) is(are) covered as medically necessary when the
+following step therapy criteria is(are) met. Any other exception is
+considered not medically necessary.
+CRITERIA
+Step 2 Products
+1. If the patient has tried one Step 1 Product, approve a Step 2 Product.
+Note: A trial of one of the following metformin-containing products also satisfies
+the requirement: Fortamet ER (obsolete), Glucophage (obsolete), Glucophage
+XR (obsolete), Glumetza ER, Riomet, metformin oral solution, Riomet ER
+(obsolete), metformin extended-release (generics to Fortamet ER and Glumetza
+ER), glyburide/metformin, glipizide/metformin, Actoplus Met,
+pioglitazone/metformin, Actoplus Met XR (obsolete), repaglinide/metformin
+(obsolete), Kazano, alogliptin/metformin, Jentadueto, Jentadueto XR,
+Kombiglyze XR, saxagliptin/metformin extended-release, Janumet, Janumet XR,
+sitagliptin/metformin (authorized generic to Zituvimet), Zituvimet, Zituvimet XR.
+2. If the patient has tried one Step 2 Product, approve the requested Step 2
+Product.
+3. If the patient has tried one Step 3 Product, approve the requested Step 2
+Product.
+4. If the patient will be initiating dual therapy with metformin AND Farxiga or
+Jardiance, approve Farxiga or Jardiance.
+5. If the patient has a contraindication to metformin, according to the prescriber,
+approve Farxiga, or Jardiance.
+Note: Examples of contraindications to metformin include acute or chronic
+metabolic acidosis, including diabetic ketoacidosis.
+6. If the patient has heart failure, approve Farxiga or Jardiance.
+7. If the patient has chronic kidney disease, approve Farxiga or Jardiance.
+8. If the patient has atherosclerotic cardiovascular disease or, according to the
+prescriber, the patient has at least two risk factors for cardiovascular disease,
+approve Farxiga or Jardiance.
+9. If the patient has type 2 diabetes AND peripheral arterial disease, approve
+Farxiga or Jardiance.
+8 Pages - Cigna National Formulary Coverage - Policy: Diabetes – Sodium Glucose Co-Transporter-2 Inhibitors
+Step Therapy Policy
+Step 3 Products
+1. If the patient has tried one Step 2 Product, approve a Step 3 Product.
+Note: A trial of a Step 1 Product is required prior to a Step 2 Product, unless
+exception criteria are met.
+REFERENCES
+1. Farxiga® tablets [prescribing information]. Wilmington, DE: AstraZeneca; October 2024.
+2. Invokana® tablets [prescribing information]. Titusville, NJ: Janssen; December 2024.
+3. Jardiance® tablets [prescribing information]. Ridgefield, CT and Indianapolis, IN: Boehringer
+Ingelheim/Lilly; September 2023.
+4. Steglatro® tablets [prescribing information]. Whitehouse Station, NJ: Merck; December 2024.
+5. American Diabetes Association. Standards of care in diabetes – 2025. Diabetes Care.
+2025;48(Suppl 1):S1-S359.
+6. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA guideline for the management
+of heart failure: a report of the American College of Cardiology/American Heart Association Joint
+Committee on Clinical Practice Guidelines. Circulation. 2022;145(8):e153-e639.
+7. Boer IH, Khunti K, Sadusky T, et al. Diabetes management in chronic kidney disease: a
+consensus report by the American Diabetes Association (ADA) and Kidney Disease: Improving
+Global Outcomes (KDIGO). Kidney International. 2022;102:974-989.
+8. The EMPA-KIDNEY Collaborative group. Empagliflozin in patients with Chronic Kidney Disease. N
+Engl J Med. 2023; 388:117-127.
+9. Solomon SD, McMurray JJV, Claggett B, et al.; DELIVER Trial Committees and Investigators.
+Dapagliflozin in Heart Failure with Mildly Reduced or Preserved Ejection Fraction. N Engl J Med.
+2022;387(12):1089-109.
+10. Kittleson MM, Panjrath GS, Amancherla K, et al. 2023 ACC expert consensus decision pathway on
+management of heart failure with preserved ejection fraction. JACC. 2023;81(18):1835-1878.
+11. Brenzavvy™ tablets [prescribing information]. Marlborough, MA: TheracosBio; September 2023.
+12. Samson SL, Vellanki P, Blonde L, et al. American Association of Clinical Endocrinology consensus
+statement: comprehensive type 2 diabetes management algorithm – 2023 update. Endocr Pract.
+2023;29:305-340.
+13. Kidney Diseases Improving Global Outcomes (KDIGO). KDIGO 2024 clinical practice guideline for
+the evaluation and management of chronic kidney disease. Kidney Int. 2024;105(4S):S117-
+S314.
+14. Gornik HL, Aronow HD, Goodney PP et al. 2024
+ACC/AHA/AACVPR/APMA/ABC/SCAI/SVM/SVN/SVS/SIR/VESS guideline for the management of
+lower extremity peripheral artery disease: A report of the American College of
+Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.
+2024;149(24):e1313-e1407.
+15. Maddox TM, Januzzi JL Jr, Allen LA, et al. 2024 ACC expert consensus decision pathway for
+treatment of heart failure with reduced ejection fraction: a report of the American College of
+Cardiology Solution Set Oversight Committee. J Am Coll Cardiol. 2024;3(15):1444-1488.
+16. McDonagh TA, Metra M, Adamo M, et al; and the ESC Scientific Document Group. 2023 Focused
+Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart
+failure. Eur Heart J. 2023;44(37):3627-3639.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Automation: The following products were removed from the 05/03/2023
+Revision automation (obsolete): Glucophage, Glucophage XR,
+8 Pages - Cigna National Formulary Coverage - Policy: Diabetes – Sodium Glucose Co-Transporter-2 Inhibitors
+Step Therapy Policy
+repaglinide/metformin, Actoplus Met XR. Glumetza and Fortamet
+were clarified to be Glumetza ER and Fortamet ER.
+Criteria Step 2 Products: For a patient requesting a Step 2
+product, the note was updated to reflect that Glucophage,
+Glucophage XR, repaglinide/metformin, and Actoplus Met XR are
+obsolete (these still count towards a trial of a Step 1 product).
+Additionally Glumetza and Fortamet were clarified to be Glumetza
+ER and Fortamet ER.
+For a patient requesting a Step 2 product with heart failure with
+preserved ejection fraction, Farxiga was added to the agent
+approved. Previously only Jardiance was approved. For patients
+requesting a Step 2 product with chronic kidney disease, Jardiance
+was added to the agent approved. Previously, only Farxiga was
+approved.
+Update 05/09/2023: Updated indication in the overview for Farxiga to NA
+include expanded heart failure indication.
+Selected Automation: Saxagliptin/metformin extended-release (generic to 09/27/2023
+Revision Kombiglyze XR) was added to the list of metformin-containing
+products.
+Step 3 Products: Benzavvy was added to Step 3.
+Selected Step 3 Products: Dapagliflozin (authorized generic to Farxiga) 02/21/2024
+Revision and dapagliflozin/metformin extended-release (authorized generic
+to Xigduo XR) were added to Step 3.
+HISTORY (CONTINUED)
+Type of Summary of Changes Review
+Revision Date
+Annual Automation: Fortamet ER was removed from the list of 05/01/2024
+Revision metformin-containing products (obsolete).
+Criteria Step 2 Products: For a patient requesting a Step 2
+product, the note was updated to reflect that Fortamet ER is
+obsolete (this still counts towards a trial of a Step 1 product).
+Criteria for a patient with heart failure with reduced ejection
+fraction and a patient with heart failure with preserved ejection
+fraction were combined into one criterion (previously, each criterion
+approved Farxiga or Jardiance). For the new combined criterion,
+Farxiga or Jardiance is approved for a patient with heart failure.
+Update 06/13/2024: Updated indication in the overview for dapagliflozin NA
+to include expanded indication in pediatric patients.
+Selected Automation: Sitagliptin/metformin (authorized generic) was 08/07/2024
+Revision added to automation for one metformin-containing product.
+Criteria: For a patient requesting a Step 2 product, the note was
+updated to add sitagliptin/metformin (authorized generic) to the list
+of metformin-containing products.
+Selected The following changes are effective 01/01/2025: 09/18/2024
+revision Step 2 Products: Steglatro and Segluromet were removed (effective
+(moved to Step 3). 01/01/2025)
+Step 3 Products: Steglatro and Segluromet were added
+(previously, Step 2).
+Criteria for Step 2 Products: Steglatro was removed from the
+following criterion: In a patient initiating dual therapy with
+metformin AND Farxiga, Jardiance, or Steglatro, approve Farxiga,
+Jardiance, or Steglatro. The criterion continues to approve Farxiga
+or Jardiance in a patient initiating dual therapy with metformin and
+Farxiga or Jardiance.
+8 Pages - Cigna National Formulary Coverage - Policy: Diabetes – Sodium Glucose Co-Transporter-2 Inhibitors
+Step Therapy Policy
+Steglatro was removed from the following criterion: In a patient
+with a contraindication to metformin, according to the prescriber,
+approve Farxiga, or Jardiance, or Steglatro. The criterion continues
+to approve Farxiga or Jardiance in a patient with a contraindication
+to metformin, according to the prescriber.
+Selected Automation: Zituvimet and Zituvimet XR were added to 11/20/2024
+Revision automation for one metformin-containing product.
+Criteria for Step 2 Products: For a patient requesting a Step 2
+product, the note was updated to add Zituvimet and Zituvimet XR
+to the list of metformin-containing products.
+Update 01/13/2025: Updated indication in the overview for Invokana to NA
+include expanded indication in pediatric patients.
+Annual Automation: Riomet ER was removed from the list of metformin- 05/07/2025
+Revision containing products (obsolete > 3 years).
+Step 3 Products: Bexagliflozin was added to Step 3 products.
+Criteria for Step 2 Products:
+For a patient requesting a Step 2 product that has tried a Step 1
+product, the note listing metformin or metformin-containing
+products was updated to reflect that Riomet ER is obsolete (this
+still counts towards a trial of a Step 1 product).
+A new criterion was added to approve Farxiga or Jardiance if the
+patient has type 2 diabetes AND peripheral arterial disease (without
+a trial of a Step 1 product first).
+NA – Not applicable.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+8 Pages - Cigna National Formulary Coverage - Policy: Diabetes – Sodium Glucose Co-Transporter-2 Inhibitors
+Step Therapy Policy

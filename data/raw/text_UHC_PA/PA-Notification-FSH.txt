@@ -1,0 +1,199 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1038-15
+Program Prior Authorization/Notification
+Medication Follistim® AQ (follitropin beta), Gonal-f® (follitropin alfa), Gonal-f RFF®
+(follitropin alfa)*ǂ
+P&T Approval Date 5/2013, 5/2014, 8/2014, 5/2015, 5/2016, 5/2017, 5/2018, 5/2019, 6/2020,
+6/2021, 6/2022, 8/2022, 8/2023, 5/2024, 6/2025
+Effective Date 9/1/2025
+1. Background:
+The body produces two types of gonadotropins, follicle-stimulating hormone (FSH) and
+luteinizing hormone (LH), both of which play a role in fertility and human reproduction. After
+they are produced by the pituitary gland, gonadotropins trigger production of other sex hormones
+which then promote production of egg and sperm. Gonadotropins are used in the treatment of
+infertility, a disease of the reproductive system defined as one of the following:
+• inability to achieve a successful pregnancy due to an individual’s medical, sexual, or
+reproductive history;
+• failure to achieve a pregnancy after 12 months or more of regular unprotected sexual
+intercourse when the female partner is less than 35 years;
+• failure to achieve a pregnancy after 6 months or more of regular unprotected sexual
+intercourse when the female partner is 35 years or older
+Follistim AQ (follitropin beta) is indicated for induction of ovulation and pregnancy in
+anovulatory infertile women in whom the cause of infertility is functional and not due to primary
+ovarian failure. It is also indicated for pregnancy in normal ovulatory women undergoing ovarian
+stimulation as part of an in vitro fertilization (IVF) or intracytoplasmic sperm injection (ICSI)
+cycle. In males, Follistim AQ is indicated for induction of spermatogenesis in men with primary
+and secondary hypogonadotropic hypogonadism (HH) in whom the cause of infertility is not due
+to primary testicular failure.
+Gonal-f and Gonal-f RFF (follitropin alfa) are indicated for the induction of ovulation and
+pregnancy in oligo-anovulatory infertile women in whom the cause of infertility is functional and
+not due to primary ovarian failure. Gonal-f and Gonal-f RFF are also indicated for the
+development of multiple follicles in ovulatory women participating in an Assisted Reproductive
+Technology (ART) program. Gonal-f is indicated for the induction of spermatogenesis in men with
+primary and secondary hypogonadotropic hypogonadism for whom the cause of infertility is not
+due to primary testicular failure.
+The clinically appropriate dosing for FSH agents is 450 IU/day or less when used for an ART cycle,
+or 225 IU/day or less when used for ovulation induction or ovarian stimulation, for not more than 14
+days of treatment. Exceeding this daily dose and duration of treatment has not been proven to be
+efficacious in terms of pregnancy outcome.
+© 2025 UnitedHealthcare Services, Inc.
+1
+2. Coverage Criteriaa:
+A. Ovulation Induction
+1. Follistim AQ, Gonal-f, or Gonal-f RFF will be approved based on all of the following
+criteria*ǂ :
+a. Diagnosis of ovulatory dysfunction
+-AND-
+b. One of the following exists:
+(1) Anovulation
+(2) Oligo-ovulation
+(3) Amenorrhea
+-AND-
+c. Other specific causative factors (e.g., thyroid disease, hyperprolactinemia) have been
+excluded or treated
+-AND-
+d. Infertility is not due to primary ovarian failure
+-AND-
+e. For induction of ovulation
+Authorization will be issued for 2 months.§
+B. Ovarian Stimulation
+1. Follistim AQ, Gonal-f, or Gonal-f RFF will be approved based on one of the following*ǂ
+:
+a. All of the following:
+(1) Diagnosis of infertility
+-AND-
+(2) For the development of multiple follicles (controlled ovarian stimulation)
+-AND-
+(3) One of the following:
+(a) Both of the following:
+© 2025 UnitedHealthcare Services, Inc.
+2
+i. One of the following exists:
+• Diminished ovarian reserve
+• Endometriosis
+• Male factor infertility
+• Tubal factor infertility
+• Unexplained infertility
+• Uterine factor infertility
+• Ovulatory dysfunction
+• Recurrent pregnancy loss
+• Failure to achieve conception with other treatment modalities
+-AND-
+ii. Will be used in conjunction with assisted reproductive technology (ART)
+-OR-
+(b) Both of the following:
+i. One of the following exists:
+• Diminished ovarian reserve
+• Mild to moderate male factor infertility
+• Minimal to mild endometriosis
+• Unilateral tubal factor infertility
+• Unexplained infertility
+-AND-
+ii. Will be used in conjunction with intrauterine insemination (IUI)
+-OR-
+b. All of the following:
+(1) Used for fertility preservation
+-AND-
+(2) The individual will undergo gonadotoxic therapy (e.g., exposure to cytotoxic
+agents, invasive surgery, prolonged hormonal ovarian suppression, radiation
+therapy)
+-AND-
+(3) Will be used as part of an assisted reproductive technology (e.g., in vitro
+fertilization) procedure
+Authorization will be issued for 2 months.§
+© 2025 UnitedHealthcare Services, Inc.
+3
+C. Male Hypogonadotropic Hypogonadism
+1. Follistim AQ or Gonal-f will be approved based on all of the following criteria*ǂ :
+a. One of the following:
+(1) Diagnosis of male primary hypogonadotropic hypogonadism
+-OR-
+(2) Diagnosis of male secondary hypogonadotropic hypogonadism
+-AND-
+b. For induction of spermatogenesis
+-AND-
+c. Infertility is not due to primary testicular failure
+Authorization will be issued for 2 months.§
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits and/or Step Therapy may be in place.
+*Infertility is typically excluded from coverage for UnitedHealthcare. Please refer to member’s
+specific benefits for coverage determination.
+ǂ OptumHealth review only: Please refer to the Clinical Policy on Follicle Stimulating Hormones
+(FSH) Used in the Treatment of Infertility for state-specific requirements that may apply.
+§ OptumHealth review only: Subsequent authorizations will be reviewed according to the Infertility
+Clinical Performance Guideline.
+4. References:
+1. World Health Organization web site. https://www.who.int/health-topics/infertility#tab=tab_
+Accessed May 5, 2025.
+2. American Society for Reproductive Medicine. Definitions of infertility and recurrent pregnancy
+loss: a committee opinion. Fertil Steril 2013;Jan;99(1):63
+© 2025 UnitedHealthcare Services, Inc.
+4
+3. Follistim AQ [package insert]. Whitehouse Station, NJ: Merck & Co., Inc.; July 2023.
+4. Gonal-f [package insert]. Rockland, MA: EMD Serono, Inc.; December 2020.
+5. Gonal-f RFF [package insert]. Rockland, MA: EMD Serono, Inc.; November 2023.
+6. Muasher SJ. Use of gonadotrophin-releasing hormone agonists in controlled ovarian
+hyperstimulation for in vitro fertilization. Clin Ther 1992;14(Suppl A):74-86.
+7. Ferraretti A, Marca A, Fauser B, et al. ESHRE consensus on the definition of ‘poor response’ to
+ovarian stimulation for in vitro fertilization: the Bologna criteria. Human Reprod 2011; 26:
+1616-24.
+8. Andoh K, Mizunuma H, Liu X, et al. A comparative study of fixed-dose, stepdown, and low-
+dose step-up regimens of human menopausal gonadotropin for patients with polycystic ovary
+syndrome. Fertil Steril m1998: 70; 840-846.
+9. Pal L, Jindal S, Witt B, Santoro N. Less is more: increased gonadotropin use for ovarian
+stimulation adversely influences clinical pregnancy and live birth after in vitro fertilization.
+Fertil Steril 2008;89:1694-701.
+10. Fauser B, Nargund G, Anderson A, et al. Mild ovarian stimulation for IVF: 10 years later.
+Human Reprod 2010; 25: 2678-84.
+11. Baart E, Martini E, Eijkemans M, et al. Milder ovarian stimulation for in-vitro fertilization
+reduces aneuploidy in the human preimplantation embryo: a randomized controlled trial.
+Human Reprod 2007; 22: 980-8.
+12. Sunkara S, Rittenberg V, Raine-Fenning N, et al. Association between the number of eggs and
+live birth in IVF treatment: an analysis of 400,135 treatment cycles. Human Reprod 2011; 26:
+1768-74.
+13. The Practice Committee of the American Society for Reproductive Medicine. Use of
+exogenous gonadotropins in anovulatory women: a technical bulletin. Fertil Steril 2008;90:S7–
+12.
+14. Practice Committee of the American Society for Reproductive Medicine. Electronic address:
+asrm@asrm.org. Definitions of infertility and recurrent pregnancy loss: a committee opinion.
+Fertil Steril. 2020;113(3):533-535. doi:10.1016/j.fertnstert.2019.11.025
+Program Prior Authorization/Notification – Follistim AQ (follitropin beta),
+Gonal-f (follitropin alfa), Gonal-f RFF (follitropin alfa)
+Change Control
+5/2014 Annual review. No change to the criteria. Updated references.
+8/2014 Separated Gonadotropin Notification into individual documents.
+Revised criteria for controlled ovarian stimulation and ovulation
+induction. Updated background and references.
+5/2015 Updated background and references.
+5/2016 Annual review. Updated criteria for controlled ovarian stimulation.
+Updated background and references.
+5/2017 Annual review. No changes to criteria. Updated references.
+5/2018 Annual review. No changes to criteria. Updated references.
+5/2019 Annual review. No changes to coverage criteria. Updated references.
+6/2020 Annual review. Removed Bravelle (off market). Updated references.
+6/2021 Annual review. No changes to criteria. Updated references.
+6/2022 Annual review. Updated references.
+8/2022 Removed coverage for Gonal-f RFF for hypogonadotropic
+hypogonadism as this brand formulation is not approved by the FDA
+for this indication.
+8/2023 Annual review. Clarified that criteria for induction of spermatogenesis
+are specific to male hypogonadotropic hypogonadism. Removed broken
+© 2025 UnitedHealthcare Services, Inc.
+5
+hyperlink to Infertility Clinical Performance Guideline. Updated
+background, added state mandate, and updated references.
+5/2024 Added coverage criteria for fertility preservation for iatrogenic
+infertility. Updated term "controlled ovarian stimulation” to “ovarian
+stimulation”.
+6/2025 Updated coverage criteria for fertility preservation for iatrogenic
+infertility to include additional examples of gonadotoxic therapy such
+as prolonged hormonal ovarian suppression. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+6

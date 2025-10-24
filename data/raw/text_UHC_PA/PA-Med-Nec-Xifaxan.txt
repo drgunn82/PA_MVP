@@ -1,0 +1,144 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2030-15
+Program Prior Authorization/Medical Necessity
+Medication Xifaxan® (rifaximin)
+P&T Approval Date 8/2014, 7/2015, 10/2015, 10/2016, 10/2017, 4/2018, 4/2019, 4/2020,
+4/2021, 04/2022, 7/2022, 7/2023, 7/2024
+Effective Date 10/1/2024
+1. Background:
+Xifaxan is an antibacterial agent indicated for the treatment of travelers’ diarrhea caused by
+noninvasive strains of Escherichia coli in patients 12 years of age and older, for the risk
+reduction of hepatic encephalopathy recurrence in adults and for the treatment of irritable
+bowel syndrome with diarrhea (IBS-D). There is limited data to support the off label use of
+Xifaxan for the treatment of inflammatory bowel disease.
+This program requires a member to try a lower cost alternative before providing coverage for
+Xifaxan. Members utilizing Xifaxan 200 mg for Travelers’ Diarrhea will automatically be
+approved if prescribed for a one-time dose of 9 tablets.
+2. Coverage Criteriaa:
+A. Travelers’ Diarrhea
+1. Authorization
+a. Xifaxan will be approved based on both of the following criteria:
+(1) Travelers’ diarrhea
+-AND-
+(2) History of failure, contraindication or intolerance to one of the following:
+(a) Azithromycin (generic Zithromax)
+(b) Ciprofloxacin (generic Cipro)
+(c) Levofloxacin (generic Levaquin)
+(d) Ofloxacin (generic Floxin)
+Authorization will be issued for one month
+B. Hepatic Encephalopathy
+1. Initial Authorization
+a. Xifaxan will be approved based on both of the following criteria:
+(1) Hepatic Encephalopathy
+© 2024 UnitedHealthcare Services Inc.
+1
+-AND-
+(2) One of the following
+(a) Both of the following:
+i. Used as add-on therapy to lactulose
+-AND-
+ii Patient is unable to achieve an optimal clinical response with lactulose
+monotherapy
+-OR-
+(b) History of contraindication or intolerance to lactulose
+Authorization will be issued for 12 months
+2. Reauthorization
+a. Xifaxan will be approved based on the following criterion:
+(1) Documentation of positive clinical response to Xifaxan therapy
+Authorization will be issued for 12 months
+C. Irritable Bowel Syndrome with diarrhea (IBS-D)
+1. Initial Authorization
+a. Xifaxan will be approved based on all of the following criteria:
+(1) Diagnosis of IBS-D
+-AND-
+(2) History of failure, contraindication or intolerance to a tricyclic antidepressant
+(e.g. amitriptyline)
+-AND-
+(3) One of the following:
+a) History of failure, contraindication or intolerance to Viberzi
+-OR-
+b) History of or potential for a substance abuse disorder
+© 2024 UnitedHealthcare Services Inc.
+2
+Authorization will be issued for 14 days
+2. Reauthorization
+a. Xifaxan will be approved based on all of the following criteria:
+(1) Patient has experienced a recurrence of IBS-D after a prior 14 day course of
+therapy with Xifaxan
+(2) Patient has had a treatment-free period between courses of therapy
+(3) Patient has not already received 3 treatment courses of Xifaxan for IBS-D in the
+previous 6 months
+Authorization will be issued for 14 days
+D. Inflammatory Bowel Disease (e.g. Crohn’s Disease, Ulcerative Colitis, Diverticulitis)
+(Off Label)
+1. Initial Authorization
+a. Xifaxan will be approved based on both of the following criteria:
+(1) Diagnosis of Inflammatory Bowel Disease
+-AND-
+(2) History of failure, contraindication or intolerance to both of the following:
+(a) Ciprofloxacin (generic Cipro)
+(b) Metronidazole (generic Flagyl)
+Authorization will be issued for 12 months
+2. Reauthorization
+a. Xifaxan will be approved based on the following criterion:
+(1) Documentation of positive clinical response to Xifaxan therapy
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+© 2024 UnitedHealthcare Services Inc.
+3
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may apply
+4. References:
+1. Xifaxan [package insert]. Bridgewater, NJ: Bausch Health US, LLC; October 2023.
+2. Prantera C , Lochs H , Grimaldi M et al. Rifaximin-extended intestinal release induces
+remission in patients with moderately active Crohn's disease . Gastroenterology 2012 ;
+142 : 473 – 81 . e4
+3. LaRocque, R. Travelers’s diarrhea: Treatment and prevention. In:UpToDate, Calderwood, SB
+(Ed), UpToDate. Waltham, MA. (Accessed on May 2023).
+4. Pimentel H, Lembo A, Chey W, et al: Rifaximin therapy for patients with Irritable Bowel
+Syndrome without constipation. N Engl J Med 2011; 364(1):22-32
+5. Lacey, BE, Pimentel, M, Brenner, DM, et. al. ACG Clinical Guideline: Management of Irritable
+Bowel Syndrome. Am J Gastroenterol. 2021; 116 (1): 17-44.
+6. AGA Clinical Practice Guideline on the Pharmacological Management of Irritable Bowel
+Syndrome With Diarrhea. Gastroenterology. 2022.
+7. Vilstrup H, Amodio P, Bajaj J, et al. Hepatic encephalopathy in chronic liver disease: 2014
+Practice Guideline by the American Association for the Study of Liver Diseases and the European
+Association for the Study of the Liver. Hepatology. 2014;60:715-735.
+8. ACG Clinical Guideline: Small Intestinal Bacterial Overgrowth. Am J Gastroenterol. 2020; 115:
+165-78.
+Program Prior Authorization/Medical Necessity – Xifaxin
+Change Control
+Date Change
+8/2014 New program.
+9/2014 Administrative change - Tried/Failed exemption for State of New Jersey
+removed.
+7/2015 Annual Review. Added irritable bowel syndrome with diarrhea (IBS-
+D)
+10/2015 Updated Step 1 agents for IBS-D. Updated references.
+7/2016 Added Indiana and West Virginia coverage information.
+10/2016 Updated Step 1 agents for IBS-D. Updated references.
+11/2016 Added California coverage information.
+10/2017 Annual review. Updated background and state mandate information.
+References updated.
+4/2018 Updated criteria for hepatic encephalopathy. Updated references.
+8/2018 Administrative update due to correct typo.
+4/2019 Annual review. Added statement regarding use of automated processes
+and updated references.
+4/2020 Annual review. Updated references.
+4/2021 Annual review. Removed antispasmodic and antidiarrheal agent as a
+step 1 option for IBS-D based on updated ACG guidelines. Added
+reauthorization for hepatic encephalopathy. Updated references.
+© 2024 UnitedHealthcare Services Inc.
+4
+4/2022 Annual review. No changes.
+7/2022 Added step requirement of Viberzi for IBS-D.
+7/2023 Annual review. Updated references.
+7/2024 Annual review. Updated references.
+© 2024 UnitedHealthcare Services Inc.
+5

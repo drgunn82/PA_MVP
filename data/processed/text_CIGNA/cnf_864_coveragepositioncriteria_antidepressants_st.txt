@@ -1,0 +1,369 @@
+STEP THERAPY POLICY
+POLICY: Antidepressants Step Therapy Policy
+Generic
+Medications Manufacturer
+Availability
+Bupropion Medications
+Aplenzin® (bupropion hydrobromide extended-release tablets) Bausch Health
+Auvelity® (dextromethorphan hydrobromide and bupropion Axsome
+hydrochloride extended-release tablets)
+Bupropion XL tablets (brand products, authorized generic to various
+Forfivo XL)
+Forfivo XL (bupropion hydrochloride extended-release tablets) Almatica
+Wellbutrin SR (bupropion hydrochloride sustained-release GlaxoSmithKline X
+tablets)
+Wellbutrin XL® (bupropion hydrochloride extended-release Bausch Health X
+tablets)
+Selective Serotonin Reuptake Inhibitor Medications
+Celexa (citalopram tablets and oral solution) AbbVie X
+Citalopram capsules (brand product) Almatica
+Fluoxetine capsules (generic to discontinued Sarafem® capsules) X
+Fluoxetine delayed-release capsules (generic to discontinued X
+Prozac® Weekly™)
+Fluoxetine tablets (generic only) X
+Fluvoxamine extended-release capsules (generic only) X
+Fluvoxamine tablets (generic only) X
+Lexapro (escitalopram tablets and oral solution) AbbVie X
+Paroxetine mesylate 7.5 mg capsules (generic to discontinued X
+Brisdelle®)
+Paxil (paroxetine hydrochloride tablets and oral suspension) Apotex X
+Paxil CR® (paroxetine hydrochloride controlled-release tablets) Apotex X
+Pexeva® (paroxetine mesylate tablets) [discontinued 5/2023] Sebela
+Prozac (fluoxetine capsules, tablets, and oral solution) Lilly X
+Sertraline capsules Almatica/Viking
+Trintellix® (vortioxetine tablets) Takeda
+Viibryd® (vilazodone hydrochloride tablets) AbbVie X
+Zoloft (sertraline tablets and oral solution) Viatris X
+Serotonin and Norepinephrine Reuptake Inhibitor Medications
+Cymbalta® (duloxetine delayed-release capsules) Lilly X
+Desvenlafaxine extended-release tablets (brand product) Alembic
+/Ranbaxy
+Drizalma Sprinkle™ (duloxetine delayed-release capsules) Sun
+Effexor XR® (venlafaxine extended-release capsules) Wyeth X
+Fetzima™ (levomilnacipran extended-release capsules) Forest
+Pristiq® (desvenlafaxine succinate extended-release tablets) Wyeth X
+Savella® (milnacipran tablets) Forest
+Venlafaxine besylate extended-release tablets (brand product) Almatica
+Venlafaxine HCl immediate-release tablets (generic only) X
+Venlafaxine HCl extended-release tablets (generic only) X
+REVIEW DATE: 05/21/2025
+Page 1 of 8 - Cigna National Formulary Coverage - Policy: Antidepressants Step Therapy Policy
+INSTRUCTIONS FOR USE
+The following Coverage Policy applies to health benefit plans administered by Cigna Companies. Certain Cigna
+Companies and/or lines of business only provide utilization review services to clients and do not make coverage
+determinations. References to standard benefit plan language and coverage determinations do not apply to those
+clients. Coverage Policies are intended to provide guidance in interpreting certain standard benefit plans administered
+by Cigna Companies. Please note, the terms of a customer's particular benefit plan document [Group Service
+Agreement, Evidence of Coverage, Certificate of Coverage, Summary Plan Description (SPD) or similar plan
+document] may differ significantly from the standard benefit plans upon which these Coverage Policies are based.
+For example, a customer's benefit plan document may contain a specific exclusion related to a topic addressed in a
+Coverage Policy. In the event of a conflict, a customer's benefit plan document always supersedes the information in
+the Coverage Policies. In the absence of a controlling federal or state coverage mandate, benefits are ultimately
+determined by the terms of the applicable benefit plan document. Coverage determinations in each specific instance
+require consideration of 1) the terms of the applicable benefit plan document in effect on the date of service; 2) any
+applicable laws/regulations; 3) any relevant collateral source materials including Coverage Policies and; 4) the
+specific facts of the particular situation. Each coverage request should be reviewed on its own merits. Medical
+directors are expected to exercise clinical judgment where appropriate and have discretion in making individual
+coverage determinations. Where coverage for care or services does not depend on specific circumstances,
+reimbursement will only be provided if a requested service(s) is submitted in accordance with the relevant criteria
+outlined in the applicable Coverage Policy, including covered diagnosis and/or procedure code(s). Reimbursement is
+not allowed for services when billed for conditions or diagnoses that are not covered under this Coverage Policy (see
+"Coding Information" below). When billing, providers must use the most appropriate codes as of the effective date
+of the submission. Claims submitted for services that are not accompanied by covered code(s) under the applicable
+Coverage Policy will be denied as not covered. Coverage Policies relate exclusively to the administration of health
+benefit plans. Coverage Policies are not recommendations for treatment and should never be used as treatment
+guidelines. In certain markets, delegated vendor guidelines may be used to support medical necessity and other
+coverage determinations.
+Cigna National Formulary Coverage:
+OVERVIEW
+Bupropion Products Aplenzin, Auvelity, Forfivo XL (authorized generics),
+bupropion hydrochloride (HCl) sustained-release (SR) tablets, and bupropion HCl
+extended-release (ER) tablets are indicated for the treatment of depression.1-5
+Bupropion HCl ER tablets and Aplenzin are also indicated for the prevention of
+seasonal major depressive episodes in patients with seasonal affective disorder.2,3
+Table 1 lists the available bupropion-containing products.
+Table 1. Available Long-Acting Bupropion-Containing Products.1-5
+Brand / Generic Formulation Strengths Notes
+name
+Aplenzin® (bupropion ER tablets 174, 348, 522 Strengths are equivalent to 150, 300, and
+HBr) mg 450 mg of bupropion HCl, respectively.
+Auvelity™ ER tablets 45 mg/105 Bupropion increases plasma levels of
+(dextromethorphan mg dextromethorphan by competitively
+HBr and bupropion inhibiting CYP2D6, which catalyzes a
+HCl) major biotransformation pathway for
+dextromethorphan.
+Forfivo XL (bupropion ER tablets 450 mg Use another bupropion formulation for
+HCl), authorized initial dose titration. Patients being
+generics treated with other bupropion products at
+450 mg/day can be switched to equivalent
+dose of Forfivo XL once daily.
+Wellbutrin SR SR tablets 100, 150, 200 Available generically.
+(bupropion HCl), mg
+generic
+8 Pages - Cigna National Formulary Coverage - Policy: Antidepressants Step Therapy Policy
+Wellbutrin XL® ER tablets 150, 300 mg Available generically.
+(bupropion HCl),
+generic
+HBr – Hydrobromide; HCl – Hydrochloride; ER – Extended-release; CYP – Cytochrome P450; SR –
+Sustained-release.
+Aplenzin contains bupropion hydrobromide (HBr). Of note, 174 mg/day of
+bupropion HBr is equivalent to 150 mg/day of bupropion HCl.3 Therefore, when
+switching patients from bupropion HCl SR or ER tablets to Aplenzin (or vice versa),
+it is possible to give equivalent daily doses. Aplenzin is bioequivalent to bupropion
+HCl ER tablets, which has been demonstrated to have similar bioavailability to both
+the immediate-release and the SR formulations of bupropion. Forfivo XL
+(authorized generics) is available as 450 mg ER tablets, while the other bupropion
+HCl ER tablets are available as 150 mg or 300 mg.2,4
+Auvelity contains a combination of dextromethorphan HBr, an uncompetitive N-
+methyl D-aspartate (NMDA) receptor antagonist and sigma-1 receptor agonist, and
+bupropion HCl, an aminoketone and cytochrome P450 (CYP)2D6 inhibitor.5 Each
+tablet contains 45 mg dextromethorphan HBr (equivalent to 32.98 mg
+dextromethorphan base) in an immediate-release formulation and 105 mg
+bupropion HCl (equivalent to 91.14 mg bupropion base) in an ER formulation.
+Zyban (bupropion HCl SR, generic only) contains the same active ingredient as
+bupropion HCl SR and ER tablets and Forfivo XL (authorized generics); however,
+Zyban is indicated as an aid to smoking cessation treatment.6 Because of the
+different indication for use, Zyban is not included in this policy.
+Selective Serotonin Reuptake Inhibitor (SSRI) Products
+The SSRIs comprise a pharmacologic class of agents with antidepressant action and
+efficacy in the treatment of a wide range of mood and anxiety disorders (see Table
+2).7-21
+Table 2. FDA-Approved Indications for the SSRIs.7-21
+Brand (generic) MDD OC Panic Bulimi PTS SA GA PMD VM
+D Disord a D D D D S
+er Nervo
+sa
+Celexa® (citalopram tablets X
+and oral solution, generic)
+and citalopram capsules
+Fluoxetine delayed-release X*
+capsules (generic to Prozac®
+Weekly™)
+Fluoxetine capsules and X
+tablets (generic to
+Sarafem®)
+8 Pages - Cigna National Formulary Coverage - Policy: Antidepressants Step Therapy Policy
+Table 2 (continued). FDA-Approved Indications for the SSRIs.7-21
+Brand (generic) MDD OC Panic Bulimi PTS SA GA PMD VM
+D Disord a D D D D S
+er Nervo
+sa
+Fluvoxamine extended- X† X
+release capsules (generic
+only)
+Fluvoxamine (generic only) X†
+Lexapro® (escitalopram Xα X^
+tablets and oral solution,
+generic)
+Paroxetine mesylate 7.5 mg X
+capsules (generic to
+Brisdelle®)
+Paxil® (paroxetine HCl tablets X X X X X X
+and oral suspension, generic)
+Paxil CR® (paroxetine HCl X X X X
+controlled-release tablets,
+generic)
+Pexeva® (paroxetine mesylate X X X X
+tablets)
+Prozac® (fluoxetine capsules, X† X† X X
+tablets, and oral solution,
+generic)
+Sertraline capsules X X†
+Trintellix™ (vortioxetine X
+tablets)
+Viibryd® (vilazodone tablets, X
+generic)
+Zoloft® (sertraline tablets and X X† X X X X
+oral suspension, generic)
+SSRIs – Selective serotonin reuptake inhibitors; MDD – Major depressive disorder; OCD – Obsessive
+compulsive disorder; PTSD – Posttraumatic stress disorder; SAD – Social anxiety disorder; GAD –
+Generalized anxiety disorder; PMDD – Premenstrual dysphoric disorder; VMS – Vasomotor symptoms; *
+Approved for the prevention of relapse during the continuation treatment phase of depression; † FDA-
+approved indication includes children and adolescents; α FDA-approved indication includes adolescents 12
+to 17 years of age; ^ FDA-approved indication includes children and adolescents 7 to 17 years of age; CR
+– Controlled release; HCl – Hydrochloride.
+Serotonin and Norepinephrine Reuptake Inhibitor (SNRI) Products
+Desvenlafaxine, duloxetine, Fetzima, and venlafaxine are SNRIs indicated for the
+treatment of depression.22-31 Additional indications vary by product. Table 3
+provides the approved indications for the available SSRIs. While Savella is
+approved outside the US for major depressive disorder (MDD), it is not in
+development for this indication in the US.
+A venlafaxine hydrochloride (HCl) extended-release tablet formulation and a
+venlafaxine besylate extended-release tablet are also available.26,27 These
+formulations do not carry the same indications as the capsule formulation (Effexor
+XR, generic). Venlafaxine HCl extended-release tablets are indicated for MDD and
+social anxiety disorder.26 Equal doses of venlafaxine HCl extended-release tablets
+are bioequivalent to venlafaxine extended-release capsules (Effexor XR, generic)
+when administered under fed conditions; however, these products are not AB-rated
+8 Pages - Cigna National Formulary Coverage - Policy: Antidepressants Step Therapy Policy
+to each other. Venlafaxine besylate extended-release tablets are indicated for MDD
+and GAD, and they are only available in a 112.5 mg strength.27 Venlafaxine
+besylate extended-release tablets cannot be used to initiate venlafaxine treatment,
+titrate by doses less than 112.5 mg, or taper treatment.
+Similarly, in addition to desvenlafaxine succinate extended-release tablets (Pristiq,
+generic), branded Desvenlafaxine is available.25,29 Desvenlafaxine and
+desvenlafaxine succinate are available in the same strength extended-release
+tablets, and share the same indication (treatment of MDD). Desvenlafaxine,
+Desvenlafaxine fumarate (discontinued), and desvenlafaxine succinate are not AB-
+rated to each other. However, efficacy studies conducted with desvenlafaxine
+succinate are cited in the Desvenlafaxine product information. Drizalma Sprinkle
+relied on clinical efficacy studies for Cymbalta for approval and has the same
+indications as Cymbalta with the exception of a fibromyalgia indication.22,30
+Table 3. FDA-Approved Indications for the SNRIs in Adults.22-31
+Brand (generic) MDD GA SA Panic DP Chronic Fibro-
+D D Disord N Musculoskel myalg
+er Pai etal Pain ia
+n
+Cymbalta® (duloxetine X X^ X X X*
+delayed-release capsules,
+generic)
+Desvenlafaxine extended- X
+release tablets (Brand product)
+Drizalma Sprinkle™ (duloxetine X X^ X X
+delayed-release capsules)
+Effexor XR® (venlafaxine X X X X
+extended-release capsules,
+generic)
+Fetzima™ (levomilnacipran X
+extended-release capsules)
+Pristiq® (desvenlafaxine X
+succinate extended-release
+tablets, generic)
+Savella® (milnacipran tablets) X
+Venlafaxine besylate extended- X X
+release tablets (brand product)
+Venlafaxine HCl immediate- X
+release tablets (generic only)
+Venlafaxine HCl extended- X X
+release tablets (generic)
+SNRI – Serotonin norepinephrine reuptake inhibitor; MDD – Major depressive disorder; GAD –
+Generalized anxiety disorder; SAD – Social anxiety disorder; DPN – Diabetic peripheral neuropathy; ^
+Efficacy studied in patients > 7 years of age with GAD; * Approved for use in patients ≥ 13 years of age;
+HCl – Hydrochloride.
+POLICY STATEMENT
+This program has been developed to encourage the use of one Step 1 Product
+(Standard Criteria) or two Step 1 Products (High Impact Criteria) prior to the use of
+a Step 2 Product in adults. If the Step Therapy rule is not met for a Step 2 Product
+8 Pages - Cigna National Formulary Coverage - Policy: Antidepressants Step Therapy Policy
+at the point of service, coverage will be determined by the Step Therapy criteria
+below. All approvals are provided for 1 year in duration.
+Step 1: generic bupropion extended-release tablets, generic bupropion sustained-
+release tablets, generic citalopram oral solution, generic citalopram
+tablets, generic duloxetine delayed-release (20 mg, 30 mg, 60 mg)
+capsules, generic escitalopram tablets, generic fluoxetine immediate-
+release capsules, generic fluoxetine oral solution, generic fluvoxamine
+immediate-release tablets, generic paroxetine HCl immediate-release
+tablets, generic sertraline oral solution, generic sertraline tablets, generic
+venlafaxine extended-release capsules, generic venlafaxine immediate-
+release tablets
+Step 2: Aplenzin, Auvelity, Bupropion XL tablets (authorized generics to Forfivo
+XL), Celexa, Citalopram capsules (brand), Cymbalta, Desvenlafaxine
+extended-release tablets (brand), generic desvenlafaxine succinate
+extended-release tablets, generic duloxetine 40 mg delayed-release
+capsules, Drizalma Sprinkle, Effexor XR, generic escitalopram oral
+solution, Fetzima, generic fluoxetine delayed-release 90 mg capsule,
+generic fluoxetine immediate-release tablets, generic fluvoxamine
+extended-release capsules, Forfivo XL, Lexapro, Paxil, Paxil CR, generic
+paroxetine HCl controlled-release (CR)/extended-release (ER) tablets,
+generic paroxetine HCl oral suspension, generic paroxetine mesylate
+capsules, Pexeva, Pristiq, Prozac, Sarafem, Savella, Sertraline capsules
+(brand), Trintellix, Venlafaxine besylate extended-release tablets (brand),
+generic venlafaxine HCl extended-release tablets, generic vilazodone
+hydrochloride tablets, Viibryd, Wellbutrin SR, Wellbutrin XL, Zoloft
+Antidepressants Step Therapy Policy product(s) is(are) covered as
+medically necessary when the following step therapy criteria is(are) met.
+Any other exception is considered not medically necessary.
+STANDARD CRITERIA
+1. If the patient has tried one Step 1 Product, approve a Step 2 Product.
+2. If the patient is currently taking or has taken Desvenlafaxine extended-release
+tablets (brand product), desvenlafaxine succinate extended-release tablets
+(Pristiq or generics), Fetzima, Pexeva, vilazodone hydrochloride tablets (Viibryd
+or generics), or Trintellix at any time in the past and discontinued its use,
+approve the Product that they have used.
+3. If the patient cannot swallow or has difficulty swallowing tablets or capsules,
+approve generic escitalopram oral solution or generic paroxetine HCl oral
+suspension.
+8 Pages - Cigna National Formulary Coverage - Policy: Antidepressants Step Therapy Policy
+4. If the patient has suicidal ideation, approve Desvenlafaxine extended-release
+tablets (brand product), desvenlafaxine succinate extended-release tablets
+(Pristiq or generics), Fetzima, Pexeva, vilazodone hydrochloride tablets (Viibryd
+or generics), or Trintellix.
+HIGH IMPACT CRITERIA
+1. If the patient has tried two Step 1 Products, approve a Step 2 Product.
+2. If the patient is currently taking or has taken Desvenlafaxine extended-release
+tablets (brand product), desvenlafaxine succinate extended-release tablets
+(Pristiq or generics), Fetzima, Pexeva, vilazodone hydrochloride tablets (Viibryd
+or generics), or Trintellix at any time in the past and discontinued its use,
+approve the Product that they have used.
+3. If the patient cannot swallow or has difficulty swallowing tablets or capsules,
+approve generic escitalopram oral solution or generic paroxetine HCl oral
+suspension.
+4. If the patient has suicidal ideation, approve Desvenlafaxine extended-release
+tablets (brand product), desvenlafaxine succinate extended-release tablets
+(Pristiq or generics), Fetzima, Pexeva, vilazodone hydrochloride tablets (Viibryd
+or generics), or Trintellix.
+REFERENCES
+1. Wellbutrin SR® sustained-release tablets [prescribing information]. Research Triangle Park, NC:
+GlaxoSmithKline; April 2024.
+2. Wellbutrin XL® extended-release tablets [prescribing information]. Bridgewater, NJ: Bausch
+Health; March 2024.
+3. Aplenzin® extended-release tablets [prescribing information]. Bridgewater, NJ: Bausch Health;
+March 2024.
+4. Forfivo XL extended-release tablets [prescribing information]. Pine Brook, NJ: Almatica; May
+2024.
+5. Auvelity® extended-release tablets [prescribing information]. New York, NY: Axsome; May 2024.
+6. Bupropion hydrochloride extended-release tablets (SR) [prescribing information]. Hauppauge, NY:
+ScieGen; May 2021.
+7. Prozac® capsules [prescribing information]. Indianapolis, IN: Lilly; August 2023.
+8. Paxil® tablets and oral suspension [prescribing information]. Weston, FL: Apotex; November
+2024.
+9. Zoloft® tablets, oral concentrate [prescribing information]. Morgantown, WV: Viatris; August
+2023.
+10. Celexa® tablets and oral solution [prescribing information]. North Chicago, IL: AbbVie; October
+2023.
+11. Paxil CR® controlled-release tablets [prescribing information]. Weston, FL: Apotex; February
+2024.
+12. Lexapro® tablets/oral solution [prescribing information]. North Chicago, IL: AbbVie; October
+2023.
+13. Pexeva® paroxetine mesylate tablets [prescribing information]. Roswell, GA: Sebela; August
+2023.
+14. Fluvoxamine maleate tablets [prescribing information]. Baudette, MN: ANI: August 2023.
+15. Fluvoxamine extended-release capsules [prescribing information]. Malvern, PA: Endo; October
+2023.
+8 Pages - Cigna National Formulary Coverage - Policy: Antidepressants Step Therapy Policy
+16. Sarafem® capsules [prescribing information]. Indianapolis, IN: Lilly; August 2023.
+17. Viibryd® tablets [prescribing information]. North Chicago, IL: AbbVie; October 2023.
+18. Trintellix® tablets [prescribing information]. Lexington, MA and Deerfield, IL: Takeda and
+Lundbeck; August 2023.
+19. Brisdelle® capsules [prescribing information]. Georgetown, Grand Cayman: Legacy Pharma;
+February 2025.
+20. Sertraline capsules [prescribing information]. Morristown, NJ: Almatica; August 2023.
+21. Citalopram capsules [prescribing information]. Morristown, NJ: Almatica; August 2023.
+22. Cymbalta® capsules [prescribing information]. Indianapolis, IN: Lilly; August 2023.
+23. Effexor XR® extended-release capsules [prescribing information]. Morgantown, WV: Viatris;
+August 2023.
+24. Venlafaxine hydrochloride tablets [prescribing information]. Parsippany, NJ: Teva; August 2023.
+25. Pristiq® extended-release tablets [prescribing information]. Philadelphia, PA: Wyeth; August
+2023.
+26. Venlafaxine extended-release tablets [prescribing information]. Cranbury, NJ: Sun; September
+2023.
+27. Venlafaxine besylate extended-release tablets [prescribing information]. Morristown, NJ:
+Almatica; August 2023.
+28. Fetzima® extended-release capsules [prescribing information]. North Chicago, IL: AbbVie; April
+2024.
+29. Desvenlafaxine extended-release tablets [prescribing information]. Cranbury, NJ: Sun; August
+2023.
+30. Drizalma Sprinkle™ delayed-release capsules [prescribing information]. Cranbury, NJ: Sun;
+August 2023.
+31. Savella® tablets [prescribing information]. Madison, NJ: Allergan; May 2024.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+New Policy Effective 07/01/2024. 05/29/2024
+Annual Brisdelle: Brand Brisdelle removed from Step 2 of the policy; 05/21/2025
+Revision obsolete for ≥ 3 years.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+8 Pages - Cigna National Formulary Coverage - Policy: Antidepressants Step Therapy Policy

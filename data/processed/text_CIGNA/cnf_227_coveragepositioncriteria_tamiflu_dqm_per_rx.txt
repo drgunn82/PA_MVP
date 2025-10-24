@@ -1,0 +1,193 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER RX
+POLICY: Anti-Influenza – Oseltamivir Drug Quantity Management Policy – Per
+Rx
+• Tamiflu® (oseltamivir capsules, powder for oral suspension −
+Genentech, generic)
+REVIEW DATE: 03/11/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Oseltamivir (Tamiflu, generic), a neuraminidase inhibitor, is indicated for the
+following uses:1
+• Treatment of influenza A and B infection, for patients with acute,
+uncomplicated illness who are ≥ 2 weeks of age and who have been
+symptomatic for ≤ 48 hours.
+• Prophylaxis of influenza A and B infection, in patients ≥ 1 year of age.
+Limitations of Use: Oseltamivir is not recommended for patients with end-stage
+renal disease not undergoing dialysis.
+Dosing
+Page 1 of 6 - Cigna National Formulary Coverage - Policy: Anti-Influenza – Oseltamivir Drug Quantity
+Management Policy – Per Rx
+Treatment1
+• Patients ≥ 13 years of age: 75 mg twice daily (BID) for 5 days.
+• Patients 2 weeks of age through 12 years of age: weight-based dose
+administered BID. Refer to the table below for weight-based dosing.
+Prophylaxis1
+• Patients ≥ 13 years of age: 75 mg once daily (QD) for at least 10 days for
+household exposure and up to 6 weeks for community outbreak. Oseltamivir
+may be used for up to 12 weeks in immunocompromised patients.
+• Patients 1 year to 12 years of age: weight-based dose administered QD. Use
+for 10 days for household exposure and up to 6 weeks during a community
+outbreak.
+Of note, dose adjustments are required for patients with renal dysfunction for both
+treatment and prophylaxis with oseltamivir.1
+Table 1. Oseltamivir Dosage Recommendations for Treatment and Prophylaxis of Influenza.1
+Weight Treatment Prophylaxis Volume of Number of Number of
+Dosage for 5 Dosing for Oral Bottles of Oral Capsules
+days 10 days Suspension Suspension needed to
+(6 mg/mL) Needed to Complete
+for each Complete Course
+dose Course
+2 weeks to < 1 year of age
+Any weight 3 mg/kg BID NA 0.5 mL/kg 1 bottle NA
+1 to 12 years of age
+15 kg or 30 mg BID 30 mg QD 5 mL 1 bottle 10 x 30 mg
+less capsules
+15.1 kg – 23 45 mg BID 45 mg QD 7.5 mL 2 bottles 10 x 45 mg
+kg capsules
+23.1 kg – 40 60 mg BID 60 mg QD 10 mL 2 bottles 20 x 30 mg
+kg capsules
+≥ 40.1 kg 75 mg BID 75 mg QD 12.5 mL 3 bottles 10 x 75 mg
+capsules
+≥ 13 years of age
+Any weight 75 mg BID 75 mg QD 12.5 mL 3 bottles 10 x 75 mg
+capsules
+BID – Twice daily; NA – Not applicable; QD – Once daily.
+Availability
+Oseltamivir (Tamiflu, generic) is available as 30 mg, 45 mg, and 75 mg capsules in
+blister packs containing 10 capsules each.1 It is also available as an oral suspension
+that is supplied as a powder, which after reconstitution delivers a total usable volume
+of 60 mL (6 mg/mL).
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of oseltamivir (Tamiflu, generic). If the Drug Quantity
+Management rule is not met for the requested medication at the point of service,
+6 Pages - Cigna National Formulary Coverage - Policy:Anti-Influenza – Oseltamivir Drug Quantity Management
+Policy – Per Rx
+coverage will be determined by the Criteria below. All approvals are provided for the
+duration noted below. “One-time” overrides are provided for 30 days in duration.
+Drug Quantity Limits
+Product Strength Retail and Home Delivery
+Maximum Quantity
+per Rx
+Tamiflu® 30 mg capsules 20 capsulesα
+(oseltamivir capsules, generic) 45 mg capsules 10 capsules†
+75 mg capsules 10 capsules†
+Tamiflu® 6 mg/mL (60 mL bottles) 180 mL (3 bottles)β
+(oseltamivir powder for oral
+suspension, generic)
+α Twenty of the 30 mg capsules is a quantity sufficient for 5 days of treatment or 10 days of prophylaxis
+for patients who need a 30 mg or 60 mg dose; † Ten of the 45 mg or 75 mg capsules is quantity sufficient
+for 5 days of treatment or 10 days of prophylaxis; β Three 60 mL bottles of oral suspension is a quantity
+sufficient for 5 days of treatment or 10 days of prophylaxis for a patient who requires up to a 75 mg
+dose.
+Anti-Influenza – Oseltamivir Drug Quantity Management Policy – Per Rx
+product(s) is(are) covered as medically necessary when the following
+criteria is(are) met. Any other exception is considered not medically
+necessary.
+CRITERIA
+1. Approve a one-time override for up to a total of 6 weeks of therapy at retail or
+home delivery if the patient meets ALL of the following (A, B, and C):
+Note: Refer to the table below for override quantity.
+A) Request for oseltamivir is between November 1st and March 31st; AND
+B) According to the prescriber, there has been a CDC-confirmed outbreak in the
+patient’s community; AND
+C) Patient requires more than 10 days of influenza prophylaxis.
+Product Strength Retail or Home Delivery
+Override Quantity
+Tamiflu® 30 mg capsules 84 capsules
+(oseltamivir capsules, generic) 45 mg capsules 42 capsules
+75 mg capsules 42 capsules
+Tamiflu® 6 mg/mL oral suspension 540 mL (9 bottles)
+(oseltamivir powder for oral (60 mL bottles)
+suspension, generic)
+6 Pages - Cigna National Formulary Coverage - Policy:Anti-Influenza – Oseltamivir Drug Quantity Management
+Policy – Per Rx
+2. Approve a one-time override for up to a total of 6 weeks of therapy at retail or
+home delivery if the patient meets ALL of the following (A, B, and C):
+Note: Refer to the table below for override quantity.
+A) Request for oseltamivir is between November 1st and March 31st; AND
+B) Patient resides in a long-term care facility; AND
+C) Patient requires more than 10 days of influenza prophylaxis.
+Product Strength Retail or Home Delivery
+Override Quantity
+Tamiflu® 30 mg capsules 84 capsules
+(oseltamivir capsules, generic) 45 mg capsules 42 capsules
+75 mg capsules 42 capsules
+Tamiflu® 6 mg/mL oral suspension 540 mL (9 bottles)
+(oseltamivir powder for oral (60 mL bottles)
+suspension, generic)
+3. Approve a one-time override for up to a total of 12 weeks of therapy at retail or
+home delivery if the patient meets BOTH of the following (A and B):
+Note: Refer to the table below for override quantity.
+A) According to the prescriber, the patient is immunocompromised; AND
+B) Patient requires more than 10 days of influenza prophylaxis.
+Product Strength Retail or Home Delivery
+Override Quantity
+Tamiflu® 30 mg capsules 168 capsules
+(oseltamivir capsules, generic) 45 mg capsules 84 capsules
+75 mg capsules 84 capsules
+Tamiflu® 6 mg/mL oral suspension 1,080 mL (18 bottles)
+(oseltamivir powder for oral (60 mL bottles)
+suspension, generic)
+EXCLUSIONS
+Approval of additional quantities of oseltamivir (Tamiflu, generic) is NOT
+recommended in the following situations:
+1. No overrides are recommended for the treatment of influenza.
+Note: The initial quantity limits allow for a quantity sufficient for one standard
+treatment course.
+REFERENCES
+1. Tamiflu® capsules, oral suspension [prescribing information]. South San Francisco, CA: Genentech;
+August 2019.
+6 Pages - Cigna National Formulary Coverage - Policy:Anti-Influenza – Oseltamivir Drug Quantity Management
+Policy – Per Rx
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Policy was updated to reflect the existing quantity limits when a 03/29/2023
+Revision product is obtained via home delivery.
+Oseltamivir 30 mg capsules (Tamiflu, generic): Home delivery
+quantity limit changed from 60 capsules per dispensing to 20
+capsules per dispensing.
+Oseltamivir 45 mg and 75 mg capsules (Tamiflu, generic):
+Home delivery quantity limit changed from 30 capsules per
+dispensing to 10 capsules per dispensing.
+Oseltamivir 6 mg/mL powder for oral suspension (Tamiflu,
+generic): Home delivery quantity limit changed from 9 bottles (540
+mL) per dispensing to 3 bottles (180 mL) per dispensing.
+Annual No criteria changes. 03/28/2024
+Revision
+Annual Policy statement was updated to note that “one-time” approvals are 03/11/2025
+Revision provided for 30 days in duration.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025
+The Cigna Group.
+6 Pages - Cigna National Formulary Coverage - Policy:Anti-Influenza – Oseltamivir Drug Quantity Management
+Policy – Per Rx

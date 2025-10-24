@@ -1,0 +1,191 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1256-9
+Program Prior Authorization/Notification
+Medication Mektovi® (binimetinib)
+P&T Approval Date 8/2018, 9/2019, 6/2020, 6/2021, 8/2021, 8/2022, 8/2023, 12/2023,
+12/2024
+Effective Date 3/1/2025
+1. Background:
+Mektovi® (binimetinib) is a kinase inhibitor indicated, in combination with Braftovi®
+(encorafenib), for the treatment of patients with unresectable or metastatic melanoma with a
+BRAF V600E or V600K mutation and for the treatment of adult patients with metastatic non-
+small cell lung cancer (NSCLC) with a BRAF V600E mutation.
+The National Cancer Comprehensive Network (NCCN) guideline also recommends use of
+Mektovi in melanoma for NRAS-mutated tumors that have progressed after prior immune
+checkpoint inhibitor therapy, recurrent or advanced NSCLC with a BRAF V600E mutation,
+Langerhans Cell Histiocytosis, low-grade serous carcinoma, and in combination with imatinib
+(Gleevec) for succinate dehydrogenase (SDH)-deficient gastrointestinal stromal tumors (GIST)
+with gross residual disease (R2 resection), unresectable primary disease, tumor rupture or
+recurrent/metastatic disease.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age
+of 19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Mektovi will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Melanoma
+1. Initial Authorization
+a. Mektovi will be approved based on all of the following criteria:
+© 2024 UnitedHealthcare Services, Inc.
+1
+(1) Diagnosis of melanoma
+-AND-
+(2) Disease is one of the following:
+(a) Unresectable
+(b) Metastatic
+-AND-
+(3) One of the following:
+(a) Both of the following
+i. Patient is positive for BRAFV600 mutation
+-AND-
+ii. Used in combination with Braftovi (encorafenib)
+-OR-
+(b) Both of the following:
+i. Patient is positive for NRAS mutation
+-AND-
+ii. Progression after prior immune checkpoint inhibitor therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Mektovi will be approved based on both of the following criteria:
+(1) Patient does not show evidence of progressive disease while on Mektovi therapy
+-AND-
+(2) One of the following:
+(a) Both of the following:
+i. BRAFV600 mutation positive
+© 2024 UnitedHealthcare Services, Inc.
+2
+-AND-
+ii. Used in combination with Braftovi (encorafenib)
+-OR-
+(b) NRAS-mutated tumor
+Authorization will be issued for 12 months.
+C. Histiocytic Neoplasms
+1. Initial Authorization
+a. Mektovi will be approved based on both the following criteria:
+(1) One of the following diagnoses:
+(a) Multisystem Langerhans Cell Histiocytosis
+(b) Single-system lung Langerhans Cell Histiocytosis
+(c) Langerhans Cell Histiocytosis with CNS lesions
+-AND-
+(2) One of the following:
+(a) Disease is positive for mitogen-activated protein (MAP) kinase pathway
+mutation
+(b) No other detectable/actionable mutation
+(c) Testing is not available
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Mektovi will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Mektovi therapy.
+Authorization will be issued for 12 months.
+D. Serous Carcinoma
+1. Initial Authorization
+a. Mektovi will be approved based on both the following criteria:
+(1) Diagnosis of low-grade serous carcinoma
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+3
+(2) Disease is recurrent
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Mektovi will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Mektovi therapy.
+Authorization will be issued for 12 months.
+E. Gastrointestinal Stromal Tumor (GIST)
+1. Initial Authorization
+a. Mektovi will be approved based on all the following criteria:
+(1) Diagnosis of succinate dehydrogenase (SDH)-deficient gastrointestinal stromal
+tumor (GIST)
+-AND-
+(2) Disease is one of the following:
+(a) Gross residual disease (R2 resection)
+(b) Unresectable primary disease
+(c) Tumor rupture
+(d) Progressive
+(e) Recurrent
+(f) Metastatic
+-AND-
+(3) Used in combination with imatinib mesylate (Gleevec)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Mektovi will be approved based on both of the following criteria:
+(1) Patient does not show evidence of progressive disease while on Mektovi therapy
+-AND-
+(2) Used in combination with imatinib mesylate (Gleevec)
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+4
+F. Non-Small Cell Lung Cancer
+1. Initial Authorization
+a. Mektovi will be approved based on all of the following criteria:
+(1) Diagnosis of non-small cell lung cancer (NSCLC)
+-AND-
+(2) Disease is one of the following:
+(a) Recurrent
+(b) Advanced
+(c) Metastatic
+-AND-
+(3) Patient is positive for BRAFV600 mutation
+-AND-
+(4) Used in combination with Braftovi (encorafenib)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Mektovi will be approved based on both of the following criteria:
+(1) Patient does not show evidence of progressive disease while on Mektovi
+therapy
+-AND-
+(2) Used in combination with Braftovi (encorafenib)
+Authorization will be issued for 12 months.
+G. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category
+of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+5
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Mektovi [package insert]. Boulder, CO: Array BioPharma Inc.; October 2023.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+www.nccn.org. Accessed October 21, 2024.
+Program Prior Authorization/Notification - Mektovi (binimetinib)
+Change Control
+8/2018 New program
+9/2019 Annual review. Updated background and criteria to include NCCN
+recommended use in BRAF V600 E colorectal cancer. Updated references.
+Added general NCCN recommended review criteria.
+6/2020 Updated background and criteria. Removed criteria for BRAFV600E
+colorectal cancer as no longer recommended by NCCN.
+6/2021 Annual review. Added criteria in melanoma for NRAS-mutated tumors.
+Updated reference.
+8/2021 Updated reauthorization criteria to not require Braftovi combination therapy
+for NRAS-mutated tumor.
+8/2022 Annual review. Updated background and reference. Added criteria per
+NCCN recommendations for histiocytic neoplasms and serous carcinoma.
+Added state mandate footnote.
+8/2023 Annual review. Added criteria per NCCN recommendations for SDH-
+deficient GIST. Updated background and reference.
+12/2023 Updated background and criteria to include new FDA approved use in BRAF
+V600E NSCLC. Updated references.
+12/2024 Annual review. Updated formatting of criteria for melanoma and histiocytic
+neoplasms with no change in clinical intent. Added reauthorization
+requirement that Mektovi must be used in combination with imatinib for
+GIST. For NSCLC, expanded coverage to include recurrent and advanced
+disease per NCCN recommendation and added reauthorization requirement
+that Mektovi must be used in combination with Braftovi. Updated
+background and references.
+© 2024 UnitedHealthcare Services, Inc.
+6

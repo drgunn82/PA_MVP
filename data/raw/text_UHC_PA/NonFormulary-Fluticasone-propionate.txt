@@ -1,0 +1,58 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1423-3
+Program Non-Formulary
+Medication Fluticasone propionate HFA*
+P&T Approval Date 12/2023, 3/2024, 3/2025
+Effective Date 6/1/2025
+1. Background:
+Fluticasone propionate HFA* is indicated for the maintenance treatment of asthma as prophylactic
+therapy in adults and pediatric patients. Guidelines recommend the use of a spacer device based
+on child’s age and capability. The preferred device in patients < 3 years of age is a spacer with
+face mask and for children aged 3-5 the preferred device is a spacer with mouthpiece. In addition,
+spacers remain essential for some elderly patients who are unable to utilize devices correctly.
+Guidelines from the American College of Gastroenterology and consensus recommendations from
+the American Gastroenterological Association (AGA) Institute/North American Society of
+Pediatric Gastroenterology, Hepatology, and Nutrition on the management of eosinophilic
+esophagitis recommend oral administration of inhalational corticosteroids (e.g., fluticasone,
+budesonide) as first-line therapy in adults and children with eosinophilic esophagitis.
+Claims for patients less than 6 years of age will process automatically.
+2. Coverage Criteria:
+Authorization
+A. Asthma
+1. Fluticasone propionate HFA* will be approved based on both of the following criteria:
+a. Diagnosis of asthma
+-AND-
+b. One of the following:
+1) History of failure, contraindication or intolerance to both of the following:
+a) Arnuity™ Ellipta®
+b) QVAR RediHaler®
+-OR-
+2) Patient requires a metered dose inhaler used with a spacer device due to one of the
+following:
+a) Physical dexterity
+© 2025 UnitedHealthcare Services Inc.
+1
+b) Inspiratory flow
+c) Cognitive status
+Authorization will be issued for 12 months
+B. Eosinophilic Esophagitis
+1. Diagnosis of Eosinophilic Esophagitis
+Authorization will be issued for 12 months
+*Fluticasone propionate HFA is typically excluded from coverage
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+4. References:
+1. Fluticasone HFA [package insert]. Mason, OH: Prasco Laboratories; May 2023
+2. Global Strategy for Asthma Management and Prevention. Global Initiative for Asthma (GINA).
+2024.
+Program Non-Formulary – Fluticasone propionate HFA
+Change Control
+Date Change
+12/2023 New program.
+3/2024 Added eosinophilic esophagitis to criteria.
+3/2025 Annual review. Updated references.
+© 2025 UnitedHealthcare Services Inc.
+2

@@ -1,0 +1,369 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2189-14
+Program Prior Authorization/Medical Necessity
+Medication Nurtec® ODT (rimegepant), Qulipta™ (atogepant), Ubrelvy™
+(ubrogepant), Zavzpret™ (zavegepant)
+P&T Approval Date 3/2020, 7/2020, 9/2020, 2/2021, 7/2021, 12/2021, 3/2022, 5/2022, 3/2023,
+7/2023, 11/2023, 6/2024, 8/2024, 2/2025
+Effective Date 5/1/2025
+1. Background:
+Nurtec ODT (rimegepant), Ubrelvy (ubrogepant) and Zavzpret (zavegepant) are calcitonin gene-
+related peptide receptor antagonists indicated for the acute treatment of migraine with or without
+aura in adults. Nurtec ODT is also indicated for the preventive treatment of episodic migraine in
+adults and Qulipta (atogepant) is indicated for the preventive treatment of migraine in adults
+The American Headache Society recommends the use of NSAIDs (including aspirin), non-
+opioid analgesics, acetaminophen, or caffeinated analgesic combinations (e.g.,
+aspirin/acetaminophen/caffeine) for mild‐to‐moderate attacks and migraine‐specific agents
+(i.e.,triptans, dihydroergotamine [DHE]) for moderate or severe attacks and mild‐to‐moderate
+attacks that respond poorly to NSAIDs or caffeinated combinations.
+Preventive treatment selection is based on evidence of efficacy, tolerability, patient preference,
+headache subtype, and comorbidities. The American Academy of Neurology guidelines note that
+antiepileptic drugs (divalproex sodium, valproate sodium, topiramate) and beta-blockers
+(metoprolol, propranolol, timolol) have established efficacy and that antidepressants
+(amitriptyline, venlafaxine) and beta-blockers (atenolol, nadolol) are probably effective for the
+preventive treatment of migraine headache.
+This program requires a member to try lower cost options prior to receiving coverage for Nurtec
+ODT, Qulipta, Ubrelvy or Zavzpret.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Ubrelvy will be approved based on all of the following criteria:
+a. Used for acute treatment of migraine
+-AND-
+b. History of therapeutic failure (after at least 3 migraine episodes and a minimum of a 30-
+day trial), contraindication or intolerance to two of the following (document name and
+date tried):
+© 2025 UnitedHealthcare Services, Inc.
+1
+1) almotriptan (Axert)
+2) eletriptan (Relpax)
+3) frovatriptan (Frova)
+4) naratriptan (Amerge)
+5) rizatriptan (Maxalt/Maxalt MLT)
+6) sumatriptan (Imitrex)
+7) zolmitriptan (Zomig/Zomig-ZMT)
+-AND-
+c. One of the following:
+1) Patient is currently treated with one of the following prophylactic therapies:
+i) A beta-blocker (i.e., atenolol, metoprolol, nadolol, propranolol, or timolol)
+ii) Candesartan (Atacand)
+iii) A calcitonin gene-related peptide receptor (CGRP) antagonist or inhibitor for
+preventive treatment of migraine [i.e., Aimovig (erenumab), Ajovy
+(fremanezumab)*, Emgality (galcanezumab), Qulipta, Vyepti (eptinezumab-
+jjmr)^]
+iv) Divalproex sodium (Depakote/Depakote ER)
+v) OnabotulinumtoxinA (Botox) [Note: Coverage of onabotulinumtoxinA
+(Botox) may be subject to additional benefit and coverage review
+requirements]
+vi) a serotonin-norepinephrine reuptake inhibitor [i.e., duloxetine (Cymbalta),
+venlafaxine (Effexor/Effexor XR)]
+vii) Topiramate (Topamax)
+viii) a tricyclic antidepressant [i.e., amitriptyline (Elavil), nortriptyline (Pamelor)]
+- OR -
+2) Patient has < 4 migraine days per month
+- OR –
+3) Patient has >/ = 4 migraine days per month and has contraindication or intolerance
+to one of the following prophylactic therapiesc:
+i) A beta-blocker (i.e., atenolol, metoprolol, nadolol, propranolol, or timolol)
+ii) Candesartan (Atacand)
+iii) A calcitonin gene-related peptide receptor (CGRP) antagonist or inhibitor for
+preventive treatment of migraine [i.e., Aimovig (erenumab), Ajovy
+(fremanezumab)*, Emgality (galcanezumab), Qulipta, Vyepti (eptinezumab-
+jjmr)^]
+iv) Divalproex sodium (Depakote/Depakote ER)
+v) OnabotulinumtoxinA (Botox) [Note: Coverage of onabotulinumtoxinA
+(Botox) may be subject to additional benefit and coverage review
+requirements]
+© 2025 UnitedHealthcare Services, Inc.
+2
+vi) a serotonin-norepinephrine reuptake inhibitor [i.e., duloxetine (Cymbalta),
+venlafaxine (Effexor/Effexor XR)]
+vii) Topiramate (Topamax)
+viii) a tricyclic antidepressant [i.e., amitriptyline (Elavil), nortriptyline (Pamelor)]
+-AND-
+d. Medication will not be used in combination with another acute calcitonin gene-related
+peptide receptor (CGRP) antagonist (e.g., Nurtec ODT, Zavzpret)
+Authorization will be issued for 12 months.
+2. Zavzpret will be approved based on all of the following criteria:
+a. Used for acute treatment of migraine
+-AND-
+b. All of the following:
+1) History of failure (after at least 3 migraine episodes and a minimum of a 30-day
+trial), contraindication, or intolerance to one of the following (Document duration
+of trial):
+a. almotriptan (Axert®)
+b. eletriptan (Relpax®)
+c. frovatriptan (Frova®)
+d. naratriptan (Amerge®)
+e. rizatriptan (Maxalt®/Maxalt-MLT®)
+f. sumatriptan (Imitrex®)
+g. zolmitriptan (Zomig®)
+-AND-
+2) History of failure (after at least 3 migraine episodes and a minimum of a 30-day
+trial), contraindication, or intolerance to one of the following (document drug and
+date tried):
+a. sumatriptan nasal spray (generic Imitrex nasal spray)
+b. Zomig nasal spray (zolmitriptan)
+-AND-
+3) Provider attests that the patient is not a candidate for oral or sublingual CGRPs (e.g.,
+nausea and/or vomiting, gastroparesis, inability to swallow pills)
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+3
+c. One of the following:
+1) Patient is currently treated with one of the following prophylactic therapies:
+a) A beta-blocker (i.e., atenolol, metoprolol, nadolol, propranolol, or timolol)
+b) Candesartan (Atacand)
+c) A calcitonin gene-related peptide receptor (CGRP) antagonist or inhibitor for
+preventive treatment of migraine [i.e., Aimovig (erenumab), Ajovy
+(fremanezumab)*, Emgality (galcanezumab), Qulipta, Vyepti (eptinezumab-
+jjmr)^]
+d) Divalproex sodium (Depakote/Depakote ER)
+e) OnabotulinumtoxinA (Botox) [Note: Coverage of onabotulinumtoxinA
+(Botox) may be subject to additional benefit and coverage review
+requirements]
+f) a serotonin-norepinephrine reuptake inhibitor [i.e., duloxetine (Cymbalta),
+venlafaxine (Effexor/Effexor XR)]
+g) Topiramate (Topamax)
+h) a tricyclic antidepressant [i.e., amitriptyline (Elavil), nortriptyline (Pamelor)]
+- OR -
+2) Patient has < 4 migraine days per month
+- OR –
+3) Patient has >/ = 4 migraine days per month and has contraindication or intolerance
+to one of the following prophylactic therapiesc:
+a) A beta-blocker (i.e., atenolol, metoprolol, nadolol, propranolol, or timolol)
+b) Candesartan (Atacand)
+c) A calcitonin gene-related peptide receptor (CGRP) antagonist or inhibitor for
+preventive treatment of migraine [i.e., Aimovig (erenumab), Ajovy
+(fremanezumab)*, Emgality (galcanezumab), Qulipta, Vyepti (eptinezumab-
+jjmr)^]
+d) Divalproex sodium (Depakote/Depakote ER)
+e) OnabotulinumtoxinA (Botox) [Note: Coverage of onabotulinumtoxinA
+(Botox) may be subject to additional benefit and coverage review
+requirements]
+f) a serotonin-norepinephrine reuptake inhibitor [i.e., duloxetine (Cymbalta),
+venlafaxine (Effexor/Effexor XR)]
+g) Topiramate (Topamax)
+h) a tricyclic antidepressant [i.e., amitriptyline (Elavil), nortriptyline (Pamelor)]
+-AND-
+d. Medication will not be used in combination with another acute calcitonin gene-related
+peptide receptor (CGRP) antagonist (e.g., Nurtec ODT, Ubrelvy)
+© 2025 UnitedHealthcare Services, Inc.
+4
+Authorization will be issued for 12 months.
+3. Nurtec ODT will be approved based on one of the following criteria:
+a. All of the following:
+1) Used for acute treatment of migraine
+-AND-
+2) History of a therapeutic failure (after at least 3 migraine episodes and a minimum of
+a 30-day trial) contraindication or intolerance to two of the following (document
+name and date tried):
+a) almotriptan (Axert)
+b) eletriptan (Relpax)
+c) frovatriptan (Frova)
+d) naratriptan (Amerge)
+e) rizatriptan (Maxalt/Maxalt MLT)
+f) sumatriptan (Imitrex)
+g) zolmitriptan (Zomig/Zomig-ZMT)
+-AND-
+3) One of the following:
+a) Patient is currently treated with one of the following prophylactic therapies:
+i) A beta-blocker (i.e., atenolol, metoprolol, nadolol, propranolol, or
+timolol)
+ii) Candesartan (Atacand)
+iii) A calcitonin gene-related peptide receptor (CGRP) antagonist or inhibitor
+for preventive treatment of migraine [i.e., Aimovig (erenumab), Ajovy
+(fremanezumab)*, Emgality (galcanezumab), Qulipta, Vyepti
+(eptinezumab-jjmr)^]
+iv) Divalproex sodium (Depakote/Depakote ER)
+v) OnabotulinumtoxinA (Botox) [Note: Coverage of onabotulinumtoxinA
+(Botox) may be subject to additional benefit and coverage review
+requirements]
+vi) a serotonin-norepinephrine reuptake inhibitor [i.e., duloxetine (Cymbalta),
+venlafaxine (Effexor/Effexor XR)]
+vii) Topiramate (Topamax)
+viii) a tricyclic antidepressant [i.e., amitriptyline (Elavil), nortriptyline
+(Pamelor)]
+-OR–
+b) Patient has < 4 migraine days per month
+© 2025 UnitedHealthcare Services, Inc.
+5
+-OR–
+c) Patient has >/ = 4 migraine days per month and has contraindication or
+intolerance to one of the following prophylactic therapiesc:
+i) A beta-blocker (i.e., atenolol, metoprolol, nadolol, propranolol, or
+timolol)
+ii) Candesartan (Atacand)
+iii) A calcitonin gene-related peptide receptor (CGRP) antagonist or inhibitor
+for preventive treatment of migraine [i.e., Aimovig (erenumab), Ajovy
+(fremanezumab)*, Emgality (galcanezumab), Qulipta, Vyepti
+(eptinezumab-jjmr)^]
+iv) Divalproex sodium (Depakote/Depakote ER)
+v) OnabotulinumtoxinA (Botox) [Note: Coverage of onabotulinumtoxinA
+(Botox) may be subject to additional benefit and coverage review
+requirements]
+vii) a serotonin-norepinephrine reuptake inhibitor [i.e., duloxetine (Cymbalta),
+venlafaxine (Effexor/Effexor XR)]
+vii) Topiramate (Topamax)
+viii) a tricyclic antidepressant [i.e., amitriptyline (Elavil), nortriptyline
+(Pamelor)]
+-AND-
+4) Medication will not be used in combination with another acute calcitonin gene-
+related peptide receptor (CGRP) antagonists (e.g., Ubrelvy, Zavzpret)
+-OR-
+b. All of the following:
+1) Diagnosis of episodic migraines with greater than or equal to 4 migraine days per
+month
+-AND-
+2) Used for preventive treatment of migraines
+-AND-
+3) History of failure (after a trial of at least two monthsb), contraindication or
+intolerance to two of the following prophylactic therapies (document name and date
+tried)c:
+a) One of the following beta-blockers: atenolol, metoprolol, nadolol, propranolol,
+or timolol
+b) Candesartan (Atacand)
+c) Divalproex sodium (Depakote/Depakote ER)
+© 2025 UnitedHealthcare Services, Inc.
+6
+d) a serotonin-norepinephrine reuptake inhibitor [i.e., duloxetine (Cymbalta),
+venlafaxine (Effexor/Effexor XR)]
+e) Topiramate (Topamax)
+f) a tricyclic antidepressant [i.e., amitriptyline (Elavil), nortriptyline (Pamelor)]
+-AND-
+4) Medication will not be used in combination with another CGRP antagonist or
+inhibitor used for the preventive treatment of migraines (e.g., Aimovig, Ajovy*,
+Emgality, Qulipta, Vyepti^)
+Authorization will be issued for 12 months.
+4. Qulipta will be approved based on all of the following criteria:
+a. Diagnosis of migraine consistent with The International Classification of Headache
+Disorders, 3rd edition
+-AND-
+b. One of the following:
+1) 4 to 7 migraine days per month and at least one of the following:
+a) Less than 15 headache days per month
+-OR-
+b) Provider attests this is the member’s predominant headache diagnosis (i.e.,
+primary driver of headaches is not a different, non-migrainous condition)
+-OR-
+2) Greater than or equal to 8 migraine days per month
+-AND-
+c. Failure (after a trial of at least two monthsb), contraindication or intolerance to two of
+the following prophylactic therapies (document name and date tried)c:
+1) One of the following beta-blockers: atenolol, metoprolol, nadolol, propranolol, or
+timolol
+2) Candesartan (Atacand)
+3) Divalproex sodium (Depakote/Depakote ER)
+4) OnabotulinumtoxinA (Botox) [Note: Coverage of onabotulinumtoxinA (Botox)
+may be subject to additional benefit and coverage review requirements]
+5) a serotonin-norepinephrine reuptake inhibitor [i.e., duloxetine (Cymbalta),
+venlafaxine (Effexor/Effexor XR)]
+6) Topiramate (Topamax)
+© 2025 UnitedHealthcare Services, Inc.
+7
+7) a tricyclic antidepressant [i.e., amitriptyline (Elavil), nortriptyline (Pamelor)]
+-AND-
+d. Medication will not be used in combination with another CGRP antagonist or inhibitor
+used for the preventive treatment of migraines (e.g., Aimovig, Ajovy*, Emgality, Nurtec
+ODT, Vyepti^)
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Ubrelvy or Zavzpret will be approved based on both of the following criteria:
+a. Documentation of positive clinical response to therapy
+-AND-
+b. Medication will not be used in combination with another acute calcitonin gene-related
+peptide receptor (CGRP) antagonists (e.g., Nurtec ODT)
+Authorization will be issued for 12 months.
+2. Nurtec ODT will be approved based on both of the following criteria:
+a. Documentation of positive clinical response to therapy
+-AND-
+b. One of the following:
+1) Both of the following:
+a) Use is for the acute treatment of migraine
+-AND-
+b) Medication will not be used in combination with another acute calcitonin gene-
+related peptide receptor (CGRP) antagonist (e.g., Ubrelvy, Zavzpret)
+-OR-
+2) Both of the following:
+a) Use is for the preventive treatment of migraines
+- AND-
+© 2025 UnitedHealthcare Services, Inc.
+8
+b) Medication will not be used in combination with another CGRP antagonist or
+inhibitor used for the preventive treatment of migraines (e.g., Aimovig, Ajovy*,
+Emgality, Qulipta, Vyepti^)
+Authorization will be issued for 12 months.
+3. Qulipta will be approved based on both of the following criteria:
+a. Documentation of positive clinical response to therapy
+-AND-
+b. Medication will not be used in combination with another CGRP antagonist or inhibitor
+used for the preventive treatment of migraines (e.g., Aimovig, Ajovy*, Emgality,
+Nurtec ODT, Vyepti^)
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+b For Connecticut, Kentucky and Mississippi business, only a 30-day trial will be required.
+c For California business a trial of non-CGRP preventive treatments will not be required.
+*Ajovy is typically excluded from coverage
+^Vyepti may be subject to additional benefit and coverage review requirements.
+3. Additional Clinical Programs:
+• Supply limits may apply.
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+4. References:
+1. Nurtec ODT [package insert]. New York, NY: Pfizer Inc; April 2024.
+2. Qulipta [package insert]. North Chicago IL: AbbVie Inc; June 2023.
+3. Ubrelvy [package insert]. North Chicago, IL: AbbVie Inc: June 2023.
+4. Zavzpret [package insert]. New York, NY: Pfizer Inc.; March 2023
+5. Calcitonin gene-related peptide-targeting therapies are a first-line option for the
+prevention of migraine: An American Headache Society position statement update. AHS
+Consensus Statement. Headache. 2024; 64:333-41.
+6. International Headache Society (HIS); Headache Classification Committee. The
+International Classification of Headache Disorders, 3rd edition. Cephalalgia 2018; 38:1-
+211.
+© 2025 UnitedHealthcare Services, Inc.
+9
+Program Prior Authorization/Medical Necessity – Nurtec ODT, Qulipta, Ubrelvy,
+Zavzpret
+Change Control
+Date Change
+3/2020 New program.
+7/2020 Updated requirement from three triptans to two triptans. Modified
+concomitant CGRP language.
+9/2020 Added a step requirement for Nurtec ODT through Ubrelvy. Noted that
+Nurtec ODT is typically excluded from coverage.
+2/2021 Removed moderate to severe migraine requirement. Added requirement
+for < 4 migraines per month. Simplified criteria for >/= 4 migraines per
+month. Added biologic CGRP to prophylactic therapies. Removed
+prescriber requirement from reauthorization.
+7/2021 Added criteria for new preventive indication for episodic migraines for
+Nurtec ODT. Updated the trial language to include 3 migraine episodes.
+Added statement regarding concomitant therapy with other preventive
+CGRPs. Updated references.
+12/2021 Added Qulipta for preventive treatment of migraines. Added candesartan
+as a preventive option. Updated references.
+3/2022 Removed the step through the injectable CGRPs for Nurtec ODT. Added a
+step through Nurtec ODT for Qulipta. Updated the products typically
+excluded from coverage. Added note for Vyetpi regarding additional
+benefit and coverage review requirements. Updated references.
+5/2022 Removed specialist requirement. Added Mississippi to state mandate
+language.
+3/2023 Annual review. Added Zomig-ZMT as a zolmitriptan example. Added
+Qulipta as a prophylactic CGRP example and removed reference to
+biologic. Updated references.
+7/2023 Added Zavzpret. Updated Qulipta criteria to allow both episodic and
+chronic migraines. Updated examples in prophylactic coverage. Included
+Botox as preventive option for Qulipta.
+12/2023 Removed CGRP step, added a provider attestation and updated the triptan
+step for Zavzpret. Removed that Zavzpret is typically excluded from
+coverage. Updated references.
+6/2024 Removed notation that Qulipta is typically excluded from coverage.
+Removed CGRP step for Qulipta. Updated regulatory requirement.
+Updated references.
+8/2024 Updated Zavzpret step and list of potential prophylactic therapies.
+2/2025 Added footnote for California specific requirement.
+© 2025 UnitedHealthcare Services, Inc.
+10

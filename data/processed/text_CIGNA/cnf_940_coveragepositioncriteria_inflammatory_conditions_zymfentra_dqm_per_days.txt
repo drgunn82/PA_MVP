@@ -1,0 +1,133 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Inflammatory Conditions – Zymfentra Drug Quantity Management
+Policy – Per Days
+• Zymfentra® (infliximab-dyyb subcutaneous injection – Celltrion)
+REVIEW DATE: 08/27/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Zymfentra, a subcutaneous (SC) tumor necrosis factor (TNF) inhibitor, is indicated
+for the following uses:1
+• Crohn’s disease, as maintenance treatment for moderately to severely
+active disease in adults who have received three induction doses with an
+infliximab intravenous product.
+• Ulcerative colitis, as maintenance treatment for moderately to severely
+active disease in adults who have received three induction doses with an
+infliximab intravenous product.
+Dosing
+Therapy begins with an infliximab intravenous (IV) product administered as an
+induction regimen at Weeks 0, 2, and 6.1 At Week 10 or at any scheduled
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Zymfentra Drug Quantity
+Management Policy – Per Days
+infliximab IV infusion in patients with a clinical response or remission, therapy can
+be switched to Zymfentra. The recommended dose of Zymfentra is 120 mg
+administered subcutaneously once every 2 weeks (Q2W).
+Dose Escalation in Crohn’s Disease and Ulcerative Colitis
+There are data to support dose escalation of Zymfentra from 120 mg Q2W to 240
+mg Q2W in patients with inflammatory bowel disease.2 In LIBERTY-OLE (n = 626
+[278 with CD; 348 with UC]), an open-label extension study that enrolled patients
+from the LIBERTY-CD and LIBERTY-UC pivotal studies, patients with a clinical
+response to infliximab 5 mg/kg IV were randomized to Zymfentra 120 mg SC Q2W
+or placebo. From Week 22, patients in either group that demonstrated a loss of
+response to treatment were dose adjusted to Zymfentra 240 mg Q2W and enrolled
+in the OLE. Additionally, any patient that experienced loss of response during the
+OLE (Week 56 to Week 102) could also be dose adjusted to Zymfentra 240 mg
+Q2W.
+• Crohn’s disease results: In patients who had their dose adjusted on or after
+Week 22, a significant difference in the Crohn’s disease activity index (CDAI)
+score from the dose adjusted visit to Week 102 was observed in those
+transitioned from standard dosing and placebo. Of the 278 patients, 86
+(31%) had their dose increased to Zymfentra 240 mg Q2W (42 were
+increased from 120 mg Q2W and 44 were transitioned from placebo). At
+Week 102, clinical remission was achieved in 72% of patients that
+transitioned from Zymfentra 120 mg to Zymfentra 240 mg Q2W and 77% for
+those transitioned from placebo to Zymfentra 240 mg Q2W.
+• Ulcerative colitis results: In patients who had their dose adjusted on or after
+Week 22, a significant difference in the modified Mayo score (MMS) and
+partial Mayo score from the dose adjusted visit to Week 102 was observed in
+those transitioned from standard dosing and placebo. Of the 348 patients,
+131 (38%) had their dose increased to Zymfentra 240 mg Q2W (71 were
+increased from 120 mg Q2W and 60 were increased from placebo). At Week
+102, clinical remission was achieved in 35% of patients that transitioned
+from Zymfentra 120 mg to Zymfentra 240 mg Q2W and 55% for those
+transitioned from placebo to Zymfentra 240 mg Q2W.
+Availability
+Zymfentra is available as a 120 mg/mL prefilled pens and syringes.1 Infliximab is
+also available as an IV product is not targeted in this policy.
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of Zymfentra, and to manage potential premature dose
+escalation. If the Drug Quantity Management rule is not met at the point of
+service, coverage will be determined by the Criteria below. All approvals are
+provided for 1 year in duration, unless otherwise noted below.
+4 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Zymfentra Drug Quantity
+Management Policy – Per Days
+Drug Quantity Limits
+Product Strength and Form Retail Home Delivery
+Maximum Maximum
+Quantity Limit Quantity Limit
+Zymfentra® 120 mg/mL prefilled pen 2 pens per 28 days 6 pens per 84 days
+(infliximab-dyyb SC 120 mg/mL prefilled sryinges 2 syringes per 28 6 syringes per 84
+injection) days days
+SC – Subcutaneous.
+EXCEPTIONS TO THE QUANTITY LIMITS LISTED ABOVE ARE COVERED AS MEDICALLY
+NECESSARY WHEN THE FOLLOWING CRITERIA ARE MET. ANY OTHER EXCEPTION IS
+CONSIDERED NOT MEDICALLY NECESSARY.
+CRITERIA
+1. Approve 4 pens or syringes per 28 days at retail or 12 pens or syringes per 84
+days at home delivery if the patient meets ALL of the following (A, B, and C):
+A) Zymfentra is being used to treat Crohn’s disease or ulcerative colitis; AND
+B) Patient has received Zymfentra 120 mg subcutaneous (SC) once every 2
+weeks for 22 weeks or longer; AND
+C) According to the prescriber, the patient has continued evidence of
+inflammation based on one or more of the following: elevated C-reactive
+protein, elevated erythrocyte sedimentation rate, elevated fecal calprotectin,
+or signs of inflammation on endoscopic evaluation.
+2. Approve 4 pens or syringes per 28 days at retail or 12 pens or syringes per 84
+days at home delivery if the patient meets BOTH of the following (A and B):
+A) Zymfentra is being used to treat Crohn’s disease or ulcerative colitis; AND
+B) Patient has been receiving Zymfentra 240 mg subcutaneous (SC) once every
+2 weeks.
+REFERENCES
+1. Zymfentra™ subcutaneous injection [prescribing information]. Yeonsu-gu, Incheon: Celltrion; May
+2025.
+2. Colombel JE, Sandborn WJ, Schreiber S, et al. Subcutaneous infliximab (CT-P13-SC) as
+maintenance therapy for Crohn’s disease and ulcerative colitis: 2-year results from open-label
+extensions of two randomized controlled trials (LIBERTY). J Crohns Colitis. 2025;19(6):jjaf060.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy New Policy was created to provide overrides to existing quantity limits. 08/27/2025
+4 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Zymfentra Drug Quantity
+Management Policy – Per Days
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+4 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Zymfentra Drug Quantity
+Management Policy – Per Days

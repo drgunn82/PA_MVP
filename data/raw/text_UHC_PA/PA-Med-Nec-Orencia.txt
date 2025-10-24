@@ -1,0 +1,275 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2201-13
+Program Prior Authorization/Medical Necessity
+Medication *Orencia® (abatacept)
+*This program applies to the subcutaneous formulation of abatacept
+P&T Approval Date 5/2020, 11/2020, 6/2021, 12/2021, 3/2022, 11/2022, 1/2023, 4/2023,
+7/2023, 1/2024, 2/2024, 10/2024, 4/2025
+Effective Date 6/1/2025
+1. Background:
+Orencia® (abatacept) is a selective T-cell costimulation modulator indicated for the treatment
+of adult patients with moderately to severely active rheumatoid arthritis, patients 2 years of
+age and older with moderately to severely active polyarticular juvenile idiopathic arthritis,
+and patients 2 years of age and older with active psoriatic arthritis.
+Concomitant used of Orencia with other immunosuppressives (e.g., biologic disease-
+modifying antirheumatic drugs, Janus kinase (JAK) inhibitors) is not recommended.
+2. Coverage Criteriaa:
+A. Rheumatoid Arthritis (RA)
+1. Initial Authorization
+a. Orencia will be approved based on all of the following criteria:
+(1) Diagnosis of moderately to severely active rheumatoid arthritis
+-AND-
+(2) One of the following:
+(a) Both of the following:
+i. One of the following:
+a. History of failure to a 3 month trial of one non-biologic disease
+modifying anti-rheumatic drug (DMARD) [e.g., methotrexate,
+leflunomide, sulfasalazine, hydroxychloroquine] at maximally
+indicated doses, unless contraindicated or clinically significant
+adverse effects are experienced (document drug, date, and duration of
+trial)b
+-OR-
+b. Patient has been previously treated with a targeted immunomodulator
+FDA-approved for the treatment of rheumatoid arthritis as
+© 2025 UnitedHealthcare Services, Inc.
+1
+documented by claims history or submission of medical records
+(Document drug, date, and duration of therapy) [e.g., Cimzia
+(certolizumab), adalimumab, Simponi (golimumab), Olumiant
+(baricitinib), Rinvoq (upadacitinib), Xeljanz/Xeljanz XR (tofacitinib),
+Enbrel (etanercept)]
+-AND-
+ii. History of failure, contraindication, or intolerance to two of the following
+preferred products (Document drug, date, and duration of trial):
+a. One of the preferred adalimumab productsc
+b. Cimzia (certolizumab)
+c. Enbrel (etanercept)
+d. Rinvoq (upadacitinib)
+e. Simponi (golimumab)
+f. Xeljanz/Xeljanz XR (tofacitinib)
+-OR-
+(b) Both of the following:
+i. Patient is currently on Orencia therapy as documented by claims history
+or submission of medical records (Document date and duration of
+therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in
+the prescriber’s office, or any form of assistance from the Bristol-
+Myers Squibb sponsored Orencia® Co-Pay Program™ (e.g., sample
+card which can be redeemed at a pharmacy for a free supply of
+medication) as a means to establish as a current user of Orencia*
+-AND-
+(3) Patient is not receiving Orencia in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab), Simponi
+(golimumab), adalimumab, Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq
+(upadacitinib)]
+-AND-
+(4) Prescribed by or in consultation with a rheumatologist
+* Patients requesting initial authorization who were established on therapy via the receipt
+of a manufacturer supplied sample at no cost in the prescriber’s office or any form of
+assistance from the Bristol-Myers Squibb sponsored Orencia® Co-Pay Program™ shall
+be required to meet initial authorization criteria as if patient were new to therapy.
+© 2025 UnitedHealthcare Services, Inc.
+2
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Orencia will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Orencia therapy
+-AND-
+(2) Patient is not receiving Orencia in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab), Simponi
+(golimumab), adalimumab, Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq
+(upadacitinib)]
+Authorization will be issued for 12 months.
+B. Juvenile Idiopathic Arthritis (JIA)
+1. Initial Authorization
+a. Orencia will be approved based on all of the following criteria:
+(1) Diagnosis of moderately to severely active polyarticular juvenile idiopathic
+arthritis.
+-AND-
+(2) Patient is not receiving Orencia in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab), Simponi
+(golimumab), adalimumab, Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq
+(upadacitinib)]
+-AND-
+(3) Prescribed by or in consultation with a rheumatologist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Orencia will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Orencia therapy
+-AND-
+(2) Patient is not receiving Orencia in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab), Simponi
+© 2025 UnitedHealthcare Services, Inc.
+3
+(golimumab), adalimumab, Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq
+(upadacitinib)]
+Authorization will be issued for 12 months.
+C. Psoriatic Arthritis (PsA)
+1. Initial Authorization
+a. Orencia will be approved based on all of the following criteria:
+(1) Diagnosis of active psoriatic arthritis
+-AND-
+(2) One of the following:
+(a) Both of the following:
+i. One of the following:
+a. History of failure to a 3 month trial of methotrexate at maximally
+indicated dose, unless contraindicated or clinically significant adverse
+effects are experienced (document date and duration of trial)b
+-OR-
+b. Patient has been previously treated with a targeted immunomodulator
+FDA-approved for the treatment of psoriatic arthritis as documented
+by claims history or submission of medical records (Document drug,
+date, and duration of therapy) [e.g., Cimzia (certolizumab),
+adalimumab, Simponi (golimumab), ustekinumab, Tremfya
+(guselkumab), Xeljanz/Xeljanz XR (tofacitinib), Otezla (apremilast),
+Skyrizi (risankizumab), Enbrel (etanercept)]
+-AND-
+ii. One of the following:
+a. History of failure, contraindication, or intolerance to two of the
+following preferred products: (document drug, date, and duration of
+trial)
+1. One of the preferred adalimumab productsc
+2. Cimzia (certolizumab)
+3. Cosentyx (secukinumab)
+4. Enbrel (etanercept)
+5. Rinvoq (upadacitinib)
+6. Simponi (golimumab)
+7. Skyrizi (risankizumab-rzaa)
+© 2025 UnitedHealthcare Services, Inc.
+4
+8. One of the preferred ustekinumab productsc
+9. Tremfya (guselkumab)
+10. Xeljanz/Xeljanz XR (tofacitinib)
+-OR-
+b. Both of the following:
+1. Patient is less than 18 years of age
+-AND-
+2. History of failure, contraindication, or intolerance to one of the
+preferred ustekinumab productsc ustekinumab or Enbrel
+(etanercept) (document date and duration of trial)
+-OR-
+(b) Both of the following:
+i. Patient is currently on Orencia therapy as documented by claims history
+or submission of medical records (Document date and duration of
+therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in
+the prescriber’s office, or any form of assistance from the Bristol-
+Myers Squibb sponsored Orencia® Co-Pay Program™ (e.g., sample
+card which can be redeemed at a pharmacy for a free supply of
+medication) as a means to establish as a current user of Orencia*
+-AND-
+(3) Patient is not receiving Orencia in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab), Simponi
+(golimumab), adalimumab, ustekinumab, Skyrizi (risankizumab), Tremfya
+(guselkumab), Cosentyx (secukinumab), Taltz (ixekizumab), Xeljanz
+(tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib), Otezla (apremilast)]
+-AND-
+(4) Prescribed by or in consultation with one of the following:
+(a) Rheumatologist
+(b) Dermatologist
+* Patients requesting initial authorization who were established on therapy via the receipt
+of a manufacturer supplied sample at no cost in the prescriber’s office or any form of
+© 2025 UnitedHealthcare Services, Inc.
+5
+assistance from the Bristol-Myers Squibb sponsored Orencia® Co-Pay Program™ shall
+be required to meet initial authorization criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Orencia will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Orencia therapy
+-AND-
+(2) Patient is not receiving Orencia in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab), Simponi
+(golimumab), adalimumab, ustekinumab, Skyrizi (risankizumab), Tremfya
+(guselkumab), Cosentyx (secukinumab), Taltz (ixekizumab), Xeljanz
+(tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib), Otezla (apremilast)]
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+b For Connecticut, Kentucky and Mississippi business only a 30-day trial will be required.
+c For a list of preferred products please reference drug coverage tools.
+3. Additional Clinical Rules:
+• Supply limits may be in place.
+The intravenous infusion is typically covered under the medical benefit. Please refer to the United
+Healthcare Medical Benefit Drug Policy for Orencia.
+4. References:
+1. Orencia [package insert]. Princeton, NJ: Bristol-Myers Squibb; October 2023.
+2. Pavy S. Constantin A, Pham T, et al. Methotrexate therapy for rheumatoid arthritis: clinical
+practice guidelines based on published evidence and expert opinions. Joint Bone Spine
+2006;73(4):388-95.
+3. Singh JA, Saag KG, Bridges SL, et al. 2015 American College of Rheumatology Guideline for
+the Treatment of Rheumatoid Arthritis. Arthritis Care & Research. Arthritis Rheum.
+2016;68(1):1-26.
+4. Coates LC, Kavanaugh A, Mease PJ, et al. Group for Research and Assessment of Psoriasis and
+Psoriatic Arthritis 2015 Treatment Recommendations for Psoriatic Arthritis. Arthritis Rheumatol.
+2016 May;68(5):1060-71.
+5. Menter A, Gottlieb A, Feldman SR, et al. Guidelines of care for the management of psoriasis and
+psoriatic arthritis: Section 1. Overview of psoriasis and guidelines of care for the treatment of
+psoriasis with biologics. J Am Acad Dermatol 2008; 58(5):826-50.
+© 2025 UnitedHealthcare Services, Inc.
+6
+6. Gottlieb A, Korman NJ, Gordon KB, et al. Guidelines of care for the management of psoriasis
+and psoriatic arthritis. Psoriatic arthritis: Overview and guidelines of care for treatment with an
+emphasis on the biologics. J Am Acad Dermatol 2008;58(5):851-64.
+7. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and
+psoriatic arthritis. Section 3. Guidelines of care for the management and treatment of psoriasis
+with topical therapies. J Am Acad Dermatol 2009;60(4):643-59.
+8. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and
+psoriatic arthritis. Guidelines of care for the treatment of psoriasis with phototherapy and
+photochemotherapy. J Am Acad Dermatol 2010;62(1):114-35.
+9. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and
+psoriatic arthritis. Guidelines of care for the management and treatment of psoriasis with
+traditional systemic agents. J Am Acad Dermatol 2009;61(3):451-85.
+10. Menter A, Korman NJ, Elmets CA,Feldman SR, Gelfand JM, Gordon KB, Guidelines of care for
+the management of psoriasis and psoriatic arthritis: section 6. Guidelines of care for the treatment
+of psoriasis and psoriatic arthritis: case-based presentations and evidence-based conclusions. J
+Am Acad Dermatol. 2011 Jul;65(1):137-74.
+11. Gossec L, et al; European League Against Rheumatism (EULAR) recommendations for the
+management of psoriatic arthritis with pharmacological therapies: 2015 update, Ann Rheum Dis
+2016;75:499-510.
+Program Prior Authorization/Medical Necessity - Orencia (abatacept)
+Change Control
+5/2020 New program
+11/2020 Added Tremfya as a step therapy medication for psoriatic arthritis.
+Updated background and references.
+6/2021 Removed prescriber requirement from reauthorization criteria. Added
+coverage criteria for patients previously treated with a biologic
+DMARD. Added clarification that submission of medical records is
+required documenting current therapy with Orencia in order to bypass
+step if claim history not available.
+12/2021 Updated conventional DMARD bypass language for rheumatoid
+arthritis and psoriatic arthritis with no change to clinical intent. Updated
+CT/KY footnote.
+3/2022 Added Skyrizi as a preferred drug for active psoriatic arthritis.
+11/2022 Added Enbrel as a preferred step product for RA. Added Enbrel,
+Rinvoq, and Xeljanz as preferred step products for PsA. Added Enbrel
+and Rinvoq as an example where appropriate. Added Mississippi to
+state mandate footnote.
+1/2023 Updated step therapy requirements to Humira or Amjevita. Updated
+listed examples from Humira to adalimumab.
+4/2023 Updated step therapy requirement from Humira or Amjevita to one of
+the preferred adalimumab products and added the footnote “For a list of
+preferred adalimumab products please reference drug coverage tools.”
+7/2023 Updated not receiving in combination language to targeted
+immunomodulator and updated examples.
+1/2024 Updated PsA criteria based on updated indication for patients 2 years of
+age or older. Updated Background, References, and state mandate
+footnote.
+© 2025 UnitedHealthcare Services, Inc.
+7
+2/2024 Removed Olumiant as a preferred product for RA.
+10/2024 Updated RA and PsA step requirement noting Adalimumab-adaz
+(unbranded Hyrimoz), Amjevita for Nuvaila, and Humira as preferred
+adalimumab products with no change to clinical intent. Added
+Cosentyx as a step therapy drug for PsA. Removed preferred
+adalimumab footnote.
+4/2025 Removed examples for adalimumab in step therapy. Changed Stelara
+step therapy to “One of the preferred ustekinumab productsc”. Changed
+Stelara example to Ustekinumab. Added the footnote “For a list of
+preferred products please reference drug coverage tools.”
+© 2025 UnitedHealthcare Services, Inc.
+8

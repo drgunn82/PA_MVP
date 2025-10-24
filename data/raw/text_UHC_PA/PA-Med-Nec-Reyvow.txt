@@ -1,0 +1,135 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2188-9
+Program Prior Authorization/Medical Necessity
+Medication Reyvow® (lasmiditan)
+P&T Approval Date 3/2020, 7/2020, 2/2021, 7/2021, 3/2022, 10/2023, 3/2024, 3/2025
+Effective Date 6/1/2025
+1. Background:
+Reyvow (lasmiditan) is a serotonin 5-HT receptor agonist indicated for the acute treatment of
+1F
+migraine with or without aura in adults. Sedation was reported up to 8 hours after a single dose
+of Reyvow. Patients should be advised to not engage in activities requiring complete mental
+alertness, such as driving a motor vehicle or operating machinery, for at least 8 hours after each
+dose of Reyvow.
+The American Headache Society recommends use of NSAIDs (including aspirin), non-opioid
+analgesics, acetaminophen, or caffeinated analgesic combinations (e.g.,
+aspirin/acetaminophen/caffeine) for mild‐to‐moderate attacks and migraine‐specific agents
+(i.e.,triptans, dihydroergotamine [DHE]) for moderate or severe attacks and mild‐to‐moderate
+attacks that respond poorly to NSAIDs or caffeinated combinations.
+This program requires a member to try lower cost options prior to receiving coverage for
+Reyvow.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Reyvow will be approved based on all of the following criteria:
+a. Used for acute treatment of migraine
+-AND-
+b. Patient is 18 years of age or older
+-AND-
+c. History of a therapeutic failure (after at least 3 migraine episodes and a minimum of a
+30-day trial), contraindication or intolerance to both of the following (document name
+and date tried):
+1) Two of the following:
+© 2025 UnitedHealthcare Services, Inc.
+1
+a) almotriptan (Axert)
+b) eletriptan (Relpax)
+c) frovatriptan (Frova)
+d) naratriptan (Amerge)
+e) rizatriptan (Maxalt/Maxalt MLT)
+f) sumatriptan (Imitrex)
+g) zolmitriptan (Zomig/Zomig-ZMT)
+-AND-
+2) Both of the following:
+a) Nurtec ODT
+b) Ubrelvy
+-AND-
+d. Prescriber attests to BOTH of the following:
+1) Patient has been informed the use of Reyvow may result in significant CNS
+impairment, and may impact the patient’s ability to drive or operate machinery for
+8 hours after each dose
+2) If used concurrently with a benzodiazepine or other drugs that could potentially
+cause central nervous system (CNS) depression, the prescriber has acknowledged
+that they have completed an assessment of increased risk for sedation and other
+cognitive and/or neuropsychiatric adverse events
+-AND-
+e. One of the following:
+1) Patient is currently treated with one of the following prophylactic therapies:
+i) A beta-blocker (i.e., atenolol, metoprolol, nadolol, propranolol, or timolol)
+ii) Candesartan (Atacand)
+iii) A calcitonin gene-related peptide receptor (CGRP) antagonist or inhibitor for
+preventive treatment of migraine [i.e., Aimovig (erenumab), Ajovy
+(fremanezumab)*, Emgality (galcanezumab), Qulipta, Vyepti (eptinezumab-
+jjmr)^]
+iv) Divalproex sodium (Depakote/Depakote ER)
+v) OnabotulinumtoxinA (Botox) [Note: Coverage of onabotulinumtoxinA
+(Botox) may be subject to additional benefit and coverage review
+requirements]
+vi) a serotonin-norepinephrine reuptake inhibitor [i.e., duloxetine (Cymbalta),
+venlafaxine (Effexor/Effexor XR)]
+vii) Topiramate (Topamax)
+viii) a tricyclic antidepressant [i.e., amitriptyline (Elavil), nortriptyline (Pamelor)]
+- OR –
+© 2025 UnitedHealthcare Services, Inc.
+2
+2) Patient has < 4 migraine days per month
+- OR –
+3) Patient has >/ = 4 migraine days per month and has contraindication or intolerance
+to one of the following prophylactic therapies:
+i) A beta-blocker (i.e., atenolol, metoprolol, nadolol, propranolol, or timolol)
+ii) Candesartan (Atacand)
+iii) A calcitonin gene-related peptide receptor (CGRP) antagonist or inhibitor for
+preventive treatment of migraine [i.e., Aimovig (erenumab), Ajovy
+(fremanezumab)*, Emgality (galcanezumab), Qulipta, Vyepti (eptinezumab-
+jjmr)^]
+iv) Divalproex sodium (Depakote/Depakote ER)
+v) OnabotulinumtoxinA (Botox) [Note: Coverage of onabotulinumtoxinA
+(Botox) may be subject to additional benefit and coverage review
+requirements]
+vi) a serotonin-norepinephrine reuptake inhibitor [i.e., duloxetine (Cymbalta),
+venlafaxine (Effexor/Effexor XR)]
+vii) Topiramate (Topamax)
+viii) a tricyclic antidepressant [i.e., amitriptyline (Elavil), nortriptyline (Pamelor)]
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Reyvow will be approved based on the following criterion:
+a. Documentation of positive clinical response to therapy
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+* Ajovy is typically excluded from coverage
+^Vyepti may be subject to additional benefit and coverage review requirements.
+3. Additional Clinical Programs:
+• Supply limits may apply.
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+4. References:
+1. Reyvow [package insert]. Indianapolis, IN: Lilly USA, LLC,; September 2022.
+© 2025 UnitedHealthcare Services, Inc.
+3
+2. The American Headache Society Position Statement on Integrating New Migraine Treatments Into
+Clinical Practice. AHS Consensus Statement. Headache. 2021; 61:1021-39.
++
+Program Prior Authorization/Medical Necessity – Reyvow
+Change Control
+Date Change
+3/2020 New program.
+7/2020 Updated requirement from three triptans to two triptans.
+2/2021 Removed moderate to severe migraine requirement. Added requirement
+for < 4 migraines per month. Simplified criteria for >/= 4 migraines per
+month. Removed prescriber requirement from reauthorization criteria.
+7/2021 Updated the trial language to include 3 migraine episodes. Updated
+references.
+3/2022 Added a step through Nurtec ODT and Ubrelvy. Added the products
+typically excluded from coverage. Added note for Vyetpi regarding
+additional benefit and coverage review requirements. Updated references.
+3/2023 Annual review. Added Zomig-ZMT as a zolmitriptan example. Updated
+references.
+10/2023 Removed the “Routine Audit” language.
+3/2024 Annual review. No changes.
+3/2025 Annual review. Updated list of prophylactic agents and removed
+prescriber requirement.
+© 2025 UnitedHealthcare Services, Inc.
+4

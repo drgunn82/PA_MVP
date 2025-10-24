@@ -1,0 +1,195 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Nephrology – Tarpeyo Prior Authorization Policy
+• Tarpeyo™ (budesonide delayed-release capsules − Calliditas)
+REVIEW DATE: 01/31/2024; selected revision 10/02/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Tarpeyo, a corticosteroid, is indicated to reduce the loss of kidney function in adults
+with primary immunoglobulin A nephropathy (IgAN) at risk of rapid disease
+progression.1
+The recommended dose is 16 mg orally once daily (QD) at least 1 hour before a meal
+for 9 months.1 When discontinuing therapy, the dose is reduced to 8 mg QD for the
+last 2 weeks of therapy. Safety and efficacy of treatment with subsequent courses
+of Tarpeyo have not been established.
+Clinical Efficacy
+The efficacy of Tarpeyo was evaluated in one pivotal, 9-month trial (with 15 month
+observational follow-up [see below]) in patients ≥ 18 years of age with IgAN.1,2,4
+Eligible patients had biopsy-proven IgAN, proteinuria (defined as either ≥ 1 g/day)
+or a urinary protein-to-creatinine ratio (UPCR) ≥ 0.8 g/g despite optimized supportive
+care, and estimated glomerular filtration rate (eGFR) ≥ 35 mL/min/1.73 m2 and ≤
+90 mL/min/1.73 m2.2,4 Optimized supportive care required that patients receive the
+maximum tolerated or maximum allowed dose of an angiotensin-converting enzyme
+inhibitor and/or angiotensin II type I receptor blocker for ≥ 3 months prior to
+randomization and continue the agent throughout the trial. Tarpeyo resulted in
+Page 1 of 5 - Cigna National Formulary Coverage - Policy:Nephrology – Tarpeyo Prior Authorization Policy
+statistically greater reduction in UPCR and less eGFR decline relative to placebo after
+9 months of treatment.2
+Following the 9-month randomized, treatment period, patients were followed for 15
+months during an observational period in which no study medication was
+administered.4 During the observational study period, all patients remained on
+optimized supportive care. At Year 2, the time-weighted average of eGFR (primary
+endpoint) showed a statistically significant treatment benefit in patients who received
+Tarpeyo vs. placebo (-2.47 mL/min/1.73 m2 vs. -7.52 mL/min/1.73 m2, respectively;
+P < 0.0001 for the difference). At the end of the original study period (Month 9), the
+mean change in eGFR in the Tarpeyo and placebo groups was +0.66 mL/min/1.73
+m2 and -4.56 mL/min/1.73 m2, respectively; the eGFR benefit was maintained during
+the 15 month observational period. At Year 2, the change in eGFR from baseline was
+-6.11 mL/min/1.73 m2 in the Tarpeyo group vs. -12.00 mL/min/1.73 m2 in the
+placebo group corresponding to a difference in the 2-year total eGFR slope
+(supportive endpoint) of 2.95 mL/min/1.73 m2/year (P < 0.0001). This represented
+approximately 50% less deterioration of kidney function in patients receiving Tarpeyo
+vs. placebo over the 2 year period. The 2-year eGFR treatment effect was consistent
+across subgroups including the baseline proteinuria and UPCR subgroups (< 1.5 g/g
+or ≥ 1.5 g/g). Time from randomization to confirmed 30% reduction eGFR or kidney
+failure (secondary endpoint) was significantly delayed with Tarpeyo vs. placebo (12%
+of patients vs. 21% of patients, respectively; hazard ratio [HR] 0.45; 95% confidence
+interval [CI]: 0.26, 0.75). In a post-hoc analysis, the benefit for this secondary
+endpoint was observed for patients with baseline UPCR < 1.5 g/g or ≥ 1.5 g/g,
+although the magnitude of effect was larger in patients with UPCR ≥ 1.5 g/g (18%
+vs. 36 for Tarpeyo vs. placebo, respectively; HR 0.51; 95% CI: 0.21, 1.12) vs. UPCR
+< 1.5 g/g (8% vs. 14% for Tarpeyo vs. placebo, respectively; HR 0.42; 95% CI:
+0.21, 0.83). There was a durable reduction in proteinuria with Tarpeyo, the maximal
+effect of Tarpeyo vs. placebo was observed at 1 year (reduction in UPCR of
+approximately 50% with Tarpeyo); at Year 2, from baseline, UPCR reduction was
+similar to that observed at Month 9 (~ 30%).
+Guidelines
+Tarpeyo is recognized as new therapy for high-risk IgAN patients by the Kidney
+Diseases Improving Global Outcomes (KDIGO) guidelines for the management IgAN
+and immunoglobulin A vasculitis (2024).3 According to the guidelines, budesonide
+products are recommended for a 9-month treatment course for patients who are at
+risk of progressive kidney function loss with IgAN.
+Following biopsy-confirmed diagnosis of IgAN, the guidelines recommend assessment
+of disease progression.3 The primary focus of IgAN treatment should include multiple
+modalities such as renin angiotensin system blockage (maximum dose or maximum
+tolerated dose), blood pressure control, cardiovascular risk minimization, and
+adherence to lifestyle advice (i.e., dietary counseling, smoking cessation, weight
+control, and exercise as appropriate). When proteinuria remains ≥ 0.5 g/day despite
+≥ 90 days of optimized supportive care, the patient has a high risk of progressive
+loss of kidney function and may be considered for a 6-month course of steroid therapy
+(recently cited trials include prednisone or methylprednisolone), or preferably the
+3 Pages - Cigna National Formulary Coverage - Policy:Nephrology – Tarpeyo Prior Authorization Policy
+opportunity to take part in a clinical trial.4 Guidelines point out that the clinical benefit
+of steroids in IgAN is not established, and should be used with extreme caution or
+avoided in patients with eGFR < 30 mL/min/1.73 m2, diabetes, obesity (body mass
+index > 30 kg/m2), latent infections (e.g., tuberculosis, viral hepatitis), secondary
+disease (e.g., cirrhosis), active peptic ulceration, uncontrolled psychiatric illness, and
+severe osteoporosis. There are no data to support the efficacy or reduced toxicity of
+alternate day steroid regimens or dose-reduced protocols.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Tarpeyo. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Tarpeyo as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Tarpeyo to be prescribed by or in consultation with a physician who specializes in the
+condition being treated.
+• Tarpeyo™ (budesonide delayed-release capsules (
+Calliditas)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Primary Immunoglobulin A Nephropathy. Approve for the duration noted if
+the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 10 months if the patient meets ALL of the following
+(i, ii, iii, iv, v, vi, and vii):
+i. Patient is ≥ 18 years of age; AND
+ii. The diagnosis has been confirmed by biopsy; AND
+iii. Patient is at high risk of disease progression, defined by meeting BOTH of
+the following (a and b):
+a) Patient meets ONE of the following [(1) or (2)]:
+(1) Proteinuria ≥ 0.5 g/day; OR
+(2) Urine protein-to-creatinine ratio ≥ 0.8 g/g; AND
+b) Patient has been receiving the maximum or maximally tolerated dose of
+ONE of the following for ≥ 90 days [(1) or (2)]:
+(1) Angiotensin converting enzyme inhibitor; OR
+(2) Angiotensin receptor blocker; AND
+iv. According to the prescriber, the patient has received ≥ 90 days of optimized
+supportive care, including blood pressure management, lifestyle
+modification, and cardiovascular risk modification; AND
+v. Patient has an estimated glomerular filtration rate ≥ 30 mL/min/1.73 m2;
+AND
+vi. Patient has not previously been treated with Tarpeyo; AND
+Note: For a patient currently receiving Tarpeyo, review using Criterion 1B.
+3 Pages - Cigna National Formulary Coverage - Policy:Nephrology – Tarpeyo Prior Authorization Policy
+vii. The medication is prescribed by or on consultation with a nephrologist.
+B) Patient is Currently Receiving Tarpeyo. Approve for up to 10 months (total) if
+the patient meets ALL of the following (i, ii, iii, iv, v, and vi):
+Note: Approval is not to exceed 10 consecutive months; for example if a
+patient has received 3 consecutive months approve 7 months to complete 10
+consecutive months of therapy.
+i. Patient is ≥ 18 years of age; AND
+ii. The diagnosis has been confirmed by biopsy; AND
+iii. Patient has been receiving the maximum or maximally tolerated dose of
+ONE of the following for ≥ 90 days (a or b):
+a) Angiotensin converting enzyme inhibitor; OR
+b) Angiotensin receptor blocker; AND
+iv. According to the prescriber, the patient has received ≥ 90 days of optimized
+supportive care, including blood pressure management, lifestyle
+modification, and cardiovascular risk modification; AND
+v. Patient has an estimated glomerular filtration rate ≥ 30 mL/min/1.73 m2;
+AND
+vi. The medication is prescribed by or on consultation with a nephrologist.
+CONDITIONS NOT COVERED
+• Tarpeyo™ (budesonide delayed-release capsules (
+Calliditas)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following; criteria will be updated as new published
+data are available
+REFERENCES
+1. Tarpeyo™ capsules [prescribing information]. Stockholm, Sweden: Calliditas; December 2023.
+2. Barratt J, Lafayette R, Kristensen J, et al; for the NefIgArd Trial Investigators. Results from part A
+of the Multicenter, double-blind, randomized, placebo-controlled NefIgArd trial, which evaluated
+targeted-release formulation of budesonide for the treatment of primary immunoglobulin A
+nephropathy. Kidney International. 2023;103:391-402.
+3. Kidney Diseases: Improving Global Outcomes (KDIGO) 2024 clinical practice guidelines for the
+management of immunoglobulin A nephropathy (IgAN) and immunoglobulin A vasculitis (IgAV).
+Draft published online ahead of print. Available at: https://kdigo.org/wp-
+content/uploads/2024/08/KDIGO-2024-IgAN-IgAV-Guideline-Public-Review-Draft.pdf. Accessed
+on September 23, 2024.
+4. Lafayette R, Kristensen J, Stone A, et al; on behalf of the NefIgArd trial investigators. Efficacy and
+safety of a targeted-release formulation of budesonide in patients with primary IgA nephropathy
+(NefIgArd): 2-year results from a randomized phase 3 trial. Lancet. 2023;402(10405):859-870.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 01/11/2023
+Revision
+3 Pages - Cigna National Formulary Coverage - Policy:Nephrology – Tarpeyo Prior Authorization Policy
+Annual Primary Immunoglobulin A Nephropathy: The criterion requiring 01/31/2024
+Revision that the patient is at high risk of disease progression, defined by ONE
+of the following: urine-to-protein-creatinine ratio ≥ 1.5 g/g OR
+proteinuria ≥ 0.75 g/day was revised to require that the patient is at
+high risk of disease progression, defined by urine-to-protein-
+creatinine ratio ≥ 0.8 g/g OR proteinuria ≥ 0.75 g/day.
+Selected Primary Immunoglobulin A Nephropathy: The criterion requiring 10/02/2024
+Revision that the patient is at high risk of disease progression, defined by ONE
+of the following: urine-to-protein-creatinine ratio ≥ 0.8 g/g OR
+proteinuria ≥ 0.75 g/day was revised to require that the patient is at
+high risk of disease progression, defined by urine-to-protein-
+creatinine ratio ≥ 0.8 g/g OR proteinuria ≥ 0.5 g/day.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2024 The Cigna
+Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Nephrology – Tarpeyo Prior Authorization Policy

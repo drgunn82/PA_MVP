@@ -1,0 +1,107 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Program
+Program Number 2025 P 1247-12
+Program Prior Authorization/Notification
+Medication Aimovig® (erenumab), Ajovy® (fremanezumab)*, Emgality®
+(galcanezumab)
+P&T Approval Date 6/2018, 10/2018, 7/2019, 7/2020, 11/2020, 7/2021, 3/2022, 5/2022,
+5/2023, 3/2024, 6/2024, 2/2025 2/2025
+Effective Date 5/1/2025
+1. Background:
+Aimovig, Ajovy* and Emgality 120 mg are calcitonin gene-related peptide (CGRP) receptor
+antagonists indicated for the preventive treatment of migraine in adults. The 100 mg strength of
+Emgality is indicated for the treatment of episodic cluster headache in adults.
+2. Coverage Criteriaa:
+A. Migraines
+1. Initial Therapy
+a. Aimovig, Ajovy* or Emgality (120 mg strength) will be approved based upon all of
+the following criteria:
+(1) Diagnosis of migraines
+-AND-
+(2) Used for the preventive treatment of migraines
+-AND-
+(3) Medication will not be used in combination with another CGRP antagonist or
+inhibitor used for the preventive treatment of migraines (e.g., Nurtec® ODT,
+Qulipta®, Vyepti®^)
+Authorization will be issued for 12 months
+2. Reauthorization
+a. Aimovig, Ajovy* or Emgality (120 mg strength) will be approved based on both of
+the following criteria:
+(1) Patient has experienced a positive response to therapy, demonstrated by a reduction
+in headache frequency and/or intensity
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+1
+(2) Medication will not be used in combination with another CGRP antagonist or
+inhibitor used for the preventive treatment of migraines (e.g., Nurtec ODT,
+Qulipta, Vyepti^)
+Authorization will be issued for 12 months
+B. Episodic Cluster Headache
+1. Initial Therapy
+a. Emgality (100 mg strength) will be approved based upon all of the following criteria:
+(1) Diagnosis of episodic cluster headache
+-AND-
+(2) Patient has experienced at least 2 cluster periods lasting from 7 days to 365 days,
+separated by pain-free periods lasting at least three months.
+-AND-
+(3) Medication will not be used in combination with another CGRP antagonist or
+inhibitor used for the preventive treatment of migraines (e.g. Aimovig, Ajovy*,
+Nurtec ODT, Qulipta, Vyepti^)
+Authorization will be issued for 12 months
+2. Reauthorization
+a. Emgality (100 mg strength) will be approved based on both of the following criteria:
+(1) Patient has experienced a positive response to therapy, demonstrated by a
+reduction in headache frequency and/or intensity
+-AND-
+(2) Medication will not be used in combination with another CGRP antagonist or
+inhibitor used for the preventive treatment of migraine (e.g. Aimovig, Ajovy*,
+Nurtec ODT, Qulipta, Vyepti^)
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+*Ajovy is typically excluded from coverage
+^ Vyepti may be subject to additional benefit and coverage review requirements.
+© 2025 UnitedHealthcare Services, Inc.
+2
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Medical Necessity, Step Therapy and Supply limits may be in place.
+4. References:
+1. Aimovig [package insert]. Thousand Oaks, CA: Amgen Inc; August 2024.
+2. Ajovy [package insert]. North Wales, PA: Teva Pharmaceuticals USA, Inc; October 2022.
+3. Emgality [package insert]. Indianapolis, IN: Eli Lilly and Company; March 2021.
+4. International Headache Society (IHS); Headache Classification Committee. The
+International Classification of Headache Disorders, 3rd edition. Cephalalgia. 2018; 38:1-
+211.
+5. Calcitonin gene-related peptide-targeting therapies are a first-line option for the prevention
+of migraine: An American Headache Society position statement update. AHS Consensus
+Statement. Headache. 2024;41:333-41.
+Program Prior Authorization/Notification – CGRP antagonists
+Change Control
+6/2018 New program
+10/2018 Added Ajovy and Emgality. Updated references.
+7/2019 Added the episodic cluster headache indication and included approvable
+strength for episodic and chronic migraine.
+7/2020 Annual review. Updated initial authorization duration.
+11/2020 Updated to note not to be used in combination with another biologic CGRP.
+Added that Ajovy is typically excluded from coverage.
+7/2021 Annual review. Added statement regarding concomitant therapy with other
+preventive CGRPs. Updated references.
+3/2022 Added Qulipta as CGRP to not be used in combination with. Updated the
+products typically excluded from coverage. Added note for Vyetpi
+regarding additional benefit and coverage review requirements. Updated
+references.
+5/2022 Combined the episodic and chronic migraine criteria and removed the
+migraine and headache days.
+5/2023 Annual review. Added state mandate language. Updated references.
+3/2024 Annual review. Increased the initial authorization to 12 months. Updated
+references.
+6/2024 Removed notation that Qulipta is typically excluded from coverage.
+Updated references.
+2/2025 Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+3

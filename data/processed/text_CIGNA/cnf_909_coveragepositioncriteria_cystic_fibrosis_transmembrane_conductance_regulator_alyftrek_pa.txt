@@ -1,0 +1,274 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Cystic Fibrosis Transmembrane Conductance Regulator – Alyftrek Prior
+Authorization Policy
+• Alyftrek™ (vanzacaftor/tezacaftor/deutivacaftor tablets – Vertex)
+REVIEW DATE: 01/02/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Alyftrek is a combination of deutivacaftor, a cystic fibrosis transmembrane regulator
+(CFTR) potentiator, tezacaftor, and vanzacaftor. It is indicated for the treatment
+of cystic fibrosis (CF) in patients ≥ 6 years of age who have at least one F508del
+mutation or another responsive mutation in the CFTR gene.1
+If the patient’s genotype is unknown, an FDA-cleared CF mutation test should be
+used to confirm the presence of at least one indicated mutation.1
+Table 1 lists responsive CFTR mutations based on clinical response, and/or in vitro
+data in Fischer Rat Thyroid cells or human bronchial endothelial cells, or based on
+extrapolation of efficacy.
+Table 1. List of CFTR Gene Mutations that are Responsive to Alyftrek.1
+1341G→A 2789+2insA 3041-15T→G 3849+10kbC→T 3850-3T→G
+3195del6 E403D G480S I807M P5L
+3600G→A 3849+40A→G 5T;TG12 E831X 2752- 296+28A→G
+26A→G
+3849+4A→G 4005+2T→C 621+3A→G 2789+5G→A 3272-26A→G
+5T;TG13 711+3A→G 1898+3A→G L1011S Q1100P
+A1067T E822K G622D L137P Q359R
+Page 1 of 6 - Cigna National Formulary Coverage - Policy:Cystic Fibrosis Transmembrane Conductance Regulator –
+Alyftrek Prior Authorization Policy
+A349V F1099L H1085P L333F Q98R
+A561E F311L H199Y L346P R1066C
+A62P F508C;S1251N H620P L997F R1162L
+D1270N G1069R I105N M152V R117H
+D443Y;G576A;R668C G126D I1269N N1303I R170H
+D836Y G194R I148T P140S R334L
+E116Q G424S I556V P67L R352W
+E56K G551S K1060T Q1313K R560S
+F1016S G91R L1065P Q452P R74W
+F191V H1375P L15P L1077P R352Q
+F508del A455E G551D R1066M R933G
+F587I H939R L453S R117G S1255P
+G1249R I125T M150K R1283S S549I
+G178R I148N N1088D R31L T1036N
+G314E I506T N418S R347H T1246I
+G480C I618T P499A R516S V1153E
+G576A;R668C K464E P99L R668C V392G
+G970S L1335P Q237H R74W;V201M W361R
+H199R L320V Q552P R75L Y1032C
+H609R L333H R1048G S108F Y569C
+I1027T L967S R1070W S1235R D443Y
+I1234Vdel6aa M1137V R117C;G576A;R668C S492F D614G
+I1398S M952T R1283M S977F E116K
+I506L N187K R31C T338I 546insCTA
+I980K P574H R347P V1293G A120T
+L102R Q1291R R555G V456F A554E
+Table 1 (continued). List of CFTR Gene Mutations that are Responsive to Alyftrek.1
+L1480P Q372H R74Q Y161D C491R
+L441P R1066L R792G D192G G1247R
+M1101R R117C S1159P D579G G178E
+M952I R117P S364P D993Y G27R
+N186K R297Q S912L 3141del9 E292K
+P205S R334Q T1086I A1067P E60K
+P750L R516G T604I A309D F1074L
+Q237E R560T V232D A559V F311del
+Q493R R74W;D1270N V603F Y563N 1507_1515del9
+R1066H S1251N V562I D110H G1061R
+R1070Q S1045Y Y301C G149R I1366N
+R117L S341P D565G G27E I502T
+R258G S737F D979V E474K G551A
+R347L T1299I 3199del6 E92K G628R
+R553Q V1240G A107G F1107L H1085R
+R709Q V456A A46D A613T F508C
+R74W;V201M;D 1270N Y1014C F575Y H620Q
+R751L Y109N A72D H1054D M1101K
+R75Q S549R W1098C G1123R I1139V
+S1118F Y913C D1445N G1244E I336K
+S1159F S945L W1282R I331N M265R
+S13F D513G G1349D G85E L206W
+S549N V754M D1152H I175V N1303K
+S589N D924N G194V G463V I601F
+T1053I 2183A→G E193K G576A K162E
+T351I A1006E E588V G970D L1324P
+V201M A234D F1052V H139R L165S
+V520F A559T F200I H939R;H949L L619S
+Y161S D110E G1047R
+6 Pages - Cigna National Formulary Coverage - Policy:Cystic Fibrosis Transmembrane Conductance Regulator –
+Alyftrek Prior Authorization Policy
+CFTR – Cystic Fibrosis Transmembrane Conductance Regulator.
+Guidelines
+Alyftrek is not addressed in available guidelines. The most current treatment
+recommendations are the Standards of Care for CFTR variant-specific therapy for
+people with CF, from the European Cystic Fibrosis Society (2023).2 However, the
+Standards do not reflect the currently approved age indications for Kalydeco®
+(ivacaftor tablets and oral granules) [≥ 1 months of age], Orkambi®
+[lumacaftor/ivacaftor tablets and oral granules] (≥ 1 year of age), or Trikafta®
+[elexacaftor/tezacaftor/ivacaftor; ivacaftor tablets and oral granules) [≥ 2 years of
+age]. In general, Trikafta is recommended over other agents where indications
+overlap. The Standards recommend Trikafta in patients ≥ 6 years of age with CF
+who are homozygous or heterozygous for F508del. In patients with one or more
+responsive non-F508del variant, Kalydeco, Symdeko® (tezacaftor/ivacaftor and
+ivacaftor tablets), or Trikafta are recommended. Kalydeco is recommended in
+patients ≥ 4 months of age with eligible CFTR gene variants. Orkambi is
+recommended for patients 2 to 5 years of age who are homozygous for F508del. Of
+note, the Standards state that after diagnosis, repeat sweat testing provides
+evidence of treatment effect on CFTR activity, but does not predict clinical
+response. The European Cystic Fibrosis Society Standards for establishing and
+maintaining health (2024) note that people with CF with eligible CFTR gene variants
+should be offered CFTR modulator therapy.5
+According to the CF Foundation (2017), CF is diagnosed when an individual has
+both a clinical presentation of CF and evidence of CFTR dysfunction.3,4 Clinical
+presentation of CF includes a positive newborn screening, signs and/or symptoms
+of CF, and/or family history of CF. To establish a diagnosis of CF, sweat chloride
+tests should be considered first, then CFTR genetic analysis (CFTR genotype), and
+then CFTR physiologic tests (nasal potential difference [NPD] or intestinal current
+measurement [ICM]). However, tests of CFTR function are not always done in this
+order. All individuals diagnosed with CF should have a sweat chloride test and
+CFTR genetic analysis performed.
+In a patient with a sweat chloride test ≥ 60 mmol/L, CF diagnosis is established and
+in patients with a sweat chloride test < 30 mmol/L, a diagnosis of CF is unlikely.3,4
+Rarely, patients with a sweat chloride < 30 mmol/L may be considered to have CF if
+alternatives are excluded and other confirmatory tests (genetic and physiologic
+testing) support CF. In patients with a sweat chloride test of ≥ 30 to < 60 mmol/L,
+CFTR genetic analysis is undertaken. If the genetic analysis identifies two CF-
+causing CFTR mutations, CF is diagnosed, if no CFTR mutations are identified, a
+diagnosis of CF is unlikely. In patients with a CFTR genotype that is undefined or of
+varying clinical consequence, full gene CFTR sequencing (if not already performed)
+or CFTR physiologic testing is performed (NPD or ICM). If only one CFTR variant is
+identified on limited analysis, full gene CFTR sequencing should be performed. CF
+is possible if both alleles possess CF-causing, undefined, or mutation of varying
+clinical consequence mutations; CF is unlikely if only no CF-causing mutations are
+found. If results of the NPD or ICM show CFTR dysfunction, CF is diagnosed; when
+testing is unavailable or equivocal, the diagnosis of CF is not resolved, and when
+6 Pages - Cigna National Formulary Coverage - Policy:Cystic Fibrosis Transmembrane Conductance Regulator –
+Alyftrek Prior Authorization Policy
+results of the physiologic testing show CFTR function is preserved, a diagnosis of CF
+is considered unlikely. It is recommended that patients with challenging diagnoses
+be evaluated at an accredited CF Foundation Care Center.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Alyftrek.
+All approvals are provided for the duration noted below. Because of the specialized
+skills required for evaluation and diagnosis of patients treated with Alyftrek as well
+as the monitoring required for adverse events and long-term efficacy, approval
+requires Alyftrek to be prescribed by or in consultation with a physician who
+specializes in the condition being treated.
+Alyftrek™ (vanzacaftor/tezacaftor/deutivacaftor tablets – Vertex)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Cystic Fibrosis. Approve for 1 year if the patient meets ALL of the following
+(A, B, C, D, and E):
+A) Patient is ≥ 6 years of age; AND
+B) Patient has at least ONE of the following variants in the cystic fibrosis
+conductance regulator gene that is considered to be a pathogenic or likely
+pathogenic variant: F508del, A455E, G551D, L1077P, R352Q, S549N,
+V754M, D1152H, G85E, L206W, R75Q, S549R, W1098C, H1054D, M1101K,
+S1159F, S945L, W1282R, G1244E, I336K, R1066H, S1251N, V562I, Y563N,
+1507_1515del9, E116Q, G424S, I556V, P140S, R334L, T1053I, 2183A→G,
+E193K, G463V, I601F, P205S, R334Q, T1086I, 3141del9, E292K, G480C,
+I618T, P499A, R347H, T1246I, 3195del6, E403D, G480S, I807M, P5L,
+R347L, T1299I, 3199del6, E474K, G551A, I980K, P574H, R347P, T338I,
+546insCTA, E56K, G551S, K1060T, P67L, R352W, T351I, A1006E, E588V,
+G576A, K162E, P750L, R516G, T604I, A1067P, E60K, G576A;R668C, K464E,
+P99L, R516S, V1153E, A1067T, E822K, G622D, L1011S, Q1100P, R553Q,
+V1240G, A107G, E92K, G628R, L102R, Q1291R, R555G, V1293G, A120T,
+F1016S, G91R, L1065P, Q1313K, R560S, V201M, A234D, F1052V, G970D,
+L1324P, Q237E, R560T, V232D, A309D, F1074L, G970S, L1335P, Q237H,
+R668C, V392G, A349V, F1099L, H1085P, L137P, Q359R, R709Q, V456A,
+A46D, F1107L, H1085R, L1480P, Q372H, R74Q, V456F, A554E, F191V,
+H1375P, L15P, Q452P, R74W, V520F, A559T, F200I, H139R, L165S, Q493R,
+R74W;D1270N, V603F, A559V, F311del, H199R, L320V, Q552P,
+R74W;V201M, W361R, A561E, F311L, H199Y, L333F, Q98R, R74W;V201M;D,
+1270N, Y1014C, A613T, F508C, H609R, L333H, R1048G, R75L, Y1032C,
+A62P, F508C;S1251N, H620P, L346P, R1066C, R751L, Y109N, A72D, F575Y,
+H620Q, L441P, R1066L, R792G, Y161D, C491R, F587I, H939R, L453S,
+R1066M, R933G, Y161S, D110E, G1047R, H939R;H949L, L619S, R1070Q,
+6 Pages - Cigna National Formulary Coverage - Policy:Cystic Fibrosis Transmembrane Conductance Regulator –
+Alyftrek Prior Authorization Policy
+S1045Y, Y301C, D110H, G1061R, I1027T, L967S, R1070W, S108F, Y569C,
+D1270N, G1069R, I105N, L997F, R1162L, S1118F, Y913C, D1445N, G1123R,
+I1139V, M1101R, R117C, S1159P, D192G, G1247R, I1234Vdel6aa, M1137V,
+R117C;G576A;R668C, S1235R, D443Y, G1249R, I125T, M150K, R117G,
+S1255P, D443Y;G576A;R668C, G126D, I1269N, M152V, R117H, S13F,
+D513G, G1349D, I331N, M265R, R117L, S341P, D565G, G149R, I1366N,
+M952I, R117P, S364P, D579G, G178E, I1398S, M952T, R1283M, S492F,
+D614G, G178R, I148N, N1088D, R1283S, S549I, D836Y, G194R, I148T,
+N1303I, R170H, S589N, D924N, G194V, I175V, N1303K, R258G, S737F,
+D979V, G27E, I502T, N186K, R297Q, S912L, D993Y, G27R, I506L, N187K,
+R31C, S977F, E116K, G314E, I506T, N418S, R31L, T1036N, 1341G→A,
+2789+2insA, 3041-15T→G, 3849+10kbC→T, 3850-3T→G, 5T;TG13,
+711+3A→G, 1898+3A→G, 2789+5G→A, 3272-26A→G, 3849+4A→G,
+4005+2T→C, 621+3A→G, E831X 2752-26A→G, 296+28A→G, 3600G→A,
+3849+40A→G, 5T;TG12; AND
+C) Patient meets at least ONE of the following (i, ii, or iii):
+i. Positive cystic fibrosis newborn screening test; OR
+ii. Family history of cystic fibrosis; OR
+iii. Clinical presentation consistent with signs and symptoms of cystic
+fibrosis; AND
+Note: Examples of clinical presentation of cystic fibrosis include but are
+not limited to meconium ileus, sino-pulmonary symptoms (e.g., persistent
+cough, wheezing, pulmonary function tests consistent with obstructive
+airway disease, excess sputum production), bronchiectasis, sinusitis,
+failure to thrive, pancreatic insufficiency.
+D) Patient has evidence of abnormal cystic fibrosis transmembrane conductance
+regulator function as demonstrated by at least ONE of the following (i, ii, or
+iii):
+i. Elevated sweat chloride test; OR
+ii. Two cystic fibrosis-causing cystic fibrosis transmembrane conductance
+regulator mutations; OR
+iii. Abnormal nasal potential difference; AND
+E) The medication is prescribed by or in consultation with a pulmonologist or a
+physician who specializes in the treatment of cystic fibrosis.
+CONDITIONS NOT COVERED
+Alyftrek™ (vanzacaftor/tezacaftor/deutivacaftor tablets – Vertex)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria
+will be updated as new published data are available):
+1. Cystic Fibrosis, Patient with Unknown Cystic Fibrosis Transmembrane
+Conductance Regulator Gene Mutation. An FDA-cleared cystic fibrosis
+mutation test should be used to detect the presence of at least one indicated
+mutation prior to use of Alyftrek.1
+6 Pages - Cigna National Formulary Coverage - Policy:Cystic Fibrosis Transmembrane Conductance Regulator –
+Alyftrek Prior Authorization Policy
+2. Combination Therapy with other Cystic Fibrosis Transmembrane
+Conductance Regulator Modulator(s). Alyftrek contains tezacaftor, which is
+a component of Symdeko® (tezacaftor/ivacaftor tablets; ivacaftor tablets) and
+Trikafta® (elexacaftor/tezacaftor/ivacaftor; ivacaftor tablets and granules).
+Note: Examples of other cystic fibrosis transmembrane conductance regulator
+modulators are: Kalydeco® (ivacaftor tablets and oral granules), Orkambi®
+(lumacaftor/ivacaftor tablets and oral granules), Symdeko®
+(tezacaftor/ivacaftor; ivacaftor tablets), Trikafta®
+(elexacaftor/tezacaftor/ivacaftor; ivacaftor tablets and oral granules).
+3. Infertility. Alyftrek is indicated for the treatment of cystic fibrosis in patients ≥
+6 years of age who have at least one F508del mutation or another responsive
+mutation in the cystic fibrosis transmembrane conductance regulator gene.
+Note: A patient with a diagnosis of cystic fibrosis should be reviewed using
+criteria for the FDA-approved indication, above.
+REFERENCES
+1. Alyftrek™ tablets [prescribing information]. Cambridge, MA: Vertex; December 2024.
+2. Southern KW, Castellani C, Lammertyn E, et al. Standards of care for CFTR variant-specific
+therapy (including modulators) for people with cystic fibrosis. J Cyst Fibros. 2023;17-30.
+3. Farrell PM, White TB, Ren CL, et al. Diagnosis of cystic fibrosis: consensus guidelines from the
+cystic fibrosis foundation. J Pediatr. 2017;181S:S4-S15.
+4. Farrell PM, White TB, Howenstine MS, et al. Diagnosis of cystic fibrosis in screened populations. J
+Pediatr. 2017;181S:S33-S44.
+5. Southern KW, Addy C, Bell SC, et al. Standards for the care of people with cystic fibrosis;
+establishing and maintaining health. J Cyst Fibros. 2024;21-28.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 01/02/2025
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. ©
+2025 The Cigna Group.
+6 Pages - Cigna National Formulary Coverage - Policy:Cystic Fibrosis Transmembrane Conductance Regulator –
+Alyftrek Prior Authorization Policy

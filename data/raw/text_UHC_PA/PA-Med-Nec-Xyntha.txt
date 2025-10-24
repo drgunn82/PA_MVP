@@ -1,0 +1,106 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2109-10
+Program Prior Authorization/Medical Necessity
+Medication Xyntha® (antihemophilic factor [recombinant])
+P&T Approval Date 10/2016, 12/2016, 4/2018, 3/2019, 10/2019, 9/2020, 9/2021, 9/2022,
+9/2023, 9/2024
+Effective Date 12/1/2024
+1. Background:
+Xyntha® (antihemophilic factor [recombinant]) is a recombinant antihemophilic factor indicated
+in adults and children with hemophilia A (congenital Factor VIII deficiency) for:1
+On-demand treatment and control of bleeding episodes
+o
+Perioperative management
+o
+Routine prophylaxis to reduce the frequency of bleeding episodes
+o
+Xyntha is not indicated for the treatment of von Willebrand’s disease.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Xyntha will be approved based on both of the following criteria:1-6
+a. Diagnosis of hemophilia A
+-AND-
+b. One of the following:
+(1) Submission of documentation showing failure to meet clinical goals (e.g.,
+continuation of spontaneous bleeds, inability to achieve appropriate trough
+level) after a trial of three of the following recombinant factor products:
+(a) Advate
+(b) Kogenate FS
+(c) Kovaltry
+(d) NovoEight
+(e) Nuwiq
+(f) Recombinate
+-OR-
+(2) Submission of documentation showing history of hypersensitivity to three of
+the following recombinant factor products:
+(a) Advate
+© 2024 UnitedHealthcare Services, Inc.
+1
+(b) Kogenate FS
+(c) Kovaltry
+(d) NovoEight
+(e) Nuwiq
+(f) Recombinate
+-OR-
+(3) Prescriber attestation that patient would preferentially benefit from Xyntha
+based on one of the following:
+(a) Patient is at high risk for the development of inhibitors (e.g., family history
+of inhibitors and success with product, current treatment less than 50 days,
+high risk genetic mutation, history of initial intensive therapy greater than 5
+days)
+(b) Patient has developed inhibitors
+(c) Patient has undergone immune tolerance induction/immune tolerance
+therapy
+Authorization of therapy will be issued for 12 months.
+B. Reauthorization
+1. Xyntha will be approved based on the following criterion:
+a. Documentation of positive clinical response to Xyntha therapy.
+Authorization of therapy will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+4. References:
+1. Xyntha® [package insert]. Philadelphia, PA: Wyeth Pharmaceuticals, Inc., July 2022.
+2. ter Avest PC, Fischer K, Mancuso ME, et al. Risk stratification for inhibitor development at
+first treatment for severe hemophilia A: a tool for clinical practice. J Thromb Haemost.
+2008; 6: 2048–54.
+3. Hoots WK, Shapiro AD. Hemophilia A and B: Routine management including prophylaxis
+. In: UpToDate, Waltham, MA, 2024.
+4. Hoots WK, Shapiro AD. Inhibitors in hemophilia: Mechanisms, prevalence, diagnosis, and
+eradication. In: UpToDate, Waltham, MA, 2024.
+© 2024 UnitedHealthcare Services, Inc.
+2
+5. MASAC Recommendations Concerning Products Licensed for the Treatment of
+Hemophilia and Selected Disorders of the Coagulation System . MASAC Document #284,
+April 11, 2024.
+6. MASAC Recommendation on SIPPET (Survey of Inhibitors in Plasma-Product-Exposed
+Toddlers): Results and Recommendations for Treatment Products for Previously Untreated
+Patients with Hemophilia A. MASAC Document #243, June 28 2016.
+Program Prior Authorization/Medical Necessity - Xyntha
+Change Control
+10/2016 New program.
+12/2016 Updated criteria to allow for use in routine prophylaxis in addition to
+acute treatment and perioperative management.
+4/2018 Annual review with no change to clinical intent. Revised formatting.
+Updated state mandate verbiage. Updated references.
+3/2019 Annual review with no changes to coverage criteria. Updated reference.
+10/2019 Annual review with no changes to coverage criteria.
+9/2020 Updated background to include new indication for routine prophylaxis.
+Modified program updating preferred agents, adding Advate and
+Recombinate. Updated reference.
+9/2021 Annual review with no changes to coverage criteria. Updated
+background.
+9/2022 Annual review with no changes to coverage criteria. Updated
+references.
+9/2023 Annual review. Modified physician attestation to prescriber attestation.
+Updated references.
+9/2024 Annual review. Revised outline of coverage criteria without change to
+clinical intent. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+3

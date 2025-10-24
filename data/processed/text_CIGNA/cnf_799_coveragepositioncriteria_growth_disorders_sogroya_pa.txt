@@ -1,0 +1,589 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Growth Disorders – Sogroya Prior Authorization Policy
+• Sogroya® (somapacitan-beco subcutaneous injection − Novo
+Nordisk)
+REVIEW DATE: 06/18/2025; selected revision 08/13/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Sogroya, a long-acting human growth hormone (hGH) analog, is indicated for the
+treatment of pediatric patients ≥ 2.5 years of age who have growth failure due to
+inadequate secretion of growth hormone (GH).1 Sogroya is also indicated for the
+replacement of endogenous GH in adults with GH deficiency (GHD).
+Disease Overview
+GHD in Children and Adolescents
+Sogroya is a hGH analog.1 In children with GHD, somatropin is effective for increasing
+final adult height.2 Somatropin therapy is recommended to normalize adult height
+and avoid extreme shortness in children and adolescents with GHD.2 In addition to
+congenital causes, hypopituitarism may also be caused by radiation therapy;
+somatropin may be used to improve final height of children who have undergone
+radiation.3,4
+Page 1 of 13 - Cigna National Formulary Coverage - Policy: Growth Disorders – Sogroya Prior Authorization Policy
+GHD in Adults or Transition Adolescents
+Somatropin is indicated for the replacement of endogenous GH in adults with GH,
+which may present in adults or children as GHD.11 Patients with other anterior
+pituitary hormone deficiencies are likely to have GHD. In adults, the diagnosis of GHD
+usually is made in patients with signs and symptoms of hypothalamic-pituitary
+disease (endocrine, structural, and/or genetic causes); those who have received
+cranial irradiation or tumor treatment; or those with traumatic brain injury or
+subarachnoid hemorrhage.11,12 Onset may be in adulthood or childhood. In
+childhood, the goal of somatropin therapy is primarily for statural growth. When final
+adult height is attained, somatropin therapy is no longer required for statural growth.
+Transition is used to describe the period in adolescence after growth is completed
+and the need for continued replacement into adulthood is assessed. Confirmatory GH
+stimulation testing may not be required in patients, such as those with
+congenital/genetic GHD or multiple pituitary hormone deficiencies. When persistent
+GHD is documented after completion of adult height, somatropin therapy should be
+continued to attain full skeletal and muscle maturation during the transition period
+from childhood to adulthood.11 In adults with GHD, somatropin replacement therapy
+improves abnormalities in substrate metabolism, body composition, and physical and
+psychosocial function.11,12 GH is not approved by the FDA for the treatment of other
+conditions in adults who may have a low GH response to GH provocative testing (such
+as obesity, aging, or depression) or to improve athletic performance.3,5
+Macrilen (macimorelin oral solution) was the most recently approved test for the
+diagnosis of adult GHD. Patients in the pivotal trial were 18 to 66 years of age and
+the BMI ranged from 16 to 40 kg/m2.26 Safety and diagnostic performance have not
+been established in patients with BMI > 40 kg/m2. Clinical studies established that a
+maximally stimulated serum growth hormone level of < 2.8 ng/mL (i.e., at the 30,
+45, 60, and 90 minute time points) after Macrilen administration confirms the
+presence of adult GHD. Novo Nordisk no longer commercializes Macrilen. As of May
+2023, Aeterna Zentaris/Cosciens Biopahrma regained the rights to macimorelin in
+the United States and is engaged in business development efforts to secure a new
+development and commercialization partner.27
+Guidelines
+A consensus statement from international experts was recently published (2025)
+regarding long-acting GH therapy.28 The authors note that lonapegsomatropin,
+somapacitan, and somatrogon have all demonstrated noninferiority to daily
+somatropin for efficacy (i.e., annualized height velocity) in pediatric GHD. They also
+state that the safety profile of long-acting products is comparable to that of daily
+somatropin. It is noted that given the unique pharmacokinetic and pharmacodynamic
+profile and molecular weight of each formulation, the weight-based dosing calculation
+is different for each product and direct milligram dose comparisons are not
+appropriate. Some guidelines do not specifically address Sogroya. Neither the
+Pediatric Endocrine Society guidelines for children and adolescents with GH
+deficiency2 (2016) nor the GH Research Society guidelines on children with short
+stature15 (2019) recommend a specific GH product for GHD. Both publications note
+that newer long-acting GH preparations may reduce the frequency of injections.
+13 Pages - Cigna National Formulary Coverage - Policy: Growth Disorders – Sogroya Prior Authorization Policy
+The American Association of Clinical Endocrinologists and the American College of
+Endocrinology guidelines for management of GHD in adults and patients transitioning
+from pediatric to adult care16 (2019) also do not prefer one GH agent over another.
+These guidelines state that when the clinician is suspicious of adult GHD, establishing
+a diagnosis is essential before replacement with GH. Adult GHD is associated with
+numerous adverse metabolic abnormalities (abdominal obesity, reduced lean body
+mass, increased peripheral insulin resistance, impaired cardiac performance) which
+may contribute to increased cardiovascular morbidity and mortality.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Sogroya. All
+reviews will be directed to a clinician (i.e., pharmacist or nurse) for verification of
+criteria. All approvals are provided for the duration noted below. Because of the
+specialized skills required for evaluation and diagnosis of patients treated with
+Sogroya as well as monitoring required for adverse events and long-term efficacy,
+initial approval requires the medication to be prescribed by or in consultation with a
+physician who specializes in the condition being treated. Human growth hormone is
+FDA-approved for treatment of a limited number of conditions. The FDA has not
+approved the use of human growth hormone as therapy for anti-aging, longevity,
+cosmetic or performance enhancement. Federal law prohibits the dispensing of
+human growth hormone for non-approved purposes. A pharmacy’s failure to comply
+with that law could result in significant criminal penalties to the pharmacy and its
+employees. Accordingly, a pharmacy may decline to dispense prescriptions for human
+growth hormone when written by a physician or other authorized prescribers who
+they believe may be involved in or affiliated with the fields of anti-aging, longevity,
+rejuvenation, cosmetic, performance enhancement, or sports medicine.
+Documentation: Documentation is required for use of Sogroya as noted in the
+criteria as [documentation required]. Documentation may include, but is not
+limited to, chart notes, prescription claims records, prescription receipts, and/or other
+information. For patient cases in which documentation is required, if this
+documentation has been previously received upon a prior coverage review, the
+documentation requirement is considered to be met.
+• Sogroya® (somapacitan-beco subcutaneous injection - Novo Nordisk)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Growth Hormone Deficiency in a Child or Adolescent (≥ 2.5 years of age).
+Approve for 1 year if the patient meets ONE the following (A or B):
+A) Initial Therapy with any Growth Hormone Agent. Approve if the patient meets
+ONE of the following (i, ii, iii, iv, or v):
+i. Patient meets BOTH of the following (a and b):
+13 Pages - Cigna National Formulary Coverage - Policy: Growth Disorders – Sogroya Prior Authorization Policy
+a) Patient meets ONE of the following [(1) or (2)]:
+(1) Patient has had at least two growth hormone stimulation tests
+performed with any of the following agents: levodopa, insulin-
+induced hypoglycemia, arginine, clonidine, or glucagon AND the
+peak growth hormone response to both tests are < 10 ng/mL; OR
+(2) Patient meets BOTH of the following criteria [(a) and (b)]:
+(a) Patient has had at least one growth hormone stimulation test
+performed with any of the following agents: levodopa, insulin-
+induced hypoglycemia, arginine, clonidine, or glucagon AND the
+peak growth hormone response to at least one test is < 10
+ng/mL; AND
+(b) Patient has at least one risk factor for growth hormone
+deficiency; AND
+Note: Examples of at least one risk factor for growth hormone
+deficiency includes: the height for age curve has deviated
+downward across two major height percentiles (e.g., from above
+the 25th percentile to below the 10th percentile); the child’s
+growth rate is less than the expected normal growth rate based
+on age and gender; low insulin-like growth factor (IGF)-1 and/or
+IGFBP-3 levels; the child has a very low peak growth hormone
+level on provocative testing as defined by the prescribing
+physician; the child’s growth velocity is less than the 10th
+percentile for age and gender (height velocity percentile is NOT
+the same as height-for-age percentile); the patient is status post
+craniopharyngioma resection; the patient has optic nerve
+hypoplasia; the patient has a growth hormone gene deletion;
+AND
+b) The medication has been prescribed by or in consultation with an
+endocrinologist; OR
+ii. Patient has undergone brain radiation or tumor resection AND meets BOTH
+of the following (a and b):
+a) Patient meets at least ONE of the following [(1) or (2)]:
+(1) Patient meets BOTH of the following [(i) and (ii)]:
+(i) Patient has had at least one growth hormone stimulation test
+performed with any of the following agents: levodopa, insulin-
+induced hypoglycemia, arginine, clonidine, or glucagon; AND
+(ii) The peak growth hormone response to at least one test is < 10
+ng/mL; OR
+(2) Patient has a deficiency in at least one other pituitary hormone (i.e.,
+adrenocorticotropic hormone, thyroid-stimulating hormone,
+gonadotropin [luteinizing hormone and/or follicle stimulating
+hormone deficiency are counted as one deficiency], or prolactin);
+AND
+b) The medication has been prescribed by or in consultation with an
+endocrinologist; OR
+iii. Patient has congenital hypopituitarism AND meets BOTH of the following (a
+and b):
+a) Patient meets at least ONE of the following [(1), (2), or (3)]:
+13 Pages - Cigna National Formulary Coverage - Policy: Growth Disorders – Sogroya Prior Authorization Policy
+(1) Patient meets BOTH of the following [(i) and (ii)]:
+(i) Patient has had at least one growth hormone stimulation test
+performed with any of the following agents: levodopa, insulin-
+induced hypoglycemia, arginine, clonidine, or glucagon; AND
+(ii) The peak growth hormone response to at least one test is < 10
+ng/mL; OR
+(2) Patient has a deficiency in at least one other pituitary hormone (i.e.,
+adrenocorticotropic hormone, thyroid-stimulating hormone,
+gonadotropin [luteinizing hormone and/or follicle stimulating
+hormone deficiency are counted as one deficiency], or prolactin);
+OR
+(3) Patient has the imaging triad of ectopic posterior pituitary and
+pituitary hypoplasia with abnormal pituitary stalk; AND
+b) The medication has been prescribed by or in consultation with an
+endocrinologist; OR
+iv. Patient has multiple pituitary hormone deficiencies and meets BOTH of the
+following (a and b):
+Note: Growth hormone deficiency may occur in combination with other
+pituitary hormone deficiencies and is referred to as hypopituitarism,
+panhypopituitarism, or multiple pituitary hormone deficiency.
+a) Patient meets at least ONE of the following [(1) or (2)]:
+(1) Patient has three or more of the following pituitary hormone
+deficiencies: somatropin (growth hormone), adrenocorticotropic
+hormone, thyroid-stimulating hormone, gonadotropin (luteinizing
+hormone and/or follicle stimulating hormone deficiency are counted
+as one deficiency), and prolactin; OR
+(2) Patient meets BOTH of the following [(i) and (ii)]
+(i) Patient had one growth hormone stimulation test with any of the
+following agents: levodopa, insulin-induced hypoglycemia,
+arginine, clonidine, or glucagon; AND
+(ii) The peak growth hormone response to at least one test is < 10
+ng/mL; AND
+b) The medication has been prescribed by or in consultation with an
+endocrinologist; OR
+v. Patient has had a hypophysectomy (surgical removal of pituitary gland);
+OR
+B) Patient is Currently Receiving Sogroya or is switching to Sogroya from another
+Growth Hormone Agent (Patient has been established on either therapy for ≥
+10 months). Approve if the patient meets ONE of the following (i, ii, or iii):
+i. Patient is < 12 years of age: Patient’s height has increased by ≥ 2 cm/year
+in the most recent year; OR
+ii. Patient is ≥ 12 years of age and < 18 years of age: Patient meets BOTH
+of the following (a and b):
+a) Patient’s height has increased by ≥ 2 cm/year in the most recent year;
+AND
+b) Patient’s epiphyses are open; OR
+iii. Patient is ≥ 18 years of age. Patient meets ALL of the following (a, b, and
+c):
+13 Pages - Cigna National Formulary Coverage - Policy: Growth Disorders – Sogroya Prior Authorization Policy
+a) Patient’s height has increased by ≥ 2 cm/year in the most recent year;
+AND
+b) Patient’s epiphyses are open; AND
+c) Mid-parental height has not been attained.
+Note: Mid-parental height is the father’s height plus the mother’s height
+divided by 2, plus 2.5 inches if male or minus 2.5 inches if female.
+Note: Adolescents and young adults with childhood onset growth
+hormone deficiency who have completed linear growth may continue
+receiving Sogroya therapy as a transition adolescent or as an adult. See
+criteria for Growth Hormone Deficiency in an adult or transition
+adolescent.
+2. Growth Hormone Deficiency in an Adult or Transition Adolescent. Approve
+for 1 year if the patient meets ALL of the following (A, B, C, and D):
+A) The endocrinologist must certify that growth hormone therapy is not being
+prescribed for anti-aging therapy or to enhance athletic ability or for body
+building; AND
+B) Patient must have a diagnosis of growth hormone deficiency that is ONE of the
+following (i or ii): [documentation required for all elements]
+i. Childhood onset; OR
+ii. Adult onset that results from one of the following: growth hormone
+deficiency alone or multiple hormone deficiencies (hypopituitarism)
+resulting from pituitary disease, hypothalamic disease, pituitary surgery,
+cranial radiation therapy, tumor treatment, traumatic brain injury, or
+subarachnoid hemorrhage; AND
+C) Patient meets at least ONE of the following (i, ii, or iii):
+i. Patient (adult or transition adolescent) has known perinatal insults OR
+congenital or genetic defects; [documentation required] OR
+ii. Patient meets ALL of the following (a, b, and c):
+a) Patient (adult onset or transition adolescent) has or had three or more
+of the following pituitary hormone deficiencies prior to hormone
+replacement therapy (if hormone therapy is required):
+Adrenocorticotropic hormone, thyroid-stimulation hormone,
+gonadotropin deficiency (luteinizing hormone and/or follicle stimulating
+hormone deficiency are counted as one deficiency), and prolactin
+[documentation required]; AND
+b) The age and gender adjusted serum insulin-like growth factor-1 is or
+was below the lower limit of the normal reference range for the reporting
+laboratory [documentation required], prior to growth hormone
+therapy; AND
+c) Other causes of low serum insulin-like growth factor-1 have been
+excluded (e.g., malnutrition, prolonged fasting, poorly controlled
+diabetes mellitus, hypothyroidism, hepatic insufficiency, oral estrogen
+therapy); OR
+iii. Patient meets at least ONE of the following (a or b):
+a) Adult. Patient has had a negative response to at least ONE of the
+following standard growth hormone stimulation tests (1, 2, 3, 4, 5, or
+6) [documentation required for all elements]:
+13 Pages - Cigna National Formulary Coverage - Policy: Growth Disorders – Sogroya Prior Authorization Policy
+Note: If the patient has had a previous trial of an arginine test with a
+peak response of ≤ 0.4 mcg/L, this would meet the criteria for a
+negative response to a growth hormone stimulation test.
+(1) Insulin tolerance test (obtaining at least 3 growth hormone levels in
+at least a 60 minute timeframe [not including a level at timeframe
+zero], with adequate hypoglycemia being achieved) with peak
+response ≤ 5.0 mcg/L; OR
+(2) Glucagon stimulation test (obtaining at least 3 growth hormone
+levels in at least 180 minute timeframe [not including a level at
+timeframe zero]) with peak response ≤ 3.0 mcg/L AND the patient’s
+body mass index (BMI) is < 25 kg/m2; OR
+(3) Glucagon stimulation test (obtaining at least 3 growth hormone
+levels in at least 180 minute timeframe [not including a level at
+timeframe zero]) with a peak response ≤ 3.0 mcg/L AND the
+patient’s BMI is ≥ 25 kg/m2 and ≤ 30 kg/m2 with, according to the
+prescriber, a high pretest probability of growth hormone deficiency;
+OR
+(4) Glucagon stimulation test (obtaining at least 3 growth hormone
+levels in at least 180 minute timeframe [not including a level at
+timeframe zero]) with a peak response ≤ 1.0 mcg/L AND the
+patient’s BMI is ≥ 25 kg/m2 and ≤ 30 kg/m2 with, according to the
+prescriber, a low pretest probability of growth hormone deficiency;
+OR
+(5) Glucagon stimulation test (obtaining at least 3 growth hormone
+levels in at least 180 minute timeframe [not including a level at
+timeframe zero]) with peak response ≤ 1.0 mcg/L AND the patient’s
+BMI is > 30 kg/m2; OR
+(6) Macrilen (macimorelin oral solution) test (obtaining at least 4
+growth hormone levels in at least a 90 minute timeframe [not
+including a level at timeframe zero]) with peak responses < 2.8
+ng/mL (2.8 mcg/L) AND the patient’s BMI is ≤ 40 kg/m2; OR
+Note: The following formula can be used to calculate BMI: BMI
+equals body weight in kg divided by height meters squared (m2)
+[i.e., BMI = kg/m2]
+b) Transition adolescent. Patient meets BOTH of the following (1 and 2):
+[documentation required for all elements]:
+Note: The transition period is the time from late puberty to
+establishment of adult muscle and bone composition, and encompasses
+attainment of adult height.
+Note: If the patient has had a trial of a Macrilen test with a peak
+response of < 2.8 ng/mL (mcg/L), this would meet the criteria for a
+negative response to a growth hormone stimulation test.
+(1) Patient has been off growth hormone therapy for at least 1 month
+before retesting with a growth hormone stimulation test; AND
+(2) Patient meets at least ONE of the following responses to growth
+hormone stimulation testing (i, ii, iii, iv, v or vi):
+(i) Insulin tolerance test (obtaining at least 3 growth hormone levels
+in at least a 60 minute timeframe [not including a level at
+13 Pages - Cigna National Formulary Coverage - Policy: Growth Disorders – Sogroya Prior Authorization Policy
+timeframe zero], with adequate hypoglycemia being achieved)
+with peak response ≤ 5.0 mcg/L; OR
+(ii) Glucagon stimulation test (obtaining at least 3 growth hormone
+levels in at least 180 minute timeframe [not including a level at
+timeframe zero]) with peak response ≤ 3.0 mcg/L AND the
+patient’s body mass index (BMI) is < 25 kg/m2; OR
+(iii) Glucagon stimulation test (obtaining at least 3 growth hormone
+levels in at least 180 minute timeframe [not including a level at
+timeframe zero]) with a peak response of ≤ 3.0 mcg/L AND the
+patient’s BMI is ≥ 25 kg/m2 and ≤ 30 kg/m2 with, according to
+the prescriber, a high pretest probability of growth hormone
+deficiency; OR
+(iv) Glucagon stimulation test (obtaining at least 3 growth hormone
+levels in at least 180 minute timeframe [not including a level at
+timeframe zero]) with a peak response ≤ 1.0 mcg/L AND the
+patient’s BMI is ≥ 25 kg/m2 and ≤ 30 kg/m2 with, according to
+the prescriber, a low pretest probability of growth hormone
+deficiency; OR
+(v) Glucagon stimulation test (obtaining at least 3 growth hormone
+levels in at least 180 minute timeframe [not including a level at
+timeframe zero]) with peak response ≤ 1.0 mcg/L AND the
+patient’s BMI is > 30 kg/m2; OR
+(vi) If both the insulin tolerance test AND glucagon stimulation test
+are contraindicated, the arginine test can be used (obtaining at
+least 3 growth hormone levels in at least 120 minute timeframe
+[not including a level at timeframe zero]) with a peak response
+≤ 0.4 mcg/L; AND
+D) The medication was prescribed by or in consultation with an endocrinologist.
+CONDITIONS NOT COVERED
+• Sogroya® (somapacitan-beco subcutaneous injection - Novo Nordisk)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+Note: For some of the following indications, authorization for coverage is not
+recommended because this indication is excluded from coverage in a typical
+pharmacy benefit.
+1. Acute Critical Illness Due to Complications Following Surgery, Multiple
+Accidental Trauma, or with Acute Respiratory Failure.1 Sogroya is
+contraindicated in acute critical illness after open-heart surgery, abdominal
+surgery, multiple accidental trauma, or those with acute respiratory failure
+because of the risk of increased mortality.
+13 Pages - Cigna National Formulary Coverage - Policy: Growth Disorders – Sogroya Prior Authorization Policy
+2. Aging (i.e., Anti-Aging), to Improve Functional Status in an Elderly
+Patient, and Somatopause.13,14,17,18 Somatropin is not FDA-approved for anti-
+aging therapy, to improve functional status in elderly patients, or to treat
+somatopause. Federal law prohibits the distribution or dispensing of somatropin
+for non-FDA approved uses. There are no long-term studies assessing somatropin
+efficacy and safety for anti-aging therapy. Short-term therapy with somatropin
+may improve some measures of body composition, including increased muscle
+mass, reduced total body fat, improved skin elasticity, and reduced rate of bone
+demineralization, but somatotropin does not have positive effects on strength,
+functional capacity, or metabolism. Somatropin is associated with considerable
+adverse effects in non-growth hormone deficient adults (e.g., carpal tunnel
+syndrome, soft tissue edema, arthralgias, glucose intolerance, increased serum
+lipids). Another concern is the possible increased risk of cancer with long-term
+use of somatropin and the potentiating effects of insulin growth factor (IGFs) on
+cancer. Somatropin is not indicated for the age-related decrease in growth
+hormone/IGF-1 status.12
+3. Athletic Ability Enhancement.5 Somatropin is not FDA-approved for athletic
+performance enhancement or for body building in nonathletes. Federal law
+prohibits the distribution or dispensing of somatropin for non-FDA approved uses.
+Short-term administration of somatropin to increase strength and endurance in
+athletes is no more effective than training alone and somatropin should not be
+administered to athletes or other persons for the purpose of enhancing athletic
+ability or improving personal appearance (i.e., to appear leaner and more
+muscular). Somatropin has been used in supraphysiologic doses alone or in
+combination with other performance enhancing drugs (PEDs) in users who are not
+athletes.34 Use of PEDs has been linked to an increased risk of death and many
+adverse effects including cardiovascular, psychiatric, metabolic, endocrine,
+neurologic, infectious, hepatic, renal, and musculoskeletal disorders.
+4. Central Precocious Puberty (CPP). Children with precocious puberty are often
+treated with gonadotropin releasing hormone (GnRH) agonists (Lupron®
+[leuprolide acetate injection]) to suppress pituitary gonadal activity, to slow the
+advancement of bone age (prevent premature fusion of the epiphyseal growth
+plates), and to improve adult height. In some patients GnRH agonist therapy may
+result in marked deceleration of bone growth and may result in adult height that
+is less than the mid-parental height. Small and nonrandomized studies have
+demonstrated a significant improvement in final adult height over pre-treated
+predicted adult height in patients treated with GnRH agonist and GH as compared
+with patients treated with GnRH agonist alone. However, larger randomized
+studies are lacking, and routine use of GH in this setting is not recommended.6,7
+5. Chronic Fatigue Syndrome. There is no evidence of GHD in chronic fatigue
+syndrome.19
+6. Congenital Adrenal Hyperplasia (CAH).8,9 The Endocrine Society clinical
+practice guidelines on CAH due to steroid 21-hydroxylase deficiency recommend
+against the use of experimental treatment approaches outside of formally
+13 Pages - Cigna National Formulary Coverage - Policy: Growth Disorders – Sogroya Prior Authorization Policy
+approved clinical trials.9 Children with predicted adult height standard deviation
+≤ -2.25 may be considered for growth-promoting treatments in appropriately
+controlled trials.
+7. Constitutional Delay of Growth and Puberty. These children have delayed
+skeletal maturation and pubertal development. Administering somatropin does
+not increase adult height (which is usually normal).10 Short-term androgen
+therapy accelerates growth and the rate of pubertal advancement in boys.
+8. Fibromyalgia. In one placebo-controlled study, 120 non-GHD adult women with
+severe fibromyalgia and low levels of IGF-1 were randomized to somatropin 0.006
+mg/kg/day for 12 months (dose was adjusted) or placebo for 6 months.20 Patients
+receiving placebo initially were switched to somatropin from Months 6 to 12 (open
+label). Standard therapy for fibromyalgia was continued. After 6 months, there
+were no differences between somatropin and placebo in the percentage of patients
+with fewer than 11 positive tender points, mean number of tender points, intensity
+of pain in every point evaluated, and other measures. After 12 months of
+somatropin therapy, 53% of patients had less than 11 positive tender points
+compared with 33% of patients who received placebo and then somatropin for 6
+months (P < 0.05). At 18 months follow-up evaluation when somatropin was
+discontinued, impairment in pain perception worsened in both groups but to a
+lesser extent in the patients on somatropin for 12 months. Further controlled trials
+are needed with a longer duration,21 with different doses, and using the 2010
+American College of Rheumatology criteria for fibromyalgia. Some patients with
+fibromyalgia may have adult GHD.
+9. Infertility. Some trials have demonstrated that GH intervention is associated
+with improved in-vitro fertilization (IVF) reproductive outcome, but others have
+concluded there is no evidence of an increased chance of a live birth with use of
+somatropin. More randomized controlled clinical trials with rigorous methodology
+are needed to confirm the beneficial effects of GH on assisted reproductive
+technology outcomes.23 A 2025 phase III open-label study showed that empiric
+adjuvant GH therapy in GnRH antagonist cycles does not improve IVF stimulation
+results or reproductive outcomes, including implantation, miscarriage, and clinical
+pregnancy rates.22
+10. Obesity.24,25 Somatropin is not indicated for the treatment of obesity. Low
+growth hormone levels are a consequence of central obesity and not a cause.
+Obesity is associated with decreased basal and pulsatile release of growth
+hormone and decreased stimulated growth hormone release. Somatropin therapy
+does not have significant beneficial effects on obesity in persons without GHD
+and does not produce significant overall weight loss. Supraphysiologic doses of
+somatropin have been used to treat obesity. Effects of long-term therapy with
+somatropin are unknown.
+11. Osteoporosis.13,14 Guidelines for treatment or prevention of osteoporosis do not
+include recommendations for use of somatropin. In one double-blind trial, 80
+postmenopausal women with osteoporosis (56% of patients [n = 45/80] had a
+13 Pages - Cigna National Formulary Coverage - Policy: Growth Disorders – Sogroya Prior Authorization Policy
+history of fractures) were randomized to somatropin 0.33 mg/day or 0.83
+mg/day or to placebo for 3 years.13 The double-blind phase was 18 months and
+patients on somatropin continued drug for another 18 months and patients on
+placebo stopped at 18 months. Patients were compared with an age-matched
+random population sample of women (n = 120). All patients received calcium
+750 mg, vitamin D 400 units, and hormone replacement therapy. All women were
+followed for 10 years total. Bone mineral density increased in the patients
+receiving somatropin at Years 4 and 5, and after 10 years, had decreased to
+similar levels as before treatment. At 10 years, 28% of women (n = 22/80) had
+fractures. In the control group, fractures increased from 8% of patients at
+baseline to 32% of patients after 10 years. At 10 years, 41% of patients (n =
+33/80) had stopped hormone replacement therapy; 23% had started
+bisphosphonates due to fractures, and 3% had received Forteo® (teriparatide
+injection). Larger studies are needed to determine the effects of somatropin
+therapy on bone mineral density and fractures in non-growth hormone deficient
+persons.
+REFERENCES
+1. Sogroya® subcutaneous injection [prescribing information]. Plainsboro, NJ: Novo Nordisk; February
+2025.
+2. Grimberg A, DiVall SA, Polychronakos C, et al; Drug and Therapeutics Committee and Ethics
+Committee of the Pediatric Endocrine Society. Guidelines for growth hormone and insulin-like growth
+factor-I treatment in children and adolescents: growth hormone deficiency, idiopathic short stature,
+and primary insulin-like growth factor-I deficiency. Horm Res Paediatr. 2016;86(6):361-397.
+3. Melmed S. Idiopathic adult growth hormone deficiency. J Clin Endocrinol Metab. 2013;98:2187-
+2197.
+4. Isfan F, Kanold J, Merlin E, et al. Growth hormone treatment impact on growth rate and final height
+of patients who received HSCT with TBI or/and cranial irradiation in childhood: a report from the
+French Leukaemia Long-Term Follow-Up Study (LEA). Bone Marrow Transplant. 2012;47:684-693.
+5. Clemmons DR, Molitch M, Hoffman AR, et al. Growth hormone should be used only for approved
+indications. J Clin Endocrinol Metab. 2014;99:409-411.
+6. Chen M, Eugster EA. Central Precocious Puberty: Update on diagnosis and treatment. Paediatr
+Drugs. 2015;17(4)272-81.
+7. Shi Y, Ma Z, Yang X, et al. Gonadotropin-releasing hormone analogue and recombinant human
+growth hormone treatment for idiopathic central precocious puberty in girls. Front Endocrinol. 2023;
+13:1085385.
+8. Lin-Su K, Harbison MD, Lekarev O, et al. Final adult height in children with congenital adrenal
+hyperplasia treated with growth hormone. J Clin Endocrinol Metab. 2011;96:1710-1717.
+9. Speiser PW, Arlt W, Auchus RJ, et al. Congenital adrenal hyperplasia due to steroid 21-hydroxylase
+deficiency: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab.
+2018:103(11):4043-4088.
+10. De Luca F, Argente J, Cavallo L, et al; International Workshop on Management of Puberty for
+Optimum Auxological Results. Management of puberty in constitutional delay of growth and puberty.
+Pediatr Endocrinol Metab. 2001;14 Suppl 2:953-957.
+11. Molitch ME, Clemmons DR, Malozowski S, et al; Endocrine Society. Evaluation and treatment of adult
+growth hormone deficiency: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab.
+2011;96:1587-1609.
+12. Ho KK; 2007 GH Deficiency Consensus Workshop Participants. Consensus guidelines for the
+diagnosis and treatment of adults with GH deficiency II: a statement of the GH Research Society in
+association with the European Society for Pediatric Endocrinology, Lawson Wilkins Society, European
+Society of Endocrinology, Japan Endocrine Society, and Endocrine Society of Australia. Eur J
+Endocrinol. 2007;157:695-700.
+13 Pages - Cigna National Formulary Coverage - Policy: Growth Disorders – Sogroya Prior Authorization Policy
+13. Krantz E, Trimpou P, Landin-Wilhelmsen K. Effect of growth hormone treatment on fractures and
+quality of life in postmenopausal osteoporosis: A 10-Year follow-up study. J Clin Endocrinol Metab.
+2015;100:3251-3259.
+14. Gillberg P, Mallmin H, Petren-Mallmin M, et al. Two years of treatment with recombinant human
+growth hormone increases bone mineral density in men with idiopathic osteoporosis. J Clin
+Endocrinol Metab. 2002;87:4900-4906.
+15. Collett-Solberg PF, Ambler G, Backelijaw PF, et al. Diagnosis, genetics, and therapy of short stature
+in children: A growth hormone research society international perspective. Horm Res Paediatr.
+2019;92(1):1-14.
+16. Yuen K, Biller B, Radovick S, et al. American Association of Clinical Endocrinologists and American
+College of Endocrinology guidelines for management of growth hormone deficiency in adults and
+patients transitioning from pediatric to adult care. Endocr Pract. 2019;25(11):1191-1232.
+17. Vance ML. Can growth hormone prevent aging? N Engl J Med. 2003;348:779-780.
+18. Liu H, Bravata DM, Olkin I, et al. Systematic review: the safety and efficacy of growth hormone in
+the healthy elderly. Ann Intern Med. 2007;146:104-115.
+19. Cleare AJ, Sookdeo SS, Jones J, et al. Integrity of the growth hormone/insulin-like growth factor
+system is maintained in patients with chronic fatigue syndrome. J Clin Endocrinol Metab.
+2000;85:1433-1439.
+20. Cuatrecasas G, Alegre C, Fernandez-Solà J, et al. Growth hormone treatment for sustained pain
+reduction and improvement in quality of life in severe fibromyalgia. Pain. 2012;153:1382-1389.
+21. Geenen R, Jacobs JW, Bijlsma JW. Evaluation and management of endocrine dysfunction in
+fibromyalgia. Rheum Dis Clin North Am. 2002;28:389-404.
+22. Mourad A, Jamal W, Hemmings R, et al. Empirical use of growth hormone in IVF is useless: the
+largest randomized controlled trial. Hum Reprod. 2025;40(1):77-84.
+23. Chang CW, Sung YW, Hsueh YW, et al. Growth hormone in fertility and infertility: Mechanism of
+action and clinical applications. 2022;13:1040503.
+24. Shadid S, Jensen MD. Effects of growth hormone administration in human obesity. Obes Res.
+2003;11:170-175.
+25. Mekala KC, Tritos NA. Effects of recombinant human growth hormone therapy in obesity in adults:
+a meta-analysis. J Clin Endocrinol Metab. 2009;94:130-137.
+26. Macrilen™ oral solution [prescribing information]. Plainsboro, NJ: Novo Nordisk; July 2021.
+27. Cosciens BioPharma. Product Publicationns 2024. Available at: Our Product | COSCIENS BIO.
+Accessed on June 12, 2025.
+28. Maniatis A, Cutfield W, Dattani M, et al. Long-acting growth hormone therapy in pediatric growth
+hormone deficiency: A consensus statement. J Clin Endocrinol Metab. 2025;110(4):e1232-e1240.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 05/31/2023
+Selected Growth Hormone Deficiency in a Child or Adolescent (≥ 2.5 11/01/2023
+Revision years of age): Criterion that specified the result of a growth
+hormone stimulation test to be < 10 ng/mL was added. Criterion that
+the stimulation test shows an inadequate response as defined by a
+peak response below the normal reference range as determined by
+the testing laboratory was removed.
+Annual No criteria changes. 06/12/2024
+Revision
+Annual Growth Hormone Deficiency in a Child or Adolescent (≥ 2.5 06/18/2025
+Revision years of age): The wording “at least” was added to the requirement
+for two growth hormone stimulation tests ˂ 10 ng/mL. Updated the
+wording “Patient has been evaluated by an endocrinologist” to “The
+medication has been prescribed by or in consultation with an
+endocrinologist.”
+Growth Hormone Deficiency in Adult or Transition Adolescent:
+The criterion “Patient (adult onset or transition adolescent) has three
+or more of the following pituitary hormone deficiencies:.” was updated
+13 Pages - Cigna National Formulary Coverage - Policy: Growth Disorders – Sogroya Prior Authorization Policy
+to “Patient (adult onset or transition adolescent) has or had three or
+more of the following pituitary hormone deficiencies prior to hormone
+replacement therapy (if hormone therapy if required).” The criterion
+“The age and gender adjusted serum insulin-like growth factor-1 is
+below the lower limit of the normal reference range for the reporting
+laboratory” was updated to “The age and gender adjusted serum
+insulin-like growth factor-1 is or was below the lower limit of the
+normal reference range for the reporting laboratory (…), prior to
+growth hormone therapy”. Also updated the wording “Patient has been
+evaluated by an endocrinologist” to “The medication has been
+prescribed by or in consultation with an endocrinologist.”
+Selected The following statement in the Policy Statement was updated to 08/13/2025
+Revision include a clinician nurse: “All reviews will be directed to a clinician
+(i.e., pharmacist or nurse) for verification of criteria.”
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+13 Pages - Cigna National Formulary Coverage - Policy: Growth Disorders – Sogroya Prior Authorization Policy

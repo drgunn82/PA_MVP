@@ -1,0 +1,131 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Antiseizure Medications – Ztalmy Prior Authorization Policy
+• Ztalmy® (ganaxolone oral suspension − Marinus)
+REVIEW DATE: 07/23/2025; selected revision 08/20/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Ztalmy, a neuroactive steroid gamma-aminobutyric acid (GABA) A receptor positive
+modulator, is indicated for the treatment of seizures associated with cyclin-
+dependent kinase-like 5 (CDKL5) deficiency disorder (CDD) in patients ≥ 2
+years of age.1
+Disease Overview
+CDD is a rare, X-linked developmental epileptic encephalopathy caused by variants
+in the CDKL5 gene.2,3 This disorder can manifest in a broad range of clinical
+symptoms, including early-onset (< 3 months of age in 90% of patients [median of
+5 weeks]), hypotonia, intractable epilepsy, and neurodevelopmental delay
+impacting cognitive, motor, speech, and visual function. Both cognitive impairment
+and refractory epilepsy in individuals with CDD are particularly severe; less than
+50% of patients have reported a period of seizure freedom > 2 months, with only
+12% of patients experiencing seizure freedom for > 12 months. The CDKL5 gene
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Antiseizure Medications – Ztalmy Prior Authorization
+Policy
+provides instructions for making proteins that are essential for normal brain and
+neuron development. The CDKL5 protein acts as a kinase, an enzyme that changes
+the activity of other proteins by adding a phosphate group at specific positions;
+however, it has not yet been determined which proteins are targeted by the CDKL5
+protein. Many cases of CDD have been identified in boys, but because of the
+location of the gene on the X chromosome, CDD primarily affects girls. Ztalmy is
+the first antiseizure medication that is FDA-approved for use in CDD and has been
+prospectively studied.
+Clinical Efficacy
+The efficacy of Ztalmy in patients with molecularly confirmed CDD was evaluated in
+one pivotal trial called the Marigold Study (n = 101).4 Eligible patients were 2 to 21
+years of age and had a molecularly confirmed CDKL5 variant that was considered
+pathogenic or likely to be pathogenic. Patients could remain on a regimen of up to
+four concomitant antiseizure medications during the trial, including (but not limited
+to) valproate, levetiracetam, clobazam, and vigabatrin. During the 17-week double-
+blind phase, the median 28-day major motor seizure frequency was 45.0 in the
+Ztalmy arm vs. 55.5 in the placebo arm. Compared with the 6-week baseline
+period, the median percentage change in 28-day major motor seizure frequency
+was statistically significantly improved (reduced) in the Ztalmy arm vs. the placebo
+arm (-30.7% vs. -6.9%, respectively; P = 0.0036).
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Ztalmy. All
+approvals are provided for the duration noted below. Because of the specialized
+skills required for evaluation and diagnosis of patients treated with Ztalmy as well
+as the monitoring required for adverse events and long-term efficacy, approval
+requires Ztalmy to be prescribed by or in consultation with a physician who
+specializes in the condition being treated.
+• Ztalmy® (ganaxolone oral suspension - Marinus)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Seizures Associated with Cyclin-Dependent Kinase-Like 5 (CDKL5)
+Deficiency Disorder. Approve for 1 year if the patient meets ALL of the
+following (A, B, C, and D):
+A) Patient is ≥ 2 years of age; AND
+B) Patient has a molecularly confirmed pathogenic or likely pathogenic variant in
+the CDKL5 gene; AND
+C) Patient has tried and/or is concomitantly receiving at least two other
+antiseizure medications; AND
+Note: This can include any two antiseizure medications, including but not
+limited to, clobazam, Epidiolex (cannabidiol oral solution), lacosamide,
+2 Pages - Cigna National Formulary Coverage - Policy:Antiseizure Medications – Ztalmy Prior Authorization Policy
+lamotrigine, levetiracetam, phenobarbital, rufinamide, topiramate, valproate,
+vigabatrin, zonisamide.
+D) The medication is prescribed by or in consultation with a neurologist.
+CONDITIONS NOT COVERED
+• Ztalmy® (ganaxolone oral suspension - Marinus)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+newly published data are available):
+1. Coverage is not recommended for circumstances not listed in the Recommended
+Authorization Criteria. Criteria will be updated as newly published data are
+available.
+REFERENCES
+1. Ztalmy® oral suspension [prescribing information]. Radnor, PA: Marinus; June 2023.
+2. Olson HE, Daniels CI, Haviland I, et al. Current neurologic treatment and emerging therapies in
+CDKL5 deficiency disorder. J Neurodev Disord. 2021;13(1):40.
+3. International Foundation for CDKL5 Research. About CDKL5. Available at:
+https://www.cdkl5.com/about-cdkl5/. Accessed on July 17, 2025.
+4. Knight EMP, Amin S, Bahi-Buisson N, et al. Safety and efficacy of ganaxolone in patients with
+CDKL5 deficiency disorder: results from the double-blind phase of a randomised, placebo-
+controlled, phase 3 trial. Lancet Neurol. 2022;21:417-427.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual The policy name was changed from Antiepileptics – Ztalmy Prior 07/12/2023
+Revision Authorization Policy to Antiseizure Medications – Ztalmy Prior
+Authorization Policy.
+Throughout the criteria, reference to antiepileptic drugs was changed
+to antiseizure medications.
+Annual No criteria changes. 07/31/2024
+Revision
+Annual No criteria changes. 07/23/2025
+Revision
+Selected Seizures Associated with Cyclin-Dependent Kinase-Like 5 08/20/2025
+Revision (CDKL5) Deficiency Disorder: Criterion wording changed to
+“pathogenic variant” instead of “pathogenic mutation”.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025
+The Cigna Group.
+2 Pages - Cigna National Formulary Coverage - Policy:Antiseizure Medications – Ztalmy Prior Authorization Policy

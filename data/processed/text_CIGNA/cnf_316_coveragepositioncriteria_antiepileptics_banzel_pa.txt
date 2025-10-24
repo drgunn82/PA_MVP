@@ -1,0 +1,165 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Antiseizure Medications – Rufinamide Prior Authorization Policy
+• Banzel® (rufinamide tablets and oral suspension – Eisai, generic)
+REVIEW DATE: 09/03/2025
+•
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Rufinamide is indicated for adjunctive treatment of seizures associated with
+Lennox-Gastaut syndrome (LGS) in patients ≥ 1 year of age.1
+Although rufinamide is only FDA-approved for use in LGS, clinical trial data indicate
+the drug may also be beneficial as adjunctive treatment of refractory focal epilepsy.2
+A review of six clinical trials found that rufinamide, when used as an add-on
+treatment, was effective in reducing seizure frequency in patients with drug-resistant
+focal epilepsy.
+Disease Overview
+LGS is a severe epileptic and developmental encephalopathy associated with a high
+rate of morbidity and mortality.3,4 LGS most often begins between 3 years and 5
+years of age and comprises approximately 3% to 4% of childhood epilepsies.3-6
+Affected children experience several different types of seizures, most commonly
+Page 1 of 4: Cigna National Formulary Coverage - Policy: Antiseizure Medications -
+Rufinamide Prior Authorization Policy
+atonic seizures (sudden loss of muscle tone and limpness, also called drop seizures)
+and tonic seizures (increased muscle tone and muscle stiffness).3,6 The three main
+forms of treatment of LGS are antiseizure medications (ASMs), dietary therapy
+(typically the ketogenic diet), and device/surgery (e.g., vagus nerve stimulation,
+corpus callosotomy).6 None of the therapies are effective in all cases of LGS and the
+disorder has proven particularly resistant to most therapeutic options. The choice of
+treatment should take into consideration the patient’s age and other associated
+conditions.
+Guidelines/Recommendations
+Lennox-Gastaut syndrome: Currently, the FDA-approved drugs for this condition
+are Epidiolex® (cannabidiol oral solution), clobazam, clonazepam, felbamate,
+Fintepla® (fenfluramine oral solution), lamotrigine, rufinamide, and topiramate.7
+Despite the lack of level I or level II evidence, valproic acid remains a mainstay in
+treatment.5,6,8 If valproic acid does not provide adequate seizure control, which is
+almost always the case, lamotrigine should be added as the first adjunctive therapy.4
+If the combination regimen of valproic acid and lamotrigine does not provide
+adequate control, then rufinamide should be initiated and either valproic acid or
+lamotrigine should be discontinued. If seizure control is still not achieved, the next
+adjunctive therapies to consider are topiramate, clobazam, and felbamate. There is
+limited evidence for the use of levetiracetam, zonisamide, and Fycompa®
+(perampanel tablets and oral suspension). Where possible, no more than two ASMs
+should be used concomitantly; use of multiple ASMs increase the risk of side effects
+and/or drug-drug interactions.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of rufinamide.
+All approvals are provided for the duration noted below. Because of the specialized
+skills required for evaluation and diagnosis of patients treated with rufinamide as well
+as the monitoring required for adverse events and long-term efficacy, initial approval
+requires rufinamide to be prescribed by or in consultation with a physician who
+specializes in the condition being treated.
+• Banzel® (rufinamide tablets and oral suspension – Eisai, generic)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Lennox-Gastaut Syndrome. Approve for 1 year if the patient meets ONE of the
+following (A or B):
+A) Initial Therapy. Approve if the patient meets ALL of the following (i, ii, and
+iii):
+i. Patient is ≥ 1 year of age; AND
+ii. Patient has tried and/or is concomitantly receiving at least two other
+antiseizure medications; AND
+Page 2 of 4: Cigna National Formulary Coverage - Policy: Antiseizure Medications -
+Rufinamide Prior Authorization Policy
+Note: Examples of antiseizure medications include valproic acid,
+gabapentin, phenytoin, carbamazepine, oxcarbazepine, lacosamide,
+levetiracetam, zonisamide, Fycompa (perampanel tablet or oral
+suspension), vigabatrin, lamotrigine, topiramate, clobazam, Diacomit
+(stiripentol capsules or oral suspension), Epidiolex (cannabidiol oral
+solution), and felbamate.
+iii. The medication is prescribed by or in consultation with a neurologist.
+B) Patient is Currently Receiving rufinamide. Approve if the patient is responding
+to therapy (e.g., reduced seizure severity, frequency, and/or duration) as
+determined by the prescriber.
+Other Uses with Supportive Evidence
+2. Treatment-Refractory Seizures/Epilepsy. Approve for 1 year if the patient
+meets ONE of the following (A or B):
+A) Initial Therapy. Approve if the patient meets ALL of the following (i, ii, and
+iii):
+i. Patient is ≥ 1 year of age; AND
+ii. Patient has tried and/or is concomitantly receiving at least two other
+antiseizure medications; AND
+Note: Examples of antiseizure medications include valproic acid,
+gabapentin, phenytoin, carbamazepine, oxcarbazepine, lacosamide,
+levetiracetam, zonisamide, Fycompa (perampanel tablet or oral
+suspension), vigabatrin, lamotrigine, topiramate, clobazam, Diacomit
+(stiripentol capsules or oral suspension), Epidiolex (cannabidiol oral
+solution), and felbamate.
+iii. The medication is prescribed by or in consultation with a neurologist.
+B) Patient is Currently Receiving rufinamide. Approve if the patient is responding
+to therapy (e.g., reduced seizure severity, frequency, and/or duration) as
+determined by the prescriber.
+CONDITIONS NOT COVERED
+• Banzel® (rufinamide tablets and oral suspension – Eisai, generic)
+is(are) considered not medically necessary for ANY other use(s); criteria will
+be updated as new published data are available.
+REFERENCES
+1. Banzel® tablets and oral suspension [prescribing information]. Woodcliff Lake, NJ: Eisai; November
+2019.
+2. Brigo F, Jones K, Eltze C, et al. Anti-seizure medications for Lennox-Gastaut syndrome. Cochrane
+Database Syst Rev. 2021;4(4):D003277.
+3. Sirven JI, Shafer PO. Epilepsy Foundation – Lennox-Gastaut Syndrome. Updated February 2020.
+Available at: https://www.epilepsy.com/learn/types-epilepsy-syndromes/lennox-gastaut-
+syndrome-lgs/. Accessed on August 26, 2025.
+4. Cross JH, Auvin S, Falip M, et al. Expert opinion on the management of Lennox-Gastaut syndrome:
+treatment algorithms and practical considerations. Front Neurol. 2017;8:505.
+5. Ostendorf AP, Ng YT. Treatment-resistant Lennox-Gastaut syndrome: therapeutic trends,
+challenges, and future directions. Neuropsych Dis Treatment. 2017;13:1131-1140.
+Page 3 of 4: Cigna National Formulary Coverage - Policy: Antiseizure Medications -
+Rufinamide Prior Authorization Policy
+6. Wheless JW. National Organization for Rare Diseases (NORD) – Lennox-Gastaut syndrome.
+Updated May 20, 2024. Available at: https://rarediseases.org/rare-diseases/lennox-gastaut-
+syndrome/. Accessed on August 26, 2025.
+7. Lennox-Gastaut Syndrome Foundation – Lennox-Gastaut Syndrome. Updated September 26, 2024.
+Available at: https://www.lgsfoundation.org/about-lgs-2/how-is-lgs-treated/. Accessed on August
+26, 2025.
+8. Cherian KA. Lennox-Gastaut syndrome treatment & management. Updated September 10, 2024.
+Available at: https://emedicine.medscape.com/article/1176735-treatment/. Accessed on August
+26, 2025.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Annual The policy name was changed from Antiepileptics – Banzel Prior 09/20/2023
+Revision Authorization Policy to Antiseizure Medications – Rufinamide Prior
+Authorization Policy.
+Throughout the criteria, reference to antiepileptic medications
+was changed to antiseizure medications.
+Annual No criteria changes. 09/18/2024
+Revision
+Annual No criteria changes. 09/03/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 4 of 4: Cigna National Formulary Coverage - Policy: Antiseizure Medications -
+Rufinamide Prior Authorization Policy

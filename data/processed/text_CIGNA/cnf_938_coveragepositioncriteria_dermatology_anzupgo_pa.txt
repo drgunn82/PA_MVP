@@ -1,0 +1,139 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Dermatology – Anzupgo Prior Authorization Policy
+• Anzupgo® (delgocitinib 2% cream – LEO)
+REVIEW DATE: 08/27/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Anzupgo, a Janus kinase (JAK) inhibitor, is indicated for the topical treatment of
+moderate to severe chronic hand eczema in patients ≥ 18 years of age who have
+had an inadequate response to topical corticosteroids or for whom topical
+corticosteroids are not advisable.1
+Limitation of Use: Use of Anzupgo in combination with other JAK inhibitors or potent
+immunosuppressants is not recommended.
+Clinical Efficacy
+Two pivotal Anzupgo studies enrolled patients ≥ 18 years of age with hand eczema
+that was present for > 3 months or returned twice or more within the previous 12
+month period.2 Patients had experienced an inadequate response to treatment with
+a topical corticosteroid in the previous year (99% of patients), except for patients for
+whom topical corticosteroids were deemed medically inadvisable (1% of patients).
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Dermatology – Anzupgo Prior Authorization Policy
+An inadequate response was the failure to maintain clear or almost clear skin despite
+daily topical corticosteroid application for ≥ 28 days or for the maximum duration
+recommended by the product prescribing information, whichever was shorter. A
+potent to very potent topical corticosteroid was required in Europe, while a medium-
+to ultra-high potency topical corticosteroid was required in Canada. Patients who had
+previously received treatment with a systemic or topical JAK inhibitor were excluded
+from study participation. The primary endpoint was evaluated following 16 weeks of
+treatment.
+Guidelines
+The European Society of Contact Dermatitis guidelines for the diagnosis, prevention,
+and treatment of hand eczema (2022) have not been updated since the approval of
+Anzupgo and list it as a possible future treatment.3 Following secondary prevention
+strategies, topical corticosteroids are recommended for short-term, first-line
+treatment of hand eczema. Intermittent, long-term use of topical corticosteroids may
+be considered for chronic disease.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Anzupgo
+cream. All approvals are provided for the duration noted below. In cases where the
+approval is authorized in months, 1 month is equal to 30 days. Because of the
+specialized skills required for evaluation and diagnosis of patients treated with
+Anzupgo cream as well as the monitoring required for adverse events and long-term
+efficacy, approval requires Anzupgo cream to be prescribed by or in consultation with
+a physician who specializes in the condition being treated.
+• Anzupgo® (delgocitinib 2% cream – LEO)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Chronic Hand Eczema. Approve for 4 months if the patient meets ALL of the
+following (A, B, C, D, and E):
+A) Patient is ≥ 18 years of age; AND
+B) Patient has hand eczema that has been present for > 3 months or has returned
+at least twice in a year after its initial presentation and subsequent clearance;
+AND
+C) According to the prescriber, patient has moderate to severe chronic hand
+eczema; AND
+D) Patient meets ALL of the following (i, ii, and iii):
+i. Patient has tried at least one medium-, medium-high, high-, and/or super-
+high-potency prescription topical corticosteroid; AND
+ii. This topical corticosteroid was applied daily for at least 28 consecutive
+days; AND
+4 Pages - Cigna National Formulary Coverage - Policy:Dermatology – Anzupgo Prior Authorization Policy
+iii. According to the prescriber, inadequate efficacy was demonstrated with this
+topical corticosteroid therapy; OR
+E) The medication is prescribed by or in consultation with an allergist,
+immunologist, or dermatologist.
+CONDITIONS NOT COVERED
+• Anzupgo® (delgocitinib 2% cream – LEO)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Concurrent Use with other JAK inhibitors. Use of Anzupgo in combination with
+other JAK inhibitors is not recommended (see Appendix for examples).1 Use of
+other topical or systemic JAK inhibitors was prohibited prior to and during the
+Anzupgo pivotal studies.2 There are no data evaluating combination use of
+Anzupgo with these therapies; therefore, safety and efficacy of these
+combinations are unknown.
+2. Concurrent use with Potent Immunosuppressants. Use of Anzupgo in
+combination with potent immunosuppressants is not recommended.1 Use of
+systemic immunosuppressants was prohibited during the Anzupgo pivotal
+studies.2 There are no data evaluating combination of Anzupgo with these
+therapies; therefore, safety and efficacy of these combinations are unknown.
+REFERENCES
+1. Anzupgo® cream [prescribing information]. Madison, NJ: LEO; July 2025.
+2. Bissonnette R, Warren RB, Pinter A, et al. Efficacy and safety of delgocitinib cream in adults with
+moderate to severe chronic hand eczema (DELTA 1 and DELTA 2): results from multicentre,
+randomized, controlled, double-blind, phase 3 trials. Lancet. 2024;404(10451):461-473.
+3. Thyssen JP, Schuttelaar MLA, Alfonso JH, et al. Guidelines for diagnosis, prevention, and treatment
+of hand eczema. Contact Dermatitis. 2022;86(5):357-378.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 08/27/2025
+4 Pages - Cigna National Formulary Coverage - Policy:Dermatology – Anzupgo Prior Authorization Policy
+APPENDIX
+Table 1. Examples of Other JAK Inhibitors.
+Product Mechanism of Action
+Inrebic® (fedratinib tablets) Inhibition of JAK pathways
+Jakafi® (ruxolitinib tablets) Inhibition of JAK pathways
+Leqselvi™ (deuruxolitinib tablets) Inhibition of JAK pathways
+Olumiant® (baricitinib tablets) Inhibition of JAK pathways
+Cibinqo® (abrocitinib tablets) Inhibition of JAK pathways
+Rinvoq® (upadacitinib extended-release tablets) Inhibition of JAK pathways
+Rinvoq® LQ (upadacitinib oral solution) Inhibition of JAK pathways
+Xeljanz® (tofacitinib tablets, oral solution) Inhibition of JAK pathways
+Xeljanz® XR (tofacitinib extended-release tablets) Inhibition of JAK pathways
+Opzelura® (ruxolitinib cream) Inhibition of JAK pathways
+JAK – Janus kinase.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+4 Pages - Cigna National Formulary Coverage - Policy:Dermatology – Anzupgo Prior Authorization Policy

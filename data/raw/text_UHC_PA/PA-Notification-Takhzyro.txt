@@ -1,0 +1,61 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1263-8
+Program Prior Authorization/Notification
+Medication Takhzyro® (lanadelumab-flyo)
+P&T Approval Date 11/10218, 11/2019, 11/2020, 11/2021, 11/2022, 3/2023, 3/2024, 3/2025
+Effective Date 6/1/2025
+1. Background:
+Takhzyro is a plasma kallikrein inhibitor (monoclonal antibody) indicated for prophylaxis to
+prevent attacks of hereditary angioedema (HAE) in adult and pediatric patients 2 years and
+older.1
+2. Coverage Criteriaa:
+A. Hereditary Angioedema
+1. Initial Authorization
+a. Takhzyro will be approved based on both of the following criteria:
+(1) Diagnosis of hereditary angioedema (HAE)
+-AND-
+(2) Both of the following:
+(a) For prophylaxis against HAE attacks
+-AND-
+(b) Not used in combination with other products indicated for prophylaxis against
+HAE attacks (e.g., Cinryze, Haegarda, Orladeyo)
+Authorization of therapy will be issued for 12 months.
+2. Reauthorization
+a. Takhzyro will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response while on Takhzyro therapy
+-AND-
+b. Both of the following:
+© 2025 UnitedHealthcare Services, Inc.
+1
+(1) For prophylaxis against HAE attacks
+-AND-
+(2) Not used in combination with other products indicated for prophylaxis against HAE
+attacks (e.g., Cinryze, Haegarda, Orladeyo)
+Authorization of therapy will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Takhzyro [package insert]. Lexington, MA: Shire; February 2023.
+Program Takhzyro® (lanadelumab-flyo)
+Change Control
+11/2018 New program
+11/2019 Annual review. Updated references.
+11/2020 Annual review. No changes.
+11/2021 Annual review. Updated combination examples to include Orladeyo with
+no change in clinical intent.
+11/2022 Annual review with no change to criteria. Added state mandate footnote.
+Updated reference.
+3/2023 Updated background with expanded FDA indication in patients aged 2
+years and older. Updated combination use language with prophylactic
+therapies without change to clinical intent. Updated reference.
+3/2024 Annual review. No changes to coverage criteria.
+3/2025 Annual review. No changes to coverage criteria.
+© 2025 UnitedHealthcare Services, Inc.
+2

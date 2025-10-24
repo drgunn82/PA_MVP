@@ -1,0 +1,447 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2196-15
+Program Prior Authorization/Medical Necessity
+Medication Cosentyx® (secukinumab) prefilled syringe or Sensoready pen
+P&T Approval Date 5/2020, 7/2020, 11/2020, 6/2021, 7/2021, 12/2021, 2/2022, 3/2022,
+6/2022, 11/2022, 1/2023, 4/2023, 7/2023, 1/2024, 10/2024
+Effective Date 1/1/2025
+1. Background:
+Cosentyx (secukinumab) is a human interleukin-17A antagonist indicated for the treatment of
+moderate to severe plaque psoriasis in patients 6 years and older who are candidates for systemic
+therapy or phototherapy, active psoriatic arthritis (PsA) in patients 2 years of age and older, adults
+with active ankylosing spondylitis (AS) or active non-radiographic axial spondyloarthritis (nr-
+axSpA) with objective signs of inflammation, active enthesitis-related arthritis (ERA) in patients
+4 years of age and older, and adults with moderate to severe hidradenitis (HS).
+2. Coverage Criteriaa:
+A. Plaque Psoriasis
+1. Initial Authorization
+a. Cosentyx will be approved based on all of the following criteria:
+(1) Diagnosis of moderate to severe plaque psoriasis
+-AND-
+(2) One of the following:
+(a) All of the following:
+i. Greater than or equal to 3% body surface area involvement, palmoplantar,
+facial, genital involvement, or severe scalp psoriasis
+-AND-
+ii. History of failure to one of the following topical therapies, unless
+contraindicated or clinically significant adverse effects are experienced
+(document drug, date, and duration of trial):
+a. Corticosteroids (e.g., betamethasone, clobetasol, desonide)
+b. Vitamin D analogs (e.g., calcitriol, calcipotriene)
+c. Tazarotene
+d. Calcineurin inhibitors (e.g., tacrolimus, pimecrolimus)
+e. Anthralin
+f. Coal tar
+© 2024 UnitedHealthcare Services, Inc.
+1
+-AND-
+iii. History of failure to a 3 month trial of methotrexate at maximally
+indicated dose, unless contraindicated or clinically significant adverse
+effects are experienced (document date and duration of trial)b
+-OR-
+(b) Patient has been previously treated with a targeted immunomodulator FDA-
+approved for the treatment of plaque psoriasis as documented by claims
+history or submission of medical records (Document drug, date, and duration
+of therapy) [e.g., Cimzia (certolizumab), adalimumab, Otezla (apremilast),
+Skyrizi (risankizumab), Stelara (ustekinumab), Tremfya (guselkumab),
+Enbrel (etanercept)].
+-OR-
+(c) Both of the following:
+i. Patient is currently on Cosentyx therapy as documented by claims history
+or submission of medical records (Document date and duration of
+therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in
+prescriber office, or any form of assistance from the Novartis sponsored
+Cosentyx Connect (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a
+current user of Cosentyx*
+-AND-
+(3) Patient is not receiving Cosentyx in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Stelara
+(ustekinumab), Skyrizi (risankizumab), Tremfya (guselkumab), Taltz
+(ixekizumab), Siliq (brodalumab), Ilumya (tildrakizumab), Xeljanz
+(tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib), Otezla
+(apremilast)]
+-AND-
+(4) Prescribed by or in consultation with a dermatologist
+* Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance
+from the Novartis sponsored Cosentyx Connect shall be required to meet initial authorization
+criteria as if patient were new to therapy.
+© 2024 UnitedHealthcare Services, Inc.
+2
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Cosentyx will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Cosentyx therapy
+-AND-
+(2) Patient is not receiving Cosentyx in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Stelara
+(ustekinumab), Skyrizi (risankizumab), Tremfya (guselkumab), Taltz
+(ixekizumab), Siliq (brodalumab), Ilumya (tildrakizumab), Xeljanz
+(tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib), Otezla
+(apremilast)]
+Authorization will be issued for 12 months.
+B. Psoriatic Arthritis (PsA)
+1. Initial Authorization
+a. Cosentyx will be approved based on all of the following criteria:
+(1) Diagnosis of active psoriatic arthritis
+-AND-
+(2) One of the following:
+(a) History of failure to a 3 month trial of methotrexate at maximally indicated
+dose, unless contraindicated or clinically significant adverse effects are
+experienced (document date and duration of trial)b
+-OR-
+(b) Patient has been previously treated with a targeted immunomodulator FDA-
+approved for the treatment of psoriatic arthritis as documented by claims
+history or submission of medical records (Document drug, date, and duration
+of therapy) [e.g., Cimzia (certolizumab), adalimumab, Simponi
+(golimumab), Stelara (ustekinumab), Tremfya (guselkumab),
+Xeljanz/Xeljanz XR (tofacitinib), Otezla (apremilast), Skyrizi
+(risankizumab), Rinvoq (upadacitinib), Enbrel (etanercept)]
+-OR-
+(c) Both of the following:
+© 2024 UnitedHealthcare Services, Inc.
+3
+i. Patient is currently on Cosentyx therapy as documented by claims history
+or submission of medical records (Document date and duration of
+therapy)
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in
+prescriber office, or any form of assistance from the Novartis sponsored
+Cosentyx Connect (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a
+current user of Cosentyx*
+-AND-
+(3) Patient is not receiving Cosentyx in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Stelara
+(ustekinumab), Skyrizi (risankizumab), Tremfya (guselkumab), Taltz
+(ixekizumab), Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq
+(upadacitinib), Otezla (apremilast)]
+-AND-
+(4) Prescribed by or in consultation with one of the following:
+(a) Rheumatologist
+(b) Dermatologist
+* Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance
+from the Novartis sponsored Cosentyx Connect shall be required to meet initial authorization
+criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Cosentyx will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Cosentyx therapy
+-AND-
+(2) Patient is not receiving Cosentyx in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Stelara
+(ustekinumab), Skyrizi (risankizumab), Tremfya (guselkumab), Taltz
+(ixekizumab), Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq
+(upadacitinib), Otezla (apremilast)]
+© 2024 UnitedHealthcare Services, Inc.
+4
+Authorization will be issued for 12 months.
+C. Ankylosing Spondylitis (AS)
+1. Initial Authorization
+a. Cosentyx will be approved based on all of the following criteria:
+(1) Diagnosis of active ankylosing spondylitis
+-AND-
+(2) One of the following:
+(a) History of failure to two NSAIDs (e.g., ibuprofen, naproxen) at maximally
+indicated doses, each used for at least 4 weeks, unless contraindicated or
+clinically significant adverse effects are experienced (document drug, date,
+and duration of trials)
+-OR-
+(b) Patient has been previously treated with a targeted immunomodulator FDA-
+approved for the treatment of ankylosing spondylitis as documented by
+claims history or submission of medical records (Document drug, date, and
+duration of therapy) [e.g., adalimumab, Simponi (golimumab),
+Xeljanz/Xeljanz XR (tofacitinib), Rinvoq (upadacitinib), Enbrel
+(etanercept)].
+-OR-
+(c) Both of the following:
+i. Patient is currently on Cosentyx therapy as documented by claims history
+or submission medical records (Document date and duration of therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in
+prescriber office, or any form of assistance from the Novartis sponsored
+Cosentyx Connect (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a
+current user of Cosentyx*
+-AND-
+(3) Patient is not receiving Cosentyx in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Xeljanz
+(tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib)]
+© 2024 UnitedHealthcare Services, Inc.
+5
+-AND-
+(4) Prescribed by or in consultation with a rheumatologist
+* Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance
+from the Novartis sponsored Cosentyx Connect shall be required to meet initial authorization
+criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Cosentyx will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Cosentyx therapy
+-AND-
+(2) Patient is not receiving Cosentyx in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Xeljanz
+(tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib)]
+Authorization will be issued for 12 months.
+D. Non-radiographic Axial Spondyloarthritis
+1. Initial Authorization
+a. Cosentyx will be approved based on all of the following criteria:
+(1) Diagnosis of active non-radiographic axial spondyloarthritis
+-AND-
+(2) One of the following:
+(a) History of failure to two NSAIDs (e.g., ibuprofen, naproxen) at maximally
+indicated doses, each used for at least 4 weeks, unless contraindicated or
+clinically significant adverse effects are experienced (document drug, date,
+and duration of trials)
+-OR-
+(b) Patient has been previously treated with a targeted immunomodulator
+FDA-approved for the treatment of non-radiographic axial
+spondyloarthritis as documented by claims history or submission of
+© 2024 UnitedHealthcare Services, Inc.
+6
+medical records (Document drug, date, and duration of therapy) [e.g.,
+Cimzia (certolizumab), Rinvoq (upadacitinib)]
+-OR-
+(c) Both of the following:
+i. Patient is currently on Cosentyx therapy as documented by claims history
+or submission of medical records (Document date and duration of
+therapy)
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in
+prescriber office, or any form of assistance from the Novartis sponsored
+Cosentyx Connect (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a
+current user of Cosentyx*
+-AND-
+(3) Patient is not receiving Cosentyx in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Xeljanz
+(tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib)]
+-AND-
+(4) Prescribed by or in consultation with a rheumatologist
+* Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance
+from the Novartis sponsored Cosentyx Connect shall be required to meet initial authorization
+criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Cosentyx will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Cosentyx therapy
+-AND-
+(2) Patient is not receiving Cosentyx in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Xeljanz
+(tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib)]
+© 2024 UnitedHealthcare Services, Inc.
+7
+Authorization will be issued for 12 months.
+E. Enthesitis-Related Arthritis
+1. Initial Authorization
+a. Cosentyx will be approved based on all of the following criteria:
+(1) Diagnosis of active enthesitis-related arthritis
+-AND-
+(2) One of the following:
+(a) History of failure to two NSAIDs (e.g., ibuprofen, naproxen) at maximally
+indicated doses, each used for at least 4 weeks, unless contraindicated or
+clinically significant adverse effects are experienced (document drug, date,
+and duration of trials)
+-OR-
+(b) Both of the following:
+i. Patient is currently on Cosentyx therapy as documented by claims history
+or submission of medical records (Document date and duration of
+therapy)
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in
+prescriber office, or any form of assistance from the Novartis sponsored
+Cosentyx Connect (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a
+current user of Cosentyx*
+-AND-
+(3) Patient is not receiving Cosentyx in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), adalimumab, Cimzia
+(certolizumab), Simponi (golimumab), Xeljanz (tofacitinib), Rinvoq
+(upadacitinib)]
+-AND-
+(4) Prescribed by or in consultation with a rheumatologist
+* Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance
+from the Novartis sponsored Cosentyx Connect shall be required to meet initial authorization
+criteria as if patient were new to therapy.
+© 2024 UnitedHealthcare Services, Inc.
+8
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Cosentyx will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Cosentyx therapy
+-AND-
+(2) Patient is not receiving Cosentyx in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), adalimumab, Cimzia
+(certolizumab), Simponi (golimumab), Xeljanz (tofacitinib), Rinvoq
+(upadacitinib)]
+Authorization will be issued for 12 months.
+F. Hidradenitis Suppurativa (HS)
+1. Initial Authorization
+a. Cosentyx will be approved based on all of the following criteria:
+(1) Diagnosis of moderate to severe hidradenitis suppurativa (i.e., Hurley Stage
+II or III)
+-AND-
+(2) One of the following:
+(a) History of failure to at least one oral antibiotic (e.g., doxycycline,
+clindamycin, rifampin) at maximally indicated doses, unless contraindicated
+or clinically significant adverse effects are experienced (document drug,
+date, and duration of trial)
+-OR-
+(b) Both of the following:
+i. Patient is currently on Cosentyx therapy as documented by claims history
+or submission of medical records (Document date and duration of
+therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from a Novartis sponsored
+program (e.g., sample card which can be redeemed at a pharmacy for a
+© 2024 UnitedHealthcare Services, Inc.
+9
+free supply of medication) as a means to establish as a current user of
+Cosentyx*
+-AND-
+(3) Patient is not receiving Cosentyx in combination with another targeted
+immunomodulator [e.g., adalimumab, Enbrel (etanercept), Cimzia
+(certolizumab), Simponi (golimumab), Orencia (abatacept), Xeljanz
+(tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib)]
+-AND-
+(4) Prescribed by or in consultation with a dermatologist
+* Patients requesting initial authorization who were established on therapy via the
+receipt of a manufacturer supplied sample at no cost in the prescriber’s office or any
+form of assistance from a Novartis sponsored program shall be required to meet initial
+authorization criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Cosentyx will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Cosentyx therapy.
+-AND-
+(2) Patient is not receiving Cosentyx in combination with another targeted
+immunomodulator [e.g., adalimumab, Enbrel (etanercept), Cimzia
+(certolizumab), Simponi (golimumab), Orencia (abatacept), Xeljanz
+(tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib)]
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+b For Connecticut, Kentucky and Mississippi business only a 30-day trial will be required.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+© 2024 UnitedHealthcare Services, Inc.
+10
+4. Reference:
+1. Cosentyx [package insert]. East Hanover, NJ: Novartis Pharmaceuticals Corp.; October 2023.
+2. Ward MM, Deodhar, A, Gensler, LS, et al. 2019 Update of the American College of
+Rheumatology/Spondylitis Association of America/Spondyloarthritis Research and Treatment
+Network Recommendations for the Treatment of Ankylosing Spondylitis and Nonradiographic
+Axial Spondyloarthritis. Arthritis & Rheumatology. 2019; 71(10): 1599-1613.
+3. Yu, DT, van Tubergen A. Treatment of axial spondyloarthritis (ankylosing spondylitis and
+nonradiographic axial spondyloarthritis) in adults. Sieper, J (Ed). UpToDate. Waltham, MA:
+UpToDate Inc. http://www.uptodate.com (Accessed on October 10, 2019.)
+4. Singh, JA, Guyatt, G, et al. 2018 American College of Rheumatology/National Psoriasis
+Foundation Guideline for the Treatment of Psoriatic Arthritis. Arthritis & Rheumatology. 2019;
+71(1): 5-32.
+5. Menter A, Gottlieb A, Feldman SR, et al. Guidelines of care for the management of psoriasis and
+psoriatic arthritis: Section 1. Overview of psoriasis and guidelines of care for the treatment of
+psoriasis with biologics. J Am Acad Dermatol 2008; 58(5):826-50.
+6. Gottlieb A, Korman NJ, Gordon KB, et al. Guidelines of care for the management of psoriasis
+and psoriatic arthritis. Psoriatic arthritis: Overview and guidelines of care for treatment with an
+emphasis on the biologics. J Am Acad Dermatol 2008;58(5):851-64.
+7. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and
+psoriatic arthritis. Section 3. Guidelines of care for the management and treatment of psoriasis
+with topical therapies. J Am Acad Dermatol 2009;60(4):643-59.
+8. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and
+psoriatic arthritis. Guidelines of care for the treatment of psoriasis with phototherapy and
+photochemotherapy. J Am Acad Dermatol 2010;62(1):114-35.
+9. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and
+psoriatic arthritis. Guidelines of care for the management and treatment of psoriasis with
+traditional systemic agents. J Am Acad Dermatol 2009;61(3):451-85.
+10. Nast A, et al; European S3-Guidelines on the systemic treatment of psoriasis vulgaris – update
+2015 – short version – EFF in cooperation with EADV and IPC, J Eur Acad Derm Venereol
+2015;29:2277-94.
+11. Menter A, Korman NJ, Elmets CA,Feldman SR, Gelfand JM, Gordon KB, Guidelines of care for
+the management of psoriasis and psoriatic arthritis: section 6. Guidelines of care for the treatment
+of psoriasis and psoriatic arthritis: case-based presentations and evidence-based conclusions. J
+Am Acad Dermatol. 2011 Jul;65(1):137-74.
+12. Gossec L, et al; European League Against Rheumatism (EULAR) recommendations for the
+management of psoriatic arthritis with pharmacological therapies: 2015 update, Ann Rheum Dis
+2016;75:499-510.
+13. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management
+and treatment of psoriasis with biologics. J Am Acad Dermatol. 2019;80:1029-72.
+14. Bodemer C, Kaszuba A, Kingo K, et al. Secukinumab demonstrates high efficacy and a
+favourable safety profile in paediatric patients with severe chronic plaque psoriasis: 52-week
+results from a Phase 3 double-blind randomized, controlled trial. J Eur Acad Dermatol Venereol.
+2021;35(4):938-947. doi:10.1111/jdv.17002
+Program Prior Authorization/Medical Necessity - Cosentyx (secukinumab)
+Change Control
+5/2020 New program.
+© 2024 UnitedHealthcare Services, Inc.
+11
+7/2020 Updated background and criteria to include new indication for non-
+radiographic axial spondyloarthritis. Clarified documentation
+requirements. Updated references.
+11/2020 Added Tremfya as a step therapy medication for psoriatic arthritis.
+Revised psoriasis step therapy medications due to expanded indication
+for use of Stelara in patients 6 years and older.
+6/2021 Removed prescriber requirement from reauthorization criteria. Added
+coverage criteria for patients previously treated with a biologic
+DMARD. Added clarification that submission of medical records is
+required documenting current therapy with Cosenyx in order to bypass
+step if claim history not available.
+7/2021 Updated background to include expanded indication for moderate to
+severe plaque psoriasis to pediatric patients 6 years and older. Updated
+references.
+12/2021 Updated the following with no change to clinical intent: updated
+conventional DMARD bypass language for psoriatic arthritis and
+psoriasis, removed “biologic” from required preferred product criteria
+language, updated age requirement language and updated CT/KY
+footnote.
+2/2022 Updated background and clinical criteria with new indication for ERA.
+Updated formatting of clinical criteria for nr-axSpA. Updated
+reference.
+3/2022 Added Skyrizi as a preferred drug for active psoriatic arthritis.
+Clarified criteria for non-radiographic axial spondyloarthritis that
+patient must still have a history of failure, contraindication, or
+intolerance to Cimzia (certolizumab) whether they were previously
+treated with a DMARD or have failed two NSAIDs.
+6/2022 Added Rinvoq and Xeljanz to step therapy medication for ankylosing
+spondylitis and psoriatic arthritis. Added Rinvoq and/or Xeljanz to
+examples where appropriate. Added Mississippi to state mandate
+footnote.
+11/2022 Added Enbrel as a preferred product step option for AS, PsO, and PsA.
+Added Enbrel as an example where appropriate. Added Rinvoq as a
+step option for non-radiographic axial spondyloarthritis. Added targeted
+synthetic to DMARD bypass for non-radiographic axial
+spondyloarthritis.
+1/2023 Updated step therapy requirements to Humira or Amjevita. Updated
+listed examples from Humira to adalimumab.
+4/2023 Updated step therapy requirement from Humira or Amjevita to one of
+the preferred adalimumab products and added the footnote “For a list of
+preferred adalimumab products please reference drug coverage tools.”
+7/2023 Updated not receiving in combination language to targeted
+immunomodulator and updated examples.
+1/2024 Added coverage criteria for new indication for Hidradenitis Suppurativa
+(HS). Updated state mandate footnote. Updated background and
+reference.
+10/2024 Removed all step therapy requirements through preferred products.
+Removed adalimumab footnote.
+© 2024 UnitedHealthcare Services, Inc.
+12

@@ -1,0 +1,244 @@
+STEP THERAPY POLICY
+POLICY: Calcium Channel Blockers – Dihydropyridine Products Step Therapy
+Policy
+• nicardipine immediate-release capsules (generic only)
+• Conjupri® (levamlodipine tablets – CSPC Ouyi)
+• isradipine immediate-release capsules (generic only)
+• Katerzia™ (amlodipine oral suspension – Azurity)
+• Norvasc® (amlodipine tablets – Viatris, generic)
+• Levamlodipine tablets – Xspire/CSPC Ouyi (authorized generic)
+• Norliqva® (amlodipine oral solution – CMP)
+• felodipine extended-release tablets (generic only)
+• Prestalia® (perindopril arginine and amlodipine tablets – Adhera)
+• Procardia XL® (nifedipine extended-release tablets – Pfizer,
+generic)
+• Procardia® (nifedipine immediate-release capsules – Pfizer, generic)
+• Sular® (nisoldipine extended-release tablets – Shionogi, generic)
+REVIEW DATE: 06/18/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Page 1 of 6 - Cigna National Formulary Coverage - Policy:Calcium Channel Blockers – Dihydropyridine Products
+Step Therapy Policy
+All of the dihydropyridine (DHP) calcium channel blockers (CCBs), with the
+exception of immediate-release (IR) nifedipine and nimodipine, are indicated for the
+treatment of hypertension in adults.1-14,9 Some of the DHB CCBs have unique
+indications:
+• Agents that are indicated for the management of chronic stable angina
+include amlodipine, nicardipine IR, nifedipine IR, and nifedipine extended-
+release (ER) [Procardia XL formulation].
+• Agents that are indicated for the treatment of vasospastic angina include
+amlodipine, nifedipine IR, and nifedipine ER (Procardia XL formulation).
+• Amlodipine possess a unique indication in patients with recently
+documented coronary artery disease (CAD) by angiography and
+without heart failure (HF) or an ejection fraction < 40% to reduce
+the risk of hospitalization due to angina and to reduce the risk of a
+coronary revascularization procedure. Amlodipine is indicated for use in
+adults and pediatric patients ≥ 6 years of age.
+• Conjupri is indicated for the treatment of hypertension in adults and
+pediatric patients ≥ 6 years of age to lower blood pressure.24 An authorized
+generic is available.27
+• Katerzia may be used alone or in combination with other antihypertensive or
+antianginal medications for the treatment of hypertension in adults and
+children ≥ 6 years of age and CAD (chronic stable angina, vasospastic
+angina, and angiographically documented CAD in patients without heart
+failure or an ejection fraction < 40%).25
+• Norliqva may be used alone or in combination with other antihypertensive
+or antianginal medications for the treatment of hypertension in adults and
+children ≥ 6 years of age and CAD [chronic stable angina, vasospastic
+angina, and angiographically documented CAD in patients without heart
+failure or an ejection fraction < 40%].26
+Prestalia contains amlodipine and perindopril, an angiotensin converting enzyme
+(ACE) inhibitor.6
+The DHP CCB nimodipine is not discussed in this document since it is only indicated
+to improve neurological deficits associated with subarachnoid hemorrhage and is
+given every 4 hours for a 21-day period.13,14
+Many of the available DHP CCBs can be dosed once daily (QD), which may be
+important in the treatment of hypertension to ensure adequate blood pressure
+control over a 24-hour period and in the treatment of angina to avoid fluctuations in
+blood pressure and heart rate. The only DHP CCBs that are not dosed QD are
+isradipine IR, dosed twice daily (BID), and nicardipine IR and nifedipine IR, both of
+which are dosed three to four times daily (TID to QID).
+Hypertension
+The DHP CCBs indicated in the treatment of hypertension have been found to be
+effective. These agents are useful for many reasons, such that the blood pressure
+response is less contingent on patient factors such as race and age, the agents are
+metabolically neutral and do not disturb glucose homeostasis, and some agents
+6 Pages - Cigna National Formulary Coverage - Policy:Calcium Channel Blockers – Dihydropyridine Products Step
+Therapy Policy
+have conferred cardiovascular benefit.15 In 2017, the American College of
+Cardiology , along with other nationally-recognized groups, published extensive
+guidelines regarding the management of high blood pressure in adults. CCBs are
+recommended among the choice of first-line agents as antihypertensive
+medications. Refer to the full guidelines for additional details.23 The Eigth Report
+of the Joint National Committee (JNC 8) 2014 evidence-based guideline for the
+management of high blood pressure in adults recommends CCBs as one of the
+initial choices of therapy in various scenarios.16 Currently, the only DHP CCB
+indicated for the treatment of hypertension in children is amlodipine (patients aged
+6 to 17 years).1 In 2017, the American Academy of Pediatrics published a
+clinical practice guideline regarding the management of high blood pressure in
+children and adolescents.17 Long-acting CCBs are among the first-line choices for
+patients initiating antihypertensive therapy.
+Angina
+In 2023, the American Heart Association and the American College of
+Cardiology, along with other national organizations, published guidelines regarding
+the management of patients with chronic coronary disease.18 Either a calcium
+channel blocker or beta blocker is recommended as first-line antianginal therapy.
+In adults with chronic coronary disease and hypertension (systolic blood pressure ≥
+130 and/or diastolic blood pressure BP ≥ 80 mm Hg), in addition to
+nonpharmacological strategies, guideline-directed medication therapy with
+angiotensin-converting enzyme (ACE) inhibitors, angiotensin receptor blockers
+(ARB), or beta blockers are recommended as first-line therapy for compelling
+indications (e.g., recent MI or angina), with additional antihypertensive medications
+(e.g., dihydropyridine calcium channel blockers [CCB], long-acting thiazide
+diuretics, and/or mineralocorticoid receptor antagonists) added as needed to
+optimize blood pressure control. In patients with chronic coronary disease and
+angina, antianginal therapy with either a beta blocker, CCB, or long-acting nitrate is
+recommended for relief of angina or equivalent symptoms. In such patients who
+remain symptomatic after initial treatment, addition of a second antianginal agent
+from a different therapeutic class (beta blockers, CCBs, long-acting nitrates) is
+recommended for relief of angina or equivalent symptoms.
+Heart Failure (HF)
+Most of the clinical data available on the use of DHP CCBs in patients with HF are
+with amlodipine, followed by felodipine, although neither product is indicated for
+HF.19-21 The amlodipine prescribing information notes that amlodipine has been
+compared with placebo in several studies of 8 to 12 weeks duration in patients with
+New York Heart Association (NYHA) Class II/III HF (n = 697) and no evidence of
+worsening HF was noted.1 The Prospective Randomized Amlodipine Evaluation
+(PRAISE) study (n = 1,153) is also detailed which involved use of amlodipine (5 to
+10 mg) in patients with Class III/IV HF who were receiving other medications for HF
+(diuretics, digoxin, ACE inhibitors).1,19 Amlodipine had no effect on the primary
+endpoint, which was the combined endpoint of all-cause mortality and cardiac
+morbidity. The primary endpoint occurred in 42% of patients given placebo vs.
+39% in the amlodipine group after a median follow-up of 13.8 months.1,19 The
+PRAISE-2 trial is also mentioned in the amlodipine prescribing information which
+6 Pages - Cigna National Formulary Coverage - Policy:Calcium Channel Blockers – Dihydropyridine Products Step
+Therapy Policy
+randomized patients with NYHA Class III (80%) or IV (20%) HF who had no clinical
+symptoms or objective evidence of underlying ischemic disease to receive placebo
+or amlodipine, in addition to other HF therapies. After a mean follow-up of 33
+months, there was no difference between amlodipine and placebo in the primary
+endpoint of all-cause mortality.1 The 2022 American College of Cardiology
+Foundation /American Heart Association /Heart Failure Society of America
+guideline for the management of HF states that DHP CCBs are not recommended
+for patients with heart failure and a reduced ejection fraction; no distinct benefits
+are noted.22 DHP CCBs may be used for the treatment of hypertension in patients
+who have elevated blood pressure despite optimization of guideline-directed
+medication therapy. Among the DHP CCBs, amlodipine and felodipine are thought
+to have less myocardial depressant activity and may be more favorable agents.22
+POLICY STATEMENT
+This program has been developed to encourage the use of a Step 1 Product prior to
+the use of a Step 2 Product, for all agents except Prestalia. For Prestalia, this
+program requires the patient to try one Step 1 Product (a generic dihydropyridine-
+calcium channel blocker [DHP CCB] or a generic DHP CCB-combination product)
+and one angiotensin converting enzyme (ACE) inhibitor. If the Step Therapy rule is
+not met for a Step 2 Product at the point of service, coverage will be determined by
+the Step Therapy criteria below. All approvals are provided for 1 year in duration.
+Step 1: Afeditab CR, amlodipine, amlodipine/atorvastatin, amlodipine/benazepril,
+felodipine ER, isradipine IR, nicardipine IR, nifedipine ER, nifedipine IR,
+nifedipine XL, Nifediac CC, Nifedical XL, nisoldipine ER
+Step 2: Conjupri, Katerzia, Levamlodipine (authorized generic), Norliqva, Norvasc,
+Prestalia, Procardia, Procardia XL, Sular
+Calcium Channel Blockers – Dihydropyridine Products Step Therapy Policy
+product(s) is(are) covered as medically necessary when the following step
+therapy criteria is(are) met. Any other exception is considered not
+medically necessary.
+CRITERIA
+1. For all agents except Prestalia, if the patient has tried one Step 1 Product,
+approve a Step 2 Product.
+2. For Prestalia, if the patient has tried one Step 1 Product AND one angiotensin
+converting enzyme inhibitor, approve Prestalia.
+Note: Examples of angiotensin converting enzyme inhibitors include perindopril,
+enalapril, lisinopril, benazepril.
+6 Pages - Cigna National Formulary Coverage - Policy:Calcium Channel Blockers – Dihydropyridine Products Step
+Therapy Policy
+3. If the patient cannot swallow or has difficulty swallowing tablets or capsules,
+approve Katerzia or Norliqva.
+REFERENCES
+1. Norvasc tablets [prescribing information]. Morgantown, WV; Viatris; February 2023.
+2. Felodipine extended-release tablets [prescribing information]. Morgantown, WV: Mylan; February
+2013.
+3. Isradipine capsules [prescribing information]. Parsippany, NJ: Actavis; November 2023.
+4. Nicardipine capsules [prescribing information]. Morgantown, WV: Mylan; September 2016.
+5. Prestalia® tablets [prescribing information]. Durham, NC: Adhera; August 2019.
+6. Procardia capsules [prescribing information]. New York, NY: Pfizer; December 2014.
+7. The Medical Letter. Drugs for hypertension. Med Lett Drugs Ther. 2024;66(1703):81-88.
+8. Procardia XL extended-release tablets [prescribing information]. New York, NY: Pfizer;
+November 2023.
+9. Nisoldipine extended-release tablets 20 mg, 30 mg and 40 mg [prescribing information].
+Morgantown, WV: Mylan; September 2022.
+10. Sular® extended-release tablets 8.5 mg, 17 mg, 25.5 mg, and 34 mg [prescribing information].
+Florham Park, NJ: Shinogi; December 2019.
+11. Nimotop capsules [prescribing information]. Wayne, NJ: Bayer; February 2008.
+12. Nymalize® oral solution [prescribing information]. Woborn, MA; Azurity; March 2023.
+13. Epstein BJ, Vogel K, Palmer BF. Dihydropyridine calcium channel antagonists in the management
+of hypertension. Drugs. 2007;67(9):1309-1327.
+14. James PA, Oparil S, Carter BL, et al. 2014 evidence-based guideline for the management of high
+blood pressure in adults. Report from the panel members appointed to the eighth joint national
+committee (JNC 8). JAMA. 2014;311(5):507-520.
+15. Flynn JT, Kaelber DC, Baker-Smith CM, et al, for the subcommittee on screening and management
+of high blood pressure in children and adolescents. Pediatrics. 2017;140(3):e20171904.
+16. Virani SS, Newby LK, Arnold SV, et al. 2023 AHA/ACC/ACCP/ASPC/NLA/PCNA guideline for the
+management of patients with chronic coronary disease: a report of the American Heart
+Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines. J Am
+Coll Cardiol. 2023;82(9):833-955.
+17. Packer M, O'Connor CM, Ghali J, et al. for the Prospective Randomized Amlodipine Survival
+Evaluation (PRAISE) study group. Effect of amlodipine on morbidity and mortality in severe
+chronic heart failure. N Engl J Med. 1996;335:1107-1114.
+18. Cohn J, Ziesche S, Smith R, and the V-HeFT Study Group. Effect of the calcium antagonist
+felodipine as supplementary vasodilator therapy in patients with chronic heart failure treated with
+enalapril: VeHeFT III. Circulation. 1997;96:856-863.
+19. Littler WA, Sheridan DJ. Placebo-controlled trial of felodipine in patients with mild to moderate
+heart failure. UK Study Group. Br Heart J. 1995;73(5):428-433.
+20. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA guideline for the management
+of heart failure: a report of the American College of Cardiology/American Heart Association Joint
+Committee on Clinical Practice Guidelines. Circulation. 2022;145(18):e895-e1032.
+21. Whelton PK, Carey RM, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/AphA/ASH/ASPC/NMA/PCNA
+guidelines for the prevention, detection, evaluation, and management of high blood pressure in
+adults. A report of the American College of Cardiology/American Heart Association Task Force on
+Clinical Practice Guidelines. J Am Coll Cardiol. 2018;71(19):e127-e248.
+22. Conjupri® tablets [prescribing information]. CSPC Ouyi; December 2019.
+23. Katerzia™ oral suspension [prescribing information]. Woborn, Azurity; April 2023.
+24. Norliqva® oral solution [prescribing information]. Farmville, NC: CMP; February 2022.
+25. Levamlodipine tablets [prescribing information]. Ridgeland, MS: Xspire/CSPC Ouyi; November
+2021.
+26. The Medical Letter. Drugs for hypertension. Med Lett Drugs Ther. 2024;66(1703):81-88.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+6 Pages - Cigna National Formulary Coverage - Policy:Calcium Channel Blockers – Dihydropyridine Products Step
+Therapy Policy
+Annual Revision No criteria changes. 06/28/2023
+Annual Revision Adalat CC: Removed from Step 2 as it is no longer available. 06/26/2024
+Annual Revision No criteria changes. 06/18/2025
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+6 Pages - Cigna National Formulary Coverage - Policy:Calcium Channel Blockers – Dihydropyridine Products Step
+Therapy Policy

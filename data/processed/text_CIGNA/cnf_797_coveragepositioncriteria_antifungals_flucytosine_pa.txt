@@ -1,0 +1,119 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Antifungals – Flucytosine Prior Authorization Policy
+• Ancobon® (flucytosine capsules − Bausch Health, generic)
+REVIEW DATE: 05/07/2025
+•
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Flucytosine, an antifungal, is indicated for the treatment of serious infections caused
+by susceptible strains of Candida and/or Cryptococcus:1
+• Candida infections: Septicemia, endocarditis, endophthalmitis, and urinary
+system infections have been effectively treated with flucytosine. Limited trials
+in pulmonary infections justify the use of flucytosine.
+Note: Flucytosine does not have activity against C. krusei and should not be
+used for infections caused by this Candida species.2
+• Cryptococcus infections: Meningitis and pulmonary infections have been
+treated effectively. Studies in septicemias and urinary tract infections are
+limited, but good responses have been reported.1
+Flucytosine should be used in combination with amphotericin B for the treatment of
+systemic candidiasis and cryptococcosis due to emergence of resistance to
+flucytosine; monotherapy for serious infections may also cause higher rates of
+Page 1 of 5 - Cigna National Formulary Coverage - Policy:Antifungals – Flucytosine Prior Authorization Policy
+relapse and mortality.2 Flucytosine monotherapy can be used in candiduria without
+systemic infection.
+Treatment duration is varied; patients are treated until infection has cleared.2-4
+There have been reports of flucytosine capsules being compounded for use as foot
+baths. There are no data to support the use of flucytosine capsules in this manner
+and coverage of flucytosine capsules for this use is not recommended.
+Guidelines/Recommendations
+Infectious Diseases Society of America (IDSA) guidelines for treatment of Candida
+infections (2016) note that flucytosine can be used as monotherapy or in combination
+with other antifungals for these infections.2 The European Confederation of Medical
+Mycology, the International Society for Human and Animal Mycology, and the
+American Society of Microbiology developed global guidelines for the diagnosis and
+management of Cryptococcosis (2024) and note that flucytosine should be used in
+combination with other antifungals for these infections.
+Flucytosine capsules may be extemporaneously compounded for vaginal use for
+patients with vulvovaginal candidiasis.2,4 IDSA guidelines for the management of
+candidiasis note 17% flucytosine cream to be an option, as monotherapy or in
+combination with 3% amphotericin B cream, for the treatment of C. glabrata
+vulvovaginitis unresponsive to oral azole antifungals (weak recommendation; low
+quality evidence); duration of treatment is 14 days.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of flucytosine
+capsules. All approvals are provided for the duration noted below. In cases where
+the approval is authorized in months, 1 month is equal to 30 days.
+• Ancobon® (flucytosine capsules - Bausch Health,
+generic)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Candida Infection (Systemic) – Treatment. Approve for 3 months.
+2. Cryptococcus Infection (Systemic) – Treatment. Approve for 3 months.
+Other Uses with Supportive Evidence
+2 Pages - Cigna National Formulary Coverage - Policy:Antifungals – Flucytosine Prior Authorization Policy
+3. Fungal Infection (Systemic) that is Susceptible to Flucytosine –
+Treatment. Approve for 3 months.
+4. Vulvovaginal Candidiasis. Approve for 14 days if the patient has previously
+tried at least one other antifungal therapy.
+5. Patient is Currently Receiving Flucytosine for a Systemic Fungal
+Infection. Approve for 3 months to complete the course of therapy.
+CONDITIONS NOT COVERED
+Ancobon® (flucytosine capsules - Bausch Health, generic)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Foot Baths. There are no data to support the use of flucytosine capsules in foot
+baths.
+REFERENCES
+1. Ancobon® capsules [prescribing information]. Bridgewater, NJ: Bausch Health; February 2022.
+2. Pappas PG, Kauffman CA, Andes DR, et al. Clinical practice guidelines for the management of
+candidiasis: 2016 update by the Infectious Diseases Society of America. Clin Infect Dis.
+2016;62:e1-50.
+3. Chang CC, Harrison TS, Bicanic TA, et al. Global guideline for the diagnosis and management of
+cryptococcosis: an initiative of the ECMM and ISHAM in cooperation with the ASM. Lancet Infect
+Dis. 2024;24(8):e495-e512.
+4. Facts and Comparisons Online. Wolters Kluwer Health, Inc.; 2024. Available at:
+https://fco.factsandcomparisons.com/lco/action/home. Accessed on May 1, 2025. Search term:
+flucytosine.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 05/03/2023
+Annual No criteria changes. 05/29/2024
+Revision
+Annual No criteria changes. 05/07/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+2 Pages - Cigna National Formulary Coverage - Policy:Antifungals – Flucytosine Prior Authorization Policy

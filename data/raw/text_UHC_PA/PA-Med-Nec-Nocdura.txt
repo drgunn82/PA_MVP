@@ -1,0 +1,95 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2145-10
+Program Prior Authorization/Medical Necessity
+Medication Nocdurna® (desmopressin acetate)
+P&T Approval Date 5/2018, 7/2018, 10/2018, 2/2019, 2/2020, 2/2021, 2/2022, 2/2023, 2/2024,
+2/2025
+Effective Date 5/1/2025
+1. Background:
+Nocdurna (desmopressin acetate) sublingual tablets are indicated for the treatment of nocturia
+due to nocturnal polyuria in adults who awaken at least 2 times per night to void. In clinical
+trials, nocturnal polyuria was defined as nighttime urine production exceeding one-third of the
+24-hour urine production. Prior to initiating treatment with Nocdurna, patients should be
+evaluated for possible causes of nocturia and to optimize the treatment of underlying
+conditions that may be contributing to the nocturia.
+Desmopressin should be avoided in older adults (those 65 or older) due to the risk of
+hyponatremia. This medication is included in the American Geriatrics Society Beers Criteria.
+Nocdurna has a Black Box Warning for hyponatremia listed in the FDA prescribing
+information. Nocdurna use is contraindicated in patients with hyponatremia or a history of
+hyponatremia, SIADH, eGFR <50 mL/min/1.7m2, uncontrolled hypertension, and New York
+Heart Association Class II – IV congestive heart failure. See package insert for full listing of
+contraindications and safety warnings.
+This prior authorization program is intended to ensure appropriate prescribing of Nocdurna
+prior to initiating therapy.
+2. Coverage Criteriaa:
+A. Nocdurna
+1. Initial Authorization
+a. Nocdurna will be approved based on all of the following:
+(1) Diagnosis of nocturia due to nocturnal polyuria (as defined by nighttime urine
+production that exceeds one-third of the 24-hour urine production)
+-AND-
+(2) Patient wakes at least twice per night on a reoccurring basis to void
+-AND-
+(3) Documented serum sodium level is currently within normal limits of the normal
+laboratory reference range and has been within normal limits over the previous six
+months.
+© 2025 UnitedHealthcare Services Inc.
+1
+-AND-
+(4) The patient has been evaluated for other medical causes and has either not
+responded to, tolerated, or has a contraindication to treatments for identifiable
+medical causes (e.g., overactive bladder, benign prostatic hyperplasia/lower urinary
+tract symptoms (BPH/LUTS), elevated post-void residual urine, and heart failure)
+-AND-
+(5) Prescriber attests that the risks have been assessed and benefits outweigh the risks
+Authorization will be issued for 12 months
+B. Reauthorization
+1. Nocdurna will be approved based on all of the following:
+a. Documentation of positive clinical response to Nocdurna therapy
+-AND-
+b. Patient has routine monitoring for serum sodium levels
+-AND-
+c. Prescriber attests that the risks of hyponatremia have been assessed and benefits
+outweigh the risks
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim
+logic. Use of automated approval and re-approval processes varies by program and/or
+therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Johnson, TM. Nocturia: Clinical presentation, evaluation and management in adults. O’Leary,
+MP, ed. UpToDate. Waltham, MA: UpToDate Inc. http://www.uptodate.com. February 2023.
+2. Nocdurna (desmopressin) sublingual tablets [package insert]. Ewing, NJ: Antares Pharma,
+Inc; November 2020.
+© 2025 UnitedHealthcare Services Inc.
+2
+3. American Geriatrics Society 2023 Updated AGS Beers Criteria® for Potentially Inappropriate
+Medication Use in Older Adults. J Am Geriatr Soc. 2023; 71: 2052-81.
+Program Prior Authorization/Medical Necessity – Nocdurna
+Change Control
+Date Change
+5/2018 New program
+7/2018 Updated information to program background to include all
+contraindications. Simplified language regarding other evaluation of other
+causes of nocturia. Added prescriber attestation that benefits outweigh the
+risk.
+10/2018 Added Nocdurna to program. Updated references. Updated language for
+serum sodium testing to provide clarity.
+2/2019 Added criteria for history of failure, contraindication or intolerance to
+Nocdurna for Noctiva approval.
+2/2020 Annual review. Updated references.
+2/2021 Noctiva removed from the criteria since product has been discontinued.
+2/2022 Annual review. Updated references.
+2/2023 Annual review. Updated initial authorization to 6 months. Updated
+references.
+2/2024 Annual review. Increased initial authorization to 12 months. Updated
+references.
+2/2025 Annual review. No changes.
+© 2025 UnitedHealthcare Services Inc.
+3

@@ -1,0 +1,50 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1378-4
+Program Prior Authorization/Notification
+Medication Livtencity (maribavir)
+P&T Approval Date 2/2022, 2/2023, 2/2024, 2/2025
+Effective Date 5/1/2025
+1. Background:
+Livtencity is a cytomegalovirus (CMV) pUL97 kinase inhibitor indicated in adults and
+pediatric patients (12 years of age and older and weighing at least 35 kg) for the treatment of
+post-transplant CMV infection/disease that is refractory to treatment (with or without
+genotypic resistance) with ganciclovir, valganciclovir, cidofovir, or foscarnet. Livtencity may
+antagonize the antiviral activity of ganciclovir and valganciclovir and coadministration is not
+recommended.
+2. Coverage Criteriaa:
+A. Authorization
+1. Livtencity will be approved based on the following criterion:
+a. Diagnosis of post-transplant cytomegalovirus (CMV) infection or CMV disease
+-AND-
+b. CMV infection or disease is refractory to treatment (with or without genotypic
+resistance) to one of the following:
+(1) Ganciclovir
+(2) Valganciclovir
+(3) Cidofovir
+(4) Foscarnet
+-AND-
+c. Patient is not receiving Livtencity in combination with ganciclovir or
+valganciclovir
+Authorization will be issued for 2 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+© 2025 UnitedHealthcare Services Inc.
+1
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-
+10) and/or claim logic. Use of automated approval and re-approval processes varies by
+program and/or therapeutic class.
+4. References:
+1. Livtencity [package insert]. Lexington, MA: Takeda Pharmaceuticals America, Inc.;
+March 2024.
+Program Prior Authorization/Notification – Livtencity (maribavir)
+Change Control
+2/2022 New program.
+2/2023 Annual review. Added state mandate and updated reference.
+2/2024 Annual review. Updated background and reference.
+2/2025 Annual review. Updated background and reference.
+© 2025 UnitedHealthcare Services Inc.
+2

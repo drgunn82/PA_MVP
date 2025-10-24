@@ -1,0 +1,164 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Coronavirus – Oral Medications for Treatment of Coronavirus Disease
+2019 (COVID-19) Drug Quantity Management Policy – Per Days
+• Lagevrio™ (molnupiravir capsules – Merck)
+• Paxlovid™ (nirmatrelvir tablets; ritonavir tablets [co-packaged] −
+Pfizer)
+REVIEW DATE: 09/11/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Lagevrio is a nucleoside analogue that inhibits SARS-CoV replication by viral
+mutagenesis.1 It was issued Emergency Use Authorization for the treatment of
+mild to moderate COVID-19 in adults who are at high risk for progressing to
+severe COVID-19, including hospitalization and death, and for whom alternative
+COVID-19 treatment options approved or authorized by the FDA are not accessible
+or clinically appropriate.
+Lagevrio limitations of authorized use include the following:1
+• Lagevrio is not authorized for use in patient < 18 years of age.
+• Lagevrio is not authorized for initiation of treatment in patients hospitalized
+due to COVID-19. Benefit of treatment has not been observed when
+treatment was initiated after hospitalization due to COVID-19.
+• Lagevrio is not authorized for pre-exposure or post-exposure prophylaxis for
+prevention of COVID-19.
+• Lagevrio is not authorized for use longer than 5 consecutive days.
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Coronavirus – Oral Medications for Treatment of
+Coronavirus Disease 2019 (COVID-19) Drug Quantity Management Policy – Per Days
+Paxlovid contains nirmatrelvir tablets (a SARS-CoV-2 [severe acute respiratory
+syndrome coronavirus 2] main protease inhibitor) co-packaged with ritonavir
+tablets (a cytochrome P450 [CYP]3A inhibitor).2 Paxlovid is FDA-approved for the
+treatment of mild-to-moderate coronavirus disease 2019 (COVID-19) in adults who
+are at high risk for progression to severe COVID-19, including hospitalization or
+death. Paxlovid is not approved for use as pre-exposure or post-exposure
+prophylaxis for prevention of COVID-19.
+Of note, the Centers for Disease Control and Prevention (CDC) states that early
+reinfection with the COVID-19 virus (within 30 days of the original infection) is
+possible and is most often mild, but severe illness may occur.3,4 The CDC does not
+provide information regarding retreatment with Paxlovid or Lagevrio. The CDC also
+refers to the Infectious Diseases Society of America Guidelines on the Treatment
+and Management of Patients with COVID-19 and the American College of Physician
+Clinical Guidelines and Recommendations on COVID-19, neither of which comment
+on retreatment of reinfections.
+Dosing
+The recommended dose is as follows:1,2
+• Paxlovid: 300 mg nirmatrelvir (two 150 mg tablets) with 100 mg ritonavir (one
+100 mg tablet), with all three tablets taken together twice daily (BID) for 5
+days. Nirmatrelvir must be co-administered with ritonavir. Failure to correctly
+co-administer nirmatrelvir with ritonavir may result in plasma levels of
+nirmatrelvir that are insufficient to achieve the desired therapeutic effect.
+o Renal impairment: No dose adjustment is required for patients with mild
+renal impairment. In patients with moderate renal impairment, the
+recommended dose of Paxlovid is 150 mg nirmatrelvir (one 150 mg tablets)
+with 100 mg ritonavir (one 100 mg tablet) BID for 5 days. Use of Paxlovid is
+not recommended in patients with severe renal impairment.
+• Lagevrio: 800 mg (four 200 mg capsules) taken orally once every 12 hours for
+5 days.
+Treatment with Paxlovid or Lagevrio should be initiated as soon as possible after
+diagnosis of COVID-19 and within 5 days of symptom onset. Completion of the full
+5-day treatment course and continued isolation in accordance with public health
+recommendations are important to maximize viral clearance and minimize
+transmission of SARS-CoV-2. Should a patient require hospitalization after starting
+treatment, the patient may complete the full 5-day treatment course per the
+healthcare provider’s discretion.
+Availability
+Paxlovid is supplied in two different dose-packs (cartons)2:
+• Carton containing 30 tablets divided in five daily-dose blister cards. Each daily
+blister card contains four nirmatrelvir 150 mg tablets and two ritonavir 100 mg
+tablets.
+4 Pages - Cigna National Formulary Coverage - Policy: Coronavirus – Oral Medications for Treatment of
+Coronavirus Disease 2019 (COVID-19) Drug Quantity Management Policy – Per Days
+• Carton containing 20 tablets divided in five daily-dose blister cards. Each daily
+blister card contains two nirmatrelvir 150 mg tablets and two ritonavir 100 mg
+tablets.
+Lagevrio is supplied as 200-mg capsules packaged in a bottle of 40 capsules.1
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of oral medications for the treatment of COVID-19. If
+the Drug Quantity Management rule is not met for the requested medication at the
+point of service, coverage will be determined by the Criteria below. All approvals
+are provided for the duration noted below. All approvals will be reviewed by a
+clinician (nurse or pharmacist).
+Drug Quantity Limits
+Product Strength/Dosage Form/Carton Maximum Quantity per 180
+Size Days
+Paxlovid™ 30 tablet carton 30 tablets (1 carton of 5 blister
+(nirmatrelvir tablets; (contains five daily-dose blister cards cards)
+ritonavir tablets [co- containing four nirmatrelvir 150 mg
+packaged]) tablets and two ritonavir 100 mg
+tablets each)
+20 tablet carton 20 tablets (1 carton of 5 blister
+(contains five daily-dose blister cards cards)
+containing two nirmatrelvir 150 mg
+tablets and two 100 mg tablets each)
+Lagevrio™ 200 mg capsules 40 capsules
+(molnupiravir capsules) (bottles of 40 capsules each)
+Coronavirus – Oral Medications for Treatment of Coronavirus Disease 2019
+(COVID-19) Drug Quantity Management Policy – Per Days product(s)
+is(are) covered as medically necessary when the following criteria is(are)
+met. Any other exception is considered not medically necessary.
+CRITERIA
+Paxlovid tablets
+1. Approve a one-time override for a second course of treatment (either one 30
+tablet carton or one 20 tablet carton) if the patient meets BOTH of the following
+(A and B):
+A) Patient has a repeat diagnosis of COVID-19; AND
+Note: This is a second diagnosis unrelated to the initial diagnosis of COVID-
+19 which was treated with Paxlovid.
+B) At least 30 days have elapsed since completion of the initial course of
+Paxlovid for treatment of COVID-19.
+Lagevrio capsules
+4 Pages - Cigna National Formulary Coverage - Policy: Coronavirus – Oral Medications for Treatment of
+Coronavirus Disease 2019 (COVID-19) Drug Quantity Management Policy – Per Days
+1. Approve a one-time override for a second course of treatment (40 capsules) if
+the patient meets BOTH of the following (A and B):/
+A) Patient is has a repeat diagnosis of COVID-19; AND
+Note: This is a second diagnosis unrelated to the initial diagnosis of COVID-
+19 which was treated with Lagevrio.
+B) At least 30 days have elapsed since completion of the initial course of
+Lagevrio for treatment of COVID-19.
+REFERENCES
+1. Lagevrio™ capsules [Fact Sheet, Emergency Use Authorization]. Whitehouse Station, NJ: Merck;
+June 2024. Available at: https://www.fda.gov/emergency-preparedness-and-response/mcm-
+legal-regulatory-and-policy-framework/emergency-use-authorization#coviddrugs. Accessed on
+August 26, 2024.
+2. Paxlovid™ tablets [prescribing information]. New York, NY: Pfizer; May 2023.
+3. About reinfection. Centers for Disease Control and Prevention Web site. Available at:
+https://www.cdc.gov/covid/about/reinfection.html. Updated June 14, 2024. Accessed on August
+26, 2024.
+4. Testing for COVID-19. Centers for Disease Control and Prevention Web site. Available at:
+https://www.cdc.gov/covid/testing/index.html. Updated June 25, 2024. Accessed on August 26,
+2024.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 09/11/2023
+Revision
+Annual Paxlovid tablets and Lagevrio capsules: Override criteria were 09/11/2024
+Revision updated to require at least 30 days to have elapsed since completion
+of the initial course of treatment for COVID-19. Previously, criteria
+required at least 90 days to have elapsed.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. ©
+2024 The Cigna Group.
+4 Pages - Cigna National Formulary Coverage - Policy: Coronavirus – Oral Medications for Treatment of
+Coronavirus Disease 2019 (COVID-19) Drug Quantity Management Policy – Per Days

@@ -1,0 +1,145 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2261-6
+Program Prior Authorization/Medical Necessity
+Medication Opzelura® (ruxolitinib)
+P&T Approval Date 11/2021, 4/2022, 7/2022, 9/2022, 9/2023, 12/2024
+Effective Date 3/1/2025
+1. Background:
+Opzelura (ruxolitinib) is a Janus kinase (JAK) inhibitor indicated for the topical short term and non-
+continuous chronic treatment of mild to moderate atopic dermatitis in non-immunocompromised
+patients 12 years of age and older whose disease is not adequately controlled with topical prescription
+therapies or when those therapies are not advisable. Opzelura is also indicated for the topical
+treatment of nonsegmental vitiligo in adult and pediatric patients 12 years of age and older.
+Use of Opzelura in combination with therapeutic biologics, other JAK inhibitors or potent
+immunosuppressants such as azathioprine or cyclosporine is not recommended.
+2. Coverage Criteriaa:
+A. Atopic Dermatitis
+1. Initial Authorization
+a. Opzelura will be approved based on all of the following criteria:
+(1) Diagnosis of mild to moderate atopic dermatitis
+-AND-
+(2) One of the following:
+(a) History of failure, contraindication, or intolerance to two of the following
+therapeutic classes of topical therapies^:
+i. One of the following:
+For mild atopic dermatitis: a topical corticosteroid [e.g., DesOwen
+o
+(desonide), hydrocortisone] (any potency)
+For moderate atopic dermatitis: a topical corticosteroid of at least a
+o
+medium- to high-potency (e.g., Elocon (mometasone furoate),
+Synalar (fluocinolone acetonide), Lidex (fluocinonide)]
+ii. One topical calcineurin inhibitor [e.g., Elidel (pimecrolimus), Protopic
+(tacrolimus)]*
+iii. Eucrisa (crisaborole)*
+-OR-
+(b) Both of the following:
+© 2024 UnitedHealthcare Services, Inc.
+1
+i. Patient is currently on Opzelura therapy
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in
+prescriber office, or any form of assistance from the Incyte sponsored
+Opzelura IncyteCARES program (e.g., sample card which can be
+redeemed at a pharmacy for a free supply of medication) as a means to
+establish as a current user of Opzelura¥
+¥ Patients requesting initial authorization who were established on therapy via the receipt of
+a manufacturer supplied sample at no cost in the prescriber’s office or any form of
+assistance from the Incyte sponsored Opzelura IncyteCARES program shall be required to
+meet initial authorization criteria as if patient were new to therapy.
+-AND-
+(3) Patient is not receiving Opzelura in combination with another biologic
+medication [e.g., Dupixent (dupilumab), Xolair (omalizumab), Rituxan
+(rituximab), Enbrel (etanercept), Avsola/Inflectra (infliximab)] or JAK inhibitor
+[e.g., Jakafi (ruxolitinib), Xeljanz (tofacitinib), Rinvoq (upadacitinib)]
+-AND-
+(4) Patient is not receiving Opzelura in combination with a potent
+immunosuppressant medication (e.g., azathioprine, cyclosporine)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Opzelura will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to therapy
+-AND-
+(2) Patient is not receiving Opzelura in combination with another biologic
+medication [e.g., Dupixent (dupilumab), Xolair (omalizumab), Rituxan
+(rituximab), Enbrel (etanercept), Avsola/Inflectra (infliximab)] or JAK inhibitor
+[e.g., Jakafi (ruxolitinib), Xeljanz (tofacitinib), Rinvoq (upadacitinib)]
+-AND-
+(3) Patient is not receiving Opzelura in combination with a potent
+immunosuppressant medication (e.g., azathioprine, cyclosporine)
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+2
+B. Nonsegmental Vitiligo
+1. Initial Authorization
+a. Opzelura will be approved based on all of the following criteria:
+(1) Diagnosis of nonsegmental vitiligo
+-AND-
+(2) Other causes of depigmentation have been ruled out (e.g., nevus depigmentosus,
+pityriasis alba, idiopathic guttate hypomelanosis, tinea (pityriasis) versicolor,
+halo nevus, piebaldism, progressive macular hypomelanosis, lichen sclerosus,
+chemical leukoderma, drug-induced leukoderma, hypopigmented mycosis
+fungoides)
+-AND-
+(3) Affected areas not to exceed 10% body surface area
+-AND-
+(4) History of failure, contraindication, or intolerance to previous nonsegmental
+vitiligo treatment(s) (e.g., topical corticosteroids, topical calcineurin inhibitors)
+-AND-
+(5) Patient is not receiving Opzelura in combination with another biologic
+medication [e.g., Dupixent (dupilumab), Xolair (omalizumab), Rituxan
+(rituximab), Enbrel (etanercept), Avsola/Inflectra (infliximab)] or JAK inhibitor
+[e.g., Jakafi (ruxolitinib), Xeljanz (tofacitinib), Rinvoq (upadacitinib)]
+-AND-
+(6) Patient is not receiving Opzelura in combination with a potent
+immunosuppressant medication (e.g., azathioprine, cyclosporine)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Opzelura will be approved based all of the following criteria:
+(1) Documentation of positive clinical response to therapy
+-AND-
+(2) Patient is not receiving Opzelura in combination with another biologic
+medication [e.g., Dupixent (dupilumab), Xolair (omalizumab), Rituxan
+(rituximab), Enbrel (etanercept), Avsola/Inflectra (infliximab)] or JAK inhibitor
+© 2024 UnitedHealthcare Services, Inc.
+3
+[e.g., Jakafi (ruxolitinib), Xeljanz (tofacitinib), Rinvoq (upadacitinib)]
+-AND-
+(3) Patient is not receiving Opzelura in combination with a potent
+immunosuppressant medication (e.g., azathioprine, cyclosporine)
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+^ Tried/Failed alternative(s) are supported by FDA labeling
+* Elidel, Protopic/tacrolimus ointment, and Eucrisa require prior authorization.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Opzelura [package insert]. Wilmington, DE: Incyte Corporation; August 2024.
+2. Frazier W, Bhardwaj N. Atopic Dermatitis: Diagnosis and Treatment. Am Fam Physician.
+2020;101(10):590-598.
+3. Eichenfield LF, Tom WL, Berger TG, et al. Guidelines of care for the management of atopic
+dermatitis: section 2. Management and treatment of atopic dermatitis with topical therapies. J Am
+Acad Dermatol. 2014;71(1):116-132.
+4. Taieb A, Alomar A, Böhm M, et al. Guidelines for the management of vitiligo: the European
+Dermatology Forum consensus. Br J Dermatol. 2013;168(1):5-19.
+5. Grimes PE. Vitiligo: Management and prognosis. UpToDate. Waltham, MA: UpToDate Inc.
+https://www.uptodate.com. Accessed on August 15, 2022.
+6. Bergqvist C, Ezzedine K. Vitiligo: A Review. Dermatology. 2020;236(6):571-592.
+Program Prior Authorization/Medical Necessity - Opzelura (ruxolitinib)
+Change Control
+11/2021 New program.
+4/2022 Changed initial authorization duration from 8 weeks to 12 months.
+7/2022 Removed age requirement from criteria. Updated reference.
+9/2022 Added coverage criteria for nonsegmental vitiligo. Updated
+background, examples, and reference.
+9/2023 Annual review with no change to clinical criteria. Updated reference.
+12/2024 Annual review. Updated vitiligo initial authorization to 12 months.
+Added FDA supported T/F footnote. Updated reference.
+© 2024 UnitedHealthcare Services, Inc.
+4

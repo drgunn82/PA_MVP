@@ -1,0 +1,72 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2151-9
+Program Prior Authorization/Medical Necessity
+Medication Yupelri® (revefenacin inhalation solution)
+P&T Approval Date 9/2018, 1/2019, 7/2019, 8/2020, 11/2020, 11/2021, 11/2022, 11/2023,
+11/2024
+Effective Date 2/1/2025
+1. Background:
+Yupelri (revefenacin inhalation solution) is a nebulized long-acting antimuscarinic
+(anticholinergic) agent indicated for the maintenance treatment in patients with chronic
+obstructive pulmonary disease (COPD).
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Yupelri will be approved based on all of the following criteria:
+a. Diagnosis of moderate to severe chronic obstructive pulmonary disease (COPD)
+- AND-
+b. One of the following:
+1) History of failure, contraindication or intolerance to Spiriva Handihaler or
+Respimat (tiotropium)
+- OR-
+2) Patient is unable to use a metered-dose, dry powder or slow mist inhaler (e.g.
+Spiriva Respimat) to control his/her COPD due to one of the following:
+a) Cognitive or physical impairment limiting coordination of handheld devices
+(e.g., cognitive decline, arthritis in the hands) (Document impairment)
+b) Patient is unable to generate adequate inspiratory force (e.g., peak
+inspiratory flow rate (PIFR) resistance is <60 L/min)
+Authorization will be issued for 12 months
+B. Reauthorization
+1. Yupelri will be approved based on the following criterion:
+a. Documentation of positive clinical response to therapy
+© 2024 UnitedHealthcare Services Inc.
+1
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Global strategy for the diagnosis, management and prevention of COPD. Global Initiative for
+Chronic Obstructive Lung Disease (GOLD). 2024.
+2. Yupelri [package insert]. Morgantown, WV: Mylan Specialty L.P.; May 2022.
+3. Ferguson GT, Goodin T, Tosiello R, et al. Long-term safety of glycopyrrolate/eFlow CS in
+moderate-to-very severe COPD: results from the glycopyrrolate for obstructive lung disease
+via electronic nebulizer (GOLDEN) 5 randomized study. Respiratory Medicine 132;
+2017:251-60.
+4. Wise RA, Acevedo RA, Anzueto AR, et al. Guiding principles for the use of nebulized long-
+acting beta2-agonists in patients with COPD: An expert panel consensus. Chronic Obstr
+Pulm Dis 2017; 4(1): 7-20
+Program Prior Authorization/Medical Necessity –Yupelri
+Change Control
+Date Change
+9/2018 New program
+1/2019 Added Yupelri to the criteria.
+7/2019 Removed ipratropium as a step 1 option, added Yupelri as step 1 option
+prior to Lonhala Magnair and noted that Lonhala Magnair is typically
+excluded from coverage.
+8/2020 Annual review. Updated references and removed step through Seebri
+Neohaler due to removal from the market.
+10/2020 Formatting update.
+11/2021 Annual review. Updated references.
+11/2022 Annual review. Removed Incruse Ellipta as a step first-line agent.
+Updated references.
+11/2023 Annual review. Updated references.
+11/2024 Annual review. Removed Lonhala Magnair. Updated references.
+© 2024 UnitedHealthcare Services Inc.
+2

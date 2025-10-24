@@ -1,0 +1,84 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1262-7
+Program Prior Authorization/Notification
+Medication Vizimpro® (dacomitinib)
+P&T Approval Date 11/2018, 11/2019, 11/2020, 11/2021, 11/2022, 11/2023, 11/2024
+Effective Date 2/1/2025
+1. Background:
+Vizimpro® (dacomitinib) is a kinase inhibitor indicated for the first-line treatment of patients with
+metastatic non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR)
+exon 19 deletion or exon 21 L858R substitution mutations. The National Cancer Comprehensive
+Network (NCCN) also recommends the use of Vizimpro as first-line or continuation of therapy
+for recurrent, advanced, or metastatic NSCLC with EGFR S768I, L861Q, and/or G719X mutation
+positive tumors.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Vizimpro will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Non-small cell lung cancer (NSCLC)
+1. Initial Authorization
+a. Vizimpro will be approved based on all of the following criteria:
+(1) Diagnosis of NSCLC
+-AND-
+(2) Disease is recurrent, advanced or metastatic
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+1
+(3) Disease is positive for one of the following EGFR mutations:
+(a) Exon 19 deletion
+(b) Exon 21 L858R substitution
+(c) S768I
+(d) L861Q
+(e) G719X
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Vizimpro will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Vizimpro
+therapy
+Authorization will be issued for 12 months.
+C. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Vizimpro [package insert]. Pfizer Labs: New York, NY; December 2020.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org. Accessed September 25, 2024.
+© 2024 UnitedHealthcare Services, Inc.
+2
+Program Prior Authorization/Notification – Vizimpro (dacomitinib)
+Change Control
+11/2018 New program.
+11/2019 Annual review. Added NCCN recommended regimens criteria.
+Updated references.
+11/2020 Annual review. Updated coverage criteria based on NCCN
+recommendations. Updated background and references.
+11/2021 Annual review. Updated coverage criteria based on NCCN
+recommendations. Updated background and references.
+11/2022 Annual review. Added coverage for EGFR S768I, L861Q, and G719X
+mutation positive tumors under coverage criteria for non-small cell lung
+cancer per NCCN guidelines. Updated background, added state
+mandate, and updated references.
+11/2023 Annual review. Updated reference.
+11/2024 Annual review. No changes to coverage criteria.
+© 2024 UnitedHealthcare Services, Inc.
+3

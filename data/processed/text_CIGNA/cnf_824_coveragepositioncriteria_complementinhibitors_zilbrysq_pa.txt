@@ -1,0 +1,197 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Complement Inhibitors – Zilbrysq Prior Authorization Policy
+• Zilbrysq® (zilucoplan subcutaneous injection – UCB)
+REVIEW DATE: 12/04/2024; selected revision 07/16/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Zilbrysq, a complement C5 inhibitor, is indicated for the treatment of generalized
+myasthenia gravis in adults who are anti-acetylcholine receptor antibody-
+positive.1
+Disease Overview
+Myasthenia gravis is a chronic autoimmune neuromuscular disease that causes
+weakness in the skeletal muscles, which are responsible for breathing and moving
+parts of the body, including the arms and legs.2 The hallmark of myasthenia gravis
+is muscle weakness that worsens after periods of activity and improves after
+periods of rest. Certain muscles such as those that control eye and eyelid
+movement, facial expression, chewing, talking, and swallowing are often involved in
+the disorder; however, the muscles that control breathing and neck and limb
+movements may also be affected. Acquired myasthenia gravis results from the
+Page 1 of 5 - Cigna National Formulary Coverage - Policy: Complement Inhibitors – Zilbrysq Prior Authorization
+Policy
+binding of autoantibodies to components of the neuromuscular junction, most
+commonly the acetylcholine receptor.3
+Clinical Efficacy
+The efficacy of Zilbrysq was evaluated in 12-week, multicenter, randomized,
+double-blind placebo-controlled study (n = 174).1,4 All of the enrolled patients had
+anti-acetylcholine receptor antibody-positive generalized myasthenia gravis. In
+addition, patients had a Myasthenia Gravis Foundation of America (MGFA) clinical
+classification class II to IV and a Myasthenia Gravis-Activities of Daily Living (MG-
+ADL) total score of ≥ 6. MG-ADL assesses the impact of generalized myasthenia
+gravis on daily functions of eight signs or symptoms that are typically impacted by
+this disease. Each sign or symptom is assessed on a 4-point scale; a higher score
+indicates greater impairment. At baseline, 85% of patients in each group received
+cholinesterase inhibitors, 63% received steroids, and 51% received non-steroidal
+immunosuppressive therapies, at stable doses. Patients were randomized to receive
+either Zilbrysq 0.3 mg/kg or placebo. The primary efficacy endpoint was a
+comparison of the change from baseline between treatment groups in the MG-ADL
+total score at Week 12. Statistically significantly greater improvement in the MG-
+ADL total score was observed in the Zilbrysq group compared with placebo: -4.39
+points vs. -2.30 points, respectively (P < 0.001). Statistically significant
+improvement in the secondary efficacy endpoints were also observed in the Zilbrysq
+group vs. placebo.
+Guidelines
+An international consensus guidance for the management of myasthenia gravis was
+published in 2016.3 The guidelines recommend pyridostigmine for the initial
+treatment in most patients with myasthenia gravis. The ability to discontinue
+pyridostigmine can indicate that the patient has met treatment goals and may
+guide the tapering of other therapies. Corticosteroids or immunosuppressant
+therapy should be used in all patients with myasthenia gravis who have not met
+treatment goals after an adequate trial of pyridostigmine. Nonsteroidal
+immunosuppressant agents used in treatment of myasthenia gravis include
+azathioprine, cyclosporine, mycophenolate mofetil, methotrexate, and tacrolimus. It
+is usually necessary to maintain some immunosuppression for many years,
+sometimes for life. Plasma exchange and intravenous immunoglobulin can be used
+as short-term treatments in certain patients. A 2020 update to these guidelines
+provides new/additional recommendations for methotrexate, rituximab, and
+eculizumab intravenous infusion (Soliris®, biosimilars).5 All recommendations
+should be considered extensions or additions to recommendations made in the
+initial international consensus guidance (2016). Oral methotrexate may be
+considered as a steroid-sparing agent in patients with generalized myasthenia
+gravis who have not tolerated or responded to steroid-sparing agents. Rituximab
+should be considered as an early therapeutic option in patients with anti-muscle-
+specific tyrosine kinase antibody-positive myasthenia gravis who have an
+unsatisfactory response to initial immunotherapy. Eculizumab should be considered
+in the treatment of severe, refractory, anti-acetylcholine receptor antibody-positive
+MG.
+Page 2 of 5 - Cigna National Formulary Coverage - Policy: Complement Inhibitors – Zilbrysq Prior Authorization
+Policy
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Zilbrysq. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Zilbrysq as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Zilbrysq to be prescribed by or in consultation with a physician who specializes in
+the condition being treated.
+• Zilbrysq® (zilucoplan subcutaneous injection – UCB)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Generalized Myasthenia Gravis. Approve for the duration noted if the patient
+meets ONE of the following (A or B):
+A) Initial therapy. Approve for 6 months if the patient meets ALL of the
+following (i, ii, iii, iv, v, vi, and vii):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has confirmed anti-acetylcholine receptor antibody-positive
+generalized myasthenia gravis; AND
+iii. Patient meets BOTH of the following (a and b):
+a) Myasthenia Gravis Foundation of America classification of II to IV; AND
+b) Myasthenia Gravis Activities of Daily Living (MG-ADL) score of ≥ 6;
+AND
+iv. Patient meets ONE of the following (a or b):
+a) Patient received or is currently receiving pyridostigmine; OR
+b) Patient has had inadequate efficacy, a contraindication, or significant
+intolerance to pyridostigmine; AND
+v. Patient meets ONE of the following (a or b):
+a) Patient received or is currently receiving two different
+immunosuppressant therapies for ≥ 1 year; OR
+b) Patient had inadequate efficacy, a contraindication, or significant
+intolerance to two different immunosuppressant therapies; AND
+Note: Examples of immunosuppressant therapies tried include
+azathioprine, cyclosporine, mycophenolate mofetil, methotrexate,
+tacrolimus, and cyclophosphamide.
+vi. Patient has evidence of unresolved symptoms of generalized myasthenia
+gravis; AND
+Note: Evidence of unresolved symptoms of generalized myasthenia
+gravis includes difficulty swallowing, difficulty breathing, and a functional
+disability resulting in the discontinuation of physical activity (e.g., double
+vision, talking, impairment of mobility).
+Page 3 of 5 - Cigna National Formulary Coverage - Policy: Complement Inhibitors – Zilbrysq Prior Authorization
+Policy
+vii. The medication is being prescribed by or in consultation with a
+neurologist; OR
+B) Patient is Currently Receiving Zilbrysq. Approve for 1 year if the patient
+meets ALL of the following (i, ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. According to the prescriber, patient is continuing to derive benefit from
+Zilbrysq; AND
+Note: Examples of derived benefit include reductions in exacerbations of
+myasthenia gravis; improvements in speech, swallowing, mobility, and
+respiratory function.
+iii. The medication is being prescribed by or in consultation with a
+neurologist.
+CONDITIONS NOT COVERED
+• Zilbrysq® (zilucoplan subcutaneous injection – UCB)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Concomitant Use with Another Complement Inhibitor, a Neonatal Fc
+Receptor Blocker, or a Rituximab Product. There is no evidence to support
+concomitant use of Zilbrysq with another complement inhibitor, a neonatal Fc
+receptor blocker, or a rituximab product.
+Note: Examples of complement inhibitors are eculizumab intravenous infusion
+(Soliris, biosimilars) and Ultomiris (ravulizumab-cwvz intravenous infusion or
+subcutaneous injection).
+Note: Examples of Neonatal Fc receptor blockers are Imaavy (nipocalimab-aahu
+intravenous infusion), Rystiggo [rozanolixizumab-noli subcutaneous infusion),
+Vyvgart (efgartigimod alfa-fcab intravenous infusion), and Vyvgart Hytrulo
+(efgartigimod alfa and hyaluronidase-qvfc subcutaneous injection).
+REFERENCES
+1. Zilbrysq subcutaneous injection [prescribing information]. Symra, GA: UCB: April 2024.
+2. National Institute of Neurological Disorders and Stroke (NINDS). Myasthenia Gravis Fact Sheet.
+National Institutes of Health (NIH) Publication No. 17-768. Publication last updated: March 2020.
+Available at: https://www.ninds.nih.gov/sites/default/files/migrate-
+documents/myasthenia_gravis_e_march_2020_508c.pdf. Accessed on November 18, 2024.
+3. Sanders DB, Wolfe GI, Benatar M, et al. International consensus guidance for management of
+myasthenia gravis. Neurology. 2016;87:419–425.
+4. Howard JF, Bresch S, Genge A, et al on behalf of the RAISE study team. Safety and efficacy of
+zilucoplan in patients with generalized myasthenia gravis (RAISE): a randomized, double-blind,
+placebo-controlled, phase 3 study. Lancet Neurology. 2023;22:395-406.
+5. Narayanaswami P, Sanders DB, Wolfe G, et al. International Consensus Guidance for Management
+of Myasthenia Gravis: 2020 Update. Neurology. 2021;96(3):114-122.
+HISTORY
+Page 4 of 5 - Cigna National Formulary Coverage - Policy: Complement Inhibitors – Zilbrysq Prior Authorization
+Policy
+Type of Summary of Changes Review Date
+Revision
+New Policy -- 11/01/2023
+Annual No criteria changes. 12/04/2024
+Revision
+Selected Conditions Not Covered, Concomitant Use with Another 07/16/2025
+Revision Complement Inhibitor, a Neonatal Fc Receptor Blocker, or a
+Rituximab Product: Imaavy was added to the Note of examples
+of neonatal Fc receptor blockers.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 5 of 5 - Cigna National Formulary Coverage - Policy: Complement Inhibitors – Zilbrysq Prior Authorization
+Policy

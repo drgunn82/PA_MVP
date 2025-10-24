@@ -1,0 +1,59 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2214-5
+Program Prior Authorization/Medical Necessity
+Medications Albuterol tablets
+P&T Approval Date 7/2020, 7/2021, 7/2022, 7/2023, 7/2024
+Effective Date 10/1/2024
+1. Background:
+Albuterol tablets are indicated for the relief of bronchchospasm in adults and children 6 years of
+age and older with reversible obstructive airway disease. Guidelines do not recommend the use of
+albuterol tablets and note they have a higher risk of side-effects. In addition, guidelines note that
+there are no long-term safety studies that have been performed to assess the risk of severe
+exacerbations with albuterol tablets in patients not also taking an inhaled corticosteroid.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Albuterol tablets will be approved based on all of the following criteria:
+a. Diagnosis of obstructive airway disease (e.g., asthma)
+-AND-
+b. Patient’s obstructive airway disease is being managed with both of the following:
+1) One of the following controller medications:
+a) An inhaled corticosteroid (e.g., Arnuity Ellipta, QVAR RediHaler)
+b) An inhaled corticosteroid/long-acting beta-agonist [e.g.,
+fluticasone/salmeterol (generic Advair Diskus), Advair HFA, Breo Ellipta,
+Symbicort)
+c) Spiriva HandiHaler/Respimat
+d) A long-acting muscarinic antagonist/long-acting beta-agonist (e.g., Anoro
+Ellipta, Bevespi Aerosphere)
+-AND-
+2) History of failure, contraindication or intolerance to an inhaled short-acting beta-
+agonist [e.g., albuterol HFA (generic ProAir HFA, generic Proventil HFA)]
+-AND-
+c. Prescriber attests that the benefits outweigh the risk
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+1
+B. Reauthorization
+1. Albuterol tablets will be approved based on the following criterion:
+a. Documentation of positive clinical response to therapy
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+4. References:
+1. Albuterol tablets [package insert]. Cranbury, NJ: Sun Pharmaceutical Industries, Inc: July 2014.
+2. Asthma Management and Prevention. Global Initiative for Asthma (GINA). 2024.
+Program Prior Authorization/Medical Necessity – Albuterol tablets
+Change Control
+7/2020 New program.
+7/2021 Annual review. Updated the example used for the inhaled short-acting
+beta-agonist.
+7/2022 Annual review. Updated references.
+7/2023 Annual review. Updated references.
+7/2024 Annual review. Updated medication examples in criteria.
+© 2024 UnitedHealthcare Services, Inc.
+2

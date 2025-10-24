@@ -1,0 +1,310 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Niemann-Pick Disease Type C – Miplyffa Prior Authorization Policy
+• Miplyffa™ (arimoclomol capsules − Zevra)
+REVIEW DATE: 10/30/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Miplyffa is indicated in combination with miglustat for the treatment of neurological
+manifestations of Niemann-Pick disease type C (NPC) in patients ≥ 2 years of
+age.1
+The FDA concluded that data are insufficient to determine the effectiveness of
+Miplyffa without miglustat for the treatment of neurological manifestations in
+patients with NPC.1
+Disease Overview
+NPC is an autosomal recessive, progressive lysosomal storage disorder.5 NPC is
+considered an ultra-rare disease with an estimated incidence of 1 in 100,000 live
+births; however, this is thought to underestimate individuals with later onset
+disease.4-6 NPC is caused by mutations in NPC1 (90% to 95%) or NPC2 (5%) that
+yield deficient function of the corresponding proteins that normally bind and
+transport cholesterol.6 The lysosomal dysfunction in NPC leads to an accumulation
+of lipids in the brain, liver, and spleen.
+The presentation of NPC is heterogeneous characterized by visceral, neurological, or
+psychiatric symptoms that may present at any age with variable rates of
+Page 1 of 7 - Cigna National Formulary Coverage - Policy:Niemann-Pick Disease Type C – Miplyffa Prior
+Authorization Policy
+progression.4 Patients have difficulties with walking, swallowing, speaking,
+concentration, and/or memory. The age of onset of neurological symptoms predicts
+the severity of the disease and determines life expectancy; NPC is classified
+according to the age of onset of neurological manifestations. Three forms of NPC
+are described: 1) visceral-neurodegenerative (< 2 years [early infantile]); 2)
+neurodegenerative (2 to 6 years [late infantile] and 6 to 15 years [juvenile]; and 3)
+psychiatric-neurodegenerative (> 15 years [adults]). Patients with infantile and
+juvenile-onset NPC are usually severely impacted by the disease; however, patients
+with adolescent- or adult-onset NPC likely make up the largest patient group in
+terms of prevalence (estimated to be ≥ 20%). The spectrum of NPC ranges from a
+neonatal rapidly progressive fatal disorder to an adult-onset chronic
+neurodegenerative disease. In addition, atypical presentations (fatal systemic
+perinatal form and initial systemic disease) constitute a small, but significant,
+proportion of cases.
+Clinical Efficacy
+The efficacy of Miplyffa was evaluated in one Phase II/III, randomized, double-
+blind, placebo-controlled, multicenter, pivotal study in patients ≥ 2 to ≤ 18 years of
+age with genetically confirmed NPC (n = 50).2 The confirmed diagnosis of NPC met
+one of the following: 1) genetically confirmed mutation in both alleles of NPC1 or
+NPC2; OR 2) mutation in only one allele of NPC1 or NPC2 plus either positive filipin
+staining or elevated cholestane-triol level (> 2 times the upper limit of normal).
+Patients had at least one neurological sign of NPC and the ability to walk
+independently or with assistance. Concurrent use of miglustat was allowed; 78% of
+patients were taking miglustat. The mean age was 11.1 years. The mean age of
+first neurological symptom was 5.1 years; 48% of patients had late infantile-onset
+NPC (2 to < 6 years of age), 34% of patients had juvenile-onset NPC (6 to 15 years
+of age), and 16% of patients had early infantile-onset NPC (3 months to < 2 years
+of age). No patients with adult-onset NPC (age > 15 years at first neurological
+symptom) were enrolled. The primary efficacy endpoint was the change in NPC
+disease severity from baseline to Month 12 assessed by the 5-domain NPC Clinical
+Severity Scale (NPCCSS) score (5 domains: ambulation, cognition, fine motor
+skills, speech, and swallowing; scores range from 0 to 25, higher scores indicate
+more severe clinical impairment). The mean baseline 5-domain NPCCSS scores
+were 12.1 points and 9.4 points in the Miplyffa and placebo groups, respectively.
+Results. At Month 12, the mean change from baseline on the 5-domain NPCCSS
+score significantly favored Miplyffa vs. placebo in the overall population (mean
++0.76 points vs. +2.15 points, respectively; difference -1.40 points; P = 0.046);
+difference corresponds to a 65% reduction in annual disease progression. The
+treatment effect of Miplyffa (vs. placebo) on the 5-domain NPCCSS score was
+enhanced in the subgroups of patients ≥ 4 years of age (n = 44) [mean change
++0.40 vs. +2.20, respectively; difference -1.80 points; P = 0.016; 103% reduction
+in annual disease progression] and in patients taking miglustat (n = 39) [mean
+change -0.06 points vs. +2.01 points, respectively; difference -2.06; P = 0.006;
+82% reduction in annual disease progression]. There was no significant difference
+between Miplyffa and placebo in the proportion of responders (stable or improved
+5-domain NPCCSS scores) [50.0% vs. 37.5% of patients, respectively]. Further, a
+similar proportion of patients had a 2-point (or greater) worsening on the 5-domain
+7 Pages - Cigna National Formulary Coverage - Policy:Niemann-Pick Disease Type C – Miplyffa Prior Authorization
+Policy
+NPCCSS at Month 12 (~44% of patients). At Month 12, there were no significant
+differences between Miplyffa and placebo for secondary endpoints.
+Data from the 4-year open-label extension (5 years of exposure to Miplyffa) have
+been presented (unpublished); 29 patients (71%) completed the open-label
+extension.3 Generally, the severity of disease progressed slowly over the open-
+label extension in a stepwise pattern. In patients who continued Miplyffa from the
+pivotal trial, the mean change in the 4-domain NPCCSS score (4 domains:
+ambulation, speech, swallowing, and fine motor; scores range from 0 to 20, higher
+scores indicate more severe clinical impairment) for each year in the open-label
+extension was variable and showed an initial worsening (4-domain NPCCSS +1.4
+points for the first 1 year of the open-label extension [Months 12 to 24]). The
+mean year-to-year change in the 4-domain NPCCSS score for the following 3 years
+(Years 2, 3, and 4) was +1.1 points, +0.3 points, and +0.8 points, respectively.
+The increase in disease progression during the first 1-year of the open-label
+extension was attributed to a small number of patients who were not taking
+miglustat and had rapid disease progression.
+Guidelines
+Consensus clinical management guidelines for NPC have been developed by the
+International Niemann-Pick Disease Registry (INPDR) project (2018).4 Disease-
+modifying therapy is discussed; however, Miplyffa is only mentioned as an agent in
+development. Optimal disease management includes a multidisciplinary team (e.g.,
+primary care physician, metabolic disease specialist, neurologist, psychiatrist,
+anesthesiologist, neuro-ophthalmologist, neuropsychologist, speech and language
+therapist, occupational and physical therapists, nutritionist, gastroenterologist,
+social worker, genetic counselor) based in a specialty care center. The mainstay of
+therapy is symptom management with disease-modifying agents when available.
+Patients should be assessed for growth and developmental delay, mobility,
+swallowing and diet, speech, spasticity, bowel and bladder dysfunction, cataplexy,
+mental well-being, hypersalivation/drooling, and hearing.
+Regarding disease-modifying therapies, all patients with a confirmed diagnosis of
+NPC should be considered for miglustat (strength of recommendation: 2; level of
+evidence C; 13% of experts completely agree, 38% mostly agree, 13% partially
+agree, 25% mostly disagree, and 13% completely disagree).4 However, there are
+several instances in which miglustat is not recommended: patients who are pre-
+symptomatic or have only spleen or liver enlargement, those with advanced
+neurological disease (e.g., inability to ambulate without a wheelchair, complete lack
+of verbal communication, swallowing difficulties profound enough to require tube
+feeding through a percutaneous gastrostomy) or dementia (e.g., need for 24-hour
+care), and patients with another life-threatening illness with estimated lifespan < 1
+year (noted not to be based on evidence). Note: In the US, miglustat is indicated
+as monotherapy for the treatment of adults with mild/moderate type 1 Gaucher
+disease for whom enzyme replacement therapy is not a therapeutic option.8
+However, in other countries, it is approved for the management of neurologic
+manifestations of NPC.5
+7 Pages - Cigna National Formulary Coverage - Policy:Niemann-Pick Disease Type C – Miplyffa Prior Authorization
+Policy
+Treatment goals should be established at diagnosis and reviewed regularly
+(generally every 6 to 12 months) and aimed at improving or maintaining the
+physical and psychosocial well-being of the patient.4
+NPC Diagnosis
+When NPC is clinically suspected, diagnosis can be confirmed by the combination of
+biochemical and molecular genetic studies.4 In any individual in whom the
+diagnosis of NPC is considered based on their clinical manifestations and/or
+abnormal biomarker profile genetic testing for NPC genes should be conducted to
+confirm the diagnosis. Mutation analysis of NPC1 and NPC2 genes is mandatory to
+confirm the diagnosis of NPC. It is also the only reliable method to diagnose NPC
+carriers within a family and the highly preferred strategy for prenatal diagnosis.
+The identification of two alleles with known disease-causing mutations in either
+NPC1 or NPC2 gene confirms the diagnosis of NPC. Approximately 700 NPC1
+variants have been reported among which around 420 are considered pathogenic,
+with only a limited number being common (p.I1061T, pP1007A) or recurrent
+mutations. Interpretation of new missense and splicing mutations should be
+undertaken with caution and their pathogenicity must be verified. The presence of
+very severe mutations (frameshift, nonsense, large deletion) in both alleles often
+results in early-infantile neurological disease (with a higher risk of severe, possibly
+fatal, systemic disease). Approximately 26 pathogenic NPC2 mutations have been
+described. Most are frameshift of nonsense as well as large deletion variants that
+leads to a severe clinical phenotype. Among the missense mutations in NPC2, two
+variants (p.V39 M and p.P120S) have been associated with the juvenile or adult
+forms of the disease. More patients from North Africa, Italy, and Turkey have been
+identified with NPC2 mutations.
+The filipin test is no longer considered a first-line test for the diagnosis of NPC;
+however, it remains a very useful diagnostic tool in uncertain cases where
+biomarkers and/or molecular analysis provide inconclusive results and to assess the
+pathogenicity of novel genetic variants. This assay needs to be performed on
+cultured fibroblasts from skin biopsies; it is invasive and has a long turnaround
+time. Further the assay is technically challenging, labor intensive, and is only
+performed in specialized laboratories. If only one pathogenic mutation is identified
+by molecular analysis of NPC1 and NPC2, filipin testing should be performed.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Miplyffa.
+All approvals are provided for the duration noted below. Because of the specialized
+skills required for evaluation and diagnosis of patients treated with Miplyffa as well
+as the monitoring required for adverse events and long-term efficacy, approval
+requires Miplyffa to be prescribed by or in consultation with a physician who
+specializes in the condition being treated.
+7 Pages - Cigna National Formulary Coverage - Policy:Niemann-Pick Disease Type C – Miplyffa Prior Authorization
+Policy
+• Miplyffa™ (arimoclomol capsules - Zevra)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Niemann-Pick disease type C. Approve for 1 year if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy: Approve if the patient meets ALL of the following (i, ii, iii, iv,
+v, vi, and vii):
+i. Patient is ≥ 2 years of age; AND
+ii. Patient has one or more neurological symptom(s) of Niemann-Pick
+disease type C; AND
+Note: Examples of neurologic symptoms of Niemann-Pick disease type C
+include loss of motor function, swallowing, and speech and cognitive
+impairment.
+iii. Patient can walk independently or with assistance; AND
+iv. The diagnosis is established by a genetic test showing biallelic pathogenic
+variants in either the NPC1 gene or NPC2 gene; AND
+v. Patient does NOT have adult-onset Niemann-Pick disease type C; AND
+Note: Adult-onset NPC is defined as the age of the first neurological
+symptom occurring > 15 years of age.
+vi. The patient meets ONE of the following (a or b):
+a) The medication will be taken in combination with miglustat; OR
+b) According to the prescriber, patient is unable to take miglustat; AND
+vii. The medication is prescribed by or in consultation with a geneticist,
+endocrinologist, metabolic disorder subspecialist, neurologist, or a
+physician who specializes in the treatment of Niemann-Pick disease type C
+or related disorders.
+B) Patient is Currently Receiving Miplyffa. Approve if the patient meets ALL of
+the following (i, ii, iii, and iv):
+i. Patient does NOT have adult-onset Niemann-Pick disease type C; AND
+Note: Adult-onset Niemann-Pick disease type C is defined as the age of
+the first neurological symptom occurring > 15 years of age.
+ii. The patient meets ONE of the following (a or b):
+a) The medication will be taken in combination with miglustat; OR
+b) According to the prescriber, patient is unable to take miglustat; AND
+iii. According to the prescriber, patient has derived benefit from treatment
+defined as disease stabilization, slowed progression, or improvement;
+AND
+iv. The medication is prescribed by or in consultation with a geneticist,
+endocrinologist, metabolic disorder subspecialist, neurologist, or a
+physician who specializes in the treatment of Niemann-Pick disease type C
+or related disorders.
+7 Pages - Cigna National Formulary Coverage - Policy:Niemann-Pick Disease Type C – Miplyffa Prior Authorization
+Policy
+CONDITIONS NOT COVERED
+• Miplyffa™ (arimoclomol capsules - Zevra)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria
+will be updated as new published data are available):
+1. Amyotrophic Lateral Sclerosis. Arimoclomol did not improve efficacy
+outcomes relative to placebo in patients with amyotrophic lateral sclerosis. A
+multinational, randomized, double-blind, placebo-controlled, parallel group trial
+assessed the efficacy of arimoclomol (400 mg three times daily) vs. placebo in
+adults with amyotrophic lateral sclerosis (n = 245).10 The primary outcome was
+the Combined Assessment of Function and Survival (CAFS) rank score over 76
+weeks of treatment. At Week 76, the CAFS score did not differ between
+arimoclomol and placebo groups (mean 0.51 vs 0.49, respectively; P = non-
+significant). Proportions of participants who died were similar between the
+treatment groups (18% [n = 29/160] and 23% [n = 18/79] of patients in the
+arimoclomol and placebo groups, respectively). Most deaths were due to
+disease progression.
+2. Combination use with Aqneursa (levacetylleucine granules). Aqneursa is
+indicated for the treatment of neurological manifestations of Niemann-Pick
+disease Type C in patients ≥ 15 kg.11 There are no data available regarding
+combination use of Aqneursa and Miplyffa.
+3. Gaucher Disease. A Phase II study with arimoclomol in patients with Gaucher
+disease type 1 or 3 was terminated; the Coronavirus disease-19 pandemic
+prevented the ability to assess the trial objective.7 Additional data are needed
+to determine if arimoclomol is beneficial in patients with Gaucher disease type 1
+or 3.
+4. Inclusion Body Myositis. Arimoclomol did not improve efficacy outcomes
+relative to placebo in patients with inclusion body myositis. A multicenter,
+randomized, double-blind, placebo-controlled trial assessed the efficacy of
+arimoclomol (400 mg three times daily) vs. placebo in adults with inclusion body
+myositis fulfilling the European Neuromuscular Center research diagnostic
+criteria 2011 (n = 152).9 The primary endpoint was the change from baseline to
+Month 20 in the Inclusion Body Myositis Functional Rating Scale (IBMFRS) total
+score. At Month 20, the mean IBMFRS change from baseline was not
+significantly different between arimoclomol and placebo (-3.26; 95% confidence
+interval:
+-4.15, -2.36; P = non-significant).
+5. Coverage is not recommended for circumstances not listed in the Recommended
+Authorization Criteria. Criteria will be updated as new published data are
+available.
+7 Pages - Cigna National Formulary Coverage - Policy:Niemann-Pick Disease Type C – Miplyffa Prior Authorization
+Policy
+REFERENCES
+1. Miplyffa™ capsules [prescribing information]. Frederiksberg, Denmark/Celebration, FL: Zevra
+Denmark A/S/Zevra Therapeutics; September 2024.
+2. Mengel E, Patterson MC, Da Riol RM, et al. Efficacy and safety of arimoclomol in Niemann-Pick
+disease type C: results from a double-blind, randomized, placebo-controlled, multinational phase
+2/3 trial of a novel treatment. J Inherit Metab Dis. 2021;44:1463-1480.
+3. Patterson M, Mengel E, Guenther S, Dali Ci. Long-term efficacy and safety evaluation of
+arimoclomol treatment in patients with Niemann Pick Type C – data from 48 months open-label
+trial [poster 21271]. Presented at: The Annual Symposium of the Society for the Study of Inborn
+Errors of Metabolism (SSIEM); Porto, Portugal; September 3rd to 6th, 2024.
+4. Geberhiwot T, Moro A, Dardis A, et al; on behalf of the International Niemann-Pick Disease
+Registry (INPDR). Consensus clinical management guidelines for Niemann-Pick disease type C.
+Orphanet J Rare Dis. 2018;13:50
+5. Patterson M. Niemann-Pick Disease Type C. 2000 Jan 26 [updated 2020 Dec 10]. In: Adam MP,
+Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews® [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2024.
+6. Berry-Kravis E. Nieman-Pick disease type C: diagnosis, management and disease-targeted
+therapies in development. Semin Pediatric Neurol. 2021;31:100879.
+7. Zevra Denmark. Study of arimoclomol in patients diagnosed with Gaucher disease type 1 or 3.
+In: ClinicalTrials.gov [Internet]. Bethesda (MD): National Library of Medicine (US). 2024- [cited
+2024 Sept 24]. Available at: https://www.clinicaltrials.gov/study/NCT03746587 . NLM
+Identifier: NCT03746587.
+8. Zavesca® capsules [prescribing information]. South San Fransisco, CA: Actelion Pharmaceuticals
+US, Inc a Janssen Pharmaceutical Company; August 2022.
+9. Machado PM, McDermott MP, Blaettler T, et al; on behalf of the Arimoclomol in IBM Investigator
+Team of the Neuromuscular Study Group. Safety and efficacy of arimoclomol for inclusion body
+myositis: a multicentre, randomized, double-blind, placebo-controlled trial. Lancet neurol.
+2023;22:900-911.
+10. Benatar M, Hansen T, Rom D, et al; on behalf of the ORALIALS-01 trial team. Safety and efficacy
+of arimoclomol in patients with early amyotrophic sclerosis (ORARIALS-01): a randomized,
+double-blind, placebo-controlled, multicentre, phase 3 trial. Lancet Neurol. 2024;23:687-699.
+11. Aqneursa™ granules [prescribing information]. Austin, TX: IntraBio; September 2024.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 10/30/2024
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. ©
+2024 The Cigna Group.
+7 Pages - Cigna National Formulary Coverage - Policy:Niemann-Pick Disease Type C – Miplyffa Prior Authorization
+Policy

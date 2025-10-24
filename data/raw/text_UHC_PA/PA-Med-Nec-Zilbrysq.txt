@@ -1,0 +1,92 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2323-2
+Program Prior Authorization/Medical Necessity
+Medication Zilbrysq® (zilucoplan)
+P&T Approval Date 1/2024, 1/2025
+Effective Date 4/1/2025
+1. Background
+Zilbrysq (zilucoplan) is a complement inhibitor indicated for the treatment of generalized
+myasthenia gravis (gMG) in adult patients who are antiacetylcholine receptor (AChR) antibody
+positive.1
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Zilbrysq will be approved based on all of the following criteria1-3:
+a. Submission of medical records (e.g., chart notes, laboratory values, etc.) confirming all
+of the following:
+(1) Diagnosis of generalized myasthenia gravis (gMG)
+-AND-
+(2) Positive serologic test for anti-AChR antibodies
+-AND-
+(3) Patient has a Myasthenia Gravis Foundation of America (MGFA) Clinical
+Classification of class II, III, or IV at initiation of therapy
+-AND-
+(4) Patient has a Myasthenia Gravis Activities of Daily Living scale (MG-ADL) total
+score ≥ 6 at initiation of therapy
+-AND-
+b. One of the following:
+(1) History of failure of at least two immunosuppressive agents over the course of at
+least 12 months (e.g., azathioprine, corticosteroids, cyclosporine, methotrexate,
+mycophenolate, etc.)
+(2) Patient has a history of failure of at least one immunosuppressive therapy and has
+required four or more courses of plasmapheresis/ plasma exchanges and/or
+intravenous immune globulin over the course of at least 12 months without
+symptom control
+© 2025 UnitedHealthcare Services Inc.
+1
+-AND-
+c. Patient is not receiving Zilbrysq in combination with another complement inhibitor
+[e.g., Soliris (eculizumab), Ultomiris (ravulizumab-cwvz)] or a neonatal Fc receptor
+blocker [e.g., Rystiggo (rozanolixizumab-noli), Vyvgart (efgartigimod alfa-fcab),
+Vyvgart Hytrulo (efgartigimod alfa and hyaluronidase-qvfc)]
+-AND-
+d. Prescribed by, or in consultation with, a neurologist
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Zilbrysq will be approved based on all of the following criteria:
+a. Submission of medical records (e.g., chart notes, laboratory tests) demonstrating all of
+the following:
+(1) Improvement and/or maintenance of at least a 2-point improvement (reduction in
+score) in the MG-ADL score from pre-treatment baseline4
+(2) Reduction in signs and symptoms of myasthenia gravis
+(3) Maintenance, reduction, or discontinuation of dose(s) of baseline
+immunosuppressive therapy (IST) prior to starting Zilbrysq
+Note: Add on, dose escalation of IST, or additional rescue therapy from baseline to
+treat myasthenia gravis or exacerbation of symptoms while on Zilbrysq therapy
+will be considered as treatment failure
+-AND-
+b. Patient is not receiving Zilbrysq in combination with another complement inhibitor
+[e.g., Soliris (eculizumab), Ultomiris (ravulizumab-cwvz)] or a neonatal Fc receptor
+blocker [e.g., Rystiggo (rozanolixizumab-noli), Vyvgart (efgartigimod alfa-fcab),
+Vyvgart Hytrulo (efgartigimod alfa and hyaluronidase-qvfc)]
+-AND-
+c. Prescribed by, or in consultation with, a neurologist
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+© 2025 UnitedHealthcare Services Inc.
+2
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place
+4. References:
+1. Zilbrysq [package insert], Smyrna, GA: UCB, Inc.; April 2024.
+2. Howard JF Jr, Bresch S, Genge A, et al. Safety and efficacy of zilucoplan in patients with
+generalised myasthenia gravis (RAISE): a randomised, double-blind, placebo-controlled, phase 3
+study. Lancet Neurol. 2023;22(5):395-406. doi:10.1016/S1474-4422(23)00080-7
+3. Narayanaswami P, Sanders DB, Wolfe G, et al. International Consensus Guidance for
+Management of Myasthenia Gravis: 2020 Update. Neurology. 2021;96(3):114-122.
+doi:10.1212/WNL.0000000000011124
+4. Barnett C, Herbelin L, Dimachkie MM, Barohn RJ. Measuring Clinical Treatment Response in
+Myasthenia Gravis. Neurol Clin. 2018;36(2):339-353. doi:10.1016/j.ncl.2018.01.006
+Program Prior Authorization/Medical Necessity - Zilbrysq® (zilucoplan)
+Change Control
+1/2024 New program.
+1/2025 Annual review. Updated listing of examples of complement inhibitors
+and neonatal Fc receptor blockers without change to clinical intent.
+Updated references.
+© 2025 UnitedHealthcare Services Inc.
+3

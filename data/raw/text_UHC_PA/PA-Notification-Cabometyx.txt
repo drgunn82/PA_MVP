@@ -1,0 +1,231 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1196-11
+Program Prior Authorization/Notification
+Medication Cabometyx® (cabozantinib)
+P&T Approval Date 6/2016, 6/2017, 2/2018, 6/2018, 3/2019, 3/2020, 3/2021, 11/2021,
+11/2022, 11/2023, 11/2024
+Effective Date 2/15/2025
+1. Background:
+Cabometyx® (cabozantinib) is a kinase inhibitor indicated for the treatment of patients with
+advanced renal cell carcinoma (RCC), patients with advanced RCC as a first-line treatment
+in combination with Opdivo (nivolumab), patients with hepatocellular carcinoma (HCC)
+who have been previously treated with Nexavar® (sorafenib tosylate), and in adult and
+pediatric patients 12 years of age and older with locally advanced or metastatic
+differentiated thyroid cancer (DTC) that has progressed following prior VEGFR-targeted
+therapy and who are radioactive iodine-refractory or ineligible.
+The National Cancer Comprehensive Network (NCCN) recommends Cabometyx for the
+treatment of non-small cell lung cancer (NSCLC) with RET gene rearrangement and HCC
+as a single agent for progressive disease. Cabometyx is also recommended in NCCN
+guidelines for bone cancer, gastrointestinal stromal tumors (GIST), kidney cancer, soft tissue
+sarcoma, and endometrial carcinoma.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the
+age of 19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium
+references. Where such mandates apply, they supersede language in the benefit document or
+in the notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Cabometyx will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Kidney Cancer
+1. Initial Authorization
+a. Cabometyx will be approved based on the following criterion:
+© 2024 UnitedHealthcare Services, Inc.
+1
+(1) Diagnosis of one of the following:
+(a) Stage IV or relapsed renal cell carcinoma (RCC)
+(b) Hereditary leiomyomatosis and RCC (HLRCC)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Cabometyx will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Cabometyx
+therapy
+Authorization will be issued for 12 months.
+C. Non-Small Cell Lung Cancer (NSCLC)
+1. Initial Authorization
+a. Cabometyx will be approved based on all of the following criteria:
+(1) Diagnosis of non-small cell lung cancer (NSCLC)
+-AND-
+(2) Positive for RET gene rearrangements
+-AND-
+(3) Disease is one of the following:
+(a) Recurrent
+(b) Advanced
+(c) Metastatic
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Cabometyx will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Cabometyx
+therapy
+Authorization will be issued for 12 months.
+D. Hepatocellular Carcinoma
+© 2024 UnitedHealthcare Services, Inc.
+2
+1. Initial Authorization
+a. Cabometyx will be approved based on all of the following criteria:
+(1) Diagnosis of hepatocellular carcinoma
+-AND-
+(2) Used as subsequent-line systemic therapy
+-AND-
+(3) One of the following:
+(a) Patient has liver-confined, unresectable disease and is not a transplant
+candidate
+(b) Patient has extrahepatic/metastatic disease and deemed ineligible for
+resection, transplant, or locoregional therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Cabometyx will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Cabometyx
+therapy
+Authorization will be issued for 12 months.
+E. Bone Cancer
+1. Initial Authorization
+a. Cabometyx will be approved based on all of the following criteria:
+(1) One of the following diagnoses:
+(a) Osteosarcoma
+(b) Ewing Sarcoma (including mesenchymal chondrosarcoma)
+-AND-
+(2) Disease is one of the following:
+(a) Relapsed/refractory
+© 2024 UnitedHealthcare Services, Inc.
+3
+(b) Metastatic
+-AND-
+(3) Used as second line therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Cabometyx will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Cabometyx
+therapy
+Authorization will be issued for 12 months.
+F. Gastrointestinal Stromal Tumors (GIST)
+1. Initial Authorization
+a. Cabometyx will be approved based on all the following criteria:
+(1) Diagnosis of GIST
+-AND-
+(2) Patient has one of the following:
+(a) Gross residual disease (R2 resection)
+(b) Unresectable primary disease
+(c) Tumor rupture
+(d) Recurrent/metastatic disease
+-AND-
+(3) Disease has progressed on all of the following:
+(a) Gleevec (imatinib)
+(b) Sutent (sunitinib)
+(c) Stivarga (regorafenib)
+(d) Standard dose Qinlock (ripretinib)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Cabometyx will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Cabometyx
+therapy
+© 2024 UnitedHealthcare Services, Inc.
+4
+Authorization will be issued for 12 months.
+G. Endometrial Carcinoma
+1. Initial Authorization
+a. Cabometyx will be approved based on both of the following criteria:
+(1) Diagnosis of endometrial carcinoma
+-AND-
+(2) Used as second-line or subsequent treatment
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Cabometyx will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Cabometyx
+therapy
+Authorization will be issued for 12 months.
+H. Thyroid Cancer
+1. Initial Authorization
+a. Cabometyx will be approved based on all of the following:
+(1) Diagnosis of differentiated thyroid cancer (DTC)
+-AND-
+(2) Disease is locally advanced or metastatic
+-AND-
+(3) Disease has progressed following prior VEGFR-targeted therapy
+-AND-
+(4) Disease is radioactive iodine-refractory or ineligible
+Authorization will be issued for 12 months.
+2. Reauthorization
+© 2024 UnitedHealthcare Services, Inc.
+5
+a. Cabometyx will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Cabometyx
+therapy
+Authorization will be issued for 12 months.
+I. Soft Tissue Sarcoma
+1. Initial Authorization
+a. Cabometyx will be approved based on both of the following criteria:
+(1) One of the following soft tissue sarcoma subtypes:
+(a) Alveolar soft part sarcoma (ASPS)
+(b) Atypical lipomatous tumor/well-differentiated liposarcoma (ALT/WDLPS)
+(c) Clear cell sarcoma
+(d) Extraskeletal myxoid chondrosarcoma
+-AND-
+(2) Used as subsequent line of therapy for advanced/metastatic disease
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Cabometyx will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Cabometyx
+therapy
+Authorization will be issued for 12 months.
+J. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+© 2024 UnitedHealthcare Services, Inc.
+6
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Cabometyx [prescribing information]. South San Francisco, CA: Exelixis, Inc.; September
+2023.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org/professionals/drug_compendium/content/contents.asp. Accessed
+September 25, 2024.
+Program Prior Authorization/Notification – Cabometyx (cabozantinib)
+Change Control
+6/2016 New program.
+6/2017 Annual review with no changes to clinical criteria.
+2/2018 Updated background and criteria to include new indication for first line
+therapy for RCC. Added coverage for NCCN recommended use for
+NSCLC.
+6/2018 Annual review with no changes to clinical criteria.
+3/2019 Updated background and criteria to include new indication for second
+line therapy for HCC and NCCN recommended use for HCC.
+3/2020 Annual review. Updated RCC criteria to only require a diagnosis of
+advanced renal cell carcinoma to align with label. Added standard
+language for NCCN recommended regimens.
+3/2021 Annual review. Updated background and criteria to include new NCCN
+recommendations for osteosarcoma, Ewing sarcoma, GIST and kidney
+cancer.
+11/2021 Updated background and criteria to include Endometrial carcinoma and
+new indication for thyroid cancer. Updated references.
+11/2022 Annual review. Updated examples of approved therapies for GIST per
+NCCN without change to clinical intent. Added state mandate and
+updated references.
+11/2023 Annual review. Updated NSCLC, hepatocellular carcinoma, and GIST
+criteria per NCCN recommendation. Updated background. Updated
+references.
+11/2024 Annual review. Consolidated sections and updated coverage criteria for
+kidney cancer and renal cell carcinoma into kidney cancer.
+Consolidated sections and updated coverage criteria for ewing sarcoma
+and osteosarcoma into bone cancer. Added criteria for soft tissue
+sarcoma per NCCN guideline. Updated coverage criteria for
+© 2024 UnitedHealthcare Services, Inc.
+7
+hepatocellular carcinoma and endometrial carcinoma. Updated
+background.
+© 2024 UnitedHealthcare Services, Inc.
+8

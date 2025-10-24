@@ -1,0 +1,102 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1279-8
+Program Prior Authorization/Notification
+Medication Spravato® (esketamine)
+P&T Approval Date 4/2019, 4/2020, 12/2020, 12/2021, 12/2022, 12/2023, 6/2024, 3/2025
+Effective Date 5/1/2025
+1. Background:
+Spravato is a non-competitive N-methyl D-aspartate (NMDA) receptor antagonist indicated for
+the treatment of:
+• treatment-resistant depression (TRD) in adults, as monotherapy or in conjunction with an
+oral antidepressant.
+• depressive symptoms in adults with major depressive disorder (MDD) with acute suicidal
+ideation or behavior in conjunction with an oral antidepressant.
+Limitations of Use: The effectiveness of Spravato in preventing suicide or in reducing suicidal
+ideation or behavior has not been demonstrated. Use of Spravato does not preclude the need for
+hospitalization if clinically warranted, even if patients experience improvement after an initial
+dose of Spravato. Spravato is not approved as an anesthetic agent. The safety and effectiveness
+of Spravato as an anesthetic agent have not been established.
+Because of the risks of serious adverse outcomes resulting from sedation, dissociation, and abuse
+and misuse, Spravato is only available through a restricted program under a Risk Evaluation and
+Mitigation Strategy (REMS) called the Spravato REMS.
+In the pivotal clinical trials for Spravato, treatment resistance was defined as a lack of clinically
+meaningful improvement in the current episode of depression after treatment with at least 2
+different antidepressant agents prescribed in adequate dosages for an adequate duration (defined
+for phase 3 studies as at least 6 weeks).
+2. Coverage Criteriaa:
+A. Major depressive disorder (treatment-resistant)
+1. Initial Authorization
+a. Spravato will be approved based on all of the following criteria:
+(1) Diagnosis of major depressive disorder (treatment-resistant)
+-AND-
+(2) Patient has not experienced a clinically meaningful improvement after treatment
+with at least two different antidepressants
+-AND-
+(3) Provider and/or the provider’s healthcare setting is certified in the Spravato
+© 2025 UnitedHealthcare Services, Inc.
+1
+REMS program
+Authorization will be issued for 12 months
+2. Reauthorization
+a. Spravato will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Spravato therapy
+-AND-
+(2) Provider and/or the provider’s healthcare setting is certified in the Spravato
+REMS program
+Authorization will be issued for 12 months
+B. Depressive symptoms in adults with major depressive disorder (MDD) with acute
+suicidal ideation or behavior
+1. Authorization
+a. Spravato will be approved based on all of the following criteria:
+(1) Diagnosis of major depressive disorder
+-AND-
+(2) Patient is experiencing an acute suicidal ideation or behavior
+-AND-
+(3) Provider and/or the provider’s healthcare setting is certified in the Spravato
+REMS program
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+© 2025 UnitedHealthcare Services, Inc.
+2
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class
+• Supply limits may be in place.
+4. References:
+1. Spravato [prescribing information]. Lakewood, NJ; Janssen Pharmaceuticals, Inc.; January 2025.
+2. Psychopharmacologic Drugs Advisory Committee and Drug Safety and Risk Management
+Advisory Committee Meeting. FDA Briefing Document. February 12, 2019.
+https://www.fda.gov/downloads/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/Psyc
+hopharmacologicDrugsAdvisoryCommittee/UCM630970.pdf. (Accessed on March 11, 2019)
+3. Thase M, Connolly KR. Unipolar depression in adults: Choosing treatment for resistant
+depression. Solomon D, ed. UpToDate. Waltham, MA: UpToDate Inc.
+https://www.uptodate.com (Accessed on March 3, 2025)
+4. Huda Akil, Joshua Gordon, Rene Hen, et al. Treatment Resistant Depression: A Multi-Scale,
+Systems Biology Approach. Neurosci Biobehav Rev. 2018 Jan; 84: 272–288.
+Program Prior Authorization/Notification – Spravato (esketamine)
+Change Control
+4/2019 New program.
+4/2020 Annual review with no changes to clinical coverage criteria.
+12/2020 Updated background and coverage criteria for new indication for MDD
+with acute suicidal ideation or behavior. Updated references.
+12/2021 Annual review. Updated background to include limitations of use with
+no change to clinical criteria.
+12/2022 Annual review. Updated coverage criteria for treatment-resistant
+depression with revised wording for combination with oral
+antidepressant from “another” to “an” without change to clinical intent.
+Added state mandate and updated references.
+12/2023 Annual review. Updated background and references.
+6/2024 Updated wording of coverage criteria without change to clinical intent.
+Updated approval duration, both initial and reauthorization, to 12
+months.
+3/2025 Revised coverage criteria for TRD to remove reference to current
+depressive episode and remove specific trial length from history of
+failure of a trial of at least two different antidepressant medications or
+treatment regimens. Removed requirement for combination with oral
+antidepressant for TRD per updated label. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+3

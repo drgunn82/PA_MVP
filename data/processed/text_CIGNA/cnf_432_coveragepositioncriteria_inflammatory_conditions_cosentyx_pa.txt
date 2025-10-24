@@ -1,0 +1,516 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Inflammatory Conditions – Cosentyx Subcutaneous Prior Authorization
+Policy
+• Cosentyx® (secukinumab subcutaneous injection – Novartis)
+REVIEW DATE: 11/20/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Cosentyx subcutaneous, an interleukin (IL)-17A antagonist, is indicated in the
+following conditions:1
+• Enthesitis-related arthritis, in patients ≥ 4 years of age with active disease.
+• Hidradenitis suppurativa, in adults with moderate to severe disease.
+• Plaque psoriasis, in patients ≥ 6 years of age with moderate to severe
+disease who are candidates for systemic therapy or phototherapy.
+• Psoriatic arthritis, in patients ≥ 2 years of age with active disease.
+• Ankylosing spondylitis, in adults with active disease.
+• Non-radiographic axial spondyloarthritis, in adults with active disease and
+objective signs of inflammation.
+In the pivotal trial for non-radiographic axial spondyloarthritis, patients were required
+to have objective signs of inflammation, indicated by elevated C-reactive protein
+and/or sacroiliitis on magnetic resonance imaging.
+Guidelines
+Il-17 blockers are mentioned in multiple guidelines for treatment of inflammatory
+conditions.
+Page 1 of 12 - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Cosentyx Subcutaneous
+Prior Authorization Policy
+• Enthesitis-Related Arthritis: Guidelines for juvenile idiopathic arthritis from
+the American College of Rheumatology (ACR) [2018] address treatment of
+enthesitis-related arthritis.14 These recommendations were developed prior to
+approval of Cosentyx. A tumor necrosis factor inhibitor (TNFi) is recommended
+over use of methotrexate or sulfasalazine in those who have tried a
+nonsteroidal anti-inflammatory drug (NSAID).
+• Plaque Psoriasis: Joint guidelines of care for the management and treatment
+of psoriasis with biologics were published by the American Academy of
+Dermatology (AAD) and the National Psoriasis Foundation (2019).3 All of the
+biologics are generally recommended for treatment of moderate to severe
+disease. The AAD also recommends methotrexate (unless contraindicated)
+and other systemic therapies for treatment of moderate to severe psoriasis.4
+Traditional systemic agents can benefit widespread psoriasis. Studies have
+assessed response to methotrexate following 6 weeks to 4 months of
+treatment.
+• Psoriatic Arthritis: Guidelines from ACR/National Psoriasis Foundation
+(2018) generally recommend TNFis as the first-line treatment strategy over
+other biologics (e.g., IL-17 blockers) with differing mechanisms of action.5
+• Ankylosing Spondylitis and Non-Radiographic Axial Apondyloarthritis:
+Guidelines for ankylosing spondylitis and non-radiographic axial
+spondyloarthritis are published by the ACR/Spondylitis Association of
+America/Spondyloarthritis Research and Treatment Network (2019).2
+Following primary nonresponse to a TNFi, either Cosentyx or Taltz®
+(ixekizumab injection) is recommended; however, if the patient is a secondary
+nonresponder, a second TNFi is recommended over switching out of the class.
+In patients with a contraindication to a TNFi, use of an IL-17 blocker is
+recommended over traditional oral agents such as methotrexate or
+sulfasalazine.
+8 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Cosentyx Subcutaneous Prior
+Authorization Policy
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Cosentyx
+subcutaneous. All approvals are provided for the duration noted below. In cases
+where the approval is authorized in months, 1 month is equal to 30 days. Because
+of the specialized skills required for evaluation and diagnosis of patients treated with
+Cosentyx subcutaneous as well as the monitoring required for adverse events and
+long-term efficacy, initial approval requires Cosentyx subcutaneous to be prescribed
+by or in consultation with a physician who specializes in the condition being treated.
+• Cosentyx® (secukinumab subcutaneous injection – Novartis)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Ankylosing Spondylitis. Approve for the duration noted if the patient meets
+ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient is ≥ 18 years of age; AND
+ii. The medication is prescribed by or in consultation with a rheumatologist.
+B) Patient is Currently Receiving Cosentyx Subcutaneous or Intravenous.
+Approve for 1 year if the patient meets BOTH of the following (i and ii):
+i. Patient has been established on Cosentyx subcutaneous or intravenous for
+at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with Cosentyx subcutaneous or intravenous is reviewed
+under criterion A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating Cosentyx
+subcutaneous or intravenous); OR
+Note: Examples of objective measures include Ankylosing Spondylitis
+Disease Activity Score (ASDAS), Ankylosing Spondylitis Quality of Life
+Scale (ASQoL), Bath Ankylosing Spondylitis Disease Activity Index
+(BASDAI), Bath Ankylosing Spondylitis Functional Index (BASFI), Bath
+Ankylosing Spondylitis Global Score (BAS-G), Bath Ankylosing
+Spondylitis Metrology Index (BASMI), Dougados Functional Index (DFI),
+Health Assessment Questionnaire for the Spondyloarthropathies (HAQ-
+S), and/or serum markers (e.g., C-reactive protein, erythrocyte
+sedimentation rate).
+b) Compared with baseline (prior to initiating Cosentyx subcutaneous or
+intravenous), patient experienced an improvement in at least one
+8 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Cosentyx Subcutaneous Prior
+Authorization Policy
+symptom, such as decreased pain or stiffness, or improvement in
+function or activities of daily living.
+2. Enthesitis-Related Arthritis. Approve for the duration noted if the patient
+meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient is ≥ 4 years of age; AND
+ii. The medication is prescribed by or in consultation with a rheumatologist.
+B) Patient is Currently Receiving Cosentyx Subcutaneous. Approve for 1 year if
+the patient meets BOTH of the following (i and ii):
+i. Patient has been established on Cosentyx subcutaneous for at least 6
+months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with Cosentyx subcutaneous is reviewed under criterion
+A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating Cosentyx
+subcutaneous); OR
+Note: Examples of objective measures include the Juvenile Arthritis
+Disease Activity Score (JADAS); Physician Global Assessment (MD
+global), Parent/Patient Global Assessment of Overall Well-Being (PGA),
+Parent/Patient Global Assessment of Disease Activity (PDA), Juvenile
+Arthritis Disease Activity Score (JDAS), Clinical Juvenile Arthritis Disease
+Activity Score (cJDAS), Juvenile Spondyloarthritis Disease Activity Index
+(JSpADA), serum markers (e.g., C-reactive protein, erythrocyte
+sedimentation rate), and/or reduced dosage of corticosteroids.
+b) Compared with baseline (prior to initiating Cosentyx subcutaneous),
+patient experienced an improvement in at least one symptom, such as
+improvement in limitation of motion, less joint pain or tenderness,
+decreased duration of morning stiffness or fatigue, improved function or
+activities of daily living.
+3. Hidradenitis Suppurativa. Approve for the duration noted if the patient meets
+ONE of the following criteria (A or B):
+A) Initial Therapy. Approve for 3 months if the patient meets BOTH of the
+following (i, ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has tried at least one other therapy; AND
+Note: Examples include intralesional or oral corticosteroids (e.g.,
+triamcinolone, prednisone), systemic antibiotics (e.g., clindamycin,
+dicloxacillin, erythromycin), and isotretinoin.
+iii. The medication is prescribed by or in consultation with a dermatologist.
+B) Patient is Currently Receiving Cosentyx Subcutaneous. Approve for 1 year if
+the patient meets ALL of the following (i, ii, and iii):
+i. Patient has been established on Cosentyx subcutaneous for at least 3
+months; AND
+8 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Cosentyx Subcutaneous Prior
+Authorization Policy
+Note: A patient who has received < 3 months of therapy or who is
+restarting therapy with Cosentyx subcutaneous is reviewed under criterion
+A (Initial Therapy).
+ii. When assessed by at least one objective measure, patient experienced a
+beneficial clinical response from baseline (prior to initiating Cosentyx
+subcutaneous); AND
+Note: Examples of objective measures include Hurley staging, Sartorius
+score, Physician Global Assessment, and Hidradenitis Suppurativa Severity
+Index.
+iii. Compared with baseline (prior to initiating Cosentyx subcutaneous), patient
+experienced an improvement in at least one symptom, such as decreased
+pain or drainage of lesions, nodules, or cysts.
+4. Non-Radiographic Axial Spondyloarthritis. Approve for the duration noted if
+the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has objective signs of inflammation, defined as at least ONE of the
+following (a or b):
+a) C-reactive protein elevated beyond the upper limit of normal for the
+reporting laboratory; OR
+b) Sacroiliitis reported on magnetic resonance imaging; AND
+iii. The medication is prescribed by or in consultation with a rheumatologist.
+B) Patient is Currently Receiving Cosentyx Subcutaneous or Intravenous.
+Approve for 1 year if the patient meets BOTH of the following (i and ii):
+i. Patient has been established on Cosentyx subcutaneous or intravenous for
+at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with Cosentyx subcutaneous or intravenous is reviewed
+under criterion A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating Cosentyx
+subcutaneous or intravenous); OR
+Note: Examples of objective measures include Ankylosing Spondylitis
+Disease Activity Score (ASDAS), Ankylosing Spondylitis Quality of Life
+Scale (ASQoL), Bath Ankylosing Spondylitis Disease Activity Index
+(BASDAI), Bath Ankylosing Spondylitis Functional Index (BASFI), Bath
+Ankylosing Spondylitis Global Score (BAS-G), Bath Ankylosing
+Spondylitis Metrology Index (BASMI), Dougados Functional Index (DFI),
+Health Assessment Questionnaire for the Spondyloarthropathies (HAQ-
+S), and/or serum markers (e.g., C-reactive protein, erythrocyte
+sedimentation rate).
+b) Compared with baseline (prior to initiating Cosentyx subcutaneous or
+intravenous), patient experienced an improvement in at least one
+symptom, such as decreased pain or stiffness, or improvement in
+function or activities of daily living.
+8 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Cosentyx Subcutaneous Prior
+Authorization Policy
+5. Plaque Psoriasis. Approve for the duration noted if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy. Approve for 3 months if the patient meets ALL of the following
+criteria (i, ii, and iii):
+i. Patient is ≥ 6 years of age; AND
+ii. Patient meets ONE of the following conditions (a or b):
+a) Patient has tried at least at least one traditional systemic agent for
+psoriasis for at least 3 months, unless intolerant; OR
+Note: Examples include methotrexate, cyclosporine, or acitretin, A 3-
+month trial of psoralen plus ultraviolet A light (PUVA) also counts. An
+exception to the requirement for a trial of one traditional systemic agent
+for psoriasis can be made if the patient has already had a 3-month trial
+or previous intolerance to at least one biologic other than Cosentyx. A
+biosimilar of Cosentyx does not count. Refer to Appendix for examples
+of biologics used for psoriasis. A patient who has already tried a biologic
+for psoriasis is not required to “step back” and try a traditional systemic
+agent for psoriasis.
+b) Patient has a contraindication to methotrexate, as determined by the
+prescriber; AND
+iii. The medication is prescribed by or in consultation with a dermatologist.
+B) Patient is Currently Receiving Cosentyx Subcutaneous. Approve for 1 year if
+the patient meets ALL of the following (i, ii, and iii):
+i. Patient has been established on Cosentyx subcutaneous for at least 3
+months; AND
+Note: A patient who has received < 3 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+ii. Patient experienced a beneficial clinical response, defined as improvement
+from baseline (prior to initiating Cosentyx subcutaneous) in at least one of
+the following: estimated body surface area, erythema,
+induration/thickness, and/or scale of areas affected by psoriasis; AND
+iii. Compared with baseline (prior to initiating Cosentyx subcutaneous), patient
+experienced an improvement in at least one symptom, such as decreased
+pain, itching, and/or burning.
+6. Psoriatic Arthritis. Approve for the duration noted if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient is ≥ 2 years of age; AND
+ii. The medication is prescribed by or in consultation with a rheumatologist or
+a dermatologist.
+B) Patient is Currently Receiving Cosentyx Subcutaneous or Intravenous.
+Approve for 1 year if the patient meets BOTH of the following (i and ii):
+i. Patient has been established on Cosentyx subcutaneous or intravenous for
+at least 6 months; AND
+8 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Cosentyx Subcutaneous Prior
+Authorization Policy
+Note: A patient who has received < 6 months of therapy with Cosentyx
+subcutaneous or intravenous or who is restarting therapy is reviewed under
+criterion A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating Cosentyx
+subcutaneous or intravenous); OR
+Note: Examples of standardized measures of disease activity include
+Disease Activity Index for Psoriatic Arthritis (DAPSA), Composite
+Psoriatic Disease Activity Index (CPDAI), Psoriatic Arthritis Disease
+Activity Score (PsA DAS), Grace Index, Leeds Enthesitis Score (LEI),
+Spondyloarthritis Consortium of Canada (SPARCC) enthesitis score,
+Leeds Dactylitis Instrument Score, Minimal Disease Activity (MDA),
+Psoriatic Arthritis Impact of Disease (PsAID-12), and/or serum markers
+(e.g., C-reactive protein, erythrocyte sedimentation rate).
+b) Compared with baseline (prior to initiating Cosentyx subcutaneous or
+intravenous), patient experienced an improvement in at least one
+symptom, such as less joint pain, morning stiffness, or fatigue;
+improved function or activities of daily living; decreased soft tissue
+swelling in joints or tendon sheaths.
+CONDITIONS NOT RECOMMENDED FOR APPROVAL
+• Cosentyx® (secukinumab subcutaneous injection – Novartis)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria will
+be updated as new published data are available):
+1. Concurrent Use with a Biologic or with a Targeted Synthetic Oral Small
+Molecule Drug. This medication should not be administered in combination with
+another biologic or with a targeted synthetic oral small molecule drug used for an
+inflammatory condition (see Appendix for examples). Combination therapy is
+generally not recommended due to a potentially higher rate of adverse events and
+lack of controlled clinical data supporting additive efficacy.
+Note: This does NOT exclude the use of conventional synthetic DMARDs (e.g.,
+methotrexate, leflunomide, hydroxychloroquine, or sulfasalazine) in combination
+with this medication.
+2. Crohn’s Disease. Exacerbations of Crohn’s disease, in some cases serious,
+occurred in clinical trials in patients treated with Cosentyx.1 In a Phase II
+published study in patients with Crohn’s disease (n = 59), an intravenous
+formulation of Cosentyx did not reduce the Crohn’s disease activity index by ≥ 50
+points compared with placebo and the study was terminated prematurely.6
+3. Rheumatoid Arthritis. In a published, double-dummy Phase III study, Cosentyx
+was less effective than current treatments in patients with rheumatoid arthritis
+8 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Cosentyx Subcutaneous Prior
+Authorization Policy
+who were previously treated with a tumor necrosis factor inhibitor (TNFi).7
+Patients were randomized to one of four treatment groups: 1) induction with an
+intravenous formulation of Cosentyx (10 mg/kg) followed by Cosentyx 150 mg
+subcutaneously given once every 4 weeks (Q4W) [n = 137]; 2) secukinumab
+intravenous induction (10 mg/kg) followed by Cosentyx 75 mg subcutaneously
+Q4W (n = 138). At Week 24, ACR 20 response was significantly better with
+Cosentyx 150 mg subcutaneous (31%) vs. placebo (18%). ACR 20 response with
+Cosentyx 75 mg was 28%, which was not significantly better than the placebo
+group. ACR 50/70 responses were 17%/10%, respectively, with Cosentyx 150
+mg and 12%/5%, respectively, with Cosentyx 75 mg which were not significantly
+different from that of placebo (9%/5%, respectively). The group treated with
+Orencia intravenous had significantly improved ACR 50/70 responses at Week 24
+(28%/12%). Using as observed data, ACR 20/50/70 responses at Week 52 were
+63%/46%/19%, respectively, with Cosentyx 150 mg, 57%/26%/7%,
+respectively, with Cosentyx 75 mg, and 75%/52%/23%, respectively, with
+Orencia intravenous. There is a published Phase II dose-ranging study (n = 237)
+evaluating Cosentyx in rheumatoid arthritis.8-10 The ACR 20 response at Week 16
+(using last observation carried forward analysis) was 34%, 46.9%, 46.5%, 53.7%
+for the 25, 75, 150, and 300 mg doses, respectively, vs. 36% for placebo;
+however, this did not achieve statistical significance. After Week 16, patients who
+responded to Cosentyx had sustained response through Week 52, with patients
+on the 150 mg dose having the greatest improvement over time (55% and 40%
+of patients with ACR 50 and ACR 70 responses, respectively, at Week 52). In
+another Phase II study, Cosentyx did not achieve higher ACR 20 response rates
+at Week 12 vs. placebo.11 There was an open-label treatment period where ACR
+responses were generally maintained through Week 52. Some patients were
+treated with an intravenous formulation of secukinumab and generally responded
+similarly to those treated with Cosentyx. In another Phase II study, an
+intravenous formulation of secukinumab demonstrated limited efficacy in biologic-
+naïve patients with rheumatoid arthritis associated with the HLA-DRB1 allele.12
+4. Uveitis. Efficacy is not established for this condition. There was not a statistically
+significant difference between Cosentyx subcutaneous and placebo in three Phase
+III studies that included patients with Behcet’s uveitis (n = 118); active,
+noninfectious, non-Behcet’s uveitis (n = 31); and quiescent, noninfectious, non-
+Behcet’s uveitis (n = 125) [SHEILD, INSURE, and ENDURE studies,
+respectively].13
+REFERENCES
+1. Cosentyx® [prescribing information]. East Hanover, NJ: Novartis; October 2024.
+2. Ward MM, Deodhar A, Gensler LS, et al. 2019 update of the American College of
+Rheumatology/Spondylitis Association of America/Spondyloarthritis Research and Treatment
+Network recommendations for the treatment of ankylosing spondylitis and nonradiographic axial
+spondyloarthritis. Arthritis Rheumatol. 2019;(10):1599-1613.
+3. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and
+treatment of psoriasis with biologics. J Am Acad Dermatol. 2019;80(4):1029-1072.
+4. Mentor A, Gelfand JM, Connor C, et al. Joint American Academy of Dermatology and National
+Psoriasis Foundation guidelines of care for the management of psoriasis with systemic nonbiologic
+therapies. Am Acad Dermatol. 2020;82(6):1445-1486.
+8 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Cosentyx Subcutaneous Prior
+Authorization Policy
+5. Singh JA, Guyatt G, Ogdie A, et al. 2018 American College of Rheumatology/National Psoriasis
+Foundation guideline for the treatment of psoriatic arthritis. Arthritis Rheumatol. 2019;71(1):5-
+32.
+6. Hueber W, Sands BE, Lewitzky S, et al. Secukinumab, a human anti-IL-17A monoclonal antibody,
+for moderate to severe Crohn's disease: unexpected results of a randomised, double-blind placebo-
+controlled trial. Gut. 2012;61(12):1693-1700.
+7. Blanco FJ, Möricke R, Dokoupilova E, et al. Secukinumab in active rheumatoid arthritis: a Phase
+III randomized, double-blind, active comparator- and placebo-controlled study. Arthritis Rheumatol.
+2017;69(6):1144-1153.
+8. Genovese MC, Durez P, Richards HB, et al. One-year efficacy and safety results of secukinumab in
+patients with rheumatoid arthritis: phase II, dose-finding, double-blind, randomized, placebo-
+controlled study. J Rheumatol. 2014;41(3):414-421.
+9. Genovese MC, Durez P, Richards HB, et al. Efficacy and safety of secukinumab in patients with
+rheumatoid arthritis: a phase II, dose-finding, double-blind, randomised, placebo controlled study.
+Ann Rheum Dis. 2013;72(6):863-869.
+10. Strand V, Kosinski M, Gnanasakthy A, et al. Secukinumab treatment in rheumatoid arthritis is
+associated with incremental benefit in the clinical outcomes and HRQoL improvements that exceed
+minimally important thresholds. Health Qual Life Outcomes. 2014;12:31.
+11. Tlustochowicz W, Rahman P, Seriolo B, et al. Efficacy and safety of subcutaneous and intravenous
+loading dose regimens of secukinumab in patients with active rheumatoid arthritis: results from a
+randomized Phase II study. J Rheumatol. 2016;43(3):495-503.
+12. Burmester GR, Durez P, Shestakova G, et al. Association of HLA-DRB1 alleles with clinical responses
+to the anti-interleukin-17A monoclonal antibody secukinumab in active rheumatoid arthritis.
+Rheumatology (Oxford). 2016;55(1):49-55.
+13. Dick AD, Tugal-Tutkun I, Foster S, et al. Secukinumab in the treatment of noninfectious uveitis:
+results of three randomized, controlled clinical trials. Ophthalmology. 2013;120(4):777-787.
+14. Ringold S, Angeles-Han ST, Beukelman T, et al. 2019 American College of Rheumatology/Arthritis
+Foundation Guideline for the treatment of juvenile idiopathic arthritis: therapeutic approaches for
+non-systemic polyarthritis, sacroiliitis, and enthesitis. Arthritis Rheumatol. 2019;71(6):846-863.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Early Annual Policy name was updated to specify this is for the subcutaneous 11/01/2023
+Revision formulation of Cosentyx.
+Enthesitis-Related Arthritis: For a patient currently receiving
+Cosentyx, it was clarified this applies to the subcutaneous formulation.
+Plaque Psoriasis: For a patient currently receiving Cosentyx, it was
+clarified this applies to the subcutaneous formulation.
+Psoriatic Arthritis: For a patient currently receiving Cosentyx, it was
+clarified this applies to the subcutaneous or intravenous formulation.
+Ankylosing Spondylitis: For a patient currently receiving Cosentyx,
+it was clarified this applies to the subcutaneous or intravenous
+formulation.
+Non-Radiographic Axial Spondyloarthritis: For a patient currently
+receiving Cosentyx, it was clarified this applies to the subcutaneous or
+intravenous formulation.
+Selected Hidradenitis Suppurativa: This condition and criteria for approval 11/15/2023
+Revision was added to the policy.
+Selected Hidradenitis Suppurativa: For a patient currently taking Cosentyx 03/27/2024
+Revision subcutaneous, the timeframe for established on therapy was changed
+from 90 days to 3 months.
+Plaque Psoriasis: For a patient currently taking Cosentyx
+subcutaneous, the timeframe for established on therapy was changed
+from 90 days to 3 months.
+Selected Ankylosing Spondylitis: For initial approvals, a requirement that the 09/11/2024
+Revision patient is ≥ 18 years of age was added.
+8 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Cosentyx Subcutaneous Prior
+Authorization Policy
+Non-Radiographic Axial Spondyloarthritis: For initial approvals, a
+requirement that the patient is ≥ 18 years of age was added.
+Plaque Psoriasis: In the Note, psoralen plus ultraviolet A light (PUVA)
+was removed from the examples of traditional systemic therapies. An
+additional Note was added that a 3-month trial of PUVA counts as a
+traditional systemic therapy.
+Conditions Not Covered
+: Concurrent use with a Biologic or with a Targeted Synthetic Oral
+Small Molecule Drug was changed to as listed (previously oral small
+molecule drug was listed as Disease-Modifying Antirheumatic Drug).
+Annual No criteria changes. 11/20/2024
+Revision
+8 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Cosentyx Subcutaneous Prior
+Authorization Policy
+APPENDIX
+Mechanism of Action Examples of Indications*
+Biologics
+Adalimumab SC Products (Humira®, Inhibition of TNF AS, CD, JIA, PsO, PsA, RA, UC
+biosimilars)
+Cimzia® (certolizumab pegol SC Inhibition of TNF AS, CD, JIA, nr-axSpA, PsO,
+injection) PsA, RA
+Etanercept SC Products (Enbrel®, Inhibition of TNF AS, JIA, PsO, PsA, RA
+biosimilars)
+Infliximab IV Products (Remicade®, Inhibition of TNF AS, CD, PsO, PsA, RA, UC
+biosimilars)
+Zymfentra® (infliximab-dyyb SC Inhibition of TNF CD, UC
+injection)
+Simponi®, Simponi Aria® (golimumab Inhibition of TNF SC formulation: AS, PsA, RA,
+SC injection, golimumab IV infusion) UC
+IV formulation: AS, PJIA,
+PsA, RA
+Tocilizumab Products (Actemra® IV, Inhibition of IL-6 SC formulation: PJIA, RA,
+biosimilar; Actemra SC, biosimilar) SJIA
+IV formulation: PJIA, RA,
+SJIA
+Kevzara® (sarilumab SC injection) Inhibition of IL-6 RA
+Orencia® (abatacept IV infusion, T-cell costimulation SC formulation: JIA, PSA, RA
+abatacept SC injection) modulator IV formulation: JIA, PsA, RA
+Rituximab IV Products (Rituxan®, CD20-directed cytolytic RA
+biosimilars) antibody
+Kineret® (anakinra SC injection) Inhibition of IL-1 JIA^, RA
+Omvoh® (mirikizumab IV infusion, SC Inhibition of IL-23 UC
+injection)
+Stelara® (ustekinumab SC injection, Inhibition of IL-12/23 SC formulation: CD, PsO,
+ustekinumab IV infusion) PsA, UC
+IV formulation: CD, UC
+Siliq® (brodalumab SC injection) Inhibition of IL-17 PsO
+Cosentyx® (secukinumab SC injection; Inhibition of IL-17A SC formulation: AS, ERA, nr-
+secukinumab IV infusion) axSpA, PsO, PsA
+IV formulation: AS, nr-
+axSpA, PsA
+Taltz® (ixekizumab SC injection) Inhibition of IL-17A AS, nr-axSpA, PsO, PsA
+Bimzelx® (bimekizumab-bkzx SC Inhibition of IL- AS, nr-axSpA, PsA, PsO
+injection) 17A/17F
+Ilumya® (tildrakizumab-asmn SC Inhibition of IL-23 PsO
+injection)
+Skyrizi® (risankizumab-rzaa SC Inhibition of IL-23 SC formulation: CD, PSA,
+injection, risankizumab-rzaa IV infusion) PsO, UC
+IV formulation: CD, UC
+Tremfya® (guselkumab SC injection, Inhibition of IL-23 SC formulation: PsA, PsO, UC
+guselkumab IV infusion) IV formulation: UC
+Entyvio® (vedolizumab IV infusion, Integrin receptor CD, UC
+vedolizumab SC injection) antagonist
+Oral Therapies/Targeted Synthetic Oral Small Molecule Drugs
+Otezla® (apremilast tablets) Inhibition of PDE4 PsO, PsA
+Cibinqo™ (abrocitinib tablets) Inhibition of JAK AD
+pathways
+Olumiant® (baricitinib tablets) Inhibition of JAK RA, AA
+pathways
+Litfulo® (ritlecitinib capsules) Inhibition of JAK AA
+pathways
+8 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Cosentyx Subcutaneous Prior
+Authorization Policy
+Leqselvi® (deuruxolitinib tablets) Inhibition of JAK AA
+pathways
+Rinvoq® (upadacitinib extended-release Inhibition of JAK AD, AS, nr-axSpA, RA, PsA,
+tablets) pathways UC
+Rinvoq® LQ (upadacitinib oral solution) Inhibition of JAK PsA, PJIA
+pathways
+Sotyktu® (deucravacitinib tablets) Inhibition of TYK2 PsO
+Xeljanz® (tofacitinib tablets/oral Inhibition of JAK RA, PJIA, PsA, UC
+solution) pathways
+Xeljanz® XR (tofacitinib extended- Inhibition of JAK RA, PsA, UC
+release tablets) pathways
+Zeposia® (ozanimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+Velsipity® (etrasimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+* Not an all-inclusive list of indications. Refer to the prescribing information for the respective agent for
+FDA-approved indications; SC – Subcutaneous; TNF – Tumor necrosis factor; AS – Ankylosing
+spondylitis; CD – Crohn’s disease; JIA – Juvenile idiopathic arthritis; PsO – Plaque psoriasis; PsA –
+Psoriatic arthritis; RA – Rheumatoid arthritis; UC – Ulcerative colitis; nr-axSpA – Non-radiographic axial
+spondyloarthritis; IV – Intravenous, PJIA – Polyarticular juvenile idiopathic arthritis; IL – Interleukin;
+SJIA – Systemic juvenile idiopathic arthritis; ^ Off-label use of Kineret in JIA supported in guidelines;
+ERA – Enthesitis-related arthritis; DMARD – Disease-modifying antirheumatic drug; PDE4 –
+Phosphodiesterase 4; JAK – Janus kinase; AD – Atopic dermatitis; AA – Alopecia areata; TYK2 – Tyrosine
+kinase 2.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2024 The Cigna
+Group.
+8 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Cosentyx Subcutaneous Prior
+Authorization Policy

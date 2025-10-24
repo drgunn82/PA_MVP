@@ -1,0 +1,61 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1092-13
+Program Prior Authorization/Notification
+Medication Selzentry® (maraviroc)
+P&T Approval Date 1/2012, 2/2013, 11/2013, 2/2015, 2/2016, 2/2017, 2/2018, 2/2019, 2/2020,
+2/2021, 1/2022, 1/2023, 1/2024, 1/2025
+Effective Date 4/1/2025
+1. Background:
+Selzentry® (maraviroc) is a CCR5 co-receptor antagonist indicated in combination with other
+antiretroviral agents for the treatment of only CCR5-tropic human immunodeficiency virus type 1
+(HIV-1) infection in adults and pediatric patients weighing at least 2 kg. Selzentry is not
+recommended in patients with dual/mixed- or CXCR4-tropic HIV-1. Tropism testing with a
+highly sensitive tropism assay is required for the appropriate use of Selzentry. 1
+Members will be required to meet the coverage criteria below.
+2. Coverage Criteriaa:
+A. Authorization
+1. Selzentry will be approved based on both of the following criteria:
+a. Patient has CCR5-tropic HIV-1 infection as confirmed by a highly sensitive tropism
+assay
+-AND-
+b. Patient is currently taking or will be prescribed an optimized background antiretroviral
+therapy regimen
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Selzentry [Package Insert]. Research Triangle Park, NC: ViiV Healthcare; September 2022.
+© 2025 UnitedHealthcare Services, Inc.
+1
+Program Prior Authorization/Notification - Selzentry (maraviroc)
+Change Control
+11/2013 Annual Review - Removed reauthorization criteria. Clinical intent is to validate
+tropism assay testing at time of therapy initiation. Updated additional clinical rules.
+Updated references. Added change control table.
+2/2015 Removed safety information in background section and added updated label
+language. Updated references.
+2/2016 Annual review. Updated background section to reflect most current label. Removed
+reference to tropism testing from the DHHS treatment guidelines. Revised duration
+of authorization.
+2/2017 Annual Review. Updated background information to reflect most current label.
+Updated reference.
+2/2018 Annual review. No changes to coverage criteria.
+12/2018 Administrative change to add statement regarding use of automated processes.
+2/2019 Annual review. No changes to coverage criteria.
+2/2020 Annual review. No changes to coverage criteria.
+2/2021 Annual review. No changes to coverage criteria.
+1/2022 Annual review with no changes to coverage criteria. Updated background and
+reference.
+1/2023 Annual review with no changes to coverage criteria. Added state mandate and
+updated references.
+1/2024 Annual review. Revised duration of authorization.
+1/2025 Annual review. Updated formatting without change to clinical intent.
+© 2025 UnitedHealthcare Services, Inc.
+2

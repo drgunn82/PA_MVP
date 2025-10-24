@@ -1,0 +1,231 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Immunologicals – Nemluvio Prior Authorization Policy
+• Nemluvio® (nemolizumab-ilto subcutaneous injection – Galderma)
+REVIEW DATE: 12/18/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Nemluvio, an interleukin (IL)-31 receptor antagonist, is indicated for the following
+uses:1
+• Atopic dermatitis, for the treatment of patients ≥ 12 of age with moderate-
+to-severe disease in combination with topical corticosteroids and/or topical
+calcineurin inhibitors when the disease is not adequately controlled with
+topical prescription therapies.
+• Prurigo nodularis in adults.
+Clinical Efficacy
+Atopic Dermatitis
+Two pivotal studies, ARCADIA 1 and ARCADIA 2, evaluated Nemluvio’s efficacy in
+the treatment of atopic dermatitis in patients ≥ 12 years of age.1,2 These studies
+evaluated efficacy after 16 weeks of Nemluvio therapy. According to the
+prescribing information, Nemluvio should be used with topical corticosteroids and/or
+topical calcineurin inhibitors. However, when the disease has sufficiently improved,
+the labeling states to discontinue the use of topical therapies. In the ARCADIA
+studies, concomitant topical corticosteroids and/or a topical calcineurin inhibitor
+were administered during the trial. However, based on disease activity, these
+therapies could be tapered and/or discontinued at the investigator’s discretion.
+Page 1 of 6 - Cigna National Formulary Coverage - Policy:Immunologicals – Nemluvio Prior Authorization Policy
+Prurigo Nodularis
+Two pivotal studies, OLYMPIA 1 and OLYMPIA 2, evaluated Nemluvio’s efficacy in
+the treatment of prurigo nodularis in patients ≥ 18 years of age.1,3,4 To enroll,
+patients were required to have ≥ 20 nodular lesions distributed bilaterally on the legs,
+and/or both arms, and/or trunk. Across both studies, 78.5% of patients had tried
+topical corticosteroid therapy. Patients with chronic pruritus caused by an active
+condition other than prurigo nodularis were excluded, as were patients with
+neurpathic and psychogenic pruritis. In OLYMPIA 1, patients received an initial 24
+weeks of randomized therapy, while in OLYMPIA 2 patients received 16 weeks of
+treatment. The primary endpoints in both studies were evaluated at 16 weeks (4
+months).
+Guidelines
+Atopic Dermatitis
+Current atopic dermatitis guidelines do not make recommendations regarding
+Nemluvio. The American Academy of Dermatology (AAD) Guidelines for the
+Care and Management of Atopic Dermatitis in Adults (topical therapies update in
+2022 and systemic agents update in 2023) and the American Academy of
+Allergy, Asthma and Immunology (AAAAI)/American College of Allergy,
+Asthma and Immunology (ACAAI) Joint Task Force on Practice Parameters
+Atopic Dermatitis Guidelines (2023) continue to affirm that despite the availability
+of newer, systemic therapies, topical agents remain the mainstay of treatment due
+to their proven track record and favorable safety profiles.5-7 Several topical agents
+are recommended, with topical corticosteroids commonly used first-line for mild to
+severe atopic dermatitis in all skin regions. If topical therapy and basic
+management (e.g., moisturizers, bathing modifications) have been optimized and
+the patient has not achieved adequate control, systemic therapy may be
+considered.
+Prurigo Nodularis
+A United States Expert Panel Consensus provides a practical approach for the
+diagnosis and management of prurigo nodularis (2021).8 The primary findings in
+patients with prurigo nodularis are the presence of firm, nodular lesions; pruritus
+lasting at least 6 weeks; and history or signs, or both, of repeated scratching,
+picking, or rubbing. Goals of treatment are to reduce pruritus, interrupt the itch-
+scratch cycle, and completely heal prurigo nodularis lesions. Topical corticosteroids
+are recommended as one of the treatments to address the immunologic component
+of prurigo nodularis.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Nemluvio.
+All approvals are provided for the duration noted below. In cases where the
+approval is authorized in months, 1 month is equal to 30 days. Because of the
+specialized skills required for evaluation and diagnosis of patients treated with
+Nemluvio as well as the monitoring required for adverse events and long-term
+6 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Nemluvio Prior Authorization Policy
+efficacy, initial approval requires Nemluvio to be prescribed by or in consultation
+with a physician who specializes in the condition being treated.
+• Nemluvio® (nemolizumab-ilto subcutaneous injection – Galderma)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Atopic Dermatitis. Approve for the duration noted if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy. Approve for 4 months if the patient meets ALL of the
+following (i, ii, iii, iv, and v):
+i. Patient is ≥ 12 years of age; AND
+ii. According to the prescriber, the patient has atopic dermatitis involvement
+estimated to be ≥ 10% of the body surface area; AND
+iii. Patient meets ALL of the following (a, b, and c):
+a) Patient has tried at least one medium-, medium-high, high-, and/or
+super-high-potency prescription topical corticosteroid; AND
+b) This topical corticosteroid was applied daily for at least 28 consecutive
+days; AND
+c) According to the prescriber, inadequate efficacy was demonstrated
+with this topical corticosteroid therapy; AND
+iv. Patient meets ONE of the following (a or b):
+a) For initial therapy, the medication will be used in combination with a
+topical corticosteroid and/or a topical calcineurin inhibitor; OR
+b) The patient’s atopic dermatitis has sufficiently improved with Nemluvio
+and topical therapy has been discontinued; AND
+v. The medication is prescribed by or in consultation with an allergist,
+immunologist, or dermatologist.
+B) Patient is Currently Receiving Nemluvio. Approve for 1 year if the patient
+meets BOTH of the following (i and ii):
+i. Patient has already received at least 4 months of therapy with Nemluvio;
+AND
+Note: A patient who has received < 4 months of therapy or who is
+restarting therapy with Nemluvio should be considered under criterion 1A
+(Atopic Dermatitis, Initial Therapy).
+ii. Patient has responded to therapy as determined by the prescriber.
+Note: Examples of a response to Nemluvio therapy are marked
+improvements in erythema, induration/papulation/edema, excoriations,
+and lichenification; reduced pruritus; decreased requirement for other
+topical or systemic therapies; reduced body surface area affected with
+atopic dermatitis; or other responses observed.
+2. Prurigo Nodularis. Approve for the duration noted if the patient meets ONE of
+the following (A or B):
+6 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Nemluvio Prior Authorization Policy
+A) Initial Therapy. Approve for 4 months if the patient meets ALL of the
+following (i, ii, iii, iv, v, and vi):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has ≥ 20 identifiable nodular lesions in total on both arms, and/or
+both legs, and/or trunk; AND
+iii. Patient has experienced pruritus for ≥ 6 weeks; AND
+iv. Patient meets ONE of the following (a or b):
+a) The prurigo nodularis is NOT medication-induced or secondary to a
+non-dermatologic condition such as neuropathy or a psychiatric
+disease; OR
+b) The patient has a secondary cause of prurigo nodularis that has been
+identified and adequately managed, according to the prescriber; AND
+v. Patient meets ALL of the following (a, b, and c):
+a) Patient has tried at least one high- or super-high-potency prescription
+topical corticosteroid; AND
+b) This topical corticosteroid was applied daily for at least 14 consecutive
+days; AND
+c) Inadequate efficacy was demonstrated with this topical corticosteroid
+therapy, according to the prescriber; AND
+vi. The medication is prescribed by or in consultation with an allergist,
+immunologist, or dermatologist.
+B) Patient is Currently Receiving Nemluvio. Approve for 1 year if the patient
+meets BOTH of the following (i and ii):
+i. Patient has already received at least 4 months of therapy with Nemluvio;
+AND
+Note: A patient who has received < 4 months of therapy or who is
+restarting therapy with Nemluvio should be considered under criterion 2A
+(Prurigo Nodularis, Initial Therapy).
+ii. Patient has experienced a beneficial clinical response, defined by ONE of
+the following (a, b, or c):
+a) Reduced nodular lesion count; OR
+b) Decreased pruritus; OR
+c) Reduced nodular lesion size.
+CONDITIONS NOT COVERED
+• Nemluvio® (nemolizumab-ilto subcutaneous injection – Galderma)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria
+will be updated as new published data are available):
+1. Concurrent Use of Nemluvio with another Monoclonal Antibody Therapy.
+The efficacy and safety of Nemluvio in combination with other monoclonal
+antibody therapies have not been established.1
+Note: Monoclonal antibody therapies are Adbry® (tralokinumab-ldrm
+subcutaneous injection), Cinqair® (reslizumab intravenous injection), Dupixent®
+6 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Nemluvio Prior Authorization Policy
+(dupilumab subcutaneous injection), Ebglyss® (lebrikizumab-lbkz subcutaneous
+injection), Fasenra® (benralizumab subcutaneous injection), Nucala®
+(mepolizumab subcutaneous injection), Teszpire® (tezepelumab-ekko
+subcutaneous injection), or Xolair® (omalizumab subcutaneous injection).
+2. Concurrent Use of Nemluvio with Janus Kinase (JAK) Inhibitors (oral or
+topical). Use of JAK inhibitors is not recommended for use in combination with
+other JAK inhibitors, biologic immunomodulators (e.g., Nemluvio), or with other
+immunosuppressants.9-12
+Note: Examples of JAK inhibitors are Cibinqo® (abrocitinib tablets), Leqselvi™
+(deuruxolitinib tablets), Rinvoq®/Rinvoq® LQ (upadacitinib tablets and oral
+solution), and Opzelura™ (ruxolitinib cream).
+REFERENCES
+1. Nemluvio® subcutaneous injection [prescribing information]. Dallas, TX: Galderma; December
+2024.
+2. Silverberg JI, Wollenberg A, Reich A, et al. Nemolizumab with concomitant topical therapy in
+adolescents and adults with moderate-to-severe atopic dermatitis (ARCADIA 1 and ARCADIA 2):
+results from two replicate, double-blind, randomised controlled phase 3 trials. Lancet.
+2024;404:445-460.
+3. Ständer S, Yosipovich G, Legat F, et al. Nemolizumab monotherapy improves itch and skin lesions
+in patients with moderate-to-severe prurigo nodularis: results from a global phase 3 trial
+(OLYMPIA 1) [abstract 6707]. Presented at: European Academy of Dermatology and
+Venereology; Berlin, German; October 11-14, 2023.
+4. Kwatra SG, Yosipovitch G, Legat FJ, et al. Phase 3 trial of nemolizumab in patients with prurigo
+nodularis. N Engl J Med.
+5. Sidbury R, Alikhan A, Cohen DE, et al. Guidelines of care for the management of atopic dermatitis
+in adults with topical therapies. J Am Acad Dermatol. 2023;89(1):e1-e20.
+6. Davis DMR, Drucker AM, Alikhan A, et al. Guidelines of care for the management of atopic
+dermatitis in adults with phototherapy and systemic therapies. J Am Acad Dermatol.
+2024;90(2):e43-e56.
+7. Chu DK, Schneider L, Asiniwasis RN, et al. Atopic dermatitis (eczema) guidelines: 2023 American
+Academy of Allergy Asthma and Immunology/American College of Allergy, Asthma and
+Immunology Joint Task Force on practice parameters GRADE- and Institute of Medicine-based
+recommendations. Ann Allergy Asthma Immunol. 2024;132(3):274-312.
+8. Elmariah S, Kim B, Berger T, et al. Practical approaches for diagnosis and management of prurigo
+nodularis: United States expert panel consensus. J Am Acad Dermatol. 2021;84(3):747-760.
+9. Cibinqo® tablets [prescribing information]. New York, NY: Pfizer; December 2023.
+10. Rinvoq® tablets/Rinvoq® LQ oral solution [prescribing information]. North Chicago, IL: AbbVie;
+April 2024.
+11. Opzelura® cream [prescribing information]. Wilmington, DE: Incyte; March 2023.
+12. Leqselvi™ tablets [prescribing information]. Whippany, NJ: Sun/Halo; July 2024.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 08/14/2024
+Selected Atopic Dermatitis: This condition and criteria for approval were 12/18/2024
+Revision added to the policy. New approval criteria for this indication were
+added that include an age requirement, an body surface area
+requirement, a trial of a topical corticosteroid, and specialist
+involvement.
+6 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Nemluvio Prior Authorization Policy
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2025 The Cigna
+Group.
+6 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Nemluvio Prior Authorization Policy

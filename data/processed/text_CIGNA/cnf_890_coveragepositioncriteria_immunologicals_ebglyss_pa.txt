@@ -1,0 +1,196 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Immunologicals – Ebglyss Prior Authorization Policy
+• Ebglyss® (lebrikizumab-lbkz subcutaneous injection – Eli Lilly)
+REVIEW DATE: 09/03/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Ebglyss, an interleukin (IL)-13 antagonist, is indicated for the treatment of
+moderate to severe atopic dermatitis in adults and pediatric patients ≥ 12
+years of age who weigh ≥ 40 kg whose disease is not adequately controlled with
+topical prescription therapies or when those therapies are not advisable.1 Ebglyss
+may be used with or without topical corticosteroids (TCSs).
+Clinical Efficacy
+Three pivotal studies of Ebglyss enrolled patients ≥ 12 years of age with moderate
+to severe chronic atopic dermatitis affecting ≥ 10% of their body surface area.1-4
+Patients also had a history of an inadequate response to a sufficient course of
+topical therapy (e.g., topical corticosteroids). At Week 16, Ebglyss was found to be
+more effective in achieving a clinical response compared with placebo. In the
+monotherapy trials, the majority of patients who achieved a clinical response to
+Ebglyss at Week 16 experienced sustained efficacy at Week 52.
+Page 1 of 5 - Cigna National Formulary Coverage - Policy: Immunologicals – Ebglyss Prior Authorization Policy
+Guidelines
+Current atopic dermatitis guidelines do not make recommendations regarding
+Ebglyss. The American Academy of Dermatology (AAD) Guidelines for the Care
+and Management of Atopic Dermatitis in Adults (topical therapies update in 2022
+and systemic agents update in 2023) and the American Academy of Allergy,
+Asthma and Immunology (AAAAI)/American College of Allergy, Asthma
+and Immunology (ACAAI) Joint Task Force on Practice Parameters Atopic
+Dermatitis Guidelines (2023) continue to affirm that despite the availability of
+newer, systemic therapies, topical agents remain the mainstay of treatment due to
+their proven track record and favorable safety profiles.5-7 Several topical agents are
+recommended, with topical corticosteroids commonly used first-line for mild to
+severe atopic dermatitis in all skin regions. If topical therapy and basic
+management (e.g., moisturizers, bathing modifications) have been optimized and
+the patient has not achieved adequate control, systemic therapy may be
+considered.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Ebglyss. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Ebglyss as well as the
+monitoring required for adverse events and long-term efficacy, initial approval
+requires Ebglyss to be prescribed by or in consultation with a physician who
+specializes in the condition being treated.
+• Ebglyss® (lebrikizumab-lbkz subcutaneous injection – Eli Lilly)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Atopic Dermatitis. Approve for the duration noted if the patient meets ONE of
+the following conditions (A or B):
+A) Initial Therapy. Approve for 4 months if the patient meets ALL of the
+following criteria (i, ii, iii, and iv):
+i. Patient meets ONE of the following criteria (a or b):
+a) Patient is ≥ 18 years of age; OR
+b) Patient meets BOTH of the following criteria (1 and 2):
+1) Patient is 12 to 17 years of age; AND
+2) Patient weighs ≥ 40 kg; AND
+ii. Patient has atopic dermatitis involvement estimated to be ≥ 10% of the
+body surface area according to the prescriber; AND
+iii. Patient meets ALL of the following criteria (a, b, and c):
+Page 2 of 5 - Cigna National Formulary Coverage - Policy: Immunologicals – Ebglyss Prior Authorization Policy
+a) Patient has tried at least one medium-, medium-high, high-, and/or
+super-high-potency prescription topical corticosteroid; AND
+b) This topical corticosteroid was applied daily for at least 28 consecutive
+days; AND
+c) Inadequate efficacy was demonstrated with this topical corticosteroid
+therapy, according to the prescriber; AND
+iv. The medication is prescribed by or in consultation with an allergist,
+immunologist, or dermatologist; OR
+B) Patient is Currently Receiving Ebglyss. Approve for 1 year if the patient
+meets BOTH of the following criteria (i and ii):
+i. Patient has already received at least 4 months of therapy with Ebglyss;
+AND
+Note: A patient who has received < 4 months of therapy or who is
+restarting therapy with Ebglyss should be considered under criterion 1A
+(Atopic Dermatitis, Initial Therapy).
+ii. Patient has responded to therapy as determined by the prescriber.
+Note: Examples of a response to Ebglyss therapy are marked
+improvements in erythema, induration/papulation/edema, excoriations,
+and lichenification; reduced pruritus; decreased requirement for other
+topical or systemic therapies; reduced body surface area affected with
+atopic dermatitis; or other responses observed.
+CONDITIONS NOT COVERED
+• Ebglyss® (lebrikizumab-lbkz subcutaneous injection – Eli Lilly)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Asthma. Ebglyss is not indicated for the treatment of asthma.1 Several studies,
+including one Phase III study, evaluated Ebglyss for the treatment of adults with
+asthma with mixed results.8-11 Two replicate Phase IIb studies (designed as
+Phase III, but host-cell impurity in the study drug material was discovered),
+LUTE and VERSE (published) [n = 463] evaluated Ebglyss in patients with
+uncontrolled asthma despite treatment with medium- to high-dose inhaled
+corticosteroids and a second asthma controller.10 Following a mean 24 weeks of
+treatment, Ebglyss significantly reduced asthma exacerbations vs. placebo in
+patients with in patients who had baseline periostin levels > 50 ng/mL.
+However, in the Phase III study, STRETTO (published) [n = 310], Ebglyss did
+not significantly improve forced expiratory volume in 1 second compared with
+placebo in patients with mild to moderate asthma.11 In the Phase III LAVOLTA I
+and II trials, Ebglyss was evaluated in adults with uncontrolled asthma despite
+standard therapy.17 Ebglyss significantly reduced exacerbation rates in
+biomarker-high patients (elevated periostin or eosinophils) in LAVOLTA I, but
+the results were not consistently replicated in LAVOLTA II.
+Page 3 of 5 - Cigna National Formulary Coverage - Policy: Immunologicals – Ebglyss Prior Authorization Policy
+2. Concurrent use of Ebglyss with another Monoclonal Antibody Therapy
+(i.e., Adbry, Dupixent, Cinqair, Fasenra, Nemluvio, Nucala, Tezspire, or
+Xolair). The efficacy and safety of Ebglyss in combination with other
+monoclonal antibodies have not been established.
+3. Concurrent Use of Ebglyss with Janus Kinase Inhibitors (JAKis) [oral or
+topical]. Use of JAK inhibitors is not recommended for use in combination with
+other JAK inhibitors, biologic immunomodulators (e.g., Ebglyss), or with other
+immunosuppressants.12-15
+Note: Examples of JAK inhibitors are Cibinqo® (abrocitinib tablets), Leqselvi™
+(deuruxolitinib tablets), Rinvoq®/Rinvoq® LQ (upadacitinib tablets and oral
+solution), and Opzelura® (ruxolitinib cream).
+4. Idiopathic Pulmonary Fibrosis. Ebglyss is not indicated for the treatment of
+idiopathic pulmonary fibrosis.1 In one Phase II, randomized, placebo-controlled
+study (published) [n = 505], Ebglyss was not found to provide a benefit in
+forced vital capacity decline vs. placebo when either administered as
+monotherapy or in combination with pirfenidone.16
+REFERENCES
+1. Ebglyss® subcutaneous injection [prescribing information]. Indianapolis, IN: Eli Lilly; May 2025.
+2. Silverberg JI, Guttman-Yassky E, Thaci D, et al. Two phase 3 trials of lebrikizumab for moderate-
+to-severe atopic dermatitis. N Engl J Med. 2023;388(12):1080-1091.
+3. Simpson EL, Gooderham M, Wollenberg A, et al. Efficacy and safety of lebrikizumab in combination
+with topical corticosteroids in adolescents and adults with moderate to severe atopic dermatitis.
+JAMA Dermatol. 2023;159(2):182-191.
+4. Blauvelt A, Thyssen JP, Guttman-Yassky E, et al. Efficacy and safety of lebrikizumab in moderate-
+to-severe atopic dermatitis: 52-week results of two randomized double-blinded placebo-controlled
+phase III trials. B J Dermatol. 2023;188(6):740-748.
+5. Sidbury R, Alikhan A, Cohen DE, et al. Guidelines of care for the management of atopic dermatitis
+in adults with topical therapies. J Am Acad Dermatol. 2023;89(1):e1-e20.
+6. Davis DMR, Drucker AM, Alikhan A, et al. Guidelines of care for the management of atopic
+dermatitis in adults with phototherapy and systemic therapies. J Am Acad Dermatol.
+2024;90(2):e43-e56.
+7. Chu DK, Schneider L, Asiniwasis RN, et al. Atopic dermatitis (eczema) guidelines: 2023 American
+Academy of Allergy Asthma and Immunology/American College of Allergy, Asthma and
+Immunology Joint Task Force on practice parameters GRADE- and Institute of Medicine-based
+recommendations. Ann Allergy Asthma Immunol. 2024;132(3):274-312.
+8. Corren J, Lemanske RF, Hanania NA, et al. Lebrikizumab treatment in adults with asthma. N Engl J
+Med. 2011;365(12):1088-1098.
+9. Noonan M, Korenblat P, Mosesova S, et al. Dose-ranging study of lebrikizumab in asthmatic
+patients no receiving inhaled steroids. J Allergy Clin Immunol. 2013;132(3):567-574.
+10. Hanania NA, Noonan M, Corren J, et al. Lebrikizumab in moderate-to-severe asthma: pooled data
+from two randomized placebo-controlled studies. Thorax. 2015;70(8):748-756.
+11. Korenblat P, Kerwin E, Leshchenko I, et al. Efficacy and safety of lebrikizumab in adult patients
+with mild-to-moderate asthma no receiving inhaled corticosteroids. Respir Med. 2018;134:143-
+149.
+12. Cibinqo® tablets [prescribing information]. New York, NY: Pfizer; January 2025.
+13. Rinvoq® tablets [prescribing information]. North Chicago, IL: AbbVie; April 2025.
+14. Opzelura® cream [prescribing information]. Wilmington, DE: Incyte; August 2024.
+15. Leqselvi™ tablets [prescribing information]. Whippany, NJ: Sun/Halo; July 2025.
+16. Maher TM, Costabel U, Glassberg MK, et al. Phase 2 trial to assess lebrikizumab in patients with
+idiopathic pulmonary fibrosis. Eur Respir J. 2021;57(2):1902442.
+Page 4 of 5 - Cigna National Formulary Coverage - Policy: Immunologicals – Ebglyss Prior Authorization Policy
+17. Hanania NA, Korenblat P, Chaptman KR, et al. Efficacy and safety of lebrikizumab in patients with
+uncontrolled asthma (LAVOLTA I and LAVOLTA II): replicate, Phase 3, randomized, double-blind,
+placebo-controlled trials. Lancet. 2016;4(10):781-796.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 09/18/2024
+Annual No criteria changes. 09/03/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 5 of 5 - Cigna National Formulary Coverage - Policy: Immunologicals – Ebglyss Prior Authorization Policy

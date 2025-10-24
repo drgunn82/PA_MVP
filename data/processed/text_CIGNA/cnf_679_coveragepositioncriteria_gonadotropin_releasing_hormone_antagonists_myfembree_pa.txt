@@ -1,0 +1,190 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Gonadotropin-Releasing Hormone Antagonists – Myfembree Prior
+Authorization Policy
+• Myfembree® (relugolix, estradiol, and norethindrone acetate tablets
+− Sumitomo Pharma)
+REVIEW DATE: 04/23/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Myfembree, an oral gonadotropin-releasing hormone (GnRH) receptor antagonist
+with added estrogen and progestin therapy, is indicated for the following uses:1
+• Management of heavy menstrual bleeding associated with uterine
+leiomyomas (fibroids) in premenopausal women.
+• Management of moderate to severe pain associated with endometriosis in
+premenopausal women.
+Limitation of Use. Use should be limited to 24 months due to the risk of continued
+bone loss which may not be reversible.1
+Disease Overview
+Page 1 of 5 - Cigna National Formulary Coverage - Policy:Gonadotropin-Releasing Hormone Antagonists –
+Myfembree Prior Authorization Policy
+Uterine fibroids (leiomyomas) are benign tumors. They are the most frequent
+gynecologic benign disease.2 Fibroids can be asymptomatic or cause symptoms;
+symptoms generally present as abnormal (heavy) uterine bleeding or pelvic
+pain/pressure. Heavy menstrual bleeding can cause associated problems, such as
+iron deficiency anemia. The actual prevalence of uterine fibroids is difficult to
+ascertain since many patients are asymptomatic, but it is estimated that fibroids can
+be detected in up to 80% of women by 50 years of age.3
+Endometriosis is a condition where the tissues similar to the lining of the uterus (or
+endometrium) migrate outside of the womb to other body sites.4,5 The migrated
+tissues are generally found in the pelvic cavity (e.g., peritoneum, uterosacral
+ligaments, rectal-vaginal septum, or any spaces between the bladder, uterus, vagina,
+and rectum) and can attach to any of the female reproductive organs (e.g., ovaries,
+fallopian tubes). The migrated tissue is less commonly found outside the pelvic cavity
+or on the intestines, colon, appendix or rectum. Endometriosis impacts up to 10%
+of patients of reproductive age in the US.5
+Guidelines
+Abnormal Uterine Bleeding/Uterine Leiomyomata (Fibroids)
+Myfembree is addressed in the American College of Obstetrician and Gynecologists
+(ACOG) guidelines on the management of symptomatic uterine leiomyomas (2021)
+as a medication under clinical study (prior to FDA approval).6 Medical treatment
+options for uterine leiomyomas include agents that address only bleeding symptoms,
+such as GnRH antagonists, levonorgestrel-releasing intrauterine devices,
+contraceptive steroids, and tranexamic acid. Agents that reduce both bleeding and
+leiomyoma size include GnRH agonists and selective progesterone receptor
+modulators (SPRMs). SPRMs are not approved in the US for the treatment of uterine
+leiomyomas. An oral GnRH antagonist, such as Oriahnn or Myfembree, can be
+considered for the treatment of abnormal uterine bleeding related to leiomyomas for
+up to 2 years. The hormonal add-back therapy is indicated to offset the
+hypoestrogenic effects of the product.
+Endometriosis
+According to the ACOG practice bulletin on the management of endometriosis (2010,
+reaffirmed 2018), empiric therapy with a 3-month course of a GnRH agonist is
+appropriate after an appropriate pretreatment evaluation (to exclude other causes of
+chronic pelvic pain) and failure of initial treatment with oral contraceptives and
+nonsteroidal anti-inflammatory drugs (NSAIDs).7
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Myfembree.
+All approvals are provided for the duration noted below. In cases where the approval
+is authorized in months, 1 month is equal to 30 days. Because of the specialized
+skills required for evaluation and diagnosis of patients treated with Myfembree as
+well as the monitoring required for adverse events and long-term efficacy, approval
+3 Pages - Cigna National Formulary Coverage - Policy:Gonadotropin-Releasing Hormone Antagonists – Myfembree
+Prior Authorization Policy
+for certain diagnoses requires Myfembree to be prescribed by or in consultation with
+a physician who specializes in the condition being treated.
+• Myfembree® (relugolix, estradiol, and norethindrone acetate tablets
+- Sumitomo Pharma)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Uterine Fibroids (Leiomyomas). Approve for up to 24 months if the patient
+meets ALL of the following (A, B, C, D, E, F, and G):
+Note: Approve for up to 24 months. For example, a patient who has already
+received 6 months of treatment with Myfembree should be approved for a
+duration of 18 months.
+A) Patient is ≥ 18 years of age; AND
+B) Patient is PREmenopausal (before menopause); AND
+C) Patient is experiencing heavy menstrual bleeding associated with the uterine
+fibroids; AND
+D) Uterine fibroids have been confirmed by a pelvic ultrasound, including
+transvaginal ultrasonography or sonohysterography; hysteroscopy; or
+magnetic resonance imaging; AND
+E) Patient has tried at least one other therapy for the medical management of
+heavy menstrual bleeding; AND
+Note: Examples of therapy for the medical management of heavy menstrual
+bleeding include combination estrogen-progestin contraceptives (oral tablets,
+vaginal ring, transdermal patch), levonorgestrel-releasing intrauterine
+systems (e.g., Mirena, Liletta), oral progesterone (e.g.,
+medroxyprogesterone acetate), depo-medroxyprogesterone injection,
+tranexamic acid tablets.
+F) Patient has not previously received a continuous regimen of 24 months or
+longer of therapy with Myfembree or Oriahnn; AND
+G) The medication is prescribed by or in consultation with an obstetrician-
+gynecologist or a health care practitioner who specializes in the treatment of
+women’s health.
+2. Endometriosis. Approve for up to 24 months if the patient meets ALL of the
+following criteria (A, B, and C):
+Note: Approve for up to 24 months. For example, a patient who has already
+received 6 months of treatment with Myfembree should be approved for a
+duration of 18 months.
+A) Patient is ≥ 18 years of age; AND
+B) Patient is PREmenopausal (before menopause); AND
+3 Pages - Cigna National Formulary Coverage - Policy:Gonadotropin-Releasing Hormone Antagonists – Myfembree
+Prior Authorization Policy
+C) Patient has previously tried ONE of the following, unless contraindicated (i or
+ii):
+Note: An exception to this requirement can be made if the patient has
+previously used a gonadotropin-releasing hormone agonist (e.g., Lupron
+Depot [leuprolide depot injection]) or Orilissa (elagolix tablets).
+i. A contraceptive (e.g., combination oral contraceptives, levonorgestrel-
+releasing intrauterine systems [e.g., Mirena {levonorgestrel intrauterine
+system}, Liletta {levonorgestrel intrauterine system}], depo-
+medroxyprogesterone injection); OR
+ii. An oral progesterone (e.g., norethindrone tablets).
+CONDITIONS NOT COVERED
+• Myfembree® (relugolix, estradiol, and norethindrone acetate tablets
+- Sumitomo Pharma)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Heavy Menstrual Bleeding not associated with Uterine Fibroids.
+Myfembree has shown efficacy in reducing heavy menstrual bleeding only in
+women with uterine fibroids.1
+REFERENCES
+1. Myfembree® tablets [prescribing information]. Marlborough, MA: Sumitomo; July 2024.
+2. Neri M, Melis G, Giancane E, et al. Clinical utility of elagolix as an oral treatment for women with
+uterine fibroids: A short report on the emerging efficacy data. Int J Womens Health.
+2019;11:535-546.
+3. De La Cruz MS, Buchanan EM. Uterine Fibroids: Diagnosis and Treatment. Am Fam Physician.
+2017;95(2):100-107.
+4. Endometriosis. Endometriosis Foundation of America. Updated 9/28/2022. Available at:
+https://www.endofound.org/endometriosis. Accessed on April 18, 2025.
+5. Global Forum. Endometriosis.org. Available at: http://endometriosis.org/endometriosis/.
+Accessed on April 18, 2025.
+6. American College of Obstetricians and Gynecologists. ACOG Practice Bulletin. Management of
+Symptomatic Uterine Leiomyomas. No. 228. June 2021. Available at:
+https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2021/06/management-
+of-symptomatic-uterine-leiomyomas. Accessed on April 18, 2025.
+7. Management of Endometriosis. ACOG Practice Bulletin. Clinical Management Guidelines for
+Obstetrician-Gynecologists. Number 114. 2010 (reaffirmed 2018). Obstet & Gynecol.
+2010;116(1):223-236.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Early annual Endometriosis: Changed the wording from “used” to “tried” 04/26/2023
+revision regarding previous therapies. Note was changed to “An exception to
+3 Pages - Cigna National Formulary Coverage - Policy:Gonadotropin-Releasing Hormone Antagonists – Myfembree
+Prior Authorization Policy
+this requirement can be made if the patient has previously used a
+gonadotropin-releasing hormone agonist (e.g., Lupron Depot
+[leuprolide depot injection]) or Orilissa (elagolix tablets)”; previously,
+the Note read: An exception to this requirement can be made if the
+patient has previously used a gonadotropin-releasing hormone agonist
+(e.g., Lupron Depot) or antagonist (e.g., Orilissa).
+Annual No criteria changes. 04/19/2024
+Revision
+Annual No criteria changes. 04/23/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Gonadotropin-Releasing Hormone Antagonists – Myfembree
+Prior Authorization Policy

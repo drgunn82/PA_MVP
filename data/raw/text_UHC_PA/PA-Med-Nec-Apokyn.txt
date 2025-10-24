@@ -1,0 +1,86 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2228-5
+Program Prior Authorization/Medical Necessity
+Medication Apokyn® (apomorphine) injection
+P&T Approval Date 12/2020, 12/2021, 6/2023, 6/2024, 6/2025
+Effective Date 9/1/2025
+1. Background:
+Apokyn is a non-ergoline dopamine agonist indicated for the acute, intermittent treatment of
+hypomobility, “off” episodes (“end-of-dose wearing off” and unpredictable “on/off”
+episodes) associated with advanced Parkinson’s disease.
+Coverage will be provided for members who meet the following criteria.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Apokyn will be approved based on all of the following criteria:
+a. Diagnosis of Parkinson’s disease
+-AND-
+b. Apokyn will be used as intermittent treatment for OFF episodes
+-AND-
+c. Prescribed by or in consultation with a neurologist or specialist in the treatment of
+Parkinson’s disease
+-AND-
+d. Patient is currently on a stable dose of a carbidopa/levodopa-containing medication
+and will continue receiving treatment with a carbidopa/levodopa-containing
+medication while on therapy
+-AND-
+e. Patient continues to experience ≥ 2 hours of OFF time per day despite optimal
+management of carbidopa-levodopa therapy including both of the following:
+(1) Taking carbidopa/levodopa on an empty stomach or at least one half-hour or
+more before or one hour after a meal or avoidance of high protein diet
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+1
+(2) Dose and dosing interval optimization
+-AND-
+f. History of failure, contraindication, or intolerance to two anti-Parkinson’s disease
+therapy from the following adjunctive pharmacotherapy classes (trial must be from
+two different classes):
+(1) Dopamine agonists (e.g., pramipexole, ropinirole)
+(2) Catechol-O-methyl transferase (COMT) inhibitors (e.g., entacapone)
+(3) Monoamine oxidase (MAO) B inhibitors (e.g., rasagiline, selegiline)
+-AND-
+g. History of failure, contraindication, or intolerance to Inbrija (levodopa) inhalation
+powder
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Apokyn will be approved based on the following criterion:
+a. Documentation of positive clinical response to Apokyn therapy
+-AND-
+b. Patient will continue to receive treatment with a carbidopa/levodopa-containing
+medication
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-
+10) and/or claim logic. Use of automated approval and re-approval processes varies by
+program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Apokyn [package insert]. Rockville, MD: MDD US Operations; June 2022.
+2. Carbone F, Djamshidian A, Seppi K, Poewe W. Apomorphine for Parkinson's Disease:
+Efficacy and Safety of Current and New Formulations. CNS Drugs. 2019;33(9):905-918.
+© 2025 UnitedHealthcare Services, Inc.
+2
+3. Liang, TW, Tarsy D. UpToDate. Medical management of motor fluctuations and
+dyskinesia in Parkinson’s disease.2025 Apr 15. Accessed May 5, 2025.
+4. Olanow, CW et al. Apomorphine sublingual film for off episodes in Parkinson’s disease:
+a randomized, double-blind, placebo-controlled phase 3 study. The Lancet Neurology.
+2020; 19(2): 135-144.
+5. Paik J. Levodopa Inhalation Powder: A Review in Parkinson's Disease. Drugs.
+2020;80(8):821-828.
+Program Prior Authorization/Medical Necessity – Apokyn (apomorphine)
+injection
+Change Control
+12/2020 New program.
+12/2021 Annual review with no changes to clinical criteria. Updated references.
+6/2023 Annual review with no changes to clinical criteria. Updated references.
+6/2024 Annual review. Updated initial authorization duration to 12 months.
+Updated references.
+6/2025 Annual review. Removed requirement to step through discontinued
+product Kynmobi. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+3

@@ -1,0 +1,115 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Diabetes – Ozempic Drug Quantity Management Policy – Per Days
+• Ozempic® (semaglutide subcutaneous injection – Novo Nordisk)
+REVIEW DATE: 10/30/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Ozempic, a glucagon-like peptide 1 (GLP-1) agonist, is indicated:1
+• As an adjunct to diet and exercise to improve glycemic control in adults
+with type 2 diabetes mellitus.
+• To reduce the risk of major adverse cardiovascular events
+(cardiovascular death, non-fatal myocardial infarction or non-fatal stroke) in
+adults with type 2 diabetes mellitus and established cardiovascular disease.
+Dosing
+The recommended initial dose of Ozempic is 0.25 mg administered as a
+subcutaneous (SC) injection once weekly (QW) for 4 weeks.1 The 0.25 mg dose is
+not effective for glycemic control, but is intended for treatment initiation. Increase
+from 0.25 mg QW to 0.5 mg QW after 4 weeks. If additional glycemic control is
+needed after 0.5 mg SC QW for 4 weeks, the dose may be increased to 1 mg SC
+QW. Similarly, if additional glycemic control is needed after 1 mg SC QW for 4
+weeks, the dose may be increased to 2 mg SC QW. The maximum recommended
+dose is 2 mg SC QW. Ozempic should be administered on the same day each
+week, without regard to meals. The day of weekly administration may be changed
+if needed, provided at least 2 days have passed (> 48 hours) since the last dose. If
+the patient misses a dose, it should be administered as soon as possible within 5
+Page 1 of 3 - Cigna National Formulary Coverage - Policy:Diabetes – Ozempic Drug Quantity Management Policy
+– Per Days
+days after the missed dose. If more than 5 days have passed, the dose should be
+skipped and administered on the next regularly scheduled day. The regular QW
+dosing schedule can then be resumed in either case.
+Availability
+Ozempic is supplied as single-dose pens in the following strengths:1
+• 2 mg/1.5 mL pen (4 doses of 0.25 mg and 2 doses of 0.5 mg OR 4 doses of
+0.5 mg) [discontinued]
+• 2 mg/1.5 mL pen (2 doses of 1 mg, supplied in cartons of 2 pens)
+[discontinued]
+• 2 mg/3 mL pen (4 doses of 0.25 mg and 2 doses of 0.5 mg OR 4 doses of
+0.5 mg)
+• 4 mg/3 mL pen (4 doses of 1 mg)
+• 8 mg/3 mL pen (4 doses of 2 mg)
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of Ozempic. There are no overrides to the Per Days
+quantity limits outlined below.
+Drug Quantity Limits
+Product Strength and Form Retail Home Delivery
+Maximum Quantity Maximum Quantity
+Per 28 Days Per 84 Days
+Ozempic® 0.25 mg and 0.5 mg dose 1.5 mL (1 pen) 4.5 mL (3 pens)
+(semaglutide pen
+SC injection) (2 mg/1.5 mL)
+[discontinued]
+0.25 mg and 0.5 mg dose 3 mL (1 pen) 9 mL (3 pens)
+pen
+(2 mg/3 mL)
+1 mg dose pen 3 mL (2 pens) 9 mL (6 pens)
+(2 mg/1.5 mL)
+[discontinued]
+1 mg dose pen 3 mL (1 pen) 9 mL (3 pens)
+(4 mg/3 mL)
+2 mg dose pen 3 mL (1 pen) 9 mL (3 pens)
+(8 mg/3 mL)
+SC – Subcutaneous.
+Diabetes – Ozempic Drug Quantity Management Policy – Per Days
+product(s) is(are) covered as medically necessary when the following
+criteria is(are) met. Any other exception is considered not medically
+necessary.
+CRITERIA
+Ozempic (all strengths)
+No overrides recommended.
+3 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Ozempic Drug Quantity Management Policy –
+Per Days
+REFERENCES
+1. Ozempic® subcutaneous injection [prescribing information]. Plainsboro, NJ: Novo Nordisk;
+September 2023.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy New policy created to add additional quantity limits to approve ONE 07/17/2024
+claim collectively for ONE glucagon-like peptide-1 (GLP-1) agonist or
+GLP-1/glucose-dependent insulinotropic polypeptide (GIP) agonist
+every 21 days at retail or home delivery. New clinical overrides
+apply to these limits. Existing “Per Days” quantity limits were not
+changed and no overrides apply.
+Early Annual The quantity limit of ONE claim of ONE glucagon-like peptide-1 (GLP- 10/30/2024
+Revision 1) agonist or GLP-1/glucose-dependent insulinotropic polypeptide
+(GIP) agonist to be dispensed every 21 days at retail or home
+delivery was removed from this policy (refer to the “Diabetes –
+Glucagon-Like Peptide-1 Agonists Drug Quantity Management Policy
+– Claim Per Days” document for additional information).
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. ©
+2024 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Ozempic Drug Quantity Management Policy –
+Per Days

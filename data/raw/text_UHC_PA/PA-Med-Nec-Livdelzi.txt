@@ -1,0 +1,76 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 2356-1
+Program Prior Authorization/Medical Necessity
+Medication Livdelzi® (seladelpar)
+P&T Approval Date 12/2024
+Effective Date 3/1/2025
+1. Background:
+Livdelzi (seladelpar) is a peroxisome proliferator-activated receptor (PPAR)-delta agonist
+indicated for the treatment of primary biliary cholangitis (PBC) in combination with
+ursodeoxycholic acid (UDCA) in adults who have an inadequate response to UDCA, or as
+monotherapy in patients unable to tolerate UDCA.
+This indication is approved under accelerated approval based on a reduction of alkaline
+phosphatase (ALP). Improvement in survival or prevention of liver decompensation events have
+not been demonstrated. Continued approval for this indication may be contingent upon
+verification and description of clinical benefit in confirmatory trial(s).1
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Livdelzi will be approved based on all of the following criteria:
+a. Diagnosis of primary biliary cholangitis
+-AND-
+b. Patient does not have decompensated cirrhosis
+-AND-
+c. One of the following^:
+(1) Both of the following:
+(a) Used in combination with ursodeoxycholic acid (e.g., Urso, ursodiol)
+(b) Patient has failed to achieve an alkaline phosphatase (ALP) level of less than
+1.67 times the upper limit of normal after at least 12 consecutive months of
+treatment with ursodeoxycholic acid (e.g., Urso, ursodiol)
+-OR-
+(2) History of contraindication or intolerance to ursodeoxycholic acid (e.g., Urso,
+ursodiol)
+-AND-
+© 2024 UnitedHealthcare Services Inc.
+1
+d. Patient is not receiving Livdelzi in combination with Iqirvo (elafibranor) or Ocaliva
+(obeticholic acid)
+-AND-
+e. Prescribed by one of the following:
+(1) Hepatologist
+(2) Gastroenterologist
+Initial authorization will be issued for 12 months
+B. Reauthorization
+1. Livdelzi will be approved based on all the following criteria:
+a. Submission of medical records (e.g., laboratory values) documenting a reduction in
+ALP level from pre-treatment baseline (i.e., prior to Livdelzi therapy)
+-AND-
+b. Patient does not have decompensated cirrhosis
+-AND-
+c. Patient is not receiving Livdelzi in combination with Iqirvo (elafibranor) or Ocaliva
+(obeticholic acid)
+-AND-
+d. Prescribed by one of the following:
+(1) Hepatologist
+(2) Gastroenterologist
+Reauthorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+^Tried/failed alternative(s) are supported by FDA labeling.
+3. Additional Clinical Rules:
+• Supply limits may be in place.
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+© 2024 UnitedHealthcare Services Inc.
+2
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+4. References:
+1. Livdelzi [package insert]. Foster City, CA: Gilead Sciences, Inc.; August 2024.
+Program Prior Authorization/Medical Necessity – Livdelzi (seladelpar)
+Change Control
+Date Change
+12/2024 New program.
+© 2024 UnitedHealthcare Services Inc.
+3

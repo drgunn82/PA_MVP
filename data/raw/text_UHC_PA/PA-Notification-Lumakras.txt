@@ -1,0 +1,148 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1360-4
+Program Prior Authorization/Notification
+Medication Lumakras™ (sotorasib)
+P&T Approval Date 7/2021, 7/2022, 7/2023, 7/2024
+Effective Date 10/1/2024
+1. Background:
+Lumakras (sotorasib) is an inhibitor of the RAS GTPase family indicated for the treatment of
+adult patients with KRAS G12C-mutated locally advanced or metastatic non-small cell lung
+cancer (NSCLC) who have received at least one prior systemic therapy. The National
+Comprehensive Cancer Network (NCCN) recommends the use of Lumakras as subsequent
+therapy for the treatment of KRAS G12C-mutated recurrent, advanced, or metastatic NSCLC.
+NCCN also recommends the use of Lumakras as subsequent therapy for the treatment of KRAS
+G12C-mutated pancreatic adenocarcinoma, ampullary adenocarcinoma, colon cancer, and rectal
+cancer.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Lumakras will be approved based on the following criterion:
+a. Member is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Non-Small Cell Lung Cancer (NSCLC)
+1. Initial Authorization
+a. Lumakras will be approved based on all of the following criteria:
+(1) Diagnosis of non-small cell lung cancer (NSCLC)
+-AND-
+© 2024 UnitedHealthcare Services Inc.
+1
+(2) Disease is one of the following:
+(a) Recurrent
+(b) Advanced
+(c) Metastatic
+-AND-
+(3) Tumor is KRAS G12C-mutated
+-AND-
+(4) Patient has received at least one prior systemic therapy (e.g., immune
+checkpoint inhibitor, platinum-based chemotherapy)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Lumakras will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Lumakras
+therapy
+Authorization will be issued for 12 months.
+C. Pancreatic Adenocarcinoma
+1. Initial Authorization
+a. Lumakras will be approved based on all of the following criteria:
+(1) Diagnosis of pancreatic adenocarcinoma
+-AND-
+(2) Disease is one of the following:
+(a) Recurrent
+(b) Advanced
+(c) Metastatic
+-AND-
+(3) Tumor is KRAS G12C-mutated
+-AND-
+(4) Patient has received at least one prior systemic therapy (e.g., immune
+checkpoint inhibitor, platinum-based chemotherapy)
+© 2024 UnitedHealthcare Services Inc.
+2
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Lumakras will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Lumakras
+therapy
+Authorization will be issued for 12 months.
+D. Ampullary Adenocarcinoma
+1. Initial Authorization
+a. Lumakras will be approved based on all of the following criteria:
+(1) Diagnosis of ampullary adenocarcinoma
+-AND-
+(2) Disease is one of the following:
+(a) Recurrent
+(b) Advanced
+(c) Metastatic
+-AND-
+(3) Tumor is KRAS G12C-mutation positive
+-AND-
+(4) Patient has received at least one prior systemic therapy (e.g., immune
+checkpoint inhibitor, platinum-based chemotherapy)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Lumakras will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Lumakras
+therapy
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services Inc.
+3
+E. Colorectal Cancer
+1. Initial Authorization
+a. Lumakras will be approved based on all of the following criteria:
+(1) Diagnosis of one of the following:
+(a) Colon Cancer
+(b) Rectal Cancer
+-AND-
+(2) Disease is one of the following:
+(a) Recurrent
+(b) Advanced
+(c) Metastatic
+-AND-
+(3) Tumor is KRAS G12C-mutation positive
+-AND-
+(4) Patient has received at least one prior systemic therapy (e.g., immune
+checkpoint inhibitor, platinum-based chemotherapy)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Lumakras will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Lumakras
+therapy
+Authorization will be issued for 12 months.
+F. NCCN Recommended Regimens
+a. The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+© 2024 UnitedHealthcare Services Inc.
+4
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Lumakras [package insert]. Thousand Oaks, CA: Amgen, Inc; April 2023.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+www.nccn.org. May 16, 2024.
+Program Prior Authorization/Notification – Lumakras (sotorasib)
+Change Control
+7/2021 New program.
+7/2022 Annual review. Expanded coverage criteria to include “recurrent”
+disease per current NCCN guidelines. Added state mandate disclaimer
+and updated references.
+7/2023 Annual review. Updated background and criteria to include coverage of
+pancreatic adenocarcinoma per NCCN guidelines. Updated references.
+7/2024 Annual review. Added criteria for ampullary adenocarcinoma, colon
+cancer, and rectal cancer per NCCN guidelines. Updated background
+and references.
+© 2024 UnitedHealthcare Services Inc.
+5

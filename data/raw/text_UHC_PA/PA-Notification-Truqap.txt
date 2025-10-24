@@ -1,0 +1,78 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1429-2
+Program Prior Authorization/Notification
+Medication TruqapTM (capivasertib)
+P&T Approval Date 1/2024, 1/2025
+Effective Date 4/1/2025
+1. Background:
+Truqap (capivasertib) is a kinase inhibitor indicated, in combination with fulvestrant, for the
+treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth
+factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer with one or
+more PIK3CA/AKT1/PTEN-alterations following progression on at least one endocrine-
+based regimen in the metastatic setting or recurrence on or within 12 months of completing
+adjuvant therapy.
+2. Coverage Criteria a:
+A. Patients less than 19 years of age
+1. Truqap will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Breast Cancer
+1. Initial Authorization
+a. Truqap will be approved based on all of the following criteria:
+(1) Diagnosis of breast cancer
+-AND-
+(2) One of the following:
+(a) Locally advanced
+(b) Recurrent unresectable (local or regional)
+(c) Metastatic
+-AND-
+(3) Disease is hormone receptor (HR)-positive
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+1
+(4) Disease is human epidermal growth factor receptor 2 (HER2)-negative
+-AND-
+(5) Presence of one or more PIK3CA/AKT1/PTEN-alterations
+-AND-
+(6) One of the following:
+(a) Has progressed on at least one endocrine-based regimen in the metastatic
+setting (e.g., anastrozole, letrozole, exemestane, tamoxifen)
+(b) Recurrence on or within 12 months of completing adjuvant therapy
+-AND-
+(7) Used in combination with fulvestrant
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Truqap will be approved based on both of the following criteria:
+(1) Patient does not show evidence of progressive disease while on Truqap therapy
+-AND-
+(2) Used in combination with fulvestrant
+Authorization will be issued for 12 months.
+C. NCCN Recommended Regimens
+1. The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-
+10) and/or claim logic. Use of automated approval and re-approval processes varies by
+program and/or therapeutic class.
+© 2025 UnitedHealthcare Services, Inc.
+2
+• Supply limits may be in place.
+4. References:
+1. Truqap [package insert]. Wilmington, DE: Astra Zeneca; September 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org/professionals/drug_compendium/content/contents.asp. Accessed
+November 25, 2024.
+Program Prior Authorization/Notification - TruqapTM (capivasertib)
+Change Control
+1/2024 New program
+1/2025 Annual review. Added ‘recurrent unresectable’ to disease type of the
+clinical criteria. Added reference.
+© 2025 UnitedHealthcare Services, Inc.
+3

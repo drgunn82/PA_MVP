@@ -1,0 +1,67 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2310-3
+Program Prior Authorization/Medical Necessity
+Medication Vowst™ (fecal microbiota spores, live-brpk)
+P&T Approval Date 7/2023, 12/2023, 12/2024
+Effective Date 3/1/2025
+1. Background:
+Vowst is indicated to prevent the recurrence of Clostridioides difficile infection (CDI) in
+individuals 18 years of age and older following antibacterial treatment for recurrent CDI (rCDI).
+2. Coverage Criteriaa:
+A. Authorization
+1. Vowst will be approved based on all of the following criteria:
+a. Diagnosis of recurrent Clostridioides difficile infection (rCDI) as defined by both of
+the following:
+(1) Presence of diarrhea defined as a passage of 3 or more loose bowel movements
+within a 24-hour period for 2 consecutive days
+(2) A positive stool test for Clostridioides difficile toxin
+-AND-
+b. Patient is 18 years of age or older
+-AND-
+c. Patient has had one or more recurrence(s) of CDI following an initial episode of
+CDI
+-AND-
+d. Patient has had a failure, contraindication, or intolerance to Rebyota for the
+prevention of rCDI
+-AND-
+e. Patient has completed at least 10 days of one of the following antibiotic therapies
+for rCDI 2 to 4 days prior to initiating Vowst^:
+(1) Oral vancomycin
+(2) Dificid (fidaxomicin)
+-AND-
+© 2024 UnitedHealthcare Services Inc.
+1
+f. Previous episode of CDI is under control [e.g., less than 3 unformed/loose (i.e.,
+Bristol Stool Scale type 6-7) stools/day for 2 consecutive days]
+-AND-
+g. Patient will drink magnesium citrate on the day before and at least 8 hours prior to
+taking the first dose of Vowst
+-AND-
+h. Prescribed by or in consultation with one of the following:
+(1) Gastroenterologist
+(2) Infectious disease specialist
+Authorization will be issued for 1 month
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+^Tried/failed alternative(s) are supported by FDA labeling.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may apply.
+4. References:
+1. Vowst [package insert]. Cambridge, MA: Seres Therapeutics, Inc.; June 2024.
+Program Prior Authorization/Medical Necessity – Vowst (fecal microbiota
+spores, live-brpk)
+Change Control
+Date Change
+7/2023 New program.
+12/2023 Updated criteria to lower the number of required recurrent CDI.
+Updated antibiotic course requirement. Added requirement of failure,
+contraindication, or intolerance to Rebyota.
+12/2024 Annual review. Updated reference.
+© 2024 UnitedHealthcare Services Inc.
+2

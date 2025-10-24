@@ -1,0 +1,84 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2066-10
+Program Prior Authorization/Medical Necessity
+Medication Natpara® (parathyroid hormone analog)
+P&T Approval Date 10/2015, 9/2016, 9/2017, 9/2018, 9/2019, 9/2020, 9/2021, 9/2022,
+9/2023, 9/2024
+Effective Date 11/17/2024
+1. Background:
+Natpara® is a parathyroid hormone indicated as an adjunct to calcium and vitamin D to control
+hypocalcemia in patients with hypoparathyroidism.
+Limitations of Use:
+Because of the potential risk of osteosarcoma, Natpara is recommended only for patients
+o
+who cannot be well-controlled on calcium supplements and active forms of vitamin D
+alone. It is available only through a restricted program called the Natpara REMS Program.
+Natpara was not studied in patients with hypoparathyroidism caused by calcium-sensing
+o
+receptor mutations.
+Natpara was not studied in patients with acute post-surgical hypoparathyroidism.
+o
+2. Coverage Criteriaa:
+A. Hypoparathyroidism
+1. Initial Therapy
+a. Natpara will be approved based on all of the following criteria:
+(1) Diagnosis of hypocalcemia resulting from chronic hypoparathyroidism
+-AND-
+(2) Patient is currently on adequate supplemental calcium and active vitamin D
+(e.g., calcitriol) therapy as evidenced by serum calcium (albumin corrected) >
+7.5 mg/dL
+-AND-
+(3) Prescribed by one of the following:
+a. Endocrinologist
+b. Nephrologist
+Authorization will be issued for 12 months
+© 2024 UnitedHealthcare Services, Inc.
+1
+2. Reauthorization
+a. Natpara will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response [e.g., total serum calcium level
+(albumin corrected) within the lower half of the normal range (approximately 8
+to 8.5 mg/dL]
+-AND-
+(2) Patient continues to take concomitant calcium supplementation that is sufficient
+to meet daily requirements
+-AND-
+(3) Prescribed by one of the following:
+a. Endocrinologist
+b. Nephrologist
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+4. References:
+1. Natpara® [package insert]. Lexington, MA: Takeda Pharmaceuticals U.S.A., Inc.; February 2023.
+2. Mannstadt, M, Clarke, BL, Vokes, T, et al. Efficacy and safety of recombinant human
+parathyroid hormone (1-84) in hypoparathyroidism (REPLACE): a double-blind, placebo-
+controlled, randomized, phase 3 study. The Lancet Diabetes & Endocrinology. 2013
+Dec;1(4):275-83. PMID: 24622413
+3. Goltzman, David. Hypoparathyroidism. In: Post TW, ed. UpToDate. UpToDate; 2023. Accessed
+July 26, 2024.
+Program Prior Authorization/Medical Necessity - Natpara (parathyroid hormone analog)
+Change Control
+10/2015 New program.
+9/2016 Annual Update. Updated references.
+9/2017 Annual review. Removed medical record submission requirement. Removed
+© 2024 UnitedHealthcare Services, Inc.
+2
+requirement of concomitant active vitamin D therapy for reauthorization.
+Updated references.
+9/2018 Annual review with no changes to coverage criteria.
+9/2019 Annual review with no changes to coverage criteria. Updated reference.
+9/2020 Annual review with no changes to coverage criteria. Updated reference.
+9/2021 Annual review with no changes to coverage criteria. Updated references.
+9/2022 Annual review with no changes to coverage criteria. Updated references.
+9/2023 Annual review with no changes to coverage criteria. Updated references.
+9/2024 Annual review. Updated initial authorization criteria and initial authorization
+duration to 12 months. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+3

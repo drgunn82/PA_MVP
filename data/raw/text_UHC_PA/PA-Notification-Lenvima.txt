@@ -1,0 +1,210 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1157-13
+Program Prior Authorization/Notification
+Medication Lenvima® (lenvatinib)
+P&T Approval Date 4/2015, 4/2016, 7/2016, 7/2017, 7/2018, 11/2018, 11/2019, 11/2020,
+11/2021, 2/2022, 2/2023, 2/2024, 2/2025
+Effective Date 5/1/2025
+1. Background:
+Lenvima (lenvatinib) is a kinase inhibitor indicated for the treatment of patients with locally
+recurrent or metastatic, progressive, radioactive iodine-refractory differentiated thyroid cancer,
+in combination with Afinitor (everolimus), for the treatment of patients with advanced renal cell
+carcinoma (RCC) following one prior anti-angiogenic therapy, in combination with Keytruda
+(pembrolizumab), for the first-line treatment of patients with advanced RCC, for the first-line
+treatment of patients with unresectable hepatocellular carcinoma, and in combination with
+pembrolizumab, for the treatment of patients with advanced endometrial carcinoma that is not
+microsatellite instability-high (MSI-H) or mismatch repair deficient (pMMR), who have disease
+progression following prior systemic therapy in any setting and are not candidates for curative
+surgery or radiation.
+In addition, the National Cancer Comprehensive Network (NCCN) also recommends Lenvima for
+the treatment of medullary thyroid carcinoma in patients who have experienced disease
+progression while on Caprelsa (vandetanib) or Cometriq (cabozantinib), as a systemic therapy for
+recurrent adenoid cystic carcinoma, and for the treatment of metastatic hepatocellular carcinoma,
+thymic carcinoma, and cutaneous melanoma.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of 19
+years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or under
+some circumstances. Some states also mandate usage of other Compendium references. Where such
+mandates apply, they supersede language in the benefit document or in the notification criteria.
+© 2025 UnitedHealthcare Services, Inc.
+1
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Lenvima will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Thyroid Cancer
+1. Initial Authorization
+a. Lenvima will be approved based on all of the following criteria:
+(1) Diagnosis of differentiated thyroid cancer (DTC)
+-AND-
+(2) Disease is locally recurrent, metastatic, progressive, or symptomatic
+-AND-
+(3) Disease is radioactive iodine-refractory or ineligible
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Lenvima will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Lenvima
+therapy
+Authorization will be issued for 12 months.
+C. Renal Cell Cancer
+1. Initial Authorization
+a. Lenvima will be approved based on all of the following criteria:
+(1) Diagnosis of advanced renal cell carcinoma
+-AND-
+(2) One of the following:
+© 2025 UnitedHealthcare Services, Inc.
+2
+(a) Both of the following:
+i. History of failure, contraindication, or intolerance to prior anti-
+angiogenic therapy [e.g., Avastin (bevacizumab), Votrient (pazopanib),
+Sutent (sunitinib), Nexavar (sorafenib)].
+-AND-
+ii. Used in combination with Afinitor (everolimus)
+-OR-
+(b) Used in combination with Keytruda (pembrolizumab)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Lenvima will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Lenvima
+therapy
+-AND-
+(2) Used in combination with Afinitor (everolimus) or Keytruda (pembrolizumab)
+Authorization will be issued for 12 months.
+D. Hepatocellular Cancer
+1. Initial Authorization
+a. Lenvima will be approved based on both of the following criteria:
+(1) Diagnosis of hepatocellular carcinoma
+-AND-
+(2) Disease is unresectable or metastatic
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Lenvima will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Lenvima
+© 2025 UnitedHealthcare Services, Inc.
+3
+therapy
+Authorization will be issued for 12 months.
+E. Endometrial Carcinoma
+1. Initial Authorization
+a. Lenvima will be approved based on the following criterion:
+(1) Diagnosis of endometrial carcinoma
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Lenvima will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Lenvima
+therapy
+Authorization will be issued for 12 months.
+F. Adenoid Cystic Carcinoma
+1. Initial Authorization
+a. Lenvima will be approved based on the following criteria:
+(1) Diagnosis of recurrent adenoid cystic carcinoma
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Lenvima will be approved based on the following criteria:
+(1) Patient does not show evidence of progressive disease while on Lenvima
+therapy
+Authorization will be issued for 12 months.
+G. Thymic Carcinoma
+1. Initial Authorization
+a. Lenvima will be approved based on both the following criteria:
+(1) Diagnosis of thymic carcinoma
+© 2025 UnitedHealthcare Services, Inc.
+4
+-AND-
+(2) One of the following:
+i. Used as a single agent for those who cannot tolerate first-line combination
+regimens
+ii. Used as a second line therapy in unresectable locally advanced disease,
+solitary metastasis or ipsilateral pleural metastasis, or extrathoracic
+metastatic disease
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Lenvima will be approved based on the following criteria:
+(1) Patient does not show evidence of progressive disease while on Lenvima
+therapy
+Authorization will be issued for 12 months.
+H. Cutaneous Melanoma
+1. Initial Authorization
+a. Lenvima will be approved based on all of the following criteria:
+(1) Diagnosis of cutaneous melanoma
+-AND-
+(2) One of the following:
+i. Disease is unresectable
+ii. Disease is metastatic
+-AND-
+(3) Used in combination with Keytruda (pembrolizumab)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Lenvima will be approved based on both of the following criteria:
+(1) Patient does not show evidence of progressive disease while on Lenvima
+© 2025 UnitedHealthcare Services, Inc.
+5
+therapy
+-AND-
+(2) Used in combination with Keytruda (pembrolizumab)
+Authorization will be issued for 12 months.
+I. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Lenvima [package insert]. Woodcliff Lake, NJ: Eisai Inc.; November 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at NCCN
+Drugs and Biologics Compendium®. Accessed January 2, 2025.
+Program Prior Authorization/Notification – Lenvima (lenvatinib)
+Change Control
+4/2015 New program.
+4/2016 Annual review. Added persistent locoregional and unresectable
+recurrent disease to the thyroid cancer indication. Updated references.
+7/2016 Added coverage criteria for advanced renal cell cancer. Updated
+references.
+7/2017 Annual review. Updated background and criteria to include NCCN
+recommended off label utilization for medullary thyroid carcinoma in
+patients with after Caprelsa or Cometriq. Updated formatting of criteria
+for differentiated thyroid cancer to align with NCCN guidelines.
+Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+6
+7/2018 Annual review with no change to coverage criteria. Updated
+references.
+11/2018 Updated background and criteria to include new indication for
+unresectable hepatocellular carcinoma.
+11/2019 Annual review. Updated background and criteria to include new
+indication in combination with pembrolizumab for endometrial
+carcinoma. Added general NCCN recommendations for use criteria.
+Updated references.
+11/2020 Annual review. Updated background and criteria to include NCCN
+recommended use for recurrent adenoid cystic carcinoma and anaplastic
+thyroid carcinoma. Added concurrent use with everolimus to the
+reauthorization criteria for renal cell cancer. Updated references.
+11/2021 Annual review. Updated background and criteria for new approval for
+use in combination with Keytruda (pembrolizumab), for treatment
+advanced RCC. Updated criteria per NCCN recommendations.
+Removed anaplastic thyroid carcinoma criteria as it is no longer
+recommended by NCCN. Updated references.
+2/2022 Updated renal cell cancer reauthorization to include combination use of
+Afinitor (everolimus) or Keytruda (pembrolizumab).
+2/2023 Annual review. Updated references, added state mandate footnote.
+Updated background and criteria to include NCCN recommended use
+for cutaneous melanoma.
+2/2024 Annual review. Updated thyroid cancer criteria based on label and
+NCCN. Updated hepatobiliary and thymic cancer based on NCCN
+recommendations. Updated references.
+2/2025 Annual review. Removed criteria for biliary cancer as it is no longer
+recommended by NCCN. Removed combination use with Keytruda for
+endometrial cancer per NCCN. Updated background and references.
+© 2025 UnitedHealthcare Services, Inc.
+7

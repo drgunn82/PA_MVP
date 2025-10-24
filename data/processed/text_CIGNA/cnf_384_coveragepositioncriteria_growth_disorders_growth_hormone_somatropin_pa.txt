@@ -1,0 +1,1243 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Growth Disorders – Growth Hormone Prior Authorization Policy
+• Genotropin (somatropin subcutaneous injection – Pfizer)
+• Humatrope (somatropin subcutaneous injection – Eli Lilly)
+• Norditropin® (somatropin subcutaneous injection – Novo Nordisk)
+• Nutropin AQ (somatropin subcutaneous injection – Genentech)
+• Omnitrope® (somatropin subcutaneous injection – Sandoz)
+• Saizen® (somatropin subcutaneous injection – EMD Serono)
+• Serostim (somatropin subcutaneous injection – EMD Serono)
+• Zomacton™ (somatropin subcutaneous injection – Ferring)
+REVIEW DATE: 04/16/2025; selected revision 04/23/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Indications for somatropin vary among these products. Somatropin is indicated for
+the following uses:
+• Growth hormone deficiency (GHD) or failure, treatment of pediatric
+patients, due to an inadequate secretion of endogenous growth hormone.1-7
+• Non-growth hormone deficient short stature (idiopathic short
+stature), treatment, defined by height standard deviation score (SDS) ≤ -
+Page 1 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+2.25, and associated with growth rates unlikely to permit attainment of adult
+height in the normal range.1-4,6,7
+• Adults with GHD for replacement of endogenous growth hormone.1-7
+• Children with chronic kidney disease, treatment of growth failure, up to
+the time of kidney transplantation.4
+• Noonan syndrome, treatment of patients with short stature.3
+• Prader Willi syndrome, treatment of patients with growth failure or short
+stature.1,3,7
+• Short stature homeobox-containing gene (SHOX) deficiency, treatment
+of short stature or growth failure in children.2,6
+• Small for gestational age (SGA), treatment of growth failure or short
+stature in patients with no catch-up growth by age 21,7 to 4 years2,3,6
+• Turner syndrome, treatment of short stature.1-4,6,7
+• Human immunodefiency virus (HIV)-infected patients with wasting
+or cachexia, treatment, to increase lean body mass and body weight, and
+improve physical endurance.9
+Growth Hormone Deficiency (GHD) in Children and Adolescents
+Somatropin is indicated for the treatment of growth failure in children due to an
+inadequate secretion of endogenous growth hormone.1-7 In these children with GHD,
+somatropin is effective for increasing final adult height.31 Somatropin therapy is
+recommended to normalize adult height and avoid extreme shortness in children and
+adolescents with GHD.31 Cranial radiation often causes hypopituitarism, and GHD is
+a frequent pituitary abnormality seen in children and adults who have undergone
+cranial radiation.17 Children who have undergone total body irradiation in preparation
+for hematopoietic stem cell transplant commonly have GHD and an impaired growth
+rate; these patients can be treated successfully with growth hormone. Somatropin
+therapy improves the final height of young children after total body irradiation.11
+Congenital Hypopituitarism
+Somatropin is used in infants and young children with congenital hypopituitarism,
+that manifests in infancy with hypoglycemia, microgenitalia, hyperbilirubinemia, and
+multiple anterior pituitary hormone deficiencies.31 The Pediatric Endocrine Society
+guidelines suggest that GHD due to congenital hypopituitarism be diagnosed without
+formal growth hormone provocative testing in a newborn with hypoglycemia who
+does not attain a serum growth hormone concentration > 5 mcg/L (> 5 ng/mL) and
+has deficiency of at least one additional pituitary hormone and/or the classical
+imaging triad (ectopic posterior pituitary and pituitary hypoplasia with abnormal
+stalk).31
+Non-Growth Hormone Deficient Short Stature (Idiopathic Short
+Stature) in Children or Adolescents
+Somatropin is indicated for the long-term treatment of idiopathic short stature (non-
+growth hormone deficient short stature) which is defined by a height standard
+deviation score (SDS) ≤ -2.25, and associated with growth rates that are unlikely to
+permit attainment of adult height in the normal range.1-4,6,7 The predicted adult
+heights of these children are < 160 cm (63 inches) for men and < 150 cm (59 inches)
+in women.31 The Pediatric Endocrine Society guidelines (2016) recommend that the
+Page 2 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+decision to treat idiopathic short stature with somatropin be made on a case-by-case
+basis after assessing physical and psychological burdens, and discussion of risks and
+benefits.31 They recommend against the routine use of somatropin in every child
+with height SDS ≤ -2.25. In one consensus statement on children with idiopathic
+short stature from the Growth Hormone Research Society, the Lawson Wilkins
+Pediatric Endocrine Society, and the European Society for Paediatric Endocrinology
+Workshop (2008), it was felt that the optimal age for initiating treatment is 5 years
+to early puberty.12
+The initial 6-month trial of somatropin is to establish that the child’s condition
+responds to somatropin therapy. Authorization for continued therapy should be based
+on an adequate clinical response defined as an annualized growth rate that doubles
+in comparison to the previous year.14 Children who show a striking increase in growth
+velocity during the first 6 to 12 months of somatropin therapy are most likely to
+benefit from long-term therapy, and therapy should be discontinued if there is no
+significant increase in growth rate during the first year. Children who have a
+significant increase in growth rate after the first 6-month trial and the next 12 months
+should then be reviewed annually for growth rate, closure of the epiphyses, and/or
+attainment of mid-parental height.
+Growth Hormone Deficiency (GHD) in Adults or Transition Adolescents
+Somatropin is indicated for the replacement of endogenous growth hormone in adults
+with GHD, which may present in adults or children as GHD (isolated GHD) or in
+addition to other pituitary hormone deficiencies (gonadotropin, adrenocorticotropic
+hormone, and/or thyroid-stimulating hormone deficiencies).15 Patients with other
+anterior pituitary hormone deficiencies are likely to have GHD. In adults, the
+diagnosis of GHD usually is made in patients with signs and symptoms of
+hypothalamic-pituitary disease (endocrine, structural, and/or genetic causes); those
+who have received cranial irradiation or tumor treatment; or those with traumatic
+brain injury or subarachnoid hemorrhage.15,16 Onset may be in adulthood or
+childhood. In childhood, the goal of somatropin therapy is primarily for statural
+growth. When final adult height is attained, somatropin therapy is no longer required
+for statural growth. Transition is used to describe the period in adolescence after
+growth is completed and the need for continued replacement into adulthood is
+assessed. Ongoing GHD is most likely in patients with multiple pituitary hormone
+deficits, with or without structural pituitary or peripituitary disease, and/or a history
+of cranial radiation therapy. Confirmatory growth hormone stimulation testing may
+not be required in patients, such as with congenital/genetic GHD or multiple pituitary
+hormone deficiencies. When persistent GHD is documented after completion of adult
+height, somatropin therapy should be continued to attain full skeletal and muscle
+maturation during the transition period from childhood to adulthood.15 In adults with
+GHD, somatropin replacement therapy improves abnormalities in substrate
+metabolism, body composition, and physical and psychosocial function.15,16
+Growth hormone is not approved by the FDA for the treatment of other conditions in
+adults who may have a low growth hormone response to growth hormone provocative
+testing (such as obesity, aging, or depression) or to improve athletic
+performance.17,18
+Page 3 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+Growth Hormone Stimulation Tests (Adults or Transition Adolescents)
+The insulin tolerance test is the gold standard growth hormone stimulation test53 but
+is contraindicated in patients with ischemic heart disease or seizure disorders or in
+elderly or pregnant patients.15,16,27 The glucagon stimulation test and the
+macimorelin test could be considered as alternatives.53 The response to all growth
+hormone stimulation tests show intra-individual variability, and the growth hormone
+cutoff points vary with the test used. Otherwise healthy obese persons have blunted
+growth hormone responses to various tests.30 There is no information on the effects
+of increased body mass index (BMI) or central adiposity on the insulin tolerance test.
+When Geref (growth hormone releasing hormone) was available [discontinued in the
+US in 2008], Geref plus arginine was considered the best alternative to the insulin
+tolerance test in adults.
+Macrilen (macimorelin oral solution) is the most recently approved test for the
+diagnosis of adult GHD. Patients in the pivotal trial were 18 to 66 years of age and
+the BMI ranged from 16 to 40 kg/m2.29 Safety and diagnostic performance have not
+been established in patients with BMI > 40 kg/m2. Clinical studies established that a
+maximally stimulated serum growth hormone level of < 2.8 ng/mL (i.e., at the 30,
+45, 60, and 90 minute time points) after Macrilen administration confirms the
+presence of adult GHD. Novo Nordisk no longer commercializes Macrilen. As of May
+2023, Aeterna Zentaris/Cosciens Biopahrma regained the rights to macimorelin in
+the United States and is engaged in business development efforts to secure a new
+development and commercialization partner.56
+Arginine and levodopa testing have not been systematically evaluated and validated,
+and because they have a low sensitivity and specificity in adults and transition
+patients, it is not recommended to utilize these tests in this population.53
+Additionally, the clonidine, levodopa, and arginine alone tests are generally not
+recommended because very low growth hormone cutoff points are required to
+achieve adequate specificity.27
+Adults with childhood onset GHD may have alterations in body composition, bone
+mineral density, and lipid metabolism that are alleviated by treatment with
+somatropin.15,31 However, some children with a diagnosis of GHD have a normal
+somatotropic axis when retested in late adolescence.31,52 Re-evaluation of the
+somatotropic axis in children diagnosed with GHD is required during the transition
+period. The transition period is the time from late puberty to establishment of adult
+muscle and bone composition, and encompasses attainment of adult height.31 Re-
+evaluation of the somatotropic axis is most conveniently done when growth has
+slowed to the point where pediatric somatropin dosing will be discontinued (i.e., the
+growth velocity is < 2 to 2.5 cm/year). Recommendations for transitional care after
+childhood somatropin treatment from the Pediatric Endocrine Society guidelines31 are
+as follows: Patients with multiple (≥ 3) pituitary hormone deficiencies regardless of
+etiology, or GHD with a documented causal genetic mutation or specific
+pituitary/hypothalamic structural defect (except ectopic posterior pituitary) be
+diagnosed with persistent GHD. These guidelines recommend re-evaluation of the
+somatotropic axis for persistent GHD in persons with 1) GHD and deficiency of only
+Page 4 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+one additional pituitary hormone, 2) idiopathic isolated GHD, 3) idiopathic isolated
+GHD with or without a small pituitary/ectopic posterior pituitary, and 4) in patients
+after irradiation. Testing can be done after a trial of at least 1 month off somatropin
+treatment. The guidelines also recommend growth hormone provocative testing to
+evaluate the function of the somatotropic axis in the transition period if indicated by
+a low insulin-like growth factor (IGF)-1 level. Persons with idiopathic isolated GHD
+will very likely test sufficient with growth hormone provocative testing. To continue
+growth hormone therapy in adulthood, retesting for GHD with growth hormone
+stimulation test(s) is recommended in most transition patients and at least 1 month
+after discontinuation of pediatric growth hormone therapy.53 Retesting is not
+required in transition patients with evidence of panhypopituitarism (≥ 3 pituitary
+hormone deficiencies) and low serum IGF-1 levels, patients with genetic defects, and
+patients with hypothalamic-pituitary structural brain defects.
+Adult GHD can be predicted with > 90% accuracy by the presence of three or four
+pituitary hormone deficiencies in addition to serum IGF-1 concentration that is less
+than the 2.5 percentile or < -2 SDS.15,16 This is in the absence of conditions that
+lower IGF-1. Patients with ≥ 3 pituitary hormone deficiencies and an IGF-1 level
+below the reference range do not need a growth hormone stimulation test.16 Because
+of the nature of the cause of GHD in children with structural lesions with multiple
+hormone deficiencies and those with proven genetic causes, provocative testing in
+these adults is not necessary.
+Chronic Kidney Disease in Children or Adolescents
+Somatropin is indicated for the treatment of growth failure in children with chronic
+kidney disease up to the time of kidney transplantation and is effective for increasing
+the rate of growth.4 Somatropin therapy has increased final adult height in these
+patients.19 An adequate growth response can be assumed if height velocity during
+the first year of growth hormone treatment is greater than 2 cm per year over
+baseline.20 This increase is supported by outcomes of controlled trials specific to
+patients with chronic kidney disease. Guidelines recommend that persistent growth
+failure (defined as height below the third percentile and height velocity below the 25th
+percentile beyond a period of 3 months in infants or 6 months in children and
+adolescents), be an indication for growth hormone therapy once other potentially
+treatable risk factors for growth failure have been adequately addressed.20 Growth
+hormone therapy can be initiated 1 year after transplantation if spontaneous catch-
+up growth does not occur and steroid-free immunosuppression is not a feasible
+option.
+Noonan Syndrome and Short Stature in Children or Adolescents
+Somatropin is indicated for the treatment of children with short stature associated
+with Noonan syndrome.3,21 Not all patients with Noonan syndrome have short stature;
+some will achieve a normal adult height without treatment. The younger the age at
+start of therapy, the larger the change in height SDS. The diagnosis of Noonan is
+established with suggestive findings and a heterozygous pathogenic variant in BRAF,
+KRAS, MAP2K1, MRAS, NRAS, PTPN11, RAF1, RASA2, RIT1, RRAS2, SOS1, SOS2 or
+either a heterozygous variant or biallelic pathogenic variants in LZTR1.55
+Page 5 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+Prader-Willi Syndrome
+Somatropin is indicated for the treatment of pediatric patients who have growth
+failure due to Prader-Willi syndrome.1,3,7 Somatropin therapy in children increases
+linear growth velocity, improves body composition (i.e., decreases the percentage
+body fat, increases or stabilizes lean body mass), increases bone mineral density,
+improves physical strength and agility, and improves final adult height.22 After final
+height is attained, there may be potential benefits of somatropin on body
+composition, peak bone mass, cognition, and quality of life in adults.22 Somatropin
+is contraindicated in patients with Prader-Willi syndrome who are severely obese or
+have severe respiratory impairment.1,3,7 Confirmation of Prader-Willi requires
+molecular genetic testing for the identification of Prader-Willi genetic subtypes.54 The
+condition is caused from lack of expression of paternally inherited imprinted genes
+on chromosome 15q11.2-q13. The diagnosis is established by identification of
+‘abnormal’ DNDA methylation within the Prader-Willi critical region at 15q11.2-q13.55
+Short Stature Homeobox-Containing Gene (SHOX) Deficiency in
+Children or Adolescents
+Somatropin is indicated for the treatment of short stature or growth failure in children
+with SHOX deficiency.2,6 SHOX deficiency may result from either deletion of one copy
+of the SHOX gene or from mutation within or outside one copy of the SHOX gene that
+impairs the production or function of the SHOX protein. Women with Turner syndrome
+have only a single copy of the SHOX gene because they lack all or part of their second
+X chromosome.23 SHOX deficiency is also the primary cause of short stature in most
+patients with Léri-Weill dyschondrosteosis (syndrome), and SHOX mutations and
+deletions are found in patients with idiopathic short stature. In one study consisting
+of a 2-year control period and a subsequent extension period to final height, short
+prepubertal patients with SHOX deficiency received somatropin.24
+Children Born Small for Gestational Age (SGA)
+Somatropin is indicated for the treatment of growth failure in children born SGA who
+fail to exhibit catch-up growth by age 21,7 to 4 years.2,3,6 SGA is defined as a birth
+weight and/or birth length that is greater than 2 standard deviation (SD) [about the
+3rd percentile] below mean normal values after adjusting for gestational age and sex.
+The terms SGA and intrauterine growth restriction are used interchangeably in this
+document. In clinical trials, patients born SGA (including children with Silver-Russell
+syndrome) without catch-up growth who were 2 to 11 years of age had significant
+increases in growth when treated with somatropin before puberty.1,3 Optimal duration
+of therapy once catch-up growth has been attained is not known.
+Almost all patients with Silver-Russell syndrome are born SGA, and postnatal catch-
+up growth does not occur in the majority of children.44 An expert consensus
+statement recommends that patients with Silver-Russell syndrome receive treatment
+with somatropin as soon as possible.44 Starting therapy at age 2 to 4 years is
+adequate for the majority of patients. In some cases, somatropin therapy is started
+in patients less than 2 years of age who have severe fasting hypoglycemia, severe
+malnutrition, or severe muscular hypotonia. These experts recommend that
+somatropin therapy be stopped when height velocity is < 2 cm per year over a 6-
+month period and when bone age is > 14 years in females or > 17 years in males.
+Page 6 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+Turner Syndrome
+Somatropin is indicated for the treatment of short stature associated with Turner
+syndrome.1-4,6,7 Turner syndrome is a sex chromosome disorder caused by loss of
+part or all of an X chromosome; the diagnosis is confirmed by karyotype analysis.
+Growth hormone therapy is used to maximize adult height in these patients; there is
+no physiological rationale for continuing growth hormone into the transition period
+after the completion of puberty.25
+Short Bowel Syndrome
+Zorbtive was indicated for the treatment of short bowel syndrome in adults receiving
+specialized nutritional support.8 Zorbtive was discontinued by the manufacturer in
+2021 and is no longer commercially available in the US. The 2022 American
+Gasstroenterological Association on the management of short bowel syndrome, the
+use of recombinant human growth hormone has largely been discontinued due to
+unacceptable side effects and questionable long-term efficacy.
+Human Immunodeficiency Virus-Associated Wasting or Cachexia
+Somatropin is indicated for the treatment of HIV-infected adults with wasting (loss
+of lean body mass) or cachexia to increase lean body mass and body weight, and
+improve physical endurance.9 Somatropin therapy increases lean body mass,
+decreases fat mass, and increases physical function in patients with HIV-associated
+wasting. Studies directly comparing somatropin with other therapies (megestrol,
+oxandrolone, testosterone, and progressive resistance training) for wasting or
+cachexia in HIV-infection are lacking.26
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of somatropin.
+All reviews will be directed to a clinician (i.e., pharmacist) for verification of criteria.
+All approvals are provided for the duration noted below. In cases where the approval
+is authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with somatropin as well as
+the monitoring required for adverse events and long-term efficacy, approval for some
+indications requires somatropin to be prescribed by or in consultation with a physician
+who specializes in the condition being treated. Human growth hormone is FDA-
+approved for treatment of a limited number of conditions. The FDA has not approved
+the use of human growth hormone as therapy for anti-aging, longevity, cosmetic
+uses, or performance enhancement. Federal law prohibits the dispensing of human
+growth hormone for non-approved purposes. A pharmacy’s failure to comply with
+that law could result in significant criminal penalties to the pharmacy and its
+employees. Accordingly, a pharmacy may decline to dispense prescriptions for human
+growth hormone when written by physicians or other authorized prescribers who they
+believe may be involved in or affiliated with the fields of anti-aging, longevity,
+rejuvenation, cosmetic uses, performance enhancement, or sports medicine.
+Documentation: Documentation is required for use of somatropin as noted in the
+criteria as [documentation required]. Documentation may include, but is not
+Page 7 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+limited to, chart notes, prescription claims records, prescription receipts, and/or other
+information. For patient cases in which documentation is required, if this
+documentation has been previously received upon a prior coverage review, the
+documentation requirement is considered to be met.
+• Genotropin (somatropin subcutaneous injection – Pfizer)
+• Humatrope (somatropin subcutaneous injection – Eli Lilly)
+• Norditropin® (somatropin subcutaneous injection – Novo Nordisk)
+• Nutropin AQ (somatropin subcutaneous injection – Genentech)
+• Omnitrope® (somatropin subcutaneous injection – Sandoz)
+• Saizen® (somatropin subcutaneous injection – EMD Serono)
+• Serostim (somatropin subcutaneous injection – EMD Serono)
+• Zomacton™ (somatropin subcutaneous injection – Ferring)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+I. Coverage of Genotropin, Humatrope, Norditropin, Nutropin AQ, Omnitrope,
+Saizen, and Zomacton (all listed products except Serostim) is recommended in
+those who meet at least one of the following criteria:
+FDA-Approved Indications
+1. Growth Hormone Deficiency in a Child or Adolescent. Approve for 1 year if
+the patient meets ONE of the following (A or B):
+A) Initial therapy. Approve if the patient meets at least ONE of the following (i, ii,
+iii, iv, or v):
+i. Patient meets BOTH of the following (a and b):
+a) Patient meets at least ONE of the following (1 or 2):
+(1) Patient has had two growth hormone stimulation tests
+performed with any of the following agents: levodopa, insulin-
+induced hypoglycemia, arginine, clonidine, or glucagon AND the
+peak growth hormone response to both tests are < 10 ng/mL; OR
+(2) Patient meets BOTH of the following (i and ii):
+(i) Patient has had at least one growth hormone stimulation test
+performed with any of the following agents: levodopa, insulin-
+induced hypoglycemia, arginine, clonidine, or glucagon AND the
+peak growth hormone response to at least one test is < 10
+ng/mL; AND
+(ii) Patient has at least one risk factor for growth hormone deficiency;
+AND
+Note: Examples of at least one risk factor for growth hormone
+deficiency includes: the height for age curve has deviated
+downward across two major height percentiles [e.g., from above
+the 25th percentile to below the 10th percentile]; patient’s growth
+rate is less than the expected normal growth rate based on age
+and gender; patient has low insulin-like growth factor (IGF)-1
+Page 8 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+and/or IGF binding protein-3 levels; patient has a very low peak
+growth hormone level on provocative testing as defined by the
+prescribing physician; patient’s growth velocity is less than the
+10th percentile for age and gender [height velocity percentile is
+NOT the same as height-for-age percentile]; patient is status post
+craniopharyngioma resection; patient has optic nerve hypoplasia;
+patient has a growth hormone gene deletion.
+Note: Some patients will achieve stimulated growth hormone
+concentrations in the normal range as determined by the testing
+laboratory and could be reviewed for authorization under non-
+growth hormone deficiency short stature (idiopathic short
+stature); AND
+b) The medication has been prescribed by or in consultation with an
+endocrinologist; OR
+ii. Patient has undergone brain radiation or tumor resection AND meets BOTH
+of the following (a and b):
+a) Patient meets at least ONE of the following (1 or 2):
+(1) Patient meets BOTH of the following (i and ii):
+(i) Patient has had one growth hormone stimulation test with any of
+the following agents: levodopa, insulin-induced hypoglycemia,
+arginine, clonidine, or glucagon; AND
+(ii) The peak growth hormone response to at least one test is < 10
+ng/mL; OR
+(2) Patient has a deficiency in at least one other pituitary hormone
+(i.e., adrenocorticotropic hormone, thyroid-stimulating hormone,
+gonadotropin deficiency [luteinizing hormone and/or follicle
+stimulating hormone deficiency are counted as one deficiency], or
+prolactin); AND
+b) The medication has been prescribed by or in consultation with an
+endocrinologist; OR
+iii. Patient has congenital hypopituitarism AND meets BOTH of the following (a
+and b):
+a) Patient meets at least ONE of the following (1, 2, or 3):
+(1) Patient meets BOTH of the following (i and ii):
+(i) Patient has had one growth hormone stimulation test with any of
+the following agents: levodopa, insulin-induced hypoglycemia,
+arginine, clonidine, or glucagon; AND
+(ii) The peak growth hormone response to at least one test is < 10
+ng/mL; OR
+(2) Patient has a deficiency in at least one other pituitary hormone
+(i.e., adrenocorticotropic hormone, thyroid-stimulating hormone,
+gonadotropin deficiency [luteinizing hormone and/or follicle
+stimulating hormone deficiency are counted as one deficiency], or
+prolactin); OR
+(3) Patient has the imaging triad of ectopic posterior pituitary and
+pituitary hypoplasia with abnormal pituitary stalk; AND
+b) The medication has been prescribed by or in consultation with an
+endocrinologist; OR
+Page 9 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+iv. Patient has multiple pituitary hormone deficiencies and meets BOTH of the
+following (a and b):
+Note: Growth hormone deficiency may occur in combination with other
+pituitary hormone deficiencies and is referred to as hypopituitarism,
+panhypopituitarism, or multiple pituitary hormone deficiency.
+a) Patient meets at least ONE of the following (1 or 2):
+(1) Patient has three or more of the following pituitary hormone
+deficiencies: somatropin (growth hormone), adrenocorticotropic
+hormone, thyroid-stimulating hormone, gonadotropin deficiency
+(luteinizing hormone and/or follicle stimulating hormone deficiency
+are counted as one deficiency), and prolactin; OR
+(2) Patient meets BOTH of the following (i and ii):
+(i) Patient has had one growth hormone stimulation test with any of
+the following agents: levodopa, insulin-induced hypoglycemia,
+arginine, clonidine, or glucagon; AND
+(ii) The peak growth hormone response to at least one test is < 10
+ng/mL; AND
+b) The medication has been prescribed by or in consultation with an
+endocrinologist; OR
+v. Patient has had a hypophysectomy (surgical removal of pituitary gland);
+OR
+B) Patient is continuing somatropin therapy (i.e., established on somatropin for
+≥ 10 months). Approve if the patient meets at least ONE of the following (i, ii,
+or iii):
+i. Patient is < 12 years of age. Patient’s height has increased by ≥ 2 cm/year
+in the most recent year; OR
+ii. Patient is between ≥ 12 years and < 18 years of age. Patient meets BOTH
+of the following (a and b):
+a) Patient’s height has increased by ≥ 2 cm/year in the most recent year;
+AND
+b) Patient’s epiphyses are open; OR
+iii. Patient is ≥ 18 years of age. Patient meets ALL of the following (a, b, and
+c):
+a) Patient’s height has increased by ≥ 2 cm/year in the most recent year;
+AND
+b) Patient’s epiphyses are open; AND
+c) Patient’s mid-parental height has not been attained.
+Note: Mid-parental height is the father’s height plus the mother’s height
+divided by 2, plus 2.5 inches if male or minus 2.5 inches if female.
+Note: Adolescents and young adults with childhood onset growth
+hormone deficiency who have previously responded to somatropin with
+increases in height velocity and who have completed linear growth may
+continue receiving somatropin therapy as a transition adolescent or as
+an adult. See criteria I.3. (Growth hormone deficiency in an adult or
+transition adolescent).
+Page 10 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+2. Non-Growth Hormone Deficient Short Stature (Idiopathic Short Stature)
+in a Child or Adolescent. Approve for the duration noted if the patient meets at
+least ONE of the following (A or B):
+A) Initial therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, iii, iv, v, vi, and vii):
+i. Patient is ≥ 5 years of age; AND
+ii. Patient’s baseline height is ≤ 1.2 percentile or a standard deviation score
+(SDS) ≤ -2.25 for age and gender; AND
+iii. Patient’s growth (height) velocity meets at least ONE of the following (a or
+b):
+a) Patient has a growth rate < 4 cm/year; OR
+b) Patient’s growth (height) velocity is less than the 10th percentile for age
+and gender based on at least 6 months of growth data; AND
+Note: Height velocity percentile is NOT the same as height for age
+percentile.
+iv. Without growth hormone therapy, the patient’s predicted adult height is <
+160 cm (63 inches) in males or < 150 cm (59 inches) in females; AND
+v. Patient’s epiphyses are open; AND
+vi. Patient does not have constitutional delay of growth and puberty; AND
+vii. The medication has been prescribed by or in consultation with an
+endocrinologist; OR
+B) Patient is continuing somatropin therapy. Approve for 1 year if the patient
+meets at least ONE of the following (i or ii):
+i. Patient has received somatropin for ≥ 6 months and < 10 months. Approve
+if the patient meets BOTH of the following (a and b):
+a) Patient is ≥ 5 years of age; AND
+b) Patient’s annualized growth rate has doubled in comparison to the
+previous year; OR
+Note: For example, if the growth velocity was 3 cm/year for the year
+prior to treatment, then the growth velocity must be at least 3 cm in 6
+months (baseline velocity was 1.5 cm/6 months) or for example, the
+growth velocity was 2 cm/year for the year prior to treatment, then after
+6 months of somatropin therapy, the growth velocity must be at least 2
+cm in 6 months (1 cm/6 months baseline).
+ii. Patient has received somatropin for ≥ 10 months. Approve if the patient
+meets at least ONE of the following (a, b, or c):
+a) Patient is ≥ 5 years and < 12 years of age. Patient’s height has increased
+by ≥ 2 cm/year in the most recent year; OR
+b) Patient is ≥ 12 years of age and < 18 years of age. Patient meets BOTH
+of the following (1 and 2):
+(1) Patient’s height has increased by ≥ 2 cm/year in the most recent
+year; AND
+(2) Patient’s epiphyses are open; OR
+c) Patient is ≥ 18 years of age. Patient meets ALL of the following (1, 2,
+and 3):
+(1) Patient’s height has increased by ≥ 2 cm/year in the most recent
+year; AND
+(2) Patient’s epiphyses are open; AND
+Page 11 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+(3) Patient’s mid-parental height has not been attained.
+Note: Mid-parental height is the father’s height plus the mother’s
+height divided by 2, plus 2.5 inches if male or minus 2.5 inches if
+female.
+3. Growth Hormone Deficiency in an Adult or Transition Adolescent. Approve
+for 1 year if the patient meets ALL of the following (A, B, C, and D):
+A) The endocrinologist must certify that somatropin is not being prescribed for
+anti-aging therapy or to enhance athletic ability or for body building; AND
+B) Patient must have a diagnosis of growth hormone deficiency that is ONE of the
+following (i or ii): [documentation required for all elements]
+i. Childhood onset; OR
+ii. Adult onset that results from one of the following: growth hormone
+deficiency alone or multiple hormone deficiencies (hypopituitarism)
+resulting from pituitary disease, hypothalamic disease, pituitary surgery,
+cranial radiation therapy, tumor treatment, traumatic brain injury, or
+subarachnoid hemorrhage; AND
+C) Patient meets at least ONE of the following (i, ii, or iii):
+i. Patient (adult or transition adolescent) has known perinatal insults OR
+congenital or genetic defects; [documentation required] OR
+ii. Patient meets ALL of the following (a, b, and c):
+a) Patient (adult onset or transition adolescent) has or had three or more
+of the following pituitary hormone deficiencies prior to hormone
+replacement therapy (if hormone therapy is required):
+Adrenocorticotropic hormone, thyroid-stimulation hormone,
+gonadotropin deficiency (luteinizing hormone and/or follicle stimulating
+hormone deficiency are counted as one deficiency), and prolactin
+[documentation required]; AND
+b) The age and gender adjusted serum insulin-like growth factor-1 is or
+was below the lower limit of the normal reference range for the reporting
+laboratory [documentation required], prior to growth hormone
+therapy; AND
+c) Other causes of low serum insulin-like growth factor-1 have been
+excluded (e.g., malnutrition, prolonged fasting, poorly controlled
+diabetes mellitus, hypothyroidism, hepatic insufficiency, oral estrogen
+therapy); OR
+iii. Patient meets at least ONE of the following (a or b):
+a) Adult. Patient has had a negative response to at least ONE of the
+following standard growth hormone stimulation tests (1, 2, 3, 4, 5, or
+6) [documentation required for all elements]:
+Note: If the patient has had a previous trial of an arginine test with a
+peak response of ≤ 0.4 mcg/L, this would meet the criteria for a
+negative response to a growth hormone stimulation test.
+(1) Insulin tolerance test (obtaining at least 3 growth hormone levels
+in at least a 60 minute timeframe [not including a level at timeframe
+zero], with adequate hypoglycemia being achieved) with peak
+response ≤ 5.0 mcg/L; OR
+Page 12 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+(2) Glucagon stimulation test (obtaining at least 3 growth hormone
+levels in at least 180 minute timeframe [not including a level at
+timeframe zero]) with peak response ≤ 3.0 mcg/L AND the patient’s
+body mass index (BMI) is < 25 kg/m2; OR
+(3) Glucagon stimulation test (obtaining at least 3 growth hormone
+levels in at least 180 minute timeframe [not including a level at
+timeframe zero]) with a peak response ≤ 3.0 mcg/L AND the
+patient’s BMI is ≥ 25 kg/m2 and ≤ 30 kg/m2 with, according to the
+prescriber, a high pretest probability of growth hormone deficiency;
+OR
+(4) Glucagon stimulation test (obtaining at least 3 growth hormone
+levels in at least 180 minute timeframe [not including a level at
+timeframe zero]) with a peak response ≤ 1.0 mcg/L AND the
+patient’s BMI is ≥ 25 kg/m2 and ≤ 30 kg/m2 with, according to the
+prescriber, a low pretest probability of growth hormone deficiency;
+OR
+(5) Glucagon stimulation test (obtaining at least 3 growth hormone
+levels in at least 180 minute timeframe [not including a level at
+timeframe zero]) with peak response ≤ 1.0 mcg/L AND the patient’s
+BMI is > 30 kg/m2; OR
+(6) Macrilen (macimorelin oral solution) test (obtaining at least 4
+growth hormone levels in at least a 90 minute timeframe [not
+including a level at timeframe zero]) with peak responses < 2.8
+ng/mL (2.8 mcg/L) AND the patient’s BMI is ≤ 40 kg/m2.
+Note: The following formula can be used to calculate BMI: BMI equals
+body weight in kg divided by height meters squared (m2) [i.e., BMI
+= kg/m2]; OR
+b) Transition adolescent. Patient meets BOTH of the following (1 and 2):
+[documentation required for all elements]:
+Note: The transition period is the time from late puberty to
+establishment of adult muscle and bone composition and encompasses
+attainment of adult height.
+Note: If the patient has had a trial of a Macrilen test with a peak
+response of < 2.8 ng/mL (mcg/L), this would meet the criteria for a
+negative response to a growth hormone stimulation test.
+(1) Patient has been off somatropin therapy for at least 1 month
+before retesting with a growth hormone stimulation test; AND
+(2) Patient meets at least ONE of the following responses to growth
+hormone stimulation testing (i, ii, iii, iv, v or vi):
+(i) Insulin tolerance test (obtaining at least 3 growth hormone levels
+in at least a 60 minute timeframe [not including a level at
+timeframe zero], with adequate hypoglycemia being achieved)
+with peak response ≤ 5.0 mcg/L; OR
+(ii) Glucagon stimulation test (obtaining at least 3 growth hormone
+levels in at least 180 minute timeframe [not including a level at
+timeframe zero]) with peak response ≤ 3.0 mcg/L AND the
+patient’s body mass index (BMI) is < 25 kg/m2; OR
+Page 13 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+(iii) Glucagon stimulation test (obtaining at least 3 growth
+hormone levels in at least 180 minute timeframe [not including a
+level at timeframe zero]) with a peak response of ≤ 3.0 mcg/L
+AND the patient’s BMI is ≥ 25 kg/m2 and ≤ 30 kg/m2 with,
+according to the prescriber, a high pretest probability of growth
+hormone deficiency; OR
+(iv) Glucagon stimulation test (obtaining at least 3 growth
+hormone levels in at least 180 minute timeframe [not including a
+level at timeframe zero]) with a peak response ≤ 1.0 mcg/L AND
+the patient’s BMI is ≥ 25 kg/m2 and ≤ 30 kg/m2 with, according
+to the prescriber, a low pretest probability of growth hormone
+deficiency; OR
+(v) Glucagon stimulation test (obtaining at least 3 growth hormone
+levels in at least 180 minute timeframe [not including a level at
+timeframe zero]) with peak response ≤ 1.0 mcg/L AND the
+patient’s BMI is > 30 kg/m2; OR
+(vi) If both the insulin tolerance test AND glucagon stimulation test
+are contraindicated, the arginine test can be used (obtaining at
+least 3 growth hormone levels in at least 120 minute timeframe
+[not including a level at timeframe zero]) with a peak response ≤
+0.4 mcg/L; AND
+D) The medication was prescribed by or in consultation with an endocrinologist.
+4. Chronic Kidney Disease in a Child or Adolescent. Approve for 1 year if the
+patient meets BOTH of the following (A and B):
+A) Patient has or had chronic kidney disease as defined by a glomerular filtration
+rate < 60 milliliters/minute; AND
+B) Patient meets at least ONE of the following (i or ii):
+i. Initial therapy. Approve if the patient meets BOTH of the following (a and
+b):
+a) Patient has persistent growth failure as defined as BOTH of the following
+(1 and 2):
+(1) Patient’s baseline height is less than the 5th percentile for age and
+gender; AND
+(2) Patient’s baseline height velocity is below the 25th percentile over
+a period of 3 months in infants (≤ 1 year of age) or 6 months in
+children and adolescents; AND
+b) The medication was prescribed by or in consultation with an
+endocrinologist or a nephrologist; OR
+ii. Patient is continuing somatropin therapy (i.e., established on somatropin
+for ≥ 10 months). Approve if the patient meets BOTH of the following (a
+and b):
+a) Patient’s height has increased by ≥ 2 cm/year in the most recent year;
+AND
+b) Patient’s epiphyses are open.
+5. Noonan Syndrome in a Child or Adolescent. Approve for 1 year if the patient
+meets BOTH of the following (A and B):
+Page 14 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+A) The diagnosis of Noonan syndrome has been confirmed by ONE of the following
+(i or ii):
+i. Noonan syndrome has been confirmed by a heterozygous pathogenic
+variant in BRAF, KRAS, MAP2K1, MRAS, NRAS, PTPN11, RAF1, RASA2,
+RIT1, RRAS2, SOS1 or SOS2 OR by either a heterozygous variant or biallelic
+pathogenic variants in LZTR1; OR
+ii. If genetic testing does not definitively confirm the diagnosis, the prescriber
+has made a clinical diagnosis of Noonan syndrome: AND
+Note: Clinical diagnosis includes abnormal facial features (high forehead,
+epicanthic folds, etc.), pulmonary valve stenosis and/or hypertrophic
+cardiomyopathy, first-degree relative with Noonan syndrome, mild
+developmental delay.
+B) Patient meets at least ONE of the following (i or ii):
+i. Initial therapy. Approve if the patient meets BOTH of the following (a and
+b):
+a) Patient’s baseline height is less than the 5th percentile using a growth
+chart for children without Noonan syndrome; AND
+b) The medication was prescribed by or in consultation with an
+endocrinologist; OR
+ii. Patient is continuing somatropin therapy (i.e., established on somatropin
+for ≥ 10 months). Approve if the patient meets BOTH of the following (a
+and b):
+a) Patient’s height has increased by ≥ 2 cm/year in the most recent year;
+AND
+b) Patient’s epiphyses are open.
+6. Prader-Willi Syndrome. Approve for 1 year if the patient meets BOTH of the
+following (A and B):
+A) The diagnosis of Prader-Willi syndrome has been established by identification
+of abnormal DNA methylation of chromosome 15q11.2-q13; AND
+B) Patient meets at least ONE of the following (i or ii):
+i. Initial therapy. Approve if the medication patient (child or adult) has been
+prescribed by or in consulation with an endocrinologist; OR
+ii. Patient is continuing somatropin therapy (i.e., established on somatropin
+for ≥ 10 months). Approve if the patient meets at least ONE of the following
+(a or b):
+a) Child or adolescent. The patient meets BOTH of the following (1 and 2):
+(1) Patient’s height has increased by ≥ 2 cm/year in the most recent
+year; AND
+(2) Patient’s epiphyses are open; OR
+Note: When the epiphyses are closed and/or the height velocity is <
+2 cm/year, the patient can be reviewed for continuation of therapy
+as an adult with Prader-Willi syndrome.
+b) Adult or adolescent whose epiphyses are closed and/or whose height
+velocity is < 2 cm/year. Patient meets BOTH of the following (1 and 2):
+(1) This physician must certify that somatropin is not being used for
+anti-aging therapy or to enhance athletic performance/body
+building; AND
+Page 15 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+(2) The medication has been prescribed by or in consultation with an
+endocrinologist.
+7. Short Stature Homeobox-Containing Gene Deficiency in a Child or
+Adolescent. Approve for 1 year if the patient meets BOTH of the following (A and
+B):
+A) Patient has short stature homeobox-containing gene deficiency demonstrated
+by chromosome analysis; AND
+B) Patients meets at least ONE of the following (i or ii):
+i. Initial therapy. Approve if the patient meets ALL of the following (a, b, and
+c):
+a) Patient’s epiphyses are open; AND
+b) Patient’s baseline height is less than the 5th percentile for age and
+gender; AND
+c) The medication has been prescribed by or in consultation with an
+endocrinologist; OR
+ii. Patient is continuing somatropin therapy (i.e., established on somatropin
+for ≥ 10 months). Approve if the patient meets BOTH of the following (a
+and b):
+a) Patient’s height has increased by ≥ 2 cm/year in the most recent year;
+AND
+b) Patient’s epiphyses are open.
+8. Child Born Small for Gestational Age or with Intrauterine Growth
+Restriction Including a Child with Silver-Russell Syndrome. Approve for 1
+year if the patient meets BOTH of the following (A and B):
+A) Patient meets BOTH of the following (i and ii):
+i. Patient was born small for gestational age, which is defined as birth weight
+and/or birth length that is > 2 standard deviations (SD) below the mean (<
+-2 SD) for gestational age and gender; AND
+ii. Patient did not have sufficient catch-up growth before age 2 to 4 years;
+AND
+B) Patient meets at least ONE of the following (i or ii):
+i. Initial therapy. Approve if the patient meets ALL of the following (a, b, and
+c):
+a) Patient is  2 years of age; AND
+b) Patient’s baseline height is less than the 5th percentile for age and
+gender; AND
+c) The medication has been prescribed by or in consultation with an
+endocrinologist; OR
+ii. Patient is continuing somatropin therapy (i.e., established on somatropin
+for ≥ 10 months). Approve if the patient meets at least ONE of the following
+(a or b):
+a) Patient is < 12 years of age. Patient’s height has increased by ≥ 2
+cm/year in the most recent year; OR
+b) Patient is ≥ 12 years. Patient meets BOTH of the following (1 and 2):
+(1) Patient’s height has increased by ≥ 2 cm/year in the most recent
+year; AND
+Page 16 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+(2) Patient’s epiphyses are open.
+9. Turner Syndrome. Approve for 1 year if the patient meets BOTH of the following
+(A and B):
+A) The diagnosis of Turner’s syndrome has been confirmed by karyotype analysis
+(i.e., chromosome analysis); AND
+B) Patient meets at least ONE of the following (i or ii):
+i. Initial therapy. Patient’s baseline height is less than the 5th percentile for
+age and gender; OR
+ii. Patient is continuing somatropin therapy (i.e., established on somatropin
+for ≥ 10 months). Approve if the patient meets BOTH of the following (a
+and b):
+a) Patient’s height has increased by ≥ 2 cm/year in the most recent year;
+AND
+b) Patient’s epiphyses are open.
+II. Coverage of Genotropin, Humatrope, Norditropin, Nutropin AQ, Omnitrope,
+Saizen, and Zomacton (all listed products except Serostim) is recommended in
+those who meet the following criteria:
+1. Short Bowel Syndrome. Approve for 1 month if the patient has already been
+started on somatropin therapy for this condition or has responded to somatropin
+therapy in the past.
+III. Coverage of Serostim is recommended in those who meet the following criteria:
+1. Human Immunodeficiency Virus Infection with Wasting or Cachexia in an
+Adult. Approve for 6 months if the patient meets ALL of the following (A, B, C, D,
+E, and F):
+A) Patient is ≥ 18 years of age; AND
+B) Patient meets at least ONE of the following (i, ii, or iii):
+i. Documented unintentional weight loss of  10% from baseline; OR
+ii. Patient’s weight < 90% of the lower limit of ideal body weight; OR
+iii. Patient’s body mass index (BMI)  20 kg/m2; AND
+Note: The following formula can be used to calculate BMI: BMI equals body
+weight in kg divided by height in meters squared (m2) [i.e., BMI = kg/m2].
+C) Patient has wasting or cachexia that is due to malabsorption, poor diet,
+opportunistic infection, or depression, and other causes have been addressed
+prior to starting somatropin; AND
+D) Patient has been on antiretroviral therapy or highly active antiretroviral
+treatment for  30 days prior to beginning Serostim therapy and will continue
+antiretroviral therapy throughout the course of Serostim treatment; AND
+E) Serostim is not being used solely for treatment of alterations in body fat
+distribution such as increased abdominal girth, lipodystrophy and excess
+abdominal fat, or dorsocervical fat pad; AND
+F) Patient meets at least ONE of the following (i or ii):
+i. Patient has tried one appetite stimulant or other anabolic agent; OR
+Page 17 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+Note: Examples of appetite stimulants or other anabolic agents include
+megestrol acetate, dronabinol, oxandrolone.
+ii. Appetite stimulants or other anabolic agents are contraindicated.
+CONDITIONS NOT COVERED
+• Genotropin (somatropin subcutaneous injection – Pfizer)
+• Humatrope (somatropin subcutaneous injection – Eli Lilly)
+• Norditropin® (somatropin subcutaneous injection – Novo Nordisk)
+• Nutropin AQ (somatropin subcutaneous injection – Genentech)
+• Omnitrope® (somatropin subcutaneous injection – Sandoz)
+• Saizen® (somatropin subcutaneous injection – EMD Serono)
+• Serostim (somatropin subcutaneous injection – EMD Serono)
+• Zomacton™ (somatropin subcutaneous injection – Ferring)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+Note: For some of the following indications, authorization for coverage is not
+recommended because the indication is excluded from coverage in a typical pharmacy
+benefit.
+1. Acute Critical Illness Due to Complications Following Surgery, Multiple
+Accidental Trauma, or with Acute Respiratory Failure.1-9 In two placebo-
+controlled trials in non-growth hormone deficient adults (n = 522) with these
+conditions, there was a significant increase in mortality (42% vs. 19%) in patients
+treated with somatropin compared to those on placebo.
+2. Aging (i.e., Anti-Aging), to Improve Functional Status in an Elderly
+Patient, and Somatopause.17,18,32,33 Somatropin is not FDA-approved for anti-
+aging therapy, to improve functional status in elderly patients, or to treat
+somatopause. Federal law prohibits the distribution or dispensing of somatropin
+for non-FDA approved uses. There are no long-term studies assessing somatropin
+efficacy and safety for anti-aging therapy. Short-term therapy with somatropin
+may improve some measures of body composition, including increased muscle
+mass, reduced total body fat, improved skin elasticity, and reduced rate of bone
+demineralization, but somatotropin does not have positive effects on strength,
+functional capacity, or metabolism. Somatropin is associated with considerable
+adverse effects in non-growth hormone deficient adults (e.g., carpal tunnel
+syndrome, soft tissue edema, arthralgias, glucose intolerance, increased serum
+lipids). Another concern is the possible increased risk of cancer with long-term
+use of somatropin and the potentiating effects of IGFs on cancer. Somatropin is
+not indicated for the age-related decrease in growth hormone/IGF-1 status.16
+3. Athletic Ability Enhancement.18,34 Somatropin is not FDA-approved for athletic
+performance enhancement or for body building in nonathletes. Federal law
+prohibits the distribution or dispensing of somatropin for non-FDA approved uses.
+Page 18 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+Short-term administration of somatropin to increase strength and endurance in
+athletes is no more effective than training alone and somatropin should not be
+administered to athletes or other persons for the purpose of enhancing athletic
+ability or improving personal appearance (i.e., to appear leaner and more
+muscular). Somatropin has been used in supraphysiologic doses alone or in
+combination with other performance enhancing drugs (PEDs) in users who are not
+athletes.34 Use of PEDs has been linked to an increased risk of death and many
+adverse effects including cardiovascular, psychiatric, metabolic, endocrine,
+neurologic, infectious, hepatic, renal, and musculoskeletal disorders.
+4. Central Precocious Puberty. Children with precocious puberty are often treated
+with gonadotropin releasing hormone (GnRH) agonists (Lupron® [leuprolide
+acetate injection]) to suppress pituitary gonadal activity, to slow the advancement
+of bone age (prevent premature fusion of the epiphyseal growth plates), and to
+improve adult height. In some patients GnRH agonist therapy may result in
+marked deceleration of bone growth and may result in adult height that is less
+than the mid-parental height. Small and nonrandomized studies have
+demonstrated a significant improvement in final adult height over pre-treated
+predicted adult height in patients treated with GnRH agonist and GH as compared
+with patients treated with GnRH agonist alone. However, larger randomized
+studies are lacking, and routine use of GH in this setting is not recommended.35,36.
+5. Chronic Fatigue Syndrome. There is no evidence of GHD in chronic fatigue
+syndrome.37
+6. Congenital Adrenal Hyperplasia (CAH).38,39 The Endocrine Society clinical
+practice guidelines on CAH due to steroid 21-hydroxylase deficiency recommend
+against the use of experimental treatment approaches outside of formally
+approved clinical trials.39 Children with predicted adult height SD ≤ -2.25 may
+be considered for growth-promoting treatments in appropriately controlled trials.
+7. Constitutional Delay of Growth and Puberty. These children have delayed
+skeletal maturation and pubertal development. Administering somatropin does
+not increase adult height (which is usually normal).40 Short-term androgen
+therapy accelerates growth and the rate of pubertal advancement in boys.
+8. Corticosteroid-Induced Short Stature.13 This includes a variety of chronic
+glucocorticoid-dependent conditions, such as asthma, Crohn’s disease,13 juvenile
+rheumatoid arthritis,28,41,42 as well as after renal, heart, liver, or bone marrow
+transplantation.43 Short-term improvement in growth velocity in children with
+glucocorticoid-induced suppression has been reported with somatropin therapy.
+Long-term data are not available.13 Children being considered for treatment with
+somatropin should be enrolled in studies that allow careful monitoring and data
+analysis.
+9. Fibromyalgia. In one placebo-controlled study, 120 non-GHD adult women with
+severe fibromyalgia and low levels of IGF-1 were randomized to somatropin 0.006
+mg/kg/day for 12 months (dose was adjusted) or placebo for 6 months.45 Patients
+Page 19 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+receiving placebo initially were switched to somatropin from Months 6 to 12 (open
+label). Standard therapy for fibromyalgia was continued. After 6 months, there
+were no differences between somatropin and placebo in the percentage of patients
+with fewer than 11 positive tender points, mean number of tender points, intensity
+of pain in every point evaluated, and other measures. After 12 months of
+somatropin therapy, 53% of patients had less than 11 positive tender points
+compared with 33% of patients who received placebo and then somatropin for 6
+months (P < 0.05). At 18 months follow-up evaluation when somatropin was
+discontinued, impairment in pain perception worsened in both groups but to a
+lesser extent in the patients on somatropin for 12 months. Further controlled trials
+with a longer duration,46 with different doses, and using the 2010 American
+College of Rheumatology criteria for fibromyalgia are needed. Some patients with
+fibromyalgia may have adult GHD.
+10.Human Immunodeficiency Virus (HIV)-Infected Patient with Alterations
+in Body Fat Distribution (e.g., increased abdominal girth, lipodystrophy and
+excess abdominal fat, dorsocervical fat pad).26 Somatropin is not indicated for
+the treatment of HIV-associated adipose redistribution syndrome (HARS). HARS
+is a subset of HIV lipodystrophy and is defined as maldistribution of body fat
+characterized by central fat accumulation (lipohypertrophy) with or without
+lipoatrophy. In HARS, fat may also accumulate in the upper body subcutaneous
+area such as the dorsocervical area. These changes may be associated with
+metabolic disturbances (insulin resistance, glucose intolerance, dyslipidemia) and
+belly image distress. Safety and efficacy are not established.
+11.Infertility. Some trials have demonstrated that GH intervention is associated
+with improved in-vitro fertilization (IVF) reproductive outcome, but others have
+concluded there is no evidence of an increased chance of a live birth with use of
+somatropin. More randomized controlled clinical trials with rigorous methodology
+are needed to confirm the beneficial effects of GH on assisted reproductive
+technology outcomes.47 A 2025 phase III open-label study showed that empiric
+adjunvant GH therapy in GnRH antagonist cycles does not improve IVF stimulation
+results or reproductive outcomes, including implantation, miscarriage, and clinical
+pregnancy rates.10
+12.Obesity.48,49 Somatropin is not indicated for the treatment of obesity. Low growth
+hormone levels are a consequence of central obesity and not a cause. Obesity is
+associated with decreased basal and pusatile release of growth hormone and
+decreased stimulated growth hormone release. Somatropin therapy does not have
+significant beneficial effects on obesity in persons without GHD and does not
+produce significant overall weight loss. Supraphysiologic doses of somatropin
+have been used to treat obesity. Effects of long-term therapy with somatropin are
+unknown.
+13.Osteoporosis.50,51 Guidelines for treatment or prevention of osteoporosis do not
+include recommendations for use of somatropin. In one double-blind trial, 80
+postmenopausal women with osteoporosis (56% of patients [n = 45/80] had a
+history of fractures) were randomized to somatropin 0.33 mg/day or 0.83 mg/day
+Page 20 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+or to placebo for three years.50 The double-blind phase was 18 months and
+patients on somatropin continued drug for another 18 months and patients on
+placebo stopped at 18 months. Patients were compared with an age-matched
+random population sample of women (n = 120). All patients received calcium 750
+mg, vitamin D 400 units, and hormone replacement therapy. All women were
+followed for a total of 10 years. Bone mineral density (BMD) increased in the
+patients receiving somatropin at Years 4 and 5, and after 10 years, BMD decreased
+to similar levels as before treatment. At 10 years, 28% of women (n = 22/80)
+had fractures. In the control group, fractures increased from 8% of patients at
+baseline to 32% of patients after 10 years. At 10 years, 41% of patients (n =
+33/80) had stopped hormone replacement therapy; 23% had started
+bisphosphonates due to fractures, and 3% had received Forteo® (teriparatide
+injection). Larger studies are needed to determine the effects of somatropin
+therapy on bone mineral density and fractures in non-growth hormone deficient
+persons.
+REFERENCES
+1. Genotropin® subcutaneous injection [prescribing information]. New York, NY: Pfizer; August 2024.
+2. Humatrope® subcutaneous injection [prescribing information]. Indianapolis, IN: Eli Lilly; December
+2023.
+3. Norditropin® subcutaneousinjection [prescribing information]. Plainsboro, NJ: Novo Nordisk; March
+2020.
+4. Nutropin AQ® subcutaneous injection [prescribing information]. South San Francisco, CA:
+Genentech; December 2016.
+5. Saizenprep® subcutaneous injection [prescribing information]. Rockland, MA: EMD Serono;
+February 2020.
+6. Zomacton® subcutaneous injection [prescribing information]. Parsippany, NJ: Ferring; April 2024.
+7. Omnitrope® injection [prescribing information]. Princeton, NJ: Sandoz; November 2024.
+8. Zorbtive® subcutaneous injection [prescribing information]. Rockland, MA: EMD Serono;
+September 2019.
+9. Serostim® subcutaneous injection [prescribing information]. Rockland, MA: EMD Serono; June
+2019.
+10. Mourad A, Jamal W, Hemmings R, et al. Empirical use of growth hormone in IVF is useless: the
+largest randomized controlled trial. Hum Reprod. 2025;40(1):77-84.
+11. Isfan F, Kanold J, Merlin E, et al. Growth hormone treatment impact on growth rate and final
+height of patients who received HSCT with TBI or/and cranial irradiation in childhood: a report
+from the French Leukaemia Long-Term Follow-Up Study (LEA). Bone Marrow Transplant.
+2012;47:684-693
+12. Cohen P, Rogol AD, Deal CL, et al; 2007 ISS Consensus Workshop participants. Consensus
+statement on the diagnosis and treatment of children with idiopathic short stature: a summary of
+the Growth Hormone Research Society, the Lawson Wilkins Pediatric Endocrine Society, and the
+European Society for Paediatric Endocrinology Workshop. J Clin Endocrinol Metab. 2008;93:4210-
+4217.
+13. Wilson TA, Rose SR, Cohen P, et al. Update of guidelines for the use of growth hormone in
+children: the Lawson Wilkins Pediatric Endocrinology Society Drug and Therapeutics Committee. J
+Pediatr. 2003;143:415-421.
+14. Freemark M. Editorial: Growth hormone treatment of "idiopathic short stature": not so fast. J Clin
+Endocrinol Metab. 2004;89:3138-3139.
+15. Molitch ME, Clemmons DR, Malozowski S, et al; Endocrine Society. Evaluation and treatment of
+adult growth hormone deficiency: an Endocrine Society clinical practice guideline. J Clin Endocrinol
+Metab. 2011;96:1587-1609.
+16. Ho KK; 2007 GH Deficiency Consensus Workshop Participants. Consensus guidelines for the
+diagnosis and treatment of adults with GH deficiency II: a statement of the GH Research Society
+in association with the European Society for Pediatric Endocrinology, Lawson Wilkins Society,
+Page 21 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+European Society of Endocrinology, Japan Endocrine Society, and Endocrine Society of Australia.
+Eur J Endocrinol. 2007;157:695-700.
+17. Melmed S. Idiopathic adult growth hormone deficiency. J Clin Endocrinol Metab. 2013;98:2187-
+2197.
+18. Clemmons DR, Molitch M, Hoffman AR, et al. Growth hormone should be used only for approved
+indications. J Clin Endocrinol Metab. 2014;99:409-411.
+19. Fine RN, Martz K, Stablein D. What have 20 years of data from the North American Pediatric Renal
+Transplant Cooperative Study taught us about growth following renal transplantation in infants,
+children, and adolescents with end-stage renal disease? Pediatr Nephrol. 2010;25:739-746.
+20. Drube J, Wan M, Bonthuis M, et al; European Society for Paediatric Nephrology Chronic Kidney
+Disease Mineral and Bone Disorders, Dialysis, and Transplantation Working Groups. Clinical
+practice recommendations for growth hormone treatment in children with chronic kidney disease.
+Nat Rev Nephrol. 2019;15(9):577-589.
+21. Noonan JA, Kappelgaard AM. The efficacy and safety of growth hormone therapy in children with
+Noonan syndrome: a review of the evidence. Horm Res Paediatr. 2015;83:157-166.
+22. Deal CL, Tony M, Höybye C, et al; 2011 Growth Hormone in Prader-Willi Syndrome Clinical Care
+Guidelines Workshop Participants. Growth Hormone Research Society workshop summary:
+consensus guidelines for recombinant human growth hormone therapy in Prader-Willi syndrome. J
+Clin Endocrinol Metab. 2013;98:E1072-E1087.
+23. Blum WF, Crowe BJ, Quigley CA, et al; for the Shox Study Group. Growth hormone is effective in
+treatment of short stature associated with short stature homeobox-containing gene: two-year
+results of a randomized, controlled, multi-center trial. J Clin Endocrinol Metab. 2007;92:219-228.
+24. Blum WF, Ross JL, Zimmermann AG, et al. GH treatment to final height produces similar height
+gains in patients with SHOX deficiency and Turner syndrome: results of a multicenter trial. J Clin
+Endocrinol Metab. 2013 Aug;98(8):E1383-1392.
+25. Gravholt CH, Andersen NH, Conway GS, et al; International Turner Syndrome Consensus Group.
+Clinical practice guidelines for the care of girls and women with Turner syndrome: proceedings
+from the 2016 Cincinnati International Turner Syndrome Meeting. Eur J Endocrinol.
+2017;177(3):G1-G70.
+26. Badowski M, Pandit NS. Pharmacologic management of human immunodeficiency virus wasting
+syndrome. Pharmacotherapy. 2014;34:868-881.
+27. Yuen KC, Tritos NA, Samson SL, et al. American Association of Clinical Endocrinologists, American
+College of Endocrinology disease state clinical review: update on growth hormone stimulation
+testing and proposed revised cut-point for the glucagon stimulation test in the diagnosis of adult
+growth hormone deficiency. Endocr Pract. 2016;22(10):1235-1244.
+28. Guzman J, Kerr T, Ward LM, et al. Growth and weight gain in children with juvenile idiopathic
+arthritis: results from the ReACCh-Out cohort. Pediatr Rheumatol Online J. 2017;15(1):68.
+29. Macrilen™ oral solution [prescribing information]. Plainsboro, NJ: Novo Nordisk; July 2021.
+30. Andersen M. The robustness of diagnostic tests for GH deficiency in adults. Growth Horm IGF Res.
+2015;25:108-114.
+31. Grimberg A, DiVall SA, Polychronakos C, et al; Drug and Therapeutics Committee and Ethics
+Committee of the Pediatric Endocrine Society. Guidelines for growth hormone and insulin-like
+growth factor-I treatment in children and adolescents: growth hormone deficiency, idiopathic short
+stature, and primary insulin-like growth factor-I deficiency. Horm Res Paediatr. 2016;86(6):361-
+397.
+32. Vance ML. Can growth hormone prevent aging? N Engl J Med. 2003;348:779-780.
+33. Liu H, Bravata DM, Olkin I, et al. Systematic review: the safety and efficacy of growth hormone in
+the healthy elderly. Ann Intern Med. 2007;146:104-115.
+34. Pope HG Jr, Wood RI, Rogol A, et al. Adverse health consequences of performance-enhancing
+drugs: an Endocrine Society scientific statement. Endocr Rev. 2014;35:341-375.
+35. Chen M, Eugster EA. Central Precocious Puberty: Update on diagnosis and treatment. Paediatr
+Drugs. 2015;17(4)272-81.
+36. Shi Y, Ma Z, Yang X, et al. Gonadotropin-releasing hormone analogue and recombinant human
+growth hormone treatment for idiopathic central precocious puberty in girls. Front Endocrinol.
+2023; 13:1085385.
+37. Cleare AJ, Sookdeo SS, Jones J, et al. Integrity of the growth hormone/insulin-like growth factor
+system is maintained in patients with chronic fatigue syndrome. J Clin Endocrinol Metab.
+2000;85:1433-1439.
+Page 22 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+38. Lin-Su K, Harbison MD, Lekarev O, et al. Final adult height in children with congenital adrenal
+hyperplasia treated with growth hormone. J Clin Endocrinol Metab. 2011;96:1710-1717.
+39. Speiser PW, Arlt W, Auchus RJ, et al. Congenital adrenal hyperplasia due to steroid 21-
+hydroxylase deficiency: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab.
+2018:103(11):4043-4088.
+40. De Luca F, Argente J, Cavallo L, et al; International Workshop on Management of Puberty for
+Optimum Auxological Results. Management of puberty in constitutional delay of growth and
+puberty. Pediatr Endocrinol Metab. 2001;14 Suppl 2:953-957.
+41. Simon D, Prieur AM, Quartier P, et al. Early recombinant human growth hormone treatment in
+glucocorticoid-treated children with juvenile idiopathic arthritis: a 3-year randomized study. J Clin
+Endocrinol Metab. 2007;92:2567-2573.
+42. Bechtold S, Ripperger P, Dalla Pozza R, et al. Growth hormone increases final height in patients
+with juvenile idiopathic arthritis: data from a randomized controlled study. J Clin Endocrinol
+Metab. 2007;92:3013-3018.
+43. Puustinen L, Jalanko H, Holmberg C, et al. Recombinant human growth hormone treatment after
+liver transplantation in childhood: the 5-year outcome. Transplantation. 2005;79:1241-1246.
+44. Wakeling EL, Brioude F, Lokulo-Sodipe O, et al. Diagnosis and management of Silver-Russell
+syndrome: first international consensus statement. Nat Rev Endocrinol. 2017:13(2):105-124.
+45. Cuatrecasas G, Alegre C, Fernandez-Solà J, et al. Growth hormone treatment for sustained pain
+reduction and improvement in quality of life in severe fibromyalgia. Pain. 2012;153:1382-1389.
+46. Geenen R, Jacobs JW, Bijlsma JW. Evaluation and management of endocrine dysfunction in
+fibromyalgia. Rheum Dis Clin North Am. 2002;28:389-404.
+47. Chang CW, Sung YW, Hsueh YW, et al. Growth hormone in fertility and infertility: Mechanism of
+action and clinical applications. 2022;13:1040503.
+48. Shadid S, Jensen MD. Effects of growth hormone administration in human obesity. Obes Res.
+2003;11:170-175.
+49. Mekala KC, Tritos NA. Effects of recombinant human growth hormone therapy in obesity in adults:
+a meta-analysis. J Clin Endocrinol Metab. 2009;94:130-137.
+50. Krantz E, Trimpou P, Landin-Wilhelmsen K. Effect of growth hormone treatment on fractures and
+quality of life in postmenopausal osteoporosis: A 10-Year follow-up study. J Clin Endocrinol Metab.
+2015;100:3251-3259.
+51. Gillberg P, Mallmin H, Petren-Mallmin M, et al. Two years of treatment with recombinant human
+growth hormone increases bone mineral density in men with idiopathic osteoporosis. J Clin
+Endocrinol Metab. 2002;87:4900-4906.
+52. Quigley CA, Zagar AJ, Liu CC, et al. United States multicenter study of factors predicting the
+persistence of GH deficiency during the transition period between childhood and adulthood. Int J
+Pediatr Endocrinol. 2013;2013(1):6.
+53. Yuen K, Biller B, Radovick S, et al. American Association of Clinical Endocrinologists and American
+College of Endocrinology guidelines for management of growth hormone deficiency in adults and
+patients transitioning from pediatric to adult care. Endocr Pract. 2019;25(11):1191-1232.
+54. Butler MG, Miller JL, Forster SL. Prader-Willi syndrome – clinical genetics, diagnosis, and treatment
+approaches: an update. Curr Pediatr Rev. 2019;15(4):207-244.
+55. Driscoll DJ, Miller JL, Cassidy SB. Prader-Willi Syndrome. In: Adam MP, Feldman J, Mirzaa GM, et
+al., editors. GeneReview® [Internet]. Updated December 5, 2024. Available at:
+www.ncbi.nlm.nih.gov/books/NBK1330/pdf/Bookshelf_NBK1330.pdf. Accessed on March 20,
+2025.
+56. Roberts AE. Noonan Syndrome. 2022 Feb 17. In Adam MP, Everman DB, Mirzaa GM, et al.,
+editors. GeneReviews® [Internet]. Seattle, WA: University of Washington. Available at: Noonan
+Syndrome - GeneReviews® - NCBI Bookshelf. Accessed on April 9, 2025.
+57. Cosciens BioPharma. Product Publicationns 2024. Available at: Our Product | COSCIENS BIO.
+Accessed on April 10, 2025.
+58. Iyer K, DiBaise JK, Rubio-Tapia A. AGA clinical practice update on management of short bowel
+syndrome: Expert review. Clin Gastroenterol Hepatol. 2022;20(10):2185-2194.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Page 23 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+Annual Revision Growth Hormone Deficiency in a Child or Adolescent: 04/05/2023
+Patient has panhypopituitarism was changed to patient has
+multiple pituitary hormone deficiencies. Also removed the
+following criterion: Patient has pituitary stalk agenesis,
+empty sella, sellar or supra-sellar mass lesion, or ectopic
+posterior pituitary “bright spot” on magnetic resonance image
+or computed tomography.”
+Growth Hormone Deficiency in an Adult or Transition
+Adolescent: Updated wording from “patient has known
+mutations, embryopathic lesions, congenital or genetic
+defects, or structural hypothalamic pituitary defects” to
+“patient has known perinatal insults OR congenital or genetic
+defects.” Removed the word “alone” when referencing the
+arginine test.
+Chronic Kidney Disease in a Child or Adolescent: The
+following criterion was added for initial and continuation
+therapy: Patient has or had chronic kidney disease as defined
+by a glomerular filtration rate < 60 milliliters/minute. The
+following criterion was removed under initial therapy:
+“chronic kidney disease defined by abnormal creatinine
+clearance.” The following criteria were added for initial
+criteria: Patient has persistent growth failure as defined by
+both of the following 1) Patient’s baseline height is less than
+the 5th percentile for age and gender and 2) Patient’s baseline
+height velocity is below the 25th percentile over a period of 3
+months infants (≤ 1 year of age) or 6 months in children and
+adolescents.
+Noonan Syndrome in a Child or Adolescent: The
+following criteria was added for initial and continuation
+therapy: The diagnosis of Noonan syndrome has been
+confirmed by one of the following i) Noonan syndrome has
+been confirmed with genetic testing or ii) If genetic testing
+does not definitively confirm the diagnosis, the prescriber has
+made a clinical diagnosis of Noonan syndrome and note was
+added with a description of a clinical diagnosis.
+Prader-Willi Syndrome: The following criterion was added
+for initial and continuation therapy: The diagnosis of Prader-
+Willi syndrome has been confirmed by genetic testing.
+Short Stature Homeobox-Containing Gene Deficiency in
+a Child or Adolescent: The following criterion was added
+for continuation of therapy: Patient has short stature
+homebox-containing gene deficiency demonstrated by
+chromosome analysis. For initial therapy, the patient’s
+baseline height is less than the 3rd percentile for age and
+gender was changed to less than the 5th percentile.
+Child Born Small for Gestational Age or with
+Intrauterine Growth Restriction Including a Child with
+Silver-Russell Syndrome: The following criteria was added
+for continuation of therapy: i) Patient was born small for
+gestational age, which is defined as birth weight and/or birth
+length that is > 2 standard deviations (SD) below the mean
+(< -2 SD) for gestational age and gender and ii) Patient did
+not have sufficient catch-up growth before age 2 to 4 years.
+Removed continuation of therapy criteria for patients ≥ 18
+years of age.
+Turner Syndrome: The following criterion was added for
+initial and continuation of therapy: The diagnosis of Turner’s
+syndrome has been confirmed by karyotype analysis (i.e.,
+chromosome analysis). The following criterion was added for
+Page 24 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+initial therapy: Patient’s baseline height is less than the 5th
+percentile for age and gender; previous wording which stated
+that patient has short stature associated with Turner’s
+syndrome was removed.
+Short Bowel Syndrome in an Adult: The following criterion
+was added to initial therapy: Patient is dependent on
+intravenous parenteral nutrition.
+Human Immunodeficiency Virus Infection with
+Wasting or Cachexia in an Adult: The following criteria was
+added: i) Patient has tried one appetite stimulant or other
+anabolic agent or ii) Appetite stimulants or other anabolic
+agents are contraindicated.
+Selected Changes effective for 1.1.2024: 11/01/2023
+Revision Growth Hormone Deficiency in a Child or Adolescent:
+Criterion that specified the result of a growth hormone
+stimulation test to be < 10 ng/mL was added. Criterionthat
+the stimulation test show an inadequate response as defined
+by a peak response below the normal reference range as
+determined by the testing laboratory was removed.
+Annual Revision No criteria changes. 04/03/2024
+Annual Revision Removed Zorbtive from the policy (obsolete). 04/16/2025
+Non-Growth Hormone Deficient Short Stature
+(Idiopathic Short Stature) in a Child or Adolescent: A
+criterion was added for initial therapy that the medication has
+been prescribed by or in consultation with an endocrinologist.
+Growth Hormone Deficiency in Adult or Transition
+Adolescent: The criterion “Patient (adult onset or transition
+adolescent) has three or more of the following pituitary
+hormone deficiencies:.” was updated to “Patient (adult onset
+or transition adolescent) has or had three or more of the
+following pituitary hormone deficiencies prior to hormone
+replacement therapy (if hormone therapy if required)”. The
+criterion “The age and gender adjusted serum insulin-like
+growth factor-1 is below the lower limit of the normal
+reference range for the reporting laboratory” was updated to
+“The age and gender adjusted serum insulin-like growth
+factor-1 is or was below the lower limit of the normal
+reference range for the reporting laboratory (…), prior to
+growth hormone therapy”.
+Noonan Syndrome in a Child or Adolescent: The criterion
+“Noonan syndrome has been confirmed with genetic testing”
+was updated to “Noonan syndrome has been confirmed by a
+heterozygous pathogenic variant in BRAF, KRAS, MAP2K1,
+MRAS, NRAS, PTPN11, RAF1, RASA2, RIT1, RRAS2, SOS1, or
+SOS2 OR by either a heterozygous variant or biallelic
+pathogenic variants in LZTR1.”
+Prader-Willi Syndrome: The criterion “The diagnosis of
+Prader-Willi syndrome has been confirmed by genetic testing”
+was updated to “The diagnosis of Prader-Willi syndrome has
+been established by identification of abnormal DNA
+methylation of chromosome 15q11.2-q13.”
+Human Immunodeficiency Virus Infection with
+Wasting or Cachexia in an Adult (Serostim only):
+Removed the criterion “If the patient has previously received
+treatment with Serostim for this use, patient has been off
+Serostim therapy for at least 1 month.”
+In applicable diagnoses, updated the wording of “buffalo
+hump” was updated to “dorsocervical fat pad.”
+Page 25 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy
+In applicable diagnoses, updated the wording “Patient has
+been evaluated by an endocrinologist” to “The medication has
+been prescribed by or in consultation with an
+endocrinologist.”
+Selected Short Bowel Syndrome. Criteria was updated to approve if 04/23/2025
+Revision the patient has already been started on somatropin therapy
+for this condition or has responded to somatropin therapy in
+the past.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+Page 26 of 26 - Cigna National Formulary Coverage - Policy: Growth Disorders – Growth Hormone Prior
+Authorization Policy

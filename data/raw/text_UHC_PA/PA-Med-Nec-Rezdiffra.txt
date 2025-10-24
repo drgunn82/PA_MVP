@@ -1,0 +1,97 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2338-2
+Program Prior Authorization/Medical Necessity
+Medication Rezdiffra™ (resmetirom)
+P&T Approval Date 4/2024, 1/2025
+Effective Date 4/1/2025
+1. Background:
+Rezdiffra™ (resmetirom) is a thyroid hormone receptor-beta (THR-beta) agonist indicated in
+conjunction with diet and exercise for the treatment of adults with noncirrhotic nonalcoholic
+steatohepatitis (NASH) with moderate to advanced liver fibrosis (consistent with stages F2 to
+F3 fibrosis). This indication is approved under accelerated approval based on improvement of
+NASH and fibrosis. Continued approval for this indication may be contingent upon
+verification and description of clinical benefit in confirmatory trials.
+Limitations of Use:
+Avoid use of Rezdiffra in patients with decompensated cirrhosis.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Rezdiffra will be approved based on all of the following criteria:
+a. Diagnosis of metabolic dysfunction-associated steatohepatitis (MASH) [formerly
+known as nonalcoholic steatohepatitis (NASH)]
+-AND-
+b. Disease is fibrosis stage F2 or F3 as confirmed by one of the following:
+(1) Liver stiffness measurement (LSM) by vibration-controlled transient
+elastography (VCTE) (e.g., FibroScan)
+(2) LSM by magnetic resonance elastography (MRE)
+(3) Liver biopsy within the past 12 months
+-AND-
+c. Patient has received comprehensive counseling regarding lifestyle modification
+(e.g., dietary or caloric restriction, exercise, behavioral support, community-based
+program)
+-AND-
+d. Prescribed by or in consultation with a gastroenterologist or hepatologist
+Authorization will be issued for 12 months
+© 2025 UnitedHealthcare Services, Inc.
+1
+B. Reauthorization
+1. Rezdiffra will be approved based on all of the following criteria:
+a. Documentation of positive clinical response to Rezdiffra therapy (e.g.,
+improvement in or stabilization of fibrosis)
+-AND-
+b. Patient has not progressed to cirrhosis
+-AND-
+c. Prescribed by or in consultation with a gastroenterologist or hepatologist
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-
+10) and/or claim logic. Use of automated approval and re-approval processes varies by
+program and/or therapeutic class.
+4. References:
+1. Rezdiffra [package insert]. West Conshohocken, PA: Madrigal Pharmaceuticals, Inc.;
+March 2024.
+2. Harrison SA, Bedossa P, Guy CD, Schattenberg JM, Loomba R, Taub R, Labriola D,
+Moussa SE, Neff GW, Rinella ME, Anstee QM, Abdelmalek MF, Younossi Z, Baum SJ,
+Francque S, Charlton MR, Newsome PN, Lanthier N, Schiefke I, Mangia A, Pericàs JM,
+Patil R, Sanyal AJ, Noureddin M, Bansal MB, Alkhouri N, Castera L, Rudraraju M,
+Ratziu V; MAESTRO-NASH Investigators. A Phase 3, Randomized, Controlled Trial of
+Resmetirom in NASH with Liver Fibrosis. N Engl J Med. 2024 Feb 8;390(6):497-509.
+doi: 10.1056/NEJMoa2309000. PMID: 38324483.
+3. Rinella ME, Lazarus JV, Ratziu V, et al. A multisociety Delphi consensus statement on
+new fatty liver disease nomenclature. Hepatology. 2023;78(6):1966-1986.
+doi:10.1097/HEP.0000000000000520
+4. Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al. AASLD Practice Guidance on
+the clinical assessment and management of nonalcoholic fatty liver disease. Hepatology.
+2023;77(5):1797-1835. doi:10.1097/HEP.0000000000000323
+5. Wattacheril JJ, Abdelmalek MF, Lim JK, Sanyal AJ. AGA Clinical Practice Update on
+the Role of Noninvasive Biomarkers in the Evaluation and Management of Nonalcoholic
+Fatty Liver Disease: Expert Review. Gastroenterology. 2023;165(4):1080-1088.
+doi:10.1053/j.gastro.2023.06.013
+© 2025 UnitedHealthcare Services, Inc.
+2
+6. European Association for the Study of the Liver (EASL). Electronic address:
+easloffice@easloffice.eu; European Association for the Study of Diabetes (EASD);
+European Association for the Study of Obesity (EASO); European Association for the
+Study of the Liver (EASL). EASL-EASD-EASO Clinical Practice Guidelines on the
+management of metabolic dysfunction-associated steatotic liver disease (MASLD). J
+Hepatol. 2024;81(3):492-542. doi:10.1016/j.jhep.2024.04.031
+7. Chen VL, Morgan TR, Rotman Y, et al. Resmetirom therapy for metabolic dysfunction-
+associated steatotic liver disease: October 2024 updates to AASLD Practice
+Guidance. Hepatology. Published online October 18, 2024.
+doi:10.1097/HEP.0000000000001112
+8. Noureddin M, Charlton MR, Harrison SA, et al. Expert Panel Recommendations:
+Practical Clinical Applications for Initiating and Monitoring Resmetirom in Patients With
+MASH/NASH and Moderate to Noncirrhotic Advanced Fibrosis. Clin Gastroenterol
+Hepatol. 2024;22(12):2367-2377. doi:10.1016/j.cgh.2024.07.003
+Program Prior Authorization/Medical Necessity - Rezdiffra (resmetirom)
+Change Control
+4/2024 New program
+1/2025 Revised initial authorization criteria for confirming fibrosis stage F2 or
+F3. Added criterion to reauthorization criteria that patient has not
+progressed to cirrhosis. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+3

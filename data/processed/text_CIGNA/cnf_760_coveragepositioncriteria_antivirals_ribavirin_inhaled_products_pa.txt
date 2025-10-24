@@ -1,0 +1,165 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Antivirals – Ribavirin (Inhaled Products) Prior Authorization Policy
+• Virazole® (ribavirin inhalation solution − Bausch, generic)
+REVIEW DATE: 06/18/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Ribavirin is a synthetic nucleoside with antiviral activity.1 Ribavirin inhalation solution
+(referred to as aerosolized ribavirin in this policy) is indicated for the treatment of
+hospitalized infants and young children with severe lower respiratory tract infections
+due to respiratory syncytial virus (RSV). Treatment early in the course of severe
+lower respiratory tract infection may be necessary to achieve efficacy.
+Disease Overview
+RSV causes seasonal annual epidemics worldwide with year-round disease seen in
+some tropical locations. By 2 years of age, most children have experienced a primary
+infection; re-infection can occur throughout life.3 Subsequent infections are usually
+less severe than a primary infection, particularly among otherwise healthy older
+children and adults. Recurrent RSV infection manifests as mild upper respiratory
+tract illness and seldom involves the lower respiratory tract.2
+Page 1 of 5 - Cigna National Formulary Coverage - Policy: Antivirals – Ribavirin (Inhaled Products) Prior
+Authorization Policy
+Aerosolized ribavirin has also been used off-label in adults for RSV and for other
+respiratory viral infections, most commonly in immunocompromised patients.3,4
+Guidelines
+The American Academy of Pediatrics (2024) states that no available treatment
+shortens the course of bronchiolitis or hastens the resolution of RSV symptoms.2
+Management of young children hospitalized with bronchiolitis is supportive. Because
+of limited evidence for a clinically relevant benefit, potential toxic effects, and high
+cost, routine use of aerosolized ribavirin is not recommended.
+Guidelines from the American Society of Transplantation Infectious Diseases
+Community of Practice (2019) recommend aerosolized ribavirin in lung transplant
+recipients with upper or lower respiratory tract infection.3 Treatment with aerosolized
+or oral ribavirin for non-solid organ recipients with lower respiratory tract disease can
+be considered. Aerosolized ribavirin is also a therapeutic option in lung transplant
+recipients with parainfluenza virus and human metapneumovirus.
+The National Comprehensive Cancer Network guidelines for the prevention and
+treatment of cancer-related infections (version 1.2024 – April 30, 2024) recommend
+consideration of aerosolized ribavirin for the treatment of lower respiratory tract RSV
+disease (category 3).4 Comments related to the recommendation are to limit use to
+patients undergoing stem cell transplant or with leukemia and, that despite limited
+information in immunocompromised adults with RSV, use should be considered given
+the potential morbidity and mortality associated with RSV infection.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of aerosolized
+ribavirin. All approvals are provided for the duration noted below. In cases where
+the approval is authorized in months, 1 month is equal to 30 days. Because of the
+specialized skills required for evaluation and diagnosis of patients treated with
+aerosolized ribavirin as well as the monitoring required for adverse events and long-
+term efficacy, approval requires aerosolized ribavirin to be prescribed by or in
+consultation with a physician who specializes in the condition being treated.
+• Virazole® (ribavirin inhalation solution - Bausch,
+generic)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Respiratory Syncytial Virus (RSV), Treatment. Approve for 1 month if the
+patient meets ALL of the following (A, B, and C):
+3 Pages - Cigna National Formulary Coverage - Policy:Antivirals – Ribavirin (Inhaled Products) Prior Authorization Policy
+A) Patient is < 2 years of age; AND
+B) Patient is hospitalized; AND
+C) The medication is prescribed by or in consultation with a critical care specialist,
+infectious diseases physician, or pulmonologist.
+Other Uses with Supportive Evidence
+2. Respiratory Virus Treatment, Excluding COVID-19 (Coronavirus Disease
+2019). Approve for 1 month if the patient meets ALL of the following (A, B, and
+C):
+A) Patient is hospitalized; AND
+B) Patient meets ONE of the following (i, ii, or iii):
+i. Patient is a solid organ transplant recipient; OR
+ii. Patient has had a hematopoietic stem cell transplant; OR
+iii. Patient has cancer; AND
+C) The medication is prescribed by or in consultation with a critical care specialist,
+transplant physician, oncologist, infectious diseases physician, or
+pulmonologist.
+CONDITIONS NOT COVERED
+• Virazole® (ribavirin inhalation solution - Bausch,
+generic)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. COVID-19 (Coronavirus Disease 2019). Data are preliminary, additional
+study is needed.5,6 A Phase I, open-label, non-US (Greece, Brazil, and Mexico),
+non-randomized, two-arm study was conducted to evaluate the safety and
+efficacy of aerosolized ribavirin (as Virazole) in hospitalized adults with significant
+respiratory distress due to COVID-19 (n = 51).5 Patients received aerosolized
+ribavirin (100mg/mL for 30min or 50mg/mL for 60min) twice daily for up to 6
+days. Improvement of one or more level in clinical status severity was observed
+in 31.4% (n = 16/51) and 78.4% (n = 40/51) of patients at end-of-treatment and
+Day 30, respectively. Of 21 patients who required a ventilator, 16 (76.2%) were
+able to discontinue ventilator use. One case series reported on five hospitalized
+adults with COVID-19 who received aerosolized ribavirin (100 mg/mL twice daily
+for 6 days) as part of a compassionate use program in Italy (patients were also
+managed in accordance with Italian treatment guidelines for COVID).6 All patients
+fully recovered. Ribavirin is not addressed as a recommended treatment modality
+in guidelines from the Infectious Diseases Society of America or the National
+Institutes of Health.7,8
+3 Pages - Cigna National Formulary Coverage - Policy:Antivirals – Ribavirin (Inhaled Products) Prior Authorization Policy
+REFERENCES
+1. Virazole® inhalation solution [prescribing information]. Bridgewater, NJ: Bausch Health; May 2019.
+2. Respiratory Syncytial Virus. In: Kimberlin DW, Banerjee R, Barnett ED, Lynfield R, Sawyer MH
+(Eds). Red Book: 2024-2027 Report of the Committee of Infectious Diseases. 33rd Edition, Itasca,
+IL: American Academy of Pediatrics; 2024.
+3. Manuel O and Estabroook M; on behalf of the American Society of Transplantation Infectious
+Diseases Community Practice. RNA respiratory viral infections in solid organ transplant recipients:
+Guidelines from the American Society of Transplantation Infectious Diseases Community of Practice.
+Clinical Transplantation. 2019;33:e13511.
+4. The NCCN Prevention and Treatment of Cancer-Related Infections Clinical Practice Guidelines in
+Oncology (version 3.2024 – September 23, 2024). © 2024 National Comprehensive Cancer
+Network. Available at: http://www.nccn.org. Accessed on June 4, 2025.
+5. Poulakou G, Barakat M, Israel RJ and Bacci MR; on behalf of the Virazole Collaborator Group for
+COVID-19 Respiratory Distress. Ribavirin aerosol in hospitalized adults with respiratory distress and
+COVID-19: An open-label trial. Clin Transl Sci. 2023;16(1):165-174.
+6. Messina E, Danise A, Ferrari G, et al. Ribavirin aerosol in the treatment of SARS-CoV-2: a case
+series. Infect Dis Ther. 2021;10:2791-2804.
+7. Bhimraj A, Morgan RL, Hirsch Shumaker A, et al. Infectious Diseases Society of America Guidelines
+on the treatment and management of patients with COVID-19. Available at:
+https://www.idsociety.org/practice-guideline/covid-19-guideline-treatment-and-management/.
+Updated May 30, 2025. Accessed on June 4, 2025.
+8. COVID-19 treatment guidelines panel. Coronavirus disease 2019 (COVID-19) treatment guidelines.
+National Institutes of Health. Available at https://www.covid19treatmentguidelines.nih.gov/.
+Updated February 29, 2024. Accessed on June 4, 2025.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 06/07/2023
+Revision
+Annual No criteria changes. 06/12/2024
+Revision
+Annual Respiratory Syncytial Virus, Treatment. An infectious disease 06/18/2025
+Revision physician was added to the criterion specifying who could prescribe
+aerosolized ribavirin. Pulmonary specialist was changed to
+pulmonologist. Previously, only a critical care or pulmonary specialist
+were included.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Antivirals – Ribavirin (Inhaled Products) Prior Authorization Policy

@@ -1,0 +1,151 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1040-14
+Program Prior Authorization/Notification
+Medication Novarel® (chorionic gonadotropin) †, Ovidrel® (choriogonadotropin alfa) †,
+and Pregnyl® (chorionic gonadotropin)*
+P&T Approval Date 5/2013, 5/2014, 5/2015, 5/2016, 5/2017, 5/2018, 5/2019, 8/2019, 8/2020,
+11/2021, 11/2022, 11/2023, 5/2024, 6/2025
+Effective Date 9/1/2025
+1. Background:
+The body produces two types of gonadotropins, follicle-stimulating hormone (FSH) and
+luteinizing hormone (LH), both of which play a role in fertility and human reproduction. After
+they are produced by the pituitary gland, gonadotropins trigger production of other sex hormones
+which then promote production of egg and sperm. Produced in pregnant women by the placenta
+and extracted from the urine, human chorionic gonadotropin (hCG) is similar in chemical structure
+and function to LH.
+hCG is routinely used to trigger ovulation in the treatment of infertility, a disease of the
+reproductive system defined as one of the following:
+• inability to achieve a successful pregnancy due to an individual’s medical, sexual, or
+reproductive history;
+• failure to achieve a pregnancy after 12 months or more of regular unprotected sexual
+intercourse when the female partner is less than 35 years;
+• failure to achieve a pregnancy after 6 months or more of regular unprotected sexual
+intercourse when the female partner is 35 years or older
+hCG may also be used to treat cryptorchidism in boys because hCG is thought to induce testicular
+descent in situations when descent would have occurred at puberty. hCG thus may help to predict
+whether or not orchiopexy will be needed in the future. Although, in some cases, descent
+following hCG administration is permanent, in most cases the response is temporary. hCG is also
+used to induce puberty in boys and to treat androgen deficiency in hypogonadotropic
+hypogonadism. However, the major use of hCG preparations in males is in the initiation and
+maintenance of spermatogenesis in hypogonadotropic men who desire fertility.
+Novarel (chorionic gonadotropin)† and Pregnyl (chorionic gonadotropin) are indicated for
+induction of ovulation and pregnancy in the anovulatory, infertile woman in whom the cause of
+anovulation is secondary and not due to primary ovarian failure, and who has been appropriately
+pretreated with human menotropins. They are also indicated for prepubertal cryptorchidism not
+due to anatomic obstruction and selected cases of hypogonadotropic hypogonadism
+(hypogonadism secondary to a pituitary deficiency) in males.
+Ovidrel (choriogonadotropin alfa) † is indicated for the induction of final follicular maturation and
+early luteinization in infertile women who have undergone pituitary desensitization and who have
+been appropriately pretreated with follicle stimulating hormones as part of an Assisted
+Reproductive Technology (ART) program such as in vitro fertilization and embryo transfer. It is
+© 2025 UnitedHealthcare Services, Inc.
+1
+also indicated for the induction of ovulation and pregnancy in anovulatory infertile patients in
+whom the cause of infertility is functional and not due to primary ovarian failure.
+2. Coverage Criteriaa:
+A. Ovulation Induction
+1. Novarel†, Ovidrel†, or Pregnyl will be approved based on all of the following criteria*:
+a. Diagnosis of anovulatory infertility
+-AND-
+b. Infertility is not due to primary ovarian failure
+-AND-
+c. For induction of ovulation
+-AND-
+d. Patient has been pre-treated with a follicular stimulating agent (e.g., gonadotropin,
+clomiphene citrate, letrozole)
+Authorization will be issued for 2 months.
+B. Ovarian Stimulation
+1. Novarel†, Ovidrel†, or Pregnyl will be approved based on one of the following criteria*:
+a. All of the following:
+(1) Diagnosis of infertility
+-AND-
+(2) For the development of multiple ovarian follicles
+-AND-
+(3) Patient has been or will be pre-treated with a follicular stimulating agent (e.g.,
+gonadotropin, clomiphene citrate, letrozole)
+-OR-
+b. All of the following:
+(1) Used for fertility preservation
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+2
+(2) The individual will undergo gonadotoxic therapy (e.g., exposure to cytotoxic
+agents, invasive surgery, prolonged hormonal ovarian suppression, radiation
+therapy)
+-AND-
+(3) Will be used as part of an assisted reproductive technology (e.g., in vitro
+fertilization) procedure
+Authorization will be issued for 2 months.
+C. Prepubertal Cryptorchidism
+1. Novarel†, Ovidrel†, or Pregnyl will be approved based on the following criterion*:
+a. Diagnosis of prepubertal cryptorchidism not due to anatomical obstruction
+Authorization will be issued for 6 weeks.
+D. Hypogonadotropic Hypogonadism
+1. Initial Authorization
+a. Novarel†, Ovidrel†, or Pregnyl will be approved based on all of the following criteria*:
+(1) Diagnosis of hypogonadism secondary to pituitary deficiency
+-AND-
+(2) Low testosterone (below normal reference level provided by the physician’s
+laboratory)
+-AND-
+(3) One of the following:
+(a) Low LH (below normal reference level provided by the physician’s laboratory)
+(b) Low FSH (below normal reference level provided by the physician’s
+laboratory)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Novarel†, Ovidrel†, or Pregnyl will be approved based on the following criterion*:
+(1) Documentation of positive clinical response to therapy
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services, Inc.
+3
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limitations may also be in place.
+• Exclusion: †human chorionic gonadotropin (generic), Novarel and Ovidrel are excluded from
+coverage for the majority of our benefits.
+*Infertility is typically excluded from coverage for UnitedHealthcare. Please refer to member’s
+specific benefits for coverage determination.
+4. References:
+1. World Health Organization web site. https://www.who.int/news-room/fact-
+sheets/detail/infertility. Accessed May 5, 2025.
+2. American Society for Reproductive Medicine. Definitions of infertility and recurrent pregnancy
+loss: a committee opinion. Fertil Steril 2013;Jan;99(1):63
+3. Petak SM, Nankin HR, Spark RF, Swerdloff RS, Rodriguez-Rigau LJ. American Association of
+Clinical Endocrinologists Medical Guidelines for clinical practice for the evaluation and
+treatment of hypogonadism in adult male patients – 2002 update. Endocr Pract. 2002;8:440-456.
+4. Novarel [package insert]. Parsippany, NJ: Ferring Pharmaceuticals Inc.; May 2023
+5. Pregnyl [package insert]. Jersey City, NJ: Organon & Co.; March 2025.
+6. Ovidrel [package insert]. Rockland, MA: EMD Serono, Inc.; February 2022.
+Program Prior Authorization/Notification – Novarel (chorionic gonadotropin),
+Ovidrel (choriogonadotropin alfa), and Pregnyl (chorionic gonadotropin)
+Change Control
+5/2014 Annual review. No changes to the criteria. References updated.
+5/2015 Annual review. No changes to the criteria. Updated background and
+references.
+5/2016 Annual review. No changes to the criteria. Updated references.
+5/2017 Annual review. No changes to the criteria. Updated references.
+5/2018 Annual review. No changes to the criteria. Updated references.
+5/2019 Annual review. No changes to the criteria. Updated references.
+8/2019 Indicated that human chorionic gonadotropin (generic), Novarel and
+Ovidrel are excluded from coverage for the majority of our benefits.
+8/2020 Annual review. No changes to the criteria.
+11/2021 No changes to criteria. Updated references.
+11/2022 Annual review. Added state mandate and updated references.
+11/2023 Annual review. Updated references.
+5/2024 Added coverage criteria for fertility preservation for iatrogenic infertility.
+Updated term "controlled ovarian hyperstimulation” to “ovarian
+© 2025 UnitedHealthcare Services, Inc.
+4
+stimulation”.
+6/2025 Updated coverage criteria for fertility preservation for iatrogenic infertility
+to include additional examples of gonadotoxic therapy such as prolonged
+hormonal ovarian suppression. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+5

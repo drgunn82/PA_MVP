@@ -1,0 +1,154 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Metabolic Disorders – Primary Hyperoxaluria Medications – Rivfloza Prior
+Authorization Policy
+• Rivfloza™ (nedosiran subcutaneous injection – Novo Nordisk)
+REVIEW DATE: 11/22/2023
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Rivfloza, a lactate dehydrogenase A-directing (LDHA) small interfering RNA, is
+indicated for the treatment of primary hyperoxaluria type 1 (PH1) to lower urinary
+and plasma oxalate levels in adults and children ≥ 9 years of age with relatively
+preserved kidney function.1
+Disease Overview
+Primary hyperoxaluria type 1 is a rare autosomal recessive inborn error of glyoxylate
+metabolism that results in the overproduction of oxalate, which forms insoluble
+calcium oxalate crystals that accumulate in the kidney and other organs, leading to
+issues such as nephrocalcinosis, formation of renal stones, and renal impairment.2
+Mutations in the alanine:glyoxylate aminotransferase gene (AGXT) cause primary
+hyperoxaluria type 1.3 Liver transplantation is the only curative intervention for
+primary hyperoxaluria type 1 as it corrects the underlying enzymatic defect due to
+mutations of the AGXT gene.2-4
+Clinical Efficacy
+The efficacy of Rivfloza for the treatment of primary hyperoxaluria type 1 has been
+evaluated in one pivotal study.1,5 The study included patients ≥ 9 years of age with
+Page 1 of 5 - Cigna National Formulary Coverage - Policy: Metabolic Disorders – Primary Hyperoxaluria
+Medications – Rivfloza Prior Authorization Policy
+genetically confirmed PH1 and urinary oxalate excretion ≥ 0.7 mmol/24 hr/1.73 m2.
+An ongoing open-label extension trial is following patients for up to 4 years.6 The
+primary efficacy endpoint of the area under the curve (AUC) percent change from
+baseline in 24-hour urinary oxalate excretion was assessed following 6 months of
+Rivfloza therapy.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Rivfloza. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Rivfloza as well as the
+monitoring required for adverse events and long-term efficacy, initial approval
+requires Rivfloza to be prescribed by or in consultation with a physician who
+specializes in the condition being treated. All reviews will be forwarded to the Medical
+Director for evaluation.
+Documentation: Documentation is required for use of Rivfloza as noted in the
+criteria as [documentation required]. Documentation may include, but is not
+limited to, chart notes, laboratory tests, claims records, and/or other information.
+Subsequent coverage reviews for a patient who has previously met the
+documentation requirements and related criteria in the Rivfloza Prior Authorization
+Policy through the Coverage Review Department, and who is requesting
+reauthorization, are NOT required to re-submit documentation for reauthorization,
+except for the criterion requiring documentation of a continued benefit from Rivfloza
+therapy.
+• Rivfloza™ (nedosiran subcutaneous injection – Novo Nordisk)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Primary Hyperoxaluria Type 1. Approve Rivfloza for the duration noted if the
+patient meets one of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets the following (i, ii,
+iii, iv, v, and vi):
+i. Patient is ≥ 9 years of age; AND
+ii. Patient has had a genetic test confirming the diagnosis of Primary
+Hyperoxaluria Type 1 via identification of an alanine:glyoxylate
+aminotransferase gene (AGXT) mutation [documentation required];
+AND
+iii. Patient has an estimated glomerular filtration rate (eGFR) ≥ 30 ml/min
+per 1.73 m2 [documentation required]; AND
+iv. Patient meets ONE of the following (a, b, or c):
+3 Pages - Cigna National Formulary Coverage - Policy: Metabolic Disorders – Primary Hyperoxaluria Medications –
+Rivfloza Prior Authorization Policy
+a) Patient has a urinary oxalate excretion ≥ 0.7 mmol/24 hours/1.73
+meters2 [documentation required]; OR
+b) Patient has a urinary oxalate:creatinine ratio above the age-specific
+upper limit of normal [documentation required]; OR
+c) Patient has a plasma oxalate level ≥ 20 µmol/L [documentation
+required]; AND
+v. Patient has not previously received a liver transplant for Primary
+Hyperoxaluria Type 1; AND
+vi. The medication is prescribed by or in consultation with a nephrologist or
+urologist.
+B) Patient is Currently Receiving Rivfloza. Approve for 1 year if, according to the
+prescriber, the patient is continuing to derive benefit from Rivfloza as
+determined by the most recent (i.e., within the past 6 months) objective
+measurement [documentation required].
+Note: Examples of objective measurements of a response to Rivfloza therapy
+are reduced urinary oxalate excretion, decreased urinary oxalate:creatinine
+ratio, or reduced plasma oxalate levels from baseline (i.e., prior to Rivfloza
+therapy) or improved or stabilized clinical signs/symptoms of Primary
+Hyperoxaluria Type 1 (e.g., nephrocalcinosis, formation of renal stones, renal
+impairment).
+CONDITIONS NOT COVERED
+• Rivfloza™ (nedosiran subcutaneous injection – Novo Nordisk)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria will
+be updated as new published data are available):
+1. Primary Hyperoxaluria Type 2 (PH2). Rivfloza may have benefit in PH2;
+however, the efficacy and safety of Rivfloza in patients with PH2 have not been
+established. Clinical trials are ongoing.
+2. Primary Hyperoxaluria Type 3 (PH3). Rivfloza may have benefit in PH3;
+however, the efficacy and safety of Rivfloza in patients with PH3 have not been
+established. Clinical trials are ongoing.
+3. Primary Hyperoxaluria with end stage renal disease (ESRD). Rivfloza
+may have benefit in patients with PH1 or PH2 and ESRD; however, the efficacy
+and safety of Rivfloza in this patient population have not been established.
+Clinical trials are ongoing.
+4. Concurrent use of Rivfloza with Oxlumo (lumasiran subcutaneous
+injection). Oxlumo is another small interfering RNA agent and should not be
+used with Rivfloza.
+3 Pages - Cigna National Formulary Coverage - Policy: Metabolic Disorders – Primary Hyperoxaluria Medications –
+Rivfloza Prior Authorization Policy
+REFERENCES
+1. Rivfloza™ subcutaneous injection [prescribing information]. Plainsboro, NJ: Novo Nordisk;
+September 2023.
+2. Milliner DS, Harris PC, Sas DJ, et al. Primary Hyperoxaluria Type 1. Gene Reviews® Available at:
+https://www.ncbi.nlm.nih.gov/books/NBK1283/#:~:text=In%20primary%20hyperoxaluria%20typ
+e%201,deposit%20in%20the%20renal%20parenchyma. Updated February 10, 2022. Accessed
+on October 3, 2023.
+3. Primary Hyperoxaluria: MedlinePlus Genetics. U.S. National Library of Medicine; National Institutes
+of Health; Department of Health and Human Services. Available at:
+https://medlineplus.gov/genetics/condition/primary-hyperoxaluria/#resources. Accessed on
+October 3, 2023.
+4. Cochat P, Rumsby G. Primary hyperoxaluria. N Engl J Med. 2013;369(7):649-658.
+5. Baum MA, Langman C, Cochat P, et al. PHYOX2: a pivotal randomized study of nedosiran in primary
+hyperoxaluria type 1 or 2. Kidney Int. 2023;103(1):207-217.
+6. Hoppe B, Coenen M, Schalk G, et al. Nedosiran in primary hyperoxaluria subtype 1: interim results
+from an open label extension trial (PHYOX3) [poster]. Presented at: 19th International Pediatric
+Nephrology Association (IPNA) Congress. Calgary, Canada. September 7-11, 2022.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy 11/22/2023
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2024 The Cigna
+Group.
+3 Pages - Cigna National Formulary Coverage - Policy: Metabolic Disorders – Primary Hyperoxaluria Medications –
+Rivfloza Prior Authorization Policy

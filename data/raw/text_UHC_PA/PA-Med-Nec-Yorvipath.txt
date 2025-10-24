@@ -1,0 +1,80 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2358-1
+Program Prior Authorization/Medical Necessity
+Medication Yorvipath® (palopegteriparatide)
+P&T Approval Date 12/2024
+Effective Date 3/1/2025
+1. Background:
+Yorvipath® is a parathyroid hormone analog (PTH(1-34)) indicated for the treatment of
+hypoparathyroidism in adults.
+Conventional therapy for hypoparathyroidism consists of active vitamin D (e.g., calcitriol or its
+analog alfacalcidol) and calcium supplementation.
+Limitations of Use:
+• Yorvipath was not studied for acute post-surgical hypoparathyroidism.
+• Titration scheme was only evaluated in adults who first achieved an albumin-corrected serum
+calcium of at least 7.8 mg/dL using calcium and active vitamin D treatment.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Yorvipath will be approved based on all of the following criteria:
+a. Diagnosis of hypoparathyroidism
+-AND-
+b. Confirmation of initial diagnosis by both of the following:
+(1) Pretreatment low albumin‐corrected serum calcium (i.e., ≤ 8.5 mg/dL)
+confirmed on at least two occasions separated by at least 2 weeks
+-AND-
+(2) Pretreatment undetectable or inappropriately low intact parathyroid (PTH)
+concentration (i.e., < 20 pg/mL), by second- or third-generation
+immunoassay, on at least two occasions
+-AND-
+c. Yorvipath is not being used to treat acute post-surgical hypoparathyroidism
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+1
+d. Patient is currently on adequate supplemental calcium and active vitamin D
+(e.g., calcitriol) therapy as evidenced by both of the following:
+(1) Albumin‐corrected serum calcium 7.8–10.6 mg/dL
+(2) Serum 25(OH) vitamin D 20–80 ng/mL
+-AND-
+e. Prescribed by one of the following:
+(1) Endocrinologist
+(2) Nephrologist
+Authorization will be issued for 12 months
+B. Reauthorization
+1. Yorvipath will be approved based on all of the following criteria:
+a. Documentation of positive clinical response [e.g., albumin-corrected serum
+calcium level in normal range (approximately 8.3-10.6 mg/dL), independence
+from conventional therapy (e.g., requiring no active vitamin D, ≤ 600 mg/day of
+calcium)]
+-AND-
+b. Prescribed by one of the following:
+(1) Endocrinologist
+(2) Nephrologist
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+4. References:
+1. Yorvipath® [package insert]. Princeton, NJ: Ascendis Pharma, Inc.; August 2024.
+2. Khan AA, Rejnmark L, Rubin M, et al. PaTH Forward: A Randomized, Double-Blind,
+Placebo-Controlled Phase 2 Trial of TransCon PTH in Adult Hypoparathyroidism. J Clin
+Endocrinol Metab. 2022;107(1):e372-e385.
+© 2024 UnitedHealthcare Services, Inc.
+2
+3. Khan AA, Rubin MR, Schwarz P, et al. Efficacy and Safety of Parathyroid Hormone
+Replacement With TransCon PTH in Hypoparathyroidism: 26-Week Results From the
+Phase 3 PaTHway Trial. J Bone Miner Res. 2023;38(1):14-25.
+4. Brandi ML, Bilezikian JP, Shoback D, et al. Management of Hypoparathyroidism:
+Summary Statement and Guidelines. J Clin Endocrinol Metab. 2016;101(6):2273-2283.
+5. Clarke BL. Hypoparathyroidism: update of guidelines from the 2022 International Task
+Force. Arch Endocrinol Metab. 2022;66(5):604-610.
+Program Prior Authorization/Medical Necessity - Yorvipath (palopegteriparatide)
+Change Control
+12/2024 New program.
+© 2024 UnitedHealthcare Services, Inc.
+3

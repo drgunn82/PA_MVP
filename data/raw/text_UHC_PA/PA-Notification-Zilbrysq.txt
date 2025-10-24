@@ -1,0 +1,52 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1428-2
+Program Prior Authorization/Notification
+Medication Zilbrysq® (zilucoplan)
+P&T Approval Date 1/2024, 1/2025
+Effective Date 4/1/2025
+1. Background:
+Zilbrysq (zilucoplan) is a complement inhibitor indicated for the treatment of generalized
+myasthenia gravis (gMG) in adult patients who are antiacetylcholine receptor (AChR) antibody
+positive.1
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Zilbrysq will be approved based on all of the following criteria:
+a. Diagnosis of generalized myasthenia gravis (gMG)
+-AND-
+b. Positive serologic test for anti-AChR antibodies
+-AND-
+c. Patient is not receiving Zilbrysq in combination with another complement inhibitor
+[e.g., Soliris (eculizumab), Ultomiris (ravulizumab-cwvz)] or a neonatal Fc receptor
+blocker [e.g., Rystiggo (rozanolixizumab-noli), Vyvgart (efgartigimod alfa-fcab),
+Vyvgart Hytrulo (efgartigimod alfa and hyaluronidase-qvfc)]
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Zilbrysq will be approved based on both of the following criteria:
+a. Documentation of positive clinical response to Zilbrysq therapy
+-AND-
+b. Patient is not receiving Zilbrysq in combination with another complement inhibitor
+[e.g., Soliris (eculizumab), Ultomiris (ravulizumab-cwvz)] or a neonatal Fc receptor
+blocker [e.g., Rystiggo (rozanolixizumab-noli), Vyvgart (efgartigimod alfa-fcab),
+Vyvgart Hytrulo (efgartigimod alfa and hyaluronidase-qvfc)]
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services Inc.
+1
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may also be in place.
+4. References:
+1. Zilbrysq [package insert], Smyrna, GA: UCB, Inc.; April 2024.
+Program Prior Authorization/Notification - Zilbrysq® (zilucoplan)
+Change Control
+1/2024 New program.
+1/2025 Annual review. Updated listing of examples of complement inhibitors and
+neonatal Fc receptor blockers without change to clinical intent. Updated
+reference.
+© 2025 UnitedHealthcare Services Inc.
+2

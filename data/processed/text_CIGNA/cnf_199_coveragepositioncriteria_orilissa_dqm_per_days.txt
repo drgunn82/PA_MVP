@@ -1,0 +1,113 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER RX AND PER DAYS
+POLICY: Gonadotropin-Releasing Hormone Antagonists – Orilissa Drug Quantity
+Management Policy – Per Rx and Per Days
+• Orilissa® (elagolix tablets − AbbVie)
+REVIEW DATE: 05/02/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Orilissa, an oral gonadotropin-releasing hormone (GnRH) receptor antagonist, is
+indicated for the management of moderate to severe pain associated with
+endometriosis.1 Limitations of Use: Limit the duration of use based on the dose
+and coexisting condition (see additional information below).
+Dosing
+In patients with normal liver function, the recommended dosage is 150 mg once
+daily (QD) for up to 24 months (no coexisting conditions) or 200 mg twice daily
+(BID) for up to 6 months (dyspareunia).1 In patients with moderate hepatic
+impairment (Child-Pugh Class B), the recommended dosage is 150 mg QD for up to
+6 months and the use of 200 mg BID dosing is not recommended.
+Page 1 of 3 - Cigna National Formulary Coverage - Policy:Gonadotropin-Releasing Hormone Antagonists –
+Orilissa Drug Quantity Management Policy – Per Rx and Per Days
+Availability
+Orilissa is available as 150 mg and 200 mg tablets in blister packs of 28 tablets and
+56 tablets, respectively.1
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to prevent
+stockpiling, misuse and/or overuse while providing a sufficient quantity of Orilissa.
+If the Drug Quantity Management rule is not met for the requested medication at
+the point of service, coverage will be determined by the Criteria below. All
+approvals are provided for the duration noted below.
+Drug Quantity Limits
+Product Strength and Retail Maximum Quantity Home Delivery Maximum
+Form Quantity
+Orilissa® 150 mg tablets 180 tablets per 365 days*
+(elagolix tablets) 30 tablets per Rx 90 tablets per Rx
+200 mg tablets 360 tablets per 365 days*
+60 tablets per Rx 180 tablets per Rx
+* This is a quantity sufficient for six months of therapy.
+EXCEPTIONS TO THE QUANTITY LIMITS LISTED ABOVE ARE COVERED AS MEDICALLY
+NECESSARY WHEN THE FOLLOWING CRITERIA ARE MET. ANY OTHER EXCEPTION IS
+CONSIDERED NOT MEDICALLY NECESSARY.
+CRITERIA
+Orilissa 150 mg tablets “Per Rx” Limit
+No overrides recommended.
+Orilissa 150 mg tablets “Per Days” Limit
+1. If the patient meets BOTH of the following (A and B), approve 365 tablets per
+365 days for a total of 24 months of therapy (2 year approval):
+A) Patient meets ONE of the following (i or ii):
+i. Patient has normal liver function; OR
+ii. Patient has mild hepatic impairment (Child-Pugh A); AND
+B) The request is for continuation of therapy.
+Orilissa 200 mg tablets “Per Rx” and “Per Days” Limits
+No overrides recommended.
+REFERENCES
+1. Orilissa® [prescribing information]. North Chicago, IL: AbbVie; June 2023.
+3 Pages - Cigna National Formulary Coverage - Policy:Gonadotropin-Releasing Hormone Antagonists – Orilissa
+Drug Quantity Management Policy – Per Rx and Per Days
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Policy was updated to reflect the existing quantity limits when a 05/25/2023
+Revision product is obtained via home delivery.
+No criteria changes.
+Annual No criteria changes. 05/29/2024
+Revision
+Selected Orilissa 150 mg tablets: The override criteria were updated to 09/04/2024
+Revision approve 365 tablets per 365 days for a total of 24 months of therapy
+at retail and home delivery if the patient meets the existing criteria.
+Previously, these criteria approved 30 tablets per dispensing at retail
+or 90 tablets per dispensing at home delivery for a total of 24
+months.
+Annual The title of the policy was updated to “Gonadotropin-Releasing 05/02/2025
+Revision Hormone Antagonists – Orilissa Drug Quantity Management Policy –
+Per Rx and Per Days”. Previously, the policy name was
+“Gonadotropin-Releasing Hormone Antagonists – Orilissa Drug
+Quantity Management Policy – Per Days”.
+Orilissa 150 mg tablets: Override criteria were clarified to note
+that overrides apply to the “Per Days” limit. The Note stating that
+“Per Rx” limits continue to apply was removed from the criteria. The
+Policy was clarified to state that there are no overrides to the “Per
+Rx” limit.
+Orilissa 200 mg tablets: The Policy was clarified to state that
+there are no overrides to the “Per Rx” or “Per Days” limits.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Gonadotropin-Releasing Hormone Antagonists – Orilissa
+Drug Quantity Management Policy – Per Rx and Per Days

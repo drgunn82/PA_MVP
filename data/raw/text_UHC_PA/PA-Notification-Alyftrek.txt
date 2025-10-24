@@ -1,0 +1,122 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1469-1
+Program Prior Authorization/Notification
+Medication Alyftrek™ (vanzacaftor/tezacaftor/deutivacaftor)
+P&T Approval Date 2/2025
+Effective Date 5/1/2025
+1. Background:
+Alyftrek is a combination of deutivacaftor, a CFTR potentiator, tezacaftor, and vanzacaftor
+indicated for the treatment of cystic fibrosis (CF) in patients aged 6 years and older who have at
+least one F508del mutation or another responsive mutation in the CFTR gene.
+If the patient’s genotype is unknown, an FDA-cleared CF mutation test should be used to
+confirm the presence of at least one indicated mutation.
+Members will be required to meet the coverage criteria below.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Alyftrek will be approved based upon all of the following criteria:
+a. Diagnosis of cystic fibrosis (CF)
+-AND-
+b. Documentation confirming the patient has at least one of the following responsive
+mutations in the CFTR gene*:
+(1) F508del mutation
+(2) A mutation that is responsive based on clinical data
+(3) A mutation that is responsive based on in vitro data
+(4) A mutation that is responsive based on extrapolation data
+*List of CFTR gene mutations responsive to Alyftrek. A complete up to date list of responsive mutations
+can be referenced in the Alyftrek Prescribing Information.
+Based on clinical data**
+A455E G551D L1077P† R352Q S549N V754M
+D1152H G85E† L206W R75Q S549R W1098C†
+F508del† H1054D M1101K† S1159F S945L W1282R
+G1244E I336K R1066H S1251N V562I Y563N†
+Based on in vitro data‡
+1507_1515del9 E116Q G424S I556V P140S R334L T1053I
+2183A→G E193K G463V I601F P205S R334Q T1086I
+3141del9 E292K G480C I618T P499A R347H T1246I
+© 2025 UnitedHealthcare Services, Inc.
+1
+3195del6 E403D G480S I807M P5L R347L T1299I
+3199del6 E474K G551A I980K P574H R347P T338I
+546insCTA E56K G551S K1060T P67L R352W T351I
+A1006E E588V G576A K162E P750L R516G T604I
+A1067P E60K G576A; K464E P99L R516S V1153E
+R668C§
+A1067T E822K G622D L1011S Q1100P R553Q V1240G
+A107G E92K G628R L102R Q1291R R555G V1293G
+A120T F1016S G91R L1065P Q1313K R560S V201M
+A234D F1052V G970D L1324P Q237E R560T V232D
+A309D F1074L G970S L1335P Q237H R668C V392G
+A46D F1107L H1085R L1480P Q372H R74Q V456F
+A554E F191V H1375P L15P Q452P R74W V520F
+A559T F200I H139R L165S Q493R R74W; V603F
+D1270N§
+A559V F311del H199R L320V Q552P R74W; W361R
+V201M§
+A561E F311L H199Y L333F Q98R R74W; Y1014C
+V201M;
+D1270N§
+A613T F508C H609R L333H R1048G R75L Y1032C
+A62P F508C; H620P L346P R1066C R751L Y109N
+S1251N§
+A72D F575Y H620Q L441P R1066L R792G Y161D
+C491R F587I H939R L453S R1066M R933G Y161S
+D110E G1047R H939R; L619S R1070Q S1045Y Y301C
+H949L
+D110H G1061R I1027T L967S R1070W S108F Y569C
+D1270N G1069R I105N L997F R1162L S1118F Y913C
+D1445N G1123R I1139V M1101R R117C S1159P
+D192G G1247R I1234Vdel6aa M1137V R117C; S1235R
+G576A;
+R668C
+D443Y G1249R I125T M150K R117G S1255P
+D443Y; G576A; G126D I331N M26SR R117L S13F
+R668C§
+D513G G1349D I331N M265R R117L S341P
+D565G G149R I1366N M952I R117P S364P
+D579G G178E I1398S M952T R1283M S492F
+D614G G178R I148N N1088D R1283S S549I
+D836Y G194R I148T N1303I R170H S589N
+D924N G194V I175V N1303K‡ R258G S737F
+D979V G27E I502T N186K R297Q S912L
+D993Y G27R I506L N187K R31C S977F
+E116K G314E I506T N418S R31L T1036N
+Based on extrapolation¶
+1341G→A 2789+2insA 3041-15T→G 3849+10kbC→T 3850-3T→G 5T;TG13 711+3A→G
+1898+3A→G 2789+5G→A 3272-26A→G 3849+4A→G 4005+2T→C 621+3A→G E831X
+© 2025 UnitedHealthcare Services, Inc.
+2
+2752-26A→G 296+28A→G 3600G→A 3849+40A→G 5T; TG12
+** Clinical data is obtained from Trial 1, NCT05033080 and Trial 2, NCT05076149.
+† This mutation is also predicted to be responsive by FRT assay with Alyftrek.
+‡ The N1303K mutation is predicted to be responsive only by HBE assay. All other mutations predicted
+to be responsive with in vitro data are supported by FRT assay.
+§ Complex/compound mutations where a single allele of the CFTR gene has multiple mutations; these
+exist independent of the presence of mutations on the other allele.
+¶ Efficacy is extrapolated to certain non-canonical splice mutations because clinical trials in all mutations
+in this subgroup are infeasible and these mutations are not amenable to interrogation by FRT system.
+-AND-
+c. The patient is ≥ 6 years of age
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Alyftrek will be approved based on the following criterion:
+a. Documentation of positive clinical response to Alyftrek therapy (e.g., improved lung
+function, stable lung function)
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Medical Necessity, Supply limits may be in place.
+4. References:
+1. Alyftrek [package insert]. Boston, MA: Vertex Pharmaceuticals, Inc.; December 2024.
+Program Prior Authorization/Notification – Alyftrek™
+(vanzacaftor/tezacaftor/deutivacaftor)
+Change Control
+2/2025 New program
+© 2025 UnitedHealthcare Services, Inc.
+3

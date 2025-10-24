@@ -1,0 +1,281 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Cystic Fibrosis Transmembrane Conductance Regulator – Symdeko Prior
+Authorization Policy
+• Symdeko® (tezacaftor/ivacaftor and ivacaftor tablets − Vertex)
+REVIEW DATE: 02/05/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Symdeko is indicated for the treatment of cystic fibrosis (CF) in patients ≥ 6 years
+of age who are homozygous for the F508del mutation or who have at least one
+mutation in the cystic fibrosis transmembrane conductance regulator (CFTR) gene
+that is responsive to tezacaftor/ivacaftor based on in vitro data and/or clinical
+evidence.1
+If the patient’s genotype is unknown, an FDA-cleared CF mutation test should be
+used to detect the presence of a CFTR mutation followed by verification with bi-
+directional sequencing when recommended by the mutation test instructions for use.
+Table 1 lists the responsive CFTR mutations based on: 1) a clinical forced expiratory
+volume in 1 second (FEV ) response and/or 2) in vitro data in Fischer rat thyroid cells,
+1
+indicating that tezacaftor/ivacaftor increases chloride transport to ≥ 10% of
+untreated normal over baseline. CFTR gene mutations that are not responsive to
+Kalydeco® (ivacaftor granule or tablet) alone are not expected to respond to Symdeko
+except for F508del homozygotes.
+Table 1. List of CFTR Gene Mutations that Produce CFTR Protein and are Responsive to
+Symdeko.1
+E56K E193K S945L F1074L
+Page 1 of 7 - Cigna National Formulary Coverage - Policy:Cystic Fibrosis Transmembrane Conductance Regulator –
+Symdeko Prior Authorization Policy
+P67L L206W S977F D1152H
+R74W R347H F1052V D1270N
+D110E R352Q E831X 2789+5G→A
+D110H A455E K1060T 3272-26A→G
+R117C D579G A1067T 3849 + 10kbC→ T
+F508del* 711+3A→G R1070W G622D
+A120T E60K F1016S G970D
+A234D E92K F1099L G1069R
+A349V E116K G126D G1244E
+A554E E403D G178E G1249R
+A1006E E558V G178R G1349D
+D192G E822K G194R H939R
+D443Y F191V G194V H1054D
+D443Y;G57A; R668C F311del G314E H1375P
+D614G F311L G551D I148T
+D836Y F508C G551S I175V
+D924N F508C;S1251N G576A I336K
+D979V F575Y G576A;R668C I601F
+I618T L346P M952T R74Q
+I807M L967S P5L R74W;D1270N
+I980K L997F P205S R74W;V201M
+I1027T L1324P Q98R R74W;V201M;D1270N
+I1139V L1335P Q237E R75Q
+I1269N L1480P Q237H R117G
+I1366N M152V Q359R R117H
+L15P M265R Q1291R R117L
+L320V M9521 R31L R117P
+R170H R1066H S1251N W1282R
+Table 1 (continued). List of CFTR Gene Mutations that Produce CFTR Protein and are
+Responsive to Symdeko.1
+R258G R1070Q S1255P Y109N
+R334L R1162L T338I Y161S
+R334Q R1283M T1036N Y1014C
+R347L R1283S T1053I Y1032C
+R347P S549N V201M R792G
+R352W S549R V232D R933G
+R553Q S589N V562I S1159F
+R668C S737F V754M S1159P
+R751L S912L V1153E V1240G
+V1293G 546insCTA
+CFTR – Cystic fibrosis transmembrane conductance regulator; * A patient must have two copies of the
+F508del mutation or at least one copy of a responsive mutation presented in Table 1 to be indicated.
+Guidelines
+The most current treatment recommendations are the Standards of Care for CFTR
+variant-specific therapy for people with CF, from the European Cystic Fibrosis Society
+(2023).2 However, the Standards do not reflect the currently approved age
+indications for Kalydeco® (ivacaftor tablets and oral granules) [≥ 1 months of age],
+Orkambi® [lumacaftor/ivacaftor tablets and oral granules] (≥ 1 year of age), or
+Trikafta® (elexacaftor/tezacaftor/ivacaftor; ivacaftor co-packaged tablets and
+granules) [≥ 2 years of age]. In general, Trikafta is recommended over other agents
+where indications overlap. The Standards recommend Trikafta in patients ≥ 6 years
+of age with CF who are homozygous or heterozygous for F508del. In patients with
+one or more responsive non-F508del variant, Kalydeco, Symdeko, or Trikafta are
+5 Pages - Cigna National Formulary Coverage - Policy:Cystic Fibrosis Transmembrane Conductance Regulator –
+Symdeko Prior Authorization Policy
+recommended. Kalydeco is recommended in patients ≥ 4 months of age with eligible
+CFTR gene variants. Orkambi is recommended for patients 2 to 5 years of age who
+are homozygous for F508del. Of note, the Standards state that after diagnosis,
+repeat sweat testing provides evidence of treatment effect on CFTR activity, but does
+not predict clinical response. The European Cystic Fibrosis Society Standards for
+establishing and maintaining health (2024) note that people with CF with eligible
+CFTR gene variants should be offered CFTR modulator therapy.5
+According to the CF Foundation (2017), CF is diagnosed when an individual has both
+a clinical presentation of CF and evidence of CFTR dysfunction.3,4 Clinical presentation
+of CF includes a positive newborn screening, signs and/or symptoms of CF, and/or
+family history of CF. To establish a diagnosis of CF, sweat chloride tests should be
+considered first, then CFTR genetic analysis (CFTR genotype), and then CFTR
+physiologic tests (nasal potential difference [NPD] or intestinal current measurement
+[ICM]). However, tests of CFTR function are not always done in this order. All
+individuals diagnosed with CF should have a sweat chloride test and CFTR genetic
+analysis performed.
+In a patient with a sweat chloride test ≥ 60 mmol/L, CF diagnosis is established and
+in patients with a sweat chloride test < 30 mmol/L, a diagnosis of CF is unlikely.3,4
+Rarely, patients with a sweat chloride < 30 mmol/L may be considered to have CF if
+alternatives are excluded and other confirmatory tests (genetic and physiologic
+testing) support a CF diagnosis. In patients with a sweat chloride test of ≥ 30 to <
+60 mmol/L, CFTR genetic analysis is undertaken. If the genetic analysis identifies
+two CF-causing CFTR mutations, CF is diagnosed; if no CFTR mutations are identified,
+a diagnosis of CF is unlikely. In patients with a CFTR genotype that is undefined or
+of varying clinical consequence, full gene CFTR sequencing (if not already performed)
+or CFTR physiologic testing is performed (NPD or ICM). If only one CFTR variant is
+identified on limited analysis, full gene CFTR sequencing should be performed. CF is
+possible if both alleles possess CF-causing, undefined, or mutation of varying clinical
+consequence mutations; CF is unlikely if only no CF-causing mutations are found. If
+results of the NPD or ICM show CFTR dysfunction, CF is diagnosed; when testing is
+unavailable or equivocal, the diagnosis of CF is not resolved, and when results of the
+physiologic testing show CFTR function is preserved, a diagnosis of CF is considered
+unlikely. It is recommended that patients with challenging diagnoses be evaluated
+at an accredited CF Foundation Care Center.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Symdeko.
+All approvals are provided for the duration noted below. Because of the specialized
+skills required for evaluation and diagnosis of patients treated with Symdeko as well
+as the monitoring required for adverse events and efficacy, approval requires
+Symdeko to be prescribed by or in consultation with a physician who specializes in
+the condition being treated.
+5 Pages - Cigna National Formulary Coverage - Policy:Cystic Fibrosis Transmembrane Conductance Regulator –
+Symdeko Prior Authorization Policy
+• Symdeko® (tezacaftor/ivacaftor and ivacaftor tablets ( Vertex)
+is(are) covered as medically necessary when the following criteria is(are) met for
+FDA-approved indication(s) or other uses with supportive evidence (if applicable):
+FDA-Approved Indication
+1. Cystic Fibrosis. Approve for 1 year if the patient meets ALL of the following
+(A, B, C, D and E):
+A) Patient is ≥ 6 years of age; AND
+B) Patient meets ONE of the following (i or ii):
+i. Patient has at least ONE of the following mutations in the cystic fibrosis
+transmembrane conductance regulator gene that is considered to be a
+pathogenic or likely pathogenic variant: E56K, P67L, R74W, D110E,
+D110H, R117C, E193K, L206W, R347H, R352Q, A455E, D579G, 711+3A →
+G, S945L, S977F, F1052V, E831X, K1060T, A1067T, R1070W, F1074L,
+D1152H, D1270N, 2789+5G → A, 3272-26A → G, 3849 + 10kbC → T,
+546insCTA, A120T, A234D, A349V, A554E, A1006E, D192G, D443Y,
+D443Y;G57A;R668C, D614G, D836Y, D924N, D979V, I618T, I807M,
+I980K, I1027T, I1139V, I1269N, I1366N, L15P, L320V, R170H, R258G,
+R334L, R334Q, R347L, R347P, R352W, R553Q, R668C, R751L, V1293G,
+E60K, E92K, E116K, E403D, E558V, E822K, F191V, F311del, F311L, F508C,
+F508C;S1251N, F575Y, L346P, L967S, L997F, L1324P, L1335P, L1480P,
+M152V, M265R, M9521, R1066H, R1070Q, R1162L, R1283M, R1283S,
+S549N, S549R, S589N, S737F, S912L, F1016S, F1099L, G126D, G178E,
+G178R, G194R, G194V, G314E, G551D, G551S, G576A, G576A;R668C,
+M952T, P5L, P205S, Q98R, Q237E, Q237H, Q359R, Q1291R, R31L,
+S1251N, S1255P, T338I, T1036N, T1053I, V201M, V232D, V562I, V754M,
+V1153E, G622D, G970D, G1069R, G1244E, G1249R, G1349D, H939R,
+H1054D, H1375P, I148T, I175V, I336K, I601F, R74Q, R74W;D1270N,
+R74W;V201M, R74W;V201M;D1270N, R75Q, R117G, R117H, R117L,
+R117P, W1282R, Y109N, Y161S, Y1014C, Y1032C, R792G, R933G, S1159F,
+S1159P, or V1240G; OR
+ii. Patient has TWO copies of the F508del mutation; AND
+C) Patient meets at least ONE of the following (i, ii, or iii):
+i. Positive cystic fibrosis newborn screening test; OR
+ii. Family history of cystic fibrosis; OR
+iii. Clinical presentation consistent with signs and symptoms of cystic fibrosis;
+AND
+Note: Examples of clinical presentation of cystic fibrosis include but are not
+limited to meconium ileus, sino-pulmonary symptoms (e.g., persistent
+cough, wheezing, pulmonary function tests consistent with obstructive
+airway disease, excess sputum production), bronchiectasis, sinusitis, failure
+to thrive, pancreatic insufficiency.
+D) Patient has evidence of abnormal cystic fibrosis transmembrane conductance
+regulator function as demonstrated by at least ONE of the following (i, ii, or
+iii):
+i. Elevated sweat chloride test; OR
+5 Pages - Cigna National Formulary Coverage - Policy:Cystic Fibrosis Transmembrane Conductance Regulator –
+Symdeko Prior Authorization Policy
+ii. Two cystic fibrosis-causing cystic fibrosis transmembrane conductance
+regulator mutations; OR
+iii. Abnormal nasal potential difference; AND
+E) The medication is prescribed by or in consultation with a pulmonologist or a
+physician who specializes in the treatment of cystic fibrosis.
+CONDITIONS NOT COVERED
+• Symdeko® (tezacaftor/ivacaftor and ivacaftor tablets ( Vertex)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria
+will be updated as new published data are available):
+1. Cystic Fibrosis, Patient with Unknown Cystic Fibrosis Transmembrane
+Conductance Regulator Gene Mutation. An FDA-cleared cystic fibrosis
+mutation test should be used to detect the presence of the cystic fibrosis
+transmembrane conductance regulator mutation prior to use of
+Symdeko.1
+2. Combination Therapy with Other Cystic Fibrosis Transmembrane
+Conductance Regulator Modulator(s). Symdeko contains ivacaftor, the
+active agent in Kalydeco® (tablets and oral granules) and part of Orkambi®
+(lumacaftor/ivacaftor tablets and oral granules) and Trikafta®
+(elexacaftor/tezacaftor/ivacaftor; ivacaftor co-packaged tablets and granules).
+Symdeko also contains tezacaftor, part of Trikafta.
+Note: Examples of other cystic fibrosis transmembrane conductance regulator
+modulators are: Alyftrek (vanzacaftor/tezacaftor/deutivacaftor tablets),
+Kalydeco (ivacaftor tablets and oral granules), Orkambi (lumacaftor/ivacaftor
+tablets and oral granules), Trikafta (elexacaftor/tezacaftor/ivacaftor; ivacaftor co-
+packaged tablets and granules).
+3. Infertility. Symdeko is indicated for the treatment of cystic fibrosis in a patient
+≥ 6 years of age who is homozygous for the F508del mutation or who has at least
+one mutation in the cystic fibrosis transmembrane conductance regulator gene
+that is responsive to tezacaftor/ivacaftor based on in vitro data and/or clinical
+evidence.1
+Note: A patient with a diagnosis of cystic fibrosis should be reviewed using criteria
+for the FDA-approved indication, above.
+REFERENCES
+1. Symdeko® tablets [prescribing information]. Cambridge, MA: Vertex; January 2025.
+2. Southern KW, Addy C, Bell SC, et al. Standards for the care of people with cystic fibrosis;
+establishing and maintaining health. J Cyst Fibros. 2024;21-28.
+3. Farrell PM, White TB, Ren CL, et al. Diagnosis of cystic fibrosis: consensus guidelines from the
+cystic fibrosis foundation. J Pediatr. 2017;181S:S4-S15.
+5 Pages - Cigna National Formulary Coverage - Policy:Cystic Fibrosis Transmembrane Conductance Regulator –
+Symdeko Prior Authorization Policy
+4. Farrell PM, White TB, Howenstine MS, et al. Diagnosis of cystic fibrosis in screened populations. J
+Pediatr. 2017;181S:S33-S44.
+5. Southern KW, Addy C, Bell SC, et al. Standards for the care of people with cystic fibrosis;
+establishing and maintaining health. J Cyst Fibros. 2024;21-28.
+5 Pages - Cigna National Formulary Coverage - Policy:Cystic Fibrosis Transmembrane Conductance Regulator –
+Symdeko Prior Authorization Policy
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Revision No criteria changes. 02/08/2023
+Annual Revision No criteria changes. 02/07/2024
+Selected Cystic Fibrosis (CF): The criterion that the patient has at least one 04/10/2024
+Revision of the following mutations in the cystic fibrosis transmembrane
+conductance regulator gene, was modified to require that the
+mutation be considered pathogenic or likely pathogenic. A criterion
+was added to require the patient has at least one of the following:
+positive cystic fibrosis newborn screening test, family history of cystic
+fibrosis, or a clinical presentation consistent with signs and symptoms
+of cystic fibrosis. A criterion was added to require that the patient
+has evidence of abnormal cystic fibrosis transmembrane conductance
+regulator function as demonstrated by at least one of the following:
+elevated sweat chloride test, two cystic fibrosis-causing cystic fibrosis
+transmembrane conductance regulator mutations, or an abnormal
+nasal potential difference.
+Infertility: This indication was added to Conditions Not Covered
+.
+Selected The Policy title was changed to Cystic Fibrosis Transmembrane 01/02/2025
+Revision Conductance Regulator – Symdeko PA Policy. Previously, Cystic
+Fibrosis – Symdeko PA Policy.
+Conditions Not Covered
+Cystic Fibrosis, Patient with Unknown Cystic Fibrosis
+Transmembrane Conductance Regulator Gene Mutation.
+“Conductance” was added to the verbiage for this condition not
+recommended for approval.
+Combination Therapy with Other Cystic Fibrosis
+Transmembrane Conductance Regulator Modulator(s). This
+condition not recommended for approval was modified to refer to the
+class of cystic fibrosis transmembrane conductance regulator
+modulator(s). Previously individual agents were listed. A Note was
+added to list examples of the cystic fibrosis transmembrane
+conductance regulators.
+Annual Revision No criteria changes. 02/05/2025
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2024 The Cigna
+Group.
+5 Pages - Cigna National Formulary Coverage - Policy:Cystic Fibrosis Transmembrane Conductance Regulator –
+Symdeko Prior Authorization Policy

@@ -1,0 +1,181 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Allergen Immunotherapy – Palforzia Prior Authorization Policy
+• Palforzia® (peanut [Arachis hypogaea] allergen powder-dnfp for oral
+administration – Aimmune)
+REVIEW DATE: 04/16/2025; selected revision 08/06/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Palforzia, an oral immunotherapy, is indicated for the mitigation of allergic
+reactions, including anaphylaxis, that may occur with accidental exposure to
+peanut.1 It is approved for use in patients with a confirmed diagnosis of peanut
+allergy.
+Initial dose escalation may be administered to patients 1 through 17 years of age;
+up-dosing and maintenance may be continued in patients ≥ 1 year of age. Palforzia
+is labeled to be used in conjunction with a peanut-avoidant diet. It is not indicated
+for the emergency treatment of allergic reactions, including anaphylaxis. Prior to
+initiation, the prescriber should verify that the patient has injectable epinephrine and
+has been instructed on its appropriate use. Palforzia is contraindicated in patients
+with uncontrolled asthma and patients with a history of eosinophilic esophagitis and
+other eosinophilic gastrointestinal disease.
+Page 1 of 5 - Cigna National Formulary Coverage - Policy:Allergen Immunotherapy – Palforzia Prior Authorization
+Policy
+Clinical Efficacy
+The Palforzia pivotal study in patients 4 to 17 years of age, PALISADE, included
+patients who were required to have a diagnosis of peanut allergy supported by either
+a positive serum peanut-specific immunoglobulin E (IgE) test or a positive skin prick
+test for peanut.2 Additionally, to be eligible for randomization, patients had to have
+an allergic reaction (with dose-limiting symptoms) to a prespecified dose of peanut
+protein during a double-blind, placebo-controlled food challenge at screening. One
+of the key safety studies supporting the approval of Palforzia in patients 4 to 17 years
+of age required patients to have peanut allergy characterized by allergic signs and
+symptoms observed within 2 hours of known oral peanut exposure. In the Palforzia
+pivotal study in patients 1 to 3 years of age, eligible patients had a documented
+history of a physician-diagnosed IgE-mediated peanut allergy or no known history of
+peanut ingestion and a peanut-specific IgE level indicative of peanut allergy within
+12 months prior to randomization.3 The physician-diagnosis of peanut allergy was
+required to include clinical signs and/or symptoms of allergy within 2 hours of peanut
+exposure and either a positive skin prick test or aa psIgE level indicative of peanut
+allergy within 12 months prior to randomization.4
+Guidelines
+Current guidelines regarding diagnosis and management of food allergy state that
+parent and patient reports of food allergy must be confirmed.3,5 A skin prick test and
+allergen-specific IgE testing are each recommended as a method to identify foods
+that provoke allergic reactions. In children and adolescents with a confirmed IgE-
+mediated peanut allergy, peanut oral immunotherapy (e.g., Palforzia) is
+recommended to achieve desensitization (high certainty of evidence; strong
+recommendation).6
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Palforzia. All
+approvals are provided for the duration noted below. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Palforzia as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Palforzia to be prescribed by or in consultation with a physician who specializes in the
+condition being treated.
+• Palforzia® (peanut [Arachis hypogaea] allergen powder-dnfp for oral
+administration – Aimmune)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+3 Pages - Cigna National Formulary Coverage - Policy:Allergen Immunotherapy – Palforzia Prior Authorization
+Policy
+FDA-Approved Indication
+1. Peanut Allergy. Approve for 1 year if the patient meets ALL of the following (A,
+B, C, D, E, and F):
+A) Patient meets ONE of the following (i or ii):
+i. Patient is 1 to 17 years of age; OR
+ii. Patient is ≥ 18 years of age AND has been previously started on therapy
+with Palforzia prior to becoming 18 years of age; AND
+B) According to the prescriber, the patient has a history of an allergic reaction to
+peanut that met ALL of the following (i, ii, and iii):
+i. Patient demonstrated signs and symptoms of a significant systemic allergic
+reaction; AND
+Note: Signs and symptoms of a significant systemic allergic reaction
+include hives, swelling, wheezing, hypotension, and gastrointestinal
+symptoms.
+ii. This reaction occurred within a short period of time following a known
+ingestion of peanut or peanut-containing food; AND
+iii. The prescriber deemed this reaction significant enough to require a
+prescription for an epinephrine self-administered injectable or nasal
+product; AND
+Note: Examples of epinephrine self-administered injectable and nasal
+products include EpiPen, EpiPen Jr., Auvi-Q, generic epinephrine auto-
+injectors, and Neffy.
+C) Patient meets ONE of the following (i or ii):
+i. Patient has a positive skin prick test response to peanut; OR
+ii. Patient has a positive in vitro test (i.e., a blood test) for immunoglobulin E
+(IgE) to peanut; AND
+D) According to the prescriber, Palforzia will be used in conjunction with a peanut-
+avoidant diet; AND
+E) Patient does NOT have uncontrolled asthma; AND
+F) The medication is prescribed by or in consultation with an allergist or
+immunologist.
+CONDITIONS NOT COVERED
+• Palforzia® (peanut [Arachis hypogaea] allergen powder-dnfp for oral
+administration – Aimmune)
+is(are) considered not medically necessary for ANY other use(s); criteria will
+be updated as new published data are available.
+3 Pages - Cigna National Formulary Coverage - Policy:Allergen Immunotherapy – Palforzia Prior Authorization
+Policy
+REFERENCES
+1. Palforzia® allergen powder [prescribing information]. Bridgewater, NJ: Aimmune; July 2024.
+2. Vickery BP, Vereda A, Casale TB, et al. for the PALISADE group of clinical investigators. AR101 oral
+immunotherapy for peanut allergy. N Engl J Med. 2018;379(21):1991-2001.
+3. Togias A, Cooper SF, Acebal ML, et al. Addendum guidelines for the prevention of peanut allergy
+in the United States: report of the National Institute of Allergy and Infectious Diseases-sponsored
+expert panel. J Allergy Clin Immunol. 2017;139(1):29-44.
+4. Du Toit G, Brown KR, Vereda A, et al. Oral immunotherapy for peanut allergy in children 1 to less
+than 4 years of age. NEJM Evid. 2023;2(11):EVIDoa2300145.
+5. Santos AF, Riggioni C, Agache I, et al. EAACI guidelines on the diagnosis of IgE-mediated food
+allergy. Allergy. 2023;78(12):3057-3076.
+6. Santos AF, Riggioni C, Agache I, et al. EAACI guidelines on the management of IgE-mediated food
+allergy. Allergy. 2025;80(1):14-36.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Annual No criteria changes. 03/01/2023
+Revision
+Annual No criteria changes. 03/20/2024
+Revision
+Selected Peanut allergy: Criteria were updated to require patients to meet 04/24/2024
+Revision both the existing peanut allergy testing parameters or have a
+positive skin prick test response to peanut with a wheal diameter ≥
+8 mm larger than the negative control or a positive in vitro test for
+peanut-specific IgE with a level ≥ 14 kU /L. Criteria were added to
+A
+require the patient does not have uncontrolled asthma.
+Selected Peanut allergy: The age requirement was updated to approve if 08/28/2024
+Revision the patient is 1 to 17 years of age. Previously, this criterion
+approved if the patient is 4 to 17 years of age.
+Annual No criteria changes. 03/19/2025
+Revision
+Early Annual Peanut allergy: Criteria were updated to require a patient to have 04/16/2025
+Revision either a positive skin prick test response to peanut or a positive in
+vitro test (i.e., a blood test) for immunoglobulin E (IgE) to peanut.
+Previously, a patient was required either have a positive skin prick
+test response to peanut with a wheal diameter ≥ 3 mm larger than
+the negative control and a positive in vitro test (i.e., a blood test)
+for peanut-specific IgE with a level ≥ 0.35 kU /L; OR have either a
+A
+positive skin prick test response to peanut with a wheal diameter ≥
+8 mm larger than the negative control or have a positive in vitro
+test (i.e., a blood test) for peanut-specific IgE with a level ≥ 14
+kU /L.
+A
+Selected Peanut allergy: Throughout the criteria, references to 08/06/2025
+Revision “epinephrine auto-injectors” were updated to “epinephrine self-
+administered injectable or nasal products”. Neffy was added as an
+example of an epinephrine self-administered injectable or nasal
+product.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Allergen Immunotherapy – Palforzia Prior Authorization
+Policy

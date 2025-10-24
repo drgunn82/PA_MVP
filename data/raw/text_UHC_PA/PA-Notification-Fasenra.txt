@@ -1,0 +1,116 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1299-7
+Program Prior Authorization/Notification
+Medications *Fasenra® (benralizumab)
+*This program applies to the prefilled autoinjector formulation.
+P&T Approval Date 10/2019, 4/2020, 4/2021, 11/2021, 11/2022, 7/2023, 7/2024
+Effective Date 10/1/2024
+1. Background:
+Fasenra (benralizumab) is an interleukin-5 receptor alpha-directed cytolytic monoclonal
+antibody indicated for the add-on maintenance treatment of patients with severe asthma aged 6
+years and older, and with an eosinophilic phenotype.
+Fasenra is not used for treatment of other eosinophilic conditions or for relief of acute
+bronchospasm or status asthmaticus.
+2. Coverage Criteriaa:
+A. Asthma
+1. Initial Authorization
+a. Fasenra will be approved based on one of the following criteria:
+(1) All of the following:
+(a) Patient has been established on therapy with Fasenra under an active
+UnitedHealthcare medical benefit prior authorization for the treatment of
+severe asthma
+-AND-
+(b) Documentation of positive clinical response to Fasenra therapy
+-AND-
+(c) Fasenra will be used in combination with maintenance therapy [e.g.,
+Advair/AirDuo (fluticasone/salmeterol), Breo Ellipta (fluticasone
+furoate/vilanterol), Symbicort (budesonide/ formoterol), Trelegy Ellipta
+(fluticasone furoate/umeclidinium/vilanterol)].
+-AND-
+(d) Patient is not receiving Fasenra in combination with any of the following:
+i. Anti-interleukin 5 therapy [e.g., Cinqair (resilizumab), Nucala
+© 2024 UnitedHealthcare Services, Inc.
+1
+(mepolizumab)]
+ii. Anti-IgE therapy [e.g., Xolair (omalizumab)]
+iii. Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+iv. Thymic stromal lymphopoietin (TSLP) inhibitor therapy [e.g.,
+Tezspire (tezepelumab)]
+-OR-
+(2) All of the following:
+(a) Diagnosis of severe asthma
+-AND-
+(b) Fasenra will be used in combination with maintenance therapy [e.g.,
+Advair/AirDuo (fluticasone/salmeterol), Breo Ellipta (fluticasone
+furoate/vilanterol), Symbicort (budesonide/ formoterol), Trelegy Ellipta
+(fluticasone furoate/umeclidinium/vilanterol)].
+-AND-
+(c) Asthma is an eosinophilic phenotype
+-AND-
+(d) Patient is not receiving Fasenra in combination with any of the following:
+i. Anti-interleukin 5 therapy [e.g., Cinqair (resilizumab), Nucala
+(mepolizumab)]
+ii. Anti-IgE therapy [e.g., Xolair (omalizumab)]
+iii. Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+iv. Thymic stromal lymphopoietin (TSLP) inhibitor therapy [e.g., Tezspire
+(tezepelumab)]
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Fasenra will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Fasenra therapy
+-AND-
+(2) Fasenra will be used in combination with maintenance therapy [e.g.,
+Advair/AirDuo (fluticasone/salmeterol), Breo Ellipta (fluticasone
+furoate/vilanterol), Symbicort (budesonide/ formoterol), Trelegy Ellipta
+(fluticasone furoate/umeclidinium/vilanterol)].
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+2
+(3) Patient is not receiving Fasenra in combination with any of the following:
+(a) Anti-interleukin 5 therapy [e.g., Cinqair (resilizumab), Nucala
+(mepolizumab)]
+(b) Anti-IgE therapy [e.g., Xolair (omalizumab)]
+(c) Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+(d) Thymic stromal lymphopoietin (TSLP) inhibitor therapy [e.g., Tezspire
+(tezepelumab)]
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limitations may be in place.
+• Medical Necessity may be in place.
+• The prefilled syringe is typically covered under the medical benefit. Please refer to the
+United Healthcare Medical Benefit Drug Policy: “Respiratory Interleukins (Cinqair®,
+Fasenra®, and Nucala®)”.
+4. References:
+1. Fasenra [prescribing information]. Wilmington, DE; AstraZeneca Pharmaceuticals LP; April
+2024.
+Program Prior Authorization/Notification - Fasenra (benralizumab)
+Change Control
+10/2019 New program.
+4/2020 Updated program to address specific product formulations. Updated
+references.
+4/2021 Annual review. No changes to clinical criteria. Added limitations of
+use. Updated references.
+11/2021 Added coverage criteria for patients established on therapy under
+UnitedHealthcare medical benefit.
+11/2022 Annual review with no changes to coverage criteria. Added state
+mandate footnote and updated references.
+7/2023 Updated required diagnosis to “severe asthma”. Added examples of
+maintenance therapy. Added Tezspire to list of agents that should not
+be used in combination with Fasenra. Removed bypass of eosinophilic
+phenotype requirement for patients currently dependent on maintenance
+© 2024 UnitedHealthcare Services, Inc.
+3
+therapy with oral corticosteroids to align with label.
+7/2024 Annual review. Updated background for ages 6 years and older.
+Modified criteria for existing prior authorization for under the medical
+benefit. Updated reference.
+© 2024 UnitedHealthcare Services, Inc.
+4

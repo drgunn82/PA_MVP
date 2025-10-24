@@ -1,0 +1,87 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2321-1
+Program Prior Authorization/Medical Necessity
+Medication Jesduvroq® (daprodustat)
+P&T Approval Date 1/2024
+Effective Date 4/1/2024
+1. Background:
+Jesduvroq (daprodustat) is a hypoxia-inducible factor prolyl hydroxylase (HIF PH) inhibitor
+indicated for the treatment of anemia due to chronic kidney disease in adults who have been
+receiving dialysis for at least four months.
+The treatment of anemia includes intravenous (IV) iron and/or treatment with either an
+erythropoiesis-stimulating agent (ESA) [e.g., Aranesp (darbepoetin), Epogen (epoetin alfa),
+Procrit (epoetin alfa), Retacrit (epoetin alfa-epbx)] or a hypoxia-inducible factor prolyl
+hydroxylase inhibitor (HIF PHI) [e.g., Jesduvroq (daprodustat)].
+Limitations of Use
+• Jesduvroq has not been shown to improve quality of life, fatigue, or patient well-being.
+• Jesduvroq is not indicated for use as a substitute for transfusion in patients requiring
+immediate correction of anemia or in patients not on dialysis.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Jesduvroq will be approved based on all of the following criteria:
+a. Diagnosis of anemia due to chronic kidney disease (CKD)
+-AND-
+b. Patient has been receiving dialysis for at least four months
+-AND-
+c. Both of the following:
+(1) Ferritin greater than 100 mcg/L
+(2) Transferrin saturation (TSAT) greater than 20%
+-AND-
+d. Hemoglobin level less than 11 g/dL
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+1
+e. Trial and failure, contraindication or intolerance to an erythropoietin stimulating agent
+(ESA) [e.g., Aranesp (darbepoetin), Epogen (epoetin alfa), Procrit (epoetin alfa),
+Retacrit (epoetin alfa-epbx)]
+-AND-
+f. Prescribed by or in consultation with one of the following:
+(1) Hematologist
+(2) Nephrologist
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Jesduvroq will be approved based on all of the following criteria:
+a. Documentation of positive clinical response to Jesduvroq therapy (e.g., clinically
+meaningful increase in hemoglobin level)
+-AND-
+b. Adequate iron stores confirmed by both of the following:
+(1) Ferritin greater than 100 mcg/L
+(2) Transferrin saturation (TSAT) greater than 20%
+-AND-
+c. Hemoglobin level does not exceed 12 g/dL
+-AND-
+d. Patient is not on concurrent treatment with an erythropoietin stimulating agent (ESA)
+[e.g., Aranesp (darbepoetin), Epogen (epoetin alfa), Procrit (epoetin alfa), Retacrit
+(epoetin alfa-epbx)]
+-AND-
+e. Prescribed by or in consultation with one of the following:
+(1) Hematologist
+(2) Nephrologist
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+© 2024 UnitedHealthcare Services, Inc.
+2
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class
+4. References:
+1. Jesduvroq [package insert]. Durham, NC: GlaxoSmithKline; August 2023.
+2. Akizawa T, Nangaku M, Yonekawa T, et al. Efficacy and Safety of Daprodustat Compared
+with Darbepoetin Alfa in Japanese Hemodialysis Patients with Anemia: A Randomized,
+Double-Blind, Phase 3 Trial. Clin J Am Soc Nephrol. 2020;15(8):1155-1165.
+doi:10.2215/CJN.16011219
+3. Ketteler M, Block GA, Evenepoel P, Fukagawa M, Herzog CA, McCann L, Moe SM, Shroff
+R, Tonelli MA, Toussaint ND, Vervloet MG, Leonard MB. KDIGO 2017 Clinical Practice
+Guideline Update for the Diagnosis, Evaluation, Prevention, and Treatment of Chronic
+Kidney Disease–Mineral and Bone Disorder (CKD-MBD). Ann Intern Med. 2018 Mar
+20;168(6):422-430.
+Program Prior Authorization/Medical Necessity - Jesduvroq (daprodustat)
+Change Control
+1/2024 New program.
+© 2024 UnitedHealthcare Services, Inc.
+3

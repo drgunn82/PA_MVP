@@ -1,0 +1,204 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Hepatitis C – Epclusa Prior Authorization Policy
+• Epclusa® (sofosbuvir/velpatasvir tablets and oral pellets – Gilead)
+• sofosbuvir/velpatasvir tablets (authorized generic to Epclusa –
+Gilead)
+REVIEW DATE: 04/03/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+The fixed-dose combination of sofosbuvir, a hepatitis C virus (HCV) nucleotide analog
+NS5B polymerase inhibitor, and velpatasvir, an HCV NS5A inhibitor, is indicated for
+the treatment of chronic HCV genotype 1 through 6 infection in patients ≥ 3 years
+of age.1 In patients with decompensated cirrhosis (Child-Pugh B or C),
+sofosbuvir/velpatasvir is administered with weight-based ribavirin. The FDA-
+approved duration of therapy with sofosbuvir/velpatasvir is 12 weeks for all patients.
+Guidelines
+The American Association for the Study of Liver Diseases/Infectious Diseases Society
+of America (AASLD/IDSA) provide recommendations for testing, monitoring, and
+treating HCV (December 19, 2023).2 Instances in which the guidelines provide
+recommendations for sofosbuvir/velpatasvir outside of the FDA-approved indications
+are outlined below.
+With the availability of pangenotypic HCV treatment regimens, HCV genotyping is no
+longer required prior to treatment initiation for all individuals. Pretreatment
+genotyping is still recommended in patients with cirrhosis and/or past unsuccessful
+Page 1 of 5 - Cigna National Formulary Coverage - Policy:Hepatitis C – Epclusa Prior Authorization Policy
+HCV treatment, because treatment regimens may differ by genotype. However, for
+treatment-naïve patients without cirrhosis, although genotyping may impact the
+preferred treatment approach, it is not required if a pangenotypic regimen is used.
+The recommendations provide a simplified treatment algorithm for treatment-naïve
+adults where genotyping is not required.2 Treatment-naïve adults without cirrhosis
+are eligible for simplified treatment if they do not have hepatitis B virus (not hepatitis
+B serum antigen [HBsAg] positive), are not pregnant, do not have hepatocellular
+carcinoma, and have not had a liver transplantation. In treatment-naïve adults
+without cirrhosis, the recommended regimens are Mavyret® (glecaprevir/pibrentasvir
+tablets) for 8 weeks or sofosbuvir/velpatasvir for 12 weeks. Treatment-naïve adults
+with compensated cirrhosis are also eligible for simplified treatment; however,
+recommendations are genotype specific. In patients with compensated cirrhosis, the
+recommended regimen in patients with genotype 1 through 6 is Mavyret for 8 weeks;
+sofosbuvir/velpatasvir for 12 weeks is recommended in patients with genotype 1, 2,
+4, 5, or 6 (patients with genotype 3 require baseline NS5A resistance-associated
+substitution testing. Those without Y93H can be treated with sofosbuvir/velpatasvir
+for 12 weeks).
+In patients with decompensated cirrhosis, the guidelines offer a recommendation for
+patients who are ribavirin-ineligible to treat with sofosbuvir/velpatasvir for 24
+weeks.2 (Note: sofosbuvir/velpatasvir is FDA-approved in this setting in combination
+with ribavirin for 12 weeks for adult and pediatric patients). In pediatric patients
+with any genotype, sofosbuvir/velpatasvir with weight-based ribavirin is
+recommended in patients with prior exposure to an interferon-based regimen (±
+ribavirin) and/or sofosbuvir but no exposure to NS3/4A or NS5A protease inhibitors,
+with decompensated cirrhosis.
+Although Vosevi® (sofosbuvir/velpatasvir/voxilaprevir tablets) is recommended in
+most instances for adults with no cirrhosis or compensated cirrhosis who have failed
+treatment with a sofosbuvir-containing regimen, sofosbuvir/velpatasvir is
+recommended in adults (genotypes 1 through 6) with decompensated cirrhosis who
+have failed therapy with a sofosbuvir-containing regimen. In this setting,
+sofosbuvir/velpatasvir is recommended for 24 weeks in combination with ribavirin.
+Data are limited to one Phase II study where sofosbuvir/velpatasvir was studied in
+patients with genotype 1, 2, and 3 who did not respond to velpatasvir-containing
+regimens including sofosbuvir/velpatasvir and Vosevi.2,6 Retreatment with
+sofosbuvir/velpatasvir + ribavirin for 24 weeks yielded high overall response rates
+(sustained virologic response 12 weeks post-treatment [SVR12] 91% [n = 63/69]).
+Among patients with genotype 1 chronic HCV, 97% of patients (n = 36/37) achieved
+SVR12. In patients with genotype 2 chronic HCV, SVR12 was attained in 95% of
+patients (n = 13/14) and in patients with genotype 3 chronic HCV, SVR12 was
+attained in 78% of patients (n = 14/18). Baseline NS5A resistance associated
+substitutions did not appear to impact SVR rates. No breakdown of the proportion of
+patients with decompensated cirrhosis was provided in the study.
+POLICY STATEMENT
+3 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Epclusa Prior Authorization Policy
+Prior Authorization is recommended for prescription benefit coverage of
+sofosbuvir/velpatasvir. All approvals are provided for the duration noted below.
+Because of the specialized skills required for evaluation and diagnosis of patients
+treated with sofosbuvir/velpatasvir as well as the monitoring required for adverse
+events and efficacy, approval requires sofosbuvir/velpatasvir to be prescribed by or in
+consultation with a with a physician who specializes in the condition being treated.
+• Epclusa® (sofosbuvir/velpatasvir tablets and oral pellets – Gilead)
+sofosbuvir/velpatasvir tablets (authorized generic to Epclusa – Gilead)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Chronic Hepatitis C Virus (HCV) Genotype 1, 2, 3, 4, 5, or 6, No Cirrhosis
+or Compensated Cirrhosis (Child-Pugh A). Approve for 12 weeks if the
+patient meets ALL of the following (A, B, C, and D):
+A) Patient is ≥ 3 years of age; AND
+B) Patient meets ONE of the following (i or ii):
+i. Patient does not have cirrhosis; OR
+ii. Patient has compensated cirrhosis (Child-Pugh A); AND
+C) Patient has not been previously treated with sofosbuvir/velpatasvir; AND
+D) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+2. Chronic Hepatitis C Virus (HCV) Genotype 1, 2, 3, 4, 5, or 6,
+Decompensated Cirrhosis (Child-Pugh B or C), Adult. Approve for the
+duration below if the patient meets ALL of the following (A, B, C, and D):
+A) Patient is ≥ 18 years of age; AND
+B) Patient has decompensated cirrhosis (Child-Pugh B or C); AND
+C) Patient meets ONE of the following (i or ii):
+i. Patient is ribavirin-eligible, according to the prescriber: Approve for 12
+weeks, if the medication is prescribed in combination with ribavirin; OR
+ii. Patient is ribavirin-ineligible, according to the prescriber: Approve for 24
+weeks; AND
+D) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+3. Chronic Hepatitis C Virus (HCV) Genotype 1, 2, 3, 4, 5, or 6,
+Decompensated Cirrhosis (Child-Pugh B or C), Pediatric Patient. Approve
+for 12 weeks if the patient meets ALL of the following (A, B, C, and D):
+A) Patient is ≥ 3 years of age and < 18 years of age; AND
+B) Patient has decompensated cirrhosis (Child-Pugh B or C); AND
+C) The medication will be prescribed in combination with ribavirin; AND
+D) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+3 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Epclusa Prior Authorization Policy
+Other Uses with Supportive Evidence
+4. Chronic Hepatitis C Virus (HCV), Genotype Unknown/Undetermined.
+Approve for 12 weeks if the patient meets ALL of the following (A, B, C, D, E, F,
+G, and H):
+A) Patient is ≥ 18 years of age; AND
+B) Patient does not have cirrhosis; AND
+C) Patient has not previously been treated for hepatitis C virus; AND
+D) Patient does not have hepatitis B virus; AND
+E) Patient is not pregnant; AND
+F) Patient does not have hepatocellular carcinoma; AND
+G) Patient has not had a liver transplantation; AND
+H) The medication will be prescribed by or in consultation with a
+gastroenterologist, hepatologist, infectious diseases physician, or a liver
+transplant physician.
+5. Chronic Hepatitis C Virus (HCV), Genotype 1, 2, 3, 4, 5, or 6,
+Decompensated Cirrhosis (Child-Pugh B or C), Prior Null Responder, Prior
+Partial Responder, and Prior Relapser to sofosbuvir/velpatasvir or
+Vosevi. Approve for 24 weeks if the patient meets ALL of the following (A, B, C,
+D, and E):
+A) Patient is ≥ 3 years of age; AND
+B) Patient has decompensated cirrhosis (Child-Pugh B or C); AND
+C) Patient meets ONE of the following (i or ii):
+i. Patient has been previously treated with sofosbuvir/velpatasvir; OR
+ii. Patient has previously been treated with Vosevi; AND
+D) The medication will be prescribed in combination with ribavirin; AND
+E) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+6. Patient Has Been Started on sofosbuvir/velpatasvir. Approve for an
+indication or condition addressed as an approval in the Recommended
+Authorization Criteria section (FDA-Approved Indications or Other Uses with
+Supportive Evidence). Approve the duration described above to complete a
+course therapy (e.g., a patient who should receive 12 weeks, and has received 3
+weeks, should be approved for 9 weeks to complete their 12-week course).
+CONDITIONS NOT COVERED
+• Epclusa® (sofosbuvir/velpatasvir tablets and oral pellets – Gilead)
+sofosbuvir/velpatasvir tablets (authorized generic to Epclusa – Gilead)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria will
+be updated as new published data are available):
+3 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Epclusa Prior Authorization Policy
+1. Hepatitis C Virus (HCV) [any genotype], Combination with Any Other
+Direct-Acting Antivirals (DAAs) [Not Including Ribavirin].
+Sofosbuvir/velpatasvir provides a complete antiviral regimen.
+Sofosbuvir/velpatasvir is not recommended to be used with other products
+containing sofosbuvir.
+2. Pediatric Patient (< 3 Years of Age). The safety and efficacy of
+sofosbuvir/velpatasvir have not been established in pediatric patients < 3 years
+of age.1
+REFERENCES
+1. Epclusa® tablets and oral pellets [prescribing information]. Foster City, CA: Gilead; April 2022.
+2. American Association for the Study of Liver Diseases and the Infectious Diseases Society of America.
+Testing, managing, and treating hepatitis C. Available at: http://www.hcvguidelines.org. Updated
+December 19, 2023. Accessed on March 26, 2024.
+3. Gane EJ, Shiffman ML, Etzkorn K, et al. Sofosbuvir-velpatasvir with ribavirin for 24 weeks in HCV
+patients previously treated with a direct-acting antiviral regimen. Hepatology. 2017;66(4):1083-
+1089.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Early Annual Chronic Hepatitis C Virus (HCV), Genotype 04/05/2023
+Revision Unknown/Undetermined: A new condition of coverage was added
+to “Other Uses with Supportive Evidence”. Patients meeting these
+criteria are approved for 12 weeks of sofosbuvir/velpatasvir.
+Selected Conditions Not Covered 02/28/2024
+Revision : Life Expectancy Less Than 12 Months Due to Non-Liver
+Related Comorbidities. This condition was removed.
+Annual No criteria changes. 04/03/2024
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2024 The Cigna
+Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Epclusa Prior Authorization Policy

@@ -1,0 +1,248 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Anticoagulants – Xarelto Prior Authorization with Step Therapy Policy
+• Xarelto® (rivaroxaban tablets [generic for the 2.5 mg tablet
+strength only] and oral suspension [generic] – Janssen)
+REVIEW DATE: 05/21/2025; selected revision 07/30/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Xarelto, a Factor Xa inhibitor, is indicated for the following uses:1
+• Non-valvular atrial fibrillation, to reduce the risk of stroke and systemic
+embolism in adults.
+• Coronary artery disease, in combination with aspirin, to reduce the risk of
+major adverse cardiovascular events in adults.
+• Prophylaxis of deep vein thrombosis (DVT), which may lead to pulmonary
+embolism (PE), in adults undergoing knee or hip replacement surgery.
+• Prophylaxis of venous thromboembolism in acutely ill medical
+patients, in adults at risk for thromboembolic complications and not at high
+risk of bleeding.
+• Peripheral artery disease, including patients after recent lower extremity
+revascularization due to symptomatic peripheral artery disease, in combination
+with aspirin, to reduce the risk of major thrombotic vascular events in adults.
+Page 1 of 6 - Cigna National Formulary Coverage - Policy: Anticoagulants – Xarelto Prior Authorization with Step
+Therapy Policy
+• Treatment of DVT and/or PE, as well as reduction in the risk of
+recurrence of DVT and/or PE in patients at continued risk for recurrent DVT
+and/or PE after completion of initial treatment. Xarelto is approved for these
+indications in pediatric patients from birth to < 18 years of age as well as
+adults.
+• Thromboprophylaxis in a patient with congenital heart disease after
+the Fontan procedure, in pediatric patients ≥ 2 years of age.
+Dosing and Administration
+It is noted in the prescribing information for Xarelto that different dosage forms can
+be utilized to achieve the necessary dose and route of administration for adult and
+pediatric patients.1 Adult patients can be given tablets or oral suspension.
+For pediatric patients, tablets must not be split in an attempt to provide a fraction of
+a tablet dose.1 For treatment of venous thromboembolism (VTE) and reduction in
+risk of VTE recurrence in pediatric patients, it is noted that the oral suspension or
+tablets may be used for a patient weighing ≥ 30 kg; for patients weighing < 30 kg,
+only the oral suspension should be used. For thromboprophylaxis in pediatric patients
+with congenital heart disease after the Fontan procedure, the oral suspension or
+tablets may be used for a patient weighing ≥ 50 kg; only the oral suspension should
+be used for a patient weighing < 50 kg. It is noted that there are no safety, efficacy,
+pharmacokinetic, and pharmacodynamic data to support the use of Xarelto 2.5 mg
+tablets in pediatric patients; therefore, Xarelto 2.5 mg tablets are not recommended
+in pediatric patients.
+Guidelines
+Guidelines are available which support the use of direct oral anticoagulants (DOACs)
+in their commonly used clinical settings, such as DVT/PE2-5 and atrial fibrillation.6,7
+In patients who are eligible for a DOAC, these are generally preferred over vitamin K
+antagonists (e.g., warfarin). It is noted that in the randomized trials in atrial
+fibrillation, DOACs were consistently at least non-inferior to warfarin regarding the
+composite of stroke or systemic embolism and were associated with lower risk of
+serious bleeding.7 Guidelines from the Canadian Cardiovascular Society for
+peripheral arterial disease (2022) recommend Xarelto in combination with aspirin in
+selected patients with peripheral arterial disease (high risk of ischemic events).8
+Other Uses with Supportive Evidence
+Although data are not robust regarding use of DOACs in other off-label
+thromboembolic-related conditions, American College of Chest Physicians (CHEST)
+guidelines (2021) suggest anticoagulation for certain patients (e.g., superficial vein
+thrombosis).2 The choice of anticoagulant is often individualized based on patient-
+specific factors; therefore, for certain patients, DOAC use may be considered in
+practice. Evidence for DOACs is limited for off-label scenarios; in general, there is
+more clinical experience with agents such as vitamin K antagonists (e.g., warfarin)
+and low molecular weight heparin in these settings.
+6 Pages - Cigna National Formulary Coverage - Policy:Anticoagulants – Xarelto Prior Authorization with Step
+Therapy Policy
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Xarelto. All
+approvals are provided for the approval duration noted below. In cases where the
+approval is authorized in months, 1 month is equal to 30 days.
+• Xarelto® (rivaroxaban tablets [generic for the 2.5 mg tablet strength
+only] and oral suspension [generic] – Janssen)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Atrial Fibrillation (or Atrial Flutter). Approve for 1 year if the patient meets
+BOTH of the following (A and B):
+A) Patient is ≥ 18 years of age; AND
+B) If rivaroxaban oral suspension (brand or generic product) is being requested,
+approve if the patient is unable to have Xarelto tablets appropriately
+administered.
+2. Coronary Artery Disease. Approve for 1 year if the patient meets ALL of the
+following (A, B, and C):
+A) Patient is ≥ 18 years of age; AND
+B) Patient is taking concomitant aspirin, at least 75 mg daily; AND
+C) If rivaroxaban oral suspension (brand or generic product) is being requested,
+approve if the patient is unable to have Xarelto tablets appropriately
+administered.
+3. Deep Vein Thrombosis in a Patient Undergoing Knee or Hip Replacement
+Surgery, Prophylaxis. Approve for 60 days if the patient meets BOTH of the
+following (A and B):
+A) Patient is ≥ 18 years of age; AND
+B) If rivaroxaban oral suspension (brand or generic product) is being requested,
+approve if the patient is unable to have Xarelto tablets appropriately
+administered.
+4. Deep Vein Thrombosis or Pulmonary Embolism, Treatment. Approve for 1
+year if the patient meets ONE of the following (A or B):
+A) Xarelto tablets: Approve.
+B) Rivaroxaban oral suspension (brand or generic product): Approve if the
+patient meets ONE of the following (i or ii):
+i. Patient is unable to have Xarelto tablets appropriately administered; OR
+ii. The prescribed dose cannot be achieved by Xarelto 10 mg, 15 mg, or 20
+mg tablets.
+6 Pages - Cigna National Formulary Coverage - Policy:Anticoagulants – Xarelto Prior Authorization with Step
+Therapy Policy
+5. Deep Vein Thrombosis or Pulmonary Embolism, to Reduce the Risk of
+Recurrence. Approve for 1 year if the patient meets ONE of the following (A or
+B):
+A) Xarelto tablets: Approve.
+B) Rivaroxaban oral suspension (brand or generic product): Approve if the
+patient meets ONE of the following (i or ii):
+i. Patient is unable to have Xarelto tablets appropriately administered; OR
+ii. The prescribed dose cannot be achieved by Xarelto 10 mg, 15 mg, or 20
+mg tablets.
+6. Peripheral Artery Disease. Approve for 1 year if the patient meets ALL of the
+following (A, B, and C):
+A) Patient is ≥ 18 years of age; AND
+B) Patient is taking concomitant aspirin, at least 75 mg daily; AND
+C) If rivaroxaban oral suspension (brand or generic product) is being requested,
+patient is unable to have Xarelto tablets appropriately administered.
+7. Thromboprophylaxis in a Patient with Congenital Heart Disease. Approve
+for 1 year if the patient meets ALL of the following (A, B, and C):
+A) Patient is ≥ 2 years of age and < 18 years of age; AND
+B) Patient has undergone the Fontan procedure; AND
+C) If rivaroxaban oral suspension (brand or generic product) is being requested,
+patient meets ONE of the following (i or ii):
+i. Patient is unable to have Xarelto tablets appropriately administered; OR
+ii. The prescribed dose cannot be achieved by Xarelto 10 mg, 15 mg, or 20
+mg tablets.
+8. Venous Thromboembolism in an Acutely Ill Medical Patient, Prophylaxis.
+Approve for 60 days if the patient meets BOTH of the following (A and B):
+A) Patient is ≥ 18 years of age; AND
+B) If rivaroxaban oral suspension (brand or generic product) is being requested,
+patient is unable to have Xarelto tablets appropriately administered.
+Other Uses with Supportive Evidence
+9. Treatment or Prevention of Other Thromboembolic-Related Conditions.
+Approve for 6 months if the patient meets BOTH of the following (A and B):
+Note: Examples of other thromboembolic-related conditions include superficial
+vein thrombosis, splanchnic vein thrombosis, hepatic vein thrombosis, or
+prophylaxis of venous thromboembolism in a high-risk patient.
+A) Patient meets ONE of the following (i or ii):
+i. Patient has tried warfarin, fondaparinux or a low molecular weight heparin
+product (e.g., enoxaparin, Fragmin [dalteparin injection]); OR
+Note: A patient who has tried Eliquis (apixaban tablets or tablets for oral
+suspension), Eliquis Sprinkle (apixaban capsules for oral suspension),
+Pradaxa (dabigatran capsules and oral pellets), or Savaysa (edoxaban
+tablets) is not required to try warfarin, fondaparinux, or a low molecular
+weight heparin.
+6 Pages - Cigna National Formulary Coverage - Policy:Anticoagulants – Xarelto Prior Authorization with Step
+Therapy Policy
+ii. Patient has been started on Xarelto for the treatment of an acute
+thromboembolic condition; AND
+B) If rivaroxaban oral suspension (brand or generic product) is being requested,
+approve if the patient meets ONE of the following (i or ii):
+i. Patient is unable to have Xarelto tablets appropriately administered; OR
+ii. The prescribed dose cannot be achieved by Xarelto 10 mg, 15 mg, or 20
+mg tablets.
+CONDITIONS NOT COVERED
+• Xarelto® (rivaroxaban tablets [generic for the 2.5 mg tablet strength
+only] and oral suspension [generic] – Janssen)
+is(are) considered not medically necessary for ANY other use(s); criteria will
+be updated as new published data are available.
+REFERENCES
+1. Xarelto tablets and oral suspension [prescribing information]. Titusville, NJ: Janssen; June 2025.
+2. Stevens SM, Woller SC, Kreuziger LB, et al. Antithrombotic therapy for VTE disease. Second update
+of the CHEST guideline and Expert Panel Report. Chest. 2024; 166(2): 388-404.
+3. Key NS, Khorana AA, Kuderer NM, et al. Venous thromboembolism prophylaxis and treatment in
+patients with cancer: ASCO guideline update. J Clin Oncol. 2023;41:3063-3071.
+4. The NCCN Cancer-Associated Venous Thromboembolic Disease Clinical Practice Guidelines in
+Oncology (version 1.2025 – February 27, 2025). © 2025 National Comprehensive Cancer Network.
+Available at: http://www.nccn.org. Accessed on May 15, 2025.
+5. Ortel TL, Neumann I, Ageno W, Beyth R, et al. American Society of Hematology 2020 guidelines for
+management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary
+embolism. Blood Adv. 2020;4(19):4693-4738.
+6. Lip G, Banerjee A, Boriani G, et al. Antithrombotic therapy for atrial fibrillation: CHEST guideline
+and expert panel report. Chest. 2018;154(5):1121-1201.
+7. Joglar JA, Chung MK, Armbruster AL, et al. 2023 ACC/AHA/ACCP/HRS guidelines for the diagnosis
+and management of atrial fibrillation. A report of the American College of Cardiology/American Heart
+Association Joint Committee on Practice guidelines. Developed in collaboration and endorsed by the
+American College of Clinical Pharmacy and the Heart Rhythm Society. J Am Coll Cardiol.
+2024;83(1):109-279.
+8. Abramson BL, Al-Omran M, Anand SS, et al. Canadian Cardiovascular Society 2022 guidelines for
+peripheral arterial disease. Can J Cardiol. 2022;38:560-587.
+9. COVID-19 Treatment Guidelines Panel. Coronavirus Disease 2019 (COVID-19) Treatment
+Guidelines. Antithrombotic therapy in patients with COVID-19. National Institutes of Health. Updated
+February 29, 2024.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Early Annual No criteria changes. 01/11/2023
+Revision
+Annual No criteria changes. 01/24/2024
+Revision
+Annual No criteria changes. 02/12/2025
+Revision
+6 Pages - Cigna National Formulary Coverage - Policy:Anticoagulants – Xarelto Prior Authorization with Step
+Therapy Policy
+Selected Generic rivaroxaban 2.5 mg tablets were added to the policy. 04/23/2025
+Revision
+Early Annual Treatment or Prevention of Other Thromboembolic-Related 05/21/2025
+Revision Conditions: For the criterion that requires a patient to try
+warfarin, fondaparinux, or a low molecular weight heparin product,
+Eliquis tablets for oral suspension and Eliquis Sprinkle were added
+to the Note of medications that a patient could alternatively try.
+Venous Thromboembolism in an Acutely Ill Medical Patient,
+Prophylaxis: The note that this condition includes “post-
+discharge thromboprophylaxis for a patient hospitalized with
+coronavirus disease 2019 was removed.
+Selected The policy name was changed to as listed. Previously, it was 07/30/2025
+Revision Anticoagulants – Xarelto PA Policy.
+Generic rivaroxaban oral suspension was added to the policy.
+Exceptions were updated to reflect approval of rivaroxaban oral
+suspension (brand or generic product) if tablets could not be
+appropriately administered or if the dose could not be achieved
+with Xarelto 10 mg, 15 mg, or 20 mg tablets.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+6 Pages - Cigna National Formulary Coverage - Policy:Anticoagulants – Xarelto Prior Authorization with Step
+Therapy Policy

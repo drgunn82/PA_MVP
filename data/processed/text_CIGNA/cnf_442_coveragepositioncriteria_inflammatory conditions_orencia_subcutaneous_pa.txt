@@ -1,0 +1,383 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Inflammatory Conditions – Orencia Subcutaneous Prior Authorization
+Policy
+• Orencia® (abatacept subcutaneous injection − Bristol Myers Squibb)
+REVIEW DATE: 09/11/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Orencia subcutaneous, a selective T-cell costimulation modulator, is indicated for the
+following uses:1
+• Rheumatoid arthritis, in adults with moderately to severely active disease.
+• Juvenile idiopathic arthritis, in patients ≥ 2 years of age with moderately
+to severely active polyarticular disease.
+• Psoriatic arthritis, in patients ≥ 2 years of age with active disease.
+Per the product labeling, Orencia is not recommended for concomitant use with other
+potent immunosuppressants such as biologics or Janus kinase inhibitors.
+Guidelines
+Orencia is addressed in guidelines for treatment of various inflammatory conditions.
+• Rheumatoid Arthritis: Guidelines from the American College of
+Rheumatology (ACR) [2021] recommend addition of a biologic or a targeted
+synthetic disease-modifying antirheumatic drug (DMARD) for a patient taking
+the maximum tolerated dose of methotrexate who is not at target.2
+• Juvenile Idiopathic Arthritis: Guidelines from ACR (2019) list biologics
+among the treatment options for subsequent therapy in patients with
+Page 1 of 9 - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Orencia Subcutaneous Prior
+Authorization Policy
+polyarthritis.3 Initial therapy with a biologic may be considered for patients
+with risk factors and involvement of high-risk joints (e.g., cervical spine, wrist,
+or hip), high disease activity, and/or those judged to be at high risk of disabling
+joint damage. In patients with active sacroiliitis or enthesitis despite a
+nonsteroidal anti-inflammatory drug, a tumor necrosis factor inhibitor (TNFi)
+is recommended.
+• Psoriatic Arthritis: Guidelines from ACR (2018) recommend TNFis over other
+biologics for use in treatment-naïve patients with psoriatic arthritis and in
+those who were previously treated with an oral therapy.4 However, Orencia
+may be considered over other biologics in patients with recurrent or serious
+infections.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Orencia
+subcutaneous injection. All approvals are provided for the duration noted below. In
+cases where the approval is authorized in months, 1 month is equal to 30 days.
+Because of the specialized skills required for evaluation and diagnosis of patients
+treated with Orencia as well as the monitoring required for adverse events and long-
+term efficacy, initial approval requires Orencia subcutaneous to be prescribed by or
+in consultation with a physician who specializes in the condition being treated.
+• Orencia® (abatacept subcutaneous injection (Bristol Myers Squibb)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Rheumatoid Arthritis. Approve for the duration noted if the patient meets ONE
+of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has tried ONE conventional synthetic disease-modifying
+antirheumatic drug (DMARD) for at least 3 months; AND
+Note: Examples of conventional synthetic DMARDs include methotrexate
+(oral or injectable), leflunomide, hydroxychloroquine, and sulfasalazine. An
+exception to the requirement for a trial of one conventional synthetic
+DMARD can be made if the patient has already had a 3-month trial at least
+one biologic other than the requested drug. A biosimilar of the requested
+biologic does not count. Refer to Appendix for examples of biologics used
+for rheumatoid arthritis. A patient who has already tried a biologic is not
+required to “step back” and try a conventional synthetic DMARD.
+iii. The medication is prescribed by or in consultation with a rheumatologist.
+B) Patient is Currently Receiving Orencia (Intravenous or Subcutaneous).
+Approve for 1 year if the patient meets BOTH of the following (i and ii):
+9 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Orencia Subcutaneous Prior
+Authorization Policy
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) Patient experienced a beneficial clinical response when assessed by at
+least one objective measure; OR
+Note: Examples of objective measures of disease activity include
+Clinical Disease Activity Index (CDAI), Disease Activity Score (DAS) 28
+using erythrocyte sedimentation rate or C-reactive protein, Patient
+Activity Scale (PAS)-II, Rapid Assessment of Patient Index Data 3
+(RAPID-3), and/or Simplified Disease Activity Index (SDAI).
+b) Patient experienced an improvement in at least one symptom, such as
+decreased joint pain, morning stiffness, or fatigue; improved function or
+activities of daily living; decreased soft tissue swelling in joints or tendon
+sheaths.
+2. Juvenile Idiopathic Arthritis (JIA). Approve for the duration noted if the
+patient meets ONE of the following (A or B):
+Note: This includes JIA regardless of type of onset. JIA is also referred to as
+Juvenile Rheumatoid Arthritis.
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, and iii):
+i. Patient is ≥ 2 years of age; AND
+ii. Patient meets ONE of the following (a, b, c, or d):
+a) Patient has tried one other agent for this condition; OR
+Note: Examples of therapies which could have been tried include
+methotrexate, sulfasalazine, leflunomide, or a nonsteroidal anti-
+inflammatory drug (NSAID). A previous trial of one biologic other than
+the requested drug also counts as a trial of one agent for JIA. A
+biosimilar of the requested biologic does not count. Refer to Appendix
+for examples of biologics used for JIA.
+b) Patient will be starting on therapy concurrently with methotrexate,
+sulfasalazine, or leflunomide; OR
+c) Patient has an absolute contraindication to methotrexate, sulfasalazine,
+or leflunomide; OR
+Note: Examples of absolute contraindications to methotrexate include
+pregnancy, breast feeding, alcoholic liver disease, immunodeficiency
+syndrome, or blood dyscrasias.
+d) Patient has aggressive disease, as determined by the prescriber; AND
+iii. The medication is prescribed by or in consultation with a rheumatologist.
+B) Patient is Currently Receiving Orencia (Intravenous or Subcutaneous).
+Approve for 1 year if the patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+9 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Orencia Subcutaneous Prior
+Authorization Policy
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating the
+requested drug); OR
+Note: Examples of objective measures include Physician Global
+Assessment (MD global), Parent/Patient Global Assessment of Overall
+Well-Being (PGA), Parent/Patient Global Assessment of Disease Activity
+(PDA), Juvenile Arthritis Disease Activity Score (JDAS), Clinical Juvenile
+Arthritis Disease Activity Score (cJDAS), Juvenile Spondyloarthritis
+Disease Activity Index (JSpADA), serum markers (e.g., C-reactive
+protein, erythrocyte sedimentation rate), and/or reduced dosage of
+corticosteroids.
+b) Compared with baseline (prior to initiating the requested drug), patient
+experienced an improvement in at least one symptom, such as
+improvement in limitation of motion, less joint pain or tenderness,
+decreased duration of morning stiffness or fatigue, improved function or
+activities of daily living.
+3. Psoriatic Arthritis. Approve for the duration noted if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient is ≥ 2 years of age; AND
+ii. The medication is prescribed by or in consultation with a rheumatologist or
+a dermatologist.
+B) Patient is Currently Receiving Orencia (Intravenous or Subcutaneous).
+Approve for 1 year if the patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating the
+requesting drug); OR
+Note: Examples of objective measures of disease activity include
+Disease Activity Index for Psoriatic Arthritis (DAPSA), Composite
+Psoriatic Disease Activity Index (CPDAI), Psoriatic Arthritis Disease
+Activity Score (PsA DAS), Grace Index, Leeds Enthesitis Score (LEI),
+Spondyloarthritis Consortium of Canada (SPARCC) enthesitis score,
+Leeds Dactylitis Instrument Score, Minimal Disease Activity (MDA),
+Psoriatic Arthritis Impact of Disease (PsAID-12), and/or serum markers
+(e.g., C-reactive protein, erythrocyte sedimentation rate).
+b) Compared with baseline (prior to initiating the requested drug),
+patient experienced an improvement in at least one symptom, such as
+less joint pain, morning stiffness, or fatigue; improved function or
+activities of daily living; decreased soft tissue swelling in joints or ten
+don sheaths.
+9 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Orencia Subcutaneous Prior
+Authorization Policy
+CONDITIONS NOT COVERED
+• Orencia® (abatacept subcutaneous injection (Bristol Myers Squibb)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria will
+be updated as new published data are available):
+1. Ankylosing Spondylitis. In an open-label Phase II trial, Orencia was
+administered intravenously on Days 1, 15, 29, and every 28 days thereafter to
+patients with active ankylosing spondylitis.5 Patients received a fixed dosage of
+Orencia of approximately 10 mg/kg based on body weight. The primary endpoint
+was a 40% improvement in disease activity at Week 24 in the Assessment of
+SpondyloArthritis international Society criteria (ASAS 40). At Week 24, the ASAS
+40 was 13.3% (n = 2/15) in TNFi-naïve patients compared with no responses in
+patients who had previously failed TNFis (n = 15). ASAS 20 response was 26.7%
+(n = 4/15) in TNFi-naïve patients compared with 20% (n = 3/15) in those who
+had previously failed TNFis. A major response was not shown with Orencia
+treatment.
+2. Concurrent Use with a Biologic or with a Targeted Synthetic Oral Small
+Molecule Drug. This medication should not be administered in combination with
+another biologic or with a targeted synthetic oral small molecule drug used for an
+inflammatory condition (see Appendix for examples). Combination therapy is
+generally not recommended due to a potentially higher rate of adverse events and
+lack of controlled clinical data supporting additive efficacy.
+Note: This does NOT exclude the use of conventional synthetic DMARDs (e.g.,
+methotrexate, leflunomide, hydroxychloroquine, or sulfasalazine) in combination
+with this medication.
+3. Inflammatory Bowel Disease (i.e., Crohn’s Disease, Ulcerative Colitis). In
+placebo-controlled trials evaluating the efficacy of Orencia intravenous for
+induction and maintenance in adults with active, moderate to severe Crohn’s
+disease (n = 451) and ulcerative colitis (n = 490), Orencia was no more effective
+than placebo.6 Patients were randomized to Orencia 30 mg/kg, 10 mg/kg, or 3
+mg/kg (according to body weight) or placebo and dosed at Weeks 0, 2, 4, and 8.
+A total of 90 patients with Crohn’s disease and 131 patients with ulcerative colitis
+who responded to induction were then randomized to Orencia 10 mg/kg or placebo
+every 4 weeks through Week 52. When used for induction of Crohn’s disease,
+17.2%, 10.2%, and 15.5% of patients receiving Orencia 30 mg/kg, 10 mg/kg,
+and 3 mg/kg, respectively achieved a clinical response at Weeks 8 and 12
+compared with 14.4% of patients receiving placebo (P = not significant [NS] for
+all comparisons). In patients with Crohn’s disease, response and remission at
+Week 52 was not significantly different between the Orencia intravenous and
+placebo treatment groups. When used as induction therapy in ulcerative colitis,
+21.4%, 19.0%, and 20.3% of patients receiving Orencia 30 mg, 10 mg, and 3
+mg/kg, respectively achieved a clinical response at Week 12 compared with
+29.5% of patients receiving placebo (P = 0.043 for 10 mg/kg vs. placebo; other
+comparisons P = NS). At Week 52, 12.5% (n = 8/64) and 14.1% (n = 9/64) of
+9 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Orencia Subcutaneous Prior
+Authorization Policy
+patients with ulcerative colitis were in remission (P = NS) and 17.2% of patients
+in each treatment group (n = 11/64 for each group) had achieved a response.
+4. Psoriasis. In the pivotal trial evaluating Orencia subcutaneous for psoriatic
+arthritis, there was not a significant difference at Week 24 in the proportion of
+patients with a 50% reduction in the Psoriasis Area and Severity Index (PASI 50)
+response vs. placebo ± conventional synthetic DMARD (27% vs. 20% with placebo
+± conventional synthetic DMARD; P = NS).8 In a multicenter, Phase I, 26-week,
+open-label dose-escalation study, 43 patients with stable plaque psoriasis (10%
+to 49% body surface area involvement) received four doses of Orencia given as a
+1-hour intravenous infusion on Days 1, 3, 16 and 29.7 The starting dose was 0.5
+mg/kg. Four to six patients were accrued to each of eight dose levels: 0.5, 1, 2,
+4, 8, 16, 25 and 50 mg/kg. A parallel control group was matched for age and
+overall disease severity. In all, 46% of patients on Orencia achieved a 50% or
+greater sustained improvement in clinical disease activity (Physician’s Global
+Assessment of disease activity) compared with baseline psoriasis evaluation.
+Progressively greater effects were observed with the highest doses. Further
+studies are needed to establish safety and efficacy, as well as appropriate dosing,
+in plaque psoriasis.
+Note: Patients with concomitant plaque psoriasis and psoriatic arthritis may be
+reviewed under the psoriatic arthritis criteria above.
+REFERENCES
+1. Orencia® subcutaneous injection [prescribing information]. Princeton, NJ: Bristol-Myers Squibb;
+May 2024.
+2. Fraenkel L, Bathon JM, England BR, et al. 2021 American College of Rheumatology guideline for the
+treatment of rheumatoid arthritis. Arthritis Rheumatol. 2021;73(7):1108-1123.
+3. Ringold S, Angeles-Han ST, Beukelman T, et al. 2019 American College of Rheumatology/Arthritis
+Foundation guideline for the treatment of juvenile idiopathic arthritis: therapeutic approaches for
+non-systemic polyarthritis, sacroiliitis, and enthesitis. Arthritis Rheumatol. 2019;71(6):717-734.
+4. Singh JA, Guyatt G, Ogdie A, et al. 2018 American College of Rheumatology/National Psoriasis
+Foundation Guideline for the treatment of psoriatic arthritis. Arthritis Care Res (Hoboken).
+2019;71(1):2-29.
+5. Song IH, Heldmann F, Rudwaleit M, et al. Treatment of active ankylosing spondylitis with abatacept:
+an open-label, 24-week pilot study. Ann Rheum Dis. 2011;70(6):1108-1110.
+6. Sandborn WJ, Colombel JF, Sands BE, et al. Abatacept for Crohn's disease and ulcerative colitis.
+Gastroenterology. 2012;143(1):62-69.e4.
+7. Abrams JR, Lebwohl MG, Guzzo CA, et al. CTLA4Ig-mediated blockade of T-cell costimulation in
+patients with psoriasis vulgaris. J Clin Invest. 1999;103:1243-1252.
+8. Mease PJ, Gottlieb AB, van der Heijde D, et al. Efficacy and safety of abatacept, a T-cell modulator,
+in a randomised, double-blind, placebo-controlled, phase III study in psoriatic arthritis. Ann Rheum
+Dis. 2017;76(9):1550-1558.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 07/27/2022
+Revision
+Annual No criteria changes. 08/23/2023
+Revision
+9 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Orencia Subcutaneous Prior
+Authorization Policy
+Update In the Overview, updated age of approval in psoriatic arthritis to be 03/22/2024
+patients ≥ 2 years of age.
+Selected Rheumatoid Arthritis: For initial approvals, a requirement that the 09/11/2024
+Revision patient is ≥ 18 years of age was added.
+Juvenile Idiopathic Arthritis: For initial approvals, a requirement
+that the patient is ≥ 2 years of age was added.
+Psoriatic Arthritis: For initial approvals, a requirement that the
+patient is ≥ 2 years of age was added.
+Conditions Not Covered: Concurrent use with a Biologic or with a
+Targeted Synthetic Oral Small Molecule Drug was changed to as listed
+(previously oral small molecule drug was listed as Disease-Modifying
+Antirheumatic Drug).
+9 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Orencia Subcutaneous Prior
+Authorization Policy
+APPENDIX
+Mechanism of Action Examples of Indications*
+Biologics
+Adalimumab SC Products (Humira®, Inhibition of TNF AS, CD, JIA, PsO, PsA, RA, UC
+biosimilars)
+Cimzia® (certolizumab pegol SC Inhibition of TNF AS, CD, nr-axSpA, PsO, PsA,
+injection) RA
+Etanercept SC Products (Enbrel®, Inhibition of TNF AS, JIA, PsO, PsA, RA
+biosimilars)
+Infliximab IV Products (Remicade®, Inhibition of TNF AS, CD, PsO, PsA, RA, UC
+biosimilars)
+Zymfentra® (infliximab-dyyb SC Inhibition of TNF CD, UC
+injection)
+Simponi®, Simponi Aria® (golimumab Inhibition of TNF SC formulation: AS, PsA, RA,
+SC injection, golimumab IV infusion) UC
+IV formulation: AS, PJIA,
+PsA, RA
+Tocilizumab Products (Actemra® IV, Inhibition of IL-6 SC formulation: PJIA, RA,
+biosimilar; Actemra SC, biosimilar) SJIA
+IV formulation: PJIA, RA,
+SJIA
+Kevzara® (sarilumab SC injection) Inhibition of IL-6 RA
+Orencia® (abatacept IV infusion, T-cell costimulation SC formulation: JIA, PSA, RA
+abatacept SC injection) modulator IV formulation: JIA, PsA, RA
+Rituximab IV Products (Rituxan®, CD20-directed cytolytic RA
+biosimilars) antibody
+Kineret® (anakinra SC injection) Inhibition of IL-1 JIA^, RA
+Omvoh® (mirikizumab IV infusion, SC Inhibition of IL-23 UC
+injection)
+Stelara® (ustekinumab SC injection, Inhibition of IL-12/23 SC formulation: CD, PsO,
+ustekinumab IV infusion) PsA, UC
+IV formulation: CD, UC
+Siliq® (brodalumab SC injection) Inhibition of IL-17 PsO
+Cosentyx® (secukinumab SC injection; Inhibition of IL-17A SC formulation: AS, ERA, nr-
+secukinumab IV infusion) axSpA, PsO, PsA
+IV formulation: AS, nr-
+axSpA, PsA
+Taltz® (ixekizumab SC injection) Inhibition of IL-17A AS, nr-axSpA, PsO, PsA
+Bimzelx® (bimekizumab-bkzx SC Inhibition of IL- PsO
+injection) 17A/17F
+Ilumya® (tildrakizumab-asmn SC Inhibition of IL-23 PsO
+injection)
+Skyrizi® (risankizumab-rzaa SC Inhibition of IL-23 SC formulation: CD, PSA,
+injection, risankizumab-rzaa IV infusion) PsO, UC
+IV formulation: CD, UC
+Tremfya® (guselkumab SC injection, Inhibition of IL-23 SC formulation: PsA, PsO, UC
+guselkumab IV infusion) IV formulation: UC
+Entyvio® (vedolizumab IV infusion, Integrin receptor CD, UC
+vedolizumab SC injection) antagonist
+Oral Therapies/Targeted Synthetic Oral Small Molecule Drugs
+Otezla® (apremilast tablets) Inhibition of PDE4 PsO, PsA
+Cibinqo™ (abrocitinib tablets) Inhibition of JAK AD
+pathways
+Olumiant® (baricitinib tablets) Inhibition of JAK RA, AA
+pathways
+Litfulo® (ritlecitinib capsules) Inhibition of JAK AA
+pathways
+9 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Orencia Subcutaneous Prior
+Authorization Policy
+Leqselvi® (deuruxolitinib tablets) Inhibition of JAK AA
+pathways
+Rinvoq® (upadacitinib extended-release Inhibition of JAK AD, AS, nr-axSpA, RA, PsA,
+tablets) pathways UC
+Rinvoq® LQ (upadacitinib oral solution) Inhibition of JAK PsA, PJIA
+pathways
+Sotyktu® (deucravacitinib tablets) Inhibition of TYK2 PsO
+Xeljanz® (tofacitinib tablets/oral Inhibition of JAK RA, PJIA, PsA, UC
+solution) pathways
+Xeljanz® XR (tofacitinib extended- Inhibition of JAK RA, PsA, UC
+release tablets) pathways
+Zeposia® (ozanimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+Velsipity® (etrasimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+* Not an all-inclusive list of indications. Refer to the prescribing information for the respective agent for
+FDA-approved indications; SC – Subcutaneous; TNF – Tumor necrosis factor; AS – Ankylosing
+spondylitis; CD – Crohn’s disease; JIA – Juvenile idiopathic arthritis; PsO – Plaque psoriasis; PsA –
+Psoriatic arthritis; RA – Rheumatoid arthritis; UC – Ulcerative colitis; nr-axSpA – Non-radiographic axial
+spondyloarthritis; IV – Intravenous, PJIA – Polyarticular juvenile idiopathic arthritis; IL – Interleukin;
+SJIA – Systemic juvenile idiopathic arthritis; ^ Off-label use of Kineret in JIA supported in guidelines;
+ERA – Enthesitis-related arthritis; DMARD – Disease-modifying antirheumatic drug; PDE4 –
+Phosphodiesterase 4; JAK – Janus kinase; AD – Atopic dermatitis; AA – Alopecia areata; TYK2 – Tyrosine
+kinase 2.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2024 The Cigna
+Group.
+9 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Orencia Subcutaneous Prior
+Authorization Policy

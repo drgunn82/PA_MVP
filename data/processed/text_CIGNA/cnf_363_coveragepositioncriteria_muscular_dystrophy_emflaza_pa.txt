@@ -1,0 +1,200 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Muscular Dystrophy – Deflazacort Prior Authorization Policy
+• Emflaza™ (deflazacort tablets and oral suspension − PTC
+Therapeutics; generics)
+• Jaythari (deflazacort tablets – Zydus Pharmaceuticals)
+REVIEW DATE: 01/22/2025; selected revision 09/03/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Deflazacort, a corticosteroid, is indicated for the treatment of Duchenne Muscular
+Dystrophy (DMD) in patients ≥ 2 years of age.1 The efficacy and safety of deflazacort
+have not been established in patients < 2 years of age. Jaythari is indicated for DMD in
+patients ≥ 5 years of age.9 Due to PTC Therapeutics marketing exclusivity rights, Jaythari is
+not approved in patients < 5 years of age.
+Disease Overview
+DMD is a rare, progressive X-linked disease resulting from mutation(s) of the DMD gene,
+also known as the Dystrophin gene.2,3 Due to the mutation(s), the dystrophin protein,
+which is key for maintaining the structural integrity of muscle cells, is not produced or very
+minimally produced. Since this is an X-linked mutation, DMD almost exclusively impacts
+young males. DMD is a progressive muscle-weakening disease that affects skeletal,
+respiratory, and cardiac muscles. It is usually diagnosed in the second or third year of life.
+Page 1 of 6 - Cigna National Formulary Coverage - Policy:Muscular Dystrophy – Deflazacort Prior Authorization
+Policy
+Due to progressive decline, most patients die of cardiac or respiratory complications in the
+third or fourth decade of life. The incidence of DMD in the US is approximately 1 in 5,000
+live male births.
+Clinical Efficacy
+The efficacy and safety of deflazacort were established in two pivotal trials in males with
+DMD who were ≥ 5 years of age.7,8 In one study, treatment consisted of deflazacort 0.9
+mg/kg/day, deflazacort 1.2 mg/kg/day, or prednisone 0.75 mg/kg/day (n = 196).7 The
+primary efficacy analysis, mean change from baseline to Week 12 in average muscle
+strength (assessed by modified Medical Research Council [MRC]), demonstrated a
+significant least squares (LS) mean difference in favor of active treatment vs. placebo:
+deflazacort 0.9 mg/kg/day (0.25 vs. -0.1, P = 0.17), deflazacort 1.2 mg/kg/day (0.36 vs. -
+0.1, P = 0.0003), and prednisone 0.75 mg/kg/day (0.37 vs. -0.1, P = 0.0002). Adverse
+events (AEs) differed between prednisone and deflazacort treatment groups. Cushingoid
+appearance (69.4%), erythema (41.8%), and hirsutism (39.3%) were observed in a
+numerically greater proportion of patients in the prednisone group compared with either
+dose of deflazacort. Central obesity was reported in a statistically significantly greater
+proportion of patients treated with prednisone vs. deflazacort. Psychiatric AEs were
+generally reported at a higher rate in the prednisone group compared with both deflazacort
+groups.
+Guidelines
+Guidelines from the DMD Care Considerations Working Group (2018) state that
+glucocorticoids and physical therapy are the mainstays of treatment for DMD.2-6 Both
+therapies should be continued after the patient loses ambulation. Guidelines for the use of
+corticosteroids in DMD are available from the American Academy of Neurology (AAN) [2016,
+reaffirmed January 2022].4 The AAN notes that in patients with DMD, prednisone should be
+used to improve strength and pulmonary function (moderate evidence). Emflaza™
+(deflazacort tablets and oral suspension) and prednisone may be used to improve timed
+motor function, reduce the need for scoliosis surgery, and delay the onset of
+cardiomyopathy until the patient is 18 years of age (weak evidence). Emflaza may also be
+used to improve pulmonary function and to delay the age at loss of ambulation by 1.4 to
+2.5 years (weak evidence). There is insufficient evidence to support or refute the benefit of
+prednisone on survival (insufficient evidence). Emflaza may be used to increase survival at
+5 and 15 years of follow-up (weak evidence).
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of deflazacort. All
+approvals are provided for the duration noted below. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with deflazacort as well as the
+monitoring required for adverse events and long-term efficacy, approval requires deflazacort
+to be prescribed by or in consultation with a physician who specializes in the condition being
+treated.
+Documentation: Documentation is required for use of deflazacort as noted in the criteria
+as [documentation required]. Documentation may include, but is not limited to, chart
+notes, prescription claims records, prescription receipts, and/or other information. All
+documentation must include patient-specific identifying information.
+• Emflaza™ (deflazacort tablets and oral suspension - PTC Therapeutics;
+generics)
+• Jaythari (deflazacort tablets – Zydus Pharmaceuticals)
+2 Pages - Cigna National Formulary Coverage - Policy:Muscular Dystrophy – Deflazacort Prior Authorization
+Policy
+is(are) covered as medically necessary when the following criteria is(are) met for
+FDA-approved indication(s) or other uses with supportive evidence (if applicable):
+FDA-Approved Indication
+1. Duchenne Muscular Dystrophy. Approve for 1 year if the patient meets ONE of the
+following (A or B):
+A) Initial Therapy. Approve if the patient meets ALL of the following (i, ii, iii, and iv):
+i. Patient is ≥ 2 years of age; AND
+ii. Patient’s diagnosis of Duchenne Muscular Dystrophy is confirmed by genetic
+testing with a confirmed pathogenic variant in the dystrophin gene
+[documentation required]; AND
+iii. Patient meets ONE of the following conditions (a or b):
+a) Patient has tried prednisone or prednisolone for ≥ 6 months
+[documentation required] AND according to the prescriber, the patient has
+had at least ONE of the following significant intolerable adverse effects [(1),
+(2), (3), or (4)]:
+(1) Cushingoid appearance [documentation required]; OR
+(2) Central (truncal) obesity [documentation required]; OR
+(3) Undesirable weight gain defined as ≥ 10% of body weight increase over
+a 6-month period [documentation required]; OR
+(4) Diabetes and/or hypertension that is difficult to manage according to the
+prescriber [documentation required]; OR
+b) According to the prescriber, the patient has experienced a severe behavioral
+adverse event while on prednisone or prednisolone therapy that has or would
+require a prednisone or prednisolone dose reduction [documentation
+required]; AND
+iv. The medication is prescribed by or in consultation with a physician who
+specializes in the treatment of Duchenne muscular dystrophy and/or
+neuromuscular disorders; OR
+B) Patient is Currently Receiving Deflazacort. Approve if the patient meets ALL of the
+following (i, ii, iii, and iv):
+i. Patient is ≥ 2 years of age; AND
+ii. Patient has tried prednisone or prednisolone [documentation required]; AND
+iii. According to the prescriber, the patient has responded to or continues to have
+improvement or benefit from deflazacort therapy [documentation required];
+AND
+Note: Examples of improvement or benefit from deflazacort therapy would
+include improvements in motor function (e.g., time from supine to standing, time
+to climb four stairs, time to run or walk 10 meters, 6-minute walk test),
+improvement in muscle strength, improved pulmonary function, etc.
+iv. The medication is prescribed by or in consultation with a physician who
+specializes in the treatment of Duchenne muscular dystrophy and/or
+neuromuscular disorders.
+CONDITIONS NOT COVERED
+• Emflaza™ (deflazacort tablets and oral suspension - PTC Therapeutics;
+generics)
+• Jaythari (deflazacort tablets – Zydus Pharmaceuticals)
+is(are) considered not medically necessary for ANY other use(s).
+REFERENCES
+2 Pages - Cigna National Formulary Coverage - Policy:Muscular Dystrophy – Deflazacort Prior Authorization
+Policy
+1. Emflaza™ tablets and oral suspension [prescribing information]. South Plainfield, NJ:
+PTC Therapeutics; June 2024.
+2. Birnkrant DJ, Bushby K, Bann CM, et al. Diagnosis and management of Duchenne
+muscular dystrophy, part 1: diagnosis, and neuromuscular, rehabilitation, endocrine,
+and gastrointestinal and nutritional management. Lancet Neurol. 2018;17(3):251-267.
+3. Birnkrant DJ, Bushby K, Bann CM, et al. Diagnosis and management of Duchenne
+muscular dystrophy, part 2: respiratory, cardiac, bone health, and orthopaedic
+management. Lancet Neurol. 2018;17(4):347-361.
+4. Birnkrant DJ, Bushby K, Bann CM, et al. Diagnosis and management of Duchenne
+muscular dystrophy, part 3: primary care, emergency medicine, psychological care, and
+transitions of care across the lifespan. Lancet Neurol. 2018;17(5):445-455.
+5. Gloss D, Moxley RT III, Ashwal S, Oskoui M. Practice guideline update summary:
+corticosteroid treatment of Duchenne muscular dystrophy: report of the Guideline
+Development Subcommittee of the American Academy of Neurology. Neurology.
+2016;86(5):465-472.
+6. Summary of Practice Guidelines for Clinicians. Practice Guideline Update: Corticosteroid
+Treatment of Duchenne Muscular Dystrophy. Reaffirmed January 22, 2022. Available
+at: https://www.aan.com/Guidelines/Home/GuidelineDetail/731. Accessed on January
+17, 2025.
+7. Griggs RC, Miller JP, Greenberg CR, et al. Efficacy and safety of Emflaza vs prednisone
+and placebo for Duchenne muscular dystrophy. Neurology. 2016;87(20):2123-2131.
+8. Angelini C, Pegoraro E, Turella E, et al. Emflaza in Duchenne dystrophy: study of long-
+term effect. Muscle Nerve. 1994;17(4):386-391.
+9. Jaythari tablets [prescribing information]. Pennington, NJ: Zydus Pharmaceuticals; May
+2025.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Early Annual Duchenne Muscular Dystrophy: In the criteria referring to genetic 01/10/2024
+Revision testing, deleted “…or likely pathogenic” reference to dystrophin gene.
+Under “Patient is Currently Receiving Emflaza”, added age criterion.
+Under “Note” for improvements with Emflaza therapy, changed “time
+to run or walk 10 meters” from 30 feet. Also added 6-minute walk
+test to the list of motor function tests.
+Selected Emflaza tablets are available as generic deflazacort tablets. Changed 03/06/2024
+Revision policy name to Deflazacort PA. Also, within the policy changed
+Emflaza to deflazacort wherever applicable.
+Selected From policy heading deleted “generic for tablets only” since the oral 07/03/2024
+Revision suspension is now available as a generic.
+Duchenne Muscular Dystrophy: For diagnosis confirmation of
+Duchenne muscular dystrophy, deleted criteria asking for “Muscle
+biopsy showing the absence of, or marked decrease in, dystrophin
+protein.”
+Annual No criteria changes 01/22/2025
+Revision
+Selected Added branded generic Jaythari to the policy with the same criteria 09/03/2025
+Revision applied as the other deflazacort products.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+2 Pages - Cigna National Formulary Coverage - Policy:Muscular Dystrophy – Deflazacort Prior Authorization
+Policy

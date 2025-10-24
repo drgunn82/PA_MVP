@@ -1,0 +1,104 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2115-9
+Program Prior Authorization/Medical Necessity
+Medication Ixinity® [coagulation factor IX (recombinant)]*
+P&T Approval Date 11/2016, 11/2017, 11/2018, 11/2019, 11/2020, 11/2021, 11/2022,
+11/2023, 11/2024
+Effective Date 2/1/2025
+1. Background
+Ixinity [coagulation factor IX (recombinant)] is a human blood coagulation factor indicated in
+adults and children with hemophilia B for on-demand treatment and control of bleeding episodes,
+perioperative management, and for routine prophylaxis to reduce the frequency of bleeding
+episodes.
+Ixinity is not indicated for induction of immune tolerance in patients with hemophilia B.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Ixinity will be initially approved based on all of the following criteria:1-3
+a. Diagnosis of hemophilia B
+-AND-
+b. One of the following:
+(1) Submission of documentation showing failure to meet clinical goals (e.g.,
+continuation of spontaneous bleeds, inability to achieve appropriate trough
+level) after a trial of two of the following recombinant factor products:
+(a) Benefix
+(b) Rixubis
+-OR-
+(2) Submission of documentation showing history of hypersensitivity to two of the
+following recombinant factor products:
+(a) Benefix
+(b) Rixubis
+-OR-
+(3) Physician attestation that patient would preferentially benefit from Ixinity
+based on one of the following:
+© 2024 UnitedHealthcare Services, Inc.
+1
+(a) Patient is at high risk for the development of inhibitors (e.g., family history
+of inhibitors and success with product, current treatment less than 50 days,
+high risk genetic mutation, history of initial intensive therapy greater than 5
+days)
+(b) Patient has developed inhibitors
+(c) Patient has undergone immune tolerance induction/immune tolerance
+therapy
+-OR-
+(4) Both of the following:
+(a) Patient is currently on Ixinity therapy
+-AND-
+(b) Patient has not received a manufacturer supplied sample at no cost in
+prescriber office, or any form of assistance from a Medexus Pharma
+sponsored Ixinity Savings Program™ (e.g., sample card which can be
+redeemed at a pharmacy for a free supply of medication) as a means to
+establish as a current user of Ixinity*
+* Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance
+from a Medexus Pharma sponsored Ixinity Savings ProgramTM shall be required to meet
+initial authorization criteria as if patient were new to therapy.
+Authorization of therapy will be issued for 12 months.
+B. Reauthorization
+1. Ixinity will be approved based on the following criterion:
+a. Documentation of positive clinical response to Ixinity therapy.
+Authorization of therapy will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply
+* Ixinity is typically excluded from coverage. Tried/Failed criteria may be in place. Please refer
+to plan specifics to determine exclusion status.
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+© 2024 UnitedHealthcare Services, Inc.
+2
+and/or claim logic. Use of automated approval and re-approval processes varies by
+program and/or therapeutic class.
+4. References:
+1. Ixinity [package insert]. Chicago, IL: Medexus Pharma, Inc.; March 2024.
+2. Malec L, Shapiro AD. Hemophilia A and B: Routine management including prophylaxis. In:
+UpToDate, Waltham, MA, 2024.
+3. Hoots WK, Shapiro AD. Inhibitors in hemophilia: Mechanisms, prevalence, diagnosis, and
+eradication. In: UpToDate, Waltham, MA, 2024.
+4. MASAC Recommendations Concerning Products Licensed for the Treatment of Hemophilia
+and Selected Disorders of the Coagulation System. MASAC Document 284. April 11, 2024.
+5. Benefix® [package insert]. Philadelphia, PA: Wyeth Pharmaceuticals; November 2022.
+6. Rixubis® [package insert]. Lexington, MA: Baxalta US Inc.; March 2023.
+Program Prior Authorization/Medical Necessity - Ixinity
+Change Control
+11/2016 New program.
+12/2016 Administrative change. Revised formatting.
+11/2017 Annual review. Revised formatting without change to clinical intent.
+Updated sample pack language and state mandate verbiage. Updated
+reference.
+11/2018 Annual review. No changes to clinical coverage criteria. Updated
+references.
+11/2019 Annual review. No changes to clinical coverage criteria. Updated
+reference.
+11/2020 Annual review. Updated background and references.
+11/2021 Annual review with no changes to clinical coverage criteria. Updated
+background and references.
+11/2022 Annual review with no changes to clinical coverage criteria. Updated
+name of manufacturer sponsored savings program. Updated references.
+11/2023 Annual review with no changes to clinical coverage criteria. Updated
+exclusion footnote to standard language and updated references.
+11/2024 Annual review with no changes to clinical coverage criteria. Updated
+background and references.
+© 2024 UnitedHealthcare Services, Inc.
+3

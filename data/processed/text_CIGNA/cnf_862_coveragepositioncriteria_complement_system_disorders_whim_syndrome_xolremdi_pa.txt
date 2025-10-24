@@ -1,0 +1,105 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Complement System Disorders – WHIM Syndrome – Xolremdi Prior
+Authorization Policy
+• Xolremdi™ (mavorixafor capsules – X4 Pharmaceuticals)
+REVIEW DATE: 05/14/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Xolremdi, a CXC chemokine receptor 4 (CXCR4) antagonist, is indicated for the treatment of
+WHIM syndrome (warts, hypogammaglobulinemia, infections and myelokathexis) to
+increase the number of circulating mature neutrophils and lymphocytes in adults and
+children ≥ 12 years of age.1
+Disease Overview
+WHIM syndrome is a rare autosomal primary immunodeficiency that causes hyperactivity
+with failure to down regulate the CXCR4 receptor.2,3 Most of the patients with WHIM
+syndrome are heterozygous carriers of mutations of CXCR4. Clinical presentation includes
+recurrent bacterial infections and severe or chronic neutropenia that begins in infancy or
+early childhood. There is no cure for WHIM syndrome and prior to the approval of Xolremdi,
+treatment was based on patient symptoms.2
+Page 1 of 3 - Cigna National Formulary Coverage - Policy:Complement System Disorders – WHIM Syndrome –
+Xolremdi Prior Authorization Policy
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Xolremdi. All
+approvals are provided for the duration noted below. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Xolremdi as well as the
+monitoring required for adverse events and long-term efficacy, initial approval requires
+Xolremdi to be prescribed by or in consultation with a physician who specializes in the
+condition being treated.
+• Xolremdi™ (mavorixafor capsules – X4 Pharmaceuticals)
+is(are) covered as medically necessary when the following criteria is(are) met for
+FDA-approved indication(s) or other uses with supportive evidence (if applicable):
+FDA-Approved Indication
+1. WHIM syndrome. Approve Xolremdi for the duration noted if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy. Approve for 1 year if the patient meets ALL of the following (i, ii, iii,
+and iv):
+i. Patient is ≥ 12 years of age; AND
+ii. Genetic testing confirms pathogenic and or likely pathogenic variants in the
+CXCR4 gene; AND
+iii. Patient meets ONE of the following (a or b):
+a) At baseline, patient had an absolute neutrophil count ≤ 400 cells/µL; OR
+b) At baseline, patient had a white blood cell count ≤ 400 cells/µL; AND
+iv. The medication is prescribed by or in consultation with an immunologist,
+hematologist or dermatologist; OR
+B) Patient is Currently Receiving Xolremdi. Approve for 1 year if, according to the
+prescriber, the patient is continuing to derive benefit from Xolremdi as determined
+by the most recent objective measurement.
+Note: Examples of objective measurements of a response to Xolremdi therapy are
+reduced frequency, duration, or severity of infections, less frequent treatment with
+antibiotics, fewer warts, or improved or stabilized clinical signs/symptoms of WHIM
+syndrome (e.g., absolute neutrophil count, white blood cell count, and absolute
+lymphocyte count).
+CONDITIONS NOT COVERED
+• Xolremdi™ (mavorixafor capsules – X4 Pharmaceuticals)
+is(are) considered not medically necessary for ANY other use(s).
+REFERENCES
+1. Xolremdi™ oral capsules [prescribing information]. Boston, MA: X4 Pharmaceuticals; April 2024.
+2. Kawai T and Malech HL. WHIM syndrome: congenital immune deficiency disease. Curr Opin
+Hematol. 2009;16(1):20-26.
+3. Heusinkveld LE, Yim E, Yant A, et al. Pathogenesis, diagnosis and theraupeutic strategies in WHIM
+syndrome immunodeficiency. Expert Opin Orphan Drugs. 2017;5(10):813-825.
+4. Badolato R, Donadieu J, and 4WHIM Study Group. Results of a phase 3 Trial of an oral CXCR4
+antagonist, mavorixafor, for treatment of patients with WHIM syndrome. Presented at: Clinical
+Immunology Society Annual Meeting and European Hematology Association Annual Congress; Clin
+Immun. 2023;250S.
+2 Pages - Cigna National Formulary Coverage - Policy:Complement System Disorders – WHIM Syndrome –
+Xolremdi Prior Authorization Policy
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy 05/08/2024
+Annual No criteria changes. 05/14/2025
+revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+2 Pages - Cigna National Formulary Coverage - Policy:Complement System Disorders – WHIM Syndrome –
+Xolremdi Prior Authorization Policy

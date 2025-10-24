@@ -1,0 +1,240 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Antibiotics – Linezolid (Zyvox), Sivextro Prior Authorization Policy
+• Zyvox® (linezolid tablets and oral suspension − Pfizer, generic)
+• Sivextro™ (tedizolid phosphate tablets – Cubist Pharmaceuticals)
+REVIEW DATE: 12/18/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Linezolid (Zyvox) and Sivextro are synthetic oxazolidinone antimicrobial agents.1,2
+Both agents have clinical utility in the treatment of infections caused by aerobic
+Gram-positive bacteria. Cross-resistance between linezolid or Sivextro and other
+classes of antibiotics is unlikely because the mechanism of action for both of these
+agents differs from that of other antibacterial agents.
+Linezolid is indicated in adults and children for the treatment of the following
+infections caused by susceptible strains of the designated microorganisms:1
+• Community-acquired pneumonia (CAP), caused by Streptococcus
+pneumoniae, including cases with concurrent bacteremia, or Staphylococcus
+aureus (methicillin-susceptible [MSSA] only);
+• Complicated skin and skin structure infections (SSTIs), including
+diabetic foot infections, without concomitant osteomyelitis caused by S.
+aureus (MSSA and methicillin-resistant [MRSA]), Streptococcus pyogenes, or
+Streptococcus agalactiae. Linezolid has not been studied in the treatment of
+decubitus ulcers;
+• Nosocomial pneumonia, caused by S. aureus (MSSA and MRSA) or S.
+pneumoniae;
+Page 1 of 6 - Cigna National Formulary Coverage - Policy: Antibiotics – Linezolid (Zyvox), Sivextro Prior
+Authorization Policy
+• Uncomplicated SSTIs, caused by S. aureus (MSSA only) or S. pyogenes;
+• Vancomycin-resistant Enterococcus faecium infections, including cases
+with concurrent bacteremia.
+Limitation of Use: Linezolid is not indicated for the treatment of Gram-negative
+infections. It is crucial that specific Gram-negative therapy be initiated immediately
+if a concomitant Gram-negative pathogen is documented or suspected. The safety
+and efficacy of linzezolid given longer than 28 days have not been evaluated in
+controlled clinical trials.
+Sivextro is indicated for the treatment of acute bacterial skin and skin
+structure infections (ABSSSI) that are caused by susceptible isolates of the
+following Gram-positive microorganisms: S. aureus (MRSA and MSSA), S.
+pyogenes, S. agalactiae, Streptococcus anginosus Group (including S. anginosus,
+Streptococcus intermedius, and Streptococcus constellatus), and Enterococcus
+faecalis in adults and pediatric patients ≥ 12 years of age.2
+Although linezolid and Sivextro are indicated for the treatment of infections caused
+by susceptible strains of MSSA and drug-resistant strains of S. pneumoniae in some
+situations, these agents are not the optimal drug or drugs of first-choice for these
+microorganisms.3,4 Other antibiotics may be used. In efforts to reduce the
+development of drug-resistant bacteria and maintain effectiveness of linezolid and
+Sivextro, both antibiotics should be used only to treat infections that are proven or
+strongly suspected to be caused by susceptible bacteria.1,2 When culture and
+susceptibility information are available, they should be considered in selecting or
+modifying antibacterial therapy. In the absence of such data, local epidemiology
+and susceptibility patterns may contribute to the empiric selection of therapy.
+Guidelines
+Linezolid and Sivextro are addressed in a number of guidelines from the Infectious
+Diseases Society of America (IDSA):
+• Diabetic Foot Infections: A clinical practice guideline for the diagnosis and
+treatment of diabetic foot infections (2023) notes that diabetic foot infections
+of moderate severity may be treated with oral or initial parenteral therapy,
+whereas severe infections should be treated with parenteral therapy.6
+Linezolid, Cubicin® (daptomycin injection), doxycycline, clindamycin,
+fluoroquinolones and intravenous (IV) vancomycin are listed as therapy
+options for infections caused by MRSA.
+• Infective Endocarditis: Treatment guidelines, from the American Heart
+Association and endorsed by IDSA (2015), recommend linezolid as a
+treatment option for patients with infective endocarditis caused by
+Enterococcus species that is resistant to penicillin, aminoglycosides, and
+vancomycin.9
+• MRSA: Guidelines (2011) for the treatment of MRSA infections recognize
+linezolid as a treatment option for infections, including those involving the
+central nervous system (e.g., meningitis, brain abscess), osteomyelitis, and
+septic arthritis.5
+6 Pages - Cigna National Formulary Coverage - Policy: Antibiotics – Linezolid (Zyvox), Sivextro Prior
+Authorization Policy
+• Multidrug-Resistant Tuberculosis: Treatment guidelines from the World
+Health Organization (2022) recommend linezolid to be used in combination
+with Pretomanid and Sirturo (bedaquiline tablets) for 6 to 9 months for the
+treatment of multidrug-resistant tuberculosis or rifampin-resistant
+tuberculosis.10
+• Pneumonia: Guidelines from the American Thoracic Society (ATS) and IDSA
+(2016) recommend that MRSA hospital-acquired pneumonia (HAP) or
+ventilator-associated pneumonia (VAP) be treated with either vancomycin or
+linezolid rather than other antibiotics or other antibiotic combinations.4 The
+choice between vancomycin and linezolid may be guided by patient-specific
+factors such as blood cell counts, concurrent prescriptions for serotonin
+reuptake inhibitors, renal function, and cost. The available evidence
+indicates that vancomycin and linezolid are roughly similar and no alternative
+agent or regimen is clearly superior to these two products. Guidelines from
+IDSA/ATS (2019) for CAP recommend vancomycin or linezolid for the
+treatment of community-acquired MRSA.3 In addition, the Pediatric
+Infectious Diseases Society and IDSA guidelines (2011) for the treatment of
+CAP in infants and children > 3 months of age recommend linezolid as an
+alternative to vancomycin for treatment of MRSA, and as an alternative to
+ceftriaxone for the treatment of S. pneumoniae resistant to penicillin.8
+• SSTIs: Guidelines (2014) for the diagnosis and management of SSTIs
+recommend oral antibiotics such as penicillin VK, cephalosporin, dicloxacillin,
+and clindamycin for mild nonpurulent (i.e., necrotizing infection, cellulitis,
+erysipelas) SSTIs.7 For moderate nonpurulent SSTI, IV antibiotics such as
+penicillin, ceftriaxone, cefazolin, and clindamycin are recommended. For
+moderate purulent SSTIs, empiric treatment can be started with
+trimethoprim/sulfamethoxazole (TMP/SMX) or doxycycline. For MRSA
+infections, TMP/SMX is the recommended therapy. Cephalexin or dicloxacillin
+are usually effective for MSSA infections. For severe purulent SSTI, empiric
+therapy with IV vancomycin, Cubicin, linezolid, Vibativ® (telavancin
+intravenous infusion), or Teflaro® (ceftaroline intravenous infusion) are
+recommended. All of these agents are active against MRSA strains. For
+severe purulent SSTIs caused by MSSA, therapy can be switched to nafcillin,
+cefazolin, or clindamycin.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of linezolid
+and Sivextro. All approvals are provided for the duration noted below. In cases
+where approval is authorized in months, 1 month is equal to 30 days.
+I. Zyvox® (linezolid tablets and oral suspension - Pfizer, generic)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+6 Pages - Cigna National Formulary Coverage - Policy: Antibiotics – Linezolid (Zyvox), Sivextro Prior
+Authorization Policy
+FDA-Approved Indications
+1. Methicillin-Resistant Staphylococcus Species Infection, Treatment.
+Approve for 1 month.
+2. Vancomycin-Resistant Enterococcus Species Infection, Treatment.
+Approve for 1 month.
+Other Uses with Supportive Evidence
+3. Continuation of Linezolid Therapy. Approve for 1 month in patients who
+meet ONE of the following (A or B):
+A) Patient is transitioning from intravenous (IV) linezolid or IV vancomycin to
+oral linezolid therapy; OR
+B) Patient was started on oral linezolid in an inpatient facility and is continuing
+therapy.
+4. Treatment of an Infection that is Resistant to Other Antibiotics, but the
+Organism is Sensitive to Linezolid. Approve for 1 month.
+5. There is Insufficient Information Available to Make a Determination
+Regarding Coverage and the Prescriber or Representative Cannot be
+Contacted. Approve for up to 2 weeks of therapy.
+To avoid delays or disruption in therapy for the patient, if there is insufficient
+information available to make a determination regarding coverage and the
+prescriber or representative of the prescriber cannot be contacted, approve
+linezolid for up to 2 weeks.
+6. Tuberculosis. Approve for 9 months if the patient meets ALL of the following
+(A, B, and C):
+A) Patient is ≥ 18 years of age; AND
+B) Patient meets ONE of the following (i, ii, or iii):
+i. Patient has extensively drug-resistant tuberculosis; OR
+ii. Patient has treatment-intolerant tuberculosis; OR
+iii. Patient has nonresponsive multidrug-resistant tuberculosis; AND
+C) Linezolid is prescribed in combination with Sirturo (bedaquiline tablets) and
+Pretomanid tablets.
+II. Sivextro™ (tedizolid phosphate tablets – Cubist Pharmaceuticals)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+6 Pages - Cigna National Formulary Coverage - Policy: Antibiotics – Linezolid (Zyvox), Sivextro Prior
+Authorization Policy
+1. Acute Bacterial Skin and Skin Structure Infections (ABSSSI) Caused by
+Methicillin-Resistant Staphylococcus aureus (MRSA), Selected
+Streptococcus Species (i.e., Streptococcus pyogenes, Streptococcus
+agalactiae, Streptococcus anginosus Group) and Enterococcus faecalis.
+Approve for up to 6 days of therapy.
+Other Uses with Supportive Evidence
+2. Continuation of Sivextro Therapy in the Outpatient Setting. Approve for
+up to 6 days of therapy in patients transitioning from Sivextro IV therapy to oral
+therapy.
+3. There is Insufficient Information Available to Make a Determination
+Regarding Coverage and the Prescriber or Representative Cannot be
+Contacted. Approve for up to 6 days of therapy.
+To avoid delays or disruption in therapy for the patient, if there is insufficient
+information available to make a determination regarding coverage and the
+prescriber or representative of the prescriber cannot be contacted, approve
+Sivextro. Since the available data for Sivextro only supports up to 6 days of
+therapy for the ABSSSI indication, we are limiting approval to this duration.
+CONDITIONS NOT COVERED
+• Zyvox® (linezolid tablets and oral suspension - Pfizer, generic)
+• Sivextro™ (tedizolid phosphate tablets – Cubist Pharmaceuticals)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s); criteria will be updated as new published data are available.
+REFERENCES
+1. Zyvox® injection, tablets, and oral suspension [prescribing information]. New York, NY: Pfizer;
+June 2024.
+2. Sivextro™ tablets [prescribing information]. Rahway, NJ: Merck; March 2023.
+3. Metlay JP, Waterer GW, Long AC, et al. Diagnosis and treatment of adults with community-acquired
+pneumonia. An official practice guideline of the American Thoracic Society and Infectious Diseases
+Society of America. Am J Respir Crit Care Med. 2019;200:e45-e67.
+4. Kalil AC, Metersky ML, Klompas M, et al. Management of adults with hospital-aquired and ventilator-
+associated pneumonia: 2016 clinical practice guidelines by the Infectious Diseases Society of
+America and the American Thoracic Society. Clin Infect Dis. 2016;63:e61–e111.
+5. Liu C, Bayer A, Cosgrove SE, et al. Clinical practice guidelines by the Infectious Diseases Society of
+America for the treatment of methicillin-resistant Staphylococcus aureus infections in adults and
+children. Clin Infect Dis. 2011;52:1-38.
+6. Senneville E, Albalawi Z, van Asten S, et al. IWGDF/IDSA guidelines on the diagnosis and treatment
+of diabetes-related foot infections (IWGDF/IDSA 2023). CID. 2023; ciad527.
+7. Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management
+of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin
+Infect Dis. 2014;59:e10-e52.
+6 Pages - Cigna National Formulary Coverage - Policy: Antibiotics – Linezolid (Zyvox), Sivextro Prior
+Authorization Policy
+8. Bradley JS, Byington CL, Shah SS, et al. The management of community-acquired pneumonia in
+infants and children older than 3 months of age: clinical practice guidelines by the Pediatric
+Infectious Diseases Society and the Infectious Diseases Society of America. Clin Infect Dis.
+2011;53(7):e25-76.
+9. Baddour LM, Wilson WR, Bayer AS, et al. Infective endocarditis in adults: Diagnosis, antimicrobial
+therapy, and management of complications: A scientific statement for healthcare professionals from
+the committee on rheumatic fever, endocarditis, and rheumatic fever, Council on cardiovascular
+disease in the young, and the Councils on clinical cardiology, stroke, and cardiovascular surgery,
+and anesthesia, American Heart Association: Endorsed by the Infectious Diseases Society of
+America. Circulation. 2015;132:1435-1486.
+10. WHO consolidated guidelines on tuberculosis: Module 4: treatment - drug-resistant tuberculosis
+treatment, 2022 update. Geneva: World Health Organization; 2022.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 12/06/2023
+Revision
+Annual Linezolid – Other Uses with Supportive Evidence: 12/18/2024
+Revision Tuberculosis: This condition and criteria for approval was added
+to the policy under “Other Uses with Supportive Evidence”.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2025 The Cigna
+Group.
+6 Pages - Cigna National Formulary Coverage - Policy: Antibiotics – Linezolid (Zyvox), Sivextro Prior
+Authorization Policy

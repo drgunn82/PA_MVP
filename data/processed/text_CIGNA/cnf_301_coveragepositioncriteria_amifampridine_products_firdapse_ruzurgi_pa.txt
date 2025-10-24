@@ -1,0 +1,136 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Amifampridine Products Prior Authorization Policy
+• Firdapse® (amifampridine tablets – Catalyst)
+• Ruzurgi® (amifampridine tablets – Jacobus [approval withdrawn])
+REVIEW DATE: 07/23/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Amifampridine, a broad spectrum potassium channel blocker, is indicated for the
+treatment of Lambert-Eaton myasthenic syndrome (LEMS).1,2
+• Firdapse is indicated in adults and pediatric patients ≥ 6 years of age.1
+• Ruzurgi was indicated in patients 6 years to < 17 years of age (prior to
+withdrawal of FDA approval).2
+As of February 01, 2022, the FDA has withdrawn approval for Ruzurgi. Firdapse was
+approved by the FDA on November 28, 2018, for the treatment of LEMS in adults,
+with 7 years of orphan-drug exclusivity (ODE). On May 6, 2019, Ruzurgi was
+approved by the FDA for the treatment of LEMS in patients 6 to < 17 years of age.
+On June 12, 2019, Catalyst (manufacturer of Firdapse) brought suit against the FDA,
+challenging the FDA’s approval of Ruzurgi stating that it violated the ODE for
+Firdapse. In 2022, the Court of Appeals for the Eleventh Circuit sided with Catalyst;
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Amifampridine Products Prior Authorization Policy
+therefore, the FDA had to withdraw approval for Ruzurgi. Due to the 7-year ODE for
+Firdapse, Ruzurgi may not be approved for marketing until ODE has expired on
+November 28, 2025.
+Disease Overview
+LEMS is a rare autoimmune disorder affecting the connection between nerves and
+muscles and causing proximal muscle weakness, autonomic dysfunction, and
+areflexia.3 The characteristic weakness is thought to be caused by antibodies
+generated against the P/Q-type voltage-gated calcium channels present on
+presynaptic nerve terminals and by diminished release of acetylcholine. The
+diagnosis of LEMS is confirmed by electrodiagnostic studies, including repetitive nerve
+stimulation, or anti-P/Q-type voltage-gated calcium channels antibody testing.
+Clinical Efficacy
+Firdapse was approved based on two pivotal trials.1,4 One pivotal trial enrolled both
+amifampridine-naïve and treatment-experienced patients; patients were initially
+entered into an open-label run-in phase lasting 90 days.4 During the open-label run-
+in phase, Firdapse was titrated for each individual patient to a dose that produced
+optimal neuromuscular benefit and tolerability in the opinion of the investigator. In
+order to continue in the study, treatment-naïve patients were required to have an
+improvement of at least three points in the quantitative myasthenia gravis score from
+the initial evaluation. For its pediatric indication, use is supported by evidence from
+studies of Firdapse in adults with LEMS, pharmacokinetic data in adults,
+pharmacokinetic modeling and simulation to identify the dosing regimen in pediatric
+patients, and safety data from pediatric patients ≥ 6 years of age.
+Safety
+Firdapse and Ruzurgi are contraindicated in patients with a history of seizures.1,2
+There is also a Warning/Precaution in the prescribing information for these
+medications because seizures have been observed in patients with and without a
+history of seizures taking amifampridine at the recommended doses. Many of these
+patients were taking medications or had comorbidities that may have lowered their
+seizure threshold. Seizures may be dose-dependent.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of
+amifampridine. All approvals are provided for the duration noted below. In cases
+where the approval is authorized in months, 1 month is equal to 30 days. Because
+of the specialized skills required for evaluation and diagnosis of patients treated with
+amifampridine as well as the monitoring required for adverse events and long-term
+efficacy, initial approval requires amifampridine to be prescribed by or in consultation
+with a physician who specializes in the condition being treated.
+• Firdapse® (amifampridine tablets – Catalyst)
+• Ruzurgi® (amifampridine tablets – Jacobus [approval withdrawn])
+4 Pages - Cigna National Formulary Coverage - Policy:Amifampridine Products Prior Authorization Policy
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Lambert-Eaton Myasthenic Syndrome (LEMS). Approve for the duration
+noted if the patient meets ONE of the following (A or B):
+A) Initial therapy. Approve amifampridine for 3 months if the patient meets ALL
+of the following (i, ii, iii, and iv):
+i. Patient is ≥ 6 years of age; AND
+ii. According to the prescriber, patient has confirmed LEMS based on at least
+ONE of the following (a or b);
+a) Electrodiagnostic study (e.g., repetitive nerve stimulation); OR
+b) Anti-P/Q-type voltage-gated calcium channels antibody testing; AND
+iii. Patient does not have a history of seizures; AND
+iv. The medication is being prescribed by or in consultation with a neurologist
+or a neuromuscular specialist; OR
+B) Patient is Currently Receiving amifampridine. Approve for 1 year if according
+to the prescriber, the patient is continuing to derive benefit from
+amifampridine.
+Note: Examples of continued benefit include improved muscle strength and
+improvements in mobility.
+CONDITIONS NOT COVERED
+• Firdapse® (amifampridine tablets – Catalyst)
+• Ruzurgi® (amifampridine tablets – Jacobus [approval withdrawn])
+is(are) considered not medically necessary for ANY other use(s); criteria will
+be updated as new published data are available.
+REFERENCES
+1. Firdapse® tablets [prescribing information]. Coral Gables, FL: Catalyst; May 2024.
+2. Ruzurgi® tablets [prescribing information]. Princeton, NJ: Jacobus; April 2020.
+3. Kesner VG, Oh SJ, Dimachkie MM, et al. Lambert-Eaton Myasthenic Syndrome. Neurol Clin.
+2018;36(2):379-394.
+4. Oh S, Shcherbakova N, Kostera-Pruszczyk A, et al. Amifampridine phosphate (Firdapse®) is
+effective and safe in a phase 3 clinical trial in LEMS. Muscle Nerve. 2016;53(5):717-725.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Annual No criteria changes. 07/12/2023
+Revision
+Annual No criteria changes. 07/31/2024
+Revision
+4 Pages - Cigna National Formulary Coverage - Policy:Amifampridine Products Prior Authorization Policy
+Annual No criteria changes. 07/23/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+4 Pages - Cigna National Formulary Coverage - Policy:Amifampridine Products Prior Authorization Policy

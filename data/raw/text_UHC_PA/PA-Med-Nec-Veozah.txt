@@ -1,0 +1,58 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2312-3
+Program Prior Authorization/Medical Necessity
+Medication Veozah™ (fezolinetant)
+P&T Approval Date 8/2023, 8/2024, 11/2024
+Effective Date 2/1/2025
+1. Background:
+Veozah (fezolinetant) is a neurokinin 3 (NK3) receptor antagonist indicated for the treatment of
+moderate to severe vasomotor symptoms due to menopause.
+Veozah use has been associated with reports of hepatotoxicity in post marketing studies that
+gradually resolve after discontinuation of Veozah. Baseline hepatic laboratory tests should be
+evaluated prior to initiation of Veozah.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Veozah will be approved based on all of the following criteria:
+a. Diagnosis of moderate to severe vasomotor symptoms due to menopause
+-AND-
+b. History of failure (after a 30-day trial), contraindication or intolerance to one of the
+following:
+1) Hormonal therapy (e.g., estradiol, Premarin, Prempro)
+2) Non-hormonal therapy [e.g., clonidine, gabapentin, selective serotonin
+inhibitors (e.g., paroxetine), serotonin and norepinephrine reuptake inhibitors
+(e.g., venlafaxine)]
+-AND-
+c. Patient has received baseline hepatic laboratory tests to rule out the presence of
+underlying liver disease
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Veozah will be approved based on both of the following criteria:
+a. Documentation of positive clinical response to therapy (e.g., decrease in frequency
+and severity of vasomotor symptoms from baseline)
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+1
+b. Patient has received periodic evaluation of hepatic laboratory tests to rule out liver
+injury associated with Veozah use
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-
+10) and/or claim logic. Use of automated approval and re-approval processes varies by
+program and/or therapeutic class.
+4. References:
+1. Veozah [package insert]. Northbrook, IL: Astellas US LLC. August 2024.
+2. Khan, SJ, Kapoor, E, Faubion, SS, Kling, JM. Vasomotor Symptoms During Menopause:
+A Practical Guide on Current Treatments and Future Perspectives. Int J Womens
+Health.2023: 15: 273-87.
+Program Prior Authorization/Medical Necessity - Veozah
+Change Control
+8/2023 New program.
+8/2024 Annual review. Updated references.
+11/2024 Added criteria for hepatic laboratory tests and updated references.
+© 2024 UnitedHealthcare Services, Inc.
+2

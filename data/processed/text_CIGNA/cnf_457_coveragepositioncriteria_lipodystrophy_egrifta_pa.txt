@@ -1,0 +1,182 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Lipodystrophy – Egrifta Prior Authorization Policy
+• Egrifta SV® (tesamorelin subcutaneous injection –
+Theratechnologies)
+• Egrifta WR™ (tesamorelin subcutaneous injection –
+Theratechnologies)
+REVIEW DATE: 05/21/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Egrifta SV and Egrifta WR, analogs of human growth hormone-releasing factor, are
+indicated for the reduction of excess abdominal fat in patients with human
+immunodeficiency virus (HIV) who have lipodystrophy.1,2
+Limitations of use: 1) Long-term cardiovascular safety of Egrifta SV and Egrifta WR
+have not been established; 2) Not indicated for weight loss management; and 3)
+There are no data to support improved compliance with anti-retroviral therapies in
+HIV-positive patients taking Egrifta SV or Egrifta WR.1,2 In the pivotal trial of Egrifta,
+all patients had lipodystrophy and excess abdominal fat, evidenced by a waist
+circumference ≥ 95 cm (≥ 94 cm for female) and a waist-to-hip ratio ≥ 0.94 (≥ 0.88
+for female). Patients were required to be on a stable antiretroviral regimen for at
+Page 1 of 5 - Cigna National Formulary Coverage - Policy:Lipodystrophy – Egrifta Prior Authorization Policy
+least 8 weeks. Safety and effectiveness of Egrifta SV and Egrifta WR have been
+established in patients between 18 and 65 years of age.
+The new formulation, Egrifts WR is still a daily injectable product, but only needs
+weekly reconstitution.6 The new formulation is set to replace Egrista SV.
+Disease Overview
+Lipodystrophy is the change in body fat which affects some patients with HIV
+infection, either due to HIV infection or due to medications to treat HIV.3
+Lipodystrophy is not a concern for most people who start HIV treatment now, because
+newer HIV medications are less likely to cause this effect. Egrifta increases secretion
+of growth hormone and has been shown to decrease visceral adipose tissue and spare
+subcutaneous adipose tissue.4
+Safety
+Because the long-term cardiovascular safety and potential long-term cardiovascular
+benefit are not established, careful consideration should be given whether to continue
+Egrifta treatment in patients who do not show a clear efficacy response, as judged
+by the degree of reduction in visceral adipose tissue measured by waist circumference
+or computerized tomography scan. In the pivotal studies, efficacy of Egrifta was
+assessed at Week 26. Because Egrifta induces the release of endogenous growth
+hormone (a known growth factor) and increases serum insulin growth factor-1 (IGF-
+1), the benefits of treatment should be weighed against the increased risk of
+malignancies in patients who are HIV-positive. Since the effect of prolonged IGF-1
+elevations on the development or progression of malignancies is unknown, monitor
+IGF-1 levels closely during Egrifta therapy and consider discontinuation in patients
+with persistent elevations of IGF-1 levels (e.g., > 3 standard deviation scores),
+especially if the patient has not experienced a robust response. Egrifta should be
+used with caution in patients who develop glucose intolerance or diabetes;
+discontinuation of therapy should be considered for patients who do not show a clear
+efficacy response.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Egrifta SV
+and Egrista WR. All approvals are provided for the duration noted below. In cases
+where the approval is authorized in months, 1 month is equal to 30 days. Because
+of the specialized skills required for evaluation and diagnosis of patients treated with
+Egrifta SV and Egrifta WR as well as the monitoring required for adverse events and
+long-term efficacy, initial approval requires Egrifta SV and Egrifta WR to be prescribed
+by or in consultation with a physician who specializes in the condition being treated.
+In the approval indication, as appropriate, an asterisk (*) is noted next to the
+specified gender. In this context, the specified gender is defined as follows:
+females/males are defined as individuals with the biological traits of a woman/man,
+regardless of the individual’s gender identity or gender expression.
+3 Pages - Cigna National Formulary Coverage - Policy:Lipodystrophy – Egrifta Prior Authorization Policy
+• Egrifta SV® (tesamorelin subcutaneous injection –
+Theratechnologies)
+• Egrifta WR™ (tesamorelin subcutaneous injection –
+Theratechnologies)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Lipodystrophy Associated with Human Immunodeficiency Virus (HIV)
+Infection. Approve for the duration noted if the patient meets ONE of the
+following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, iii, iv, and v):
+i. Patient is ≥ 18 years of age; AND
+ii. The medication is prescribed for the reduction of excess abdominal fat; AND
+iii. Patient meets ONE of the following (a or b):
+a) If male*, waist circumference is ≥ 95 cm (37.4 in) and waist-to-hip ratio
+is ≥ 0.94; OR
+b) If female*, waist circumference is ≥ 94 cm (37 in) and waist-to-hip ratio
+is ≥ 0.88; AND
+iv. Patient has been stable on an antiretroviral regimen for at least 8 weeks;
+AND
+Note: Examples include antiretroviral regimens containing protease
+inhibitors, nucleoside reverse transcriptase inhibitors, and/or non-
+nucleoside reverse transcriptase inhibitors.
+v. The medication is prescribed by or in consultation with an endocrinologist
+or a physician specializing in the treatment of HIV infection (e.g., infectious
+disease, oncology); OR
+B) Patient is Currently Receiving Egrifta. Approve for 1 year if the patient has
+responded, as determined by the prescriber.
+Note: Examples of a response include reduction in visceral adipose tissue
+measured by waist circumference or computed tomography (CT) scan.
+* Refer to the Policy Statement.
+CONDITIONS NOT COVERED
+• Egrifta SV® (tesamorelin subcutaneous injection –
+Theratechnologies)
+• Egrifta WR™ (tesamorelin subcutaneous injection –
+Theratechnologies)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+3 Pages - Cigna National Formulary Coverage - Policy:Lipodystrophy – Egrifta Prior Authorization Policy
+1. Abdominal Obesity in a Patient without Human Immunodeficiency Virus
+(HIV) Infection. More data are needed. Egrifta has been studied in a very
+limited number of patients who have abdominal obesity without HIV infection.5
+To be eligible for the published trial, patients were required to have a peak
+stimulated growth hormone no higher than 9 mcg/L on a standardized growth
+hormone-releasing hormone-arginine stimulation test. Patients (n = 60) were
+randomized in a 1:1 ratio to treatment with Egrifta 2 mg once daily or placebo.
+The primary endpoint was the change in visceral adipose tissue from baseline.
+Over 12 months (using last observation carried forward), visceral adipose tissue
+improved significantly in patients treated with Egrifta compared with placebo (net
+treatment effect vs. placebo: -35 [95% confidence interval: -58, -12]; P =
+0.003). Treatment with Egrifta increased IGF-1 by 90%, decreased triglycerides
+by 20%, and decreased log C-reactive protein by 24% compared with placebo.
+There was no effect on total cholesterol, high-density lipoprotein cholesterol, or
+low-density lipoprotein cholesterol in the treatment groups.
+2. Human Immunodeficiency Virus (HIV)-Related Cachexia, Weight Loss, or
+Fat Distribution other than Lipodystrophy. Egrifta has not been studied in
+these conditions.
+3. Patient > 65 Years of Age. There is no information on the use of Egrifta SV or
+Egrifta WR in patients > 65 years of age with HIV and lipodystrophy.1,2
+REFERENCES
+1. Egrifta SV® subcutaneous injection [prescribing information]. Montreal, Quebec, Canada:
+Theratechnologies; February 2024.
+2. Egrifta WR™ subcutaneous injection [prescribing information]. Montreal, Quebec, Canada:
+Theratechnologies; March 2025.
+3. HIV and Lipodystrophy. National Institute of Health Office of AIDS Research. Available at: HIV and
+Lipodystrophy | NIH. Accessed on May 31, 2024.
+4. Falutz J, Potvin D, Mamputu JC, et al. Effects of tesamorelin, a growth hormone-releasing factor,
+in HIV-infected patients with abdominal fat accumulation: a randomized placebo-controlled trial
+with a safety extension. J Acquir Immune Defic Syndr. 2010;53(3):311-322.
+5. Makimura H, Feldpausch MN, Rope AM, et al. Metabolic effects of a growth hormone-releasing factor
+in obese subjects with reduced growth hormone secretion: a randomized controlled trial. J Clin
+Endocrinol Metab. 2012;97(12):4769-4779.
+6. Theratechnologies press release. Theratechnologies receives FDA approval for Egrifta WR™
+(tesamorelin F8) to treat excess visceral abdominal fat in adults with HIV and lipodystrophy.
+Available at: Theratechnologies Receives FDA Approval for EGRIFTA WR™. Accessed on May 13,
+2025.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 05/31/2023
+Revision
+Annual No criteria changes. 06/12/2024
+Revision
+3 Pages - Cigna National Formulary Coverage - Policy:Lipodystrophy – Egrifta Prior Authorization Policy
+Annual Added Egrifta WR to the policy with the same criteria as Egrifta SV. 05/21/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services
+are provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health,
+Inc., Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna
+Group.© 2025 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Lipodystrophy – Egrifta Prior Authorization Policy

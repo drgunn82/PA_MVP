@@ -1,0 +1,75 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1355-5
+Program Prior Authorization/Notification
+Medication Tepmetko® (tepotinib)
+P&T Approval Date 4/2021, 4/2022, 4/2023, 4/2024, 4/2025
+Effective Date 7/1/2025
+1. Background:
+Tepmetko® (tepotinib) is a kinase inhibitor indicated for the treatment of adult patients with
+metastatic non-small cell lung cancer (NSCLC) harboring mesenchymalepithelial-transition
+(MET) exon 14 skipping alterations.1
+The National Comprehensive Cancer Network (NCCN) recommends use of Tepmetko for
+recurrent, advanced, or metastatic disease in patients with MET exon 14 skipping mutation
+positive tumors as first-line therapy and subsequent therapy following progression on first-line
+systemic therapy with a non-MET exon 14 skipping mutation-targeted regimen.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Tepmetko will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Non-Small Cell Lung Cancer
+1. Initial Authorization
+a. Tepmetko will be approved based on all of the following criteria:
+(1) Diagnosis of non-small cell lung cancer
+-AND-
+(2) Disease is recurrent, advanced, or metastatic
+© 2025 UnitedHealthcare Services, Inc.
+1
+-AND-
+(3) Tumor is MET exon 14 skipping mutation positive
+Authorization will be issued for 12 months.
+2. Reauthorization Criteria
+a. Tepmetko will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tepmetko
+therapy
+Authorization will be issued for 12 months.
+C. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits and/or Step Therapy may be in place.
+4. References:
+1. Tepmetko [package insert]. Rockland, MA: EMD Serono, Inc.; February 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+https://www.nccn.org/professionals/drug_compendium/content/. Accessed February 27,
+2025.
+Program Prior Authorization/Notification - Tepmetko (tepotinib)
+Change Control
+4/2021 New program.
+4/2022 Annual review with no change to clinical criteria. Updated reference.
+4/2023 Annual review with no change to clinical criteria. Added state mandate
+footnote. Updated background and references.
+© 2025 UnitedHealthcare Services, Inc.
+2
+4/2024 Annual review with no change to clinical criteria. Updated background
+and references.
+4/2025 Annual review with no change to clinical criteria. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+3

@@ -1,0 +1,302 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Inflammatory Conditions – Ustekinumab Subcutaneous Drug Quantity
+Management Policy – Per Days
+• Stelara® (ustekinumab subcutaneous injection – Janssen)
+• ustekinumab subcutaneous injection (Janssen)
+• Imuldosa™ (ustekinumab-srlf subcutaneous injection – Accord)
+• Otulfi® (ustekinumab-aauz subcutaneous injection – Fresenius)
+• Pyzchiva® (ustekinumab-ttwe subcutaneous injection –
+Sandoz/Samsung)
+• ustekinumab-ttwe subcutaneous injection (Quallent)
+• Selarsdi™ (ustekinumab-aekn subcutaneous injection – Teva)
+• ustekinumab-aekn subcutaneous injection (Teva)
+• Steqeyma™ (ustekinumab-stba subcutaneous injection – Celltrion)
+• Wezlana™ (ustekinumab-auub subcutaneous injection – Amgen)
+• Yesintek™ (ustekinumab-kfce subcutaneous injection – Biocon)
+REVIEW DATE: 05/07/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Page 1 of 6 - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Ustekinumab Subcutaneous
+Drug Quantity Management Policy – Per Days
+Ustekinumab subcutaneous (SC), an interleukin-12/23 blocker, is indicated for the
+following uses:1-8
+• Crohn’s disease, in patients ≥ 18 years of age with moderate to severe
+active disease.
+• Plaque psoriasis, in patients ≥ 6 years of age with moderate to severe
+disease who are candidates for phototherapy or systemic therapy.
+• Psoriatic arthritis, in patients ≥ 6 years of age with active disease.
+• Ulcerative colitis, in patients ≥ 18 years of age with moderate to severe
+active disease.
+Dosing
+Dosage recommendations for ustekinumab SC are:1-8
+• Plaque psoriasis:
+o Adults weighing ≤ 100 kg: 45 mg SC at Week 0, Week 4, and then once
+every 12 weeks (Q12W) thereafter.
+o Adults weighing > 100 kg: 90 mg SC at Week 0, Week 4, and then Q12W
+thereafter.
+o Pediatric patients ≥ 12 years of age weighing < 60 kg: 0.75 mg/kg SC at
+Week 0, Week 4, and then Q12W thereafter.
+o Pediatric patients ≥ 12 years of age weighing 60 kg to 100 kg: 45 mg SC at
+Week 0, Week 4, and then Q12W thereafter.
+o Pediatric patients ≥ 12 years of age weighing < 60 kg: 90 mg SC at Week 0,
+Week 4, and then Q12W thereafter.
+• Psoriatic arthritis:
+o Adults weighing > 100 kg with co-existent moderate to severe plaque
+psoriasis: 90 mg SC at Week 0, Week 4, and then every Q12W thereafter.
+o All other adults: 45 mg SC at Week 0, Week 4, and then Q12W thereafter.
+o Pediatric patients ≥ 6 years of age weighing < 60 kg: 0.75 mg/kg at Week
+0, Week 4, and then Q12W thereafter.
+o Pediatric patients ≥ 6 years of age weighing ≥ 60 kg: 45 mg at Week 0,
+Week 4, and then Q12W thereafter.
+o Pediatric patients ≥ 6 years of age weighing > 100 kg with co-existent
+moderate-to-severe plaque psoriasis: 90 mg at Week 0, Week 4, and then
+Q12W thereafter.
+• Crohn’s disease: Starting 8 weeks after an initial intravenous (IV) dose, the
+maintenance dose is 90 mg SC injection once every 8 weeks (Q8W).
+• Ulcerative colitis: Starting 8 weeks after an initial IV dose, the maintenance
+dose is 90 mg SC Q8W.
+Dose Escalation in Crohn’s Disease and Ulcerative Colitis
+There are data to support dose escalation of ustekinumab SC from Q8W to Q4W or
+Q6W in patients with inflammatory bowel disease who do not achieve remission
+with the Q8W dosing.9-13 In STARDUST (n = 440), a phase 3b, multicenter,
+randomized study, patients with moderate to severe, active Crohn’s disease initially
+received ustekinumab 90 mg SC Q8W or Q12W.9 At Week 20 or 24, if the patient
+had not achieved clinical, biochemical, or endoscopic remission, the dose could be
+increased to Q8W (if previously receiving Q12W) or Q4W (if previously receiving
+Q8W). Similar efficacy was demonstrated in the treat to target (dose escalation)
+6 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Ustekinumab Subcutaneous
+Drug Quantity Management Policy – Per Days
+group vs. the standard of care group, but some patients benefited from Q4W
+dosing. Additional systematic literature reviews, meta-analyses, and retrospective
+cohort studies have also reported that dose intensification may benefit some
+patients.10-13
+Availability
+Refer to Table 1 for the available strengths and dosage forms of adalimumab
+products.1-8
+Table 1. FDA-Approved Ustekinumab Products.1-8
+Dosage Form/
+Strength
+a r a l e t S
+b
+a m u n i k e t s a s o d l u m I i f l u t O a v i h c z y P
+b
+a m u n i k e t s
+-
+e w t t i d s r a l e S
+b
+a m u n i k e t s
+-
+n k e a a m y e q e t S a n a l z e W k e t n i s e Y
+u u u
+45 mg/0.5
+√ √ √ √ √ √ √ √
+S mL
+F
+P
+90 mg/mL √ √ √ √ √ √ √ √
+a 45 mg/0.5
+i Vl
+mL
+√ √ √
+Ω These products are FDA-approved, but may or may not be currently available; α Adalimumab products may be FDA-
+approved for additional strengths/package sizes not noted here. This table reflects the availability of the products
+as of the date on this policy; PFS – Prefilled syringe; β Institutional use only; * Starter packs may have different
+names depending on the individual product’s FDA-approved indications.
+Of note, all of the ustekinumab products, with the exception of ustekinumab-aekn
+are also available as a 130 mg/26 mL single-dose vial for IV administration.1-8 This
+dosage form is not targeted in this policy.
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of ustekinumab SC, and to manage potential
+premature dose escalation. If the Drug Quantity Management rule is not met at the
+point of service, coverage will be determined by the Criteria below. All approvals
+are provided for 1 year in duration, unless otherwise noted below. Of note, all
+ustekinumab SC products of the same strength (i.e., vials, prefilled syringes)
+accumulate toward the total quantity limit.
+Drug Quantity Limits
+Product Strength and Form Retail and Home Delivery
+Maximum Quantity Limit
+6 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Ustekinumab Subcutaneous
+Drug Quantity Management Policy – Per Days
+Stelara® 45 mg/0.5 mL vial
+(ustekinumab SC injection) (Stelara, ustekinumab,
+Wezlana, and Yesintek
+ustekinumab SC injection only)
+Imuldosa™
+(ustekinumab-srlf SC injection)
+45 mg (1 syringe or vial) per 84
+45 mg/0.5 mL prefilled
+days
+Otulfi® syringe
+(ustekinumab-aauz SC injection)
+Pyzchiva®
+(ustekinumab-ttwe SC injection)
+ustekinumab-ttwe SC injection
+90 mg/mL prefilled 90 mg (1 syringe) per 56 days
+Selarsdi™ syringe
+(ustekinumab-aekn SC injection)
+ustekinumab-aekn SC injection
+Steqeyma™
+(ustekinumab-stba SC injection)
+Wezlana™
+(ustekinumab-auub SC injection)
+Yesintek
+(ustekinumab-kfce SC injection)
+SC – Subcutaneous.
+Exceptions to the quantity limits listed above are covered as medically
+necessary when the following criteria are met. Any other exception is
+considered not medically necessary.
+CRITERIA
+Ustekinumab 45 mg prefilled syringes or vials
+1. If the patient is initiating treatment for plaque psoriasis or psoriatic arthritis or
+requires additional induction dosing for plaque psoriasis or psoriatic arthritis, as
+verified by the absence of claims for ustekinumab in the past 130 days, approve
+an override for an additional 90 mg at retail or home delivery.
+Note: The approval quantity should be the number of ustekinumab mg the
+patient has received in the past 84 days plus 90 mg.
+Ustekinumab 90 mg prefilled syringes
+1. If the patient is initiating treatment for plaque psoriasis or psoriatic arthritis or
+requires additional induction dosing for plaque psoriasis or psoriatic arthritis, as
+verified by the absence of claims for ustekinumab in the past 130 days, approve
+an override for an additional 180 mg at retail or home delivery.
+Note: The approval quantity should be the number of ustekinumab mg the
+patient has received in the past 56 days plus 180 mg.
+6 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Ustekinumab Subcutaneous
+Drug Quantity Management Policy – Per Days
+2. Approve 90 mg per 28 days at retail or 270 mg per 84 days at home delivery if
+the patient meets ALL of the following (A, B, and C):
+A) Ustekinumab is being used to treat Crohn’s disease or ulcerative colitis; AND
+B) Patient has received ustekinumab 90 mg subcutaneous (SC) once every 8
+weeks for 24 weeks or longer; AND
+C) According to the prescriber, the patient has continued evidence of
+inflammation based on one or more of the following: elevated C-reactive
+protein, elevated erythrocyte sedimentation rate, elevated fecal calprotectin,
+or signs of inflammation on endoscopic evaluation.
+3. Approve 90 mg per 28 days at retail or 270 mg per 84 days at home delivery if
+the patient meets BOTH of the following (A and B):
+A) Ustekinumab is being used to treat Crohn’s disease or ulcerative colitis; AND
+B) Patient has been receiving ustekinumab 90 mg SC once every 4 weeks or 90
+mg once every 6 weeks.
+REFERENCES
+1. Stelara® subcutaneous injection [prescribing information]. Horsham, PA: Janssen; April 2025.
+2. Wezlana™ subcutaneous injection [prescribing information]. Thousand Oaks, CA: Amgen;
+December 2024.
+3. Yesintek subcutaneous injection [prescribing information]. Cambridge, MA: Biocon; November
+2024.
+4. Steqeyma® subcutaneous injection [prescribing information]. Jersey City, NJ: Celltrion; April
+2025.
+5. Pyzchiva® subcutaneous injection [prescribing information]. Princeton, NJ: Sandoz. June 2024.
+6. Selarsdi™ subcutaneous injection [prescribing information]. Parsippany, NJ: Teva; February
+2025.
+7. Otulfi® subcutaneous injection [prescribing information]. Lake Zurich, IL: Fresenius; April 2025.
+8. Imuldosa™ subcutaneous injection [prescribing information]. Raleigh, NC: Accord; October 2024.
+9. Danese S, Vermeire S, Haens GD, et al. Treat to target versus standard of care for patients with
+Crohn’s disease treated with ustekinumab (STARDUST): an open-label, multicenter, randomized
+phase 3b trial. Lancet Gastroenterol Hepatol. 2022;7(4):294-306.
+10. Peyrin-Biroulet L, Vermeire S, D’Haens G, et al. Clinical trial: clinical and endoscopic outcomes
+with ustekinumab in patients with Crohn’s disease: results from the long-term extension period of
+STARDUST. Aliment Pharmacol Ther. 2024;59(2):175-185.
+11. Dalal RS, Pruce JC, Allegretti JR. Long-term outcomes after ustekinumab dose intensification for
+inflammatory bowel diseases. Inflamm Bowel Dis. 2023;29(5):830-833.
+12. Meserve J, Ma C, Dulai PS, et al. Effectiveness of reinduction and/or dose escalation of
+ustekinumab in Crohn’s disease: a systematic review and meta-analysis. Clin Gastroenterol
+Hepatol. 2022;20(12):2728-2740.
+13. Panaccione R, Lee WJ, Clark R, et al. Dose escalation patterns of advanced therapies in Crohn’s
+disease and ulcerative colitis: a systematic literature review. Adv Ther. 2023;40(5):2051-2081.
+History
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 01/04/2024
+Revision
+Selected Stelara 90 mg prefilled syringes: New override was added to 02/14/2024
+Revision approve the requested quantity, not to exceed 1 syringe per 28 days
+at retail or 3 syringes per 84 days at home delivery if Stelara is being
+used to treat Crohn’s disease or ulcerative colitis and the patient has
+6 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Ustekinumab Subcutaneous
+Drug Quantity Management Policy – Per Days
+received Stelara subcutaneous 90 mg once every 8 weeks for 24
+weeks or longer.
+Selected Throughout policy changed the quantity approved to be in “mg” units. 05/17/2024
+Revision Previously approval quantities were provided in “# of syringes or
+vials”.
+Annual A note was added to indicate that all ustekinumab SC products of the 01/08/2025
+Revision same strength (i.e., vials, prefilled syringes) accumulate toward the
+total quantity limit.
+Wezlana 45 mg prefilled syringes, 45 mg vials, and 90 mg
+prefilled syringes: New quantity limits were added to the policy.
+The same quantity limits and overrides apply to Wezlana as have
+previously applied to the Stelara products.
+Early Annual Yesintek 45 mg prefilled syringes, 45 mg vials, and 90 mg 02/12/2025
+Revision prefilled syringes: New quantity limits were added to the policy.
+The same quantity limits and overrides apply to Yesintek as have
+previously applied to the other ustekinumab products.
+Selected Ustekinumab-ttwe 45 mg prefilled syringes and 90 mg 02/19/2025
+Revision prefilled syringes: New quantity limits were added to the policy.
+The same quantity limits and overrides apply to ustekinumab-ttwe as
+have previously applied to the other ustekinumab products.
+Selected Selarsdi 45 mg prefilled syringes and 90 mg prefilled syringes: 03/12/2025
+Revision New quantity limits were added to the policy. The same quantity
+limits and overrides apply to Selarsdi as have previously applied to
+the other ustekinumab products.
+Ustekinumab 45 mg prefilled syringes and 90 mg prefilled
+syringes (all products): Override criteria were updated to approve
+an additional 90 mg at retail or home delivery if the patient is
+initiating treatment for plaque psoriasis or psoriatic arthritis or
+requires additional induction dosing for plaque psoriasis or psoriatic
+arthritis.
+Early Annual Ustekinumab 45 mg vials, 45 mg prefilled syringes, and 90 mg 05/07/2025
+Revision prefilled syringes (unbranded Stelara): New quantity limits were
+added to the policy. The same quantity limits and overrides apply to
+ustekinumab as have previously applied to the other ustekinumab
+products.
+Imuldosa 45 mg prefilled syirnges and 90 mg prefilled
+syringes: New quantity limits were added to the policy. The same
+quantity limits and overrides apply to Imuldosa as have previously
+applied to the other ustekinumab products.
+Otulfi 45 mg prefilled syringes and 90 mg prefilled syringes:
+New quantity limits were added to the policy. The same quantity
+limits and overrides apply to Otulfi as have previously applied to the
+other ustekinumab products.
+Pyzchiva 45 mg prefilled syringes and 90 mg prefilled
+syringes: New quantity limits were added to the policy. The same
+quantity limits and overrides apply to Pyzchiva as have previously
+applied to the other ustekinumab products.
+Ustekinumab-aekn 45 mg prefilled syringes and 90 mg
+prefilled syringes (unbranded Selarsdi): New quantity limits
+were added to the policy. The same quantity limits and overrides
+apply to ustekinumab-aekn as have previously applied to the other
+ustekinumab products.
+6 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Ustekinumab Subcutaneous
+Drug Quantity Management Policy – Per Days
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+6 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Ustekinumab Subcutaneous
+Drug Quantity Management Policy – Per Days

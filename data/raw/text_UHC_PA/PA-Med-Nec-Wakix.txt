@@ -1,0 +1,129 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2174-8
+Program Prior Authorization/Medical Necessity
+Medication Wakix® (pitolisant)
+P&T Approval Date 10/2019, 12/2019, 4/2020, 3/2021, 6/2021, 6/2022, 10/2023, 9/2024
+Effective Date 12/1/2024
+1. Background:
+Wakix is a histamine-3 (H3) receptor antagonist/inverse agonist indicated for the treatment of
+excessive daytime sleepiness (EDS) or cataplexy in adult and pediatric patients 6 years of age and
+older with narcolepsy.
+Members will be required to meet the coverage criteria below.
+2. Coverage Criteriaa:
+© 2024 UnitedHealthcare Services, Inc.
+1
+A. Narcolepsy without Cataplexy (i.e., Narcolepsy Type 2)
+1. Initial Authorization
+a. Wakix will be approved based on all of the following criteria:
+(1) Submission of medical records (e.g. chart notes, lab values) documenting a diagnosis of
+narcolepsy with both of the following:
+(a) The patient has daily periods of irrepressible need to sleep or daytime lapses into
+sleep occurring for at least three months.
+(b) A mean sleep latency of ≤ 8 minutes and two or more sleep onset REM periods
+(SOREMPs) are found on a MSLT performed according to standard techniques
+following a normal overnight polysomnogram. A SOREMP (within 15 minutes of
+sleep onset) on the preceding nocturnal polysomnogram may replace one of the
+SOREMPs on the MSLT.
+-AND-
+(2) Physician attestation to the following:
+(a) Other causes of sleepiness have been ruled out or treated (including but not limited to
+obstructive sleep apnea, insufficient sleep syndrome, shift work, the effects of
+substances or medications or their withdrawal, sleep phase disorder, or other sleep
+disorders).
+-AND-
+(3) One of the following:
+(a) History of failure, contraindication, or intolerance to all of the following:
+(i) armodafinil (Nuvigil) or modafinil (Provigil)
+(ii) an amphetamine (e.g., amphetamine, dextroamphetamine) or methylphenidate
+based stimulant
+(iii) Sunosi
+-OR-
+(b) History of or potential for a substance abuse disorder
+-AND-
+(4) Prescribed by or in consultation with one of the following:
+(a) Neurologist
+(b) Psychiatrist
+(c) Pulmonologist
+© 2024 UnitedHealthcare Services, Inc.
+2
+(d) Sleep Medicine Specialist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Wakix will be approved for continuation of therapy based on the following criterion:
+(1) Reduction in symptoms of excessive daytime sleepiness associated with Wakix therapy
+Authorization will be issued for 12 months.
+B. Narcolepsy with Cataplexy (i.e., Narcolepsy Type 1)
+1. Initial Authorization
+a. Wakix will be approved based on all of the following criteria:
+(1) Submission of medical records (e.g. chart notes, lab values) documenting a diagnosis of
+narcolepsy with cataplexy (i.e., Narcolepsy Type 1) with both of the following:
+(a) The patient has daily periods of irrepressible need to sleep or daytime lapses into
+sleep occurring for at least three months.
+(b) A mean sleep latency of ≤ 8 minutes and two or more sleep onset REM periods
+(SOREMPs) are found on a MSLT performed according to standard techniques
+following a normal overnight polysomnogram. A SOREMP (within 15 minutes of
+sleep onset) on the preceding nocturnal polysomnogram may replace one of the
+SOREMPs on the MSLT.
+-AND-
+(2) Physician attestation to both of the following:
+(a) Patient has experienced cataplexy defined as more than one episode of sudden loss of
+muscle tone with retained consciousness
+-AND-
+(b) Other causes of sleepiness have been ruled out or treated (including but not limited to
+obstructive sleep apnea, insufficient sleep syndrome, shift work, the effects of
+substances or medications or their withdrawal, sleep phase disorder, or other sleep
+disorders).
+-AND-
+(3) Prescribed by or in consultation with one of the following:
+© 2024 UnitedHealthcare Services, Inc.
+3
+(a) Neurologist
+(b) Psychiatrist
+(c) Pulmonologist
+(d) Sleep Medicine Specialist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Wakix will be approved for continuation of therapy based on one of the following criteria:
+(1) Reduction in frequency of cataplexy attacks associated with therapy
+–OR–
+(2) Reduction in symptoms of excessive daytime sleepiness associated with therapy
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit plan
+coverage may also impact coverage criteria. Other policies and utilization management programs may
+apply
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Wakix [package insert]. Plymouth Meeting, PA: Harmony Biosciences, LLC; June 2024.
+2. American Academy of Sleep Medicine. International Classification of Sleep Disorders:
+Diagnostic and Coding Manual. 3rd ed. Darien, IL: American Academy of Sleep Medicine; 2014.
+3. Sunosi [package insert]. Palo Alto, CA: Jazz Pharmaceuticals, Inc; October 2021.
+4. Maski K, Trotti LM, Kotagal S, et al. Treatment of central disorders of hypersomnolence: An
+American Academy of Sleep Medicine clinical practice guideline. Journal of Clinical Sleep
+Medicine. 2021. Sept (17):1881-1893.
+5. Wise MS1, Arand DL, Auger RR, et al. Treatment of narcolepsy and other hypersomnias of
+central origin. Sleep. 2007 Dec;30(12):1712-27.
+Program Prior Authorization/Medical Necessity - Wakix® (pitolisant)
+Change Control
+11/2019 New program
+12/2019 Added requirement for history of Sunosi.
+4/2020 Added requirement for submission of documentation of sleep study
+with specific sleep study requirements. Added requirement for
+© 2024 UnitedHealthcare Services, Inc.
+4
+prescriber specialty. Changed initial authorization duration to 12
+months.
+3/2021 Added criteria for narcolepsy with cataplexy based on updated product
+labeling.
+6/2021 Updated Type 1 narcolepsy section to clarify that medical records
+submitted show narcolepsy with cataplexy and provider attestation for
+cataplexy symptoms. Added pulmonologist to the list of specialists.
+6/2022 Annual review. Updated references.
+10/2023 Annual review. Updated references.
+9/2024 Annual review. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+5

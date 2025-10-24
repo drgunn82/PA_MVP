@@ -1,0 +1,55 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1472-1
+Program Prior Authorization/Notification
+Medication Ebglyss™ (lebrikizumab-lbkz)
+P&T Approval Date 3/2025
+Effective Date 5/1/2025
+1. Background:
+Ebglyss (lebrikizumab-lbkz) is an interleukin-13 antagonist indicated for the treatment of adults
+and pediatric patients 12 years of age and older who weigh at least 40 kg with moderate to
+severe atopic dermatitis whose disease is not adequately controlled with topical prescription
+therapies or when those therapies are not advisable. Ebglyss can be used with or without topical
+corticosteroids.
+2. Coverage Criteriaa:
+A. Atopic Dermatitis
+1. Initial Authorization
+a. Ebglyss will be approved based on all of the following criteria:
+(1) Diagnosis of moderate to severe atopic dermatitis
+-AND-
+(2) History of failure, contraindication, or intolerance to topical therapies
+-AND-
+(3) Patient is not receiving Ebglyss in combination with either of the following:
+(a) Biologic immunomodulator [e.g., Adbry (tralokinumab-ldrm), Dupixent
+(dupilumab)]
+(b) Janus kinase inhibitor [e.g., Cibinqo (abrocitinib), Opzelura (topical
+ruxolitinib), Rinvoq (upadacitinib), Xeljanz/XR (tofacitinib)]
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Ebglyss will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Ebglyss therapy
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+1
+(2) Patient is not receiving Ebglyss in combination with either of the following:
+(a) Biologic immunomodulator [e.g., Adbry (tralokinumab-ldrm), Dupixent
+(dupilumab)]
+(b) Janus kinase inhibitor [e.g., Cibinqo (abrocitinib), Opzelura (topical
+ruxolitinib), Rinvoq (upadacitinib), Xeljanz/XR (tofacitinib)]
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Ebglyss [package insert]. Indianapolis, IN: Eli Lilly and Company; September 2024.
+Program Prior Authorization/Notification - Ebglyss (lebrikizumab-lbkz)
+Change Control
+3/2025 New program.
+© 2025 UnitedHealthcare Services, Inc.
+2

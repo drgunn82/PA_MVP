@@ -1,0 +1,162 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1365-6
+Program Non-Formulary
+Medication Zykadia® (ceritinib)*
+P&T Approval Date 7/2021, 2/2022, 4/2022, 4/2023, 2/2024, 2/2025
+Effective Date 5/1/2025
+1. Background:
+Zykadia (ceritinib) is a kinase inhibitor indicated for the treatment of patients with anaplastic
+lymphoma kinase (ALK)-positive metastatic non-small cell lung cancer (NSCLC) as detected by
+an FDA-approved test. The National Cancer Comprehensive Network (NCCN) also recommends
+Zykadia as first-line therapy for ALK-positive advanced or metastatic NSCLC, for the treatment
+of inflammatory myofibroblastic tumor (IMT) with ALK translocation,in treatment of ALK-
+positive brain metastases from NSCLC, in the treatment of ALK-positive Erdheim-Chester
+Disease, advanced, recurrent, metastatic, or inoperable inflammatory myofibroblastic tumor
+(IMT) with positive ALK translocation, and ALK-positive relapsed or refractory anaplastic large
+cell lymphoma as palliative intent therapy or second-line and subsequent therapy.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Zykadia* will be approved based on the following criterion:
+a. Member is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Non-Small Cell Lung Cancer (NSCLC)
+1. Initial Authorization
+a. Zykadia* will be approved based on all of the following criteria:
+(1) Diagnosis of non-small cell lung cancer (NSCLC)
+-AND-
+© 2025 UnitedHealthcare Services Inc.
+1
+(2) One of the following:
+(a) Disease is metastatic
+(b) Disease is recurrent
+(c) Disease is advanced
+-AND-
+(3) Both of the following:
+(a) Tumor is anaplastic lymphoma kinase (ALK)-positive
+-AND-
+(b) One of the following:
+i. Provider attests the patient has a contraindication, history of intolerance,
+or that the patient is not an appropriate candidate (document reason) to
+all of the following therapies:
+• Alecensa (alectinib)
+• Alunbrig (brigatinib)
+• Lorbrena (lorlatinib)
+-OR-
+ii. Both of the following:
+• Patient is currently on Zykadia therapy
+-AND-
+• Patient has not received a manufacturer supplied sample at no cost
+from a prescriber’s office, or any form of assistance from a Novartis
+patient assistance program (e.g. sample card which can be redeemed
+at a pharmacy for a free supply of medication) or a 30 day free trial
+from a pharmacy as a means to establish as a current user of
+Zykadia*
+*Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance
+from a Novartis patient assistance program shall be required to meet initial authorization
+criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Zykadia will be approved based on the following criterion:
+© 2025 UnitedHealthcare Services Inc.
+2
+(1) Patient does not show evidence of progressive disease while on Zykadia therapy
+Authorization will be issued for 12 months.
+C. Soft Tissue Sarcoma
+1. Initial Authorization
+a. Zykadia will be approved based on the following criterion:
+(1) Diagnosis of inflammatory myofibroblastic tumor (IMT) with ALK
+translocation
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Zykadia will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Zykadia therapy
+Authorization will be issued for 12 months.
+D. Central Nervous System (CNS) Cancers
+1. Initial Authorization
+a. Zykadia will be approved based on both of the following criteria:
+(1) Diagnosis of metastatic brain cancer from NSCLC
+-AND-
+(2) Tumor is anaplastic lymphoma kinase (ALK)-positive
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Zykadia will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Zykadia therapy
+Authorization will be issued for 12 months.
+E. Histiocytic Neoplasms
+1. Initial Authorization
+a. Zykadia will be approved based on all the following criteria:
+© 2025 UnitedHealthcare Services Inc.
+3
+(1) Diagnosis of Erdheim-Chester Disease
+-AND-
+(2) Disease is positive for ALK rearrangement
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Zykadia will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Zykadia
+therapy.
+Authorization will be issued for 12 months.
+F. Anaplastic Large Cell Lymphoma
+1. Initial Authorization
+a. Zykadia will be approved based on all of the following criteria:
+(1) Diagnosis of anaplastic large cell lymphoma
+-AND-
+(2) Tumor is anaplastic lymphoma kinase (ALK)-positive
+-AND-
+(3) Disease is relapsed or refractory
+-AND-
+(4) Used as palliative intent therapy or second-line and subsequent therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Zykadia will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Zykadia therapy
+Authorization will be issued for 12 months.
+G. NCCN Recommended Regimens
+© 2025 UnitedHealthcare Services Inc.
+4
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a Coverage of oncology medications may be approved based on state mandates.
+* Zykadia is typically excluded from coverage. Tried/Failed criteria may be in place. Please refer to
+plan specifics to determine exclusion status.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Zykadia [package insert]. East Hanover, NJ: Novartis Pharmaceuticals Corporation; October
+2021.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+www.nccn.org. Accessed January 2, 2025
+Program Non-Formulary - Zykadia (ceritinib)
+Change Control
+7/2021 New program.
+2/2022 Removed “Prior Authorization” from program title and kept Non-
+Formulary. Updated background and references. Added clinical
+criteria for ROS1-positive or ALK-positive brain metastases from
+NSCLC.
+4/2022 Added oncology medications state mandate note.
+4/2023 Annual review. Removed ROS-1 form CNS cancer as this is no longer
+NCCN recommended. Added criteria for ALK-positive Erdheim-
+Chester Disease per NCCN recommendations. Updated reference.
+2/2024 Annual review. Updated background and coverage criteria for
+inoperable inflammatory myofibroblastic tumor and anaplastic large
+cell lymphoma per NCCN. Updated reference.
+2/2025 Annual review. Removed ROS positive criteria from NSCLC as this is
+no longer an NCCN recommendation. Removed criteria for IMT which
+was duplicative as this is covered under soft tissue sarcomas. Updated
+background and reference.
+© 2025 UnitedHealthcare Services Inc.
+5

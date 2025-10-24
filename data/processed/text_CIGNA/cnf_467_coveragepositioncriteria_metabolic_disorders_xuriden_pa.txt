@@ -1,0 +1,108 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Metabolic Disorders – Xuriden Prior Authorization Policy
+• Xuriden® (uridine triacetate oral granules – Wellstat Therapeutics)
+REVIEW DATE: 08/13/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Xuriden, a pyrimidine analog for uridine replacement, is indicated for the treatment
+of hereditary orotic aciduria in adults and pediatric patients.1
+Disease Overview
+Hereditary orotic aciduria, also known as orotic aciduria type 1, is an extremely rare,
+autosomal recessive genetic disorder of pyrimidine metabolism.1-3 It is estimated to
+affect less than 1:1,000,000 live births. Only about 20 cases have been reported in
+the medical literature. In hereditary orotic aciduria, variants in the UMPS gene leads
+to defective uridine 5’monophosphate synthase. Deficiency in this enzyme prevents
+the last two steps in pyrimidine biosynthesis, leading to inadequate levels of uridine
+monophosphate and excess levels of orotic acid (a uridine precursor). Because the
+condition is so rare, hereditary orotic aciduria is not fully understood. Affected infants
+may develop megaloblastic anemia, developmental delays, or failure to thrive. Orotic
+acid crystals in the urine can lead to urinary obstruction. Xuriden replaces uridine in
+Page 1 of 3 - Cigna National Formulary Coverage - Policy: Metabolic Disorders – Xuriden Prior Authorization
+Policy
+the circulation, and as a result of feedback inhibition, overproduction of orotic acid is
+reduced. Diagnosis is made by detailed patient and family history as well as thorough
+clinical evaluation and examination of urine. Most individuals have their diagnosis
+confirmed through molecular genetic testing; however, this is only available at
+specialized laboratories.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Xuriden.
+Because of the specialized skills required for evaluation and diagnosis of patients
+treated with Xuriden, approval requires the requested medication to be prescribed by
+or in consultation with a physician who specializes in the condition being treated.
+• Xuriden® (uridine triacetate oral granules – Wellstat Therapeutics)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Hereditary Orotic Aciduria (Orotic Aciduria Type 1). Approve for 1 year if
+the patient meets BOTH of the following (A and B):
+A) Patient has hereditary orotic aciduria confirmed by at least ONE of the following
+(i or ii):
+i. Molecular genetic testing confirming biallelic pathogenic variants in the
+UMPS gene; OR
+ii. Clinical diagnosis supported by ALL of the following (a, b, and c):
+a) At least one clinical manifestation consistent with orotic aciduria type 1;
+AND
+Note: Examples of clinical manifestations include megaloblastic anemia,
+immunodeficiency, developmental delays, and failure to thrive.
+b) First-degree family relative (i.e., parent or sibling) with hereditary orotic
+aciduria; AND
+c) Urinary orotic acid level above the normal reference range for the
+reporting laboratory; AND
+B) Xuriden is prescribed by, or in consultation with, a metabolic specialist,
+geneticist, or physician specializing in the condition being treated.
+CONDITIONS NOT COVERED
+• Xuriden® (uridine triacetate oral granules – Wellstat Therapeutics)
+is(are) considered not medically necessary for ANY other use(s); criteria will
+be updated as new published data are available.
+REFERENCES
+3 Pages - Cigna National Formulary Coverage - Policy: Metabolic Disorders – Xuriden Prior Authorization Policy
+1. Xuriden® oral granules [prescribing information]. Rockville, MD: Wellstat Therapeutics; August
+2023.
+2. Hereditary orotic aciduria. National Organization for Rare Disorders. Updated 2018. Available at:
+https://rarediseases.org/rare-diseases/hereditary-orotic-aciduria/. Accessed on August 11, 2025.
+3. Orotic aciduria type 1. Genetic and Rare Diseases Information Center. Updated July 2024. Available
+at: https://rarediseases.info.nih.gov/diseases/5429/hereditary-orotic-aciduria. Accessed on August
+11, 2025.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 08/16/2023
+Revision
+Annual Hereditary Orotic Aciduria (Orotic Aciduria Type 1): For 08/14/2024
+Revision diagnosis by genetic testing, the term “pathogenic mutation” was
+rephrased to “pathogenic variant”.
+Annual No criteria changes. 08/13/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+3 Pages - Cigna National Formulary Coverage - Policy: Metabolic Disorders – Xuriden Prior Authorization Policy

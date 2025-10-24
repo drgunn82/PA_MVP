@@ -1,0 +1,283 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2203-8
+Program Prior Authorization/Medical Necessity
+Medication *Simponi® (golimumab)
+*This program applies to the subcutaneous formulation of golimumab.
+P&T Approval Date 5/2020, 5/2021, 6/2021, 12/2021, 5/2022, 5/2023, 7/2023, 10/2024
+Effective Date 1/1/2025
+1. Background:
+Simponi (golimumab) is a tumor necrosis factor (TNF) blocker, indicated for the treatment of adult
+patients with moderately to severely active rheumatoid arthritis (RA) in combination with
+methotrexate (MTX).1 Simponi, alone or in combination with methotrexate, is indicated for the
+treatment of adult patients with active psoriatic arthritis (PsA).1 It is also indicated for the treatment of
+adult patients with active ankylosing spondylitis (AS).1 Simponi is also indicated in adult patients
+with moderately to severely active ulcerative colitis who have demonstrated corticosteroid
+dependence or who have had an inadequate response to or failed to tolerate oral aminosalicylates, oral
+corticosteroids, azathioprine, or 6-mercaptopurine. For ulcerative colitis, it is indicated for inducing
+and maintaining clinical response, improving endoscopic appearance of the mucosa during induction,
+inducing clinical remission, and achieving and sustaining clinical remission in induction responders.1
+An intravenous formulation of golimumab, Simponi Aria®, is also available. Simponi Aria® is
+indicated for adult patients with moderately to severely active rheumatoid arthritis in combination
+with methotrexate, active psoriatic arthritis in patients 2 years of age and older, adult patients with
+active ankylosing spondylitis, and active polyarticular Juvenile Idiopathic Arthritis (pJIA) in patients
+2 years of age and older.
+2. Coverage Criteriaa:
+A. Rheumatoid Arthritis (RA)
+1. Initial Authorization
+a. Simponi will be approved based on all of the following criteria:
+(1) Diagnosis of moderately to severely active rheumatoid arthritis
+-AND-
+(2) One of the following:
+(a) History of failure to a 3 month trial of one non-biologic disease modifying anti-
+rheumatic drug (DMARD) [e.g., methotrexate, leflunomide, sulfasalazine,
+hydroxychloroquine] at maximally indicated doses, unless contraindicated or
+clinically significant adverse effects are experienced (document drug, date, and
+duration of trial)b
+-OR-
+© 2024 UnitedHealthcare Services, Inc.
+1
+(b) Patient has been previously treated with a targeted immunomodulator FDA-
+approved for the treatment of rheumatoid arthritis as documented by claims
+history or submission of medical records (Document drug, date, and duration of
+therapy) [e.g., Cimzia (certolizumab), adalimumab, Olumiant (baricitinib),
+Rinvoq (upadacitinib), Xeljanz/Xeljanz XR (tofacitinib)]
+-OR-
+(c) Both of the following:
+i. Patient is currently on Simponi therapy as documented by claims history or
+submission of medical records (Document date and duration of therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from the Jannsen sponsored
+CarePath Savings program (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a current
+user of Simponi*
+-AND-
+(3) Patient is not receiving Simponi in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab), Orencia
+(abatacept), adalimumab, Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq
+(upadacitinib)]
+-AND-
+(4) Prescribed by or in consultation with a rheumatologist
+* Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance from
+the Jannsen sponsored CarePath Savings program shall be required to meet initial authorization
+criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Simponi will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Simponi therapy
+-AND-
+(2) Patient is not receiving Simponi in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab), Orencia
+© 2024 UnitedHealthcare Services, Inc.
+2
+(abatacept), adalimumab, Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq
+(upadacitinib)]
+Authorization will be issued for 12 months.
+B. Psoriatic Arthritis (PsA)
+1. Initial Authorization
+a. Simponi will be approved based on all of the following criteria:
+(1) Diagnosis of active psoriatic arthritis
+-AND-
+(2) One of the following:
+(a) History of failure to a 3 month trial of methotrexate at maximally indicated dose,
+unless contraindicated or clinically significant adverse effects are experienced
+(document date and duration of trial)b
+-OR-
+(b) Patient has been previously treated with a targeted immunomodulator FDA-
+approved for the treatment of psoriatic arthritis as documented by claims history
+or submission of medical records (Document drug, date, and duration of therapy)
+[e.g., Cimzia (certolizumab), adalimumab, Stelara (ustekinumab), Tremfya
+(guselkumab), Xeljanz/Xeljanz XR (tofacitinib), Otezla (apremilast), Rinvoq
+(upadacitinib)]
+-OR-
+(c) Both of the following:
+i. Patient is currently on Simponi therapy as documented by claims history or
+submission of medical records (Document date and duration of therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from the Jannsen sponsored
+CarePath Savings program (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a current
+user of Simponi*
+-AND-
+(3) Patient is not receiving Simponi in combination with another immunomodulator
+[e.g., Enbrel (etanercept), Cimzia (certolizumab), Orencia (abatacept), adalimumab,
+Stelara (ustekinumab), Skyrizi (risankizumab), Tremfya (guselkumab), Cosentyx
+© 2024 UnitedHealthcare Services, Inc.
+3
+(secukinumab), Taltz (ixekizumab), Xeljanz (tofacitinib), Olumiant (baricitinib),
+Rinvoq (upadacitinib), Otezla (apremilast)]
+-AND-
+(4) Prescribed by or in consultation with one of the following:
+(a) Rheumatologist
+(b) Dermatologist
+* Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance from
+the Jannsen sponsored CarePath Savings program shall be required to meet initial authorization
+criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Simponi will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Simponi therapy
+-AND-
+(2) Patient is not receiving Simponi in combination with another immunomodulator
+[e.g., Enbrel (etanercept), Cimzia (certolizumab), Orencia (abatacept), adalimumab,
+Stelara (ustekinumab), Skyrizi (risankizumab), Tremfya (guselkumab), Cosentyx
+(secukinumab), Taltz (ixekizumab), Xeljanz (tofacitinib), Olumiant (baricitinib),
+Rinvoq (upadacitinib), Otezla (apremilast)]
+Authorization will be issued for 12 months.
+C. Ankylosing Spondylitis (AS)
+1. Initial Authorization
+a. Simponi will be approved based on all of the following criteria:
+(1) Diagnosis of active ankylosing spondylitis
+-AND-
+(2) One of the following:
+(a) History of failure to two NSAIDs (e.g., ibuprofen, naproxen) at maximally
+indicated doses, each used for at least 4 weeks, unless contraindicated or clinically
+significant adverse effects are experienced (document drug, date, and duration of
+trials)
+© 2024 UnitedHealthcare Services, Inc.
+4
+-OR-
+(b) Patient has been previously treated with a targeted immunomodulator FDA-
+approved for the treatment of ankylosing spondylitis as documented by claims
+history or submission of medical records (Document drug, date, and duration of
+therapy) [e.g., Cimzia (certolizumab), adalimumab, Xeljanz/Xeljanz XR
+(tofacitinib), Rinvoq (upadacitinib)].
+-OR-
+(c) Both of the following:
+i. Patient is currently on Simponi therapy as documented by claims history or
+submission of medical records (Document date and duration of therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from the Jannsen sponsored
+CarePath Savings program (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a current
+user of Simponi*
+-AND-
+(3) Patient is not receiving Simponi in combination with with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab), Orencia
+(abatacept), adalimumab, Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq
+(upadacitinib)]
+-AND-
+(4) Prescribed by or in consultation with a rheumatologist
+* Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance from
+the Jannsen sponsored CarePath Savings program shall be required to meet initial authorization
+criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Simponi will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Simponi therapy
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+5
+(2) Patient is not receiving Simponi in combination with with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab), Orencia
+(abatacept), adalimumab, Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq
+(upadacitinib)]
+Authorization will be issued for 12 months.
+D. Ulcerative Colitis (UC)
+1. Initial Authorization
+a. Simponi will be approved based on all of the following criteria:
+(1) Diagnosis of moderately to severely active ulcerative colitis
+-AND-
+(2) One of the following:
+(a) Patient has had prior or concurrent inadequate response to a therapeutic course of
+oral aminosalicylates, oral corticosteroids, azathioprine, or 6-mercaptopurine
+-OR-
+(b) Patient has been previously treated with a targeted immunomodulator FDA-
+approved for the treatment of ulcerative colitis as documented by claims history
+or submission of medical records (Document drug, date, and duration of therapy)
+[e.g., adalimumab, Stelara (ustekinumab), Xeljanz (tofacitinib), Rinvoq
+(upadacitinib)].
+-OR-
+(c) Both of the following:
+i. Patient is currently on Simponi therapy as documented by claims history or
+submission of medical records (Document date and duration of therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from the Jannsen sponsored
+CarePath Savings program (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a current
+user of Simponi*
+-AND-
+(3) Patient is not receiving Simponi in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab), Orencia
+© 2024 UnitedHealthcare Services, Inc.
+6
+(abatacept), adalimumab, Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq
+(upadacitinib), Stelara (ustekinumab), Skyrizi (risankizumab)]
+-AND-
+(4) Prescribed by or in consultation with a gastroenterologist
+* Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance from
+the Jannsen sponsored CarePath Savings program shall be required to meet initial authorization
+criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Simponi will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Simponi therapy
+-AND-
+(2) Patient is not receiving Simponi in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab), Orencia
+(abatacept), adalimumab, Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq
+(upadacitinib), Stelara (ustekinumab), Skyrizi (risankizumab)]
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+b For Connecticut, Kentucky and Mississippi business only a 30-day trial will be required.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+• The intravenous infusion is typically covered under the medical benefit. Please refer to the
+United Healthcare Drug Policy for Simponi Aria
+4. References:
+1. Simponi [package insert]. Horsham, PA: Janssen Biotech Inc.; September 2019.
+2. Simponi Aria [package insert]. Horsham, PA: Janssen Biotech, Inc.; February 2021.
+3. Singh JA, Saag KG, Bridges SL, et al. 2015 American College of Rheumatology Guideline for
+the Treatment of Rheumatoid Arthritis. Arthritis Care & Research. Arthritis Rheum.
+2016;68(1):1-26.
+© 2024 UnitedHealthcare Services, Inc.
+7
+4. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and
+psoriatic arthritis -- Section 6. Guidelines of care for the treatment of psoriasis and psoriatic
+arthritis: Case-based presentations and evidence-based conclusions. J Am Acad Dermatol.
+2011;65:137-174.
+5. Yu D, van Tubergen A. Treatment of axial spondyloarthritis (ankylosing spondylitis and
+nonradiographic axial spondyloarthritis) in adults. Sieper, J (Ed). UpToDate. Accessed January
+14, 2019.
+6. Feuerstein JD, Isaacs KL, Schneider Y, et al. AGA clinical practice guidelines on the
+management of moderate to severe ulcerative colitis. Gastroenterology. 2020; 158(5):1450-61.
+Program Prior Authorization/Medical Necessity - Simponi (golimumab)
+Change Control
+5/2020 New program
+5/2021 Annual review. Removed preceding month requirement from failure
+criteria. Removed prescriber requirement from reauthorization criteria.
+Removed drug documentation where only one drug is required.
+References and background updated.
+6/2021 Added coverage criteria for patients previously treated with a biologic
+DMARD. Added clarification that submission of medical records is
+required documenting previous or current therapy with a biologic
+DMARD in order to bypass step through non-biologic therapies if claim
+history not available.
+12/2021 Updated conventional DMARD bypass language for rheumatoid
+arthritis, psoriatic arthritis and ulcerative colitis with no change to
+clinical intent. Updated initial authorization duration to 12 months for
+ulcerative colitis. Updated CT/KY footnote.
+5/2022 Added targeted synthetic DMARD to bypass criteria for AS and added
+Rinvoq and Xeljanz as a JAK inhibitor example where applicable.
+Added Mississippi to state mandate language.
+5/2023 Annual review. Updated drug examples to mirror other pharmacy
+programs.
+7/2023 Updated not receiving in combination language to targeted
+immunomodulator and updated examples.
+10/2024 Annual review with no change to coverage criteria. Updated state
+mandate footnote.
+© 2024 UnitedHealthcare Services, Inc.
+8

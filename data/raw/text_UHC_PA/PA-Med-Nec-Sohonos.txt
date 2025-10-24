@@ -1,0 +1,64 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2322-2
+Program Prior Authorization/Medical Necessity
+Medication Sohonos™ (palovarotene)
+P&T Approval Date 1/2024, 10/2024
+Effective Date 1/1/2025
+1. Background:
+Sohonos (palovarotene) is a retinoid indicated for reduction in the volume of new heterotopic
+ossification in adults and children aged 8 years and older for females and 10 years and older for
+males with fibrodysplasia ossificans progressiva (FOP).
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Sohonos will be approved based on all of the following criteria:
+a. Diagnosis of fibrodysplasia ossificans progressiva (FOP)
+-AND-
+b. Diagnosis has been confirmed by the presence of a mutation in the activin receptor IA
+(ACVR1) gene
+-AND-
+c. One of the following:
+(1) Both of the following:
+(a) Patient is female
+(b) Patient is aged 8 years and older
+-OR-
+(2) Both of the following:
+(a) Patient is male
+(b) Patient is aged 10 years and older
+-AND-
+d. Sohonos is being used to reduce the volume of new heterotopic ossification (HO)
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+1
+e. Prescribed by or in consultation with an FOP expert (e.g., endocrinologist, geneticist,
+pediatric orthopedist, pediatric rheumatologist)
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Sohonos will be approved based on both of the following criteria:
+a. Documentation of positive clinical response (e.g., reduction in new HO volume,
+improved CAJIS and FOP-PFQ scores, improved quality of life)
+-AND-
+b. Prescribed by or in consultation with an FOP expert (e.g., endocrinologist, geneticist,
+pediatric orthopedist, pediatric rheumatologist)
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class
+4. References:
+1. Sohonos [package insert]. Cambridge, MA: Ipsen Biopharmaceuticals, Inc.; August 2023.
+2. The International Clinical Council (ICC) on Fibrodysplasia Ossificans Progressiva (FOP).
+The medical management of fibrodysplasia ossificans progressiva: current treatment
+considerations. July 2024. Available at: Guidelines | International Clinical Council (ICC) on
+Fibrodysplasia Ossificans Progressiva (FOP) (iccfop.org). Accessed on August 29, 2024.
+Program Prior Authorization/Medical Necessity - Sohonos (palovarotene)
+Change Control
+1/2024 New program.
+10/2024 Annual review with no changes to coverage criteria. Updated
+references.
+© 2024 UnitedHealthcare Services, Inc.
+2

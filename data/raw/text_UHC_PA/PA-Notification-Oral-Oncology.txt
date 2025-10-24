@@ -1,0 +1,104 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Name 2024 P 1074-9
+Program Prior Authorization/Notification
+Medications Oral chemotherapeutic agents
+P&T Approval Date 3/9/2010, 1/2011, 9/2011, 11/2011, 1/2012, 4/2012, 8/2012, 2/2013,
+11/2014, 11/2015, 7/2016, 11/2019, 11/2020, 11/2021, 5/2022,
+10/2023, 12/2024
+Effective Date 3/1/2025
+1. Background:
+The coverage criteria below provides parameters for coverage of specific oral oncology
+medications covered under the pharmacy benefit based upon the National Comprehensive
+Cancer Network (NCCN) Drugs & Biologics Compendium™. The Compendium lists the
+appropriate drugs and biologics for specific cancers using U.S. Food and Drug Administration
+(FDA)-approved disease indications and specific NCCN panel recommendations. Each
+recommendation is supported by a level of evidence category.
+UnitedHealthcare recognizes indications and uses of oral oncology medications listed in the
+NCCN Drugs and Biologics Compendium with Categories of Evidence and Consensus of 1,
+2A, and 2B as proven and Categories of Evidence and Consensus of 3 as unproven.
+UnitedHealthcare will cover all chemotherapy agents for individuals under the age of 19 years.
+The majority of pediatric patients receive treatments on national pediatric protocols that are
+similar in concept to the NCCN patient care guidelines.
+Additional Information:
+The NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®) are a
+comprehensive set of guidelines detailing the sequential management decisions and
+interventions that currently apply to more than 97 percent of cancers affecting patients in the
+United States. In addition, separate guidelines provide recommendations for some of the key
+cancer prevention and screening topics as well as supportive care considerations, and specific
+populations. The guidelines are developed and updated by 60 individual panels, comprising
+over 1,700 clinicians and oncology researchers from the 31 NCCN member institutions.
+NCCN categories for recommendations are based on both the level of clinical evidence
+available and the degree of consensus within the NCCN Guidelines panel. Evidence of both
+efficacy and safety of interventions is considered by the panel.
+The level of evidence for each recommendation depends upon the following factors:
+• Quality of data based on trial design and how the results/observations were derived (e.g.,
+randomized controlled trials [RCTs], non-RCTs, meta-analyses or systematic reviews,
+clinical case reports, case series)
+• Quantity of data (e.g., number of trials, size of trials, clinical observations only),
+• Consistency of data (e.g., similar, or conflicting results across available studies or
+observations)
+© 2024 UnitedHealthcare Services, Inc.
+1
+NCCN Categories of Evidence and Consensus:
+Category 1: The recommendation is based on high-level evidence (i.e., high-powered
+randomized clinical trials or meta-analyses), and the panel has reached uniform NCCN
+consensus (majority panel vote of at least 85%) that the intervention is appropriate.
+Category 2A: The recommendation is based on lower-level evidence, but despite the absence
+of higher-level studies, there is uniform NCCN consensus (majority panel vote of at least 85%)
+that the intervention is appropriate.
+Category 2B: The recommendation is based on lower-level evidence, and there is NCCN
+consensus (majority panel vote of at least 50%, but less than 85%) that the intervention is
+appropriate.
+Category 3: Based on any level of evidence, regardless of the quality of evidence, there is
+major NCCN disagreement that the intervention is appropriate (a panel vote of at least 25% to
+include and designate a recommendation as Category 3 is required).
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age
+of 19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteria:
+A. Select oral chemotherapeutic agents will be approved based on one of the following
+criteria:
+1. Patient is under the age of 19 years
+-OR-
+2. The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+-OR-
+3. Patient is receiving treatment for a non-oncology indication that is recognized in the
+product labeling, a published compendium (e.g., Micromedex, Clinical Pharmacology),
+or is demonstrated as proven in the peer reviewed medical literature.
+Authorization will be issued for 12 months.
+3. Additional Clinical Rules:
+• Supply limits and/or step therapy may be in place for certain products.
+© 2024 UnitedHealthcare Services, Inc.
+2
+• Requests for initial therapy established via receipt of a manufacturer supplied sample or any
+other form of assistance shall be required to meet coverage criteria.
+4. References:
+1. The NCCN Drugs and Biologics Compendium (NCCN Compendium™).
+https://www.nccn.org/professionals/drug_compendium/content/. Accessed November 1,
+2024.
+2. The NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines™).
+http://www.nccn.org/professionals/physician_gls/f_guidelines.asp. Accessed November 1,
+2024.
+Program Prior Authorization/Notification - Oral chemotherapeutic agents
+Change Control
+11/2014 Annual review with no change to coverage.
+11/2015 Annual review with minor revision to coverage criteria. Updated
+background.
+7/2016 Program Retired.
+11/2019 Program reinstated with minor revision to coverage criteria. Updated
+background.
+11/2020 Annual review. No changes to coverage criteria.
+11/2021 Annual review. No changes to coverage criteria. Updated background
+and references.
+5/2022 Revision to additional clinical rules.
+10/2023 Annual review. No changes to coverage criteria.
+12/2024 Annual review. No changes to coverage criteria. Updated reference.
+© 2024 UnitedHealthcare Services, Inc.
+3

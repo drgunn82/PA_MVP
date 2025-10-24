@@ -1,0 +1,826 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER RX AND PER DAYS
+POLICY: Infectious Disease – Antiparasitics Drug Quantity Management Policy –
+Per Rx and Per Days
+• albendazole tablets (generic only)
+• Alinia® (nitazoxanide tablets, suspension – Romark, generic for
+tablets only)
+• Arakoda® (tafenoquine tablets – Sixty Degrees)
+• Benznidazole tablets – Exeltis
+• Coartem® (artemether/lumefantrine tablets – Novartis)
+• Emverm® (mebendazole chewable tablets – Amneal)
+• Impavido® (miltefosine capsules– Profounda)
+• Krintafel (tafenoquine tablets – GlaxoSmithKline)
+• Lampit® (nifurtimox tablets – Bayer HealthCare)
+• Malarone and Malarone Pediatric (atovaquone/proguanil tablets –
+GlaxoSmithKline, generic)
+• mefloquine tablets (generic only)
+• primaquine phosphate tablets (generic only)
+• Qualaquin® (quinine sulfate capsules – Sun, generic)
+• Stromectol® (ivermectin tablets – Merck, generic)
+• tinidazole tablets (generic only)
+REVIEW DATE: 04/23/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+Page 1 of 17 - Cigna National Formulary Coverage - Policy:Infectious Disease – Antiparasitics Drug Quantity
+Management Policy – Per Rx and Per Days
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+The antiparasitic agents are used in the treatment of various parasitic infections.
+Drug selection, dose, and duration for treatment and/or prophylaxis are dependent
+upon the parasite. Table 1 provides drug-specific indications.
+Table 1. Antiparasitic Agents Indications.1-15
+Medication Indication(s)
+Albendazole tablets • Hydatid Disease caused by Echinococcus granulosus
+• Neurocysticercosis caused by Taenia solium
+Alinia Diarrhea caused by:
+(nitazoxanide tablets [generic], • Giardia lamblia
+suspension) • Cryptosporidium parvum
+Arakoda Prophylaxis of malaria
+(tafenoquine tablets)
+Benznidazole tablets Chagas disease (American trypanosomiasis) caused by
+Trypanosoma cruzi in patients 2 to 12 years of age.
+Coartem Malaria infections caused by Plasmodium falciparum
+(artemether/lumefantrine tablets)
+Emverm Gastrointestinal infections caused by:
+(mebendazole chewable tablets) • Enterobius vermicularis (pinworm)
+• Trichuris trichiura (whipworm)
+• Ascaris lumbricoides (common roundworm)
+• Ancylostoma duodenale (common hookworm)
+• Necator americanus (American hookworm)
+Table 1 (continued). Antiparasitic Agents Indications.1-15
+Medication Indication(s)
+Impavido • Visceral leishmaniasis caused by Leishmania donovani
+(miltefosine capsules) • Cutaneous leishmaniasis caused by Leishmania braziliensis,
+Leishmania guyanensis, Leishmania panamensis
+Mucosal leishmaniasis caused by Leishmania braziliensis
+Krintafel Radical cure of Plasmodium vivax malaria.
+(tafenoquine tablets)
+Lampit Chagas disease (American Trypanosomiasis), caused by
+(nifurtimox tablets) Trypanosoma cruzi in patients < 18 years of age.
+Malarone • Prophylaxis of Plasmodium falciparum malaria.
+(atovaquone/proguanil tablets, • Treatment of acute, uncomplicated P. falciparum malaria.
+generic)
+Mefloquine tablets • Treatment of acute, mild to moderate malaria caused by
+Plasmodium falciparum and Plasmodium vivax.
+• Prophylaxis of P. falciparum or P. vivax malaria.
+Primaquine phosphate tablets Radical cure (prevention of relapse) of malaria infections caused
+by Plasmodium vivax. The CDC also recognizes primaquine as
+prophylaxis of malaria for short-duration (not defined) travel to
+areas with principally P. vivax.
+Qualaquin Treatment of uncomplicated malaria infections caused by
+(quinine sulfate capsules, generic) Plasmodium falciparum.
+Stromectol • Strongyloidiasis of the intestinal tract caused by
+(ivermectin tablets, generic) Strongyloides stercoralis
+• Onchocerciasis caused by Onchocerca volvulus
+tinidazole tablets • Trichomoniasis caused by Trichomonas vaginalis
+• Giardiasis caused by Giardia lamblia or Giardia duodenalis
+• Amebiasis caused by Entamoeba histolytica
+• Bacterial vaginosis
+17 Pages - Cigna National Formulary Coverage - Policy: Infectious Disease – Antiparasitics Drug Quantity
+Management Policy – Per Rx and Per Days
+CDC – Centers for Disease Control and Prevention.
+Dosing
+FDA-approved dosing for the antiparasitic agents is provided below. Of note, there
+may be additional settings in which these agents are recommended. However, if
+quantity limits provide a sufficient amount of drug to address these uses,
+information is not provided below.
+Albendazole tablets
+The dose of albendazole is based on the indication (Table 2).1 Tablets may be
+crushed or chewed.
+Table 2. Albendazole Dosing.1
+Indication Patient Dose Duration
+Weight
+Hydatid Disease ≥ 60 kg 400 mg BID 28-day cycle followed
+< 60 kg 15 mg/kg/day given in divided doses by a 14-day
+twice daily (maximum total daily albendazole-free
+dose 800 mg) interval, for a total of
+3 cycles
+Neurocysticercosis ≥ 60 kg 400 mg BID 8 to 30 days
+< 60 kg 15 mg/kg/day given in divided doses
+twice daily (maximum total daily
+dose 800 mg)
+In addition to its FDA-approved indications, the Centers for Disease Control (CDC)
+also recommends albendazole for the treatment of Balisascariasis, an intestinal
+parasite.16 When suspicion of Baylisascariasis is high, immediate treatment with
+albendazole (25 to 50 mg/kg/day for 10 to 20 days) may be appropriate.
+Albendazole is also recommended as an alternative treatment for Clonorchiasis at a
+dose of 10 mg/kg/day for 7 days.17
+Nitazoxanide tablets (Alinia, generic) and Alinia suspension
+Alinia oral suspension is indicated for patients ≥ 1 year of age, while nitazoxanide
+tablets are indicated for patients ≥ 12 years of age.5 For patients 1 to 3 years of
+age, the recommended dose of Alinia suspension is 5 mL (100 mg) every 12 hours
+(Q12H). For patients 4 to 11 years of age, the recommended dose of Alinia
+suspension is 10 mL (200 mg) Q12H. For patients ≥ 12 years of age the
+recommended dose is 500 mg Q12H, either as a nitazoxanide 500 mg tablet (Alinia,
+generic) or 25 mL (500 mg) of Alinia oral suspension. For all patients, the
+recommended duration of treatment is 3 days.
+In addition to its FDA-approved uses, guidelines for the prevention and treatment
+of opportunistic infections in adults and adolescents with human immunodeficiency
+virus (HIV) from the CDC, National Institutes of Health, and the HIV Medicine
+Association of the Infectious Diseases Society of America (IDSA) recommend
+nitazoxanide 500 mg to 1,000 mg BID for 14 days for the treatment of
+Cryptosporidiosis in an immunocompromised patient.18
+Arakoda tablets
+17 Pages - Cigna National Formulary Coverage - Policy: Infectious Disease – Antiparasitics Drug Quantity
+Management Policy – Per Rx and Per Days
+The recommended dosing for Arakoda is provided in Tables 3 and 4 below.
+Arakoda can be administered for up to 6 months of continuous dosing.12
+Table 3. Recommended Dosing for Arakoda.12
+Regimen Timing Dose
+Loading For each of the 3 days before 200 mg QD for 3 days.
+travel to malarious area.
+Maintenance While in malarious area. 200 mg QW started 7 days after the last
+loading dose.
+Terminal prophylaxis In the week following exit from 200 mg taken one time, 7 days after
+malarious state, the last maintenance dose.
+QD – Once daily; QW – Once weekly.
+Benznidazole tablets
+Benznidazole tablets are dosed by body weight (kg).2 The recommended dose in
+pediatric patients (2 to 12 years of age), is 5 mg/kg/day to 8 mg/kg/day
+administered in two divided doses separated by approximately 12 hours, for a
+duration of 60 days. Although not indicated in adults, the CDC recognize some
+adults require treatment for Chagas disease and the dose is 5 mg/kg/day to 7
+mg/kg/day in two divided doses for 60 days.19,20
+Table 5. Recommended Dosing of Benznidazole Tablets in Pediatric Patients 2 to 12 years of
+Age.2
+Body Weight Dose Number of 12.5 Number of 100 Duration and
+Range mg Tablets per mg Tablets Frequency of
+Dose Therapy
+< 15 kg 50 mg 4 tablets ½ tablet Administered twice
+15 kg to < 20 kg 62.5 mg 5 tablets daily approximately 12
+20 kg to < 30 kg 75 mg 6 tablets ¾ tablet hours apart for 60
+30 kg to < 40 kg 100 mg 1 tablet days.
+40 kg to < 60 kg 150 mg 1 ½ tablets
+≥ 60 kg 200 mg 2 tablets
+Coartem tablets
+For all patients, a 3-day treatment schedule with a total of six doses is
+recommended.7
+For adults (≥ 16 years of age) ≥ 35 kg the recommended dose is 4 tablets as an
+initial dose, then 4 tablets again after 8 hours, and then 4 tablets twice-daily (BID
+[morning and evening]) for the following 2 days (total course of 24 tablets).7
+For pediatric patients weighing 5 kg to < 15 kg, the recommended dose is 1 tablet
+as an initial dose, 1 tablet again after 8 hours, and then 1 tablet BID (morning and
+evening) for the following 2 days (total course of 6 tablets).7 For pediatric patients
+weighing 15 kg to < 25 kg, the recommended dose is 2 tablets as an initial dose,
+then 2 tablets again after 8 hours and then 2 tablets BID (morning and evening) for
+the following 2 days (total course of 12 tablets). For pediatric patients weighing 25
+kg to < 35 kg, the recommended dose is 3 tablets as an initial dose, then 3 tablets
+again after 8 hours and then 3 tablets BID (morning and evening) for the following
+2 days (total course of 18 tablets). For pediatric patients weighing ≥ 35 kg, the
+recommended dose is 4 tablets as a single initial dose, then 4 tablets again after 8
+17 Pages - Cigna National Formulary Coverage - Policy: Infectious Disease – Antiparasitics Drug Quantity
+Management Policy – Per Rx and Per Days
+hours, and then 4 tablets BID (morning and evening) for the following 2 days (total
+course of 24 tablets).
+For patients who are unable to swallow the tablets such as infants and children, the
+tablets may be crushed and mixed with a small amount of water (1 to 2 teaspoons)
+in a clean container for administration immediately prior to use.7 In the event of
+vomiting within 1 to 2 hours after administration, a repeat dose should be taken. If
+the repeat dose is vomited, the patient should be given an alternative antimalarial
+for treatment.
+Emverm chewable tablets
+The recommended dose for pinworm is 1 tablet one time.4 For whipworm,
+roundworm, and hookworm, the recommended dose is 1 tablet BID (morning and
+evening) for 3 consecutive days. If the patient is not cured 3 weeks after
+treatment, a second course of treatment is advised.
+In addition to its FDA-approved indications, CDC guidelines support the use of
+Emverm in the following settings:
+• For the treatment of Capillariasis at a dose of 200 mg twice daily (BID) for 20
+days.21
+• For the treatment of Trichinellosis at a dose of 200 mg to 400 mg three times
+daily (TID) for 3 days, followed by 400 mg to 500 mg TID for 10 days.22
+• For the treatment of Toxocariasis or Visceral Larva Migrans, at a dose of 100 mg
+to 200 mg BID for 5 days.23
+Impavido capsules
+For the FDA-approved indication, the recommended dose of Impavido is 1 capsule
+(50 mg) BID for patients weighing 30 kg to 44 kg.8 In patients weighing ≥ 45 kg
+the recommended dose is 1 capsule (50 mg) three times daily (TID). For all
+patients, the treatment duration is 28 days.
+Krintafel tablets
+The recommended dose is a single, 300 mg dose administered (two 150-mg tablets
+taken together).14 Tablets cannot be broken, crushed, or chewed. In the event of
+vomiting within 1 hour after dosing, a repeat dose should be given. Re-dosing
+should not be attempted more than once.
+Lampit tablets
+The dose of Lampit is weight-based (Tables 6 and 7).15 The recommended dose is
+taken TID for 60 days. The dose of Lampit is adjusted accordingly if body weight
+decreases during treatment. Tablets (30 mg and 120 mg tablets) are functionally
+scored and can be split into one-half (15 mg or 60 mg, respectively) at the scored
+lines by hand.
+17 Pages - Cigna National Formulary Coverage - Policy: Infectious Disease – Antiparasitics Drug Quantity
+Management Policy – Per Rx and Per Days
+Table 6. Total Daily Recommended Dose of Lampit Based on Body Weight.15
+Age Body Weight Group Total Daily Dose
+Birth to < 18 years of age ≥ 41 kg 8 to 10 mg/kg
+< 41 kg 10 to 20 mg/kg
+Table 7. Individual Doses Based on Body Weight in Patients < 18 years of age.15
+Body Weight Dose Number of Lampit Number of Lampit
+30 mg Tablets/Day 120 mg Tablets/Day
+2.5 kg to 4.5 kg 15 mg 1.5 tablets --
+4.6 kg to < 9 kg 30 mg 3 tablets --
+9 kg to < 13 kg 45 mg 4.5 tablets --
+13 kg to < 18 kg 60 mg 6 tablets 1.5 tablets
+18 kg to < 22 kg 75 mg 7.5 tablets --
+22 kg to < 27 kg 90 mg 9 tablets --
+27 kg to < 35 kg 120 mg 12 tablets 3 tablets
+35 kg to < 41 kg 180 mg -- 4.5 tablets
+41 kg to < 51 kg 120 mg -- 3 tablets
+51 kg to < 71 kg 180 mg -- 4.5 tablets
+71 kg to < 91 kg 240 mg -- 6 tablets
+≥ 91 kg 300 mg -- 7.5 tablets
+Atovaquone/proguanil tablets (Malarone, generic)
+For the prevention of malaria, prophylactic therapy is started 1 or 2 days before
+entering a malaria endemic area and continued daily during the stay, and for 7 days
+after the return.9 In adults, the dose is 1 tablet (250 mg/100 mg) per day. For
+pediatric patients, the dose is based on body weight (Table 8).
+Table 8. Dose for Prevention of Malaria in Pediatric Patients.9
+Body Weight Total Daily Dose Dose Regimen
+10 to 20 kg 62.5 mg/25 mg 1 pediatric tablet QD
+21 to 30 kg 125 mg/50 mg 2 pediatric tablets QD
+31 to 40 kg 187.5 mg/75 mg 3 pediatric tablets QD
+> 40 kg 250 mg/100 mg 1 adult strength tablet QD
+QD – Once daily.
+For the treatment of acute malaria, the recommended dose in adults is four tablets
+(adult strength) as a single daily dose (total daily dose 1 g atovaquone/400 mg
+proguanil hydrochloride) for 3 consecutive days.9 For pediatric patients, the dose is
+based on weight (Table 9); the duration of therapy is 3 consecutive days.
+Table 9. Dose for Treatment of Acute Malaria in Pediatric Patients.9
+Weight Total Daily Dose Dose Regimen
+5 to 8 kg 125 mg/50 mg 2 pediatric tablets QD
+9 to 10 kg 187.5 mg/75 mg 3 pediatric tablets QD
+11 to 20 kg 250 mg/100 mg 1 adult strength tablet QD
+21 to 30 kg 500 mg/200 mg 2 adult strength tablets QD
+31 to 40 kg 750 mg/300 mg 3 adult strength tablets QD
+> 40 kg 1 gram/400 mg 4 adult strength tablets QD
+QD – Once daily.
+For the prevention or treatment of malaria, in the event of vomiting within 1 hour
+after dosing, a repeat dose should be taken.9
+17 Pages - Cigna National Formulary Coverage - Policy: Infectious Disease – Antiparasitics Drug Quantity
+Management Policy – Per Rx and Per Days
+Mefloquine tablets
+For the treatment of malaria in adults, the recommended dose is 1,250 mg (5
+tablets) as a single dose.10 For the treatment of malaria in pediatric patients, the
+recommended dose is 20 to 25 mg/kg. The pediatric dose should not exceed the
+adult dose. Experience with mefloquine in pediatric patients weighing < 20 kg is
+limited. If a full-treatment course with mefloquine does not lead to improvement
+within 48 to 72 hours, mefloquine should not be used for retreatment. An
+alternative therapy should be used. Similarly, if previous prophylaxis with
+mefloquine has failed, mefloquine should not be used for curative treatment.
+In pediatric patients, if a significant loss of drug product is observed or suspected
+because of vomiting, a second full dose of mefloquine should be administered to
+patients who vomit less than 30 minutes after receiving the drug.10 If vomiting
+occurs 30 to 60 minutes after a dose, an additional half-dose should be given. If
+vomiting recurs, the patient should be monitored closely and alternative malaria
+treatment considered if improvement is not observed within a reasonable period of
+time.
+For the prophylaxis of malaria in adults, the recommended dose is 250 mg (1
+tablet) once weekly (QW).10 In pediatric patients, the recommended dose for the
+prophylaxis of malaria is 5 mg/kg QW. In pediatric patients weighing > 45 kg, the
+dose is one 250 mg tablet QW, in pediatric patients weighing 30 to 45 kg the dose
+is three-quarters of a tablet QW, and in pediatric patients weighing 20 to 30 kg, the
+dose is one-half tablet QW. Per product labeling, prophylaxis should begin 1 week
+before arrival in an endemic area. In certain cases, such as when a traveler is
+taking other medication, it may be desirable to start prophylaxis 2 to 3 weeks prior
+to departure, in order to ensure that the combination of drugs is well tolerated.
+The CDC cites prophylaxis should begin ≥ 2 weeks prior to arrival and may be
+started as early as 4 weeks prior to arrival to allow potential adverse events to
+occur before travel.24 Subsequent weekly doses should be taken regularly, always
+on the same day of each week.10 To reduce the risk of malaria after leaving an
+endemic area, prophylaxis must be continued for 4 additional weeks. When
+prophylaxis with mefloquine fails, physicians should carefully evaluate which
+antimalarial to use for therapy.
+Primaquine phosphate tablets
+The FDA-approved dose for the radical cure of malaria is 1 tablet (26.3 mg) daily
+(QD) for 14 days.11 The CDC recommends primaquine for prophylaxis for short
+duration travel (duration not defined) to areas with principally P. vivax; the
+recommended dose is 52.6 mg daily (2 tablets) in adults and 0.8 mg/kg (not to
+exceed 52.6 mg) in pediatric patients started 1 to 2 days prior to travel, daily while
+in the malaria endemic area, and daily for 7 days after return from travel.
+Quinine sulfate capsules (Qualaquin, generic)
+For treatment of uncomplicated malaria in adults, the recommended dose is 648
+mg (2 capsules) every 8 hours (Q8H) for 7 days.12 In patients with severe chronic
+renal impairment, the recommended dose is a loading dose of 648 mg (2 capsules)
+17 Pages - Cigna National Formulary Coverage - Policy: Infectious Disease – Antiparasitics Drug Quantity
+Management Policy – Per Rx and Per Days
+followed 12 hours later by maintenance doses of 324 mg (1 capsule) Q12H for 7
+days.
+Ivermectin tablets (Stromectol, generic)
+The recommended dose of Stromectol for the treatment of strongyloidiasis is a
+single oral dose designed to provide approximately 200 mcg/kg (Table 10).3 The
+CDC also cites a two-dose regimen (200 mcg/kg/day for 2 days).25
+Table 10. Dosing for Ivermectin for Strongyloidiasis.3
+Body Weight Single Oral Dose Number of 3 mg tablets
+15 to 24 kg 1 tablet
+25 to 35 kg 2 tablets
+36 to 50 kg 3 tablets
+51 to 65 kg 4 tablets
+66 to 79 kg 5 tablets
+≥ 80 kg 200 mcg/kg
+The recommended dose for the treatment of onchocerciasis is a single oral dose
+designed to provide approximately 150 mcg/kg of body weight (Table 11).3 In
+mass distribution campaigns in international treatment programs, the most
+commonly used dose interval is 12 months. For the treatment of individual
+patients, retreatment may be considered at intervals as short as 3 months.
+Table 11. Dosing for Ivermectin for Onchoceriasis.3
+Body Weight Single Oral Dose Number of 3 mg tablets
+15 to 25 kg 1 tablet
+26 to 44 kg 2 tablets
+45 to 64 kg 3 tablets
+65 to 84 kg 4 tablets
+≥ 85 kg 150 mcg/kg
+In addition to its FDA-approved indications, CDC guidelines support the use of
+ivermectin in the following settings:
+• For the treatment of Trichuriasis caused by Trichuris trichiura (whipworm), at a
+dose of 200 mcg/kg/day for 3 days.26
+• For the treatment of pediculosis, as a single dose of 200 mcg/kg or 400
+mcg/kg.27 The dose may be repeated in 9 to 10 days.
+• For classic scabies, two doses of oral ivermectin (200 mcg/kg/dose) taken 1
+week apart are recommended.28 For crusted scabies, ivermectin 200
+mcg/kg/dose should be taken in three doses (Days 1, 2, and 8), five doses
+(Days 1, 2, 8, 9, and 15), or seven doses (Days 1, 2, 8, 9, 15, 22, and 29).
+• For the treatment of hyperinfection syndrome or disseminated strongyloidiasis,
+at a dose of 200 mcg/kg/day until stool and/or sputum exams are negative for 2
+weeks.25
+Tinidazole tablets
+The recommended dose for trichomoniasis is 2 g as a single dose.6 For the
+treatment of giardiasis in adults, the dose is 2 g as a single dose; in pediatric
+patients, the dose is 50 mg/kg (up to 2 g) as a single dose. For the treatment of
+intestinal amebiasis, the recommended dose in adults is a 2 g/day for 3 days. In
+17 Pages - Cigna National Formulary Coverage - Policy: Infectious Disease – Antiparasitics Drug Quantity
+Management Policy – Per Rx and Per Days
+pediatric patients the recommended dose is 50 mg/kg/day (up to 2 g/day) for 3
+days. For the treatment of amebic liver abscess, the recommended dose in adults
+is a 2 g/day for 3 to 5 days. In pediatric patients the recommended dose is 50
+mg/kg/day (up to 2 g/day) for 3 to 5 days. There are limited pediatric data on
+durations of therapy exceeding 3 days, although a small number of children were
+treated for 5 days. For the treatment of bacterial vaginosis, the recommended
+dose in non-pregnant females is a 2 g/day for 2 days or a 1 g/day for 5 days. For
+those unable to swallow tablets, tinidazole tablets may be crushed in artificial
+cherry syrup; four 500 mg tablets can be pulverized and mixed with 10 mL of syrup
+(final volume of 30 mL).
+Availability
+Medication How Supplied
+Albendazole tablets 200 mg tablets (bottles of 2 tablets)
+Alinia 500 mg tablets (bottles of 12 or 30 tablets; generic tablets are
+(nitazoxamide tablets [generic], available in bottles of 6, 12, or 30 tablets)
+suspension) 100 mg/5 mL suspension (60 mL bottle)*
+Arakoda 100 mg tablets (1 box containing 16 tablets [8 tablets x 1 blister
+(tafenoquine tablets) card, 2 blister cards per box])
+Benznidazole tablets 12.5 mg tablets (bottles of 100 tablets)
+100 mg tablets (bottles of 100 tablets)
+Note: 100 mg tablets are functionally scored and can be split
+into one-half (50 mg) or one-quarter (25 mg) to provide doses
+< 100 mg. 12.5 mg tablets and 100 mg can also be made into
+a slurry.
+Coartem 20 mg/120 mg tablets (bottles of 24 tablets)
+(artemether/lumefantrine tablets)
+Emverm 100 mg chewable tablet (blister package of 1 tablet)
+(mebendazole chewable tablets)
+Impavido 50 mg capsules (1 carton containing 28 tablets [14 tablets x 1
+(miltefosine capsules) blister card, 2 blister cards per box])
+Krintafel 150 mg tablets (unit dose bottles of 2 tablets)
+(tafenoquine tablets)
+Lampit 30 mg tablets (bottles of 100 tablets)
+(nifurtimox tablets) 120 mg tablets (bottles of 100 tablets)
+Malarone Pediatric 62.5 mg/25 mg tablets (bottles of 100 tablets)
+(atovaquone/proguanil tablets,
+generic)
+Malarone 250 mg/100 mg tablets (bottles of 100 tablets and unit dose
+(atovaquone/proguanil tablets, pack of 24 tablets)
+generic)
+Mefloquine tablets 250 mg tablets (blister packs of 1, 10, or 25 tablets and bottles
+of 25 tablets)
+Primaquine phosphate tablets 26.3 mg tablets (equivalent to 15 mg base) [bottles of 100
+tablets]
+Qualaquin 324 mg capsules (bottles of 30 capsules)
+(quinine sulfate capsules, generic)
+Stromectol 3 mg tablets (blister card of 20 tablets)
+(ivermectin tablets, generic) 6 mg tablets (blister card of 20 tablets) [generic only]
+tinidazole tablets 250 mg and 500 mg tablets (250 mg tablets in bottles of 20
+(generic only) and 40 tablets, 500 mg tablets in bottles of 12 and 20 tablets)
+* Reconstituted suspension can be stored for 7 days at room temperature, after which any unused
+portion must be discarded.
+17 Pages - Cigna National Formulary Coverage - Policy: Infectious Disease – Antiparasitics Drug Quantity
+Management Policy – Per Rx and Per Days
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of antiparasitic medications. If the Drug Quantity
+Management rule is not met for the requested product at the point of service,
+coverage will be determined by the Criteria below. All approvals are provided for
+the duration noted below. “One-time” approvals are provided for 30 days in
+duration.
+Drug Quantity Limits
+Medication Retail Home Delivery
+Maximum Quantity Maximum Quantity
+Albendazole 200 mg tablets 120 tablets per 30 days 360 tablets per 90 days
+Alinia 12 tablets per 30 days
+(nitazoxanide 500 mg tablets, generic)
+Alinia 180 mL per 30 days
+(nitazoxanide 100 mg/5 ml suspension)
+Arakoda 32 tablets per 180 days
+(tafenoquine 100 mg tablets) (maximum 16 tablets per dispensing)
+Benznidazole 12.5 mg tablets 720 tablets per 365 days
+(maximum of 360 tablets per dispensing)
+Benznidazole 100 mg tablets 720 tablets per 365 days
+(quantity provided is sufficient for a dose of (maximum of 360 tablets per dispensing)
+8 mg/kg/day for a patient weighing ≤ 150
+kg. An override is provided for patients
+weighing > 150 kg).
+Coartem 24 tablets per 30 days 72 tablets per 90 days
+(artemether/lumefantrine 20 mg/120 mg
+tablets)
+Emverm 6 tablets per 30 days 18 tablets per 90 days
+(mebendazole 100 mg chewable tablets)
+Impavido 84 capsules per 30 days 252 capsules per 90 days
+(miltefosine 50 mg capsules)
+Krintafel 2 tablets per 30 days 6 tablets per 90 days
+(tafenoquine 150 mg tablets)
+Lampit 720 tablets per 180 days
+(nifurtimox 30 mg tablets) (maximum of 360 tablets per dispensing)
+Lampit 540 tablets per 180 days
+(nifurtimox 120 mg tablets) (maximum of 270 tablets per dispensing)
+Malarone Pediatric 180 tablets per 180 days
+(atovaquone/proguanil 62.5 mg/25 mg
+tablets, generic)
+Malarone 60 tablets per 180 days
+(atovaquone/proguanil 250 mg/100 mg
+tablets, generic)
+Mefloquine 250 mg tablets 13 tablets per 180 days
+Primaquine phosphate 26.3 mg tablets 120 tablets per 180 days
+Qualaquin 42 capsules per 30 days 126 capsules per 90 days
+(quinine sulfate 324 mg capsules, generic)
+Stromectol 14 tablets per 30 days 42 tablets per 90 days
+(ivermectin 3 mg tablets, generic)
+ivermectin 6 mg tablets (generic only) 8 tablets per 30 days 24 tablets per 90 days
+tinidazole 250 mg tablets 40 tablets per 30 days 120 tablets per 90 days
+tinidazole 500 mg tablets 20 tablets per 30 days 60 tablets per 90 days
+17 Pages - Cigna National Formulary Coverage - Policy: Infectious Disease – Antiparasitics Drug Quantity
+Management Policy – Per Rx and Per Days
+Infectious Disease – Antiparasitics Drug Quantity Management Policy – Per
+Rx and Per Days product(s) is(are) covered as medically necessary when
+the following criteria is(are) met. Any other exception is considered not
+medically necessary.
+CRITERIA
+Albendazole 200 mg tablets
+1. If the request is for the treatment of Baylisascariasis, approve a one-time
+override for a quantity sufficient to accommodate a dose of up to 50 mg/kg/day
+for up to 20 days at retail or home delivery.
+Note: Round up to the nearest whole tablet per dose when calculating the
+approved quantity. For example, if a patient weighs 70 kg, the dose would be
+3,500 mg per day, divided into two daily doses of approximately 1,700 mg each.
+A quantity of 18 tablets per day would be needed. Therefore, the total quantity
+approved would be 360 tablets.
+2. If the request is for the treatment of Clonorchiasis, approve a one-time override
+for a quantity sufficient to accommodate a dose of up to 10 mg/kg/day for 7
+days at retail or home delivery.
+Nitazoxanide 500 mg tablets (Alinia, generic)
+1. If the request is for the treatment of Cryptosporidiosis in an
+immunocompromised patient (e.g., transplant patients, patients with human
+immunodeficiency virus), approve a one-time override for the requested
+quantity, not to exceed 56 tablets at retail or home delivery.
+Alinia 100 mg/5 mL suspension
+1. If the request is for the treatment of Cryptosporidiosis in an
+immunocompromised patient (e.g., transplant patients, patients with human
+immunodeficiency virus), approve a one-time override for the requested
+quantity, not to exceed 1,400 mL of suspension at retail or home delivery.
+Arakoda 100 mg tablets “Per Rx” Limit
+No overrides recommended.
+Arakoda 100 mg tablets “Per Days” Limit
+1. If the patient needs prophylaxis for malaria for > 60 days, approve a one-time
+override of a quantity sufficient to allow up to 2 tablets daily for 3 days prior to
+travel to the malaria endemic area (6 tablets), 2 tablets weekly during the stay
+in the malaria endemic area (2 tablets/week), and 2 tablets taken one time 7
+days after return (2 tablets) at retail or home delivery.
+Benznidazole 12.5 mg tablets “Per Rx” Limit
+No overrides recommended.
+Benznidazole 12.5 mg tablets “Per Days” Limit
+1. If the patient is diagnosed with a new episode of Chagas disease (American
+trypanosomiasis) since the last 60-day treatment with benznidazole, approve a
+17 Pages - Cigna National Formulary Coverage - Policy: Infectious Disease – Antiparasitics Drug Quantity
+Management Policy – Per Rx and Per Days
+one-time override for the requested quantity, not to exceed 720 tablets at retail
+or home delivery.
+Benznidazole 100 mg “Per Rx” Limit
+No overrides recommended.
+Benznidazole 100 mg tablets “Per Days” Limit
+1. If the patient weighs > 150 kg, approve a one-time override of a quantity
+sufficient to accommodate a dose of up to 8 mg/kg/day for 60 days at retail or
+home delivery.
+Note: Round up to the nearest whole tablet per dose when calculating the
+approved quantity. For example, if a patient weighs 170 kg, the dose would be
+1,360 mg per day, divided into two daily doses of approximately 680 mg each.
+Therefore 14 tablets per day for 60 days would be needed. The total approved
+would be 840 tablets.
+2. If the patient is diagnosed with a new episode of Chagas disease (American
+trypanosomiasis) since the last 60-day treatment with benznidazole, approve a
+one-time override for the requested quantity, not to exceed 720 tablets at retail
+or home delivery.
+Coartem 20 mg/120 mg tablets
+No overrides recommended.
+Emverm 100 mg chewable tablets
+1. If the request is for the treatment of Capillariasis, approve a one-time override
+of 80 tablets at retail or home delivery.
+2. If the request is for the treatment of Trichinellosis, approve a one-time override
+for the requested quantity, not to exceed 186 tablets at retail or home delivery.
+3. If the request is for the treatment of Toxocariasis or Visceral Larva Migrans,
+approve a one-time override of 20 tablets at retail or home delivery.
+Impavido 50 mg capsules
+No overrides recommended.
+Krintafel 150 mg tablets
+1. If the request is for a repeat dose in a patient who has vomited, approve a one-
+time override for 2 additional tablets at retail or home delivery.
+Lampit 30 mg tablets “Per Rx” Limit
+No overrides recommended.
+Lampit 30 mg tablets “Per Days” Limit
+1. If the patient is diagnosed with a new episode of Chagas disease (American
+trypanosomiasis) since the last 60-day treatment with Lampit, approve a one-
+time override for the requested quantity, not to exceed 720 tablets at retail or
+home delivery.
+Lampit 120 mg tablets “Per Rx” Limit
+17 Pages - Cigna National Formulary Coverage - Policy: Infectious Disease – Antiparasitics Drug Quantity
+Management Policy – Per Rx and Per Days
+No overrides recommended.
+Lampit 120 mg tablets
+1. If the patient is diagnosed with a new episode of Chagas disease (American
+trypanosomiasis) since the last 60-day treatment with Lampit, approve a one-
+time override for the requested quantity, not to exceed 540 tablets at retail or
+home delivery.
+Atovaquone/proguanil pediatric 62.5 mg/25 mg tablets (Malarone, generic)
+1. If the patient weighs ≤ 40 kg and needs prophylaxis for malaria for > 60 days,
+approve a one-time override of a quantity sufficient to allow up to 3 tablets daily
+for 2 days before entering a malaria endemic area (6 tablets), up to 3 tablets
+daily during the stay in the malaria endemic area (3 tablets/day), and 3 tablets
+daily for 7 days after return (21 tablets) at retail or home delivery.
+2. If the request is for a repeat dose in a patient who has vomited, approve a one-
+time override of up to 3 additional tablets at retail or home delivery.
+Atovaquone/proguanil 250 mg/100 mg tablets (Malarone, generic)
+1. If the patient weighs > 40 kg and needs prophylaxis for malaria for > 60 days,
+approve a one-time override of a quantity sufficient to allow up to 1 tablet daily
+for 2 days before entering a malaria endemic area (2 tablets), 1 tablet daily
+during the stay in the malaria endemic area (1 tablet/day), and 1 tablet daily for
+7 days after return (7 tablets) at retail or home delivery.
+2. If the request is for a repeat dose in a patient who has vomited, approve a one-
+time override up to 4 additional tablets at retail or home delivery.
+Mefloquine 250 mg tablets
+1. If the patient needs prophylaxis for malaria for > 60 days, approve a one-time
+override of a quantity sufficient to allow 1 tablet weekly for 4 weeks before
+entering a malaria endemic area (4 tablets), 1 tablet weekly during the stay in
+the malaria endemic area (1 tablet/week), and 1 tablet weekly for 4 weeks after
+return (4 tablets) at retail or home delivery.
+2. If the request is for a repeat dose in a patient who has vomited, approve a one-
+time override of up to 5 additional tablets at retail or home delivery.
+Primaquine phosphate 26.3 mg tablets
+1. If the patient needs prophylaxis for malaria for > 60 days, approve a one-time
+override of a quantity sufficient to allow up to 2 tablets daily for 2 days before
+entering a malaria endemic area (4 tablets), 2 tablets daily during the stay in
+the malaria endemic area (2 tablets/day), and 2 tablets daily for 7 days after
+return (14 tablets) at retail or home delivery.
+Quinine sulfate 324 mg capsules (Qualaquin, generic)
+No overrides recommended.
+Ivermectin 3 mg tablets (Stromectol, generic)
+17 Pages - Cigna National Formulary Coverage - Policy: Infectious Disease – Antiparasitics Drug Quantity
+Management Policy – Per Rx and Per Days
+1. If the request is for the treatment of Trichuriasis caused by Trichuris trichiura
+(whipworm), approve a one-time override of a quantity sufficient to
+accommodate a dose of 200 mcg/kg/day for 3 days at retail or home delivery.
+Note: Round up to the nearest whole tablet per dose when calculating the
+approved quantity. For example, if a patient weighs 70 kg, the dose would be
+14 mg per day. Therefore 5 tablets per day for 3 days would be needed. The
+total approved would be 15 tablets.
+2. If the request is for pediculosis, approve a one-time override of a quantity
+sufficient to accommodate a dose of up to 400 mcg/kg/day (1 dose) for two
+doses at retail or home delivery.
+Note: Round up to the nearest whole tablet per dose when calculating the
+approved quantity. For example, if a patient weighs 70 kg, the dose would be
+28 mg per dose. Therefore 10 tablets per dose for 2 doses would be needed.
+The total approved would be 20 tablets.
+3. If request is for the treatment of scabies, approve a one-time override of a
+quantity sufficient to accommodate a dose of 200 mcg/kg/dose for up to 7 doses
+at retail or home delivery.
+Note: Round up to the nearest whole tablet per dose when calculating the
+approved quantity. For example, if a patient weighs 70 kg, the dose would be
+14 mg per dose. Therefore, 5 tablets per dose for 7 doses would be needed.
+The total approved would be 35 tablets.
+4. If the request is for hyperinfection syndrome or disseminated strongyloidiasis,
+approve a one-time override for a quantity sufficient to accommodate a dose of
+200 mcg/kg/day until stool and/or sputum exams are negative for 2 weeks at
+retail or home delivery.
+Note: Round up to the nearest whole tablet per dose when calculating the
+approved quantity. For example, if a patient weighs 70 kg, the dose would be
+14 mg per day. Therefore, 5 tablets per day would be needed.
+5. If the patient weighs > 100 kg, approve a one-time override of a quantity
+sufficient to accommodate a dose of 200 mcg/kg/day for 2 days at retail or
+home delivery.
+Note: Round up to the nearest whole tablet per dose when calculating the
+approved quantity. For example, if a patient weighs 120 kg, the dose would be
+24 mg per dose. Therefore, 8 tablets per day for 2 days would be needed. The
+total approved would be 16 tablets.
+Ivermectin 6 mg tablets (generic only)
+1. If the request is for the treatment of Trichuriasis caused by Trichuris trichiura
+(whipworm), approve a one-time override of a quantity sufficient to
+accommodate a dose of 200 mcg/kg/day for 3 days at retail or home delivery.
+Note: Round up to the nearest whole tablet per dose when calculating the
+approved quantity. For example, if a patient weighs 80 kg, the dose would be
+16 mg per day, rounded up to 18 mg per day. Therefore 3 tablets per day for 3
+days would be needed. The total approved would be 9 tablets.
+2. If the request is for pediculosis, approve a one-time override of a quantity
+sufficient to accommodate a dose of up to 400 mcg/kg/day (1 dose) for two
+doses at retail or home delivery.
+17 Pages - Cigna National Formulary Coverage - Policy: Infectious Disease – Antiparasitics Drug Quantity
+Management Policy – Per Rx and Per Days
+Note: Round up to the nearest whole tablet per dose when calculating the
+approved quantity. For example, if a patient weighs 70 kg, the dose would be
+28 mg per dose, rounded up to 30 mg. Therefore 5 tablets per dose for 2 doses
+would be needed. The total approved would be 10 tablets.
+3. If request is for the treatment of scabies, approve a one-time override of a
+quantity sufficient to accommodate a dose of 200 mcg/kg/dose for up to 7 doses
+at retail or home delivery.
+Note: Round up to the nearest whole tablet per dose when calculating the
+approved quantity. For example, if a patient weighs 90 kg, the dose would be
+18 mg per dose. Therefore, 3 tablets per dose for 7 doses would be needed.
+The total approved would be 21 tablets.
+4. If the request is for hyperinfection syndrome or disseminated strongyloidiasis,
+approve a one-time override for a quantity sufficient to accommodate a dose of
+200 mcg/kg/day until stool and/or sputum exams are negative for 2 weeks at
+retail or home delivery.
+Note: Round up to the nearest whole tablet per dose when calculating the
+approved quantity. For example, if a patient weighs 90 kg, the dose would be
+18 mg per day. Therefore, 3 tablets per day would be needed.
+5. If the patient weighs > 120 kg, approve a one-time override of a quantity
+sufficient to accommodate a dose of 200 mcg/kg/day for 2 days at retail or
+home delivery.
+Note: Round up to the nearest whole tablet per dose when calculating the
+approved quantity. For example, if a patient weighs 150 kg, the dose would be
+30 mg per dose. Therefore, 5 tablets per day for 2 days would be needed. The
+total approved would be 10 tablets.
+Tinidazole 250 mg and 500 mg tablets
+No overrides recommended.
+REFERENCES
+1. Albendazole tablets [prescribing information]. North Wales, PA: Teva; July 2019.
+2. Benznidazole tablets [prescribing information]. Florham Park, NJ: Exeltis; March 2025.
+3. Stromectol® tablets [prescribing information]. Whitehouse Station, NJ: Merck; November 2024.
+4. Emverm® chewable tablets [prescribing information]. Bridgewater, NJ: Amneal; August 2021.
+5. Alinia® tablets and suspension [prescribing information]. Tampa, FL: Romark; March 2024.
+6. Tindamax tablets [prescribing information]. San Antonio, TX: Mission; December 2021.
+7. Coartem® tablets [prescribing information]. East Hanover, NJ; Novartis; November 2024.
+8. Impavido® capsules [prescribing information]. Orlando, FL: Profounda; March 2025.
+9. Malarone and Malarone Pediatric tablets [prescribing information]. Research Triangle Park, NC:
+GlaxoSmithKline; November 2023.
+10. Mefloquine tablets [prescribing information]. North Wales, PA: Teva; February 2023.
+11. Primaquine phosphate tablets [prescribing information]. Short Hills, NJ: Bayshore; January 2024.
+12. Qualaquin® capsules [prescribing information]. Cranbury, NJ: Sun; June 2019.
+13. Arakoda™ tablets [prescribing information]. Washington, DC: Sixty Degrees; January 2025.
+14. Krintafel® tablets [prescribing information]. Research Triangle Park, NC: GlaxoSmithKline;
+August 2023.
+15. Lampit tablets [prescribing information]. Whippany, NJ: Bayer HealthCare; December 2024.
+16. Centers for Disease Control and Prevention. Clinical Treatment of Racoon Roundworm:
+Balisascaris infection. Last reviewed: November 5, 2024. Available at:
+https://www.cdc.gov/baylisascaris/hcp/clinical-care/index.html. Accessed on April 15, 2025.
+17 Pages - Cigna National Formulary Coverage - Policy: Infectious Disease – Antiparasitics Drug Quantity
+Management Policy – Per Rx and Per Days
+17. Centers for Disease Control and Prevention. Clinical Overview of Clonorchis. . Last reviewed:
+February 12, 2024. Available at: https://www.cdc.gov/liver-flukes/hcp/clinical-overview-
+clonorchis/?CDC_AAref_Val=https://www.cdc.gov/parasites/clonorchis/health_professionals/index.
+html. Accessed on April 15, 2025.
+18. Panel on Opportunistic Infections in Adults and Adolescents with HIV. Guidelines for the
+prevention and treatment of opportunistic infections in adults and adolescents with HIV:
+Recommendations from the Centers for Disease Control and Prevention, the National Institutes of
+Health, and the HIV Medicine Association of the Infectious Diseases Society of America. Last
+reviewed: January 10, 2024. Available at: https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-
+guidelines-adult-and-adolescent-opportunistic-infections/whats-new. Accessed April 15, 2025.
+19. Bern C, Montgomery SP, and Herwaldt BL. Evaluation and treatment of Chagas disease in the
+United States. Sytematic review. JAMA. 2007;298(18):2171-2181.
+20. Centers for Disease Control and Prevention. Clinical Care of Chagas Disease.. Last updated
+February 2, 2024. Available at: https://www.cdc.gov/chagas/hcp/clinical-care/index.html.
+Accessed on April 15, 2025.
+21. Centers for Disease Control and Prevention. Clinical Care of Capillariasis. Last updated February
+16, 2024. Available at: https://www.cdc.gov/capillaria/hcp/clinical-care/. Accessed on April 15,
+2025.
+22. Centers for Disease Control and Prevention. Clinical Care of Trichinellosis. Last updated March
+12, 2024. Available at: https://www.cdc.gov/trichinellosis/hcp/clinical-care/index.html.
+Accessed on April 15, 2025.
+23. Centers for Disease Control and Prevention. Clinical Care of Toxocariasis. Last updated April 15,
+2025. Available at: https://www.cdc.gov/toxocariasis/hcp/clinical-care/index.html. Accessed on
+April 15, 2025.
+24. Centers for Disease Control and Prevention. Traveler’s health. Travel-related infectious diseases.
+Malaria. Last reviewed January 30th, 2025. Available at:
+https://wwwnc.cdc.gov/travel/yellowbook/2020/travel-related-infectious-diseases/malaria#1939.
+Accessed on April 15, 2025.
+25. Centers for Disease Control and Prevention. Clinical Care of Strongyloides. Last updated February
+16, 2024. Available at: https://www.cdc.gov/strongyloides/hcp/clinical-care/index.html.
+Accessed on April 15, 2025.
+26. Centers for Disease Control and Prevention. Clinical Care of Soil-transmitted Helminths. Last
+updated June 3, 2024. Available at: https://www.cdc.gov/sth/hcp/clinical-care/index.html.
+Accessed on April 16, 2025.
+27. Centers for Disease Control and Prevention. Clinical Care of Head Lice. Last updated January 31,
+2025. Available at: https://www.cdc.gov/lice/hcp/clinical-care/index.html. Accessed on April 16,
+2025.
+28. Centers for Disease Control and Prevention. Clinical Care of Scabies. Last updated December 18,
+2023. Available at: https://www.cdc.gov/parasites/scabies/health_professionals/meds.html.
+Accessed on April 16, 2025.
+HISTORY
+Type of Summary of Changes Review
+Revisio Date
+n
+Annual Policy was updated to reflect the existing quantity limits when a product is 05/31/2023
+Revision obtained via home delivery.
+Albedazole 200 mg tablets (Albenza, generic): Brand Albenza
+removed from policy (obsolete for > 3 years). Generics remain in policy.
+Alinia 100 mg/5 mL suspension): Quantity limits changed to 180 mL
+per 30 days at retail or home delivery. Previously, quantity limits were
+360 mL per 30 days at retail or 1,080 mL per 90 days at home delivery.
+Annual Throughout override criteria, notes in reference to recommended dosing 06/05/2024
+Revision were removed and the information moved to the Overview section of the
+policy. Throughout override criteria, notes were added to provide
+examples of how to calculate tablet/capsule amounts for drugs with
+weight-based dosing.
+17 Pages - Cigna National Formulary Coverage - Policy: Infectious Disease – Antiparasitics Drug Quantity
+Management Policy – Per Rx and Per Days
+Mefloquine 250 mg tablets: Override criteria were updated to provide
+a quantity sufficient to allow 1 tablet weekly for 4 weeks before entering a
+malaria endemic area (4 tablets), 1 tablet weekly during the stay in the
+malaria endemic area (1 tablet/week), and 1 tablet weekly for 4 weeks
+after return (4 tablets) at retail or home delivery. Previously, criteria
+approved a quantity sufficient to allow 1 tablet weekly for 3 weeks, 1
+tablet weekly during the stay in the malaria endemic area (1 tablet/week),
+and 1 tablet weekly for 4 weeks after return (4 tablets) at retail or home
+delivery.
+Annual The title of the policy was updated to “Infectious Disease - Antiparasitics 04/23/2025
+Revision Drug Quantity Management Policy – Per Rx and Per Days”. Previously, the
+policy name was “Infectious Disease - Antiparasitics Drug Quantity
+Management Policy – Per Days”.
+The Policy Statement was clarified to state that “one-time” approvals
+are provided for 30 days in duration.
+Arakoda 100 mg tablets: Override criteria were clarified to note they
+apply to the “Per Days” limit. There are no overrides to the “Per Rx” limit.
+Benznidazole 12.5 mg and 100 mg tablets: Override criteria were
+clarified to note they apply to the “Per Days” limit. There are no overrides
+to the “Per Rx” limit. “Per Days” override criteria were clarified to approve
+for the requested quantity, not to exceed 720 tablets at retail or home
+delivery. Previously, criteria approved up to 720 tablets as a 60-day
+supply at retail or home delivery.
+Lampit 120 mg tablets: Override criteria were clarified to note they
+apply to the “Per Days” limit. There are no overrides to the “Per Rx” limit.
+“Per Days” override criteria were clarified to approve for the requested
+quantity, not to exceed 540 tablets at retail or home delivery. Previously,
+criteria approved the requested quantity, not to exceed 540 tablets as a
+60-day supply at retail or home delivery.
+Atovaquone/proguanil pediatric 62.5 mg/25 mg tablets
+(Malarone, generic) and atovaquone/proguanil 250 mg/100 mg
+tablets (Malarone, generic): Override criteria for a repeat dose in a
+patient who has vomited were clarified to approve up to 3 additional
+tablets. Previously, these criteria approved up to 3 tablets.
+Mefloquine 250 mg tablets: Override criteria for a repeat dose in a
+patient who has vomited were clarified to approve up to 5 additional
+tablets. Previously, these criteria approved up to 5 tablets.
+Ivermectin 6 mg tablets (generic only): New quantity limits of 8
+tablets per 30 days at retail and 24 tablets per 90 days at home delivery
+were added. The following override criteria were added:
+• A one-time override for a quantity sufficient to accommodate a dose of
+200 mc/kg/day for 3 days at retail or home delivery, if the request is for
+the treatment of Trichuriasis caused by Trichuris trichiura (whipworm).
+• A one-time override for a quantity sufficient to accommodate a dose of
+up to 400 mcg/kg/day (1 dose) for two doses at retail or home delivery,
+if the requested is for pediculosis.
+• A one-time override for a quantity sufficient to accommodate a dose of
+200 mcg/kg/dose for up to 7 doses at retail or home delivery, if the
+request is for the treatment of scabies.
+• A one-time override for a quantity sufficient to accommodate a dose of
+200 mcg/kg/day until stool and/or sputum exams are negative for 2
+weeks at retail or home delivery, if the request is for hyperinfection
+syndrome or disseminated strongyloidiasis.
+• A one-time override for a quantity sufficient to accommodate a dose of
+200 mcg/kg/day for 2 days at retail or home delivery, if the patient
+weighs > 120 kg.
+17 Pages - Cigna National Formulary Coverage - Policy: Infectious Disease – Antiparasitics Drug Quantity
+Management Policy – Per Rx and Per Days
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+17 Pages - Cigna National Formulary Coverage - Policy: Infectious Disease – Antiparasitics Drug Quantity
+Management Policy – Per Rx and Per Days

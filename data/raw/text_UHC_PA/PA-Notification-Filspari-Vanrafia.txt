@@ -1,0 +1,57 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Program
+Program Number 2025 P 1479-1
+Program Prior Authorization/Notification
+Medication Filspari™ (sparsentan), Vanrafia™ (atrasentan)
+P&T Approval Date 6/2025
+Effective Date 9/1/2025
+1. Background:
+Filspari (sparsentan) is indicated to slow kidney function decline in adults with primary
+immunoglobulin A nephropathy (IgAN) who are at risk for disease progression. Vanrafia (atrasentan)
+is indicated to reduce proteinuria in adults with primary immunoglobulin A nephropathy (IgAN) at
+risk of rapid disease progression, generally a urine protein-to-creatinine ratio (UPCR) ≥ 1.5 g/g.
+Vanrafia is approved under accelerated approval based on a reduction of proteinuria. It has not been
+established whether Vanrafia slows kidney function decline in patients with IgAN. Continued
+approval for this indication may be contingent upon verification and description of clinical benefit in
+a confirmatory clinical trial.
+2. Coverage Criteriaa:
+I. Initial Authorization
+A. Filspari will be approved based upon all of the following criteria:
+1. Diagnosis of primary immunoglobulin A nephropathy (IgAN)
+-AND-
+2. Patient is at risk of disease progression
+-AND-
+3. Used to slow kidney function decline
+Authorization will be issued for 12 months
+B. Vanrafia will be approved based upon all of the following criteria:
+1. Diagnosis of primary immunoglobulin A nephropathy (IgAN)
+-AND-
+2. Patient is at risk of disease progression
+-AND-
+3. Used to reduce proteinuria
+© 2025 UnitedHealthcare Services, Inc.
+1
+Authorization will be issued for 12 months
+II. Reauthorization
+1. Filspari or Vanrafia will be approved based on the following criterion:
+a. Documentation of positive clinical response
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Medical Necessity and Supply limits may be in place.
+4. References:
+1. Filspari [package insert]. San Diego, CA: Traverse Therapeutics, Inc; April 2025.
+2. Vanrafia [package insert]. East Hanover, NJ: Novartis Pharmaceuticals Corporation; April
+2025.
+3. KDIGO 2021 Glomerular Diseases Guideline. October 2021; 100 (4S).
+Program Prior Authorization/Notification – Filspari, Vanrafia
+Change Control
+6/2025 New program
+© 2025 UnitedHealthcare Services, Inc.
+2

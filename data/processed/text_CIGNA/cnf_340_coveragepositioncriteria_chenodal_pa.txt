@@ -1,0 +1,141 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Chenodiol Products Prior Authorization Policy
+• Chenodal™ (chenodiol tablets − Travere)
+• Ctexli™ (chenodiol tablets – Mirum)
+REVIEW DATE: 03/19/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Chenodiol products are naturally occurring bile acids. Chenodal is indicated for
+patients with radiolucent stones in well-opacifying gallbladders, in whom selective
+surgery would be undertaken except for the presence of increased surgical risk due
+to systemic disease or age.1 Ctexli is indicated for the treatment of
+cerebrotendinous xanthomatosis in adults.2
+Disease Overview
+Gallstones
+The most widely used treatment for symptomatic gallstones is cholecystectomy.3
+Two naturally occurring bile acids are used in the treatment of gallstones:
+ursodeoxycholic acid (UrsoForte®, Urso-250®, [ursodiol tablets, generic], Actigall®
+[ursodiol capsules, generic]) and chenodeoxycholic acid/chenodiol (Chenodal).4
+These agents reduce biliary cholesterol; however, their exact mechanisms differ.
+Both Chenodal and ursodiol promote the gradual dissolution of radiolucent
+gallstones over a period of 6 months to 2 years.3
+Cerebrotendinous xanthomatosis (CTX)
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Chenodiol Products Prior Authorization Policy
+CTX is a lipid storage and bile acid synthesis disorder with various clinical
+manifestations including juvenile cataracts, tendon xanthomas, premature
+atherosclerosis, and progressive neurologic disturbance (e.g., ataxia, seizures,
+psychiatric disorders, and peripheral neuropathy).5 Other conditions associated
+with CTX include osteoarthritis, skeletal fractures, pulmonary insufficiency, renal
+and hepatic calculi, and childhood chronic diarrhea. CTX is caused by pathogenic
+variants in the cytochrome P450 (CYP)27A1 gene.7 This gene encodes for sterol
+27-hydroxylase, an enzyme responsible for the conversion of cholesterol to cholic
+acid and chenodeoxycholic acid (primary bile acids). Mutations in this gene lead to
+27-hydroxylase deficiency and a subsequent reduction in primary bile acid
+synthesis. In CTX, reduced synthesis of cholic and chenodeoxycholic acids results
+in failed feedback inhibition of cholesterol production, in turn leading to hallmark
+laboratory findings of the disorder: increased serum cholestanol, a cholesterol
+metabolite, and elevated urinary bile alcohols, like 23S-pentol.6 Replacement
+therapy with chenodiol inhibits abnormal bile acid synthesis and is most effective in
+reducing elevated plasma cholestanol concentrations and eliminating bile alcohols.5
+As such, a CTX expert treatment panel concluded that treatment with chenodiol is
+necessary to improve/stabilize prognosis in the majority of patients, regardless of
+age or the presence of symptoms.7 Alongside the clinical manifestations,
+biochemical and molecular genetic tests are typically used to diagnose CTX.
+Diagnostic biochemical tests include detection of elevated serum cholestanol levels
+while genetic tests include identification of pathogenic variants in the CYP27A1
+gene.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of chenodiol
+products. All approvals are provided for the duration noted below. Because of the
+specialized skills required for evaluation and diagnosis of patients treated with
+chenodiol products as well as the monitoring required for adverse events and long-
+term efficacy, approval requires chenodiol products to be prescribed by or in
+consultation with a physician who specializes in the condition being treated.
+I. Chenodal™ (chenodiol tablets - Travere)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Gallstones. Approve for 1 year if the patient meets ONE of the following (A or
+B):
+A) Patient has tried an ursodiol product; OR
+B) Patient is currently receiving an ursodiol product.
+4 Pages - Cigna National Formulary Coverage - Policy: Chenodiol Products Prior Authorization Policy
+II. Ctexli™ (chenodiol tablets – Mirum)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Cerebrotendinous Xanthomatosis. Approve for 1 year if the patient meets
+BOTH of the following (A and B):
+A) The diagnosis is established by ONE of the following (i or ii):
+i. Patient has a molecular genetic test demonstrating a pathogenic variant
+in the cytochrome P450 27A1 (CYP27A1) gene; OR
+ii. Patient has a laboratory test demonstrating elevated serum cholestanol
+levels; AND
+B) The medication is prescribed by or in consultation with a geneticist,
+neurologist, ophthalmologist, metabolic specialist who treats patients with
+cerebrotendinous xanthomatosis or a specialist who focuses in the treatment
+of cerebrotendinous xanthomatosis.
+CONDITIONS NOT COVERED
+• Chenodal™ (chenodiol tablets - Travere)
+• Ctexli™ (chenodiol tablets – Mirum)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria
+will be updated as new published data are available):
+1. Combination Therapy with Cholbam (cholic acid capsules). There are no
+efficacy data available to support concomitant use.
+REFERENCES
+1. Chenodal™ tablets [prescribing information]. San Diego, CA: Travere; May 2021.
+2. Ctexli™ tablets [prescribing information]. Foster City, CA: Mirum; February 2025.
+3. Gaby AR. Nutritional approaches to prevention and treatment of gallstones. Altern Med Rev.
+2009;14(3):258-267.
+4. Abraham S, Rivero HG, Erlikh IV, Griffith LF, and Hondamudi VK. Surgical and nonsurgical
+management of gallstones. Am Fam Physician. 2014;89(10):795-802.
+5. Moghadasian MH, Salen G, Frohlich JJ, et al. Cerebrotendinous xanthomatosis. Arch Neurol.
+2002;59:527-529.
+6. Lorincz MT, Rainier S, Thomas D and Fink JK. Cerebrotendinous xanthomatosis: possible higher
+prevalence than previously recognized. Arch Neurol. 2005;62:1459-1463.
+7. Stelten B, Dotti M., Verrips A, et al. Expert opinion on diagnosing, treating and managing patients
+with cerebrotendinous xanthomatosis (CTX): a modified Delphi study. Orphanet J Rare Dis 16, 353
+(2021). Available at: https://doi.org/10.1186/s13023-021-01980-5. Accessed on: March 12,
+2025.
+4 Pages - Cigna National Formulary Coverage - Policy: Chenodiol Products Prior Authorization Policy
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 08/23/2023
+Revision
+Annual No criteria changes. 08/28/2024
+Revision
+Early Annual The policy name was changed from “Chenodal” to “Chenodiol 03/19/2025
+Revision Products,” with the addition of Ctexli tablets to the policy. Also,
+divided criteria based on specific agent intended for approval.
+Chenodal: Removed condition of approval for cerebrotendinous
+xanthomatosis (CTX) from other uses with supportive evidence.
+Ctexli: Added new condition of approval for CTX.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2025 The Cigna
+Group.
+4 Pages - Cigna National Formulary Coverage - Policy: Chenodiol Products Prior Authorization Policy

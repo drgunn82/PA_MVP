@@ -1,0 +1,119 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2169-8
+Program Prior Authorization/Medical Necessity
+Medication Vyndaqel® (tafamidis meglumine) and Vyndamax™ (tafamidis)
+P&T Approval Date 6/2019, 2/2020, 2/2021, 2/2022, 2/2023, 9/2023, 9/2024, 1/2025
+Effective Date 4/1/2025
+1. Background:
+Vyndaqel (tafamidis meglumine) and Vyndamax™ (tafamidis) are transthyretin stabilizers
+indicated for the treatment of the cardiomyopathy of wild type or hereditary transthyretin-
+mediated amyloidosis in adults to reduce cardiovascular mortality and cardiovascular-related
+hospitalization.
+2. Coverage Criteriaa:
+A. Transthyretin (ATTR)-mediated amyloidosis with cardiomyopathy (ATTR-CM)
+1. Initial Authorization
+a. Vyndaqel/Vyndamax will be approved based on all of the following criteria:
+(1) Diagnosis of transthyretin (ATTR)-mediated amyloidosis with cardiomyopathy
+(ATTR-CM)
+-AND-
+(2) One of the following:
+(a) Documentation that the patient has a pathogenic TTR mutation (e.g., V30M)
+-OR-
+(b) Cardiac or noncardiac tissue biopsy demonstrating histologic confirmation of
+ATTR amyloid deposits
+-OR-
+(c) All of the following:
+i. Echocardiagram or cardiac magnetic resonance imaging suggestive of
+amyloidosis
+-AND-
+ii. Radionuclide imaging (99mTc-DPD, 99mTc-PYP, or 99m Tc-HMDP) showing
+grade 2 or 3 cardiac uptake*
+© 2025 UnitedHealthcare Services, Inc.
+1
+-AND-
+iii. Absence of light chain amyloidosis
+-AND-
+(3) Patient has New York Heart Association (NYHA) Functional Class I, II, or III heart
+failure
+-AND-
+(4) Physician attests that the patient has an N-terminal pro-B-type naturetic peptide (NT-
+proBNP) level that, when combined with signs and symptoms, is considered
+definitive for a diagnosis of ATTR-CM
+-AND-
+(5) One of the following:
+(a) History of heart failure, with at least one prior hospitalization for heart failure
+-OR-
+(b) Presence of clinical signs and symptoms of heart failure (e.g., dyspnea, edema)
+-AND-
+(6) Prescribed by or in consultation with a cardiologist
+-AND-
+(7) Patient is not receiving Vyndaqel/Vyndamax in combination with an RNA-targeted
+therapy for ATTR amyloidosis [i.e., Amvuttra (vutrisiran), Attruby (acoramadis),
+Onpattro (patisiran), Tegsedi (inotersen), or Wainua (eplontersen)]
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Vyndaqel/Vyndamax will be approved based on all of the following criteria:
+(1) Documentation that the patient has experienced a positive clinical response to
+Vyndaqel/Vyndamax (e.g., improved symptoms, quality of life, slowing of disease
+progression, decreased hospitalizations, etc.)
+-AND-
+(2) Documentation that patient continues to have New York Heart Association (NYHA)
+Functional Class I, II, or III heart failure
+© 2025 UnitedHealthcare Services, Inc.
+2
+-AND-
+(3) Prescribed by or in consultation with a cardiologist
+-AND-
+(4) Patient is not receiving Vyndaqel/Vyndamax in combination with an RNA-targeted
+therapy for ATTR amyloidosis [i.e., Amvuttra (vutrisiran), Attruby (acoramadis),
+Onpattro (patisiran), Tegsedi (inotersen), or Wainua (eplontersen)]
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+*May require prior authorization and notification
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Vyndaqel and Vyndamax [package insert]. Pfizer, Inc: New York, NY; October 2023.
+2. Mauer MS, Schwartz JH, Gundapeneni B, et al. Tafamidis treatment for patients with
+transthyretin amyloid cardiomyopathy. N Engl J Med. 2018; 379:1007-16.
+3. Gillmore JD, Maurer MS, Falk RH, et al. Nonbiopsy diagnosis of cardiac transthyretin
+amyloidosis. Circulation. 2016; 133:2404-12.
+4. Mckenna WJ. Treatment of amyloid cardiomyopathy. UpToDate. Waltham, MA: UpToDate Inc.
+https://www.uptodate.com (Accessed on December 2, 2024.)
+5. Mckenna WJ. Clinical manifestations and diagnosis of amyloid cardiomyopathy. UpToDate.
+Waltham, MA: UpToDate Inc. https://www.uptodate.com (Accessed on December 2, 2024.)
+6. Kittleson MM, Maurer MS, et al. American Heart Association Heart Failure and Transplantation
+Committee of the Council on Clinical Cardiology. Cardiac Amyloidosis: Evolving Diagnosis and
+Management: A Scientific Statement From the American Heart Association. Circulation. 2020 Jul
+7;142(1):e7-e22. doi: 10.1161/CIR.0000000000000792. Epub 2020 Jun 1. Erratum in:
+Circulation. 2021 Jul 6;144(1):e10. Erratum in: Circulation. 2021 Jul 6;144(1):e11. PMID:
+32476490.
+Kittleson MM, Ruberg FL, et al. 2023 ACC Expert Consensus Decision Pathway on
+Comprehensive Multidisciplinary Care for the Patient With Cardiac Amyloidosis: A Report of the
+American College of Cardiology Solution Set Oversight Committee. J Am Coll Cardiol. 2023
+Mar 21;81(11):1076-1126.
+© 2025 UnitedHealthcare Services, Inc.
+3
+Program Prior Authorization/Medical Necessity - Vyndaqel® (tafamidis meglumine)
+and Vyndamax™ (tafamidis)
+Change Control
+6/2019 New program.
+2/2020 Updated program to address potential combination amyloidosis treatment.
+2/2021 Annual review with no change to coverage criteria. Updated references.
+2/2022 Annual review with no change to clinical criteria. Updated references.
+2/2023 Annual review with no change to coverage criteria.
+9/2023 Added reference to support requirement that Vyndamax/Vyndaqel are not
+used in combination with another agent for cardiac amyloidosis.
+9/2024 Annual review. Renamed and added examples of RNA-targeted therapies
+for ATTR amyloidosis.Updated and added references.
+1/2025 Annual review. Updated clinical criteria for diagnosis of ATTR cardiac
+amyloidosis. Removed criteria allowing for temporary combination
+therapy. Added examples of RNA-targeted therapy. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+4

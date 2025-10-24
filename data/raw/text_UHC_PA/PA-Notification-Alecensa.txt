@@ -1,0 +1,178 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1182-11
+Program Prior Authorization/Notification
+Medication Alecensa® (alectinib)
+P&T Approval Date 5/2016, 3/2017, 8/2017, 8/2018, 9/2019, 9/2020, 8/2021, 8/2022, 8/2023,
+6/2024, 6/2025
+Effective Date 9/1/2025
+1. Background:
+Alecensa (alectinib) is a kinase inhibitor indicated for the treatment of adult patients with
+anaplastic lymphoma kinase (ALK)-positive, metastatic non-small cell lung cancer (NSCLC) as
+detected by an FDA-approved test and for adjuvant treatment in adult patients following tumor
+resection of ALK-positive NSCLC (tumors ≥ 4 cm or node positive) as detected by an FDA-
+approved test. The NCCN also recommends Alecensa for ALK-fusion
+targeted relapsed/refractory, symptomatic Erdheim-Chester Disease, as second-line or initial
+palliative intent therapy and subsequent therapy for relapsed/refractory ALK+ anaplastic large
+cell lymphoma (ALCL), relapsed or refractory ALK-positive large B-Cell lymphoma, ALK-
+positive metastatic brain cancer from NSCLC, ALK-rearrangement positive pediatric diffuse
+high-grade glioma, and inflammatory myofibroblastic tumors with ALK translocation.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Alecensa will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Non-Small Cell Lung Cancer (NSCLC)
+1. Initial Authorization
+a. Alecensa will be approved based on all of the following criteria:
+(1) Diagnosis of non-small cell lung cancer (NSCLC)
+© 2025 UnitedHealthcare Services, Inc.
+1
+-AND-
+(2) Disease is anaplastic lymphoma kinase (ALK)-positive
+-AND-
+(3) One of the following:
+(a) Disease is one of the following:
+i. Recurrent
+ii. Advanced
+iii. Metastatic
+-OR-
+(b) Used as adjuvant treatment following tumor resection
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Alecensa will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Alecensa therapy
+Authorization will be issued for 12 months.
+C. Histiocytic Neoplasms
+1. Initial Authorization
+a. Alecensa will be approved based on all the following criteria:
+(1) Diagnosis of symptomatic Erdheim-Chester Disease
+-AND-
+(2) Used as targeted therapy ALK-fusion
+-AND-
+(4) Disease is one of the following:
+(a) Relapsed
+(b) Refractory
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services, Inc.
+2
+2. Reauthorization
+a. Alecensa will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Alecensa therapy.
+Authorization will be issued for 12 months.
+D. T-Cell Lymphomas
+1. Initial Authorization
+a. Alecensa will be approved based on all the following criteria:
+(1) Diagnosis of anaplastic large cell lymphoma (ALCL)
+-AND-
+(2) Used as initial palliative intent therapy or second-line and subsequent therapy
+-AND-
+(3) Disease is one of the following:
+(a) Relapsed
+(b) Refractory
+-AND-
+(4) Anaplastic lymphoma kinase (ALK)-positive
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Alecensa will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Alecensa therapy.
+Authorization will be issued for 12 months.
+E. B-Cell Lymphomas
+1. Initial Authorization
+a. Alecensa will be approved based on all the following criteria:
+(1) Diagnosis of large B-Cell lymphoma
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+3
+(2) Disease is one of the following:
+(a) Relapsed
+(b) Refractory
+-AND-
+(3) Anaplastic lymphoma kinase (ALK)-positive
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Alecensa will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Alecensa therapy.
+Authorization will be issued for 12 months.
+F. Central Nervous System (CNS) Cancers / Pediatric Central Nervous System Cancers -
+Pediatric Diffuse
+1. Initial Authorization
+a. Alecensa will be approved based on both of the following criteria:
+(1) One of the following:
+(a) Diagnosis of metastatic brain cancer from NSCLC
+(b) Diagnosis of pediatric diffuse high-grade glioma
+-AND-
+(2) Tumor is anaplastic lymphoma kinase (ALK)-positive
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Alecensa will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Alecensa therapy
+Authorization will be issued for 12 months.
+G. Soft Tissue Sarcoma/Uterine Neoplasms
+1. Initial Authorization
+a. Alecensa will be approved based on both the following criteria:
+© 2025 UnitedHealthcare Services, Inc.
+4
+(1) Diagnosis of inflammatory myofibroblastic tumor (IMT)
+-AND-
+(2) Presence of ALK translocation
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Alecensa will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Alecensa therapy
+Authorization will be issued for 12 months.
+H. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category
+of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Alecensa [package insert]. South San Francisco, CA: Genentech USA, Inc.; April 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org/professionals/drug_compendium/content/ . Accessed May 9, 2025.
+© 2025 UnitedHealthcare Services, Inc.
+5
+Program Prior Authorization/Notification - Alecensa (alectinib)
+Change Control
+5/2016 New criteria.
+3/2017 Annual review, changed member to patient, with no change to criteria.
+Updated references.
+8/2017 Updated background and criteria to include NCCN recommendation of
+first line use in ALK-positive metastatic or recurrent NSCLC. Updated
+criteria formatting to align with other ALK NSCLC agents.
+8/2018 Updated background to include updated labeled indication for initial
+therapy in metastatic ALK-positive NSCLC. Updated references.
+9/2019 Annual review with no changes to clinical coverage criteria. Updated
+reference. Added general NCCN recommended review criteria.
+9/2020 Annual review with no changes to clinical coverage criteria. Updated
+reference.
+8/2021 Annual review. Added advanced disease to criteria. Updated
+references.
+8/2022 Annual review. Updated background and references. Added criteria
+per NCCN recommendations for histiocytic neoplasms and t-cell
+lymphomas. Added state mandate footnote.
+8/2023 Annual review. Updated histiocytic neoplasm and T-Cell lymphoma
+formatting with no change to clinical criteria. Added criteria for B-Cell
+lymphoma, CNS cancer and IMT tumors per NCCN guidelines.
+6/2024 Added criteria for adjuvant treatment following tumor resection of
+ALK-positive NSCLC per FDA label. Updated references.
+6/2025 Annual review. Added criteria for pediatric diffuse high-grade gliomas
+per NCCN guidelines. Updated background and references.
+© 2025 UnitedHealthcare Services, Inc.
+6

@@ -1,0 +1,858 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Inflammatory Conditions – Etanercept Products Prior Authorization
+Policy
+• Enbrel (etanercept subcutaneous injection − Immunex/Amgen)
+REVIEW DATE: 09/25/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR
+PLAN DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE
+BASED. FOR EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC
+ADDRESSED IN A COVERAGE POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES
+THE INFORMATION IN THE COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE,
+BENEFITS ARE ULTIMATELY DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS
+IN EACH SPECIFIC INSTANCE REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON
+THE DATE OF SERVICE; 2) ANY APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING
+COVERAGE POLICIES AND; 4) THE SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED
+ON ITS OWN MERITS. MEDICAL DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING
+INDIVIDUAL COVERAGE DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT
+PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES.
+IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE
+DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Etanercept products are tumor necrosis factor inhibitors (TNFis) approved for the
+following uses:1
+• Ankylosing spondylitis, for reducing signs and symptoms in patients with
+active disease.
+• Juvenile idiopathic arthritis (JIA), for reducing the signs and symptoms
+of moderate or severe active polyarticular disease in patients ≥ 2 years of
+age.
+• Plaque psoriasis, for treatment patients ≥ 4 years of age with chronic
+moderate to severe plaque psoriasis who are candidates for systemic therapy
+or phototherapy.
+• Psoriatic arthritis, in adults ± methotrexate for reducing the signs and
+symptoms, inhibiting the progression of structural damage of active arthritis,
+and improving physical function. Additionally, Enbrel is approved for the
+treatment of active juvenile psoriatic arthritis in patients ≥ 2 years of age.
+• Rheumatoid arthritis, ± methotrexate for reducing the signs and
+symptoms, inducing major clinical response, inhibiting the progression of
+structural damage, and improving physical function in patients with moderate
+or severe active disease.
+Page 1 of 18 - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Etanercept Products Prior
+Authorization Policy
+Guidelines
+TNFis feature prominently in guidelines for treatment of inflammatory conditions.
+• Ankylosing Spondylitis and Spondyloarthritis: Guidelines for ankylosing
+spondylitis and non-radiographic axial spondylitis are published by the
+American College of Rheumatology (ACR)/Spondylitis Association of
+America/Spondyloarthritis Research and Treatment Network (2019).5 TNFis
+are recommended for the initial biologic. In those who are secondary non-
+responders to a TNFi, a second TNFi is recommended over switching out of
+the class.
+• JIA: There are guidelines from ACR and the Arthritis Foundation for the
+treatment of JIA (2021) which address oligoarthritis and temporomandibular
+joint (TMJ) arthritis.47 For oligoarthritis, a biologic is recommended following
+a trial of a conventional synthetic disease-modifying antirheumatic drug
+(DMARD). In patients with TMJ arthritis, scheduled nonsteroidal anti-
+inflammatory drugs (NSAIDs) and/or intra-articular glucocorticoids are
+recommended first-line. A biologic is a therapeutic option if there is an
+inadequate response or intolerance. Additionally, rapid escalation to a
+biologic ± conventional synthetic DMARD (methotrexate preferred) is often
+appropriate given the impact and destructive nature of TMJ arthritis. In
+these guidelines, there is not a preferred biologic that should be initiated for
+JIA. There are also guidelines from the ACR/Arthritis Foundation for the
+treatment of JIA (2019) specific to juvenile non-systemic polyarthritis,
+sacroiliitis, and enthesitis.3 TNFis are the biologics recommended for
+polyarthritis, sacroiliitis, and enthesitis. Biologics are recommended following
+other therapies (e.g., following DMARDs for active polyarthritis or following
+an NSAID for active JIA with sacroiliitis or enthesitis). However, there are
+situations where initial therapy with a biologic may be preferred over other
+conventional therapies (e.g., if there is involvement of high-risk joints such
+as the cervical spine, wrist, or hip; high disease activity; and/or those judged
+to be at high risk of disabling joint damage). TNFis may also be used as
+second- or third-line treatment for systemic JIA.4
+• Plaque Psoriasis: Guidelines from the American Academy of
+Dermatologists and National Psoriasis Foundation (2019) recommend
+etanercept as a monotherapy treatment option for adults with moderate to
+severe disease.7
+• Psoriatic Arthritis: Guidelines from ACR (2019) recommend TNFis over
+other biologics for use in treatment-naïve patients with psoriatic arthritis and
+in those who were previously treated with an oral therapy.8
+• Rheumatoid Arthritis: Guidelines from ACR (2021) recommend addition of
+a biologic or a targeted synthetic DMARD for a patient taking the maximum
+tolerated dose of methotrexate who is not at target.22
+Other Uses with Supportive Evidence
+There are guidelines and/or published data supporting the use of etanercept
+products in the following conditions:
+• Behcet’s Disease: The European Union Against Rheumatism (EULAR)
+recommendations (2018) include TNFis for initial or recurrent sight-
+18 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Etanercept Products Prior
+Authorization Policy
+threatening uveitis.9 For patients refractory to first-line treatments (e.g.,
+corticosteroids), TNFis are among the treatment options for mucocutaneous
+manifestations, venous thrombosis, severe or refractory gastrointestinal
+disease, and recurrent/chronic joint involvement. Recommendations for the
+use of TNFis in ocular inflammatory disorders from the American Academy of
+Ophthalmology (AAO) [2014] note that TNFis may be used first-line in
+patients with ophthalmic manifestations of Behcet’s disease and for acute
+exacerbations of pre-existing Behcet’s disease.8 In particular, the
+monoclonal antibodies (adalimumab or infliximab products) are
+recommended for vision-threatening ocular manifestations of Behcet’s
+disease.
+• Graft-Versus-Host Disease: Guidelines for hematopoietic cell
+transplantation from the National Comprehensive Cancer Network (version
+2.2022 – September 28, 2022) list etanercept among the agents used for
+steroid-refractory acute and chronic disease.46
+• Pyoderma Gangrenosum: Although guidelines are not current, multiple
+topical and systemic therapies have been used for pyoderma gangrenosum.
+Oral prednisone is the most common initial immunosuppressant
+medication.10-13 Other systemic therapies include cyclosporine,
+methotrexate, azathioprine, cyclophosphamide, mycophenolate mofetil, and
+TNFis (i.e., infliximab, etanercept, and adalimumab products). In case
+reports, TNFis have been effective.
+• Still’s Disease: There are no current guidelines for treatment of Still’s
+disease. However, it presents in adults with features similar to those of
+systemic onset JIA.24 In addition, there is a small trial which demonstrated
+efficacy of etanercept used for this condition.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of etanercept
+products. Because of the specialized skills required for evaluation and diagnosis of
+a patient as well as the monitoring required for adverse events and long-term
+efficacy, initial approval requires etanercept products to be prescribed by or in
+consultation with a physician who specializes in the condition being treated. All
+approvals are for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days.
+• Enbrel (etanercept subcutaneous injection - Immunex/Amgen)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Ankylosing Spondylitis. Approve for the duration noted if the patient meets
+ONE of the following (A or B):
+18 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Etanercept Products Prior
+Authorization Policy
+A) Initial Therapy. Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient is > 18 years of age; AND
+ii. The medication is prescribed by or in consultation with a rheumatologist.
+B) Patient is Currently Receiving an Etanercept Product. Approve for 1 year if
+the patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with an etanercept product is reviewed under criterion
+A (Initial Therapy).
+ii. Patient meets at least one of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating an
+etanercept product); OR
+Note: Examples of objective measures include Ankylosing Spondylitis
+Disease Activity Score (ASDAS), Ankylosing Spondylitis Quality of Life
+Scale (ASQoL), Bath Ankylosing Spondylitis Disease Activity Index
+(BASDAI), Bath Ankylosing Spondylitis Functional Index (BASFI), Bath
+Ankylosing Spondylitis Global Score (BAS-G), Bath Ankylosing
+Spondylitis Metrology Index (BASMI), Dougados Functional Index
+(DFI), Health Assessment Questionnaire for the Spondyloarthropathies
+(HAQ-S), and/or serum markers (e.g., C-reactive protein, erythrocyte
+sedimentation rate).
+b) Compared with baseline (prior to initiating an etanercept product),
+patient experienced an improvement in at least one symptom, such as
+decreased pain or stiffness, or improvement in function or activities of
+daily living.
+2. Juvenile Idiopathic Arthritis (JIA). Approve for the duration noted if the
+patient meets ONE of the following (A or B):
+Note: This includes JIA regardless of type of onset, including a patient with
+juvenile spondyloarthropathy/active sacroiliac arthritis. JIA is also referred to as
+Juvenile Rheumatoid Arthritis.
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the
+following (i, ii, and iii):
+i. Patient is > 2 years of age; AND
+ii. Patient meets ONE of the following conditions (a, b, c, or d):
+a) Patient has tried one other systemic medication for this condition; OR
+Note: Examples of other systemic therapy for JIA include
+methotrexate, sulfasalazine, leflunomide, or a nonsteroidal anti-
+inflammatory drug (NSAID) [e.g., ibuprofen, naproxen]. A previous
+trial of one biologic other than the requested drug also counts as a trial
+of one agent for JIA. A biosimilar of the requested biologic does not
+count. Refer to Appendix for examples of biologics used for JIA.
+b) Patient will be starting on therapy concurrently with methotrexate,
+sulfasalazine, or leflunomide; OR
+c) Patient has an absolute contraindication to methotrexate,
+sulfasalazine, or leflunomide; OR
+18 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Etanercept Products Prior
+Authorization Policy
+Note: Examples of contraindications to methotrexate include
+pregnancy, breast feeding, alcoholic liver disease, immunodeficiency
+syndrome, blood dyscrasias.
+d) Patient has aggressive disease, as determined by the prescriber; AND
+iii. The medication is prescribed by or in consultation with a rheumatologist.
+B) Patient is Currently Receiving an Etanercept Product. Approve for 1 year if
+the patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with an etanercept product is reviewed under criterion
+A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating an
+etanercept product); OR
+Note: Examples of objective measures include Physician Global
+Assessment (MD global), Parent/Patient Global Assessment of Overall
+Well-Being (PGA), Parent/Patient Global Assessment of Disease
+Activity (PDA), Juvenile Arthritis Disease Activity Score (JDAS), Clinical
+Juvenile Arthritis Disease Activity Score (cJDAS), Juvenile
+Spondyloarthritis Disease Activity Index (JSpADA), serum markers
+(e.g., C-reactive protein, erythrocyte sedimentation rate), and/or
+reduced dosage of corticosteroids.
+b) Compared with baseline (prior to initiating an etanercept product),
+patient experienced an improvement in at least one symptom, such as
+improvement in limitation of motion, less joint pain or tenderness,
+decreased duration of morning stiffness or fatigue, improved function
+or activities of daily living.
+3. Plaque Psoriasis. Approve for the duration noted if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy. Approve for 3 months if the patient meets ALL of the
+following (i, ii, and iii):
+i. Patient is ≥ 4 years of age; AND
+ii. Patient meets ONE of the following conditions (a or b):
+a) Patient has tried at least one traditional systemic agent for psoriasis
+for at least 3 months, unless intolerant; OR
+Note: Examples include methotrexate, cyclosporine, or acitretin. A 3-
+month trial of psoralen plus ultraviolet A light (PUVA) also counts. An
+exception to the requirement for a trial of one traditional systemic
+agent for psoriasis can be made if the patient has already has a 3-
+month trial or previous intolerance to at least one biologic other than
+the requested drug. A biosimilar of the requested biologic does not
+count. . Refer to Appendix for examples of biologics used for
+psoriasis. A patient who has already tried a biologic for psoriasis is not
+required to “step back” and try a traditional systemic agent for
+psoriasis.
+18 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Etanercept Products Prior
+Authorization Policy
+b) Patient has a contraindication to methotrexate, as determined by the
+prescriber; AND
+iii. The medication is prescribed by or in consultation with a dermatologist.
+B) Patient is Currently Receiving an Etanercept Product. Approve for 1 year if
+the patient meets ALL of the following (i, ii, and iii):
+i. Patient has been established on therapy for at least 3 months; AND
+Note: A patient who has received < 3 months of therapy or who is
+restarting therapy with an etanercept product is reviewed under criterion
+A (Initial Therapy).
+ii. Patient experienced a beneficial clinical response, defined as improvement
+from baseline (prior to initiating an etanercept product) in at least one of
+the following: estimated body surface area, erythema,
+induration/thickness, and/or scale of areas affected by psoriasis; AND
+iii. Compared with baseline (prior to receiving an etanercept product),
+patient experienced an improvement in at least one symptom, such as
+decreased pain, itching, and/or burning.
+4. Psoriatic Arthritis. Approve for the duration noted if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient is > 2 years of age; AND
+ii. The medication is prescribed by or in consultation with a rheumatologist
+or a dermatologist.
+B) Patient is Currently Receiving an Etanercept Product. Approve for 1 year if
+the patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with an etanercept product is reviewed under criterion
+A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating an
+etanercept product); OR
+Note: Examples of standardized measures of disease activity include
+Disease Activity Index for Psoriatic Arthritis (DAPSA), Composite
+Psoriatic Disease Activity Index (CPDAI), Psoriatic Arthritis Disease
+Activity Score (PsA DAS), Grace Index, Leeds Enthesitis Score (LEI),
+Spondyloarthritis Consortium of Canada (SPARCC) enthesitis score,
+Leeds Dactylitis Instrument Score, Minimal Disease Activity (MDA),
+Psoriatic Arthritis Impact of Disease (PsAID-12), and/or serum
+markers (e.g., C-reactive protein, erythrocyte sedimentation rate).
+b) Compared with baseline (prior to initiating an etanercept product),
+patient experienced an improvement in at least one symptom, such as
+less joint pain, morning stiffness, or fatigue; improved function or
+activities of daily living; decreased soft tissue swelling in joints or
+tendon sheaths).
+18 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Etanercept Products Prior
+Authorization Policy
+5. Rheumatoid Arthritis. Approve for the duration noted if the patient meets
+ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the
+following (i, ii, and iii):
+i. Patient is > 18 years of age; AND
+ii. Patient has tried ONE conventional synthetic disease-modifying
+antirheumatic drug (DMARD) for at least 3 months; AND
+Note: Examples include methotrexate (oral or injectable), leflunomide,
+hydroxychloroquine, and sulfasalazine. An exception to the requirement
+for a trial of one conventional synthetic DMARD can be made if the patient
+has already has a 3-month trial at least one biologic other than the
+requested drug. A biosimilar of the requested biologic does not count.
+Refer to Appendix for examples of biologics used for rheumatoid arthritis.
+A patient who has already tried a biologic for rheumatoid arthritis is not
+required to “step back” and try a conventional synthetic DMARD.
+ii. The medication is prescribed by or in consultation with a rheumatologist.
+B) Patient is Currently Receiving an Etanercept Product. Approve for 1 year if
+the patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with an etanercept product is reviewed under criterion
+A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) Patient experienced a beneficial clinical response when assessed by at
+least one objective measure; OR
+Note: Examples of objective measures of disease activity include
+Clinical Disease Activity Index (CDAI), Disease Activity Score (DAS) 28
+using erythrocyte sedimentation rate (ESR) or C-reactive protein
+(CRP), Patient Activity Scale (PAS)-II, Rapid Assessment of Patient
+Index Data 3 (RAPID-3), and/or Simplified Disease Activity Index
+(SDAI).
+b) Patient experienced an improvement in at least one symptom, such as
+decreased joint pain, morning stiffness, or fatigue; improved function
+or activities of daily living; decreased soft tissue swelling in joints or
+tendon sheaths.
+Other Uses with Supportive Evidence
+6. Behcet’s Disease. Approve for the duration noted if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy. Approve for 3 months if the patient meets ALL of the
+following (i, ii, and iii):
+i. Patient is > 2 years of age; AND
+ii. Patient has tried at least one conventional therapy; AND
+Note: Examples include systemic corticosteroids (e.g.,
+methylprednisolone), immunosuppressants (e.g., azathioprine,
+methotrexate, mycophenolate mofetil, cyclosporine, tacrolimus, Leukeran
+[chlorambucil], cyclophosphamide, interferon alfa). A patient who has
+18 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Etanercept Products Prior
+Authorization Policy
+already tried one biologic other than the requested drug for Behcet’s
+disease is not required to “step back” and try a conventional therapy. A
+biosimilar of the requested biologic does not count.
+iii. The medication is prescribed by or in consultation with a rheumatologist,
+dermatologist, ophthalmologist, gastroenterologist, or neurologist.
+B) Patient is Currently Receiving an Etanercept Product. Approve for 1 year if
+the patient meets ALL of the following (i, ii, and iii):
+i. Patient has been established on therapy for at least 3 months; AND
+Note: A patient who has received < 3 months of therapy or who is
+restarting therapy with an etanercept product is reviewed under criterion
+A (Initial Therapy).
+ii. When assessed by at least one objective measure, patient experienced a
+beneficial clinical response from baseline (prior to initiating an etanercept
+product); AND
+Note: Examples of objective measures are dependent upon organ
+involvement but may include best-corrected visual acuity (if ophthalmic
+manifestations); serum markers (e.g., C-reactive protein, erythrocyte
+sedimentation rate); ulcer depth, number, and/or lesion size.
+iii. Compared with baseline (prior to initiating an etanercept product), patient
+experienced an improvement in at least one symptom, such as decreased
+pain, or improved visual acuity (if ophthalmic manifestations).
+7. Graft-Versus-Host Disease. Approve for the duration noted if the patient
+meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 1 month if the patient meets ALL of the
+following (i, ii, and iii):
+i. Patient is > 6 years of age; AND
+ii. Patient has tried at least one conventional systemic treatment for graft-
+versus-host disease; AND
+Note: Examples of conventional systemic treatments include systemic
+corticosteroids (e.g., methylprednisolone), antithymocyte globulin,
+cyclosporine, tacrolimus, and mycophenolate mofetil.
+iii. The medication is prescribed by or in consultation with an oncologist,
+hematologist, or a physician affiliated with a transplant center.
+B) Patient is Currently Receiving an Etanercept Product. Approve for 3 months
+if the patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 1 month; AND
+Note: A patient who has received < 1 month of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating an
+etanercept product); OR
+Note: Examples of objective measures are normalization of liver
+function tests, red blood cell count, or platelet count; or resolution of
+fever or rash.
+b) Compared with baseline (prior to initiating an etanercept product),
+patient experienced an improvement in at least one symptom, such as
+18 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Etanercept Products Prior
+Authorization Policy
+improvement in skin, oral mucosal, ocular, or gastrointestinal
+symptoms (e.g., nausea, vomiting, anorexia).
+8. Pyoderma Gangrenosum. Approve for the duration noted if the patient meets
+ONE of the following (A or B):
+A) Initial Therapy. Approve for 4 months if the patient meets ALL of the
+following (i, ii, and iii):
+i. Patient is > 18 years of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has tried one systemic corticosteroid; OR
+Note: An example is prednisone.
+b) Patient has tried one other immunosuppressant for at least 2 months
+or was intolerant to one of these medications; AND
+Note: Examples include mycophenolate mofetil and cyclosporine.
+iii. The medication is prescribed by or in consultation with a dermatologist.
+B) Patient is Currently Receiving an Etanercept Product. Approve for 1 year if
+the patient meets ALL of the following (i, ii, and iii):
+i. Patient has been established on therapy for at least 4 months; AND
+Note: A patient who has received < 4 months of therapy or who is
+restarting therapy with an etanercept product is reviewed under criterion
+A (Initial Therapy).
+ii. Patient experienced a beneficial clinical response, defined as improvement
+from baseline (prior to initiating an etanercept product) in at least one of
+the following: size, depth, and/or number of lesions; AND
+iii. Compared with baseline (prior to initiating an etanercept product), patient
+experienced an improvement in at least one symptom, such as decreased
+pain and/or tenderness of affected lesion(s).
+9. Spondyloarthritis, Other Subtypes. Approve for the duration noted if the
+patient meets ONE of the following (A or B):
+Note: This includes undifferentiated arthritis, non-radiographic axial
+spondyloarthritis, Reactive Arthritis (Reiter’s disease). For Ankylosing
+Spondylitis or Psoriatic Arthritis, refer to the respective criteria under FDA-
+approved indications.
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the
+following (i, ii, and iii):
+i. Patient is > 18 years of age; AND
+ii. Patient meets ONE of the following conditions (a or b):
+a) Patient has arthritis primarily in the knees, ankles, elbows, wrists,
+hands, and/or feet AND has tried at least ONE conventional synthetic
+disease-modifying antirheumatic drug (DMARD); OR
+Note: Examples include methotrexate, leflunomide, sulfasalazine.
+b) Patient has axial spondyloarthritis AND has objective signs of
+inflammation, defined as at least one of the following [(1) or (2)]:
+(1) C-reactive protein (CRP) elevated beyond the upper limit of
+normal for the reporting laboratory; OR
+(2) Sacroiliitis reported on magnetic resonance imaging (MRI); AND
+iii. The medication is prescribed by or in consultation with a rheumatologist.
+18 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Etanercept Products Prior
+Authorization Policy
+B) Patient is Currently Receiving an Etanercept Product. Approve for 1 year if
+the patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with an etanercept product is reviewed under criterion
+A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating an
+etanercept product); OR
+Note: Examples of objective measures include Ankylosing Spondylitis
+Disease Activity Score (ASDAS) and/or serum markers (e.g., C-
+reactive protein, erythrocyte sedimentation rate).
+b) Compared with baseline (prior to initiating an etanercept product),
+patient experienced an improvement in at least one symptom, such as
+decreased pain or stiffness, or improvement in function or activities of
+daily living.
+10. Still’s Disease. Approve for the duration noted if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the
+following (i, ii, iii, and iv):
+i. Patient is > 18 years of age; AND
+ii. Patient has tried one corticosteroid; AND
+iii. Patient has tried one conventional synthetic disease-modifying
+antirheumatic drug (DMARD) given for at least 2 months or was
+intolerant; AND
+Note: An example of a conventional synthetic DMARD is methotrexate. A
+previous trial of one biologic other than the requested drug (e.g., Actemra
+[tocilizumab intravenous injection, tocilizumab subcutaneous injection],
+Arcalyst [rilonacept subcutaneous injection], Ilaris [canakinumab
+subcutaneous injection]) also counts towards a trial of one other systemic
+agent for Still’s disease. A biosimilar of the requested biologic does not
+count.
+iv. The medication is prescribed by or in consultation with a rheumatologist.
+B) Patient is Currently Receiving an Etanercept Product. Approve for 1 year if
+the patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with an etanercept product is reviewed under criterion
+A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating an
+etanercept product); OR
+Note: Examples of objective measures include resolution of fever,
+improvement in rash or skin manifestations, clinically significant
+improvement or normalization of serum markers (e.g., C-reactive
+18 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Etanercept Products Prior
+Authorization Policy
+protein, erythrocyte sedimentation rate), and/or reduced dosage of
+corticosteroids.
+b) Compared with baseline (prior to initiating an etanercept product),
+patient experienced an improvement in at least one symptom, such as
+less joint pain/tenderness, stiffness, or swelling; decreased fatigue;
+improved function or activities of daily living.
+• Enbrel (etanercept subcutaneous injection (Immunex/Amgen)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria
+will be updated as new published data are available):
+CONDITIONS NOT COVERED
+1. Concurrent Use with a Biologic or with a Targeted Synthetic Oral Small
+Molecule Drug. This medication should not be administered in combination
+with another biologic or with a targeted synthetic oral small molecule drug used
+for an inflammatory condition (see Appendix for examples). Combination
+therapy is generally not recommended due to a potentially higher rate of
+adverse events and lack of controlled clinical data supporting additive efficacy.
+Note: This does NOT exclude the use of conventional synthetic DMARDs (e.g.,
+methotrexate, leflunomide, hydroxychloroquine, or sulfasalazine) in combination
+with this medication.
+2. Crohn’s Disease. In a double-blind, placebo-controlled trial etanercept
+(Enbrel) was not effective for the treatment of moderate to severe Crohn’s
+disease.25 However, arthritis (spondyloarthropathy, ankylosing spondylitis) may
+be associated with Crohn’s disease and etanercept products may be effective for
+spondyloarthropathy in these patients.26
+3. Inflammatory Myopathies (Polymyositis, Dermatomyositis, Inclusion
+Body Myositis). Information is conflicting. In one retrospective review of
+eight patients with either dermatomyositis or polymyositis some patients
+responded (improved motor strength and decreased fatigue) to treatment with
+an etanercept product.27 In this case series, an etanercept product was added
+on to treatment with corticosteroids, intravenous immunoglobulin, and DMARDs;
+there were no standardized outcome measures. In another case series in
+patients (n = 5) with dermatomyositis who had not responded to steroids and
+cytotoxic therapy (methotrexate, azathioprine, cyclosporine), the cytotoxic
+drugs were discontinued and etanercept was given for at least 3 months.28 All
+patients had exacerbation of disease and etanercept was stopped. In a 1-year,
+double-blind study, patients were randomized to receive etanercept 50 mg
+weekly (n = 11) or placebo (n = 5).29 All patients who received placebo were
+judged as treatment failures whereas five patients in the etanercept group were
+successfully weaned off of prednisone. More studies are needed demonstrating
+the efficacy of etanercept and its long-term effects.30 In a 6-month, open-label
+18 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Etanercept Products Prior
+Authorization Policy
+study of etanercept in patients with refractory juvenile dermatomyositis (n = 9),
+minimal improvement was noted in disease activity with some patients
+experiencing worsening disease.31
+4. Hidradenitis Suppurativa. A prospective, randomized, double-blind, placebo-
+controlled study assigned patients (n = 20) to treatment with etanercept 50 mg
+twice weekly or placebo for 12 weeks.32 Following 12 weeks of treatment, all
+patients received open-label etanercept for an additional 12 weeks. The study
+found no statistically significant difference between etanercept 50 mg twice
+weekly and placebo among physician global assessment, patient global
+assessment, and the Dermatology Life Quality Index (DLQI) at Week 12 or Week
+24. A systematic review (2013) extracted data from case reports and
+randomized, controlled trials and recommended against the use of etanercept
+for treatment of hidradenitis suppurativa.33
+5. Polymyalgia Rheumatica (PMR). ACR/EULAR guidelines for the management
+of PMR (2015) strongly recommend against the use of TNFis for treatment of
+PMR.34 This recommendation is based on lack of evidence for benefit as well as
+considerable potential for potential harm. While etanercept has been evaluated
+in small numbers of patients with PMR, efficacy has not been established.35-37
+6. Sarcoidosis. Evidence does not support use of etanercept in ocular or
+pulmonary disease. Recommendations for the use of TNFis in ocular
+inflammatory disorders from the AAO (2014) note that infliximab or adalimumab
+may be considered as second-line immunomodulatory therapy for patients
+failing or intolerant of standard immunomodulatory agents.8 A discretionary
+recommendation (indicating trade-offs are less certain) is that etanercept should
+not be used in the treatment of ocular sarcoidosis (moderate-quality evidence).
+In a double-blind study patients (n = 18) with chronic ocular sarcoidosis and
+ongoing inflammation were randomized to etanercept or placebo for 6 months.38
+Patients had received ≥ 6 months of therapy with methotrexate and were
+currently on corticosteroids. For most of the patients, therapy with etanercept
+was not associated with significant improvement. In a prospective, open-label
+trial in patients with Stage II or III progressive pulmonary sarcoidosis,
+treatment with etanercept was frequently associated with early or late treatment
+failure.39 This trial was ended early because an excessive number of patients (n
+= 11/17) had disease progression on etanercept. Recommendations for best
+practice in the management of pulmonary and systemic sarcoidosis mention
+infliximab and adalimumab as therapeutic options for management of disease.40
+7. Large Vessel Vasculitis (e.g., Giant Cell Arteritis, Takayasu’s Arteritis).
+Guidelines from EULAR for the management of large vessel vasculitis (e.g., giant
+cell arteritis, Takayasu’s arteritis) do not mention the use of TNFis.41
+Additionally, a meta-analysis of RCTs did not find evidence supporting remission
+or reduction of corticosteroid dose with the use of TNFis in large vessel
+vasculitis.42 In a double-blind trial patients with biopsy proven giant cell arteritis
+with AEs due to corticosteroids were randomized to etanercept 25 mg twice
+weekly (n = 8) or placebo (n = 9) for 12 months.43 Corticosteroids were
+18 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Etanercept Products Prior
+Authorization Policy
+continued but were reduced if possible according to a predefined protocol. The
+primary outcome was the ability to withdraw the corticosteroid therapy and
+control disease activity at 12 months. After 12 months, there was not a
+statistically significant difference in the proportion of patients able to control
+disease without corticosteroid therapy with etanercept (50%) vs. placebo
+(22.2%). However, patients on etanercept had a significantly lower dose of
+accumulated prednisone during the first year of treatment (P = 0.03). In a
+retrospective single center study in patients with refractory Takayasu’s arteritis
+(n = 25), patients were treated with infliximab (n = 21) or etanercept (n = 9).44
+Five patients who were initially treated with etanercept were switched to
+infliximab. Therapy with TNFis was associated with remission in many patients
+and dose reduction or discontinuation of prednisone and other
+immunosuppressant therapies. A randomized controlled trial is needed to better
+define the efficacy and safety of etanercept.
+8. Wegener’s Granulomatosis. Etanercept is not effective in the induction or
+maintenance of disease remissions in patients with Wegener’s granulomatosis.
+In a double-blind trial, 180 patients with active Wegener’s granulomatosis were
+randomized to etanercept or placebo in combination with standard therapies
+(e.g., cyclophosphamide, methotrexate, corticosteroids) depending on disease
+severity.45 When remission was achieved, standard medications were tapered
+according to protocol guidelines. Patients were enrolled over 28 months and the
+mean follow-up was 27 months. Of the 174 patients who were evaluable, 126
+patients (72.4%) achieved sustained remissions, but only 86 patients overall
+(49.4%) maintained their disease remissions throughout the trial. There were
+no differences between etanercept and the control group in the percent of
+patients achieving sustained remissions (69.7% vs. 75.3%, P = 0.39); in the
+percent of patients with sustained periods of low disease activity (86.5% vs.
+90.6%); or time to achieve these outcomes. Disease flares were common in
+both groups. AEs were frequent and often severe. During the study, 56.2% of
+patients on etanercept and 57.1% on placebo had at least one severe or life-
+threatening adverse event or died. Six of the etanercept patients and none of
+the controls developed solid malignancies. Use of etanercept in patients with
+Wegener’s granulomatosis who are receiving immunosuppressant drugs is not
+recommended.1
+REFERENCES
+1. Enbrel® subcutaneous injection [prescribing information]. Thousand Oaks, CA: Immunex/Amgen;
+September 2024.
+2. Fraenkel L, Bathon JM, England BR, et al. 2021 American College of Rheumatology guideline for
+the treatment of rheumatoid arthritis. Arthritis Rheumatol. 2021;73(7):1108-1123.
+3. Ringold S, Angeles-Han ST, Beukelman T, et al. 2019 American College of Rheumatology/Arthritis
+Foundation Guideline for the treatment of juvenile idiopathic arthritis: therapeutic approaches for
+non-systemic polyarthritis, sacroiliitis, and enthesitis. Arthritis Rheumatol. 2019;71(6):846-863.
+4. Ringold S, Weiss PF, Beukelman T, et al. 2013 update of the 2011 American College of
+Rheumatology recommendations for the treatment of juvenile idiopathic arthritis:
+recommendations for the medical therapy of children with systemic juvenile idiopathic arthritis and
+tuberculosis screening among children receiving biologic medications. Arthritis Rheum.
+2013;65(10):2499-2512.
+18 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Etanercept Products Prior
+Authorization Policy
+5. Ward MM, Deodhar A, Gensler LS, et al. 2019 update of the American College of
+Rheumatology/Spondylitis Association of America/Spondyloarthritis Research and Treatment
+Network recommendations for the treatment of ankylosing spondylitis and nonradiographic axial
+spondyloarthritis. Arthritis Rheumatol. 2019;71(10):1599-1613.
+6. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management
+and treatment of psoriasis with biologics. J Am Acad Dermatol. 2019;80(4):1029-1072.
+7. Singh JA, Guyatt G, Ogdie A, et al. 2018 American College of Rheumatology/National Psoriasis
+Foundation Guideline for the treatment of psoriatic arthritis. Arthritis Care Res (Hoboken).
+2019;71(1):2-29.
+8. Levy-Clarke G, Jabs DA, Read RW, et al. Expert panel recommendations for the use of anti-tumor
+necrosis factor biologic agents in patients with ocular inflammatory disorders. Ophthalmology.
+2014;121(3):785-796.
+9. Hatemi G, Silman A, Bang, D, et al. EULAR recommendations for the management of Behcet
+disease. Ann Rheum Dis. 2008;67:1656-1662.
+10. Dabade TS, Davis MD. Diagnosis and treatment of the neutrophilic dermatoses (pyoderma
+gangrenosum, Sweet's syndrome). Dermatol Ther. 2011;24(2):273-284.
+11. Charles CA, Leon A, Banta MR, et al. Etanercept for the treatment of refractory pyoderma
+gangrenosum: a brief series. Int J Dermatol. 2007;46:1095-1099.
+12. Roy DB, Conte ET, Cohen DJ. The treatment of pyoderma gangrenosum using etanercept. J Am
+Acad Dermatol. 2006;54(3 Suppl 2):S128-134.
+13. Reichrath J, Bens G, Bonowitz A, et al. Treatment recommendations for pyoderma gangrenosum:
+an evidence-based review of the literature based on more than 350 patients. J Am Acad
+Dermatol. 2005;53:273-283.
+14. Dignan FL, Clark A, Amrolia P, et al. Diagnosis and management of acute graft-versus-host
+disease. Br J Haematol. 2012;158(1):30-45.
+15. Dignan FL, Amrolia P, Clark A, et al. Diagnosis and management of chronic graft-versus-host
+disease. Br J Haematol. 2012;158(1):46-61.
+16. Wolff D, Roessler V, Steiner B, et al. Treatment of steroid-resistant acute graft-versus-host
+disease with daclizumab and etanercept. Bone Marrow Transplant. 2005;35:1003-1010.
+17. Choi SW, Stiff P, Cooke K, et al. TNF-inhibition with etanercept for graft-versus-host disease
+prevention in high-risk HCT: lower TNFR1 levels correlate with better outcomes. Biol Blood
+Marrow Transplant. 2012;18(10):1525-1532.
+18. Levine JE, Paczesny S, Mineishi S, et al. Etanercept plus methylprednisolone as initial therapy for
+acute graft-versus-host disease. Blood. 2008;111:2470-2475.
+19. Alousi AM, Weisdorf DJ, Logan BR, et al. Etanercept, mycophenolate, denileukin, or pentostatin
+plus corticosteroid in acute graft-versus-host disease: a randomized phase 2 trial from the Blood
+Marrow Transplant Clinical Trials Network. Blood. 2009;114(3):511-517.
+20. Busca A, Locatelli F, Marmont F, et al. Recombinant human soluble tumor necrosis factor receptor
+fusion protein as treatment for steroid refractory graft-versus-host disease following allogeneic
+hematopoietic stem cell transplantation. Am J Hematol. 2007;82:45-52.
+21. Kennedy GA, Butler J, Western R, et al. Combination antithymocyte globulin and soluble TNF
+alpha inhibitor (etanercept) +/- mycophenolate mofetil for treatment of steroid refractory acute
+graft-versus-host disease. Bone Marrow Transplant. 2006;37:1143-1147.
+22. Chiang KY, Abhyankar S, Bridges K, et al. Recombinant human tumor necrosis factor receptor
+fusion protein as complementary treatment for chronic graft-versus-host disease.
+Transplantation. 2002;73:665-667.
+23. Gatza E, Braun T, Levine JE, et al. Etanercept plus topical corticosteroids as initial therapy for
+grade one acute graft-versus-host disease after allogeneic hematopoietic cell transplantation. Biol
+Blood Marrow Transplant. 2014;20(9):1426-1434.
+24. Riera E, Olivé A, Narváez J, et al. Adult onset Still's disease: review of 41 cases. Clin Exp
+Rheumatol. 2011;29(2):331-336.
+25. Sandborn WJ, Hanauer SB, Katz S, et al. Etanercept for active Crohn’s disease: a randomized,
+double-blind, placebo-controlled trial. Gastroenterology. 2001;121:1088-1094.
+26. Marzo-Ortega H, McGonagle D, O’Connor P, et al. Efficacy of etanercept for treatment of Crohn’s
+related spondyloarthritis but not colitis. Ann Rheum Dis. 2003;62:74-76.
+27. Efthimiou P, Schwartzman S, Kagen LJ. Possible role for tumour necrosis factor inhibitors in the
+treatment of resistant dermatomyositis and polymyositis: a retrospective study of eight patients.
+Ann Rheum Dis. 2006;65:1233-1236.
+18 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Etanercept Products Prior
+Authorization Policy
+28. Iannone F, Scioscia C, Falappone PC, et al. Use of etanercept in the treatment of
+dermatomyositis: a case series. J Rheumatol. 2006;33:1802-1804.
+29. Amato AA, Tawil R, Kissel J, et al. A randomized, pilot trial of etanercept in dermatomyositis. Ann
+Neurol. 2011;70(3):427-436.
+30. Iorizzo LJ 3rd, Jorizzo JL. The treatment and prognosis of dermatomyositis: an updated review. J
+Am Acad Dermatol. 2008;59:99-112.
+31. Rouster-Stevens KA, Ferguson L, Morgan G, et al. Pilot study of etanercept in patients with
+refractory juvenile dermatomyositis. Arthritis Care Res (Hoboken). 2014;66(5):783-787.
+32. Adams DR, Yankura JA, Fogelberg AC, et al. Treatment of hidradenitis suppurativa with
+etanercept injection. Arch Dermatol. 2010;146(5):501-504.
+33. van Rappard DC, Limpens J, Mekkes JR. The off-label treatment of severe hidradenitis
+suppurativa with TNF-α inhibitors: a systematic review. J Dermatolog Treat. 2013;24(5):392-
+404.
+34. Dejaco C, Singh YP, Perel P, et al. 2015 Recommendations for the management of polymyalgia
+rheumatica: a European League Against Rheumatism/American College of Rheumatology
+Collaborative Initiative. Arthritis Rheumatol. 2015;67(10):2569-2580.
+35. Corrao S, Pistone G, Scaglione R, et al. Fast recovery with etanercept in patients affected by
+polymyalgia rheumatica and decompensated diabetes: a case-series study. Clin Rheumatol.
+2009;28:89-92.
+36. Catanoso MG, Macchioni P, Boiardi L, et al. Treatment of refractory polymyalgia rheumatica with
+etanercept: an open pilot study. Arthritis Rheum. 2007;57:1514-1519.
+37. Kreiner F, Galbo H. Effect of etanercept in polymyalgia rheumatica: a randomized controlled trial.
+Arthritis Res Ther. 2010;12(5):R176.
+38. Baughman RP, Lower EE, Bradley DA, et al. Etanercept for refractory ocular sarcoidosis: results
+of a double-blind randomized trial. Chest. 2005;128:1062-1047.
+39. Utz JP, Limper AH, Kalra S, et al. Etanercept for the treatment of state II and III progressive
+pulmonary sarcoidosis. Chest. 2003;124:177-185.
+40. Amin EN, Closser DR, Crouser ED. Current best practice in the management of pulmonary and
+systemic sarcoidosis. Ther Adv Respir Dis. 2014;8(4):111-132.
+41. Mukhtyar C, Guillevin L, Cid MC, et al. EULAR recommendations for the management of large
+vessel vasculitis. Ann Rheum Dis. 2009;68(3):318-323.
+42. Osman M1, Pagnoux C2, Dryden DM, et al. The role of biological agents in the management of
+large vessel vasculitis (LVV): a systematic review and meta-analysis. PLoS One. 2014 Dec
+17;9(12):e115026.
+43. Martínez-Taboada VM, Rodríguez-Valverde V, Carreño L, et al. A double-blind placebo controlled
+trial of etanercept in patients with giant cell arteritis and corticosteroid side effects. Ann Rheum
+Dis. 2008;67:625-630.
+44. Molloy ES, Langford CA, Clark TM, et al. Anti-tumour necrosis factor therapy in patients with
+refractory Takayasu arteritis: long-term follow-up. Ann Rheum Dis. 2008;67:1567-1569.
+45. Wegener's Granulomatosis Etanercept Trial (WGET) Research Group. Etanercept plus standard
+therapy for Wegener's granulomatosis. N Engl J Med. 2005;352:351-361.
+46. The NCCN Hematopoietic Cell Transplantation (HCT) (Version 2.2022 – September 28, 2022). ©
+2022 National Comprehensive Cancer Network, Inc. Available at: http://www.nccn.org. Accessed
+on October 16, 2022.
+47. Onel KB, Horton DB, Lovell DJ, et al. 2021 American College of Rheumatology guideline for the
+treatment of juvenile idiopathic arthritis: therapeutic approaches for oligoarthritis,
+temporomandibular joint arthritis, and systemic juvenile idiopathic arthritis. Arthritis Rheumatol.
+2022;74(4):553-569.
+18 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Etanercept Products Prior
+Authorization Policy
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 10/18/2023
+Revision
+Selected Plaque Psoriasis: For a patient currently taking an etanercept 03/27/2024
+Revision product, the timeframe for established on therapy was changed from
+90 days to 3 months.
+Behcet’s Disease: For a patient currently taking an etanercept
+product, the timeframe for established on therapy was changed from
+90 days to 3 months.
+Selected Ankylosing Spondylitis: For initial approvals, a requirement that 09/11/2024
+Revision the patient is ≥ 18 years of age was added.
+Juvenile Idiopathic Arthritis: For initial approvals, a requirement
+that the patient is ≥ 2 years of age was added.
+Plaque Psoriasis: In the Note, psoralen plus ultraviolet A light
+(PUVA) was removed from the examples of traditional systemic
+therapies. An additional Note was added that a 3-month trial of
+PUVA counts as a traditional systemic therapy.
+Psoriatic Arthritis: For initial approvals, a requirement that the
+patient is ≥ 18 years of age was added.
+Rheumatoid Arthritis: For initial approvals, a requirement that the
+patient is ≥ 18 years of age was added.
+Behcet’s Disease: For initial approvals, a requirement that the
+patient is ≥ 2 years of age was added.
+Graft-vs-Host Disease: For initial approvals, a requirement that
+the patient is ≥ 6 years of age was added.
+Pyoderma Gangrenosum: For initial approvals, a requirement that
+the patient is ≥ 18 years of age was added.
+Spondyloarthritis, Other Subtypes: For initial approvals, a
+requirement that the patient is ≥ 18 years of age was added.
+Still’s Disease: For initial approvals, a requirement that the patient
+is ≥ 18 years of age was added.
+Conditions Not Covered
+: Concurrent use with a Biologic or with a Targeted Synthetic Oral
+Small Molecule Drug was changed to as listed (previously oral small
+molecule drug was listed as Disease-Modifying Antirheumatic Drug).
+Annual Psoriatic Arthritis: For initial approval, a requirement that the 09/25/2024
+Revision patient is ≥ 18 years of age was changed to ≥ 2 years of age.
+18 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Etanercept Products Prior
+Authorization Policy
+APPENDIX
+Mechanism of Action Examples of Indications*
+Biologics
+Adalimumab SC Products (Humira®, Inhibition of TNF AS, CD, JIA, PsO, PsA, RA, UC
+biosimilars)
+Cimzia® (certolizumab pegol SC Inhibition of TNF AS, CD, JIA, nr-axSpA, PsO,
+injection) PsA, RA
+Etanercept SC Products (Enbrel®, Inhibition of TNF AS, JIA, PsO, PsA, RA
+biosimilars)
+Infliximab IV Products (Remicade®, Inhibition of TNF AS, CD, PsO, PsA, RA, UC
+biosimilars)
+Zymfentra® (infliximab-dyyb SC Inhibition of TNF CD, UC
+injection)
+Simponi®, Simponi Aria® (golimumab Inhibition of TNF SC formulation: AS, PsA, RA,
+SC injection, golimumab IV infusion) UC
+IV formulation: AS, PJIA,
+PsA, RA
+Tocilizumab Products (Actemra® IV, Inhibition of IL-6 SC formulation: PJIA, RA,
+biosimilar; Actemra SC, biosimilar) SJIA
+IV formulation: PJIA, RA,
+SJIA
+Kevzara® (sarilumab SC injection) Inhibition of IL-6 RA
+Orencia® (abatacept IV infusion, T-cell costimulation SC formulation: JIA, PSA, RA
+abatacept SC injection) modulator IV formulation: JIA, PsA, RA
+Rituximab IV Products (Rituxan®, CD20-directed cytolytic RA
+biosimilars) antibody
+Kineret® (anakinra SC injection) Inhibition of IL-1 JIA^, RA
+Omvoh® (mirikizumab IV infusion, SC Inhibition of IL-23 UC
+injection)
+Stelara® (ustekinumab SC injection, Inhibition of IL-12/23 SC formulation: CD, PsO,
+ustekinumab IV infusion) PsA, UC
+IV formulation: CD, UC
+Siliq® (brodalumab SC injection) Inhibition of IL-17 PsO
+Cosentyx® (secukinumab SC injection; Inhibition of IL-17A SC formulation: AS, ERA, nr-
+secukinumab IV infusion) axSpA, PsO, PsA
+IV formulation: AS, nr-
+axSpA, PsA
+Taltz® (ixekizumab SC injection) Inhibition of IL-17A AS, nr-axSpA, PsO, PsA
+Bimzelx® (bimekizumab-bkzx SC Inhibition of IL- AS, nr-axSpA, PsA, PsO
+injection) 17A/17F
+Ilumya® (tildrakizumab-asmn SC Inhibition of IL-23 PsO
+injection)
+Skyrizi® (risankizumab-rzaa SC Inhibition of IL-23 SC formulation: CD, PSA,
+injection, risankizumab-rzaa IV infusion) PsO, UC
+IV formulation: CD, UC
+Tremfya® (guselkumab SC injection, Inhibition of IL-23 SC formulation: PsA, PsO, UC
+guselkumab IV infusion) IV formulation: UC
+Entyvio® (vedolizumab IV infusion, Integrin receptor CD, UC
+vedolizumab SC injection) antagonist
+Oral Therapies/Targeted Synthetic Oral Small Molecule Drugs
+Otezla® (apremilast tablets) Inhibition of PDE4 PsO, PsA
+Cibinqo™ (abrocitinib tablets) Inhibition of JAK AD
+pathways
+Olumiant® (baricitinib tablets) Inhibition of JAK RA, AA
+pathways
+Litfulo® (ritlecitinib capsules) Inhibition of JAK AA
+pathways
+18 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Etanercept Products Prior
+Authorization Policy
+Leqselvi® (deuruxolitinib tablets) Inhibition of JAK AA
+pathways
+Rinvoq® (upadacitinib extended-release Inhibition of JAK AD, AS, nr-axSpA, RA, PsA,
+tablets) pathways UC
+Rinvoq® LQ (upadacitinib oral solution) Inhibition of JAK PsA, PJIA
+pathways
+Sotyktu® (deucravacitinib tablets) Inhibition of TYK2 PsO
+Xeljanz® (tofacitinib tablets/oral Inhibition of JAK RA, PJIA, PsA, UC
+solution) pathways
+Xeljanz® XR (tofacitinib extended- Inhibition of JAK RA, PsA, UC
+release tablets) pathways
+Zeposia® (ozanimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+Velsipity® (etrasimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+* Not an all-inclusive list of indications. Refer to the prescribing information for the respective agent
+for FDA-approved indications; SC – Subcutaneous; TNF – Tumor necrosis factor; AS – Ankylosing
+spondylitis; CD – Crohn’s disease; JIA – Juvenile idiopathic arthritis; PsO – Plaque psoriasis; PsA –
+Psoriatic arthritis; RA – Rheumatoid arthritis; UC – Ulcerative colitis; nr-axSpA – Non-radiographic
+axial spondyloarthritis; IV – Intravenous, PJIA – Polyarticular juvenile idiopathic arthritis; IL –
+Interleukin; SJIA – Systemic juvenile idiopathic arthritis; ^ Off-label use of Kineret in JIA supported in
+guidelines; ERA – Enthesitis-related arthritis; DMARD – Disease-modifying antirheumatic drug; PDE4 –
+Phosphodiesterase 4; JAK – Janus kinase; AD – Atopic dermatitis; AA – Alopecia areata; TYK2 –
+Tyrosine kinase 2.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2024 The Cigna
+Group.
+18 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Etanercept Products Prior
+Authorization Policy

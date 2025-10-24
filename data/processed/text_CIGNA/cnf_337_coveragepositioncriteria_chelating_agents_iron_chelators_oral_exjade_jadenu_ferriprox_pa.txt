@@ -1,0 +1,276 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Chelating Agents – Iron Chelators (Oral) Prior Authorization Policy
+• Exjade® (deferasirox tablets for suspension − Novartis, generic)
+• Jadenu® (deferasirox tablets − Novartis, generic)
+• Jadenu® Sprinkle (deferasirox oral granules − Novartis, generic)
+• Ferriprox® (deferiprone tablets and oral solution – Chiesi, generic
+[tablets only])
+REVIEW DATE: 01/29/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Exjade, Jadenu (granules and tablets), and Ferriprox (granules and oral solution)
+are orally administered iron chelators used for the treatment of iron overload.1-4
+Exjade and Jadenu have the same chemical entity (deferasirox) in different
+formulations.1,2 Note: deferoxamine is an intravenously administered iron chelator
+that is not targeted in this Policy.
+Deferasirox (Exjade, Jadenu/Sprinkle; generics) is indicated for the following
+uses:1,2
+• Chronic iron overload due to blood transfusions (transfusional
+hemosiderosis), in patients ≥ 2 years of age.
+• Chronic iron overload in non-transfusion-dependent thalassemia
+syndromes, in patients ≥ 10 years of age with a liver iron concentration of
+at least 5 mg of iron per gram of liver dry weight and a serum ferritin level >
+300 mcg/L.
+Page 1 of 7 - Cigna National Formulary Coverage - Policy:Chelating Agents – Iron Chelators (Oral) Prior
+Authorization Policy
+Limitations of Use: The safety and efficacy of deferasirox when administered
+with other iron chelation therapy have not been established.1,2
+Deferiprone tablets (Ferriprox tablets, generic) are indicated for the following uses:3
+• Transfusional iron overload with thalassemia syndromes, in patients ≥
+8 years of age.
+• Transfusional iron overload with sickle cell disease or other anemias,
+in patients ≥ 8 years of age.
+Ferriprox (deferiprone) oral solution is indicated for the following uses:4
+• Transfusional iron overload with thalassemia syndromes, in patients ≥
+3 years of age.
+• Transfusional iron overload with sickle cell disease or other anemias,
+in patients ≥ 3 years of age.
+Limitations of Use: Safety and effectiveness of deferiprone have not been
+established for the treatment of transfusional iron overload in patients with
+myelodysplastic syndrome (MDS) or in patients with Diamond Blackfan
+anemia.3,4
+Table 1. Availability of Oral Iron Chelators.1-4
+Exjade Ferriprox Jadenu/Sprinkle
+(deferasirox tablets for (deferiprone tablets and oral (deferasirox granules and
+suspension) solution) tablets)
+• 125 mg Tablets Solution Granules Tablets
+• 250 mg • 500 mg 100 mg/mL • 90 mg • 90 mg
+• 500 mg • 1000 mg • 180 mg • 180 mg
+• 360 mg • 360 mg
+Disease Overview
+Iron chelating therapy should be considered in all patients who require long-term
+blood transfusions.5 Patients with sickle cell disease, myelodysplastic syndromes
+(MDS), thalassemia major, Diamond-Blackfan anemia, aplastic anemia, and other
+congenital and acquired forms of refractory anemia (e.g., hereditary
+hemochromatosis) may require regular blood transfusions and as a result, may
+require iron chelating therapy. This is because the body does not have an efficient
+mechanism to excrete iron. In patients requiring multiple blood transfusions, iron
+accumulates and is deposited into multiple organ systems. The long-term
+consequences of chronic iron overload include multiple organ dysfunction (e.g.,
+heart, liver) and/or organ failure. Iron chelation therapy is necessary to prevent
+organ failure and decrease mortality.
+Other Uses with Supportive Evidence
+Iron overload in thalassemia intermedia is mainly due to increased intestinal
+absorption of iron due to chronic anemia.10 Transfusions play a minor role in iron
+overloading in these patients, but iron chelation therapy is indicated for thalassemia
+intermedia. A 5-year randomized, open-label, long-term trial was conducted in
+patients (n = 88) with thalassemia intermedia comparing Ferriprox with
+7 Pages - Cigna National Formulary Coverage - Policy:Chelating Agents – Iron Chelators (Oral) Prior Authorization
+Policy
+deferoxamine intravenous (IV) treatment. After 5 years, there were no statistically
+significant differences between Ferriprox and deferoxamine in the decrease in mean
+serum ferritin levels and overall survival. There are data available from other
+studies as well with Ferriprox use in iron-loaded non-transfusion dependent
+thalassemias.11
+GUIDELINES
+• Thalassemia Syndromes:
+o The Thalassemia International Federation published guidelines (2021)
+for transfusion-dependent thalassemia.7 Initiation of an iron chelator
+generally starts after 10 to 20 red blood cell (RBC) infusions or when
+serum ferritin level is > 1,000 mcg/L. Recommendations advise use
+based on patient characteristics and FDA-approved indications, and
+also advocate for switching, rotating, and combining chelator regimens
+as needed to control iron balance or distribution.
+o The Thalassemia International Federation guidelines for the
+management of non-transfusion dependent thalassemia (2023)
+recommend iron chelation therapy with deferasirox in patients ≥ 10
+years of age with liver iron concentration ≥ 5 mg of iron per gram of
+liver dry weight, serum ferritin level ≥ 800 ng/mL, and other
+scenarios.6
+o The American Heart Association (AHA) published a consensus
+statement (2013) on cardiovascular function and treatment in patients
+with β-thalassemia major.8 Deferasirox, deferiprone, and
+deferoxamine (injectable iron chelator) are recommended chelating
+treatments. The AHA advises the use of Ferriprox monotherapy in
+patients with cardiac siderosis, patients with reduced left ventricular
+ejection fraction (LVEF), or asymptomatic left ventricular dysfunction.
+Exjade and Jadenu monotherapy can be used in patients with
+detectable cardiac iron levels and normal cardiac function. However,
+Exjade and Jadenu are not recommended as first-choice treatment for
+cardiac siderosis with cardiac iron (T2*) < 6 ms or in patients with
+reduced LVEF.
+• MDS: The National Comprehensive Cancer Network (NCCN) guidelines for
+MDS (version 2.2025 – January 17, 2025) have recommendations for the
+management of iron overload.9 NCCN advises consideration of deferasirox
+orally or deferoxamine (injectable iron chelator) for iron chelation to
+decrease iron overload (aiming for target ferritin level < 1,000 mcg/mL) in
+patients who have received >20 to 30 RBC transfusions, particularly for
+patients with lower-risk MDS or who are potential transplant candidates (with
+low to intermediate-1 MDS). The guidelines note that deferiprone is
+available; however, controversy remains regarding the use of this agent for
+MDS due to the Boxed Warning for agranulocytosis.
+POLICY STATEMENT
+7 Pages - Cigna National Formulary Coverage - Policy:Chelating Agents – Iron Chelators (Oral) Prior Authorization
+Policy
+Prior Authorization is recommended for prescription benefit coverage of oral iron
+chelators. All approvals are provided for the duration noted below. Because of the
+specialized skills required for evaluation and diagnosis of patients treated with oral
+iron chelators as well as the monitoring required for adverse events and long-term
+efficacy, initial approval requires oral iron chelators to be prescribed by or in
+consultation with a physician who specializes in the condition being treated.
+Documentation: Documentation is required for use of oral iron chelators as noted
+in the criteria as [documentation required]. Documentation may include, but is
+not limited to, chart notes, prescription claims records, prescription receipts, and/or
+other information.
+• Exjade® (deferasirox tablets for suspension - Novartis, generic)
+• Jadenu® (deferasirox tablets - Novartis, generic)
+• Jadenu® Sprinkle (deferasirox oral granules - Novartis, generic)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+CRITERIA
+I. Coverage of deferasirox is recommended in those who meet one of the
+following criteria:
+FDA-Approved Indications
+1. Iron Overload, Chronic – Transfusion-Related. Approve for 1 year if the
+patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve if the patient meets ALL of the following (i, ii, and
+iii):
+i. Patient is receiving blood transfusions at regular intervals for a chronic
+condition; AND
+Note: Examples of chronic conditions include thalassemia syndromes,
+myelodysplastic syndrome, chronic anemia, and sickle cell disease.
+ii. Prior to starting chelating therapy, serum ferritin level was > 1,000 mcg/L
+[documentation required]; AND
+iii. The medication is prescribed by or in consultation with a hematologist; OR
+B) Patient is Currently Receiving deferasirox . Approve if the patient is
+benefiting from therapy, according to the prescriber.
+Note: Examples of benefit from therapy include reduction in serum ferritin
+levels, stable disease, and reduced organ iron load.
+2. Iron Overload, Chronic – Non-Transfusion-Dependent Thalassemia
+Syndromes. Approve for 1 year if the patient meets ONE of the following (A or
+B):
+A) Initial Therapy. Approve if the patient meets BOTH of the following (i and ii):
+i. Prior to starting chelating therapy, serum ferritin level was > 300 mcg/L
+[documentation required]; AND
+7 Pages - Cigna National Formulary Coverage - Policy:Chelating Agents – Iron Chelators (Oral) Prior Authorization
+Policy
+ii. The medication is prescribed by or in consultation with a hematologist; OR
+B) Patient is Currently Receiving deferasirox. Approve if the patient is
+benefiting from therapy, according to the prescriber.
+Note: Examples of benefit from therapy include reduction in serum ferritin
+levels, stable disease, and reduced organ iron load.
+• Ferriprox® (deferiprone tablets and oral solution – Chiesi, generic
+[tablets only])
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+II. Coverage of deferiprone is recommended in those who meet one of the
+following criteria:
+FDA-Approved Indications
+1. Iron Overload, Chronic – Transfusion-Related Due to Thalassemia
+Syndromes. Approve for 1 year if the patient meets ONE of the following (A or
+B):
+A) Initial Therapy. Approve if the patient meets BOTH of the following (i and ii):
+i. Prior to starting chelating therapy, serum ferritin level was > 1,000 mcg/L
+[documentation required]; AND
+ii. The medication is prescribed by or in consultation with a hematologist; OR
+B) Patient is Currently Receiving deferiprone. Approve if the patient is
+benefiting from therapy, according to the prescriber.
+Note: Examples of benefit from therapy include reduction in serum ferritin
+levels, stable disease, and reduced organ iron load.
+2. Iron Overload, Chronic – Transfusion-Related Due to Sickle Cell Disease
+or Other Anemias. Approve for 1 year if the patient meets ONE of the
+following (A or B):
+A) Initial Therapy. Approve if the patient meets BOTH of the following (i and ii):
+i. Prior to starting chelating therapy, serum ferritin level was > 1,000 mcg/L
+[documentation required]; AND
+ii. The medication is prescribed by or in consultation with a hematologist; OR
+B) Patient is Currently Receiving deferiprone. Approve if the patient is
+benefiting from therapy, according to the prescriber.
+Note: Examples of benefit from therapy include reduction in serum ferritin
+levels, stable disease, and reduced organ iron load.
+Other Uses with Supportive Evidence
+3. Iron Overload, Chronic – Non-Transfusion-Dependent Thalassemia
+Syndromes. Approve for 1 year if the patient meets ONE of the following (A or
+B):
+7 Pages - Cigna National Formulary Coverage - Policy:Chelating Agents – Iron Chelators (Oral) Prior Authorization
+Policy
+A) Initial Therapy. Approve if the patient meets BOTH of the following (i and ii):
+i. Prior to starting chelating therapy, serum ferritin level was > 300 mcg/L
+[documentation required]; AND
+ii. The medication is prescribed by or in consultation with a hematologist; OR
+B) Patient is Currently Receiving deferiprone. Approve if the patient is
+benefiting from therapy, according to the prescriber.
+Note: Examples of benefit from therapy include reduction in serum ferritin
+levels, stable disease, and reduced organ iron load.
+CONDITIONS NOT COVERED
+• Exjade® (deferasirox tablets for suspension - Novartis, generic)
+• Jadenu® (deferasirox tablets - Novartis, generic)
+• Jadenu® Sprinkle (deferasirox oral granules - Novartis, generic)
+• Ferriprox® (deferiprone tablets and oral solution – Chiesi, generic
+[tablets only])
+is(are) considered experimental, investigational or unproven for ANY other
+use(s). Criteria will be updated as new published data are available.
+REFERENCES
+1. Exjade tablets for suspension [prescribing information]. East Hanover, NJ: Novartis; July 2024.
+2. Jadenu tablets and Jadenu Sprinkle oral granules [prescribing information]. East Hanover, NJ:
+Novartis; July 2024.
+3. Ferriprox tablets [prescribing information]. Cary, NC: Chiesi; July 2023.
+4. Ferriprox oral solution [prescribing information]. Cary, NC: Chiesi; November 2021.
+5. Brittenham GM. Iron-chelating therapy for transfusional iron overload. N Engl J Med.
+2011;364:146-156.
+6. Taher AT, Musallam KM, Cappellini MD. Guidelines for the Management of Non-Transfusion-
+Dependent β-Thalassaemia. 3rd ed. Nicosia (Cyprus): Thalassemia International Federation; 2023.
+7. Farmakis D, Porter J, Taher A, et al. 2021 Thalassaemia International Federation Guidelines for
+the Management of Transfusion-dependent Thalassemia. Hemasphere. 2022;6(8):e732.
+Published 2022 Jul 29.
+8. Pennell DJ, Udelson JE, Arai AE, et al. Cardiovascular function and treatment in β-thalassemia
+major. A consensus statement from the American Heart Association. Circulation. 2013;128:281-
+308.
+9. The NCCN Myelodysplastic Syndrome Clinical Practice Guidelines in Oncology (version 2.2025 –
+January 17, 2025). © 2024 National Comprehensive Cancer Network. Available at:
+http://www.nccn.org. Accessed on January 27, 2025.
+10. Calvaruso G, Vitrano A, Di Maggio R, et al. Deferiprone versus deferoxamine in thalassemia
+intermedia: results from a 5-year long-term Italian multicenter randomized clinical trial. Am J
+Hematol. 2015;90:634-638.
+11. Kontoghiorghe CN, Kontoghiorghes GJ. Efficacy and safety of iron-chelation therapy with
+deferoxamine, deferiprone, and deferasirox for the treatment of iron-loaded patients with non-
+transfusion-dependent thalassemia syndromes. Drug Des Devel Ther. 2016;10:465-481.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+7 Pages - Cigna National Formulary Coverage - Policy:Chelating Agents – Iron Chelators (Oral) Prior Authorization
+Policy
+Early Annual No criteria changes. 01/31/2024
+Revision
+Annual Patients Currently Receiving an Oral Chelator: The verbiage 01/29/2025
+Revision “Approve if the patient is benefiting from therapy, as confirmed by
+the prescriber.” was updated to “Approve if the patient is benefiting
+from therapy, according to the prescriber.”
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2025 The Cigna
+Group.
+7 Pages - Cigna National Formulary Coverage - Policy:Chelating Agents – Iron Chelators (Oral) Prior Authorization
+Policy

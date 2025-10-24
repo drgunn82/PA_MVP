@@ -1,0 +1,264 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1288-9
+Program Prior Authorization/Notification
+Medications *Nucala® (mepolizumab)
+*This program applies to the prefilled autoinjector and prefilled syringe
+formulations.
+P&T Approval Date 8/2019, 4/2020, 3/2021, 9/2021, 11/2021, 11/2022, 7/2023, 7/2024
+Effective Date 10/1/2024
+1. Background:
+Nucala (mepolizumab) is an interleukin-5 receptor antagonist indicated for add-on maintenance
+treatment of patients aged 6 years and older with severe asthma and with an eosinophilic phenotype,
+for add-on maintenance treatment of adult patients 18 years and older with chronic rhinosinusitis with
+nasal polyps (CRSwNP), the treatment of adult patients with eosinophilic granulomatosis with
+polyangiitis (EGPA), and the treatment of adult and pediatric patients aged 12 years and older with
+hypereosinophilic syndrome (HES) for ≥6 months without an identifiable non-hematologic secondary
+cause1.
+Limitations of use:
+Nucala is not for relief of acute bronchospasm or status asthmaticus.
+2. Coverage Criteriaa:
+A. Eosinophilic granulomatosis with polyangiitis (EGPA)
+1. Initial Authorization
+a. Nucala will be approved based on one of the following criteria:
+(1) All of the following:
+(a) Patient has been established on therapy with Nucala under an active
+UnitedHealthcare medical benefit prior authorization for the treatment of
+EGPA
+-AND-
+(b) Documentation of positive clinical response to Nucala therapy
+-AND-
+(c) Patient is not receiving Nucala in combination with any of the following:
+i. Anti-interleukin 5 therapy [e.g., Cinqair (resilizumab), Fasenra
+(benralizumab)]
+ii. Anti-IgE therapy [e.g., Xolair (omalizumab)]
+© 2024 UnitedHealthcare Services, Inc.
+1
+iii. Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+iv. Thymic stromal lymphopoietin (TSLP) inhibitor therapy [e.g., Tezspire
+(tezepelumab)]
+-OR-
+(2) Both of the following:
+(a) Diagnosis of EGPA
+-AND-
+(b) Patient is not receiving Nucala in combination with any of the following:
+i. Anti-interleukin 5 therapy [e.g., Cinqair (resilizumab), Fasenra
+(benralizumab)]
+ii. Anti-IgE therapy [e.g., Xolair (omalizumab)]
+iii. Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+iv. Thymic stromal lymphopoietin (TSLP) inhibitor therapy [e.g., Tezspire
+(tezepelumab)]
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Nucala will be approved based on all of the following criterion:
+(1) Documentation of positive clinical response to Nucala therapy
+-AND-
+(2) Patient is not receiving Nucala in combination with any of the following:
+(a) Anti-interleukin 5 therapy [e.g., Cinqair (resilizumab), Fasenra
+(benralizumab)]
+(b) Anti-IgE therapy [e.g., Xolair (omalizumab)]
+(c) Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+(d) Thymic stromal lymphopoietin (TSLP) inhibitor therapy [e.g., Tezspire
+(tezepelumab)]
+Authorization will be issued for 12 months.
+B. Asthma
+1. Initial Authorization
+a. Nucala will be approved based on one of the following criteria:
+(1) All of the following:
+© 2024 UnitedHealthcare Services, Inc.
+2
+(a) Patient has been established on therapy with Nucala under an active
+UnitedHealthcare medical benefit prior authorization for the treatment of
+severe asthma
+-AND-
+(b) Documentation of positive clinical response to Nucala therapy
+-AND-
+(c) Nucala will be used in combination with maintenance controller
+medications [e.g., combination inhaled corticosteroid (ICS)/long-acting
+beta2 agonist (LABA), ICS, LABA]
+-AND-
+(d) Patient is not receiving Nucala in combination with any of the following:
+i. Anti-interleukin 5 therapy [e.g., Cinqair (resilizumab), Fasenra
+(benralizumab)]
+ii. Anti-IgE therapy [e.g., Xolair (omalizumab)]
+iii. Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+iv. Thymic stromal lymphopoietin (TSLP) inhibitor therapy [e.g., Tezspire
+(tezepelumab)]
+-OR-
+(2) All of the following:
+(a) Diagnosis of severe asthma
+-AND-
+(b) Nucala will be used in combination with maintenance therapy [e.g.,
+Advair/AirDuo (fluticasone/salmeterol), Breo Ellipta (fluticasone
+furoate/vilanterol), Symbicort (budesonide/ formoterol), Trelegy Ellipta
+(fluticasone furoate/umeclidinium/vilanterol)].
+-AND-
+(c) Asthma is an eosinophilic phenotype
+-AND-
+(d) Patient is not receiving Nucala in combination with any of the following:
+i. Anti-interleukin 5 therapy [e.g., Cinqair (resilizumab), Fasenra
+(benralizumab)]
+ii. Anti-IgE therapy [e.g., Xolair (omalizumab)]
+iii. Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+© 2024 UnitedHealthcare Services, Inc.
+3
+iv. Thymic stromal lymphopoietin (TSLP) inhibitor therapy [e.g., Tezspire
+(tezepelumab)]
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Nucala will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Nucala therapy
+-AND-
+(2) Nucala is being used in combination with maintenance therapy [e.g.,
+Advair/AirDuo (fluticasone/salmeterol), Breo Ellipta (fluticasone
+furoate/vilanterol), Symbicort (budesonide/ formoterol), Trelegy Ellipta
+(fluticasone furoate/umeclidinium/vilanterol)].
+-AND-
+(3) Patient is not receiving Nucala in combination with any of the following:
+(a) Anti-interleukin 5 therapy [e.g., Cinqair (resilizumab), Fasenra
+(benralizumab)]
+(b) Anti-IgE therapy [e.g., Xolair (omalizumab)]
+(c) Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+(d) Thymic stromal lymphopoietin (TSLP) inhibitor therapy [e.g., Tezspire
+(tezepelumab)]
+Authorization will be issued for 12 months.
+C. Hypereosinophilic Syndrome (HES)
+1. Initial Authorization
+a. Nucala will be approved based on one of the following criteria:
+(1) All of the following:
+(a) Patient has been established on therapy with Nucala under an active
+UnitedHealthcare medical benefit prior authorization for the treatment of
+HES
+-AND-
+(b) Documentation of positive clinical response to Nucala therapy
+-AND-
+(c) Patient is not receiving Nucala in combination with any of the following:
+© 2024 UnitedHealthcare Services, Inc.
+4
+i. Anti-interleukin 5 therapy [e.g., Cinqair (resilizumab), Fasenra
+(benralizumab)]
+ii. Anti-IgE therapy [e.g., Xolair (omalizumab)]
+iii. Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+iv. Thymic stromal lymphopoietin (TSLP) inhibitor therapy [e.g., Tezspire
+(tezepelumab)]
+-OR-
+(2) All of the following:
+(a) Diagnosis of HES ≥ 6 months ago
+-AND-
+(b) There is no identifiable non-hematologic secondary cause of the patient’s
+HES (e.g., drug hypersensitivity, parasitic helminth infection, HIV
+infection, non-hematologic malignancy)
+-AND-
+(c) Patient is not receiving Nucala in combination with any of the following:
+i. Anti-interleukin 5 therapy [e.g., Cinqair (resilizumab), Fasenra
+(benralizumab)]
+ii. Anti-IgE therapy [e.g., Xolair (omalizumab)]
+iii. Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+iv. Thymic stromal lymphopoietin (TSLP) inhibitor therapy [e.g., Tezspire
+(tezepelumab)]
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Nucala will be approved based on both of the following criterion:
+(1) Documentation of positive clinical response to Nucala therapy
+-AND-
+(2) Patient is not receiving Nucala in combination with any of the following:
+(a) Anti-interleukin 5 therapy [e.g., Cinqair (resilizumab), Fasenra
+(benralizumab)]
+(b) Anti-IgE therapy [e.g., Xolair (omalizumab)]
+(c) Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+(d) Thymic stromal lymphopoietin (TSLP) inhibitor therapy [e.g., Tezspire
+(tezepelumab)]
+© 2024 UnitedHealthcare Services, Inc.
+5
+Authorization will be issued for 12 months.
+D. Chronic Rhinosinusitis with Nasal Polyps (CRSwNP)
+1. Initial Authorization
+a. Nucala will be approved based on one of the following criteria:
+(1) All of the following:
+(a) Patient has been established on therapy with Nucala under an active
+UnitedHealthcare medical benefit prior authorization for the treatment of
+CRSwNP
+-AND-
+(b) Documentation of positive clinical response to Nucala therapy
+-AND-
+(c) Patient will continue to receive Nucala as add-on maintenance therapy
+-AND-
+(d) Patient is not receiving Nucala in combination with any of the following:
+i. Anti-interleukin 5 therapy [e.g., Cinqair (resilizumab), Fasenra
+(benralizumab)]
+ii. Anti-IgE therapy [e.g., Xolair (omalizumab)]
+iii. Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+iv. Thymic stromal lymphopoietin (TSLP) inhibitor therapy [e.g., Tezspire
+(tezepelumab)]
+-OR-
+(2) All of the following:
+(a) Diagnosis of chronic rhinosinusitis with nasal polyps (CRSwNP).
+-AND-
+(b) Will be used as add-on maintenance therapy
+-AND-
+(c) Patient is not receiving Nucala in combination with any of the following:
+i. Anti-interleukin 5 therapy [e.g., Cinqair (resilizumab), Fasenra
+(benralizumab)]
+© 2024 UnitedHealthcare Services, Inc.
+6
+ii. Anti-IgE therapy [e.g., Xolair (omalizumab)]
+iii. Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+iv. Thymic stromal lymphopoietin (TSLP) inhibitor therapy [e.g., Tezspire
+(tezepelumab)]
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Nucala will be approved based on both of the following criterion:
+(1) Documentation of positive clinical response to Nucala therapy
+-AND-
+(2) Patient will continue to receive Nucala as add-on maintenance therapy
+-AND-
+(3) Patient is not receiving Nucala in combination with any of the following:
+(a) Anti-interleukin 5 therapy [e.g., Cinqair (resilizumab), Fasenra
+(benralizumab)]
+(b) Anti-IgE therapy [e.g., Xolair (omalizumab)]
+(c) Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+(d) Thymic stromal lymphopoietin (TSLP) inhibitor therapy [e.g., Tezspire
+(tezepelumab)]
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limitations may be in place.
+• Medical Necessity may be in place.
+• The single-dose vial is typically covered under the medical benefit. Please refer to the United
+Healthcare Medical Benefit Drug Policy: “Respiratory Interleukins (Cinqair®, Fasenra®, and
+Nucala®)”.
+4. References:
+1. Nucala® [package insert]. Research Triangle Park, NC; GlaxoSmithKline, LLC; March 2023.
+© 2024 UnitedHealthcare Services, Inc.
+7
+Program Prior Authorization/Notification - Nucala (mepolizumab)
+Change Control
+8/2019 New program.
+4/2020 Updated program to address specific product formulations. Updated
+references.
+3/2021 Updated program to add HES indication and update age requirement for
+severe asthma indication. Added limitations of use. Updated references.
+9/2021 Added coverage criteria for new indication, chronic rhinosinusitis with
+nasal polyps. Updated background and references.
+11/2021 Added coverage criteria for patients established on therapy under
+UnitedHealthcare medical benefit.
+1/2022 Administrative change to fix typo.
+11/2022 Annual review. Updated criteria for patients established on Nucala
+under active UHC PA for Asthma and CRSwNP. Added state mandate
+footnote and updated reference.
+7/2023 Within the Asthma section, added/updated examples of ICS-containing
+maintenance medications, removed bypass of eosinophilic phenotype
+requirement for patients currently dependent on maintenance therapy
+with oral corticosteroid, and added Tezspire to list of agents that should
+not be used in combination with Nucala.
+7/2024 Annual review. Updated background with modified indication for
+CRSwNP. Removed nasal corticosteroid requirement in CRSwNP
+criteria. Added Tezspire to list of drugs not allowed for concomitant
+use. Updated reference.
+© 2024 UnitedHealthcare Services, Inc.
+8

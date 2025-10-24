@@ -1,0 +1,95 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1145-12
+Program Prior Authorization/Notification
+Medication Zydelig® (idelalisib)
+P&T Approval Date 10/2014, 10/2015, 9/2016, 9/2017, 9/2018, 9/2019, 9/2020, 10/2021,
+5/2022, 5/2023, 5/2024, 5/2025
+Effective Date 8/1/2025
+1. Background:
+Zydelig (idelalisib) is a kinase inhibitor indicated for the treatment of patients with relapsed
+chronic lymphocytic leukemia (CLL), in combination with rituximab, in patients for whom
+rituximab alone would be considered appropriate therapy due to other co-morbidities.1,2 The
+National Cancer Comprehensive Network (NCCN) also recommends the use of Zydelig as
+second-line and subsequent therapy as a single agent or in combination with rituximab for
+CLL/SLL with del(17p)/TP53 mutation in patients who have indications for treatment.2
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Zydelig will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Chronic Lymphocytic Leukemia (CLL) / Small Lymphocytic Lymphoma (SLL)
+1. Initial Authorization
+a. Zydelig will be approved based on both of the following criteria:
+(1) Diagnosis of Chronic Lymphocytic Leukemia (CLL) / small lymphocytic
+lymphoma (SLL)
+-AND-
+(2) One of the following:
+© 2025 UnitedHealthcare Services, Inc.
+1
+(a) Disease has relapsed
+(b) Disease is refractory
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Zydelig will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Zydelig therapy
+Authorization will be issued for 12 months.
+C. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Zydelig [package insert]. Foster City, CA: Gilead Science, Inc. February 2022.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org/professionals/drug_compendium/content/contents.asp. Accessed
+March 27, 2025.
+Program Prior Authorization/Notification - Zydelig (idelalisib)
+Change Control
+10/2014 New program for Zydelig approved by FDA on 6/23/2014.
+10/2015 Annual review. Added coverage for gastric and nongastric MALT
+lymphomas, and splenic marginal zone lymphoma. Revised CLL/SLL
+and primary cutaneous B-cell lymphoma criteria. Updated background
+and references.
+9/2016 Annual review. Added coverage for additional cutaneous B-cell
+lymphoma diseases. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+2
+9/2017 Annual review. Added coverage for additional nodal marginal zone
+lymphoma. Updated background and references.
+9/2018 Annual review. No changes to the coverage criteria. Updated
+references.
+9/2019 Annual review. Updated NHL section based on NCCN guidelines.
+Updated references. Added general NCCN recommended review
+criteria.
+9/2020 Annual review. No changes to coverage criteria. Updated background
+references.
+10/2021 Annual review. Reclassified Non-Hodgkin Lymphoma to B-cell
+Lymphomas to align with NCCN guidelines. Updated references.
+5/2022 Annual review. Removed coverage for follicular B-cell non-Hodgkin
+lymphoma, small lymphocytic lymphoma, gastric and nongastric
+MALT lymphomas, splenic marginal zone lymphoma, and nodal
+marginal zone lymphoma based on package insert and NCCN
+guidelines. Updated background and references.
+5/2023 Annual review. Added state mandate. Updated background and clarified
+criteria for CLL/SLL per NCCN guidelines. Updated references.
+5/2024 Annual review. Updated references.
+5/2025 Annual review. No changes to clinical criteria. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+3

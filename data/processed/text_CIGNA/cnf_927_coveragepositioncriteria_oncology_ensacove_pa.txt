@@ -1,0 +1,105 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Oncology (Oral – Anaplastic Lymphoma Kinase [ALK]-Positive Agent) –
+Ensacove Prior Authorization Policy
+• Ensacove® (ensartinib capsules − Xcovery)
+REVIEW DATE: 01/02/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Ensacove, a kinase inhibitor, is indicated for the treatment of anaplastic lymphoma
+kinase (ALK)-positive, locally advanced or metastatic Non-Small Cell Lung
+Cancer (NSCLC) in adults who have not previously received an ALK inhibitor.1
+An FDA-approved test to detect ALK rearrangements for selecting patients for
+treatment with Ensacove is not currently available.1 However, other approved tests
+are available to detect ALK rearrangements.3
+GUIDELINES
+The National Comprehensive Cancer Network (NCCN) NSCLC guidelines (version
+3.2025 – January 14, 2025) have several recommendations regarding the ALK
+inhibitors.2 For the first-line options in the metastatic setting, if ALK rearrangement
+was discovered prior to first-line systemic therapy, Alecensa® (alectinib capsules),
+Page 1 of 3 - Cigna National Formulary Coverage - Policy:Oncology (Oral – Anaplastic Lymphoma Kinase [ALK]-
+Positive Agent) – Ensacove Prior Authorization Policy
+Alunbrig® (brigatinib tablets), Ensacove, and Lorbrena® (lorlatinib tablets) are all
+“Preferred” therapies (all category 1); Zykadia® (ceritinib capsules and tablets) and
+Xalkori are both listed under “Useful in Certain Circumstances” as first-line
+therapies (both category 1). For patients who progress on Alecensa, Alunbrig,
+Ensacove, Lorbrena, or Zykadia, the recommendations for subsequent therapy are
+to continue the ALK inhibitor the patient is currently receiving, use Lorbrena for
+resistant mutations, and consider definitive local therapy for limited lesions or
+systemic therapy for multiple lesions. Lorbrena is recommended for multiple
+lesions in the subsequent therapy setting if not previously given (category 2A).
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Ensacove.
+All approvals are provided for the duration noted below.
+• Ensacove® (ensartinib capsules - Xcovery)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Non-Small Cell Lung Cancer. Approve for 1 year if the patient meets ALL of
+the following (A, B, C, D, and E):
+A) Patient is ≥ 18 years of age; AND
+B) Patient has locally advanced or metastatic disease; AND
+C) Patient has anaplastic lymphoma kinase (ALK)-positive disease; AND
+D) The mutation was detected by an approved test; AND
+E) Patient has not previously received an ALK inhibitor.
+Note: Examples of ALK inhibitors are Alecensa® (alectinib capsules),
+Alunbrig® (brigatinib tablets), Lorbrena® (lorlatinib tablets), Zykadia®
+(ceritinib capsules and tablets), and Xalkori® (crizotinib capsules and oral
+pellets).
+CONDITIONS NOT COVERED
+• Ensacove® (ensartinib capsules - Xcovery)
+is(are) considered not medically necessary for ANY other use(s); criteria
+will be updated as new published data are available).
+REFERENCES
+1. Ensacove® capsules [prescribing information]. Miami, FL: Xcovery; December 2024.
+3 Pages - Cigna National Formulary Coverage - Policy:Oncology (Oral – Anaplastic Lymphoma Kinase [ALK]-
+Positive Agent) – Ensacove Prior Authorization Policy
+2. The NCCN Non-Small Cell Lung Cancer Clinical Practice Guidelines in Oncology (version 3.2025 –
+January 14, 2025). © 2025 National Comprehensive Cancer Network. Available at:
+http://www.nccn.org. Accessed on January 23, 2025.
+3. List of cleared or approved companion diagnostic devices (in vitro and imaging tools) [website].
+U.S. Food & Drug Administration. Current as of November 15, 2024. Available at:
+https://www.fda.gov/medical-devices/in-vitro-diagnostics/list-cleared-or-approved-companion-
+diagnostic-devices-in-vitro-and-imaging-tools. Accessed on December 31, 2024.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 01/02/2025
+DEU Update 01/23/2025: Updated guidelines section in Overview to address --
+Ensacove.
+Update 04/21/2025: The policy name was changed from “Oncology – N/A
+Ensacove PA Policy” to “Oncology (Oral – Anaplastic Lymphoma
+Kinase [ALK]-Positive Agent) – Ensacove PA Policy”.
+N/A – Not applicable.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management,
+Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Oncology (Oral – Anaplastic Lymphoma Kinase [ALK]-
+Positive Agent) – Ensacove Prior Authorization Policy

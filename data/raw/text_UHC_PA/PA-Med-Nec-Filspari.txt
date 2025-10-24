@@ -1,0 +1,72 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2301-3
+Program Prior Authorization/Medical Necessity
+Medication Filspari™ (sparsentan)
+P&T Approval Date 4/2023, 10/2024, 06/2025, 6/2025
+Effective Date 9/1/2025
+1. Background:
+Filspari (sparsentan) is indicated to slow kidney function decline in adults with primary
+immunoglobulin A nephropathy (IgAN) who are at risk for disease progression.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Filspari will be approved based on all of the following:
+a. Diagnosis of primary immunoglobulin A nephropathy (IgAN) confirmed by renal
+biopsy
+-AND-
+b. Patient is at risk of disease progression
+-AND-
+c. Used to slow kidney function decline
+-AND-
+d. Used to reduce proteinuria
+-AND-
+e. Estimated glomerular filtration rate (eGFR) ≥ 30 mL/min/1.73 m2
+-AND-
+f. Both of the following:
+1) Patient is on a maximized stable dose with one of the following prior to initiating
+therapy:
+a) maximally tolerated angiotensin converting enzyme (ACE) inhibitor (e.g.,
+captopril, enalapril)
+© 2025 UnitedHealthcare Services Inc.
+1
+b) maximally tolerated angiotensin II receptor blocker (ARB) (e.g.,
+candesartan, valsartan)
+-AND-
+2) Use of renin-angiotensin-aldosterone system (RAAS) inhibitors (e.g., ACE
+inhibitors, ARBs), endothelin receptor antagonists [(ERAs) e.g., Letairis,
+Opsumit, Tracleer)], and Tekturna will be discontinued prior to initiating
+treatment
+-AND-
+g. History of failure, contraindication or intolerance to a 30-day trial of a glucocorticoid
+(e.g., methylprednisolone, prednisone)
+-AND-
+h. Prescribed by or in consultation with a nephrologist
+Authorization will be issued for 12 months
+B. Reauthorization
+1. Filspari will be approved based on the following:
+a. Documentation of positive clinical response demonstrated by a reduction in
+proteinuria
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Filspari [package insert]. San Diego, CA: Traverse Therapeutics, Inc; April 2025.
+2. KDIGO 2021 Glomerular Diseases Guideline. October 2021; 100 (4S).
+© 2025 UnitedHealthcare Services Inc.
+2
+Program Prior Authorization/Medical Necessity – Filspari
+Change Control
+Date Change
+4/2023 New program
+10/2024 Updated disease progression criteria and criteria that use is to slow
+kidney decline. Updated references.
+6/2025 Updated references.
+© 2025 UnitedHealthcare Services Inc.
+3

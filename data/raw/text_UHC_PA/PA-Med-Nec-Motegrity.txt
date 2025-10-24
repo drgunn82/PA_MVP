@@ -1,0 +1,73 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2167-7
+Program Prior Authorization/Medical Necessity
+Medication Motegrity® (prucalopride)
+P&T Approval Date 6/2019, 6/2020, 6/2021, 6/2022, 11/2022, 6/2023, 6/2024
+Effective Date 9/1/2024
+1. Background:
+Motegrity (prucalopride) is indicated for the treatment of chronic idiopathic constipation
+in adults. Physicians and patients should periodically assess the need for continued
+treatment with Motegrity. Linzess® (linaclotide) is indicated for the treatment of chronic
+idiopathic constipation and irritable bowel syndrome with constipation in adults and the
+treatment of functional constipation (FC) in pediatric patients 6 to 17 years of age..
+Linzess has a black box warning regarding the risk of serious dehydration in pediatric
+patients less than 2 years of age and in patients with known or suspected mechanical
+gastrointestinal obstruction. Amitiza®* (lubiprostone) is indicated for the treatment of
+chronic idiopathic constipation and irritable bowel syndrome with constipation in adults
+and for the treatment opioid-induced constipation (OIC) in adult patients with chronic,
+non-cancer pain, including patients with chronic pain related to prior cancer or its
+treatment who do not require frequent (e.g., weekly) opioid dosage escalation.
+This program is intended to encourage the use of lower cost alternatives and requires a
+member to try lower cost alternatives before providing coverage for Motegrity.
+2. Coverage Criteriaa:
+1. Initial Authorization
+a. Motegrity will be approved based on both of the following criteria:
+1) Diagnosis of chronic idiopathic constipation
+- AND-
+2) History of failure, contraindication, or intolerance to both of the following:
+a) Linzess
+b) lubiprostone (generic Amitiza)
+Authorization will be issued for 12 months
+2. Reauthorization
+a. Motegrity will be approved based on the following criterion:
+(1) Documentation of positive clinical response to Motegrity therapy
+Authorization will be issued for 12 months
+© 2024 UnitedHealthcare Services Inc.
+1
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+*Brand only Amitiza may be excluded from benefit coverage.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+• Notification/Prior Authorization may be in place
+4. References:
+1. Amitiza [package insert]. Lexington, MA: Takeda pharmaceuticals America, Inc;
+November 2020.
+2. Linzess [package insert]. North Chicago, IL: AbbVie, Inc.; June 2023.
+3. Motegrity [package insert]. Lexington, MA: Takeda Pharmaceuticals America, Inc.;
+November 2020.
+Program Prior Authorization/Medical Necessity - Motegrity
+Change Control
+Date Change
+6/2019 New program
+6/2020 Annual review.
+6/2021 Annual review. Updated references.
+6/2022 Annual review. Updated references.
+11/2022 Review. The black box warning of Linzess changed the
+contraindication from patients less than 18 to patients less than 2 years
+of age therefore removed the age bypass for Amitiza.
+6/2023 Clarification to change control from 11/2022 - The black box warning
+of Linzess changed the contraindication from patients less than 18 to
+patients less than 2 years of age therefore removed the age bypass of
+age less than or equal to 17. Removed OTC step and added step through
+generic Amitiza.
+6/2024 Annual review. Updated background section and references.
+Referenced brand Amitiza exclusion.
+© 2024 UnitedHealthcare Services Inc.
+2

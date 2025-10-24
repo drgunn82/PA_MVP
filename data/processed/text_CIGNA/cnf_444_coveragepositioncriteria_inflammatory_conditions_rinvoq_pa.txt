@@ -1,0 +1,710 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Inflammatory Conditions – Rinvoq/Rinvoq LQ Prior Authorization Policy
+• Rinvoq® (upadacitinib extended-release tablets – AbbVie)
+• Rinvoq® LQ (upadacitinib oral solution – AbbVie)
+REVIEW DATE: 02/26/2025; selected revision 04/23/2025, 05/07/2025,
+06/11/2025
+I NSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Rinvoq, a Janus kinase inhibitor (JAKi), is indicated for the following uses:1
+• Ankylosing spondylitis, for treatment of active disease in adults who have
+had an inadequate response or intolerance to one or more tumor necrosis
+factor inhibitors (TNFis).
+• Atopic dermatitis, for treatment of refractory, moderate to severe atopic
+dermatitis in patients ≥ 12 years of age, whose disease is not adequately
+controlled with other systemic drug products (including biologics) or when
+those therapies are not advisable.
+• Crohn’s disease, for treatment of moderately to severely active disease in
+adults who have had an inadequate response or intolerance to one or more
+TNFis.
+• Giant cell arteritis, in adults.
+Page 1 of 15 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Rinvoq/Rinvoq LQ Prior
+Authorization Policy
+• Non-radiographic axial spondyloarthritis, in adults with objective signs
+of inflammation who have had an inadequate response or intolerance to one
+or more TNFis.
+• Polyarticular juvenile idiopathic arthritis (JIA), in patients ≥ 2 years of
+age with active disease who have had an inadequate response or intolerance
+to one or more TNFis.
+• Psoriatic arthritis, for treatment of active disease in patients > 2 years of
+age who have had an inadequate response or intolerance to one or more
+TNFis.
+• Rheumatoid arthritis, for treatment of moderately to severely active
+disease in adults who have had an inadequate response or intolerance to one
+or more TNFis.
+• Ulcerative colitis, for treatment of moderately to severely active disease in
+adults who have had an inadequate response or intolerance to one or more
+TNFis.
+Rinvoq LQ oral solution is only indicated for use in polyarticular JIA and psoriatic
+arthritis in patients 2 to < 18 years of age.1 Rinvoq LQ oral solution is not
+substitutable with Rinvoq extended-release tablets.
+For all indications, Rinvoq/Rinvoq LQ is not recommended for use in combination
+with other JAKis, biologics, or potent immunosuppressants such as azathioprine or
+cyclosporine.1
+Guidelines
+Guidelines are available for treatment of inflammatory conditions:
+• Ankylosing Spondylitis and Non-Radiographic Axial Spondyloarthritis:
+Current guidelines do not address Rinvoq. Guidelines from the American
+College of Rheumatology (ACR)/Spondylitis Association of
+America/Spondyloarthritis Research and Treatment Network (2019)
+recommend a TNFi as the initial biologic.2 In those who are secondary non-
+responders to a TNFi, a second TNFi is recommended over switching out of
+the class. Both TNFis and interleukin (IL)-17 blockers are recommended over
+Xeljanz®/Xeljanz® XR (tofacitinib tablets/tofacitinib extended release tablets).
+• Atopic Dermatitis: Guidelines for the care and management of atopic
+dermatitis from the American Academy of Dermatology (2023) and the
+American Academy of Allergy, Asthma and Immunology (2023) have been
+updated to address Rinvoq.3,4 Systemic therapies are recommended in
+patients with moderate to severe or widespread disease, in those with
+impaired quality of life, and those whose atopic dermatitis is refractory to
+topical therapies. Biologic agents, such as Dupixent® (dupilumab
+subcutaneous injection) or Adbry® (tralokinumab-ldrm subcutaneous
+injection), are recommended as initial systemic treatment due to their
+favorable efficacy and safety profiles compared to traditional systemic
+therapies (e.g., azathioprine, cyclosporine, methotrexate, mycophenolate
+mofetil). Rinvoq may be considered in adults refractory or intolerant to
+Dupixent or Adbry.
+Page 2 of 15 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Rinvoq/Rinvoq LQ Prior
+Authorization Policy
+• Crohn’s Disease: Current guidelines do not address Rinvoq. The American
+College of Gastroenterology (ACG) has guidelines for Crohn’s disease
+(2018).5 TNFis are listed as an option for disease that is resistant to
+corticosteroids, severely active disease, perianal fistulizing disease, and
+maintenance of remission. In post-operative Crohn’s disease, a TNFi should
+be started within 4 weeks of surgery to prevent recurrence. Guidelines from
+the American Gastroenterological Association (AGA) [2021] include TNFis
+among the therapies for moderate to severe Crohn’s disease, for induction
+and maintenance of remission.6
+• Giant Cell Arteritis: Current guidelines do not address Rinvoq. The
+ACR/Vasculitis Foundation (2021) conditionally recommend initiating
+treatment with high dose corticosteroids.12 Once inflammation is controlled,
+the corticosteroid dose is gradually reduced with the goal of establishing a
+maintenance dose that controls disease activity while minimizing adverse
+effects. Glucocorticoid-sparing agents, such as tocilizumab or
+methotrexate, may be added to the treatment regimen to reduce the amount
+of corticosteroids needed.
+• JIA: Rinvoq is not addressed in ACR/Arthritis Foundation guidelines for the
+treatment of JIA (2019) specific to juvenile non-systemic polyarthritis,
+sacroiliitis, and enthesitis.11 TNFis are the biologics recommended for
+polyarthritis, sacroiliitis, and enthesitis. Actemra® (tocilizumab intravenous
+infusion, tocilizumab subcutaneous injection) and Orencia® (abatacept
+intravenous infusion, abatacept subcutaneous injection) are also among the
+biologics recommended for polyarthritis. Biologics are recommended
+following other therapies (e.g., following synthetic disease-modifying
+antirheumatic drugs [DMARDs] for active polyarthritis or following a
+nonsteroidal anti-inflammatory drug for active JIA with sacroiliitis or
+enthesitis). However, there are situations where initial therapy with a biologic
+may be preferred over other conventional therapies (e.g., if there is
+involvement of high-risk joints such as the cervical spine, wrist, or hip; high
+disease activity; and/or those judged to be at high risk of disabling joint
+damage).
+• Psoriatic Arthritis: Current guidelines do not address Rinvoq. Guidelines
+from ACR (2018) recommend TNFis over other biologics and Xeljanz for use
+in treatment-naïve patients with psoriatic arthritis and in those who were
+previously treated with an oral therapy.7
+• Rheumatoid Arthritis: Guidelines from ACR (2021) recommend addition of
+a biologic or a targeted synthetic DMARD for a patient taking the maximum
+tolerated dose of methotrexate who is not at target.8
+• Ulcerative colitis: The AGA (2024)9 and ACG (2019)10 have clinical practice
+guidelines on the management of moderate to severe ulcerative colitis in
+adults. AGA recognizes all of the FDA-approved advanced therapies as
+potential options for adults with moderate to severe UC.9 Advanced
+therapies include the biologics and targeted synthetic small molecule drugs.
+In general, the AGA recommends starting with advanced therapies and/or
+immunomodulators. Immunomodulators are recommended in the setting of
+maintenance of clinical remission induced by corticosteroids. The ACG
+recommends TNF inhibitors, Entyvio® (vedolizumab IV infusion/subcutaneous
+Page 3 of 15 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Rinvoq/Rinvoq LQ Prior
+Authorization Policy
+injection), Stelara® (ustekinumab IV infusion/subcutaneous injection), or
+Xeljanz®/Xeljanz® XR (tofacitinib tablets, tofacitinib extended-release tablets)
+for induction treatment of moderate to severe disease.10 The guidelines also
+recommend that any drug that effectively treats induction should be
+continued for maintenance.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of
+Rinvoq/Rinvoq LQ. All approvals are provided for the duration noted below. In cases
+where the approval is authorized in months, 1 month is equal to 30 days. Because
+of the specialized skills required for evaluation and diagnosis of patients treated
+with Rinvoq/Rinvoq LQ as well as the monitoring required for adverse events and
+long-term efficacy, initial approval requires Rinvoq/Rinvoq LQ to be prescribed by or
+in consultation with a physician who specializes in the condition being treated.
+• Rinvoq® (upadacitinib extended-release tablets – AbbVie)
+• Rinvoq® LQ (upadacitinib oral solution – AbbVie)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Ankylosing Spondylitis. Approve Rinvoq extended-release tablets (not Rinvoq
+LQ oral solution) for the duration noted if the patient meets ONE of the following
+(A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has had a 3-month trial of at least ONE tumor necrosis factor
+inhibitor; OR
+b) Patient has tried at least one tumor necrosis factor inhibitor but was
+unable to tolerate a 3-month trial; AND
+Note: Refer to Appendix for examples of tumor necrosis factor inhibitors
+used for rheumatoid arthritis. Conventional synthetic disease-modifying
+antirheumatic drugs (DMARDs) such as methotrexate, leflunomide,
+hydroxychloroquine, and sulfasalazine do not count.
+iii. The medication is prescribed by or in consultation with a rheumatologist;
+OR
+B) Patient is Currently Receiving Rinvoq extended-release tablets. Approve for 1
+year if the patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+Page 4 of 15 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Rinvoq/Rinvoq LQ Prior
+Authorization Policy
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating Rinvoq);
+OR
+Note: Examples of objective measures include Ankylosing Spondylitis
+Disease Activity Score (ASDAS), Ankylosing Spondylitis Quality of Life
+Scale (ASQoL), Bath Ankylosing Spondylitis Disease Activity Index
+(BASDAI), Bath Ankylosing Spondylitis Functional Index (BASFI), Bath
+Ankylosing Spondylitis Global Score (BAS-G), Bath Ankylosing
+Spondylitis Metrology Index (BASMI), Dougados Functional Index (DFI),
+Health Assessment Questionnaire for the Spondylarthropathies (HAQ-
+S), and/or serum markers (e.g., C-reactive protein, erythrocyte
+sedimentation rate).
+b) Compared with baseline (prior to initiating Rinvoq), patient experienced
+an improvement in at least one symptom, such as decreased pain or
+stiffness, or improvement in function or activities of daily living.
+2. Atopic Dermatitis. Approve Rinvoq extended-release tablets (not Rinvoq LQ oral
+solution) for the duration noted if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 3 months if the patient meets ALL of the following
+(i, ii, and iii):
+i. Patient is ≥ 12 years of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has had a 4-month trial of at least ONE systemic therapy; OR
+b) Patient has tried at least ONE systemic therapy but was unable to
+tolerate a 4-month trial; AND
+Note: Examples of systemic therapies include Dupixent (dupilumab
+subcutaneous injection), Ebglyss (lebrikizumab-lbkz subcutaneous
+injection), Nemluvio (nemolizumab-ilto subcutaneous injection), and
+Adbry (tralokinumab-ldrm subcutaneous injection). Methotrexate,
+azathioprine, cyclosporine, or mycophenolate mofetil also count towards
+trial of a systemic therapy.
+iii. The medication is prescribed by or in consultation with an allergist,
+immunologist, or dermatologist; OR
+B) Patient is Currently Receiving Rinvoq extended-release tablets. Approve for 1
+year if the patient meets ALL of the following (i, ii, and iii):
+i. Patient has been established on therapy for at least 90 days; AND
+Note: A patient who has received < 90 days of therapy or who is restarting
+therapy with Rinvoq is reviewed under criterion A (Initial Therapy).
+ii. Patient experienced a beneficial clinical response, defined as improvement
+from baseline (prior to initiating Rinvoq) in at least one of the following:
+estimated body surface area affected, erythema,
+induration/papulation/edema, excoriations, lichenification, and/or a
+decreased requirement for other topical or systemic therapies for atopic
+dermatitis; AND
+iii. Compared with baseline (prior to receiving Rinvoq), patient experienced an
+improvement in at least one symptom, such as decreased itching.
+Page 5 of 15 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Rinvoq/Rinvoq LQ Prior
+Authorization Policy
+3. Crohn’s Disease. Approve Rinvoq extended-release tablets (not Rinvoq LQ oral
+solution) for the duration noted if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has had a 3-month trial of at least one tumor necrosis factor
+inhibitor; OR
+b) Patient has tried at least one tumor necrosis factor inhibitor but was
+unable to tolerate a 3-month trial; AND
+Note: Refer to Appendix for examples of tumor necrosis factor inhibitors
+used for Crohn’s disease.
+iii. The medication is prescribed by or in consultation with a gastroenterologist;
+OR
+B) Patient is Currently Receiving Rinvoq extended-release tablets. Approve for 1
+year if the patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with Rinvoq is reviewed under criterion A (Initial
+Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating Rinvoq);
+OR
+Note: Examples of objective measures include fecal markers (e.g., fecal
+lactoferrin, fecal calprotectin), serum markers (e.g., C-reactive protein),
+imaging studies (magnetic resonance enterography [MRE], computed
+tomography enterography [CTE]), endoscopic assessment, and/or
+reduced dose of corticosteroids.
+b) Compared with baseline (prior to initiating Rinvoq), patient experienced
+an improvement in at least one symptom, such as decreased pain,
+fatigue, stool frequency, and/or blood in stool.
+4. Giant Cell Arteritis. Approve Rinvoq extended-release tablets (not Rinvoq LQ
+oral solution) for the duration noted if the patient meets ONE of the following (A
+or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, and iii):
+i. Patient is > 18 years of age; AND
+ii. Patient has tried or is currently taking a systemic corticosteroid, or systemic
+corticosteroids are contraindicated; AND
+Note: An example of a systemic corticosteroid is prednisone.
+iii. The medication is prescribed by or in consultation with a rheumatologist;
+OR
+B) Patient is Currently Receiving Rinvoq extended-release tablets. Approve for 1
+year if the patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Page 6 of 15 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Rinvoq/Rinvoq LQ Prior
+Authorization Policy
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating Rinvoq);
+OR
+Note: Examples of objective measures are serum markers (e.g., C-
+reactive protein, erythrocyte sedimentation rate), resolution of fever,
+and/or reduced dosage of corticosteroids.
+b) Compared with baseline (prior to initiating Rinvoq), patient experienced
+an improvement in at least one symptom, such as decreased headache,
+scalp or jaw pain, decreased fatigue, and/or improved vision.
+5. Juvenile Idiopathic Arthritis (JIA). Approve Rinvoq extended-release tablets
+or Rinvoq LQ oral solution for the duration noted if the patient meets ONE of the
+following (A or B):
+Note: This includes JIA regardless of type of onset and a patient with juvenile
+spondyloarthropathy/active sacroiliac arthritis. JIA is also referred to as Juvenile
+Rheumatoid Arthritis.
+A) Initial Therapy. Approve for 6 months if the patient meets the ALL of following
+(i, ii, and iii):
+i. Patient is ≥ 2 years of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has had a 3-month trial of at least one tumor necrosis factor
+inhibitor; OR
+b) Patient has tried at least one tumor necrosis factor inhibitor but was
+unable to tolerate a 3-month trial; AND
+Note: Refer to Appendix for examples of tumor necrosis factor
+inhibitors. Conventional synthetic disease-modifying antirheumatic
+drugs (DMARDs) such as methotrexate, leflunomide,
+hydroxychloroquine, and sulfasalazine do not count.
+iii. The medication is prescribed by or in consultation with a rheumatologist;
+OR
+B) Patient is Currently Receiving Rinvoq/Rinvoq LQ. Approve for 1 year if the
+patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with Rinvoq/Rinvoq LQ is reviewed under criterion A
+(Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating
+Rinvoq/Rinvoq LQ); OR
+Note: Examples of objective measures include Physician Global
+Assessment (MD global), Parent/Patient Global Assessment of Overall
+Well-Being (PGA), Parent/Patient Global Assessment of Disease Activity
+(PDA), Juvenile Arthritis Disease Activity Score (JDAS), Clinical Juvenile
+Arthritis Disease Activity Score (cJDAS), Juvenile Spondyloarthritis
+Page 7 of 15 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Rinvoq/Rinvoq LQ Prior
+Authorization Policy
+Disease Activity Index (JSpADA), serum markers (e.g., C-reactive
+protein, erythrocyte sedimentation rate), and/or reduced dosage of
+corticosteroids.
+b) Compared with baseline (prior to initiating Rinvoq/Rinvoq LQ), patient
+experienced an improvement in at least one symptom, such as
+improvement in limitation of motion, less joint pain or tenderness,
+decreased duration of morning stiffness or fatigue, improved function or
+activities of daily living.
+6. Non-Radiographic Axial Spondyloarthritis. Approve Rinvoq extended-release
+tablets (not Rinvoq LQ oral solution) for the duration noted if the patient meets
+ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, iii, and iv):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has objective signs of inflammation, defined as at least ONE of the
+following (a or b):
+a) C-reactive protein (CRP) elevated beyond the upper limit of normal for
+the reporting laboratory; OR
+b) Sacroiliitis reported on magnetic resonance imaging (MRI); AND
+iii. Patient meets ONE of the following (a or b):
+a) Patient has had a 3-month trial of at least one tumor necrosis factor
+inhibitor; OR
+b) Patient has tried at least one tumor necrosis factor inhibitor but was
+unable to tolerate a 3-month trial; AND
+Note: Cimzia (certolizumab pegol subcutaneous injection) is an
+example of a tumor necrosis factor inhibitor used for non-radiographic
+axial spondyloarthritis. Conventional synthetic disease-modifying
+antirheumatic drugs (DMARDs) such as methotrexate, leflunomide,
+hydroxychloroquine, and sulfasalazine do not count.
+iv. The medication is prescribed by or in consultation with a rheumatologist;
+OR
+B) Patient is Currently Receiving Rinvoq extended-release tablets. Approve for 1
+year if the patient meets BOTH of the following (i and ii):
+i. Patient has been established on the requested drug for at least 6 months;
+AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with the requested drug is reviewed under criterion A
+(Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating the
+requested drug); OR
+Note: Examples of objective measures include Ankylosing Spondylitis
+Disease Activity Score (ASDAS), Ankylosing Spondylitis Quality of Life
+Scale (ASQoL), Bath Ankylosing Spondylitis Disease Activity Index
+(BASDAI), Bath Ankylosing Spondylitis Functional Index (BASFI), Bath
+Ankylosing Spondylitis Global Score (BAS-G), Bath Ankylosing
+Page 8 of 15 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Rinvoq/Rinvoq LQ Prior
+Authorization Policy
+Spondylitis Metrology Index (BASMI), Dougados Functional Index (DFI),
+Health Assessment Questionnaire for the Spondylarthropathies (HAQ-
+S), and/or serum markers (e.g., C-reactive protein, erythrocyte
+sedimentation rate).
+b) Compared with baseline (prior to initiating the requested drug), patient
+experienced an improvement in at least one symptom, such as
+decreased pain or stiffness, or improvement in function or activities of
+daily living.
+7. Psoriatic Arthritis. Approve Rinvoq extended-release tablets or Rinvoq LQ oral
+solution for the duration noted if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, and iii):
+i. Patient is ≥ 2 years of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has had a 3-month trial of at least one tumor necrosis factor
+inhibitor; OR
+b) Patient has tried at least one tumor necrosis factor inhibitor but was
+unable to tolerate a 3-month trial; AND
+Note: Refer to Appendix for examples of tumor necrosis factor inhibitors
+used for psoriatic arthritis. Conventional synthetic disease-modifying
+antirheumatic drugs (DMARDs) such as methotrexate, leflunomide,
+hydroxychloroquine, and sulfasalazine do not count.
+iii. The medication is prescribed by or in consultation with a rheumatologist or
+a dermatologist; OR
+B) Patient is Currently Receiving Rinvoq/Rinvoq LQ. Approve for 1 year if the
+patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with Rinvoq/Rinvoq LQ is reviewed under criterion A
+(Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating
+Rinvoq/Rinvoq LQ); OR
+Note: Examples of objective measures of disease activity include
+Disease Activity Index for Psoriatic Arthritis (DAPSA), Composite
+Psoriatic Disease Activity Index (CPDAI), Psoriatic Arthritis Disease
+Activity Score (PsA DAS), Grace Index, Leeds Enthesitis Score (LEI),
+Spondyloarthritis Consortium of Canada (SPARCC) enthesitis score,
+Leeds Dactylitis Instrument Score, Minimal Disease Activity (MDA),
+Psoriatic Arthritis Impact of Disease (PsAID-12), and/or serum markers
+(e.g., C-reactive protein, erythrocyte sedimentation rate).
+b) Compared with baseline (prior to initiating Rinvoq/Rinvoq LQ), patient
+experienced an improvement in at least one symptom, such as less joint
+pain, morning stiffness, or fatigue; improved function or activities of
+daily living; decreased soft tissue swelling in joints or tendon sheaths.
+Page 9 of 15 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Rinvoq/Rinvoq LQ Prior
+Authorization Policy
+8. Rheumatoid Arthritis. Approve Rinvoq extended-release tablets (not Rinvoq LQ
+oral solution) for the duration noted if the patient meets ONE of the following (A
+or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has had a 3-month trial of at least one tumor necrosis factor
+inhibitor; OR
+b) Patient has tried at least one tumor necrosis factor inhibitor but was
+unable to tolerate a 3-month trial; AND
+Note: Refer to Appendix for examples of tumor necrosis factor inhibitors
+used for rheumatoid arthritis. Conventional synthetic disease-modifying
+antirheumatic drugs (DMARDs) such as methotrexate, leflunomide,
+hydroxychloroquine, and sulfasalazine do not count.
+iii. The medication is prescribed by or in consultation with a rheumatologist;
+OR
+B) Patient is Currently Receiving Rinvoq extended-release tablets. Approve for 1
+year if the patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with Rinvoq is reviewed under criterion A (Initial
+Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) Patient experienced a beneficial clinical response when assessed by at
+least one objective measure; OR
+Note: Examples of objective measures of disease activity include
+Clinical Disease Activity Index (CDAI), Disease Activity Score (DAS) 28
+using erythrocyte sedimentation rate (ESR) or C-reactive protein (CRP),
+Patient Activity Scale (PAS)-II, Rapid Assessment of Patient Index Data
+3 (RAPID-3), and/or Simplified Disease Activity Index (SDAI).
+b) Patient experienced an improvement in at least one symptom, such as
+decreased joint pain, morning stiffness, or fatigue; improved function or
+activities of daily living; decreased soft tissue swelling in joints or tendon
+sheaths.
+9. Ulcerative Colitis. Approve Rinvoq extended-release tablets (not Rinvoq LQ oral
+solution) for the duration noted if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has had a 3-month trial of at least one tumor necrosis factor
+inhibitor; OR
+b) Patient has tried at least one tumor necrosis factor inhibitor but was
+unable to tolerate a 3-month trial; AND
+Note: Refer to Appendix for examples of tumor necrosis factor inhibitors
+used for ulcerative colitis.
+Page 10 of 15 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Rinvoq/Rinvoq LQ Prior
+Authorization Policy
+iii. The medication is prescribed by or in consultation with a gastroenterologist;
+OR
+B) Patient is Currently Receiving Rinvoq extended-release tablets. Approve for 1
+year if the patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with Rinvoq is reviewed under criterion A (Initial
+Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating Rinvoq);
+OR
+Note: Examples of objective measures include fecal markers (e.g., fecal
+calprotectin), serum markers (e.g., C-reactive protein), endoscopic
+assessment, and/or reduced dose of corticosteroids.
+b) Compared with baseline (prior to initiating Rinvoq), patient experienced
+an improvement in at least one symptom, such as decreased pain,
+fatigue, stool frequency, and/or rectal bleeding.
+CONDITIONS NOT COVERED
+• Rinvoq® (upadacitinib extended-release tablets – AbbVie)
+• Rinvoq® LQ (upadacitinib oral solution – AbbVie)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Concurrent Use with a Biologic or with a Targeted Synthetic Oral Small
+Molecule Drug.1 This medication should not be administered in combination
+with another biologic or with a targeted synthetic oral small molecule drug used
+for an inflammatory condition (see Appendix for examples). Combination therapy
+is generally not recommended due to a potentially higher rate of adverse events
+and lack of controlled clinical data supporting additive efficacy.
+Note: This does NOT exclude the use of conventional synthetic DMARDs (e.g.,
+methotrexate, leflunomide, hydroxychloroquine, or sulfasalazine) in combination
+with this medication.
+2. Concurrent Use with a Biologic Immunomodulator. Rinvoq is not
+recommended in combination with biologic immunomodulators.1
+Note: Examples of biologic immunomodulators include Adbry (tralokinumab-ldrm
+subcutaneous injection), Cinqair (reslizumab intravenous), Dupixent (dupilumab
+subcutaneous injection), Ebglyss (lebrikizumab-lbkz subcutaneous injection),
+Nemluvio (nemolizumab-ilto subcutaneous injection), Fasenra (benralizumab
+subcutaneous injection), Nucala (mepolizumab subcutaneous injection), Tezspire
+(tezepelumab-ekko subcutaneous injection), and Xolair (omalizumab
+subcutaneous injection).
+Page 11 of 15 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Rinvoq/Rinvoq LQ Prior
+Authorization Policy
+3. Concurrent Use with Other Potent Immunosuppressants (e.g.,
+azathioprine, cyclosporine).1 Co-administration with other potent
+immunosuppressive drugs has the risk of added immunosuppression and has not
+been evaluated in rheumatoid arthritis. Note: This does NOT exclude use of
+Rinvoq with methotrexate. In rheumatoid arthritis, Rinvoq has been evaluated
+with background methotrexate and other conventional synthetic disease-
+modifying antirheumatic drugs (DMARDs).
+REFERENCES
+1. Rinvoq® tablets/Rinvoq LQ oral solution [prescribing information]. North Chicago, IL: AbbVie;
+April 2024.
+2. Fraenkel L, Bathon JM, England BR, et al. 2021 American College of Rheumatology guideline for
+the treatment of rheumatoid arthritis. Arthritis Rheumatol. 2021;73(7):1108-1123.
+3. Davis DMR, Drucker AM, Alikhan A, et al. Guidelines of care for the management of atopic
+dermatitis in adults with phototherapy and systemic therapies. J Am Acad Dermatol. 2023 Nov 3
+[Epub ahead of print].
+4. Chu DK, Schneider L, Asiniwasis RN, et al. Atopic dermatitis (eczema) guidelines: 2023 American
+Academy of Allergy, Asthma and Immunology/American College of Allergy, Asthma and
+Immunology Joint Task Force on Practice Parameters GRADE-and Institute of Medicine-based
+recommendations. Ann Allergy Asthma Immunol. 2023 Dec 18:S1081-1206(23)01455-2.
+5. Feuerstein JD, Ho EY, Shmidt E, et al. AGA clinical practice guidelines on the medical management
+of moderate to severe luminal and perianal fistulizing Crohn's disease. Gastroenterology.
+2021;160(7):2496-2508
+6. Lichtenstein GR, Loftus EV, Isaacs KL, et al. ACG Clinical Guideline: Management of Crohn's
+Disease in Adults. Am J Gastroenterol. 2018;113(4):481-517.
+7. Singh JA, Guyatt G, Ogdie A, et al. 2018 American College of Rheumatology/National Psoriasis
+Foundation Guideline for the treatment of psoriatic arthritis. Arthritis Care Res (Hoboken).
+2019;71(1):2-29.
+8. Fraenkel L, Bathon JM, England BR, et al. 2021 American College of Rheumatology guideline for
+the treatment of rheumatoid arthritis. Arthritis Rheumatol. 2021;73(7):1108-1123.
+9. Singh S, Loftus EV Jr, Limketkai BN, et al. AGA Living Clinical practice guideline on
+pharmacological management of moderate-to-severe ulcerative colitis. Gastroenterology.
+2024;167(7):1307-1343.
+10. Rubin DT, Ananthakrishnan AN, Siegel CA, et al. ACG clinical guideline: ulcerative colitis in adults.
+Am J Gastroenterol. 2019;114(3):384-413.
+11. Ward MM, Deodhar A, Gensler LS, et al. 2019 update of the American College of
+Rheumatology/Spondylitis Association of America/Spondyloarthritis Research and Treatment
+Network recommendations for the treatment of ankylosing spondylitis and nonradiographic axial
+spondyloarthritis. Arthritis Rheumatol. 2019;71(10):1599-1613.
+12. Maz M, Chung SA, Abril Aet al. 2021 American College of Rheumatology/Vasculitis Foundation
+Guideline for the Management of Giant Cell Arteritis and Takayasu Arteritis. Arthritis Rheumatol.
+2021 Aug;73(8):1349-1365.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Atopic Dermatitis: The requirement that the patient has tried one 02/07/2024
+Revision traditional systemic agent (i.e., azathioprine, cyclosporine,
+methotrexate, mycophenolate mofetil) was changed to require a trial
+of one “systemic” agent. The Note of examples of “systemic” agents
+was changed to include Dupixent (dupilumab subcutaneous
+injection) and Adbry (tralokinumab-ldrm subcutaneous injection). A
+notation was added that a trial of a traditional systemic agent would
+Page 12 of 15 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Rinvoq/Rinvoq LQ Prior
+Authorization Policy
+count towards the trial of one systemic therapy. The duration of such
+trial of a systemic agent was changed from 3 months to 4 months.
+There were no other changes to the criteria.
+Selected Policy name changed from “Inflammatory Conditions – Rinvoq” to 05/15/2024
+Revision “Inflammatory Conditions – Rinvoq/Rinvoq LQ.”
+For all indications, except JIA and psoriatic arthritis, specified
+approval is for Rinvoq tablets, not Rinvoq LQ oral solution.
+Juvenile Idiopathic Arthritis: This newly approved indication was
+added to the policy.
+Psoriatic Arthritis: Expanded age requirement from ≥ 18 years to
+≥ 2 years of age.
+Selected Non-Radiographic Axial Spondyloarthritis: For initial approvals, 09/11/2024
+Revision a requirement that the patient is ≥ 18 years of age was added.
+Juvenile Idiopathic Arthritis: For initial approvals, a requirement
+that the patient is ≥ 2 years of age was added.
+Conditions Not Covered
+: Concurrent use with a Biologic or with a Targeted Synthetic Oral
+Small Molecule Drug was changed to as listed (previously oral small
+molecule drug was listed as Disease-Modifying Antirheumatic Drug).
+Additionally, removed concurrent use with another Janus kinase
+inhibitor.
+Annual Atopic Dermatitis: Ebglyss (lebrikizumab-lbkz subcutaneous 02/26/2025
+Revision injection) and Nemluvio (nemolizumab-ilto subcutaneous injection)
+were added to the note listing examples of systemic therapies.
+Conditions Not Covered
+: Ebglyss and Nemluvio were added as examples of biologic
+immunomodulators which are not allowed concurrently with Rinvoq
+and Rinvoq LQ.
+Selected Removed the following from the Policy Statement: “All reviews for 04/23/2025
+Revision use of Rinoq for Coronavirus Disease 2019 (COVID-19) and/or
+cytokine release syndrome associated with COVID-19 will be
+forwarded to the Medical Director.”
+Conditions Not Covered
+: Removed COVID-19.
+Selected Giant Cell Arteritis: This newly approved indication was added to 05/07/2025
+Revision the policy.
+Selected Giant Cell Arteritis: The requirement that the patient has tried one 06/11/2025
+Revision systemic corticosteroid was changed to now specify the patient has
+tried or currently is taking a systemic corticosteroid, unless a
+systemic corticosteroid is contraindicated.
+APPENDIX
+Mechanism of Action Examples of Indications*
+Biologics
+Adalimumab SC Products (Humira®, Inhibition of TNF AS, CD, HS, JIA, PsO, PsA,
+biosimilars) RA, UC
+Cimzia® (certolizumab pegol SC Inhibition of TNF AS, CD, JIA, nr-axSpA, PsO,
+injection) PsA, RA
+Etanercept SC Products (Enbrel®, Inhibition of TNF AS, JIA, PsO, PsA, RA
+biosimilars)
+Infliximab IV Products (Remicade®, Inhibition of TNF AS, CD, PsO, PsA, RA, UC
+biosimilars)
+Zymfentra® (infliximab-dyyb SC Inhibition of TNF CD, UC
+injection)
+Simponi®, Simponi Aria® (golimumab Inhibition of TNF SC formulation: AS, PsA, RA,
+SC injection, golimumab IV infusion) UC
+Page 13 of 15 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Rinvoq/Rinvoq LQ Prior
+Authorization Policy
+IV formulation: AS, PJIA,
+PsA, RA
+Tocilizumab Products (Actemra® IV, Inhibition of IL-6 SC formulation: PJIA, RA,
+biosimilar; Actemra SC, biosimilar) SJIA
+IV formulation: PJIA, RA,
+SJIA
+Kevzara® (sarilumab SC injection) Inhibition of IL-6 RA
+Orencia® (abatacept IV infusion, T-cell costimulation SC formulation: JIA, PSA, RA
+abatacept SC injection) modulator IV formulation: JIA, PsA, RA
+Rituximab IV Products (Rituxan®, CD20-directed cytolytic RA
+biosimilars) antibody
+Kineret® (anakinra SC injection) Inhibition of IL-1 JIA^, RA
+Omvoh® (mirikizumab IV infusion, SC Inhibition of IL-23 CD, UC
+injection)
+Ustekinumab Products (Stelara® IV, Inhibition of IL-12/23 SC formulation: CD, PsO,
+biosimilar; Stelara SC, biosimilar) PsA, UC
+IV formulation: CD, UC
+Siliq® (brodalumab SC injection) Inhibition of IL-17 PsO
+Cosentyx® (secukinumab SC injection; Inhibition of IL-17A SC formulation: AS, ERA, HS,
+secukinumab IV infusion) nr-axSpA, PsO, PsA
+IV formulation: AS, nr-
+axSpA, PsA
+Taltz® (ixekizumab SC injection) Inhibition of IL-17A AS, nr-axSpA, PsO, PsA
+Bimzelx® (bimekizumab-bkzx SC Inhibition of IL- AS, HS, nr-axSpA, PsO, PsA
+injection) 17A/17F
+Ilumya® (tildrakizumab-asmn SC Inhibition of IL-23 PsO
+injection)
+Skyrizi® (risankizumab-rzaa SC Inhibition of IL-23 SC formulation: CD, PSA,
+injection, risankizumab-rzaa IV infusion) PsO, UC
+IV formulation: CD, UC
+Tremfya® (guselkumab SC injection, Inhibition of IL-23 SC formulation: CD, PsA,
+guselkumab IV infusion) PsO, UC
+IV formulation: CD, UC
+Entyvio® (vedolizumab IV infusion, Integrin receptor CD, UC
+vedolizumab SC injection) antagonist
+Oral Therapies/Targeted Synthetic Oral Small Molecule Drugs
+Otezla® (apremilast tablets) Inhibition of PDE4 PsO, PsA
+Cibinqo™ (abrocitinib tablets) Inhibition of JAK AD
+pathways
+Olumiant® (baricitinib tablets) Inhibition of JAK RA, AA
+pathways
+Litfulo® (ritlecitinib capsules) Inhibition of JAK AA
+pathways
+Leqselvi® (deuruxolitinib tablets) Inhibition of JAK AA
+pathways
+Rinvoq® (upadacitinib extended-release Inhibition of JAK AD, AS, nr-axSpA, RA, PsA,
+tablets) pathways CD, UC
+Rinvoq® LQ (upadacitinib oral solution) Inhibition of JAK PsA, PJIA
+pathways
+Sotyktu® (deucravacitinib tablets) Inhibition of TYK2 PsO
+Xeljanz® (tofacitinib tablets/oral Inhibition of JAK RA, PJIA, PsA, UC
+solution) pathways
+Xeljanz® XR (tofacitinib extended- Inhibition of JAK RA, PsA, UC
+release tablets) pathways
+Zeposia® (ozanimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+Page 14 of 15 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Rinvoq/Rinvoq LQ Prior
+Authorization Policy
+Velsipity® (etrasimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+* Not an all-inclusive list of indications. Refer to the prescribing information for the respective agent for
+FDA-approved indications; SC – Subcutaneous; TNF – Tumor necrosis factor; AS – Ankylosing
+spondylitis; CD – Crohn’s disease; HS – Hidradenitis suppurativa; JIA – Juvenile idiopathic arthritis; PsO
+– Plaque psoriasis; PsA – Psoriatic arthritis; RA – Rheumatoid arthritis; UC – Ulcerative colitis; nr-axSpA
+– Non-radiographic axial spondyloarthritis; IV – Intravenous, PJIA – Polyarticular juvenile idiopathic
+arthritis; IL – Interleukin; SJIA – Systemic juvenile idiopathic arthritis; ^ Off-label use of Kineret in JIA
+supported in guidelines; ERA – Enthesitis-related arthritis; DMARD – Disease-modifying antirheumatic
+drug; PDE4 – Phosphodiesterase 4; JAK – Janus kinase; AD – Atopic dermatitis; AA – Alopecia areata;
+TYK2 – Tyrosine kinase 2.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 15 of 15 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Rinvoq/Rinvoq LQ Prior
+Authorization Policy

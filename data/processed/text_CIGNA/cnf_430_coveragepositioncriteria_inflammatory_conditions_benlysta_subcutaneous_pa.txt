@@ -1,0 +1,286 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Lupus – Benlysta Subcutaneous Prior Authorization Policy
+• Benlysta® (belimumab subcutaneous injection – GlaxoSmithKline)
+REVIEW DATE: 03/19/2025; selected revision 07/02/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Benlysta subcutaneous, a B-lymphocyte stimulator (BLyS)-specific inhibitor, is indicated for
+the following uses:1
+• Lupus nephritis, in patients ≥ 5 years of age with active disease who are receiving
+standard therapy.
+• Systemic lupus erythematosus (SLE), in patients ≥ 5 years of age with active
+disease who are receiving standard therapy.
+Limitations of Use: Benlysta has not been studied and is not recommended in patients with
+severe, active central nervous system lupus.1
+The efficacy of Benlysta for the treatment of SLE was studied in patients with a history of
+autoantibodies (anti-nuclear antibodies and/or anti-double-stranded DNA) and an
+exploratory analysis of the pivotal trial indicated Benlysta was beneficial in patients who
+were autoantibody positive.1
+Of note, intravenous Benlysta is not targeted in this policy.
+Page 1 of 8 - Cigna National Formulary Coverage - Policy:Lupus – Benlysta Subcutaneous Prior Authorization
+Policy
+Guidelines
+Guidelines for the management of lupus nephritis from Kidney Disease: Improving Global
+Outcomes (KDIGO) [2024] recommendations include Benlysta or Lupkynis in combination
+with other medications plus glucocorticoids as initial treatment options for patients with
+active Class III or IV biopsy confirmed lupus nephritis (strong recommendation, moderate
+certainty of evidence).3 No preference is given between the treatment protocol options;
+however, the KDIGO guidelines do provide individual patient clinical factors to consider,
+including but not limited to, kidney function and histology, risk of disease flare, proteinuria,
+background suppression, and need for parenteral therapy.
+Guidelines from American College of Rheumatology (ACR) [2024] for treatment of lupus
+nephritis in patients with active/new onset/flare of Class III/IV (with or without Class V)
+conditionally recommend triple combination regimens as first line (continuous) therapy with
+glucocorticoids + one of the following options: mycophenolic acid analogs (MPAA) +
+Benlysta; or MPAA + calcineurin inhibitor (e.g. Lupkynis); or low-dose cyclophosphamide +
+Benlysta.5 For patients with extra-renal manifestations, a triple combination regimen with
+Benlysta is preferred over other alternatives.
+European League Against Rheumatism (EULAR) guidelines for SLE (2023 update)
+recommend hydroxychloroquine for all patients, unless contraindicated.2 Depending on the
+type and severity of organ involvement, glucocorticoids can be used but dosing should be
+minimized or withdrawn when possible. Methotrexate, azathioprine, mycophenolate, and/or
+biologic agents (Benlysta, Saphnelo® [anifrolumab-fnia intravenous infusion]) should be
+considered in patients who do not respond to hydroxychloroquine ± glucocorticoids. EULAR
+also states biologic agents (Benlysta, Saphnelo) should be considered as second-line
+therapy for the treatment of patients with active skin disease. Patients with active
+proliferative lupus nephritis should also consider combination therapy with biologic agents
+(Benlysta, Lupkynis™ [voclosporin capsules]). In general, the pharmacological interventions
+should be directed by patient specific characteristics and the type/severity of organ
+involvement.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Benlysta
+subcutaneous. All approvals are provided for the duration noted below. In cases where the
+approval is authorized in months, 1 month is equal to 30 days. Because of the specialized
+skills required for evaluation and diagnosis of patients treated with Benlysta subcutaneous
+as well as the monitoring required for adverse events and long-term efficacy, approval
+requires Benlysta subcutaneous to be prescribed by or in consultation with a physician who
+specializes in the condition being treated.
+• Benlysta® (belimumab subcutaneous injection – GlaxoSmithKline)
+is(are) covered as medically necessary when the following criteria is(are) met for
+FDA-approved indication(s) or other uses with supportive evidence (if applicable):
+FDA-Approved Indications
+1. Lupus Nephritis. Approve for the duration noted if the patient meets ONE of the
+following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following (i, ii,
+iii, and iv):
+i. Patient is ≥ 5 years of age; AND
+ii. Diagnosis of lupus nephritis has been confirmed on biopsy; AND
+5 Pages - Cigna National Formulary Coverage - Policy:Lupus – Benlysta Subcutaneous Prior Authorization Policy
+Note: For example, World Health Organization class III, IV, or V lupus nephritis.
+iii. The medication is being used concurrently with an immunosuppressive regimen;
+AND
+Note: Examples of an immunosuppressive regimen include azathioprine,
+cyclophosphamide, leflunomide, methotrexate, mycophenolate mofetil and/or a
+systemic corticosteroid.
+iv. The medication is prescribed by or in consultation with a nephrologist or
+rheumatologist; OR
+B) Patient is Currently Receiving Benlysta Subcutaneous or Intravenous. Approve for 1
+year if the patient meets ALL of the following (i, ii, and iii):
+i. The medication is being used concurrently with an immunosuppressive regimen;
+AND
+Note: Examples of an immunosuppressive regimen include azathioprine,
+cyclophosphamide, leflunomide, methotrexate, mycophenolate mofetil and/or a
+systemic corticosteroid.
+ii. The medication is prescribed by or in consultation with a nephrologist or
+rheumatologist; AND
+iii. Patient has responded to Benlysta subcutaneous or intravenous, as determined
+by the prescriber.
+Note: Examples of a response include improvement in organ dysfunction,
+reduction in flares, reduction in corticosteroid dose, decrease of anti-dsDNA titer,
+and improvement in complement levels (i.e., C3, C4).
+2. Systemic Lupus Erythematosus. Approve for the duration noted if the patient meets
+ONE of the following (A or B):
+A) Initial Therapy. Approve for 4 months if the patient meets ALL of the following (i, ii,
+iii, and iv):
+i. Patient is ≥ 5 years of age; AND
+ii. Patient has autoantibody-positive systemic lupus erythematosus (SLE), defined
+as positive for antinuclear antibodies (ANA) and/or anti-double-stranded DNA
+(anti-dsDNA) antibody; AND
+Note: Not all patients with SLE are positive for anti-dsDNA, but most will be
+positive for ANA.
+iii. Patient meets ONE of the following (a or b):
+a) The medication is being used concurrently with at least one other standard
+therapy; OR
+Note: Examples of standard therapies include an antimalarial (e.g.,
+hydroxychloroquine), systemic corticosteroid (e.g., prednisone), and other
+immunosuppressants (e.g., azathioprine, mycophenolate mofetil,
+methotrexate).
+b) Patient is determined to be intolerant to standard therapy due to significant
+toxicity, as determined by the prescriber; AND
+iv. The medication is prescribed by or in consultation with a rheumatologist, clinical
+immunologist, nephrologist, neurologist, or dermatologist; OR
+B) Patient is Currently Receiving Benlysta Subcutaneous or Intravenous. Approve for 1
+year if the patient meets ALL of the following (i, ii, and iii):
+i. Patient meets ONE of the following (a or b):
+a) The medication is being used concurrently with at least one other standard
+therapy; OR
+Note: Examples of standard therapies include an antimalarial (e.g.,
+hydroxychloroquine), systemic corticosteroid (e.g., prednisone), and other
+immunosuppressants (e.g., azathioprine, mycophenolate mofetil,
+methotrexate).
+5 Pages - Cigna National Formulary Coverage - Policy:Lupus – Benlysta Subcutaneous Prior Authorization Policy
+b) Patient is determined to be intolerant to standard therapy due to significant
+toxicity, as determined by the prescriber; AND
+ii. The medication is prescribed by or in consultation with a rheumatologist, clinical
+immunologist, nephrologist, neurologist, or dermatologist; AND
+iii. Patient has responded to Benlysta subcutaneous or intravenous, as determined
+by the prescriber.
+Note: Examples of a response include reduction in flares, reduction in
+corticosteroid dose, decrease of anti-dsDNA titer, improvement in complement
+levels (i.e., C3, C4), or improvement in specific organ dysfunction (e.g.,
+musculoskeletal, blood, hematologic, vascular, others).
+CONDITIONS NOT COVERED
+• Benlysta® (belimumab subcutaneous injection – GlaxoSmithKline)
+is(are) considered not medically necessary for ANY other use(s) including the
+following (this list may not be all inclusive; criteria will be updated as newly
+published data are available):
+1. Concurrent Use with Other Biologics. Benlysta has not been studied and is not
+recommended in combination with other biologics.1 Safety and efficacy have not been
+established with these combinations. See APPENDIX for examples of biologics that
+should not be taken in combination with Benlysta.
+2. Concurrent Use with Lupkynis (voclosporin capsules). Lupkynis has not been
+studied in combination with biologics such as Benlysta.1
+3. Rheumatoid Arthritis. A Phase II dose-ranging study evaluating patients with
+rheumatoid arthritis showed only small American College of Rheumatology (ACR) 20
+responses with Benlysta (e.g., ACR 20 response at Week 24 was 28% with Benlysta 10
+mg/kg).5 Numerous other agents are available with higher ACR responses and
+established efficacy for rheumatoid arthritis.
+REFERENCES
+1. Benlysta® injection [prescribing information]. Durham, NC: GlaxoSmithKline; June
+2025.
+2. Fanouriakis A, Kostopoulou M, Andersen J, et al. EULAR recommendations for the
+management of systemic lupus erythematosus: 2023 update. Ann Rheum Dis.
+2024;83(1):15-29.
+3. Kidney Disease: Improving Global Outcomes (KDIGO) Lupus Nephritis Work Group.
+KDIGO 2024 Clinical Practice Guideline for the management of LUPUS NEPHRITIS.
+Kidney Int. 2024;105(1S):S1-S69.
+4. Stohl W, Merrill JT, McKay JD, et al. Efficacy and safety of belimumab in patients with
+rheumatoid arthritis: a phase II, randomized, double-blind, placebo-controlled, dose-
+ranging Study. J Rheumatol. 2013;40(5):579-589.
+5. Sammaritano L, Askanase A, Bermas B, et al. 2024 American College of Rheumatology
+(ACR) Guidelines for the Screening, Treatment, and Management of Lupus Nephritis.
+Published: May 7, 2025. Available at: https://rheumatology.org/lupus-guideline.
+Accessed: June 25, 2025.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+5 Pages - Cigna National Formulary Coverage - Policy:Lupus – Benlysta Subcutaneous Prior Authorization Policy
+Annual No criteria changes. 03/08/2023
+Revision
+Selected Lupus Nephritis: For initial therapy, a requirement was added that 04/26/2023
+Revision the patient has biopsy-confirmed lupus nephritis. For initial therapy
+and a patient currently taking Benlysta, the requirement that the
+patient is taking with standard therapy was changed to more
+generally require that the patient is taking an immunosuppressive
+regimen. Leflunomide, methotrexate, and/or systemic corticosteroids
+were added to existing concurrent medication examples. The
+exception for a patient who is intolerant to standard therapy due to
+significant toxicity as determined by the prescriber was removed from
+the Policy.
+Selected Lupus Nephritis: For initial therapy, the requirement that the 07/05/2023
+Revision “patient has autoantibody-positive systemic lupus erythematosus
+(SLE), defined as positive for antinuclear antibodies (ANA) and/or
+anti-double-stranded DNA (anti-dsDNA) antibody” was removed from
+the Policy.
+Annual No criteria changes. 03/13/2024
+Revision
+Selected Systemic Lupus Erythematosus: For initial therapy, the age 06/05/2024
+Revision requirement was updated to ≥ 5 years of age. Previously, the
+requirement was ≥ 18 years of age.
+Annual Updated Appendix. 03/19/2025
+Revision
+Selected Lupus Nephritis: For initial therapy, the age requirement was 07/02/2025
+Revision updated to ≥ 5 years of age. Previously, the requirement was ≥ 18
+years of age.
+APPENDIX
+Mechanism of Action Examples of Indications*
+Biologics
+Saphnelo (anifrolumab-fnia IV infusion) IFN receptor SLE
+antagonist
+Adalimumab SC Products (Humira®, Inhibition of TNF AS, CD, JIA, PsO, PsA, RA, UC
+biosimilars)
+Cimzia® (certolizumab pegol SC Inhibition of TNF AS, CD, nr-axSpA, PsO, PsA,
+injection) RA
+Etanercept SC Products (Enbrel®, Inhibition of TNF AS, JIA, PsO, PsA, RA
+biosimilars)
+Infliximab IV Products (Remicade®, Inhibition of TNF AS, CD, PsO, PsA, RA, UC
+biosimilars)
+Zymfentra® (infliximab-dyyb SC Inhibition of TNF CD, UC
+injection)
+Simponi®, Simponi Aria® (golimumab Inhibition of TNF SC formulation: AS, PsA, RA,
+SC injection, golimumab IV infusion) UC
+IV formulation: AS, PJIA,
+PsA, RA
+Tocilizumab Products (Actemra® IV, Inhibition of IL-6 SC formulation: PJIA, RA,
+biosimilar; Actemra SC, biosimilar) SJIA
+IV formulation: PJIA, RA,
+SJIA
+Kevzara® (sarilumab SC injection) Inhibition of IL-6 RA
+Orencia® (abatacept IV infusion, T-cell costimulation SC formulation: JIA, PSA, RA
+abatacept SC injection) modulator IV formulation: JIA, PsA, RA
+Rituximab IV Products (Rituxan®, CD20-directed cytolytic RA
+biosimilars) antibody
+Kineret® (anakinra SC injection) Inhibition of IL-1 JIA^, RA
+5 Pages - Cigna National Formulary Coverage - Policy:Lupus – Benlysta Subcutaneous Prior Authorization Policy
+Omvoh® (mirikizumab IV infusion, SC Inhibition of IL-23 UC
+injection)
+Stelara® (ustekinumab SC injection, Inhibition of IL-12/23 SC formulation: CD, PsO,
+ustekinumab IV infusion) PsA, UC
+IV formulation: CD, UC
+Siliq® (brodalumab SC injection) Inhibition of IL-17 PsO
+Cosentyx® (secukinumab SC injection; Inhibition of IL-17A SC formulation: AS, ERA, nr-
+secukinumab IV infusion) axSpA, PsO, PsA
+IV formulation: AS, nr-
+axSpA, PsA
+Taltz® (ixekizumab SC injection) Inhibition of IL-17A AS, nr-axSpA, PsO, PsA
+Bimzelx® (bimekizumab-bkzx SC Inhibition of IL- PsO
+injection) 17A/17F
+Ilumya® (tildrakizumab-asmn SC Inhibition of IL-23 PsO
+injection)
+Skyrizi® (risankizumab-rzaa SC Inhibition of IL-23 SC formulation: CD, PSA,
+injection, risankizumab-rzaa IV infusion) PsO, UC
+IV formulation: CD, UC
+Tremfya® (guselkumab SC injection, Inhibition of IL-23 SC formulation: PsA, PsO, UC
+guselkumab IV infusion) IV formulation: UC
+Entyvio® (vedolizumab IV infusion, Integrin receptor CD, UC
+vedolizumab SC injection) antagonist
+* Not an all-inclusive list of indication (e.g., oncology indications and rare inflammatory conditions are
+not listed). Refer to the prescribing information for the respective agent for FDA-approved indications;
+SC – Subcutaneous; IV – Intravenous; BLyS – B-lymphocyte stimulator-specific inhibitor; SLE –
+Systemic lupus erythematosus; IFN – Interferon; TNF – Tumor necrosis factor; AS – Ankylosing
+spondylitis; CD – Crohn’s disease; JIA – Juvenile idiopathic arthritis; PsO – Plaque psoriasis; PsA –
+Psoriatic arthritis; RA – Rheumatoid arthritis; UC – Ulcerative colitis; nr-axSpA – Non-radiographic axial
+spondyloarthritis; PJIA – Polyarticular juvenile idiopathic arthritis; IL – Interleukin; SJIA – Systemic
+juvenile idiopathic arthritis; ^ Off-label use of Kineret in JIA supported in guidelines; ERA – Enthesitis-
+related arthritis.
+"CIGNA COMPANIES" REFERS TO OPERATING SUBSIDIARIES OF THE CIGNA GROUP. ALL PRODUCTS AND SERVICES ARE
+PROVIDED EXCLUSIVELY BY OR THROUGH SUCH OPERATING SUBSIDIARIES, INCLUDING CIGNA HEALTH AND LIFE INSURANCE
+COMPANY, CONNECTICUT GENERAL LIFE INSURANCE COMPANY, EVERNORTH BEHAVIORAL HEALTH, INC., CIGNA HEALTH
+MANAGEMENT, INC., AND HMO OR SERVICE COMPANY SUBSIDIARIES OF THE CIGNA GROUP.© 2025 THE CIGNA GROUP.
+5 Pages - Cigna National Formulary Coverage - Policy:Lupus – Benlysta Subcutaneous Prior Authorization Policy

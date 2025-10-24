@@ -1,0 +1,119 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Multiple Sclerosis – Ponvory Drug Quantity Management Policy – Per
+Days
+• Ponvory® (ponesimod tablets − Janssen)
+REVIEW DATE: 05/02/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Ponvory, a sphingosine 1-phosphate receptor modulator, is indicated for the
+treatment of patients with relapsing forms of multiple sclerosis, including
+clinically isolated syndrome, relapsing remitting disease, and active secondary
+progressive disease in adults.1
+Dosing
+The recommended maintenance dose of Ponvory is 20 mg once daily (QD) after
+initial titration is complete (maintenance dosing starts on Day 15).1
+For treatment initiation, a starter pack must be used.1 Ponvory is initiated with a
+14-day titration starting with 2 mg QD with increasing doses (Table 1).
+Page 1 of 3 - Cigna National Formulary Coverage - Policy: Multiple Sclerosis – Ponvory Drug Quantity
+Management Policy – Per Days
+Table 1. Ponvory Initial Dose Titration.1
+Titration Day(s) Dose
+1 and 2 2 mg
+3 and 4 3 mg
+5 and 6 4 mg
+7 5 mg
+8 6 mg
+9 7 mg
+10 8 mg
+11 9 mg
+12, 13, and 14 10 mg
+Interruption during treatment, especially during titration is not recommended.1
+However, if dose titration is interrupted, missed dose instructions must be followed
+as outlined below:
+• If fewer than 4 consecutive doses are missed:
+o During titration: resume treatment with the first missed titration dose and
+resume the titration schedule at that dose and titration day.
+o During maintenance: resume treatment with the maintenance dosage.
+• If 4 or more consecutive doses are missed during titration or maintenance:
+o Treatment should be reinitiated with Day 1 of the titration regimen (new
+starter pack).
+Availability
+Ponvory is available as a 20 mg tablet in bottles of 30 tablets.1 Ponvory is also
+available as a 14-day starter pack to accommodate the initial titration schedule
+containing 14 tablets in the following strengths: 2 x 2 mg tablets; 2 x 3 mg
+tablets; 2 x 4 mg tablets; 1 each of 5 mg, 6 mg, 7 mg, 8 mg, 9 mg tablets; 3 x 10
+mg tablets.
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of Ponvory. If the Drug Quantity Management rule is
+not met for the requested medication at the point of service, coverage will be
+determined by the Criteria below. All approvals are provided for the duration noted
+below. “One-time” overrides are provided for 30 days in duration.
+Drug Quantity Limits
+Product Strength and Form Retail Home Delivery
+Maximum Quantity Maximum
+per Days Quantity
+per Days
+Ponvory® 20 mg tablets 30 tablets per 30 90 tablets per 90
+(ponesimod days days
+tablets) Starter pack: 14 tablets (2 x 2 mg,
+14 tablets (1 starter pack) per 365 days
+2 x 3 mg, 2 x 4 mg, 1 x 5 mg, 1 x 6
+3 Pages - Cigna National Formulary Coverage - Policy:Multiple Sclerosis – Ponvory Drug Quantity Management
+Policy – Per Days
+mg, 1 x 7 mg, 1 x 8 mg, 1 x 9 mg,
+and 3 x 10 mg)
+EXCEPTIONS TO THE QUANTITY LIMITS LISTED ABOVE ARE COVERED AS MEDICALLY
+NECESSARY WHEN THE FOLLOWING CRITERIA ARE MET. ANY OTHER EXCEPTION IS
+CONSIDERED NOT MEDICALLY NECESSARY.
+CRITERIA
+Ponvory 20 mg
+No overrides recommended.
+Ponvory Starter Pack
+1. If the patient has missed four or more consecutive doses of Ponvory, approve a
+one-time override for one additional Starter Pack (14 tablets) at retail or home
+delivery.
+REFERENCES
+1. Ponvory® tablets [prescribing information]. Titusville, NJ: Janssen; June 2024.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Policy was updated to reflect the existing quantity limits when a 05/18/2023
+Revision product is obtained via home delivery.
+No criteria changes.
+Annual No criteria changes. 05/15/2024
+Revision
+Annual Policy Statement was updated to clarify that “one-time” overrides are 05/02/2025
+Revision provided for 30 days in duration.
+"CIGNA COMPANIES" REFERS TO OPERATING SUBSIDIARIES OF THE CIGNA GROUP. ALL PRODUCTS AND SERVICES ARE PROVIDED
+EXCLUSIVELY BY OR THROUGH SUCH OPERATING SUBSIDIARIES, INCLUDING CIGNA HEALTH AND LIFE INSURANCE COMPANY,
+CONNECTICUT GENERAL LIFE INSURANCE COMPANY, EVERNORTH BEHAVIORAL HEALTH, INC., CIGNA HEALTH MANAGEMENT, INC.,
+AND HMO OR SERVICE COMPANY SUBSIDIARIES OF THE CIGNA GROUP.© 2025 THE CIGNA GROUP.
+3 Pages - Cigna National Formulary Coverage - Policy:Multiple Sclerosis – Ponvory Drug Quantity Management
+Policy – Per Days

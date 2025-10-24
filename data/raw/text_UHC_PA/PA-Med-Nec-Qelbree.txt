@@ -1,0 +1,69 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2270-6
+Program Prior Authorization/Medical Necessity
+Medication Qelbree® (viloxazine)*
+P&T Approval Date 9/1/2021, 2/2022, 6/2022, 7/2023, 7/2024, 1/2025
+Effective Date 4/1/2025
+1. Background:
+Qelbree is a selective norepinephrine reuptake inhibitor indicated for the treatment of attention deficit
+hyperactivity disorder (ADHD) in adults and pediatric patients 6 years and older. The American
+Academy of Pediatrics generally recommends stimulants as first-line medications for the treatment of
+ADHD. Selective norepinephrine reuptake inhibitors (e.g. atomoxetine) and selective alpha-2
+adrenergic agonists (e.g. clonidine extended-release, guanfacine extended-release) are also
+recommended, however the data are less robust.
+2. Coverage Criteriaa:
+A. Authorization
+1. Qelbree* will be approved based on both of the following:
+a. One of the following:
+(1) History of failure, contraindication, or intolerance to both of the following (document
+medication names and dates of trials):
+(a) a methylphenidate class stimulant (e.g. generic Concerta)
+(b) an amphetamine class stimulant (e.g. generic Adderall XR)
+-OR-
+(2) History of a substance use disorder or concern for potential misuse and/or diversion
+-AND-
+b. One of the following:
+(1) History of failure, contraindication, or intolerance to both of the following:
+(a) an alpha-2 adrenergic agonist [e.g. clonidine extended-release, guanfacine
+extended-release (document medication name and date of trial)].
+(b) atomoxetine [(generic Strattera) document date of trial]
+-OR-
+(2) Both of the following:
+© 2025 UnitedHealthcare Services, Inc.
+1
+(a) Patient is unable to swallow a solid dosage form (i.e. an oral tablet or capsule)
+due to age, oral/motor difficulties, or dysphagia
+(b) History of failure, contraindication, or intolerance to Onyda XR (document date
+of trial).
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+* Qelbree is typically excluded from coverage.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Qelbree [package insert]. Rockville, MD: Supernus Pharmaceuticals, Inc; April 2022.
+2. Wolraich ML. et. al. Clinical Practice Guideline for the Diagnosis, Evaluation, and Treatment of
+Attention-Deficit/Hyperactivity Disorder in Children and Adolescents. Pediatrics. Oct. 2019,
+144 (4) 2019-2528.
+Program Prior Authorization/Medical Necessity – Qelbree (viloxazine)
+Change Control
+9/2021 New program.
+Change program type from Non-Formulary (program number 1368) to
+2/2022
+Medical Necessity (program number 2270).
+Removed requirement that patient is less than 18 years old due to new
+6/2022
+FDA approval for adult patients.
+7/2023 Annual review. Updated examples to generics.
+7/2024 Annual review. No changes.
+Added trial of Onyda XR for patients unable to swallow solid dosage
+1/2025
+form.
+© 2025 UnitedHealthcare Services, Inc.
+2

@@ -1,0 +1,80 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1343-5
+Program Prior Authorization/Notification
+Medications Inqovi® (decitabine and cedazuridine) tablet
+P&T Approval Date 12/2020, 2/2022, 2/2023, 2/2024, 2/2025
+Effective Date 5/1/2025
+1. Background:
+Inqovi is a combination of decitabine, a nucleoside metabolic inhibitor, and cedazuridine, a
+cytidine deaminase inhibitor, indicated for the treatment of adult patients with myelodysplastic
+syndromes (MDS), including previously treated and untreated, de novo and secondary MDS with
+the following French-American-British subtypes (refractory anemia, refractory anemia with
+ringed sideroblasts, refractory anemia with excess blasts, and chronic myelomonocytic leukemia
+[CMML]) and intermediate-1, intermediate-2, and high-risk International Prognostic Scoring
+System (IPSS) groups.
+The National Cancer Comprehensive Network (NCCN) notes that Inqovi could be considered as
+a substitution for intravenous decitabine in patients with IPSS intermediate-1 and above.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Inqovi will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Myelodysplastic Syndrome (MDS)
+1. Initial Authorization
+a. Inqovi will be approved based on both of the following:
+(1) Diagnosis of myelodysplastic syndrome [e.g., previously treated and untreated, de
+novo and secondary MDS with the following French American-British subtypes
+(refractory anemia, refractory anemia with ringed sideroblasts, refractory anemia
+© 2025 UnitedHealthcare Services, Inc.
+1
+with excess blasts, and chronic myelomonocytic leukemia (CMML)]
+-AND-
+(2) Patient is intermediate-1, intermediate-2, or high-risk per the International
+Prognostic Scoring System (IPSS)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Inqovi will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Inqovi therapy
+Authorization will be issued for 12 months.
+C. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category
+of Evidence and Consensus of 1, 2A, or 2B.
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Inqovi [package insert]. Princeton, NJ: Taiho Oncology, Inc.; March 2022.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+www.nccn.org. Accessed December 20, 2024.
+Program Prior Authorization/Notification – Inqovi® (decitabine and
+cedazuridine)
+Change Control
+12/2020 New program.
+2/2022 Annual review. Updated background and references with no changes to
+the clinical criteria.
+© 2025 UnitedHealthcare Services, Inc.
+2
+2/2023 Annual review with no changes to coverage criteria. Added state
+mandate footnote and updated references.
+2/2024 Annual review with no changes to coverage criteria. Updated
+references.
+2/2025 Annual review. Removed CMML as it would fall under MDS. Updated
+references.
+© 2025 UnitedHealthcare Services, Inc.
+3

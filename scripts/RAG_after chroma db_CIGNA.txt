@@ -1,0 +1,62 @@
+# =====================================
+# CIGNA POLICY ANALYZER (RAG VERSION)
+# =====================================
+
+from chromadb import PersistentClient
+from openai import OpenAI
+
+# --- 1. API key ---
+api_key = "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"
+openai_client = OpenAI(api_key=api_key)
+
+# --- 2. Connect to Cigna ChromaDB ---
+CHROMA_PATH = r"C:\Users\Vincent Lin\OneDrive\Desktop\MVP_PA_Policies\data\db\chroma_CIGNA"
+client = PersistentClient(path=CHROMA_PATH)
+collection = client.get_collection("cigna_policies")
+
+print("✅ Connected to Cigna ChromaDB")
+print(f"Total records: {collection.count()}")
+
+# --- 3. Get user query ---
+query = input("\n🔍 Enter your question (e.g. Wegovy prior authorization policy): ")
+
+# --- 4. Retrieve relevant text chunks ---
+query_emb = openai_client.embeddings.create(
+    model="text-embedding-3-large",
+    input=query
+).data[0].embedding
+
+results = collection.query(
+    query_embeddings=[query_emb],
+    n_results=5
+)
+
+# Collect text context
+context_chunks = []
+for doc_list in results["documents"]:
+    doc = doc_list[0] if isinstance(doc_list, list) else doc_list
+    context_chunks.append(doc)
+
+context = "\n\n".join(context_chunks)
+
+# --- 5. Ask GPT-4 to interpret ---
+prompt = f"""
+You are a healthcare market access analyst. Summarize the key prior authorization
+criteria for the following question, based *only* on the Cigna policy text below.
+
+Question: {query}
+
+Policy text:
+{context}
+
+Provide a concise professional summary that could be used in a payer landscape slide.
+"""
+
+response = openai_client.chat.completions.create(
+    model="gpt-4o-mini",
+    messages=[{"role": "user", "content": prompt}],
+    temperature=0.2
+)
+
+print("\n🧠 === INTERPRETED ANSWER ===")
+print(response.choices[0].message.content)

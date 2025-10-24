@@ -1,0 +1,333 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Complement Inhibitors – Fabhalta Prior Authorization Policy
+• Fabhalta® (iptacopan capsules – Novartis)
+REVIEW DATE: 04/02/2025; selected revision 07/16/2025 and 08/06/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Fabhalta, a Factor B inhibitor, is indicated for the following uses:1
+• Complement 3 glomerulopathy (C3G), to reduce proteinuria in adults.
+• Paroxysmal nocturnal hemoglobinuria (PNH), in adults.
+• Primary immunoglobulin A nephropathy (IgAN), for the reduction of
+proteinuria in adults at risk of rapid disease progression, generally a urine
+protein-to-creatinine ratio (UPCR) ≥1.5 g/g.
+For the IgAN indication, Fabhalta was approved under accelerated approval based on
+reduction of proteinuria.1 It has not been established whether Fabhalta slows kidney
+function decline in patients with IgAN. Continued approval for this indication may be
+contingent upon verification and description of clinical benefit in a confirmatory
+clinical trial.
+Page 1 of 8 - Cigna National Formulary Coverage - Policy: Complement Inhibitors – Fabhalta Prior Authorization
+Policy
+Fabhalta has a Boxed Warning about serious meningococcal infections.1 Fabhalta is
+only available through a restricted access program, Fabhalta Risk Evaluation and
+Mitigation Strategy (REMS).
+Disease Overview
+C3G
+C3G, an ultra-rare complement-mediated kidney disease, is chronic and slowly
+progressive.2,3 The prevalence of C3G is challenging to estimate accurately; registry
+data suggest that incidence and prevalence are approximately 1 to 3 cases per million
+and 5 cases per million, respectively in the US.2 C3G results from deregulation and
+consequently overactivation of the alternative pathway of the complement system,
+which allows the complement cascade to progress and activate all effector levels.2,3
+In addition, deregulated complement results in deposition of C3b on target surfaces
+of the glomerulus. Urine analysis is typically the first step in diagnosis and typically
+shows proteinuria and hematuria. Renal biopsy is essential for diagnosis;
+histopathologic features of C3G are characterized by C3 deposits, absence or minimal
+immunoglobulin deposits within the glomeruli, evidence of glomerular inflammation,
+and mesangial cell proliferation. There are no approved disease-specific therapy for
+C3G. Standard of care includes supportive care, which includes blood pressure control
+with angiotensin-converting enzyme (ACE) inhibitors or angiotensin receptor blockers
+to reduce proteinuria and slow down kidney damage. Immunosuppressants such as
+corticosteroids, mycophenolate mofetil, cyclophosphamide, and rituximab are
+typically used to treat moderate to severe disease. Immunosuppressives may be used
+to reduce the production of autoantibodies and to reduce the inflammatory response.
+Some patients may be treated with plasma exchange or plasmapheresis, which are
+used to replace the defective complement proteins and to remove autoantibodies and
+other forms of debris.
+PNH
+PNH is a rare, genetic disorder of hematopoietic stem cells.4,5 The mutation in the
+X-linked gene phosphatidylinositol glycan class A (PIGA) results in a deficiency in the
+glycosylphosphatidylinositol (GPI) protein, which is responsible for anchoring other
+protein moieties to the surface of the erythrocytes. Loss of anchoring of these
+proteins causes cells to hemolyze and leads to complications such as hemolytic
+anemia, thrombosis, and peripheral blood cytopenias. PNH is a clinical diagnosis that
+should be confirmed with peripheral blood flow cytometry to detect the absence or
+severe deficiency of GPI-anchored proteins on at least two lineages.4.6 Prior to the
+availability of complement inhibitors, only supportive care to manage the cytopenias
+and control thrombotic risk were available. Supportive measures include platelet
+transfusion, immunosuppressive therapy for patients with bone marrow failure, use
+of erythropoietin for anemias, and aggressive anticoagulation.
+IgAN
+IgAN is the most common primary glomerular disease in the world and it is the
+leading cause of chronic kidney disease (CKD) and kidney failure.7 The disease is
+slowly progressive; approximately 25% to 30% of patients develop kidney failure
+within 20 to 25 years of presentation. The management of IgAN is focused on
+supportive care to slow the rate of disease progression. IgAN is characterized by a
+8 Pages - Cigna National Formulary Coverage - Policy: Complement Inhibitors – Fabhalta Prior Authorization Policy
+single histopathologic criterion of predominant or co-dominant IgA deposits on kidney
+biopsy; however, it is well recognized that the disease exhibits heterogeneity in
+clinical and pathological features. Hypertension and proteinuria are major risk factors
+for the progression of CKD. Guidelines from Kidney Diseases: Improving Global
+Outcomes (KDIGO) note that proteinuria reduction to < 0.5 g/day, a surrogate
+marker of improved kidney outcomes in IgAN, is a reasonable target.
+Clinical Efficacy
+C3G
+The efficacy of Fabhalta for the treatment of C3G was studied in a randomized,
+double-blind, placebo-controlled study.1 All patients were ≥ 18 years of age with
+biopsy-confirmed native kidney C3G with a urine protein-to-creatinine ratio (UPCR)
+≥ 1.0 g/g and estimated glomerular filtration rate (eGFR) ≥ 30 mL/min/1.73 m2.
+Patients were randomized to receive either Fabhalta 200 mg twice daily (BID) or
+placebo for 6 months, followed by a 6-month open-label treatment period in which
+all patients received Fabhalta. All patients were on a maximally recommended or
+tolerated dose of an angiotensin converting enzyme (ACE) inhibitor or angiotensin
+receptor blocker (ARB) for ≥ 90 days.8 In addition, patients could be receiving other
+therapies (e.g., corticosteroid and/or mycophenolate mofetil) at baseline if they were
+on stable doses for 90 days prior to randomization and throughout the study.1 The
+primary efficacy endpoint was the log-transformed ratio to baseline in UPCR (sampled
+from a 24-hour urine collection) at 6 months.
+At Month 6, the geometric mean UPCR ratio relative to baseline was 0.70 (95%
+confidence interval [CI]: 0.57, 0.85) for the Fabhalta group and 1.08 (95% CI: 0.88,
+1.31) for the placebo group, resulting in a 35% reduction in the 24-hour UPCR from
+baseline in the Fabhalta group compared with placebo (P = 0.0028).1 At 6 months,
+compared with patients in the placebo group, patients treated with Fabhalta had a 7-
+fold higher odds (P = 0.0166) of achieving a composite renal endpoint, defined as a
+≥ 50% reduction in 24-hour UPCR compared to baseline and stable or improved eGFR
+compared to baseline (≤ 15% reduction in eGFR). There was no difference between
+the groups in the proportion of patients with stable or improved eGFR compared to
+baseline at 6 months; 90% in the Fabhalta group vs. 89% in the placebo group;
+however, a greater proportion of patients in the Fabhalta group achieved a ≥ 50%
+reduction in 24-hour UPCR compared to baseline (30% vs. 6%, respectively).
+IgAN
+The efficacy of Fabhalta was evaluated in one Phase 3, pivotal, 24-month trial in
+patients ≥ 18 years of age with IgAN.1,9 Eligible patients had biopsy-proven IgAN,
+eGFR ≥ 30 mL/min/1.73 m2, and a UPCR ≥ 1.0 g/g on a stable dose of maximally-
+tolerated renin-angiotensin system inhibitor for 3 months with or without a stable
+dose of a sodium-glucose cotransporters 2 (SGLT2) inhibitor. Patients were
+randomized to Fabhalta 200 mg BID or placebo for 24 months while remaining on
+supportive care. Fabhalta resulted in a statistically and clinically meaningful reduction
+in proteinuria compared to placebo. Interim efficacy is reported at Month 9.
+The primary efficacy endpoint was the change from baseline in the 24-hour UPCR
+(based on 24-hour urine sample) at Month 9.1,9 The primary analysis was based on
+8 Pages - Cigna National Formulary Coverage - Policy: Complement Inhibitors – Fabhalta Prior Authorization Policy
+an interim data cutoff of August 15, 2023. At Month 9, the primary endpoint was
+significantly greater with Fabhalta vs. placebo in the interim analysis set (comprised
+of the first 250 patients randomized in the study); the geometric least squares mean
+percent change in UPCR from baseline was -44% vs. -9%, respectively. This resulted
+in a statistically significant relative reduction from baseline in UPCR for the Fabhalta
+vs. placebo group (geometric mean ratio 0.617; 95% CI: 0.514, 0.740; P < 0.001),
+corresponding to a 38% relative reduction with Fabhalta. For Fabhalta, the UPCR
+changed from 1.9 g/g at baseline to 1.0 g/g at Month 9; for placebo, the change was
+from 2.0 g/g at baseline to 1.7 g/g at Month 9.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Fabhalta. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Fabhalta as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Fabhalta to be prescribed by or in consultation with a physician who specializes in the
+condition being treated.
+• Fabhalta® (iptacopan capsules – Novartis)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Complement 3 Glomerulopathy. Approve for the duration noted if the patient
+meets ONE of the following (A or B):
+A) Initial therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, iii, iv, v, and vi):
+i. Patient is ≥ 18 years of age; AND
+ii. The diagnosis has been confirmed by biopsy; AND
+iii. Patient has a urine protein-to-creatinine ratio ≥ 1.0 g/g; AND
+iv. Patient has an estimated glomerular filtration rate ≥ 30 mL/min/1.73 m2;
+AND
+v. Patient has received the maximum or maximally tolerated dose of at least
+ONE of the following for ≥ 12 weeks prior to starting Fabhalta (a or b):
+a) Angiotensin converting enzyme inhibitor; OR
+b) Angiotensin receptor blocker; AND
+vi. The medication is prescribed by or in consultation with a nephrologist; OR
+B) Patient is Currently Receiving Fabhalta. Approve for 1 year if the patient meets
+ALL of the following (i, ii, iii, iv, and v):
+i. Patient is ≥ 18 years of age; AND
+ii. The diagnosis has been confirmed by biopsy; AND
+iii. According to the prescriber, patient has had a response to Fabhalta; AND
+8 Pages - Cigna National Formulary Coverage - Policy: Complement Inhibitors – Fabhalta Prior Authorization Policy
+Note: Examples of a response are a reduction in urine protein-to-creatinine
+ratio from baseline, reduction in proteinuria from baseline.
+iv. Patient has an estimated glomerular filtration rate ≥ 30 mL/min/1.73 m2;
+AND
+v. The medication is prescribed by or in consultation with a nephrologist.
+2. Paroxysmal Nocturnal Hemoglobinuria. Approve for the duration noted if the
+patient meets ONE of the following (A or B):
+A) Initial therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. Paroxysmal nocturnal hemoglobinuria diagnosis was confirmed by
+peripheral blood flow cytometry results showing the absence or deficiency
+of glycosylphosphatidylinositol-anchored proteins on at least two cell
+lineages; AND
+iii. The medication is prescribed by or in consultation with a hematologist; OR
+B) Patient is Currently Receiving Fabhalta. Approve for 1 year if the patient meets
+ALL of the following (i, ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. According to the prescriber, patient is continuing to derive benefit from
+Fabhalta; AND
+Note: Examples of benefit include increase in or stabilization of hemoglobin
+levels, decreased transfusion requirements or transfusion independence,
+reductions in hemolysis, improvement in Functional Assessment of Chronic
+Illness Therapy (FACIT)-Fatigue score.
+iii. The medication is prescribed by or in consultation with a hematologist.
+3. Primary Immunoglobulin A Nephropathy. Approve for the duration noted if
+the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 9 months if the patient meets ALL of the following
+(i, ii, iii, iv, v, and vi):
+i. Patient is ≥ 18 years of age; AND
+ii. The diagnosis has been confirmed by biopsy; AND
+iii. Patient is at high risk of disease progression, defined by meeting BOTH of
+the following (a and b):
+a) Patient meets ONE of the following [(1) or (2)]:
+(1) Proteinuria ≥ 0.5 g/day; OR
+(2) Urine protein-to-creatinine ratio ≥ 1.5 g/g; AND
+b) Patient has received the maximum or maximally tolerated dose of ONE
+of the following for ≥ 12 weeks prior to starting Fabhalta [(1) or (2)]:
+(1) Angiotensin converting enzyme inhibitor; OR
+(2) Angiotensin receptor blocker; AND
+iv. According to the prescriber, patient has received ≥ 3 months of optimized
+supportive care, including blood pressure management, lifestyle
+modification, and cardiovascular risk modification; AND
+v. Patient has an estimated glomerular filtration rate ≥ 30 mL/min/1.73 m2;
+AND
+vi. The medication is prescribed by or in consultation with a nephrologist; OR
+8 Pages - Cigna National Formulary Coverage - Policy: Complement Inhibitors – Fabhalta Prior Authorization Policy
+B) Patient is Currently Receiving Fabhalta. Approve for 1 year if the patient meets
+ALL of the following (i, ii, iii, iv, and v):
+i. Patient is ≥ 18 years of age; AND
+ii. The diagnosis has been confirmed by biopsy; AND
+iii. According to the prescriber, patient has had a response to Fabhalta; AND
+Note: Examples of a response are a reduction in urine protein-to-creatinine
+ratio from baseline, reduction in proteinuria from baseline.
+iv. Patient has an estimated glomerular filtration rate ≥ 30 mL/min/1.73 m2;
+AND
+v. The medication is prescribed by or on consultation with a nephrologist.
+CONDITIONS NOT COVERED
+• Fabhalta® (iptacopan capsules – Novartis)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Concomitant Use with Another Complement Inhibitor. There is no evidence
+to support concomitant use of Fabhalta with another complement inhibitor.
+Note: Examples of complement inhibitors are Empaveli (pegcetacoplan
+subcutaneous injection), PiaSky (crovalimab-akkz intravenous infusion or
+subcutaneous injection), eculizumab intravenous infusion (Soliris, biosimilars),
+Ultomiris (ravulizumab-cwvz intravenous infusion), and Voydeya (danicopan
+tablets).
+2. Concomitant Use with Other Medications Indicated for the Treatment of
+Immunoglobulin A Nephropathy (e.g., Filspari and Vanrafia). The
+requested medication should not be administered in combination with other
+medications indicated for immunoglobulin A nephropathy. Combination therapy
+is generally not recommended due to a lack of controlled clinical trial data
+supporting additive efficacy.
+REFERENCES
+1. Fabhalta® capsules [prescribing information]. East Hanover, NJ: Novartis; March 2025.
+2. Heidenreich K, Goel D, Priyamvada PS, et al. C3 glomerulopathy: a kidney disease mediated by
+alternative pathway deregulation. Front Nephrol. 2024;4:1460146. doi:
+10.3389/fneph.2024.1460146.
+3. Ayehu G, Atari M, Hassanein M, Jhaveri KD. C3 glomerulopathy. Available at:
+https://www.ncbi.nlm.nih.gov/books/NBK609090/#article-169701.s4. Last updated on November
+5, 2024. Accessed on March 25, 2025
+4. Cançado RD, da Silva Araújo A, Sandes AF, et al. Consensus statement for diagnosis and treatment
+of paroxysmal nocturnal haemoglobinuria. Hematol Transfus Cell Ther. 2021;43:341-348.
+5. Shah N, Bhatt H. Paroxysmal Nocturnal Hemoglobinuria. [Updated 2023 Jul 31]. In: StatPearls
+[Internet]. Treasure Island (FL): StatPearls Publishing; 2023 Jan. Available at:
+https://www.ncbi.nlm.nih.gov/books/NBK562292/. Accessed on March 25, 2025.
+6. Roth A, Maciejewski J, Nishinura JI, et al. Screening and diagnostic clinical algorithm for paroxysmal
+nocturnal hemoglobinuria: Expert consensus. Eur J Haematol. 2018;101(1):3-11.
+8 Pages - Cigna National Formulary Coverage - Policy: Complement Inhibitors – Fabhalta Prior Authorization Policy
+7. Kidney Diseases: Improving Global Outcomes (KDIGO) 2024 clinical practice guidelines for the
+management of immunoglobulin A nephropathy (IgAN) and immunoglobulin A vasculitis (IgAV).
+Draft published online ahead of print. Available at: https://kdigo.org/wp-
+content/uploads/2024/08/KDIGO-2024-IgAN-IgAV-Guideline-Public-Review-Draft.pdf. Accessed on
+March 25, 2025.
+8. Bomback AS, Kavanagh D, Vivarelli M, et al. Alternative complement pathway inhibition with
+iptacopan for the treatment of C3 glomerulopathy-study design of the APPEAR-C3G trial. Kidney
+Int Rep. 2022;7:2150-2159.
+9. Perkovic V, Barratt J, Rovin B, et al. Alternative complement pathway inhibition with iptacopan in
+IgA nephropathy. N Engl J Med. 2025;392(6):531-543.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+New Policy -- 12/20/2023
+Selected Conditions Not Covered: Added new criterion regarding 01/17/2024
+Revision concomitant use with another complement inhibitor; examples
+of complement inhibitors were added as a Note.
+Selected Paroxysmal Nocturnal Hemoglobinuria: Initial approval 02/28/2024
+Revision duration was changed from 4 months to 6 months.
+Selected Primary Immunoglobulin A Nephropathy: This condition 08/14/2024
+Revision and criteria for approval was added to the policy.
+Selected Conditions Not Covered, Concomitant Use with Another 09/04/2024
+Revision Complement Inhibitor: Added Piasky (crovalimab-akkz
+intravenous infusion or subcutaneous injection) and Voydeya
+(danicopan tablets) to the Note that lists examples of
+complement inhibitors. Removed Ultomiris SC from the list (not
+available).
+Selected Paroxysmal Nocturnal Hemoglobinuria, Patient is 10/02/2024
+Revision currently receiving Fabhalta: “Improvement in Functional
+Assessment of Chronic Illness Therapy (FACIT)-Fatigue score”
+was added to the Note of examples of benefit.
+Primary Immunoglobulin A Nephropathy: The criterion
+requiring that the patient is at high risk of disease progression,
+defined by ONE of the following: urine-to-protein-creatinine ratio
+≥ 1.5 g/g OR proteinuria ≥ 1 g/day was revised to require that
+the patient is at high risk of disease progression, defined by urine-
+to-protein-creatinine ratio ≥ 1.5 g/g OR proteinuria ≥ 0.5 g/day.
+Annual Conditions Not Covered– Concomitant Use with Another 12/11/2024
+Revision Complement Inhibitor: In the Note of examples of
+complement inhibitors, Soliris biosimilars were added as
+examples.
+Early Annual Complement 3 Glomerulopathy: This condition and criteria for 04/02/2025
+Revision approval were added to the policy.
+Selected Conditions Not Covered: Added new condition regarding 07/16/2025
+Revision concomitant use with other medications indicated for the
+treatment of immunoglobulin A nephropathy.
+Selected Complement 3 Glomerulopathy: Initial Therapy: The 08/06/2025
+Revision requirement that the patient has not received a kidney transplant
+in the past was removed. The requirement regarding use of an
+angiotensin converting enzyme (ACE) inhibitor or angiotensin
+receptor blocker (ARB) at a maximum or maximally tolerated
+dose for ≥ 90 days was changed to state “at least ONE” of ACE
+inhibitor or ARB. Also, the number of days that a patient should
+have received either therapy was changed from ≥ 90 days to ≥
+12 weeks. Patient is Currently Receiving Fabhalta: The
+8 Pages - Cigna National Formulary Coverage - Policy: Complement Inhibitors – Fabhalta Prior Authorization Policy
+requirement that the patient has not received a kidney transplant
+in the past was removed.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+8 Pages - Cigna National Formulary Coverage - Policy: Complement Inhibitors – Fabhalta Prior Authorization Policy

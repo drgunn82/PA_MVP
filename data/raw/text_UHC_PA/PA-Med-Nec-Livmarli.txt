@@ -1,0 +1,129 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2262-6
+Program Prior Authorization/Medical Necessity
+Medication Livmarli™ (maralixibat)
+P&T Approval Date 11/2021, 1/2022, 1/2023, 5/2023, 5/2024, 9/2024
+Effective Date 12/1/2024
+1. Background:
+Livmarli (maralixibat) is an ileal bile acid transporter inhibitor indicated for the treatment of
+cholestatic pruritis in patients 12 months of age and older with progressive familial intrahepatic
+cholestasis (PFIC). Livmarli is also indicated for the treatment of cholestatic pruritis in patients 3
+months of age and older with Alagille syndrome (ALGS).
+PFIC is a heterogeneous group of liver disorders of autosomal recessive inheritance, characterized
+by an early onset of cholestasis (usually during infancy) with pruritus and malabsorption, which
+rapidly progresses and ends up as liver failure. Pruritus is the most obvious and the most
+unbearable symptom in cholestasis. It has been proposed that it is induced by the stimulation of
+nonmyelinated subepidermal free nerve ends because of increased serum bile acids.
+ALGS is a rare genetic disorder caused by a mutation in the JAG1 or Notch2 genes which are
+involved in embryonic development in utero. In ALGS patients, multiple organ systems may be
+affected by the mutation. In the liver, the mutation causes the bile ducts to abnormally narrow,
+malform and reduce in number, leading to bile acid accumulation, cholestasis, and ultimately
+progressive liver disease. The cholestatic pruritus experienced by patients with ALGS is among
+the most severe in any chronic liver disease and is present in most affected children by the third
+year of life.
+Conventional treatments for pruritis associated with PFIC or Alagille syndrome include
+uroseoxycholic acid (UCDA), antihistamines (e,g., diphenhydramine), bile acid sequestrants (e.g.,
+cholestyramine), rifampin, naltrexone and sertraline.
+Limitation of Use:
+Livmarli is not recommended in a subgroup of PFIC type 2 patients with specific ABCB11
+variants resulting in non-functional or complete absence of bile salt export pump (BSEP) protein.
+2. Coverage Criteriaa:
+A. Progressive Familial Intrahepatic Cholestasis
+1. Initial Authorization
+a. Livmarli will be approved based upon all of the following criteria:
+(1) Diagnosis of progressive familial intrahepatic cholestasis (PFIC)
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+1
+(2) Patient does not have a ABCB11 variant resulting in non-functional or complete
+absence of bile salt export pump (BSEP) protein
+-AND-
+(3) Patient is experiencing moderate to severe pruritus associated with PFIC.
+-AND-
+(4) Patient has a serum bile acid concentration above the upper limit of the normal
+reference range for the reporting laboratory.
+-AND-
+(5) Patient has had an inadequate response to at least two conventional treatments
+for the symptomatic relief of pruritus (e.g., uroseoxycholic acid,
+diphenhydramine, cholestyramine, rifampin, naltrexone, and sertraline).
+-AND-
+(6) Prescribed by a gastroenterologist or hepatologist.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Livmarli will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Livmarli therapy (e.g., reduced
+serum bile acids, improved pruritis and less sleep disturbance)
+-AND-
+(2) Prescribed by a gastroenterologist or hepatologist.
+Authorization will be issued for 12 months.
+B. Alagille Syndrome
+1. Initial Authorization
+a. Livmarli will be approved based upon all of the following criteria:
+(1) Diagnosis of Alagille syndrome (ALGS)
+-AND-
+(2) Confirmation of diagnosis by presence of the JAG1 or Notch2 gene mutation
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+2
+(3) Patient has a serum bile acid concentration above the upper limit of the normal
+reference range for the reporting laboratory.
+-AND-
+(4) Patient is experiencing moderate to severe pruritis associated with ALGS
+-AND-
+(5) Patient has had an inadequate response to at least two conventional treatments
+for the symptomatic relief of pruritus (e.g., uroseoxycholic acid,
+diphenhydramine, cholestyramine, rifampin, naltrexone, and sertraline).
+-AND-
+(6) Prescribed by a gastroenterologist or hepatologist.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Livmarli will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Livmarli therapy (e.g., reduced
+serum bile acids, improved pruritis)
+-AND-
+(2) Prescribed by a gastroenterologist or hepatologist.
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. Reference:
+1. Livmarli [package insert]. Foster City, CA: Mirum Pharmaceuticals, Inc.; July 2024.
+© 2024 UnitedHealthcare Services, Inc.
+3
+2. Gonzales E, Hardikar W, Stormon M, et al. Efficacy and safety of maralixibat treatment in
+patients with Alagille syndrome and cholestatic pruritus (ICONIC): a randomised phase 2
+study. Lancet. 2021;398(10311):1581-1592.
+3. Miethke AG, Moukarzel A, Porta G, et al. Maralixibat in progressive familial intrahepatic
+cholestasis (MARCH-PFIC): a multicentre, randomised, double-blind, placebo-controlled, phase
+3 trial [published correction appears in Lancet Gastroenterol Hepatol. 2024 Jul;9(7):e10.
+4. Chowdhury JR, Chowdhury NR. Inherited disorders associated with conjugated
+hyperbilirubinemia in adults. In: Post TW, ed. UpToDate. UpToDate, 2024. Accessed July 9,
+2024. Inherited disorders associated with conjugated hyperbilirubinemia in adults -
+UpToDate
+5. Kohut TJ, Loomes KM. Alagille syndrome. In: Post TW, ed. UpToDate. UpToDate, 2024.
+Accessed July 9, 2024. Alagille syndrome - UpToDate
+Program Prior Authorization/Medical Necessity - Livmarli (maralixibat)
+Change Control
+11/2021 New program.
+1/2022 Updated coverage criteria to require trial of at least two medications for
+pruritis.
+1/2023 Annual review with no changes to coverage criteria.
+5/2023 Updated background with expanded indication in ALGS patients 3
+months of age and older. No change to coverage criteria. Updated
+reference.
+5/2024 Annual review. Added coverage criteria for new PFIC indication.
+Updated authorization durations to 12 months for ALGS indication.
+Updated background and references.
+9/2024 Updated background with expanded PFIC indication in patients 12
+months to 4 years of age. Updated examples of conventional treatment
+within initial authorization criteria for both PFIC and ALGS. Updated
+references.
+© 2024 UnitedHealthcare Services, Inc.
+4

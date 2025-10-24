@@ -1,0 +1,3775 @@
+PREFERRED SPECIALTY MANAGEMENT POLICY
+POLICY: Inflammatory Conditions Preferred Specialty Management Policy for
+National Preferred, High Performance, and Basic Formularies –
+Choice/Alternate
+Tumor Necrosis Factor Inhibitors
+• Adalimumab Products*
+o adalimumab-adbm subcutaneous injection (Boehringer Ingelheim)
+o adalimumab-adaz subcutaneous injection (Sandoz/Novartis)
+o adalimumab-ryvk subcutaneous injection (Alvotech/Teva)
+o Cyltezo® (adalimumab-adbm subcutaneous injection – Boehringer Ingelheim)
+o Simlandi (adalimumab-ryvk subcutaneous injection – Alvotech/Teva)
+• Cimzia (certolizumab pegol subcutaneous injection – UCB)
+• Enbrel (etanercept subcutaneous injection – Amgen)
+• Simponi® (golimumab subcutaneous injection – Janssen Biotech/Johnson & Johnson)
+• Zymfentra® (infliximab-dyyb subcutaneous injection – Celltrion)
+Interleukin-6 Blockers
+• Tocilizumab Subcutaneous Products
+o Actemra® (tocilizumab subcutaneous injection – Genentech/Roche)
+o Tyenne® (tocilizumab-aazg subcutaneous injection – Fresenius Kabi)
+• Kevzara® (sarilumab subcutaneous injection – Regeneron)
+Interleukin-17 Blockers
+• Bimzelx® (bimekizumab subcutaneous injection – UCB)
+• Cosentyx® (secukinumab subcutaneous injection – Novartis)
+• Siliq® (brodalumab subcutaneous injection – Valeant)
+• Taltz® (ixekizumab subcutaneous injection – Eli Lilly)
+Interleukin-23 Blockers
+• Ilumya® (tildrakizumab-asmn subcutaneous injection – Sun/Merck)
+• Omvoh® (mirakizumab-mrkz subcutaneous injection – Eli Lilly)
+• Skyrizi® (risankizumab-rzaa subcutaneous injection – AbbVie)
+• Tremfya® (guselkumab subcutaneous injection – Janssen/Johnson & Johnson)
+Interleukin 12/23 Blocker
+• Ustekinumab Subcutaneous Products*
+o Stelara® (ustekinumab subcutaneous injection – Janssen Biotech/Johnson & Johnson)
+o Imuldosa™ (ustekinumab-srlf subcutaneous injection – Accord BioPharma)
+o Selarsdi™ (ustekinumab-aekn subcutaneous injection – Alvotech/Teva)
+o ustekinumab-ttwe subcutaneous injection (Quallent)
+o Yesintek™ (ustekinumab-kfce subcutaneous injection – Biocon)
+Interleukin-1 Blocker
+• Kineret® (anakinra subcutaneous injection – Swedish Orphan Biovitrim)
+T-Cell Costimulation Modulator
+• Orencia® (abatacept subcutaneous injection − Bristol Myers Squibb)
+Integrin Receptor Antagonist
+• Entyvio® (vedolizumab subcutaneous injection – Takeda)
+Janus Kinases Inhibitors
+• Olumiant® (baricitinib tablets – Eli Lilly)
+• Rinvoq® (upadacitinib extended-release tablets – AbbVie)
+• Rinvoq® LQ (upadacitinib oral solution – AbbVie)
+• Xeljanz® (tofacitinib tablets, tofacitinib oral solution – Pfizer)
+• Xeljanz® XR (tofacitinib extended-release tablets – Pfizer)
+Phosphodiesterase Type 4 Inhibitor
+• Otezla® (apremilast tablets – Amgen)
+Sphingosine 1-Phosphate Receptor Modulator
+• Velsipity™ (etrasimod tablets – Pfizer)
+Page 1 of 78 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions Preferred Specialty
+Management Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+• Zeposia® (ozanimod capsules – Celgene)
+Tyrosine Kinase 2 Inhibitor
+• Sotyktu™ (deucravacitinib tablets − Bristol Myers Squibb)
+* For Non-Preferred products, refer to the respective Inflammatory Conditions Preferred Specialty
+Management Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate.
+REVIEW DATE: 09/10/2025; effective 10/01/2025
+INSTRUCTIONS FOR USE
+The following Coverage Policy applies to health benefit plans administered by Cigna Companies. Certain Cigna
+Companies and/or lines of business only provide utilization review services to clients and do not make coverage
+determinations. References to standard benefit plan language and coverage determinations do not apply to those
+clients. Coverage Policies are intended to provide guidance in interpreting certain standard benefit plans administered
+by Cigna Companies. Please note, the terms of a customer's particular benefit plan document [Group Service
+Agreement, Evidence of Coverage, Certificate of Coverage, Summary Plan Description (SPD) or similar plan
+document] may differ significantly from the standard benefit plans upon which these Coverage Policies are based.
+For example, a customer's benefit plan document may contain a specific exclusion related to a topic addressed in a
+Coverage Policy. In the event of a conflict, a customer's benefit plan document always supersedes the information in
+the Coverage Policies. In the absence of a controlling federal or state coverage mandate, benefits are ultimately
+determined by the terms of the applicable benefit plan document. Coverage determinations in each specific instance
+require consideration of 1) the terms of the applicable benefit plan document in effect on the date of service; 2) any
+applicable laws/regulations; 3) any relevant collateral source materials including Coverage Policies and; 4) the
+specific facts of the particular situation. Each coverage request should be reviewed on its own merits. Medical
+directors are expected to exercise clinical judgment where appropriate and have discretion in making individual
+coverage determinations. Where coverage for care or services does not depend on specific circumstances,
+reimbursement will only be provided if a requested service(s) is submitted in accordance with the relevant criteria
+outlined in the applicable Coverage Policy, including covered diagnosis and/or procedure code(s). Reimbursement is
+not allowed for services when billed for conditions or diagnoses that are not covered under this Coverage Policy (see
+"Coding Information" below). When billing, providers must use the most appropriate codes as of the effective date
+of the submission. Claims submitted for services that are not accompanied by covered code(s) under the applicable
+Coverage Policy will be denied as not covered. Coverage Policies relate exclusively to the administration of health
+benefit plans. Coverage Policies are not recommendations for treatment and should never be used as treatment
+guidelines. In certain markets, delegated vendor guidelines may be used to support medical necessity and other
+coverage determinations.
+Cigna National Formulary Coverage:
+OVERVIEW
+Several products are available for use in inflammatory conditions such as
+rheumatoid arthritis, ankylosing spondylitis, juvenile idiopathic arthritis, psoriatic
+arthritis, plaque psoriasis, Crohn’s disease, and ulcerative colitis.1-25 This policy
+involves the use of the products listed above.
+The FDA-approved indications for each product listed in this policy are documented
+in Appendix A. For more information on criteria within a Prior Authorization
+program by specific condition refer to the respective standard Prior Authorization
+Policy.
+POLICY STATEMENT
+For all medications, this program requires the patient to meet the respective
+standard Prior Authorization Policy criteria. Additionally, this program requires
+trial(s) of the Preferred Product(s) according to the table below, when clinically
+appropriate, prior to the approval of the Non-Preferred Products. There are also
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+situations when trials of Non-Preferred Products will be considered; see criteria
+below. Other details of the program are as follows:
+• Continuation of Therapy: Approval for a patient continuing therapy with a
+Non-Preferred subcutaneous or oral Product must be supported with
+verification, noted in the criteria as either [verification in prescription claims
+history required] or, if not available, as [verification by prescriber
+required].
+o If the patient has at least 130 days of prescription claims history on file,
+claims history must support that the patient has received the Non-Preferred
+Product for the specified period of time (90 or 120 days) within a 130-day
+look-back period; OR
+o When 130 days of the patient’s prescription claim history file is unavailable
+for verification, the prescriber must verify that the patient has been receiving
+the Non-Preferred Product for a specified period of time (90 or 120 days),
+AND that the patient has been receiving the Non-Preferred Product via paid
+claims (e.g., patient has not been receiving samples or coupons or other
+types of waivers in order to obtain access to the Non-Preferred Product).
+o For a patient continuing therapy, other conditions may also apply. Refer to
+criteria below.
+• Approval Duration: All approvals for continuation of therapy for Preferred and
+Non-Preferred Products are provided for 1 year unless noted otherwise below.
+In cases where the initial approval is authorized in months, 1 month is equal to
+30 days.
+Documentation: When documentation is required, the prescriber must provide
+written documentation supporting the trials of these other Products, noted in the
+criteria as [documentation required]. Documentation may include, but is not
+limited to, chart notes, prescription claims records, and/or prescription receipts.
+Preferred and Non-Preferred Products– Rheumatology Indications.¥Ω
+Rheumatology
+RA JIA AS nr-axSpA PsA
+Step 1 • Enbrel • Enbrel • Enbrel • Cimzia • Enbrel
+Preferred • Adalimumab • Adalimumab • Adalimumab • Taltz • Adalimumab
+Products^ – Products^ – Products^ – Products^ –
+Cyltezo/ Cyltezo/ Cyltezo/ Cyltezo/
+adalimumab- adalimumab- adalimumab- adalimumab-
+adbm, adbm, adbm, adbm,
+adalimumab- adalimumab- adalimumab- adalimumab-
+adaz, Simlandi/ adaz, adaz,
+adaz,
+adalimumab- Simlandi/ Simlandi/
+Simlandi/
+ryvk adalimumab- adalimumab-
+adalimumab-
+ryvk ryvk
+ryvk
+• Taltz • Otezla
+• Skyrizi SC#
+• Ustekinumab
+SC Productsκ
+–Stelara SC,
+Imuldosa SC,
+Selarsdi SC,
+ustekinumab-
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+ttwe SC,
+Yesintek SC
+• Taltz
+• Tremfya SC
+Step 2a • Tocilizumab • Tocilizumab • Rinvoq • Rinvoq • Rinvoq/
+Non-Preferred SC Products SC Products - Directed Directed Rinvoq LQ
+(directed to ONE – Actemra Actemra SC, specifically to specifically Directed
+Step 1 Product) SC, Tyenne Tyenne SC Enbrel or to Cimzia. specifically to
+SC Directed to adalimumab. Enbrel or
+Directed to adalimumab • Xeljanz adalimumab.
+adalimumab specifically. JIA tablets/ • Xeljanz
+specifically. Step SC is for Xeljanz tablets/
+• Rinvoq PJIA. XR tablets Xeljanz
+Xeljanz • Rinvoq/Rinvoq Directed XR tablets
+tablets/ LQ specifically to Directed
+Xeljanz XR • Xeljanz Enbrel or specifically to
+tablets tablets/ adalimumab. Enbrel or
+Xeljanz oral adalimumab.
+solution
+Step 2b -- -- • Bimzelx • Bimzelx • Bimzelx
+Non-Preferred
+(directed to ONE
+Step 1 Product)
+Step 3a • Cimzia • Cimzia • Cimzia • Cosentyx • Cimzia
+Non-Preferred • Kevzara • Kevzara • Cosentyx SC SC • Cosentyx SC
+(directed to TWO • Kineret • Orencia SC • Simponi SC • Orencia SC
+Step 1 or 2a • Olumiant • Simponi SC
+Products) • Orencia SC
+[documentation • Simponi SC
+required]*
+¥ For Non-Preferred Products, refer to the Inflammatory Conditions – Adalimumab Products Preferred
+Specialty Management Policy National Preferred, High Performance, and Basic Formularies –
+Choice/Alternate; Ω For Non-Preferred Products, refer to the Inflammatory Conditions – Ustekinumab
+Subcutaneous Products Preferred Specialty Management Policy for National Preferred, High
+Performance, and Basic Formularies – Alternate or the Choice version of that policy. Note that Stelara
+is Non-Preferred for some plans; RA – Rheumatoid arthritis; JIA – Juvenile idiopathic arthritis; AS –
+Ankylosing spondylitis; nr-axSpA – Nonradiographic axial spondyloarthritis; PsA – Psoriatic arthritis; ^
+A trial of more than one adalimumab product counts as ONE Preferred Product; SC – Subcutaneous; #
+Pen and syringe; κ A trial of more than one ustekinumab product counts as ONE Preferred Product; PJIA
+– Polyarticular juvenile idiopathic arthritis; * The prescriber must provide written documentation
+supporting the trial of Preferred Products, noted in the criteria as [documentation required].
+Documentation may include, but is not limited to, chart notes, prescription claims records, and/or
+prescription receipts.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+Preferred and Non-Preferred Products – Dermatology and Gastroenterology
+Indications.¥Ω
+Dermatology Gastroenterology
+HS Psoriasis CD UC
+Step 1 • Adalimumab • Enbrel • Adalimumab • Adalimumab
+Preferred Products^ – • Adalimumab Products^ – Products^ –
+Cyltezo/ Products^ – Cyltezo/ Cyltezo/
+adalimumab- Cyltezo/ adalimumab- adalimumab-
+adbm, adalimumab- adbm, adbm,
+adalimumab- adbm, adalimumab- adalimumab-
+adalimumab- adaz, Simlandi/ adaz, Simlandi/
+adaz, Simlandi/
+adaz, Simlandi/ adalimumab-ryvk adalimumab-ryvk
+adalimumab-ryvk
+• Cosentyx SC adalimumab-ryvk • Omvoh SC • Omvoh SC
+• Otezla • Skyrizi SC (on- • Skyrizi SC (on-
+• Skyrizi SC# body injector) body injector)
+• Sotyktu • Tremfya SC • Ustekinumab
+• Ustekinumab SC • Ustekinumab SC Productsκ –
+Productsκ – SC Productsκ – Stelara SC,
+Stelara SC, Stelara SC, Imuldosa SC,
+Imuldosa SC, Imuldosa SC, Selarsdi SC,
+Selarsdi SC, Selarsdi SC, ustekinumab-ttwe
+ustekinumab-ttwe ustekinumab-ttwe SC, Yesintek SC
+SC, Yesintek SC SC, Yesintek SC • Tremfya SC
+• Taltz • Zymfentra • Velsipity
+• Tremfya SC • Zymfentra
+Step 2a -- -- • Cimzia • Rinvoq Directed
+Non-Preferred • Rinvoq Directed to adalimumab
+(directed to ONE to adalimumab specifically.
+Step 1 Product) specifically. • Simponi SC
+• Xeljanz tablets/
+Xeljanz/
+XR tablets
+Directed to
+adalimumab
+specifically.
+Step 2b • Bimzelx • Bimzelx -- --
+Non-Preferred
+(directed to ONE
+Step 1 Product)
+Step 3a -- • Cimzia • Entyvio SC • Entyvio SC
+Non-Preferred • Cosentyx SC
+(directed to TWO • Ilumya
+Step 1 or 2a • Siliq
+Products)
+[documentation
+required]*
+Step 3b -- -- -- • Zeposia
+Non-Preferred • Refer to MS and
+(directed to TWO UC – Zeposia PSM
+Step 1 Products) Policy
+¥ For Non-Preferred Products, refer to the Inflammatory Conditions – Adalimumab Products Preferred
+Specialty Management Policy National Preferred, High Performance, and Basic Formularies –
+Choice/Alternate; Ω For Non-Preferred Products, refer to the Inflammatory Conditions – Ustekinumab
+Subcutaneous Products Preferred Specialty Management Policy for National Preferred, High
+Performance, and Basic Formularies – Alternate or Choice version of that policy. Note that Stelara is
+Non-Preferred for some plans; HS – Hidradenitis suppurativa; CD – Crohn’s disease; UC – Ulcerative
+colitis; ^ A trial of more than one adalimumab product counts as ONE Preferred Product; SC –
+Subcutaneous; # Pen and syringe; κ A trial of more than one ustekinumab product counts as ONE
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+Preferred Product; * The prescriber must provide written documentation supporting the trial of Preferred
+Products, noted in the criteria as [documentation required]. Documentation may include, but is not
+limited to, chart notes, prescription claims records, and/or prescription receipts; PSM – Preferred
+Specialty Management.
+Inflammatory Conditions Preferred Specialty Management Policy non-
+preferred product(s) is(are) covered as medically necessary when the
+following non-preferred product exception criteria is(are) met. Any other
+exception is considered not medically necessary.
+NON-PREFERRED PRODUCT EXCEPTION CRITERIA
+Non- Exception Criteria
+Preferred
+Product
+Tumor Necrosis Factor Inhibitors
+Cimzia 1. Rheumatoid Arthritis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Cimzia Prior Authorization Policy criteria; AND
+ii. Patient has tried TWO of a tocilizumab subcutaneous
+product, Enbrel, an adalimumab product, Rinvoq, or
+Xeljanz/XR [documentation required].
+Note: Examples of tocilizumab subcutaneous products
+include Actemra subcutaneous and Tyenne subcutaneous.
+A trial of multiple tocilizumab products counts as ONE
+product. Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of multiple
+adalimumab products counts as ONE product. A trial of
+either or both Xeljanz products (Xeljanz and Xeljanz XR)
+collectively counts as ONE product.
+B) If the patient has met criterion 1Ai (the standard
+Inflammatory Conditions – Cimzia Prior Authorization Policy
+criteria), but criterion 1Aii is not met: offer to review for a
+Step 1 or Step 2a Product (Actemra subcutaneous, Tyenne
+subcutaneous, Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Rinvoq,
+Xeljanz tablets, or Xeljanz XR) using the respective standard
+Inflammatory Conditions Prior Authorization Policy criteria.
+2. Ankylosing Spondylitis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Cimzia Prior Authorization Policy criteria; AND
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+ii. Patient has tried TWO of Enbrel, an adalimumab product,
+Rinvoq, Taltz, or Xeljanz/XR [documentation
+required].
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of multiple
+adalimumab products counts as ONE product. A trial of
+either or both Xeljanz products (Xeljanz and Xeljanz XR)
+collectively counts as ONE product.
+B) If the patient has met criterion 2Ai (the standard
+Inflammatory Conditions – Cimzia Prior Authorization Policy
+criteria), but criterion 2Aii is not met: offer to review for a
+Step 1 or Step 2 Product (Enbrel, adalimumab-adbm,
+Cyltezo, adalimumab-adaz, adalimumab-ryvk, Simlandi,
+Rinvoq, Taltz, Xeljanz tablets, or Xeljanz XR) using the
+respective standard Inflammatory Conditions Prior
+Authorization Policy criteria.
+3. Juvenile Idiopathic Arthritis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Cimzia Prior Authorization Policy criteria; AND
+ii. Patient has tried TWO of a tocilizumab subcutaneous
+product, Enbrel, an adalimumab product, Rinvoq/Rinvoq
+LQ, and Xeljanz [documentation required].
+Note: Examples of tocilizumab subcutaneous products
+include Actemra subcutaneous and Tyenne subcutaneous.
+A trial of both tocilizumab products counts as ONE
+product. Examples of adalimumab products include
+Humira, Abrilada, adalimumab-aacf, adalimumab-adaz,
+adalimumab-adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo, Hadlima,
+Hulio, Hyrimoz, Idacio, Yuflyma, and Yusimry. A trial of
+multiple adalimumab products counts as ONE product. A
+trial of either or both Xeljanz products (Xeljanz tablets
+and Xeljanz oral solution) collectively counts as ONE
+product. A trial of either or both Rinvoq products (Rinvoq
+and Rinvoq LQ) collectively counts as ONE product. A
+trial of a tocilizumab intravenous product (Actemra
+intravenous, biosimilar), Kevzara, Orencia intravenous or
+subcutaneous, an infliximab product (e.g., Remicade,
+biosimilars), or Simponi Aria also counts
+[documentation required].
+B) If the patient has met criterion 3Ai (the standard
+Inflammatory Conditions –Cimzia Prior Authorization Policy
+criteria), but criterion 3Aii is not met: offer to review for a
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+Step 1 or Step 2a Product (Actemra subcutaneous, Tyenne
+subcutaneous, Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Rinvoq,
+Rinvoq LQ, Xeljanz tablets, or Xeljanz oral solution) using
+the respective standard Inflammatory Conditions – Prior
+Authorization Policy criteria.
+4. Psoriatic Arthritis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Cimzia Prior Authorization Policy criteria; AND
+ii. Patient has tried TWO of Enbrel, an adalimumab product,
+Otezla, Rinvoq/Rinvoq LQ, Skyrizi subcutaneous, an
+ustekinumab subcutaneous product, Taltz, Tremfya
+subcutaneous, and Xeljanz/XR [documentation
+required].
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-fkjp,
+adalimumab-aaty, adalimumab-ryvk, Simlandi,
+adalimumab-adbm, Amjevita, Cyltezo, Hadlima, Hulio,
+Hyrimoz, Idacio, Yuflyma, and Yusimry. A trial of
+multiple adalimumab products counts as ONE product.
+Examples of ustekinumab products include
+Stelara/ustekinumab, Imuldosa, Otulfi, Pyzchiva,
+ustekinumab-ttwe, Selarsdi, ustekinumab-aekn,
+Starjemza, Steqeyma, Wezlana, and Yesintek. A trial of
+multiple ustekinumab products counts as ONE product.
+A trial of either or both Xeljanz products (Xeljanz and
+Xeljanz XR) collectively counts as ONE product. A trial of
+either or both Rinvoq products (Rinvoq and Rinvoq LQ)
+collectively counts as ONE product.
+B) If the patient has met criterion 4Ai (the standard
+Inflammatory Conditions – Cimzia Prior Authorization Policy
+criteria), but criterion 4Aii is not met: offer to review for a
+Step 1 or Step 2a Product (Enbrel, adalimumab-adbm,
+Cyltezo, adalimumab-adaz, adalimumab-ryvk, Simlandi,
+Otezla, Rinvoq, Rinvoq LQ, Skyrizi subcutaneous [pen or
+syringe], Stelara subcutaneous, Imuldosa subcutaneous,
+Selarsdi subcutaneous, ustekinumab-ttwe subcutaneous,
+Yesintek subcutaneous, Taltz, Tremfya subcutaneous,
+Xeljanz tablets, or Xeljanz XR) using the respective standard
+Inflammatory Conditions Prior Authorization Policy criteria.
+5. Plaque Psoriasis – Initial Therapy.
+A) Approve for 3 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Cimzia Prior Authorization Policy criteria; AND
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+ii. Patient has tried TWO of Enbrel, an adalimumab product,
+Otezla, Skyrizi subcutaneous, Sotyktu, an ustekinumab
+subcutaneous product, Taltz, or Tremfya subcutaneous
+[documentation required].
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-fkjp,
+adalimumab-aaty, adalimumab-ryvk, Simlandi,
+adalimumab-adbm, Amjevita, Cyltezo, Hadlima, Hulio,
+Hyrimoz, Idacio, Yuflyma, and Yusimry. A trial of
+multiple adalimumab products counts as ONE product.
+Examples of ustekinumab products include
+Stelara/ustekinumab, Imuldosa, Otulfi, Pyzchiva,
+ustekinumab-ttwe, Selarsdi, ustekinumab-aekn,
+Starjemza, Steqeyma, Wezlana, and Yesintek. A trial of
+multiple ustekinumab products counts as ONE product.
+B) If the patient has met criterion 5Ai (the standard
+Inflammatory Conditions – Cimzia Prior Authorization Policy
+criteria), but criterion 5Aii is not met: offer to review for a
+Preferred Product (Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Otezla,
+Skyrizi subcutaneous [pen or syringe], Sotyktu, Stelara
+subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Taltz, or Tremfya subcutaneous) using the
+respective standard Inflammatory Conditions Prior
+Authorization Policy criteria.
+6. Crohn’s Disease – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Cimzia Prior Authorization Policy criteria; AND
+ii. Patient has tried ONE of an adalimumab product, Omvoh
+subcutaneous, Skyrizi subcutaneous (on-body injector),
+an ustekinumab subcutaneous product, Tremfya
+subcutaneous, or Zymfentra.
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-fkjp,
+adalimumab-aaty, adalimumab-ryvk, Simlandi,
+adalimumab-adbm, Amjevita, Cyltezo, Hadlima, Hulio,
+Hyrimoz, Idacio, Yuflyma, and Yusimry. Examples of
+ustekinumab products include Stelara/ustekinumab,
+Imuldosa, Otulfi, Pyzchiva, ustekinumab-ttwe, Selarsdi,
+ustekinumab-aekn, Starjemza, Steqeyma, Wezlana,
+Yesintek. A trial of an infliximab intravenous product
+(e.g., Remicade, biosimilars), Omvoh intravenous, Skyrizi
+intravenous, Tremfya intravenous, or an ustekinumab
+intravenous product also counts.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+B) If the patient has met criterion 6Ai (the standard
+Inflammatory Conditions – Cimzia Prior Authorization Policy
+criteria), but criterion 6Aii is not met: offer to review for a
+Preferred Product (adalimumab-adbm, Cyltezo, adalimumab-
+adaz, adalimumab-ryvk, Simlandi, Omvoh subcutaneous,
+Skyrizi subcutaneous [on-body injector], Stelara
+subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Tremfya subcutaneous, or Zymfentra) using
+the respective standard Inflammatory Conditions – Prior
+Authorization Policy criteria.
+7. Rheumatoid Arthritis, Ankylosing Spondylitis, Juvenile
+Idiopathic Arthritis, Psoriatic Arthritis, Plaque Psoriasis,
+or Crohn’s Disease – Patient is Currently Receiving
+Cimzia.
+A) Approve for 1 year if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Cimzia Prior Authorization Policy criteria; AND
+ii. Patient meets ONE of the following (a, b, c, d, e, f, or g):
+a) Patient has Rheumatoid Arthritis and has tried TWO of
+a tocilizumab subcutaneous product, Enbrel, an
+adalimumab product, Rinvoq, or Xeljanz/XR
+[documentation required]; OR
+Note: Examples of tocilizumab subcutaneous products
+include Actemra subcutaneous and Tyenne
+subcutaneous. A trial of multiple tocilizumab products
+counts as ONE product. Examples of adalimumab
+products include Humira, Abrilada, adalimumab-adaz,
+adalimumab-adbm, adalimumab-fkjp, adalimumab-
+aaty, adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. A trial of either or both
+Xeljanz products (Xeljanz and Xeljanz XR) collectively
+counts as ONE product.
+b) Patient has Ankylosing Spondylitis and has tried TWO
+of Enbrel, an adalimumab product, Rinvoq, Taltz, or
+Xeljanz/XR [documentation required]; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. A trial of either or both
+Xeljanz products (Xeljanz and Xeljanz XR) collectively
+counts as ONE product.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+c) Patient has Juvenile Idiopathic Arthritis and has tried
+TWO of a tocilizumab subcutaneous product, Enbrel,
+an adalimumab product, Rinvoq/Rinvoq LQ, and
+Xeljanz [documentation required]; OR
+Note: Examples of tocilizumab subcutaneous products
+include Actemra subcutaneous and Tyenne
+subcutaneous. A trial of both tocilizumab products
+counts as ONE product. Examples of adalimumab
+products include Humira, Abrilada, adalimumab-aacf,
+adalimumab-adaz, adalimumab-adbm, adalimumab-
+fkjp, adalimumab-aaty, adalimumab-ryvk, Simlandi,
+Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz, Idacio,
+Yuflyma, and Yusimry. A trial of multiple adalimumab
+products counts as ONE product. A trial of either or
+both Xeljanz products (Xeljanz tablets and Xeljanz oral
+solution) collectively counts as ONE product. A trial of
+either or both Rinvoq products (Rinvoq and Rinvoq
+LQ) collectively counts as ONE product. A trial of a
+tocilizumab intravenous product (Actemra
+intravenous, biosimilar), Kevzara, Orencia intravenous
+or subcutaneous, an infliximab product (e.g.,
+Remicade, biosimilars), or Simponi Aria also counts
+[documentation required].
+d) Patient has Psoriatic Arthritis and has tried TWO of
+Enbrel, an adalimumab product, Otezla,
+Rinvoq/Rinvoq LQ, Skyrizi subcutaneous, an
+ustekinumab subcutaneous product, Taltz, Tremfya
+subcutaneous, or Xeljanz/XR [documentation
+required]; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. Examples of ustekinumab
+products include Stelara/ustekinumab, Imuldosa,
+Otulfi, Pyzchiva, ustekinumab-ttwe, Selarsdi,
+ustekinumab-aekn, Starjemza, Steqeyma, Wezlana,
+and Yesintek. A trial of multiple ustekinumab
+products counts as ONE product. A trial of either or
+both Xeljanz products (Xeljanz and Xeljanz XR)
+collectively counts as ONE product. A trial of either or
+both Rinvoq products (Rinvoq and Rinvoq LQ)
+collectively counts as ONE product.
+e) Patient has Plaque Psoriasis and has tried TWO of
+Enbrel, an adalimumab product, Otezla, Skyrizi
+subcutaneous, Sotyktu, an ustekinumab subcutaneous
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+product, Taltz, or Tremfya subcutaneous
+[documentation required]; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+fkjp, adalimumab-aaty, adalimumab-ryvk, Simlandi,
+adalimumab-adbm, Amjevita, Cyltezo, Hadlima, Hulio,
+Hyrimoz, Idacio, Yuflyma, and Yusimry. A trial of
+multiple adalimumab products counts as ONE product.
+Examples of ustekinumab products include
+Stelara/ustekinumab, Imuldosa, Otulfi, Pyzchiva,
+ustekinumab-ttwe, Selarsdi, ustekinumab-aekn,
+Starjemza, Steqeyma, Wezlana, and Yesintek. A trial
+of multiple ustekinumab products counts as ONE
+product.
+f) Patient has Crohn’s Disease and has tried ONE of an
+adalimumab product, Omvoh subcutaneous, Skyrizi
+subcutaneous (on-body injector), an ustekinumab
+subcutaneous product, Tremfya subcutaneous, or
+Zymfentra; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. Examples of ustekinumab products include
+Stelara/ustekinumab, Imuldosa, Otulfi, Pyzchiva,
+ustekinumab-ttwe, Selarsdi, ustekinumab-aekn,
+Starjemza, Steqeyma, Wezlana, Yesintek. A trial of
+an infliximab intravenous product (e.g., Remicade,
+biosimilars), Omvoh intravenous, Skyrizi intravenous,
+Tremfya intravenous, or an ustekinumab intravenous
+product also counts.
+g) Patient has been established on Cimzia for at least 90
+days and prescription claims history indicates at least
+a 90-day supply of Cimzia was dispensed within the
+past 130 days [verification in prescription claims
+history required], or if claims history is not
+available, according to the prescriber [verification by
+prescriber required].
+Note: In cases when 130 days of the patient’s
+prescription claim history file is unavailable to be
+verified, an exception to this requirement is allowed if
+the prescriber has verified that the patient has been
+receiving Cimzia for at least 90 days AND the patient
+has been receiving Cimzia via paid claims (e.g.,
+patient has not been receiving samples or coupons or
+other types of waivers in order to obtain access to
+Cimzia).
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+B) If the patient has met criterion 7Ai (the standard
+Inflammatory Conditions – Cimzia Prior Authorization Policy
+criteria), but criterion 7Aii is not met: offer to review for one
+of the following Products using the respective standard
+Inflammatory Conditions – Prior Authorization Policy criteria:
+i. Rheumatoid Arthritis: Actemra subcutaneous, Tyenne
+subcutaneous, Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Rinvoq,
+Xeljanz tablets, or Xeljanz XR.
+ii. Juvenile Idiopathic Arthritis: Actemra subcutaneous,
+Tyenne subcutaneous, Enbrel, adalimumab-adbm,
+Cyltezo, adalimumab-adaz, adalimumab-ryvk, Simlandi,
+Rinvoq, Rinvoq LQ, Xeljanz tablets, or Xeljanz oral
+solution.
+iii. Ankylosing Spondylitis: Enbrel, adalimumab-adbm,
+Cyltezo, adalimumab-adaz, adalimumab-ryvk, Simlandi,
+Rinvoq, Taltz, Xeljanz tablets, or Xeljanz XR.
+iv. Psoriatic Arthritis: Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Otezla,
+Rinvoq, Rinvoq LQ, Skyrizi subcutaneous (pen or
+syringe), Stelara subcutaneous, Imuldosa subcutaneous,
+Selarsdi subcutaneous, ustekinumab-ttwe subcutaneous,
+Yesintek subcutaneous, Taltz, Tremfya subcutaneous,
+Xeljanz tablets, or Xeljanz XR.
+v. Plaque Psoriasis: Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Otezla,
+Skyrizi subcutaneous (pen or syringe), Sotyktu, Stelara
+subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Taltz, or Tremfya subcutaneous.
+vi. Crohn’s Disease: adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Omvoh
+subcutaneous, Skyrizi subcutaneous (on-body injector),
+Stelara subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Tremfya subcutaneous, or Zymfentra.
+8. Other Conditions. Approve Cimzia (initial therapy for a
+duration as directed or 1 year for a patient continuing therapy)
+if the patient meets the standard Inflammatory Conditions –
+Cimzia Prior Authorization Policy criteria.
+Enbrel All Conditions. Approve Enbrel (initial therapy for a duration as
+directed or 1 year for a patient continuing therapy) if the patient
+meets the standard Inflammatory Conditions – Enbrel Prior
+Authorization Policy criteria.
+Adalimuma All Conditions. Approve (initial therapy for a duration as directed
+b-adaz or 1 year for a patient continuing therapy) if the patient meets the
+Adalimuma standard Inflammatory Conditions – Adalimumab Products Prior
+b-adbm Authorization Policy criteria.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+Cyltezo Note: Adalimumab-adaz, adalimumab-adbm, and
+Simlandi Simlandi/adalimumab-ryvk Non-Preferred for some plans. Refer to
+adalimuma respective Inflammatory Conditions – Adalimumab Products
+b-ryvk Preferred Specialty Management Policy for National Preferred, High
+Performance, and Basic Formularies Policies Choice or the Alternate
+version of that policy.
+Simponi 1. Rheumatoid Arthritis – Initial Therapy.
+Subcutane A) Approve for 6 months if the patient meets BOTH of the
+ous following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Simponi Subcutaneous Prior Authorization Policy criteria;
+AND
+ii. Patient has tried TWO of a tocilizumab subcutaneous
+product, Enbrel, an adalimumab product, Rinvoq, or
+Xeljanz/XR [documentation required].
+Note: Examples of tocilizumab subcutaneous products
+include Actemra subcutaneous and Tyenne subcutaneous.
+A trial of multiple tocilizumab products counts as ONE
+product. Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of multiple
+adalimumab products counts as ONE product. A trial of
+either or both Xeljanz products (Xeljanz and Xeljanz XR)
+collectively counts as ONE product.
+B) If the patient has met criterion 1Ai (the standard
+Inflammatory Conditions – Simponi Subcutaneous Prior
+Authorization Policy criteria), but criterion 1Aii is not met:
+offer to review for a Step 1 or Step 2 Product (Actemra
+subcutaneous, Tyenne subcutaneous, Enbrel, adalimumab-
+adbm, Cyltezo, adalimumab-adaz, adalimumab-ryvk,
+Simlandi, Rinvoq, Xeljanz tablets, or Xeljanz XR) using the
+respective standard Inflammatory Conditions – Prior
+Authorization Policy criteria.
+2. Ankylosing Spondylitis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Simponi Subcutaneous Prior Authorization Policy criteria;
+AND
+ii. Patient has tried TWO of Enbrel, an adalimumab product,
+Rinvoq, Taltz, or Xeljanz/XR [documentation
+required].
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+Idacio, Yuflyma, and Yusimry. A trial of multiple
+adalimumab products counts as ONE product. A trial of
+either or both Xeljanz products (Xeljanz and Xeljanz XR)
+collectively counts as ONE product.
+B) If the patient has met criterion 2Ai (the standard
+Inflammatory Conditions – Simponi Subcutaneous Prior
+Authorization Policy criteria), but criterion 2Aii is not met:
+offer to review for a Step 1 or Step 2a Product (Enbrel,
+adalimumab-adbm, Cyltezo, adalimumab-adaz, adalimumab-
+ryvk, Simlandi, Rinvoq, Taltz, Xeljanz tablets, or Xeljanz XR)
+using the respective standard Inflammatory Conditions –
+Prior Authorization Policy criteria.
+3. Psoriatic Arthritis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Simponi Subcutaneous Prior Authorization Policy criteria;
+AND
+ii. Patient has tried TWO of Enbrel, an adalimumab product,
+Otezla, Rinvoq/Rinvoq LQ, Skyrizi subcutaneous, an
+ustekinumab subcutaneous product, Taltz, Tremfya
+subcutaneous, or Xeljanz/XR [documentation
+required].
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of multiple
+adalimumab products counts as ONE product. Examples
+of ustekinumab products include Stelara/ustekinumab,
+Imuldosa, Otulfi, Pyzchiva, ustekinumab-ttwe, Selarsdi,
+ustekinumab-aekn, Starjemza, Steqeyma, Wezlana, and
+Yesintek. A trial of multiple ustekinumab products counts
+as ONE product. A trial of either or both Xeljanz
+products (Xeljanz and Xeljanz XR) collectively counts as
+ONE product. A trial of either or both Rinvoq products
+(Rinvoq and Rinvoq LQ) collectively counts as ONE
+product.
+B) If the patient has met criterion 3Ai (the standard
+Inflammatory Conditions – Simponi Subcutaneous Prior
+Authorization Policy criteria), but criterion 3Aii is not met:
+offer to review for a Step 1 or Step 2 Product (Enbrel,
+adalimumab-adbm, Cyltezo, adalimumab-adaz, adalimumab-
+ryvk, Simlandi, Otezla, Rinvoq, Rinvoq LQ, Skyrizi
+subcutaneous [pen or syringe], Stelara subcutaneous,
+Imuldosa subcutaneous, Selarsdi subcutaneous,
+ustekinumab-ttwe subcutaneous, Yesintek subcutaneous,
+Taltz, Tremfya subcutaneous, Xeljanz tablets, or Xeljanz XR)
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+using the respective standard Inflammatory Conditions –
+Prior Authorization Policy criteria.
+4. Ulcerative Colitis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Simponi Subcutaneous Prior Authorization Policy criteria;
+AND
+ii. Patient has tried ONE of an adalimumab product, Omvoh
+subcutaneous, Skyrizi subcutaneous (on-body injector),
+an ustekinumab subcutaneous product, Tremfya
+subcutaneous, Velsipity, or Zymfentra.
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. Examples of ustekinumab
+products include Stelara/ustekinumab, Imuldosa, Otulfi,
+Pyzchiva, ustekinumab-ttwe, Selarsdi, ustekinumab-aekn,
+Starjemza, Steqeyma, Wezlana, Yesintek. A trial of an
+infliximab intravenous product (e.g., Remicade,
+biosimilars), Omvoh intravenous, Skyrizi intravenous,
+Tremfya intravenous, or an ustekinumab intravenous
+product also counts.
+B) If the patient has met criterion 4Ai (the standard
+Inflammatory Conditions – Simponi Subcutaneous Prior
+Authorization Policy criteria), but criterion 4Aii is not met:
+offer to review for a Preferred Product (adalimumab-adbm,
+Cyltezo, adalimumab-adaz, adalimumab-ryvk, Simlandi,
+Omvoh subcutaneous, Skyrizi subcutaneous (on-body
+injector), Stelara subcutaneous, Imuldosa subcutaneous,
+Selarsdi subcutaneous, ustekinumab-ttwe subcutaneous,
+Yesintek subcutaneous, Tremfya subcutaneous, Velsipity, or
+Zymfentra) using the respective standard Inflammatory
+Conditions Prior Authorization Policy criteria.
+5. Rheumatoid Arthritis, Ankylosing Spondylitis, Psoriatic
+Arthritis, or Ulcerative Colitis – Patient is Currently
+Receiving Simponi Subcutaneous or Aria.
+A) Approve for 1 year if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Simponi Subcutaneous Prior Authorization Policy criteria;
+AND
+ii. Patient meets ONE of the following (a, b, c, d, e, or f):
+a) Patient has Rheumatoid Arthritis and has tried TWO of
+a tocilizumab subcutaneous product, Enbrel, an
+adalimumab product, Rinvoq, or Xeljanz/XR
+[documentation required]; OR
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+Note: Examples of tocilizumab subcutaneous products
+include Actemra subcutaneous and Tyenne
+subcutaneous. A trial of multiple tocilizumab products
+counts as ONE product. Examples of adalimumab
+products include Humira, Abrilada, adalimumab-adaz,
+adalimumab-adbm, adalimumab-fkjp, adalimumab-
+aaty, adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. A trial of either or both
+Xeljanz products (Xeljanz and Xeljanz XR) collectively
+counts as ONE product.
+b) Patient has Ankylosing Spondylitis and has tried TWO
+of Enbrel, an adalimumab product, Rinvoq, Taltz, or
+Xeljanz/XR [documentation required]; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. A trial of either or both
+Xeljanz products (Xeljanz and Xeljanz XR) collectively
+counts as ONE product.
+c) Patient has Psoriatic Arthritis and has tried TWO of
+Enbrel, an adalimumab product, Otezla,
+Rinvoq/Rinvoq LQ, Skyrizi subcutaneous, an
+ustekinumab subcutaneous product, Taltz, Tremfya
+subcutaneous, or Xeljanz/XR [documentation
+required]; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. Examples of ustekinumab
+products include Stelara/ustekinumab, Imuldosa,
+Otulfi, Pyzchiva, ustekinumab-ttwe, Selarsdi,
+ustekinumab-aekn, Starjemza, Steqeyma, Wezlana,
+and Yesintek. A trial of multiple ustekinumab
+products counts as ONE product. A trial of either or
+both Xeljanz products (Xeljanz and Xeljanz XR)
+collectively counts as ONE product. A trial of either or
+both Rinvoq products (Rinvoq and Rinvoq LQ)
+collectively counts as ONE product.
+d) Patient has Ulcerative Colitis and has tried ONE of an
+adalimumab product, Omvoh subcutaneous, Skyrizi
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+subcutaneous (on-body injector), an ustekinumab
+subcutaneous product, Tremfya subcutaneous,
+Velsipity, or Zymfentra; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. Examples of ustekinumab products include
+Stelara/ustekinumab, Imuldosa, Otulfi, Pyzchiva,
+ustekinumab-ttwe, Selarsdi, ustekinumab-aekn,
+Starjemza, Steqeyma, Wezlana, Yesintek. A trial of
+an infliximab intravenous product (e.g., Remicade,
+biosimilars), Omvoh intravenous, Skyrizi intravenous,
+Tremfya intravenous, or an ustekinumab intravenous
+product also counts.
+e) According to the prescriber, the patient has been
+established on Simponi Aria for at least 90 days; OR
+f) Patient has been established on Simponi subcutaneous
+for at least 90 days and prescription claims history
+indicates at least a 90-day supply of Simponi
+subcutaneous was dispensed within the past 130 days
+[verification in prescription claims history
+required], or if claims history is not available,
+according to the prescriber [verification by
+prescriber required].
+Note: In cases when 130 days of the patient’s
+prescription claim history file is unavailable to be
+verified, an exception to this requirement is allowed if
+the prescriber has verified that the patient has been
+receiving Simponi subcutaneous for at least 90 days
+AND the patient has been receiving Simponi
+subcutaneous via paid claims (e.g., patient has not
+been receiving samples or coupons or other types of
+waivers in order to obtain access to Simponi
+subcutaneous).
+B) If the patient has met criterion 5Ai (the standard
+Inflammatory Conditions – Simponi Subcutaneous Prior
+Authorization Policy criteria), but criterion 5Aii is not met:
+offer to review for one of the following Products using the
+respective standard Inflammatory Conditions – Prior
+Authorization Policy criteria:
+i. Rheumatoid Arthritis: Actemra subcutaneous, Tyenne
+subcutaneous, Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Rinvoq,
+Xeljanz tablets, or Xeljanz XR.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+ii. Ankylosing Spondylitis: Enbrel, adalimumab-adbm,
+Cyltezo, adalimumab-adaz, adalimumab-ryvk, Simlandi,
+Rinvoq, Taltz, Xeljanz tablets, or Xeljanz XR.
+iii. Psoriatic Arthritis: Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Otezla,
+Rinvoq, Rinvoq LQ, Skyrizi subcutaneous (pen or
+syringe), Stelara subcutaneous, Imuldosa subcutaneous,
+Selarsdi subcutaneous, ustekinumab-ttwe subcutaneous,
+Yesintek subcutaneous, Taltz, Tremfya subcutaneous,
+Xeljanz tablets, or Xeljanz XR.
+iv. Ulcerative Colitis: adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Omvoh
+subcutaneous, Skyrizi subcutaneous (on-body injector),
+Stelara subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Tremfya subcutaneous, Velsipity, or
+Zymfentra.
+6. Other Conditions. Approve Simponi subcutaneous (initial
+therapy for a duration as directed or 1 year for a patient
+continuing therapy) if the patient meets the standard
+Inflammatory Conditions – Simponi Subcutaneous Prior
+Authorization Policy criteria.
+Zymfentra All Conditions. Approve Zymfentra (initial therapy for a duration
+as directed or 1 year for a patient continuing therapy) if the patient
+meets the standard Inflammatory Conditions – Zymfentra Prior
+Authorization Policy criteria.
+Interleukin-6 Blockers
+Actemra 1. Polyarticular Juvenile Idiopathic Arthritis – Initial
+Subcutane Therapy.
+ous A) Approve for 6 months if the patient meets BOTH of the
+Tyenne following (i and ii):
+Subcutane i. Patient meets the standard Inflammatory Conditions –
+ous Tocilizumab Subcutaneous Prior Authorization Policy
+criteria; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has tried one adalimumab product; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of Enbrel, Cimzia, an infliximab
+product (e.g., Remicade, biosimilars), or Simponi Aria
+also counts.
+b) According to the prescriber, the patient has heart
+failure or a previously treated lymphoproliferative
+disorder.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+B) If the patient has met criterion 1Ai (the standard
+Inflammatory Conditions – Tocilizumab Subcutaneous Prior
+Authorization Policy criteria), but criterion 1Aii is not met:
+offer to review for a Preferred Product (Enbrel, adalimumab-
+adbm, Cyltezo, adalimumab-adaz, adalimumab-ryvk, or
+Simlandi) using the respective standard Inflammatory
+Conditions – Prior Authorization Policy criteria.
+2. Rheumatoid Arthritis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Tocilizumab Subcutaneous Prior Authorization Policy
+criteria; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has tried one adalimumab product; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of Cimzia, Enbrel, an infliximab
+product (e.g., Remicade, biosimilars), or Simponi (Aria
+or subcutaneous) also counts.
+b) According to the prescriber, the patient has heart
+failure or a previously treated lymphoproliferative
+disorder.
+B) If the patient has met criterion 2Ai (the standard
+Inflammatory Conditions – Tocilizumab Subcutaneous Prior
+Authorization Policy criteria), but criterion 2Aii is not met:
+offer to review for a Preferred Product (Enbrel, adalimumab-
+adbm, Cyltezo, adalimumab-adaz, adalimumab-ryvk, or
+Simlandi) using the respective standard Inflammatory
+Conditions Prior Authorization Policy criteria.
+3. Polyarticular Juvenile Idiopathic Arthritis or Rheumatoid
+Arthritis – Patient is Currently Receiving Tocilizumab
+Subcutaneous or Intravenous.
+A) Approve for 1 year if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Tocilizumab Subcutaneous Policy criteria; AND
+ii. Patient meets ONE of the following (a, b, c, d, or e):
+a) Patient has Polyarticular Juvenile Idiopathic Arthritis
+and has tried one adalimumab product; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+Yusimry. A trial of Enbrel, Cimzia, an infliximab
+product (e.g., Remicade, biosimilars), or Simponi Aria
+also counts.
+b) Patient has Rheumatoid Arthritis and has tried one
+adalimumab product; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of Cimzia, Enbrel, an infliximab
+product (e.g., Remicade, biosimilars), or Simponi (Aria
+or subcutaneous) also counts.
+c) According to the prescriber, the patient has heart
+failure or a previously treated lymphoproliferative
+disorder; OR
+d) According to the prescriber, the patient has been
+established on tocilizumab intravenous for at least 90
+days; OR
+e) Patient has been established on tocilizumab
+subcutaneous for at least 90 days and prescription
+claims history indicates at least a 90-day supply of
+tocilizumab subcutaneous was dispensed within the
+past 130 days [verification in prescription claims
+history required], or if claims history is not
+available, according to the prescriber [verification by
+prescriber required].
+Note: In cases when 130 days of the patient’s
+prescription claim history file is unavailable to be
+verified, an exception to this requirement is allowed if
+the prescriber has verified that the patient has been
+receiving tocilizumab subcutaneous for at least 90
+days AND the patient has been receiving tocilizumab
+subcutaneous via paid claims (e.g., patient has not
+been receiving samples or coupons or other types of
+waivers in order to obtain access to tocilizumab
+subcutaneous).
+B) If the patient has met criterion 3Ai (the standard
+Inflammatory Conditions – Tocilizumab Subcutaneous Prior
+Authorization Policy criteria), but criterion 3Aii is not met:
+offer to review for a Preferred Product using the respective
+standard Inflammatory Conditions – Prior Authorization
+Policy criteria:
+i. Polyarticular Juvenile Idiopathic Arthritis: Enbrel,
+adalimumab-adbm, Cyltezo, adalimumab-adaz,
+adalimumab-ryvk, or Simlandi.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+ii. Rheumatoid Arthritis: Enbrel, adalimumab-adbm,
+Cyltezo, adalimumab-adaz, adalimumab-ryvk, or
+Simlandi.
+4. All Other Conditions (including systemic juvenile idiopathic
+arthritis). Approve tocilizumab subcutaneous (initial therapy for
+a duration as directed or 1 year for a patient continuing
+therapy) if the patient meets the standard Inflammatory
+Conditions – Tocilizumab Subcutaneous Prior Authorization
+Policy criteria.
+Kevzara 1. Rheumatoid Arthritis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Kevzara Prior Authorization Policy criteria; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has tried TWO of a tocilizumab subcutaneous
+product, Enbrel, an adalimumab product, Rinvoq, or
+Xeljanz/XR [documentation required]; OR
+Note: Examples of tocilizumab subcutaneous products
+include Actemra subcutaneous and Tyenne
+subcutaneous. A trial of multiple tocilizumab products
+counts as ONE product. Examples of adalimumab
+products include Humira, Abrilada, adalimumab-adaz,
+adalimumab-adbm, adalimumab-fkjp, adalimumab-
+aaty, adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. A trial of either or both
+Xeljanz products (Xeljanz and Xeljanz XR) collectively
+counts as ONE product. A trial of tocilizumab
+intravenous (Actemra intravenous, biosimilar), Cimzia,
+an infliximab product (e.g., Remicade, biosimilars),
+Orencia (intravenous or subcutaneous), or Simponi
+(Aria or subcutaneous) also counts [documentation
+required].
+b) According to the prescriber, the patient has heart
+failure or a previously treated lymphoproliferative
+disorder.
+B) If the patient has met criterion 1Ai (the standard
+Inflammatory Conditions – Kevzara Prior Authorization Policy
+criteria), but criterion 1Aii is not met: offer to review for a
+Step 1 or Step 2 Product (Actemra subcutaneous, Tyenne
+subcutaneous, Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Rinvoq,
+Xeljanz tablets, or Xeljanz XR) using the respective standard
+Inflammatory Conditions Prior Authorization Policy criteria.
+2. Juvenile Idiopathic Arthritis/Juvenile Rheumatoid
+Arthritis – Initial Therapy.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Kevzara Prior Authorization Policy criteria; AND
+ii. Patient meets ONE of the following conditions (a or b):
+a) Patient has tried TWO of a tocilizumab subcutaneous
+product, Enbrel, an adalimumab product,
+Rinvoq/Rinvoq LQ, or Xeljanz [documentation
+required]; OR
+Note: Examples of tocilizumab subcutaneous products
+include Actemra subcutaneous and Tyenne
+subcutaneous. A trial of multiple tocilizumab products
+counts as ONE product. Examples of adalimumab
+products include Humira, Abrilada, adalimumab-adaz,
+adalimumab-adbm, adalimumab-fkjp, adalimumab-
+aaty, adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. A trial of either or both
+Rinvoq products (Rinvoq and Rinvoq LQ) collectively
+counts as ONE product. A trial of Cimzia, a
+tocilizumab intravenous product (Actemra
+intravenous, biosimilar), Orencia intravenous or
+subcutaneous, an infliximab product (e.g., Remicade,
+biosimilars), or Simponi Aria also counts
+[documentation required].
+b) According to the prescriber, the patient has heart
+failure, a previously treated lymphoproliferative
+disorder, a previous serious infection, OR a
+demyelinating disorder.
+B) If the patient has met criterion 2Ai (the standard
+Inflammatory Conditions –Kevzara Prior Authorization Policy
+criteria), but criterion 2Aii is not met: offer to review for a
+Step 1 or Step 2a Product (Actemra subcutaneous, Tyenne
+subcutaneous, Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Rinvoq,
+Rinvoq LQ, or Xeljanz tablets) using the respective standard
+Inflammatory Conditions – Prior Authorization Policy criteria.
+3. Juvenile Idiopathic Arthritis or Rheumatoid Arthritis –
+Patient is Currently Receiving Kevzara.
+A) Approve for 1 year if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Kevzara Prior Authorization Policy criteria; AND
+ii. Patient meets ONE of the following (a, b, c, or d):
+a) Patient has Rheumatoid Arthritis and has tried TWO of
+a tocilizumab subcutaneous product, Enbrel, an
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+adalimumab product, Rinvoq, or Xeljanz/XR
+[documentation required]; OR
+Note: Examples of tocilizumab subcutaneous products
+include Actemra subcutaneous and Tyenne
+subcutaneous. A trial of multiple tocilizumab products
+counts as ONE product. Examples of adalimumab
+products include Humira, Abrilada, adalimumab-adaz,
+adalimumab-adbm, adalimumab-fkjp, adalimumab-
+aaty, adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. A trial of either or both
+Xeljanz products (Xeljanz and Xeljanz XR) collectively
+counts as ONE product. A trial of tocilizumab
+intravenous (Actemra intravenous, biosimilar), Cimzia,
+an infliximab product (e.g., Remicade, biosimilars),
+Orencia (intravenous or subcutaneous), or Simponi
+(Aria or subcutaneous) also counts [documentation
+required].
+b) Patient has Juvenile Idiopathic Arthritis and has tried
+TWO of a tocilizumab subcutaneous product, Enbrel,
+an adalimumab product, Rinvoq, Rinvoq LQ, or Xeljanz
+[documentation required]; OR
+Note: Examples of tocilizumab subcutaneous products
+include Actemra subcutaneous and Tyenne
+subcutaneous. A trial of multiple tocilizumab products
+counts as ONE product. Examples of adalimumab
+products include Humira, Abrilada, adalimumab-adaz,
+adalimumab-adbm, adalimumab-fkjp, adalimumab-
+aaty, adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. A trial of either or both
+Rinvoq products (Rinvoq and Rinvoq LQ) collectively
+counts as ONE product. A trial of a Cimzia,
+tocilizumab intravenous product (Actemra
+intravenous, biosimilar), Orencia intravenous or
+subcutaneous, an infliximab product (e.g., Remicade,
+biosimilars), or Simponi Aria also counts
+[documentation required].
+c) According to the prescriber, the patient has heart
+failure or a previously treated lymphoproliferative
+disorder; OR
+d) Patient has been established on Kevzara for at least
+90 days and prescription claims history indicates at
+least a 90-day supply of Kevzara was dispensed within
+the past 130 days [verification in prescription
+claims history required], or if claims history is not
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+available, according to the prescriber [verification by
+prescriber required].
+Note: In cases when 130 days of the patient’s
+prescription claim history file is unavailable to be
+verified, an exception to this requirement is allowed if
+the prescriber has verified that the patient has been
+receiving Kevzara for at least 90 days AND the patient
+has been receiving Kevzara via paid claims (e.g.,
+patient has not been receiving samples or coupons or
+other types of waivers in order to obtain access to
+Kevzara).
+B) If the patient has met criterion 3Ai (the standard
+Inflammatory Conditions – Kevzara Prior Authorization Policy
+criteria), but criterion 3Aii is not met: offer to review for one
+of the following Products using the respective standard
+Inflammatory Conditions Prior Authorization Policy criteria.
+i. Rheumatoid Arthritis: Actemra subcutaneous, Tyenne
+subcutaneous, Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Rinvoq,
+Xeljanz tablets, or Xeljanz XR.
+ii. Juvenile Idiopathic Arthritis: Actemra subcutaneous,
+Tyenne subcutaneous, Enbrel, adalimumab-adbm,
+Cyltezo, adalimumab-adaz, adalimumab-ryvk, Simlandi,
+Rinvoq, Rinvoq LQ, or Xeljanz tablets.
+3. Other Conditions. Approve Kevzara (initial therapy for a
+duration as directed or 1 year for a patient continuing therapy)
+if the patient meets the standard Inflammatory Conditions –
+Kevzara Prior Authorization Policy criteria.
+Interleukin-17 Blockers
+Bimzelx 1. Ankylosing Spondylitis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Bimzelx Prior Authorization Policy criteria; AND
+ii. Patient has tried one of Enbrel, an adalimumab product,
+or Taltz.
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-aacf, adalimumab-adaz,
+adalimumab-adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo, Hadlima,
+Hulio, Hyrimoz, Idacio, Yuflyma, and Yusimry. A trial of
+Cimzia, an infliximab product (e.g., Remicade,
+biosimilars), or Simponi (Aria or subcutaneous) also
+counts.
+B) If the patient has met criterion 1Ai (the standard
+Inflammatory Conditions – Bimzelx Prior Authorization Policy
+criteria), but criterion 1Aii is not met: offer to review for a
+Preferred Product (Enbrel, Cyltezo, adalimumab-adbm,
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+adalimumab-adaz, Simlandi, adalimumab-ryvk, or Taltz)
+using the respective standard Inflammatory Conditions Prior
+Authorization Policy criteria.
+2. Hidradenitis Suppurativa – Initial Therapy.
+A) Approve for 3 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Bimzelx Prior Authorization Policy criteria for hidradenitis
+suppurativa; AND
+ii. Patient has tried ONE of an adalimumab product or
+Cosentyx subcutaneous.
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry.
+B) If the patient has met criterion 2Ai (the standard
+Inflammatory Conditions – Bimzelx Prior Authorization Policy
+criteria), but criterion 2Aii is not met: offer to review for a
+Preferred Product (adalimumab-adbm, Cyltezo, adalimumab-
+adaz, adalimumab-ryvk, Simlandi, or Cosentyx
+subcutaneous) using the respective standard Inflammatory
+Conditions – Prior Authorization Policy criteria.
+3. Non-Radiographic Spondyloarthritis (nr-axSpA) – Initial
+Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Bimzelx Authorization Policy criteria; AND
+ii. Patient has tried one of Cimzia or Taltz.
+Note: A trial of Enbrel, an adalimumab product, an
+infliximab product (e.g., Remicade, biosimilars), or
+Simponi (Aria or subcutaneous) also counts. Examples of
+adalimumab products include Humira, Abrilada,
+adalimumab-aacf, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry.
+B) If the patient has met criterion 3Ai (the standard
+Inflammatory Conditions – Bimzelx Prior Authorization Policy
+criteria), but criterion 3Aii is not met: offer to review for a
+Preferred Product (Cimzia or Taltz) using the respective
+standard Inflammatory Conditions – Prior Authorization
+Policy criteria.
+4. Plaque Psoriasis – Initial Therapy.
+A) Approve for 3 months if the patient meets BOTH of the
+following (i and ii):
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+i. Patient meets the standard Inflammatory Conditions –
+Bimzelx Prior Authorization Policy criteria for plaque
+psoriasis; AND
+ii. Patient has tried ONE of Enbrel, an adalimumab product,
+Otezla, Skyrizi subcutaneous, Sotyktu, an ustekinumab
+subcutaneous product, Taltz, or Tremfya subcutaneous.
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. Examples of ustekinumab
+products include Stelara/ustekinumab, Imuldosa, Otulfi,
+Pyzchiva, ustekinumab-ttwe, Selarsdi, ustekinumab-aekn,
+Starjemza, Steqeyma, Wezlana, and Yesintek.
+B) If the patient has met criterion 4Ai (the standard
+Inflammatory Conditions – Bimzelx Prior Authorization Policy
+criteria), but criterion 4Aii is not met: offer to review for a
+Preferred Product (Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Otezla,
+Skyrizi subcutaneous [pen or syringe], Sotyktu, Stelara
+subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Taltz, or Tremfya subcutaneous) using the
+respective standard Inflammatory Conditions – Prior
+Authorization Policy criteria.
+5. Psoriatic Arthritis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Bimzelx Prior Authorization Policy criteria; AND
+ii. Patient has tried ONE of Enbrel, an adalimumab product,
+Otezla, Skyrizi subcutaneous, an ustekinumab
+subcutaneous product, Taltz, or Tremfya subcutaneous.
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-aacf, adalimumab-adaz,
+adalimumab-adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo, Hadlima,
+Hulio, Hyrimoz, Idacio, Yuflyma, and Yusimry. Examples
+of ustekinumab products include Stelara/ustekinumab,
+Imuldosa, Otulfi, Pyzchiva, ustekinumab-ttwe, Selarsdi,
+ustekinumab-aekn, Starjemza, Steqeyma, Wezlana, and
+Yesintek. A trial of Cimzia, an infliximab product (e.g.,
+Remicade, biosimilars), or Simponi (Aria or
+subcutaneous) also counts.
+B) If the patient has met criterion 5Ai (the standard
+Inflammatory Conditions –Bimzelx Prior Authorization Policy
+criteria), but criterion 5Aii is not met: offer to review for a
+Preferred Product (Enbrel, Cyltezo, adalimumab-adbm,
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+adalimumab-adaz, Simlandi, adalimumab-ryvk, Otezla,
+Skyrizi subcutaneous [pen or syringe], Stelara
+subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Taltz, or Tremfya subcutaneous) using the
+respective standard Inflammatory Conditions Prior
+Authorization Policy criteria.
+6. Ankylosing Spondylitis, Hidradenitis Suppurativa, nr-
+axSpA, Plaque Psoriasis, or Psoriatic Arthritis – Patient is
+Currently Receiving Bimzelx.
+A) Approve for 1 year if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Bimzelx Prior Authorization Policy criteria; AND
+ii. Patient meets ONE of the following (a, b, c, d, e, or f):
+a) Patient has Ankylosing Spondylitis and has tried one
+of Enbrel, an adalimumab product, or Taltz; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-aacf, adalimumab-
+adaz, adalimumab-adbm, adalimumab-fkjp,
+adalimumab-aaty, adalimumab-ryvk, Simlandi,
+Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz, Idacio,
+Yuflyma, and Yusimry. A trial of Cimzia, an infliximab
+product (e.g., Remicade, biosimilars), or Simponi (Aria
+or subcutaneous) also counts.
+b) Patient has Hidradenitis Suppurativa and has tried one
+of an adalimumab product or Cosentyx subcutaneous;
+OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-aacf, adalimumab-
+adaz, adalimumab-adbm, adalimumab-fkjp,
+adalimumab-aaty, adalimumab-ryvk, Simlandi,
+Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz, Idacio,
+Yuflyma, and Yusimry.
+c) Patient has nr-axSpA and has tried one of Cimzia or
+Taltz; OR
+Note: A trial of Enbrel, an adalimumab product, an
+infliximab product (Remicade, biosimilars), or Simponi
+(Aria or subcutaneous) also counts. Examples of
+adalimumab products include Humira, Abrilada,
+adalimumab-aacf, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry.
+d) Patient has Plaque Psoriasis and has tried ONE of
+Enbrel, an adalimumab product, Otezla, Skyrizi
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+subcutaneous, Sotyktu, an ustekinumab subcutaneous
+product, Taltz, or Tremfya subcutaneous; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. Examples of ustekinumab products include
+Stelara/ustekinumab, Imuldosa, Otulfi, Pyzchiva,
+ustekinumab-ttwe, Selarsdi, ustekinumab-aekn,
+Starjemza, Steqeyma, Wezlana, and Yesintek.
+e) Patient has Psoriatic Arthritis and has tried ONE of
+Enbrel, an adalimumab product, Otezla, Skyrizi
+subcutaneous, an ustekinumab subcutaneous product,
+Taltz, or Tremfya subcutaneous; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-aacf, adalimumab-
+adaz, adalimumab-adbm, adalimumab-fkjp,
+adalimumab-aaty, adalimumab-ryvk, Simlandi,
+Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz, Idacio,
+Yuflyma, and Yusimry. Examples of ustekinumab
+products include Stelara/ustekinumab, Imuldosa,
+Otulfi, Pyzchiva, ustekinumab-ttwe, Selarsdi,
+ustekinumab-aekn, Starjemza, Steqeyma, Wezlana,
+and Yesintek. A trial of Cimzia, an infliximab product
+(e.g., Remicade, biosimilars), or Simponi (Aria or
+subcutaneous) also counts.
+f) Patient has been established on Bimzelx for at least
+90 days and prescription claims history indicates at
+least a 90-day supply of Bimzelx was dispensed within
+the past 130 days [verification in prescription
+claims history required], or if claims history is not
+available, according to the prescriber [verification by
+prescriber required].
+Note: In cases when 130 days of the patient’s
+prescription claim history file is unavailable to be
+verified, an exception to this requirement is allowed if
+the prescriber has verified that the patient has been
+receiving Bimzelx for at least 90 days AND the patient
+has been receiving Bimzelx via paid claims (e.g.,
+patient has not been receiving samples or coupons or
+other types of waivers in order to obtain access to
+Bimzelx).
+B) If the patient has met criterion 6Ai (the standard
+Inflammatory Conditions – Bimzelx Prior Authorization Policy
+criteria), but criterion 6Aii is not met: offer to review for one
+of the following Preferred Products using the respective
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+standard Inflammatory Conditions – Prior Authorization
+Policy criteria.
+i. Ankylosing Spondylitis: Enbrel, Cyltezo, adalimumab-
+adbm, adalimumab-adaz, adalimumab-ryvk, Simlandi, or
+Taltz.
+ii. Hidradenitis Suppurativa: Cyltezo, adalimumab-adbm,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, or
+Cosentyx subcutaneous.
+iii. nr-axSpA: Cimzia or Taltz.
+iv. Plaque Psoriasis: Enbrel, Cyltezo, adalimumab-adbm,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Otezla,
+Skyrizi subcutaneous [pen or syringe], Sotyktu, Stelara
+subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Taltz, or Tremfya subcutaneous.
+v. Psoriatic Arthritis: Enbrel, Cyltezo, adalimumab-adbm,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Otezla,
+Skyrizi subcutaneous (pen or syringe), Stelara
+subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Taltz, or Tremfya subcutaneous.
+7. Other Conditions. Approve Bimzelx (initial therapy for a
+duration as directed or 1 year for a patient continuing therapy)
+if the patient meets the standard Inflammatory Conditions –
+Bimzelx Prior Authorization Policy criteria.
+Cosentyx 1. Ankylosing Spondylitis – Initial Therapy.
+SC A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Cosentyx Subcutaneous Prior Authorization Policy criteria;
+AND
+ii. Patient has tried TWO of Enbrel, an adalimumab product,
+Rinvoq, Taltz, or Xeljanz/XR [documentation
+required].
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of multiple
+adalimumab products counts as ONE product. A trial of
+either or both Xeljanz products (Xeljanz and Xeljanz XR)
+collectively counts as ONE product. A trial of Cimzia, an
+infliximab product (e.g. Remicade, biosimilars), or
+Simponi (Aria or subcutaneous) also counts
+[documentation required].
+B) If the patient has met criterion 1Ai (the standard
+Inflammatory Conditions – Cosentyx Subcutaneous Prior
+Authorization Policy criteria), but criterion 1Aii is not met:
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+offer to review for a Step 1 or Step 2a Product (adalimumab-
+adbm, Cyltezo, adalimumab-adaz, adalimumab-ryvk,
+Simlandi, Enbrel, Rinvoq, Taltz, Xeljanz tablets, or Xeljanz
+XR) using the respective standard Inflammatory Conditions –
+Prior Authorization Policy criteria.
+2. Non-Radiographic Spondyloarthritis (nr-axSpA) – Initial
+Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Cosentyx Subcutaneous Prior Authorization Policy criteria;
+AND
+ii. Patient has tried TWO of Cimzia, Taltz, or Rinvoq
+[documentation required].
+Note: A trial of Enbrel, an adalimumab product (e.g.,
+Humira, Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry), an infliximab product
+(e.g., Remicade, biosimilars), or Simponi (Aria or
+subcutaneous) also counts [documentation required].
+A trial of multiple adalimumab products counts as ONE
+product.
+B) If the patient has met criterion 2Ai (the standard
+Inflammatory Conditions – Cosentyx Subcutaneous Prior
+Authorization Policy criteria), but criterion 2Aii is not met:
+offer to review for a Step 1 or Step 2a Product (Cimzia,
+Taltz, or Rinvoq) using the respective standard Inflammatory
+Conditions – Prior Authorization Policy criteria.
+3. Plaque Psoriasis – Initial Therapy.
+A) Approve for 3 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Cosentyx Subcutaneous Prior Authorization Policy criteria;
+AND
+ii. Patient has tried TWO of Enbrel, an adalimumab product,
+Otezla, Skyrizi subcutaneous, Sotyktu, an ustekinumab
+subcutaneous product, Taltz, or Tremfya subcutaneous
+[documentation required].
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of multiple
+adalimumab products counts as ONE product. Examples
+of ustekinumab products include Stelara/ustekinumab,
+Imuldosa, Otulfi, Pyzchiva, ustekinumab-ttwe, Selarsdi,
+ustekinumab-aekn, Starjemza, Steqeyma, Wezlana, and
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+Yesintek. A trial of multiple ustekinumab products counts
+as ONE product.
+B) If the patient has met criterion 3Ai (the standard
+Inflammatory Conditions – Cosentyx Subcutaneous Prior
+Authorization Policy criteria), but criterion 3Aii is not met:
+offer to review for a Preferred Product (Enbrel, adalimumab-
+adbm, Cyltezo, adalimumab-adaz, adalimumab-ryvk,
+Simlandi, Otezla, Skyrizi subcutaneous [pen or syringe],
+Sotyktu, Stelara subcutaneous, Imuldosa subcutaneous,
+Selarsdi subcutaneous, ustekinumab-ttwe subcutaneous,
+Yesintek subcutaneous, Taltz, or Tremfya subcutaneous)
+using the respective standard Inflammatory Conditions –
+Prior Authorization Policy criteria.
+4. Psoriatic Arthritis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Cosentyx Subcutaneous Prior Authorization Policy criteria;
+AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient is ≥ 18 years of age AND has tried TWO of
+Enbrel, an adalimumab product, Otezla,
+Rinvoq/Rinvoq LQ, Skyrizi subcutaneous, an
+ustekinumab subcutaneous product, Taltz, Tremfya
+subcutaneous, or Xeljanz/XR [documentation
+required]; OR
+b) Patient is < 18 years of age AND has tried ONE of
+Enbrel, Otezla, Rinvoq/Rinvoq LQ, or an ustekinumab
+subcutaneous product [documentation required].
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. Examples of ustekinumab
+products include Stelara/ustekinumab, Imuldosa,
+Otulfi, Pyzchiva, ustekinumab-ttwe, Selarsdi,
+ustekinumab-aekn, Starjemza, Steqeyma, Wezlana,
+and Yesintek. A trial of multiple ustekinumab
+products counts as ONE product. A trial of Cimzia, an
+infliximab product (e.g., Remicade, biosimilars), or
+Simponi (subcutaneous or Aria) also counts toward a
+trial of a TNFi [documentation required]. For a
+patient < 18 years of age, a trial of another tumor
+necrosis factor inhibitor (TNFi) counts towards a trial
+of Enbrel [documentation required]. A trial of
+either or both Xeljanz products (Xeljanz and Xeljanz
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+XR) collectively counts as ONE product. A trial of
+either or both Rinvoq products (Rinvoq and Rinvoq
+LQ) collectively counts as ONE product.
+B) If the patient has met criterion 4Ai (the standard
+Inflammatory Conditions – Cosentyx Subcutaneous Prior
+Authorization Policy criteria), but criterion 4Aii is not met:
+offer to review for a Preferred Product (Enbrel, adalimumab-
+adbm, Cyltezo, adalimumab-adaz, adalimumab-ryvk,
+Simlandi, Otezla, Rinvoq, Rinvoq LQ, Skyrizi subcutaneous
+[pen or syringe], Stelara subcutaneous, Imuldosa
+subcutaneous, Selarsdi subcutaneous, ustekinumab-ttwe
+subcutaneous, Yesintek subcutaneous, Taltz, Tremfya
+subcutaneous, Xeljanz, or Xeljanz XR) using the respective
+standard Inflammatory Conditions – Prior Authorization
+Policy criteria.
+5. Ankylosing Spondylitis; nr-axSpA; Plaque Psoriasis; or
+Psoriatic Arthritis – Patient is Currently Receiving
+Cosentyx (Subcutaneous or Intravenous).
+A) Approve for 1 year if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Cosentyx Subcutaneous Prior Authorization Policy criteria;
+AND
+ii. Patient meets ONE of the following (a, b, c, d, e, f, or g):
+a) Patient has Ankylosing Spondylitis and has tried TWO
+of Enbrel, an adalimumab product, Rinvoq, Taltz, or
+Xeljanz/XR [documentation required]; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. A trial of either or both
+Xeljanz products (Xeljanz and Xeljanz XR) collectively
+counts as ONE product. A trial of Cimzia, an
+infliximab product (e.g., Remicade, biosimilars), or
+Simponi (Aria or subcutaneous) also counts
+[documentation required].
+b) Patient has nr-axSpA and has tried TWO of Cimzia,
+Taltz, or Rinvoq [documentation required]; OR
+Note: A trial of Enbrel, an adalimumab product (e.g.,
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry), an infliximab product (e.g., Remicade,
+biosimilars), or Simponi (Aria or subcutaneous) also
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+counts [documentation required]. A trial of
+multiple adalimumab products counts as ONE product.
+c) Patient has Plaque Psoriasis and has tried TWO of
+Enbrel, an adalimumab product, Otezla, Skyrizi
+subcutaneous, Sotyktu, an ustekinumab subcutaneous
+product, Taltz, or Tremfya subcutaneous
+[documentation required]; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. Examples of ustekinumab
+products include Stelara/ustekinumab, Imuldosa,
+Otulfi, Pyzchiva, ustekinumab-ttwe, Selarsdi,
+ustekinumab-aekn, Starjemza, Steqeyma, Wezlana,
+and Yesintek. A trial of multiple ustekinumab
+products counts as ONE product.
+d) Patient is ≥ 18 years of age with Psoriatic Arthritis and
+has tried TWO of Enbrel, an adalimumab product,
+Otezla, Rinvoq/Rinvoq LQ, Skyrizi subcutaneous, an
+ustekinumab subcutaneous product, Taltz, Tremfya
+subcutaneous, or Xeljanz/XR [documentation
+required]; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. Examples of ustekinumab
+products include Stelara/ustekinumab, Imuldosa,
+Otulfi, Pyzchiva, ustekinumab-ttwe, Selarsdi,
+ustekinumab-aekn, Starjemza, Steqeyma, Wezlana,
+and Yesintek. A trial of multiple ustekinumab
+products counts as ONE product. A trial of either or
+both Xeljanz products (Xeljanz and Xeljanz XR)
+collectively counts as ONE product. A trial of either or
+both Rinvoq products (Rinvoq and Rinvoq LQ)
+collectively counts as ONE product. A trial of Cimzia,
+an infliximab product (e.g., Remicade, biosimilars), or
+Simponi (Aria or subcutaneous) also counts
+[documentation required].
+e) Patient is < 18 years of age with Psoriatic Arthritis and
+has tried ONE of Enbrel, Otezla, Rinvoq/Rinvoq LQ, or
+an ustekinumab subcutaneous product
+[documentation required]; OR
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+Note: A trial of another TNFi counts towards a trial of
+Enbrel [documentation required]. A trial of either
+or both Rinvoq products (Rinvoq and Rinvoq LQ)
+collectively counts as ONE product. Examples of
+ustekinumab products include Stelara/ustekinumab,
+Imuldosa, Otulfi, Pyzchiva, ustekinumab-ttwe,
+Selarsdi, ustekinumab-aekn, Starjemza, Steqeyma,
+Wezlana, and Yesintek.
+f) According to the prescriber, the patient with
+Ankylosing Spondylitis, Non-Radiographic
+Spondyloarthritis, or Psoriatic Arthritis has been
+established on Cosentyx intravenous for at least 90
+days; OR
+g) Patient has been established on Cosentyx
+subcutaneous for at least 90 days and prescription
+claims history indicates at least a 90-day supply of
+Cosentyx SC was dispensed within the past 130 days
+[verification in prescription claims history
+required], or if claims history is not available,
+according to the prescriber [verification by
+prescriber required].
+Note: In cases when 130 days of the patient’s
+prescription claim history file is unavailable to be
+verified, an exception to this requirement is allowed if
+the prescriber has verified that the patient has been
+receiving Cosentyx SC for at least 90 days AND the
+patient has been receiving Cosentyx SC via paid
+claims (e.g., patient has not been receiving samples
+or coupons or other types of waivers in order to obtain
+access to Cosentyx SC).
+B) If the patient has met criterion 5Ai (the standard
+Inflammatory Conditions – Cosentyx Subcutaneous Prior
+Authorization Policy criteria), but criterion 5Aii is not met:
+offer to review for one of the following Products using the
+respective standard Inflammatory Conditions – Prior
+Authorization Policy criteria:
+i. Ankylosing Spondylitis: Enbrel, adalimumab-adbm,
+Cyltezo, adalimumab-adaz, adalimumab-ryvk, Simlandi,
+Rinvoq, Taltz, Xeljanz tablets, or Xeljanz XR.
+ii. nr-axSpA: Cimzia, Taltz, or Rinvoq.
+iii. Plaque Psoriasis: Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Otezla,
+Skyrizi subcutaneous (pen or syringe), Sotyktu, Stelara
+subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Taltz, or Tremfya subcutaneous.
+iv. Psoriatic Arthritis in a Patient ≥ 18 years of age:
+Enbrel, adalimumab-adbm, Cyltezo, adalimumab-adaz,
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+adalimumab-ryvk, Simlandi, Otezla, Rinvoq, Rinvoq LQ,
+Skyrizi subcutaneous (pen or syringe), Stelara
+subcutaneous, Selarsdi subcutaneous, Imuldosa
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Taltz, Tremfya subcutaneous, Xeljanz, or
+Xeljanz XR.
+v. Psoriatic Arthritis in a Patient < 18 years of age:
+Enbrel, Otezla, Rinvoq, Rinvoq LQ, or Stelara
+subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, or
+Yesintek subcutaneous.
+6. Other Conditions. Approve Cosentyx subcutaneous (initial
+therapy for a duration as directed or 1 year for a patient
+continuing therapy) if the patient meets the standard
+Inflammatory Conditions – Cosentyx Subcutaneous Prior
+Authorization Policy criteria.
+Siliq 1. Plaque Psoriasis – Initial Therapy.
+A) Approve for 3 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Siliq Prior Authorization Policy criteria for plaque
+psoriasis; AND
+ii. Patient has tried TWO of Enbrel, an adalimumab product,
+Otezla, Skyrizi subcutaneous, Sotyktu, an ustekinumab
+subcutaneous product, Taltz, or Tremfya subcutaneous
+[documentation required].
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of multiple
+adalimumab products counts as ONE product. Examples
+of ustekinumab products include Stelara/ustekinumab,
+Imuldosa, Otulfi, Pyzchiva, ustekinumab-ttwe, Selarsdi,
+ustekinumab-aekn, Starjemza, Steqeyma, Wezlana, and
+Yesintek. A trial of multiple ustekinumab products counts
+as ONE product.
+B) If the patient has met criterion 1Ai (the standard
+Inflammatory Conditions – Siliq Prior Authorization Policy
+criteria), but criterion 1Aii is not met: offer to review for a
+Preferred Product (Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Otezla,
+Skyrizi subcutaneous [pen or syringe], Sotyktu, Stelara
+subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Taltz, or Tremfya subcutaneous) using the
+respective standard Inflammatory Conditions – Prior
+Authorization Policy criteria.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+2. Plaque Psoriasis – Patient is Currently Receiving Siliq.
+A) Approve for 1 year if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Siliq Prior Authorization Policy criteria; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has tried TWO of Enbrel, an adalimumab
+product, Otezla, Skyrizi subcutaneous, Sotyktu, an
+ustekinumab subcutaneous product, Taltz, or Tremfya
+subcutaneous [documentation required]; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. Examples of ustekinumab
+products include Stelara/ustekinumab, Imuldosa,
+Otulfi, Pyzchiva, ustekinumab-ttwe, Selarsdi,
+ustekinumab-aekn, Starjemza, Steqeyma, Wezlana,
+and Yesintek. A trial of multiple ustekinumab
+products counts as ONE product.
+b) Patient has been established on Siliq for at least 90
+days and prescription claims history indicates at least
+a 90-day supply of Siliq was dispensed within the past
+130 days [verification in prescription claims
+history required], or if claims history is not
+available, according to the prescriber [verification by
+prescriber required].
+Note: In cases when 130 days of the patient’s
+prescription claim history file is unavailable to be
+verified, an exception to this requirement is allowed if
+the prescriber has verified that the patient has been
+receiving Siliq for at least 90 days AND the patient has
+been receiving Siliq via paid claims (e.g., patient has
+not been receiving samples or coupons or other types
+of waivers in order to obtain access to Siliq).
+B) If the patient has met criterion 2Ai (the standard
+Inflammatory Conditions – Siliq Prior Authorization Policy
+criteria), but criterion 2Aii is not met: offer to review for a
+Preferred Product (Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Otezla,
+Skyrizi subcutaneous [pen or syringe], Sotyktu, Stelara
+subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Taltz, or Tremfya subcutaneous) using the
+respective standard Inflammatory Conditions – Prior
+Authorization Policy criteria.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+3. Other Conditions. Approve Siliq (initial therapy for a duration
+as directed or 1 year for a patient continuing therapy) if the
+patient meets the standard Inflammatory Conditions – Siliq
+Prior Authorization Policy criteria.
+Taltz All Conditions. Approve Taltz (initial therapy for a duration as
+directed or 1 year for a patient continuing therapy) if the patient
+meets the standard Inflammatory Conditions – Taltz Prior
+Authorization Policy criteria.
+Interleukin-23 Blockers
+Ilumya 1. Plaque Psoriasis – Initial Therapy.
+A) Approve for 3 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Ilumya Prior Authorization Policy criteria; AND
+ii. Patient has tried TWO of Enbrel, an adalimumab product,
+Otezla, Skyrizi subcutaneous, Sotyktu, an ustekinumab
+subcutaneous product, Taltz, or Tremfya subcutaneous
+[documentation required].
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of multiple
+adalimumab products counts as ONE product. Examples
+of ustekinumab products include Stelara/ustekinumab,
+Imuldosa, Otulfi, Pyzchiva, ustekinumab-ttwe, Selarsdi,
+ustekinumab-aekn, Starjemza, Steqeyma, Wezlana, and
+Yesintek. A trial of multiple ustekinumab products counts
+as ONE product.
+B) If the patient has met criterion 1Ai (the standard
+Inflammatory Conditions – Ilumya Prior Authorization Policy
+criteria), but criterion 1Aii is not met: offer to review for a
+Preferred Product (Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Otezla,
+Skyrizi subcutaneous [pen or syringe], Sotyktu, Stelara
+subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Taltz, or Tremfya subcutaneous) using the
+respective standard Inflammatory Conditions – Prior
+Authorization Policy criteria.
+2. Plaque Psoriasis – Patient is Currently Receiving Ilumya.
+A) Approve for 1 year if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Ilumya Prior Authorization Policy criteria; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has plaque psoriasis and has tried TWO of
+Enbrel, an adalimumab product, Otezla, Skyrizi
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+subcutaneous, Sotyktu, an ustekinumab subcutaneous
+product, Taltz, or Tremfya subcutaneous
+[documentation required]; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. Examples of ustekinumab
+products include Stelara/ustekinumab, Imuldosa,
+Otulfi, Pyzchiva, ustekinumab-ttwe, Selarsdi,
+ustekinumab-aekn, Starjemza, Steqeyma, Wezlana,
+and Yesintek. A trial of multiple ustekinumab
+products counts as ONE product.
+b) Patient has been established on Ilumya for at least 90
+days and prescription claims history indicates at least
+a 90-day supply of Ilumya was dispensed within the
+past 130 days [verification in prescription claims
+history required], or if claims history is not
+available, according to the prescriber [verification by
+prescriber required].
+Note: In cases when 130 days of the patient’s
+prescription claim history file is unavailable to be
+verified, an exception to this requirement is allowed if
+the prescriber has verified that the patient has been
+receiving Ilumya for at least 90 days AND the patient
+has been receiving Ilumya via paid claims (e.g.,
+patient has not been receiving samples or coupons or
+other types of waivers in order to obtain access to
+Ilumya).
+B) If the patient has met criterion 2Ai (the standard
+Inflammatory Conditions – Ilumya Prior Authorization Policy
+criteria), but criterion 2Aii is not met: offer to review for a
+Preferred Product (Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Otezla,
+Skyrizi subcutaneous [pen or syringe], Sotyktu, Stelara
+subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Taltz, or Tremfya subcutaneous) using the
+respective standard Inflammatory Conditions – Prior
+Authorization Policy criteria.
+3. Other Conditions. Approve Ilumya (initial therapy for a
+duration as directed or 1 year for a patient continuing therapy)
+if the patient meets the standard Inflammatory Conditions –
+Ilumya Prior Authorization Policy criteria.
+Omvoh SC All Conditions. Approve Omvoh subcutaneous (initial therapy for
+a duration as directed or 1 year for a patient continuing therapy) if
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+the patient meets the standard Inflammatory Conditions – Omvoh
+Subcutaneous Prior Authorization Policy criteria.
+Skyrizi All Conditions. Approve Skyrizi subcutaneous (initial therapy for
+Subcutane a duration as directed or 1 year for a patient continuing therapy) if
+ous the patient meets the standard Inflammatory Conditions – Skyrizi
+Subcutaneous Prior Authorization Policy criteria.
+Tremfya All Conditions. Approve Tremfya subcutaneous (initial therapy for
+a duration as directed or 1 year for a patient continuing therapy) if
+the patient meets the standard Inflammatory Conditions – Tremfya
+Subcutaneous Prior Authorization Policy criteria.
+IL-12/23 Blocker
+Stelara All Conditions. Approve (initial therapy for a duration as directed
+subcutane or 1 year for a patient continuing therapy) if the patient meets the
+ous, standard Inflammatory Conditions – Ustekinumab Subcutaneous
+Imuldosa Prior Authorization Policy criteria.
+subcutane
+ous
+Selarsdi
+subcutane
+ous,
+Ustekinum
+ab-ttwe
+subcutane
+ous,
+Yesintek
+subcutane
+ous
+Integrin Receptor Antagonist
+Entyvio SC 1. Crohn’s Disease – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Entyvio Subcutaneous Prior Authorization Policy criteria;
+AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has tried TWO of an adalimumab product,
+Omvoh subcutaneous, Skyrizi subcutaneous, Tremfya
+subcutaneous, an ustekinumab subcutaneous product,
+Zymfentra, Cimzia, or Rinvoq [documentation
+required]; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-aacf, adalimumab-
+adaz, adalimumab-adbm, adalimumab-fkjp,
+adalimumab-aaty, adalimumab-ryvk, Simlandi,
+Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz, Idacio,
+Yuflyma, and Yusimry. A trial of multiple adalimumab
+products counts as ONE product. Examples of
+ustekinumab products include Stelara/ustekinumab,
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+Imuldosa, Otulfi, Pyzchiva, ustekinumab-ttwe,
+Selarsdi, ustekinumab-aekn, Starjemza, Steqeyma,
+Wezlana, and Yesintek. A trial of multiple
+ustekinumab products counts as ONE product. A trial
+of an infliximab intravenous product (e.g., Remicade,
+biosimilars), Omvoh intravenous, Skyrizi intravenous,
+Tremfya intravenous, or an ustekinumab intravenous
+product also counts [documentation required].
+b) According to the prescriber, the patient has already
+started on or is currently undergoing induction
+therapy with Entyvio IV.
+B) If the patient has met criterion 1Ai (the standard
+Inflammatory Conditions – Entyvio Subcutaneous Prior
+Authorization Policy criteria), but criterion 1Aii is not met,
+offer to review for a Step 1 or Step 2a Product (adalimumab-
+adaz, adalimumab-adbm, Cyltezo, adalimumab-ryvk,
+Simlandi, Omvoh subcutaneous, Skyrizi subcutaneous (on-
+body injector), Stelara subcutaneous, Imuldosa
+subcutaneous, Selarsdi subcutaneous, ustekinumab-ttwe
+subcutaneous, Yesintek subcutaneous, Tremfya
+subcutaneous, Rinvoq, Cimzia, or Zymfentra) using the
+respective standard Inflammatory Conditions Prior
+Authorization Policy criteria.
+2. Ulcerative Colitis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Entyvio Subcutaneous Prior Authorization Policy criteria;
+AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has tried TWO of an adalimumab product,
+Skyrizi subcutaneous, an ustekinumab subcutaneous
+product, Zymfentra, Omvoh subcutaneous, Rinvoq,
+Simponi subcutaneous, Tremfya subcutaneous,
+Velsipity, or Xeljanz/XR [documentation required];
+OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-aacf, adalimumab-
+adaz, adalimumab-adbm, adalimumab-fkjp,
+adalimumab-aaty, adalimumab-ryvk, Simlandi,
+Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz, Idacio,
+Yuflyma, and Yusimry. A trial of multiple adalimumab
+products counts as ONE product. Examples of
+ustekinumab products include Stelara/ustekinumab,
+Imuldosa, Otulfi, Pyzchiva, ustekinumab-ttwe,
+Selarsdi, ustekinumab-aekn, Starjemza, Steqeyma,
+Wezlana, and Yesintek. A trial of multiple
+ustekinumab products counts as ONE product. A trial
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+of either or both Xeljanz products (Xeljanz and Xeljanz
+XR) collectively counts as ONE product. A trial of an
+infliximab intravenous product (e.g., Remicade,
+biosimilars), Omvoh intravenous, Skyrizi intravenous,
+an ustekinumab intravenous product, or Tremfya
+intravenous also counts [documentation required].
+b) According to the prescriber, the patient has already
+started on or is currently undergoing induction
+therapy with Entyvio IV.
+B) If the patient has met criterion 2Ai (the standard
+Inflammatory Conditions – Entyvio Subcutaneous Prior
+Authorization Policy criteria), but criterion 2Aii is not met,
+offer to review for a Step 1 or Step 2a Product (adalimumab-
+adaz, adalimumab-adbm, Cyltezo, adalimumab-ryvk,
+Simlandi, Stelara subcutaneous, Imuldosa subcutaneous,
+Selarsdi subcutaneous, ustekinumab-ttwe subcutaneous,
+Yesintek subcutaneous, Omvoh subcutaneous, Rinvoq,
+Simponi SC, Skyrizi subcutaneous (on-body injector),
+Xeljanz/XR, Tremfya subcutaneous, Velsipity, or Zymfentra)
+using the respective standard Inflammatory Conditions Prior
+Authorization Policy criteria.
+3. Crohn’s Disease and Ulcerative Colitis – Patient is
+Currently Receiving Entyvio Subcutaneous or
+Intravenous.
+A) Approve for 1 year if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Entyvio Subcutaneous Prior Authorization Policy criteria;
+AND
+ii. Patient meets ONE of the following (a, b, c, or d):
+a) Patient has Crohn’s Disease and has tried TWO of an
+adalimumab product, Omvoh subcutaneous, Skyrizi
+subcutaneous, Tremfya subcutaneous, an
+ustekinumab subcutaneous product, Zymfentra,
+Cimzia, or Rinvoq [documentation required]; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-aacf, adalimumab-
+adaz, adalimumab-adbm, adalimumab-fkjp,
+adalimumab-aaty, adalimumab-ryvk, Simlandi,
+Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz, Idacio,
+Yuflyma, and Yusimry. A trial of multiple adalimumab
+products counts as ONE product. Examples of
+ustekinumab products include Stelara/ustekinumab,
+Imuldosa, Otulfi, Pyzchiva, ustekinumab-ttwe,
+Selarsdi, ustekinumab-aekn, Starjemza, Steqeyma,
+Wezlana, and Yesintek. A trial of multiple
+ustekinumab products counts as ONE product. A trial
+of an infliximab intravenous product (e.g., Remicade,
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+biosimilars), Omvoh intravenous, Skyrizi intravenous,
+Tremfya intravenous, or an ustekinumab intravenous
+product also counts [documentation required].
+b) Patient has Ulcerative Colitis and has tried TWO of an
+adalimumab product, Skyrizi subcutaneous, an
+ustekinumab subcutaneous product, Tremfya
+subcutaneous, Zymfentra, Omvoh subcutaneous,
+Rinvoq, Simponi subcutaneous, Velsipity, or
+Xeljanz/XR [documentation required]; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-aacf, adalimumab-
+adaz, adalimumab-adbm, adalimumab-fkjp,
+adalimumab-aaty, adalimumab-ryvk, Simlandi,
+Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz, Idacio,
+Yuflyma, and Yusimry. A trial of multiple adalimumab
+products counts as ONE product. Examples of
+ustekinumab products include Stelara/ustekinumab,
+Imuldosa, Otulfi, Pyzchiva, ustekinumab-ttwe,
+Selarsdi, ustekinumab-aekn, Starjemza, Steqeyma,
+Wezlana, and Yesintek. A trial of multiple
+ustekinumab products counts as ONE product. A trial
+of either or both Xeljanz products (Xeljanz and Xeljanz
+XR) collectively counts as ONE product. A trial of an
+infliximab intravenous product (e.g., Remicade,
+biosimilars), Omvoh intravenous, Skyrizi intravenous,
+an ustekinumab intravenous product, or Tremfya
+intravenous also counts [documentation required].
+c) According to the prescriber, the patient has been
+established on Entyvio intravenous for at least 90
+days; OR
+d) Patient has been established on Entyvio subcutaneous
+for at least 90 days and prescription claims history
+indicates at least a 90-day supply of Entyvio
+subcutaneous was dispensed within the past 130 days
+[verification in prescription claims history
+required], or if claims history is not available,
+according to the prescriber [verification by
+prescriber required].
+Note: In cases where 130 days of the patient’s
+prescription claim history file is unavailable to be
+verified, an exception to this requirement is allowed if
+the prescriber has verified that the patient has been
+receiving Entyvio subcutaneous for at least 90 days
+AND the patient has been receiving Entyvio
+subcutaneous via paid claims (e.g., patient has not
+been receiving samples or coupons or other types of
+waivers in order to obtain access to Entyvio
+subcutaneous).
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+B) If the patient has met criterion 3Ai (the standard
+Inflammatory Conditions – Entyvio Subcutaneous Prior
+Authorization Policy criteria), but criterion 3Aii is not met,
+offer to review for one of the following Products using the
+respective standard Inflammatory Conditions Prior
+Authorization Policy criteria.
+i. Crohn’s Disease: adalimumab-adaz, adalimumab-
+adbm, Cyltezo, adalimumab-ryvk, Simlandi, Omvoh
+subcutaneous, Skyrizi subcutaneous (on-body injector),
+Stelara subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Tremfya subcutaneous, Rinvoq, Cimzia, or
+Zymfentra.
+ii. Ulcerative Colitis: adalimumab-adaz, adalimumab-
+adbm, Cyltezo, adalimumab-ryvk, Simlandi, Skyrizi
+subcutaneous (on-body injector), Stelara subcutaneous,
+Imuldosa subcutaneous, Selarsdi subcutaneous,
+ustekinumab-ttwe subcutaneous, Yesintek subcutaneous,
+Tremfya subcutaneous, Omvoh subcutaneous, Rinvoq,
+Simponi SC, Xeljanz/XR, Velsipity, or Zymfentra.
+4. Other Conditions. Approve Entyvio subcutaneous (initial
+therapy for a duration as directed or 1 year for a patient
+continuing therapy) if the patient meets the standard
+Inflammatory Conditions – Entyvio Subcutaneous Prior
+Authorization Policy criteria.
+Interleukin-1 Blocker
+Kineret 1. Rheumatoid Arthritis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Kineret Prior Authorization Policy criteria; AND
+ii. Patient has tried TWO of a tocilizumab subcutaneous
+product, Enbrel, an adalimumab product, Rinvoq, or
+Xeljanz/XR [documentation required].
+Note: Examples of tocilizumab subcutaneous products
+include Actemra subcutaneous and Tyenne subcutaneous.
+A trial of multiple tocilizumab products counts as ONE
+product. Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of multiple
+adalimumab products counts as ONE product. A trial of
+either or both Xeljanz products (Xeljanz and Xeljanz XR)
+collectively counts as ONE product. A trial of tocilizumab
+intravenous (Actemra intravenous, biosimilar), Cimzia,
+Orencia (subcutaneous or intravenous), an infliximab
+product (e.g., Remicade, biosimilar), Kevzara, or Simponi
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+(Aria or subcutaneous) also counts [documentation
+required].
+B) If the patient has met criterion 1Ai (the standard
+Inflammatory Conditions – Kineret Prior Authorization Policy
+criteria), but criterion 1Aii is not met: offer to review for a
+Step 1 or Step 2a Product (Actemra subcutaneous, Tyenne
+subcutaneous, Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Rinvoq,
+Xeljanz tablets, or Xeljanz XR) using the respective standard
+Inflammatory Conditions – Prior Authorization Policy criteria.
+2. Rheumatoid Arthritis – Patient is Currently Receiving
+Kineret.
+A) Approve for 1 year if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Kineret Prior Authorization Policy criteria; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has tried TWO of a tocilizumab subcutaneous
+product, Enbrel, an adalimumab product, Rinvoq, or
+Xeljanz/XR [documentation required]; OR
+Note: Examples of tocilizumab subcutaneous products
+include Actemra subcutaneous and Tyenne
+subcutaneous. A trial of multiple tocilizumab products
+counts as ONE product. Examples of adalimumab
+products include Humira, Abrilada, adalimumab-adaz,
+adalimumab-adbm, adalimumab-fkjp, adalimumab-
+aaty, adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. A trial of either or both
+Xeljanz products (Xeljanz and Xeljanz XR) collectively
+counts as ONE product. A trial of tocilizumab
+intravenous (Actemra intravenous, biosimilar), Cimzia,
+Orencia (subcutaneous or intravenous), an infliximab
+product (e.g., Remicade, biosimilar), Kevzara, or
+Simponi (Aria or subcutaneous) also counts
+[documentation required].
+b) Patient has been established on Kineret at least 90
+days and prescription claims history indicates at least
+a 90-day supply of Kineret was dispensed within the
+past 130 days [verification in prescription claims
+history required], or if claims history is not
+available, according to the prescriber [verification by
+prescriber required].
+Note: In cases when 130 days of the patient’s
+prescription claim history file is unavailable to be
+verified, an exception to this requirement is allowed if
+the prescriber has verified that the patient has been
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+receiving Kineret for at least 90 days AND the patient
+has been receiving Kineret via paid claims (e.g.,
+patient has not been receiving samples or coupons or
+other types of waivers in order to obtain access to
+Kineret).
+B) If the patient has met criterion 2Ai (the standard
+Inflammatory Conditions – Kineret Prior Authorization Policy
+criteria), but criterion 2Aii is not met: offer to review for a
+Step 1 or Step 2a Product (Actemra subcutaneous, Tyenne
+subcutaneous, Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Rinvoq,
+Xeljanz tablets, or Xeljanz XR) using the respective standard
+Inflammatory Conditions – Prior Authorization Policy criteria.
+3. Other Conditions. Approve Kineret (initial therapy for a
+duration as directed or 1 year for a patient continuing therapy)
+if the patient meets the standard Inflammatory Conditions –
+Kineret Prior Authorization Policy criteria.
+Note: This includes Cryopyrin-Associated Periodic Syndromes
+(CAPS), Systemic Juvenile Idiopathic Arthritis.
+T-Cell Costimulation Modulator
+Orencia 1. Rheumatoid Arthritis – Initial Therapy.
+Subcutane A) Approve for 6 months if the patient meets BOTH of the
+ous following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Orencia Subcutaneous Prior Authorization Policy criteria;
+AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has tried TWO of a tocilizumab subcutaneous
+product, Enbrel, an adalimumab product, Rinvoq, or
+Xeljanz/XR [documentation required]; OR
+Note: Examples of tocilizumab subcutaneous products
+include Actemra subcutaneous and Tyenne
+subcutaneous. A trial of multiple tocilizumab products
+counts as ONE product. Examples of adalimumab
+products include Humira, Abrilada, adalimumab-adaz,
+adalimumab-adbm, adalimumab-fkjp, adalimumab-
+aaty, adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. A trial of either or both
+Xeljanz products (Xeljanz and Xeljanz XR) collectively
+counts as ONE product. A trial of tocilizumab
+intravenous (Actemra intravenous, biosimilar), Cimzia,
+an infliximab product (e.g., Remicade, biosimilars),
+Kevzara, or Simponi (Aria or subcutaneous) also
+counts [documentation required].
+b) According to the prescriber, the patient has heart
+failure, a previously treated lymphoproliferative
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+disorder, a previous serious infection, OR a
+demyelinating disorder.
+B) If the patient has met criterion 1Ai (the standard
+Inflammatory Conditions – Orencia Subcutaneous Prior
+Authorization Policy criteria), but criterion 1Aii is not met:
+offer to review for a Step 1 or Step 2a Product (Actemra
+subcutaneous, Tyenne subcutaneous, Enbrel, adalimumab-
+adbm, Cyltezo, adalimumab-adaz, adalimumab-ryvk,
+Simlandi, Rinvoq, Xeljanz tablets, or Xeljanz XR) using the
+respective standard Inflammatory Conditions Prior
+Authorization Policy criteria.
+2. Juvenile Idiopathic Arthritis/Juvenile Rheumatoid
+Arthritis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Orencia Subcutaneous Prior Authorization Policy criteria;
+AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has tried TWO of a tocilizumab subcutaneous
+product, Enbrel, an adalimumab product,
+Rinvoq/Rinvoq LQ, or Xeljanz [documentation
+required]; OR
+Note: Examples of tocilizumab subcutaneous products
+include Actemra subcutaneous and Tyenne
+subcutaneous. A trial of multiple tocilizumab products
+counts as ONE product. Examples of adalimumab
+products include Humira, Abrilada, adalimumab-adaz,
+adalimumab-adbm, adalimumab-fkjp, adalimumab-
+aaty, adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. A trial of either or both
+Xeljanz products (Xeljanz tablets and Xeljanz oral
+solution) collectively counts as ONE product. A trial of
+either or both Rinvoq products (Rinvoq and Rinvoq
+LQ) collectively counts as ONE product. A trial of
+Cimzia, tocilizumab intravenous (Actemra intravenous,
+biosimilar), Kevzara, Orencia intravenous, an
+infliximab product (e.g., Remicade, biosimilar), or
+Simponi Aria also counts [documentation
+required].
+b) According to the prescriber, the patient has heart
+failure, a previously treated lymphoproliferative
+disorder, a previous serious infection, OR a
+demyelinating disorder.
+C) If the patient has met criterion 2Ai (the standard
+Inflammatory Conditions – Orencia Subcutaneous Prior
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+Authorization Policy criteria), but criterion 2Aii is not met:
+offer to review for a Step 1 or Step 2a Product (Actemra
+subcutaneous, Tyenne subcutaneous, Enbrel, adalimumab-
+adbm, Cyltezo, adalimumab-adaz, adalimumab-ryvk,
+Simlandi, Rinvoq, Rinvoq LQ, Xeljanz tablets, or Xeljanz oral
+solution) using the respective standard Inflammatory
+Conditions – Prior Authorization Policy criteria.
+3. Psoriatic Arthritis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Orencia Subcutaneous Prior Authorization Policy criteria;
+AND
+ii. Patient meets ONE of the following (a, b, or c):
+a) Patient is ≥ 18 years of age AND has tried TWO of
+Enbrel, an adalimumab product, Otezla,
+Rinvoq/Rinvoq LQ, Skyrizi subcutaneous, an
+ustekinumab subcutaneous product, Taltz, Tremfya
+subcutaneous, or Xeljanz/XR [documentation
+required]; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. Examples of ustekinumab
+products include Stelara/ustekinumab, Imuldosa,
+Otulfi, Pyzchiva, ustekinumab-ttwe, Selarsdi,
+ustekinumab-aekn, Starjemza, Steqeyma, Wezlana,
+and Yesintek. A trial of multiple ustekinumab
+products counts as ONE product. A trial of either or
+both Xeljanz products (Xeljanz and Xeljanz XR)
+collectively counts as ONE product. A trial of either or
+both Rinvoq products (Rinvoq and Rinvoq LQ)
+collectively counts as ONE product. A trial of Cimzia,
+an infliximab product (e.g., Remicade, biosimilars),
+Simponi (Aria or subcutaneous), Cosentyx, or Bimzelx
+also counts [documentation required].
+b) Patient is < 18 years of age AND has tried ONE of
+Enbrel, Otezla, Rinvoq/Rinvoq LQ, or an ustekinumab
+subcutaneous product [documentation required];
+OR
+Note: A trial of another TNFi counts towards a trial of
+Enbrel [documentation required]. Examples of
+ustekinumab products include Stelara/ustekinumab,
+Imuldosa, Otulfi, Pyzchiva, ustekinumab-ttwe,
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+Selarsdi, ustekinumab-aekn, Starjemza, Steqeyma,
+Wezlana, and Yesintek.
+c) According to the prescriber, the patient has heart
+failure, a previously treated lymphoproliferative
+disorder, a previous serious infection, OR a
+demyelinating disorder.
+B) If the patient has met criterion 3Ai (the standard
+Inflammatory Conditions – Orencia Subcutaneous Prior
+Authorization Policy criteria), but criterion 3Aii is not met:
+offer to review for a Step 1 or Step 2a Product (Enbrel,
+adalimumab-adbm, Cyltezo, adalimumab-adaz, adalimumab-
+ryvk, Simlandi, Otezla, Rinvoq, Rinvoq LQ, Skyrizi
+subcutaneous (pen or syringe), Stelara subcutaneous,
+Imuldosa subcutaneous, Selarsdi subcutaneous,
+ustekinumab-ttwe subcutaneous, Yesintek subcutaneous,
+Taltz, Tremfya subcutaneous, Xeljanz tablets, or Xeljanz XR)
+using the respective standard Inflammatory Conditions –
+Prior Authorization Policy criteria.
+4. Rheumatoid Arthritis, Juvenile Idiopathic Arthritis, or
+Psoriatic Arthritis – Patient is Currently Receiving
+Orencia (Subcutaneous or Intravenous).
+A) Approve for 1 year if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Orencia Subcutaneous Policy criteria; AND
+ii. Patient meets ONE of the following (a, b, c, d, e, f, or g):
+a) Patient has Rheumatoid Arthritis and has tried TWO of
+a tocilizumab subcutaneous product, Enbrel, an
+adalimumab product, Rinvoq, or Xeljanz/XR
+[documentation required]; OR
+Note: Examples of tocilizumab subcutaneous products
+include Actemra subcutaneous and Tyenne
+subcutaneous. A trial of multiple tocilizumab products
+counts as ONE product. Examples of adalimumab
+products include Humira, Abrilada, adalimumab-adaz,
+adalimumab-adbm, adalimumab-fkjp, adalimumab-
+aaty, adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. A trial of either or both
+Xeljanz products (Xeljanz and Xeljanz XR) collectively
+counts as ONE product. A trial of tocilizumab
+intravenous (Actemra intravenous, biosimilar), Cimzia,
+an infliximab product (e.g., Remicade, biosimilars),
+Kevzara, or Simponi (Aria or subcutaneous) also
+counts [documentation required].
+b) Patient has Juvenile Idiopathic Arthritis and has tried
+TWO of a tocilizumab subcutaneous product, Enbrel,
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+an adalimumab product, Rinvoq/Rinvoq LQ, or Xeljanz
+tablets or oral solution [documentation required];
+OR
+Note: Examples of tocilizumab subcutaneous products
+include Actemra subcutaneous and Tyenne
+subcutaneous. A trial of multiple tocilizumab products
+counts as ONE product. Examples of adalimumab
+products include Humira, Abrilada, adalimumab-adaz,
+adalimumab-adbm, adalimumab-fkjp, adalimumab-
+aaty, adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. A trial of either or both
+Xeljanz products (Xeljanz tablets and Xeljanz oral
+solution) collectively counts as ONE product. A trial of
+either or both Rinvoq products (Rinvoq and Rinvoq
+LQ) collectively counts as ONE product. A trial of
+Cimzia, tocilizumab intravenous (Actemra intravenous,
+biosimilar), Kevzara, Orencia intravenous, an
+infliximab product (e.g., Remicade, biosimilars), or
+Simponi Aria also counts [documentation
+required].
+c) Patient is ≥ 18 years of age with Psoriatic Arthritis
+AND has tried TWO of Enbrel, an adalimumab product,
+Otezla, Rinvoq/Rinvoq LQ, Skyrizi subcutaneous, an
+ustekinumab subcutaneous product, Taltz, Tremfya
+subcutaneous, or Xeljanz/XR [documentation
+required]; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. Examples of ustekinumab
+products include Stelara/ustekinumab, Imuldosa,
+Otulfi, Pyzchiva, ustekinumab-ttwe, Selarsdi,
+ustekinumab-aekn, Starjemza, Steqeyma, Wezlana,
+and Yesintek. A trial of multiple ustekinumab
+products counts as ONE product. A trial of either or
+both Xeljanz products (Xeljanz and Xeljanz XR)
+collectively counts as ONE product. A trial of either or
+both Rinvoq products (Rinvoq and Rinvoq LQ)
+collectively counts as ONE product. A trial of Cimzia,
+an infliximab product (e.g., Remicade, biosimilars),
+Simponi (Aria or subcutaneous), Cosentyx, or Bimzelx
+also counts [documentation required].
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+d) Patient is < 18 years of age with Psoriatic Arthritis
+AND has tried ONE of Enbrel, Otezla, Rinvoq/Rinvoq
+LQ, or an ustekinumab subcutaneous product
+[documentation required]; OR
+Note: A trial of another TNFi counts towards a trial of
+Enbrel [documentation required]. A trial of either
+or both Rinvoq products (Rinvoq and Rinvoq LQ)
+collectively counts as ONE product. Examples of
+ustekinumab products include Stelara/ustekinumab,
+Imuldosa, Otulfi, Pyzchiva, ustekinumab-ttwe,
+Selarsdi, ustekinumab-aekn, Starjemza, Steqeyma,
+Wezlana, and Yesintek.
+e) According to the prescriber, the patient has been
+established on Orencia intravenous for at least 90
+days; OR
+f) According to the prescriber, the patient has heart
+failure, a previously treated lymphoproliferative
+disorder, a previous serious infection, OR a
+demyelinating disorder; OR
+g) Patient has been established on Orencia subcutaneous
+for at least 90 days and prescription claims history
+indicates at least a 90-day supply of Orencia
+subcutaneous was dispensed within the past 130 days
+[verification in prescription claims history
+required], or if claims history is not available,
+according to the prescriber [verification by
+prescriber required].
+Note: In cases when 130 days of the patient’s
+prescription claim history file is unavailable to be
+verified, an exception to this requirement is allowed if
+the prescriber has verified that the patient has been
+receiving Orencia subcutaneous for at least 90 days
+AND the patient has been receiving Orencia
+subcutaneous via paid claims (e.g., patient has not
+been receiving samples or coupons or other types of
+waivers in order to obtain access to Orencia
+subcutaneous).
+B) If the patient has met criterion 4Ai (the standard
+Inflammatory Conditions – Orencia Subcutaneous Prior
+Authorization Policy criteria), but criterion 4Aii is not met,
+offer to review for one of the following Products using the
+respective standard Inflammatory Conditions Prior
+Authorization Policy criteria.
+i. Rheumatoid Arthritis: Actemra subcutaneous, Tyenne
+subcutaneous, Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Rinvoq,
+Xeljanz tablets, or Xeljanz XR.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+ii. Juvenile Idiopathic Arthritis: Actemra subcutaneous,
+Tyenne subcutaneous, Enbrel, adalimumab-adbm,
+Cyltezo, adalimumab-adaz, adalimumab-ryvk, Simlandi,
+Rinvoq, Rinvoq LQ, Xeljanz tablets, or Xeljanz oral
+solution.
+iii. Psoriatic Arthritis in a Patient ≥ 18 Years of Age:
+Enbrel, adalimumab-adbm, Cyltezo, adalimumab-adaz,
+adalimumab-ryvk, Simlandi, Otezla, Rinvoq, Rinvoq LQ,
+Skyrizi subcutaneous (pen or syringe), Stelara
+subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Taltz, Tremfya subcutaneous, Xeljanz
+tablets, or Xeljanz XR.
+iv. Psoriatic Arthritis in a Patient < 18 Years of Age:
+Enbrel, Otezla, Rinvoq, Rinvoq LQ, Stelara subcutaneous,
+Imuldosa subcutaneous, Selarsdi subcutaneous,
+ustekinumab-ttwe subcutaneous, or Yesintek
+subcutaneous.
+5. Other Conditions. Approve Orencia subcutaneous (initial
+therapy for a duration as directed or 1 year for a patient
+continuing therapy) if the patient meets the standard
+Inflammatory Conditions – Orencia Subcutaneous Prior
+Authorization Policy criteria.
+Janus Kinases Inhibitors
+Olumiant 1. Rheumatoid Arthritis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Olumiant Prior Authorization Policy criteria; AND
+ii. Patient has tried TWO of a tocilizumab subcutaneous
+product, Enbrel, an adalimumab product, Rinvoq, or
+Xeljanz/XR [documentation required].
+Note: Examples of tocilizumab subcutaneous products
+include Actemra subcutaneous and Tyenne subcutaneous.
+A trial of multiple tocilizumab products counts as ONE
+product. Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of multiple
+adalimumab products counts as ONE product. A trial of
+either or both Xeljanz products (Xeljanz and Xeljanz XR)
+collectively counts as ONE product. A trial of tocilizumab
+intravenous (Actemra intravenous, biosimilar), Cimzia, an
+infliximab product (e.g., Remicade, biosimilars), Kevzara,
+Orencia (intravenous or subcutaneous), or Simponi (Aria
+or subcutaneous) also counts [documentation
+required].
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+B) If the patient has met criterion 1Ai (the standard
+Inflammatory Conditions – Olumiant Prior Authorization
+Policy criteria), but criterion 1Aii is not met: offer to review
+for a Step 1 or Step 2a Product (Actemra subcutaneous,
+Tyenne subcutaneous, Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Rinvoq,
+Xeljanz tablets, or Xeljanz XR) using the respective standard
+Inflammatory Conditions Prior Authorization Policy criteria.
+2. Rheumatoid Arthritis – Patient is Currently Receiving
+Olumiant.
+A) Approve for 1 year if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Olumiant Prior Authorization Policy criteria; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has tried TWO of a tocilizumab subcutaneous
+product, Enbrel, an adalimumab product, Rinvoq, and
+Xeljanz/XR [documentation required]; OR
+Note: Examples of tocilizumab subcutaneous products
+include Actemra subcutaneous and Tyenne
+subcutaneous. A trial of multiple tocilizumab products
+counts as ONE product. Examples of adalimumab
+products include Humira, Abrilada, adalimumab-adaz,
+adalimumab-adbm, adalimumab-fkjp, adalimumab-
+aaty, adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of multiple adalimumab products
+counts as ONE product. A trial of either or both
+Xeljanz products (Xeljanz and Xeljanz XR) collectively
+counts as ONE product. A trial of tocilizumab
+intravenous (Actemra intravenous, biosimilar), Cimzia,
+an infliximab product (e.g., Remicade, biosimilars),
+Kevzara, Orencia (intravenous or subcutaneous), or
+Simponi (Aria or subcutaneous) also counts
+[documentation required].
+b) Patient has been established on Olumiant for at least
+90 days and prescription claims history indicates at
+least a 90-day supply of Olumiant was dispensed
+within the past 130 days [verification in
+prescription claims history required], or if claims
+history is not available, according to the prescriber
+[verification by prescriber required].
+Note: In cases when 130 days of the patient’s
+prescription claim history file is unavailable to be
+verified, an exception to this requirement is allowed if
+the prescriber has verified that the patient has been
+receiving Olumiant for at least 90 days AND the
+patient has been receiving Olumiant via paid claims
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+(e.g., patient has not been receiving samples or
+coupons or other types of waivers in order to obtain
+access to Olumiant).
+B) If the patient has met criterion 2Ai (the standard
+Inflammatory Conditions – Olumiant Prior Authorization
+Policy criteria), but criterion 2Aii is not met: offer to review
+for a Step 1 or Step 2a Product (Actemra subcutaneous,
+Tyenne subcutaneous, Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Rinvoq,
+Xeljanz tablets, or Xeljanz XR) using the respective standard
+Inflammatory Conditions – Prior Authorization Policy criteria.
+3. Other Conditions. Approve Olumiant (initial therapy for a
+duration as directed or 1 year for a patient continuing therapy)
+if the patient meets the standard Inflammatory Conditions –
+Olumiant Prior Authorization Policy criteria.
+Rinvoq 1. Ankylosing Spondylitis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Rinvoq/LQ Prior Authorization Policy criteria; AND
+ii. Patient has tried one of Enbrel or an adalimumab
+product.
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of Cimzia, an
+infliximab product (e.g., Remicade, biosimilars), or
+Simponi (Aria or subcutaneous) also counts.
+B) If the patient has met criterion 1Ai (the standard
+Inflammatory Conditions – Rinvoq/LQ Prior Authorization
+Policy criteria), but criterion 1Aii is not met: offer to review
+for a Preferred Product (Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, or Taltz)
+using the respective standard Inflammatory Conditions Prior
+Authorization Policy criteria.
+2. Crohn’s Disease – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Rinvoq/LQ Prior Authorization Policy criteria; AND
+ii. Patient has tried one adalimumab product.
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of an infliximab
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+product (e.g., Remicade, biosimilars; Zymfentra) or
+Cimzia also counts.
+B) If the patient has met criterion 2Ai (the standard
+Inflammatory Conditions – Rinvoq/LQ Prior Authorization
+Policy criteria), but criterion 2Aii is not met: offer to review
+for a Preferred Product (adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Omvoh
+subcutaneous, Skyrizi subcutaneous [on-body injector],
+Stelara subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Tremfya subcutaneous, or Zymfentra) using
+the respective standard Inflammatory Conditions Prior
+Authorization Policy criteria.
+3. Juvenile Idiopathic Arthritis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Rinvoq/LQ Prior Authorization Policy criteria; AND
+ii. Patient has tried one of Enbrel or an adalimumab
+product.
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of Cimzia, an
+infliximab product (e.g., Remicade, biosimilars) or
+Simponi Aria also counts.
+B) If the patient has met criterion 3Ai (the standard
+Inflammatory Conditions – Rinvoq/LQ Prior Authorization
+Policy criteria), but criterion 3Aii is not met: offer to review
+for a Preferred Product (Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, or Simlandi) using the
+respective standard Inflammatory Conditions – Prior
+Authorization Policy criteria.
+4. Non-Radiographic Spondyloarthritis (nr-axSpA) – Initial
+Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Rinvoq/LQ Prior Authorization Policy criteria; AND
+ii. Patient has tried Cimzia.
+Note: A trial of Enbrel, an adalimumab product, an
+infliximab product (Remicade, biosimilars), or Simponi
+(Aria or subcutaneous) also counts. Examples of
+adalimumab products include Humira, Abrilada,
+adalimumab-adaz, adalimumab-adbm, adalimumab-fkjp,
+adalimumab-aaty, adalimumab-ryvk, Simlandi, Amjevita,
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+Cyltezo, Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry.
+B) If the patient has met criterion 4Ai (the standard
+Inflammatory Conditions – Rinvoq/LQ Prior Authorization
+Policy criteria), but criterion 4Aii is not met: offer to review
+for a Preferred Product (Cimzia or Taltz) using the respective
+standard Inflammatory Conditions – Prior Authorization
+Policy criteria.
+5. Rheumatoid Arthritis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Rinvoq/LQ Prior Authorization Policy criteria; AND
+ii. Patient has tried one of Enbrel or an adalimumab
+product.
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of Cimzia, an
+infliximab product (e.g., Remicade, biosimilars), or
+Simponi (Aria or subcutaneous) also counts.
+B) If the patient has met criterion 5Ai (the standard
+Inflammatory Conditions – Rinvoq/LQ Prior Authorization
+Policy criteria), but criterion 5Aii is not met: offer to review
+for a Preferred Product (Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, or Simlandi) using the
+respective standard Inflammatory Conditions Prior
+Authorization Policy criteria.
+6. Psoriatic Arthritis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Rinvoq/LQ Prior Authorization Policy criteria; AND
+ii. Patient has tried ONE of Enbrel or an adalimumab
+product.
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of Cimzia, an
+infliximab product (e.g., Remicade, biosimilars), or
+Simponi (Aria or subcutaneous) also counts.
+B) If the patient has met criterion 6Ai (the standard
+Inflammatory Conditions – Rinvoq/LQ Prior Authorization
+Policy criteria), but criterion 6Aii is not met: offer to review
+for a Preferred Product (Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Otezla,
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+Skyrizi subcutaneous [pen or syringe], Stelara
+subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Taltz, or Tremfya subcutaneous) using the
+respective standard Inflammatory Conditions Prior
+Authorization Policy criteria.
+7. Ulcerative Colitis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Rinvoq/LQ Prior Authorization Policy criteria; AND
+ii. Patient has tried ONE adalimumab product.
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of an infliximab
+product (e.g., Remicade, biosimilars; Zymfentra) or
+Simponi subcutaneous also counts.
+B) If the patient has met criterion 7Ai (the standard
+Inflammatory Conditions – Rinvoq/LQ Prior Authorization
+Policy criteria), but criterion 7Aii is not met: offer to review
+for a Preferred Product (adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Omvoh
+subcutaneous, Skyrizi subcutaneous (on-body injector),
+Stelara subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Tremfya subcutaneous, Velsipity, or
+Zymfentra) using the respective standard Inflammatory
+Conditions Prior Authorization Policy criteria.
+8. Ankylosing Spondylitis, Crohn’s Disease, Juvenile
+Idiopathic Arthritis, nr-axSpA, Rheumatoid Arthritis,
+Psoriatic Arthritis, or Ulcerative Colitis – Patient is
+Currently Receiving Rinvoq.
+A) Approve for 1 year if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Rinvoq/LQ Prior Authorization Policy criteria; AND
+ii. Patient meets ONE of the following (a, b, c, d, e, f, g, or
+h):
+a) Patient has Ankylosing Spondylitis and has tried ONE
+of Enbrel or an adalimumab product; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of Cimzia, an infliximab product (e.g.,
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+Remicade, biosimilars), or Simponi (Aria or
+subcutaneous) also counts.
+b) Patient has Crohn’s Disease and has tried ONE
+adalimumab product; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of an infliximab product (e.g.,
+Remicade, biosimilars; Zymfentra) or Cimzia also
+counts.
+c) Patient has Juvenile Idiopathic Arthritis and has tried
+ONE of Enbrel or an adalimumab product; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of Cimzia, an infliximab product (e.g.,
+Remicade, biosimilars) or Simponi Aria also counts.
+d) Patient has nr-axSpA and has tried Cimzia; OR
+Note: A trial of Enbrel, an adalimumab product, an
+infliximab product (Remicade, biosimilars), or Simponi
+(Aria or subcutaneous) also counts. Examples of
+adalimumab products include Humira, Abrilada,
+adalimumab-adaz, adalimumab-adbm, adalimumab-
+fkjp, adalimumab-aaty, adalimumab-ryvk, Simlandi,
+Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz, Idacio,
+Yuflyma, and Yusimry.
+e) Patient has Rheumatoid Arthritis and has tried ONE of
+Enbrel or an adalimumab product; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of Cimzia, an infliximab product (e.g.,
+Remicade, biosimilars), or Simponi (Aria or
+subcutaneous) also counts.
+f) Patient has Psoriatic Arthritis and has tried ONE of
+Enbrel or an adalimumab product; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of Cimzia, an infliximab product (e.g.,
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+Remicade, biosimilars), or Simponi (Aria or
+subcutaneous) also counts.
+g) Patient has Ulcerative Colitis and has tried ONE
+adalimumab product; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of an infliximab product (e.g.,
+Remicade, biosimilars; Zymfentra) or Simponi
+subcutaneous also counts.
+h) Patient has been established on Rinvoq for at least 90
+days and prescription claims history indicates at least
+a 90-day supply of Rinvoq was dispensed within the
+past 130 days [verification in prescription claims
+history required], or if claims history is not
+available, according to the prescriber [verification by
+prescriber required].
+Note: In cases when 130 days of the patient’s
+prescription claim history file is unavailable to be
+verified, an exception to this requirement is allowed if
+the prescriber has verified that the patient has been
+receiving Rinvoq for at least 90 days AND the patient
+has been receiving Rinvoq via paid claims (e.g.,
+patient has not been receiving samples or coupons or
+other types of waivers in order to obtain access to
+Rinvoq).
+B) If the patient has met criterion 8Ai (the standard
+Inflammatory Conditions – Rinvoq/LQ Prior Authorization
+Policy criteria), but criterion 8Aii is not met: offer to review
+for one of the following Products using the respective
+standard Inflammatory Conditions – Prior Authorization
+Policy criteria:
+i. Ankylosing Spondylitis: Enbrel, adalimumab-adbm,
+Cyltezo, adalimumab-adaz, adalimumab-ryvk, Simlandi,
+or Taltz.
+ii. Crohn’s Disease: adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Omvoh
+subcutaneous, Skyrizi subcutaneous (on-body injector),
+Stelara subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Tremfya subcutaneous, or Zymfentra.
+iii. Juvenile Idiopathic Arthritis: Enbrel, adalimumab-
+adbm, Cyltezo, adalimumab-adaz, adalimumab-ryvk, or
+Simlandi.
+iv. nr-axSpA: Cimzia or Taltz.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+v. Rheumatoid Arthritis: Enbrel, adalimumab-adbm,
+Cyltezo, adalimumab-adaz, adalimumab-ryvk, or
+Simlandi.
+vi. Psoriatic Arthritis: Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Otezla,
+Skyrizi subcutaneous (pen or syringe), Stelara
+subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Taltz, or Tremfya subcutaneous.
+vii. Ulcerative Colitis: adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Omvoh
+subcutaneous, Skyrizi subcutaneous (on-body injector),
+Stelara subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Tremfya subcutaneous, Velsipity, or
+Zymfentra.
+9. All Other Conditions. Approve Rinvoq (initial therapy for a
+duration as directed or 1 year for a patient continuing therapy)
+if the patient meets the standard Inflammatory Conditions –
+Rinvoq/LQ Prior Authorization Policy criteria.
+Rinvoq LQ 1. Juvenile Idiopathic Arthritis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Rinvoq/LQ Prior Authorization Policy criteria; AND
+ii. Patient has tried one of Enbrel or an adalimumab
+product; OR
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of Cimzia, an
+infliximab product (e.g., Remicade, biosimilars), or
+Simponi Aria also counts.
+B) If the patient has met criterion 1Ai (the standard
+Inflammatory Conditions – Rinvoq/LQ Prior Authorization
+Policy criteria), but criterion 1Aii is not met: offer to review
+for a Preferred Product (Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, or Simlandi) using the
+respective standard Inflammatory Conditions – Prior
+Authorization Policy criteria.
+2. Psoriatic Arthritis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Rinvoq/LQ Prior Authorization Policy criteria; AND
+ii. Patient has tried ONE of Enbrel or an adalimumab
+product; OR
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of Cimzia, an
+infliximab product (e.g., Remicade, biosimilars), or
+Simponi (Aria or subcutaneous) also counts.
+B) If the patient has met criterion 2Ai (the standard
+Inflammatory Conditions – Rinvoq/LQ Prior Authorization
+Policy criteria), but criterion 2Aii is not met: offer to review
+for a Preferred Product (Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Otezla,
+Skyrizi subcutaneous [pen or syringe], Stelara
+subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Taltz, or Tremfya subcutaneous) using the
+respective standard Inflammatory Conditions Prior
+Authorization Policy criteria.
+3. Juvenile Idiopathic Arthritis or Psoriatic Arthritis –
+Patient is Currently Receiving Rinvoq/LQ.
+A) Approve for 1 year if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Rinvoq/LQ Prior Authorization Policy criteria; AND
+ii. Patient meets ONE of the following (a, b, or c):
+a) Patient has Juvenile Idiopathic Arthritis and has tried
+ONE of Enbrel or an adalimumab product; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of Cimzia, an infliximab product (e.g.,
+Remicade, biosimilars), or Simponi Aria also counts.
+b) Patient has Psoriatic Arthritis and has tried ONE of
+Enbrel or an adalimumab product; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of Cimzia, an infliximab product (e.g.,
+Remicade, biosimilars), or Simponi (Aria or
+subcutaneous) also counts.
+c) Patient has been established on Rinvoq/LQ for at least
+90 days and prescription claims history indicates at
+least a 90-day supply of Rinvoq/LQ was dispensed
+within the past 130 days [verification in
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+prescription claims history required], or if claims
+history is not available, according to the prescriber
+[verification by prescriber required].
+Note: In cases when 130 days of the patient’s
+prescription claim history file is unavailable to be
+verified, an exception to this requirement is allowed if
+the prescriber has verified that the patient has been
+receiving Rinvoq/LQ for at least 90 days AND the
+patient has been receiving Rinvoq/LQ via paid claims
+(e.g., patient has not been receiving samples or
+coupons or other types of waivers in order to obtain
+access to Rinvoq/LQ).
+B) If the patient has met criterion 3Ai (the standard
+Inflammatory Conditions – Rinvoq/LQ Prior Authorization
+Policy criteria but criterion 3Aii is not met: offer to review
+for one of the following Products using the respective
+standard Inflammatory Conditions – Prior Authorization
+Policy criteria:
+i. Juvenile Idiopathic Arthritis: Enbrel, adalimumab-
+adbm, Cyltezo, adalimumab-adaz, adalimumab-ryvk, or
+Simlandi.
+ii. Psoriatic Arthritis: Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Otezla,
+Skyrizi subcutaneous (pen or syringe), Stelara
+subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Taltz, or Tremfya subcutaneous.
+4. Other Conditions. Approve Rinvoq LQ (initial therapy for a
+duration as directed or 1 year for a patient continuing therapy)
+if the patient meets the standard Inflammatory Conditions –
+Rinvoq/LQ Prior Authorization Policy criteria.
+Xeljanz 1. Ankylosing Spondylitis – Initial Therapy.
+tablets, A) Approve for 6 months if the patient meets BOTH of the
+Xeljanz XR following (i and ii):
+tablets i. Patient meets the standard Inflammatory Conditions –
+Xeljanz/XR Prior Authorization Policy criteria; AND
+ii. Patient has tried one of Enbrel or an adalimumab
+product.
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of Cimzia, an
+infliximab product (e.g., Remicade, biosimilars), or
+Simponi (Aria or subcutaneous) also counts.
+B) If the patient has met criterion 1Ai (the standard
+Inflammatory Conditions – Xeljanz/XR Prior Authorization
+Policy criteria), but criterion 1Aii is not met: offer to review
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+for a Preferred Product (Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, or Taltz)
+using the respective standard Inflammatory Conditions Prior
+Authorization Policy criteria.
+2. Rheumatoid Arthritis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Xeljanz/XR Prior Authorization Policy criteria; AND
+ii. Patient has tried one of Enbrel or an adalimumab
+product.
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of Cimzia, an
+infliximab product (e.g., Remicade, biosimilars), or
+Simponi (Aria or subcutaneous) also counts.
+B) If the patient has met criterion 2Ai (the standard
+Inflammatory Conditions – Xeljanz/XR Prior Authorization
+Policy criteria), but criterion 2Aii is not met: offer to review
+for a Preferred Product (Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, or Simlandi) using the
+respective standard Inflammatory Conditions Prior
+Authorization Policy criteria.
+3. Juvenile Idiopathic Arthritis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Xeljanz/XR Prior Authorization Policy criteria; AND
+ii. Patient has tried one of Enbrel or an adalimumab
+product.
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of Cimzia, an
+infliximab product (e.g., Remicade, biosimilars), or
+Simponi Aria also counts.
+B) If the patient has met criterion 3Ai (the standard
+Inflammatory Conditions – Xeljanz/XR Prior Authorization
+Policy criteria), but criterion 3Aii is not met: offer to review
+for a Preferred Product (Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, or Simlandi) using the
+respective standard Inflammatory Conditions – Prior
+Authorization Policy criteria.
+4. Psoriatic Arthritis – Initial Therapy.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Xeljanz/XR Prior Authorization Policy criteria; AND
+ii. Patient has tried ONE of Enbrel or an adalimumab
+product.
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of Cimzia, an
+infliximab product (e.g., Remicade, biosimilars), or
+Simponi (Aria or subcutaneous) also counts.
+B) If the patient has met criterion 4Ai (the standard
+Inflammatory Conditions – Xeljanz/XR Prior Authorization
+Policy criteria), but criterion 4Aii is not met: offer to review
+for a Step 1 Product (Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Otezla,
+Skyrizi subcutaneous [pen or syringe], Stelara
+subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Taltz, or Tremfya subcutaneous) using the
+respective standard Inflammatory Conditions Prior
+Authorization Policy criteria.
+5. Ulcerative Colitis – Initial Therapy.
+A) Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Xeljanz/XR Prior Authorization Policy criteria; AND
+ii. Patient has tried ONE adalimumab product.
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of an infliximab
+product (e.g., Remicade, biosimilars; Zymfentra) or
+Simponi subcutaneous also counts.
+B) If the patient has met criterion 5Ai (the standard
+Inflammatory Conditions – Xeljanz/XR Prior Authorization
+Policy criteria), but criterion 5Aii is not met: offer to review
+for a Preferred Product (adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Omvoh
+subcutaneous, Skyrizi subcutaneous (on-body injector),
+Stelara subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Tremfya subcutaneous, Velsipity, or
+Zymfentra) using the respective standard Inflammatory
+Conditions Prior Authorization Policy criteria.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+6. Ankylosing Spondylitis, Rheumatoid Arthritis, Juvenile
+Idiopathic Arthritis, Psoriatic Arthritis, or Ulcerative
+Colitis – Patient is Currently Receiving Xeljanz/XR.
+A) Approve for 1 year if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Xeljanz/XR Prior Authorization Policy criteria; AND
+ii. Patient meets ONE of the following (a, b, c, d, e, or f):
+a) Patient has Ankylosing Spondylitis and has tried ONE
+of Enbrel or an adalimumab product; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of Cimzia, an infliximab product (e.g.,
+Remicade, biosimilars), or Simponi (Aria or
+subcutaneous) also counts.
+b) Patient has Rheumatoid Arthritis and has tried one of
+Enbrel or an adalimumab product; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of Cimzia, an infliximab product (e.g.,
+Remicade, biosimilars), or Simponi (Aria or
+subcutaneous) also counts.
+c) Patient has Juvenile Idiopathic Arthritis and has tried
+ONE of Enbrel or an adalimumab product; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of Cimzia, an infliximab product (e.g.,
+Remicade, biosimilars) or Simponi Aria also counts.
+d) Patient has Psoriatic Arthritis and has tried ONE of
+Enbrel or an adalimumab product; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of Cimzia, an infliximab product (e.g.,
+Remicade, biosimilars), or Simponi (Aria or
+subcutaneous) also counts.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+e) Patient has Ulcerative Colitis and has tried ONE
+adalimumab product; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of an infliximab product (e.g.,
+Remicade, biosimilars; Zymfentra) or Simponi
+subcutaneous also counts.
+f) Patient has been established on Xeljanz/XR for at least
+90 days and prescription claims history indicates at
+least a 90-day supply of Xeljanz/XR was dispensed
+within the past 130 days [verification in
+prescription claims history required], or if claims
+history is not available, according to the prescriber
+[verification by prescriber required]; OR
+Note: In cases when 130 days of the patient’s
+prescription claim history file is unavailable to be
+verified, an exception to this requirement is allowed if
+the prescriber has verified that the patient has been
+receiving Xeljanz/XR for at least 90 days AND the
+patient has been receiving Xeljanz/XR via paid claims
+(e.g., patient has not been receiving samples or
+coupons or other types of waivers in order to obtain
+access to Xeljanz/XR).
+B) If the patient has met criterion 6Ai (the standard
+Inflammatory Conditions – Xeljanz/XR Prior Authorization
+Policy criteria but criterion 6Aii is not met: offer to review
+for one of the following Products using the respective
+standard Inflammatory Conditions Prior Authorization Policy
+criteria:
+i. Ankylosing Spondylitis: Enbrel, adalimumab-adbm,
+Cyltezo, adalimumab-adaz, adalimumab-ryvk, Simlandi,
+or Taltz.
+ii. Rheumatoid Arthritis: Enbrel, adalimumab-adbm,
+Cyltezo, adalimumab-adaz, adalimumab-ryvk, or
+Simlandi.
+iii. Juvenile Idiopathic Arthritis: Enbrel, adalimumab-
+adbm, Cyltezo, adalimumab-adaz, adalimumab-ryvk, or
+Simlandi.
+iv. Psoriatic Arthritis: Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Otezla,
+Skyrizi subcutaneous (pen or syringe), Stelara
+subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Taltz, or Tremfya subcutaneous.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+v. Ulcerative Colitis: adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, Simlandi, Omvoh
+subcutaneous, Skyrizi subcutaneous (on-body injector),
+Stelara subcutaneous, Imuldosa subcutaneous, Selarsdi
+subcutaneous, ustekinumab-ttwe subcutaneous, Yesintek
+subcutaneous, Tremfya subcutaneous, Velsipity, or
+Zymfentra.
+7. Other Conditions. Approve Xeljanz/XR (initial therapy for a
+duration as directed or 1 year for a patient continuing therapy)
+if the patient meets the standard Inflammatory Conditions –
+Xeljanz/XR Prior Authorization Policy criteria.
+Xeljanz 1. Juvenile Idiopathic Arthritis – Initial Therapy.
+oral A) Approve for 6 months if the patient meets BOTH of the
+solution following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Xeljanz/XR Prior Authorization Policy criteria; AND
+ii. Patient has tried one of Enbrel or an adalimumab
+product; OR
+Note: Examples of adalimumab products include Humira,
+Abrilada, adalimumab-adaz, adalimumab-adbm,
+adalimumab-fkjp, adalimumab-aaty, adalimumab-ryvk,
+Simlandi, Amjevita, Cyltezo, Hadlima, Hulio, Hyrimoz,
+Idacio, Yuflyma, and Yusimry. A trial of Cimzia, an
+infliximab product (e.g., Remicade, biosimilars), or
+Simponi Aria also counts.
+B) If the patient has met criterion 1Ai (the standard
+Inflammatory Conditions – Xeljanz/XR Prior Authorization
+Policy criteria), but criterion 1Aii is not met: offer to review
+for a Preferred Product (Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, or Simlandi) using the
+respective standard Inflammatory Conditions – Prior
+Authorization Policy criteria.
+2. Juvenile Idiopathic Arthritis – Patient is Currently
+Receiving Xeljanz.
+A) Approve for 1 year if the patient meets BOTH of the
+following (i and ii):
+i. Patient meets the standard Inflammatory Conditions –
+Xeljanz/XR Prior Authorization Policy criteria; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has Juvenile Idiopathic Arthritis and has tried
+one of Enbrel or an adalimumab product; OR
+Note: Examples of adalimumab products include
+Humira, Abrilada, adalimumab-adaz, adalimumab-
+adbm, adalimumab-fkjp, adalimumab-aaty,
+adalimumab-ryvk, Simlandi, Amjevita, Cyltezo,
+Hadlima, Hulio, Hyrimoz, Idacio, Yuflyma, and
+Yusimry. A trial of Cimzia, an infliximab product (e.g.,
+Remicade, biosimilars), or Simponi Aria also counts.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+b) Patient has been established on Xeljanz for at least 90
+days and prescription claims history indicates at least
+a 90-day supply of Xeljanz was dispensed within the
+past 130 days [verification in prescription claims
+history required], or if claims history is not
+available, according to the prescriber [verification by
+prescriber required]; OR
+Note: In cases when 130 days of the patient’s
+prescription claim history file is unavailable to be
+verified, an exception to this requirement is allowed if
+the prescriber has verified that the patient has been
+receiving Xeljanz for at least 90 days AND the patient
+has been receiving Xeljanz via paid claims (e.g.,
+patient has not been receiving samples or coupons or
+other types of waivers in order to obtain access to
+Xeljanz).
+B) If the patient has met criterion 2Ai (the standard
+Inflammatory Conditions – Xeljanz/XR Prior Authorization
+Policy criteria but criterion 2Aii is not met: offer to review
+for a Preferred Product (Enbrel, adalimumab-adbm, Cyltezo,
+adalimumab-adaz, adalimumab-ryvk, or Simlandi) using the
+respective standard Inflammatory Conditions – Prior
+Authorization Policy criteria.
+3. Other Conditions. Approve Xeljanz oral solution (initial
+therapy for a duration as directed or 1 year for a patient
+continuing therapy) if the patient meets the standard
+Inflammatory Conditions – Xeljanz/XR Prior Authorization Policy
+criteria.
+Phosphodiesterase Type 4 Inhibitor
+Otezla All Conditions. Approve Otezla (initial therapy for a duration as
+directed or 1 year for a patient continuing therapy) if the patient
+meets the standard Inflammatory Conditions – Otezla Prior
+Authorization Policy criteria.
+Sphingosine 1-Phosphate Receptor Modulator
+Velsipity All Conditions. Approve Velsipity if the patient meets the
+standard Inflammatory Conditions – Velsipity Prior Authorization
+Policy criteria.
+Zeposia All Conditions. Approve Zeposia if the patient meets the standard
+Multiple Sclerosis and Ulcerative Colitis – Zeposia Preferred
+Specialty Management Policy criteria.
+Tyrosine Kinase 2 Inhibitor
+Sotyktu All Conditions. Approve Sotyktu (initial therapy for a duration as
+directed or 1 year for a patient continuing therapy) if the patient
+meets the standard Inflammatory Conditions – Sotyktu Prior
+Authorization Policy criteria.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+REFERENCES
+1. Actemra® intravenous infusion and subcutaneous injection [prescribing information]. South San
+Francisco, CA: Genentech; August 2025.
+2. Cimzia® subcutaneous injection [prescribing information]. Smyrna, GA: UCB; September 2024.
+3. Cosentyx® intravenous infusion and subcutaneous injection [prescribing information]. East
+Hanover, NJ: Novartis; August 2025.
+4. Enbrel® subcutaneous injection [prescribing information]. Thousand Oaks, CA: Amgen; October
+2024.
+5. Humira® subcutaneous injection [prescribing information]. North Chicago, IL: AbbVie; July 2025.
+6. Kevzara™ subcutaneous injection [prescribing information]. Tarrytown, NY: Sanofi-Aventis; May
+2025.
+7. Kineret® subcutaneous injection [prescribing information]. Thousand Oaks, CA: Swedish Orphan
+Biovitrium; September 2024.
+8. Orencia® intravenous infusion and subcutaneous injection [prescribing information]. Princeton, NJ:
+Bristol-Myers Squibb; October 2024.
+9. Otezla® tablets [prescribing information]. Thousand Oaks, CA: Amgen; April 2024.
+10. Remicade® intravenous injection [prescribing information]. Malvern, PA: Janssen Biotech;
+February 2025.
+11. Siliq™ subcutaneous injection [prescribing information]. Dublin, Ireland: Bausch Health; August
+2024.
+12. Simponi® subcutaneous injection [prescribing information]. Horsham, PA: Janssen Biotech; April
+2025.
+13. Simponi™ Aria® intravenous injection [prescribing information]. Horsham, PA: Janssen Biotech;
+April 2025.
+14. Stelara® intravenous infusion and subcutaneous injection [prescribing information]. Horsham, PA:
+Janssen Biotech; June 2025.
+15. Taltz® subcutaneous injection [prescribing information]. Indianapolis, IN: Eli Lilly; August 2024.
+16. Tremfya™ intravenous infusion and subcutaneous injection [prescribing information]. Horsham, PA:
+Janssen Biotech; March 2025.
+17. Xeljanz®/Xeljanz XR tablets/extended release tablets [prescribing information]. New York, NY:
+Pfizer; February 2025.
+18. Ilumya™ subcutaneous injection [prescribing information]. Whitehouse Station, NJ: Sun/Merck;
+November 2024.
+19. Rinvoq® tablets/Rinvoq LQ oral solution [prescribing information]. North Chicago, IL: AbbVie; April
+2025.
+20. Zeposia® capsules [prescribing information]. Summit, NJ: Celgene; August 2024.
+21. Sotyktu™ tablets [prescribing information]. Princeton, NJ: Bristol Myers Squibb; September 2022.
+22. Velsipity® tablets [prescribing information]. New York, NY: Pfizer; August 2025.
+23. Omvoh™ intravenous infusion and subcutaneous injection [prescribing information]. Indianapolis,
+IN: Eli Lilly; January 2025.
+24. Entyvio® intravenous infusion and subcutaneous injection [prescribing information]. Lexington, MA:
+Takeda; May 2024.
+25. Zymfentra™ subcutaneous injection [prescribing information]. Yeonsu-gu, Incheon: Celltrion; May
+2025.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Effective 01/01/2025 10/30/202
+Revision A descriptor of Choice/Alternate was added to the policy name. 4
+Humira: Throughout the policy, NDCs starting with 00074 were
+removed from the Preferred Products. A previous trial of these NDCs
+counts towards a trial of an adalimumab product.
+Hyrimoz: Throughout the policy, NDCs starting with 61314 were
+removed from the Preferred Products. A previous trial of these NDCs
+counts towards a trial of an adalimumab product.
+Tremfya Subcutaneous: For Ulcerative Colitis, Tremfya
+subcutaneous was added as a Preferred Product.
+Omvoh Subcutaneous: For Ulcerative Colitis, Omvoh subcutaneous
+was moved from Step 2a to Preferred (Step 1).
+Cimzia: For Rheumatoid Arthritis, Ankylosing Spondylitis,
+Psoriatic Arthritis, Plaque Psoriasis, and Crohn’s Disease, Humira
+(NDCs starting with 00074) and Hyrimoz (NDCs starting with 61314)
+were removed from the Preferred Products. For Juvenile Idiopathic
+Arthritis, Cimzia was added to Step 3a. Documentation of a trial of two
+Step 1 or 2a Products is required. A trial of a tocilizumab intravenous
+product (Actemra intravenous, biosimilar), Kevzara, Orencia intravenous
+or subcutaneous, an infliximab product (e.g., Remicade, biosimilars), or
+Simponi Aria also counts. For Psoriatic Arthritis and Plaque
+Psoriasis, it was clarified that Tremfya is the subcutaneous formulation.
+Simponi Subcutaneous: For Rheumatoid Arthritis, Ankylosing
+Spondylitis, Psoriatic Arthritis, and Ulcerative Colitis, Humira (NDCs
+starting with 00074) and Hyrimoz (NDCs starting with 61314) were
+removed from the Preferred Products. For Psoriatic Arthritis, it was
+clarified that Tremfya is the subcutaneous formulation. For Ulcerative
+Colitis, Tremfya subcutaneous and Omvoh subcutaneous were added as
+Preferred Products.
+Actemra Subcutaneous and Tyenne Subcutaneous: For
+Rheumatoid Arthritis and Polyarticular Juvenile Idiopathic
+Arthritis, Humira (NDCs starting with 00074) and Hyrimoz (NDCs
+starting with 61314) were removed from the Preferred Products. For
+Polyarticular Juvenile Idiopathic Arthritis, Cimzia was added as an
+agent that counts towards a trial of a Preferred Product.
+Kevzara: For Rheumatoid Arthritis and Juvenile Idiopathic
+Arthritis, Humira (NDCs starting with 00074) and Hyrimoz (NDCs
+starting with 61314) were removed from the Preferred Products. For
+Juvenile Idiopathic Arthritis, Cimzia was added as an agent that
+counts towards a trial of a Preferred Product.
+Bimzelx: For Ankylosing Spondylitis, Non-Radiographic
+Spondyloarthritis, and Psoriatic Arthritis, Bimzelx was added to Step
+2a and requests are directed to a trial of one Step 1 Product. For Plaque
+Psoriasis, Humira (NDCs starting with 00074) and Hyrimoz (NDCs
+starting with 61314) were removed from the Preferred Products.
+Cosentyx Subcutaneous: For Ankylosing Spondylitis, Psoriatic
+Arthritis, and Plaque Psoriasis, Humira (NDCs starting with 00074)
+and Hyrimoz (NDCs starting with 61314) were removed from the
+Preferred Products. For Psoriatic Arthritis and Plaque Psoriasis, it
+was clarified that Tremfya is the subcutaneous formulation.
+Siliq: For Plaque Psoriasis, Humira (NDCs starting with 00074) and
+Hyrimoz (NDCs starting with 61314) were removed from the Preferred
+Products, and it was clarified that Tremfya is the subcutaneous
+formulation.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+Ilumya: For Plaque Psoriasis, Humira (NDCs starting with 00074) and
+Hyrimoz (NDCs starting with 61314) were removed from the Preferred
+Products, and it was clarified that Tremfya is the subcutaneous
+formulation.
+Entyvio Subcutaneous: For Crohn’s Disease and Ulcerative Colitis,
+Humira (NDCs starting with 00074) and Hyrimoz (NDCs starting with
+61314) were removed from the Preferred Products. For Ulcerative
+Colitis, Tremfya subcutaneous was added as a Preferred Product; a
+previous trial of Tremfya intravenous also counts.
+Kineret: For Rheumatoid Arthritis, Humira (NDCs starting with
+00074) and Hyrimoz (NDCs starting with 61314) were removed from the
+Preferred Products.
+Orencia Subcutaneous: For Rheumatoid Arthritis, Juvenile
+Idiopathic Arthritis, and Psoriatic Arthritis, Humira (NDCs starting
+with 00074) and Hyrimoz (NDCs starting with 61314) were removed from
+the Preferred Products. For Juvenile Idiopathic Arthritis, Cimzia was
+added as an agent that counts towards a trial of a Preferred Product. For
+Psoriatic Arthritis, it was clarified that Tremfya is the subcutaneous
+formulation; for a patient ≥ 18 years of age, Cosentyx and Bimzelx were
+added as agents that count towards a trial of a Preferred Product.
+Olumiant: For Rheumatoid Arthritis, Humira (NDCs starting with
+00074) and Hyrimoz (NDCs starting with 61314) were removed from the
+Preferred Products.
+Rinvoq: For Rheumatoid Arthritis, Ankylosing Spondylitis,
+Juvenile Idiopathic Arthritis, Psoriatic Arthritis, Crohn’s Disease,
+and Ulcerative Colitis, Humira (NDCs starting with 00074) and Hyrimoz
+(NDCs starting with 61314) were removed from the Preferred Products.
+For Juvenile Idiopathic Arthritis, Cimzia was added as an agent that
+counts towards a trial of a Preferred Product. For Psoriatic Arthritis, it
+was clarified that Tremfya is the subcutaneous formulation. For
+Ulcerative Colitis, Tremfya subcutaneous and Omvoh subcutaneous
+were added as Preferred Products.
+Rinvoq LQ: For Juvenile Idiopathic Arthritis and Psoriatic Arthritis,
+Humira (NDCs starting with 00074) and Hyrimoz (NDCs starting with
+61314) were removed from the Preferred Products. For Juvenile
+Idiopathic Arthritis, Cimzia was added as an agent that counts towards
+a trial of a Preferred Product. For Psoriatic Arthritis, it was clarified
+that Tremfya is the subcutaneous formulation.
+Xeljanz/Xeljanz XR: For Rheumatoid Arthritis, Ankylosing
+Spondylitis, Juvenile Idiopathic Arthritis (Xeljanz tablets only),
+Psoriatic Arthritis, and Ulcerative Colitis, Humira (NDCs starting with
+00074) and Hyrimoz (NDCs starting with 61314) were removed from the
+Preferred Products. For Juvenile Idiopathic Arthritis, Cimzia was
+added as an agent that counts towards a trial of a Preferred Product. For
+Psoriatic Arthritis, it was clarified that Tremfya is the subcutaneous
+formulation. For Ulcerative Colitis, Tremfya subcutaneous and Omvoh
+subcutaneous were added as Preferred Products.
+Xeljanz Oral Solution: For Juvenile Idiopathic Arthritis, Humira
+(NDCs starting with 00074) and Hyrimoz (NDCs starting with 61314)
+were removed from the Preferred Products. For Juvenile Idiopathic
+Arthritis, Cimzia was added as an agent that counts towards a trial of a
+Preferred Product.
+Velsipity: For Ulcerative Colitis, Humira (NDCs starting with 00074)
+and Hyrimoz (NDCs starting with 61314) were removed from the
+Preferred Products; Tremfya subcutaneous was added as a Preferred
+Product; a previous trial of Tremfya intravenous also counts.
+Selected Effective 01/01/2025. 11/20/202
+Revision Velsipity: For Ulcerative Colitis, Velsipity was added as a Preferred 4
+Product.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+Simponi Subcutaneous: For Ulcerative Colitis, Velsipity was added
+as a Preferred Product.
+Rinvoq: For Ulcerative Colitis, Velsipity was added as a Preferred
+Product.
+Xeljanz/XR: For Ulcerative Colitis, Velsipity was added as a Preferred
+Product.
+Entyvio Subcutaneous: For Ulcerative Colitis, Velsipity was added as
+a Preferred Product.
+Selected Effective 01/01/2025. 12/04/202
+Revision Hidradenitis Suppurativa was added as a targeted indication in this 5
+policy. Adalimumab products (Cyltezo/adalimumab-adbm, adalimumab-
+adaz, Simlandi/adalimumab-ryvk) and Cosentyx subcutaneous are
+Preferred Products for Hidradenitis Suppurativa; Bimzelx was added to
+Step 2b and is directed to a trial of one Preferred Product.
+Selected Omvoh subcutaneous was added as a Preferred Product for Crohn’s 01/29/202
+Revision Disease. Criteria for Cimzia, Rinvoq, and Entyvio subcutaneous were 5
+updated to include Omvoh subcutaneous as a Preferred Product. For
+Entyvio subcutaneous, a previous trial of Omvoh intravenous also counts.
+Selected For Psoriatic Arthritis, Plaque Psoriasis, Crohn’s Disease, and Ulcerative 03/12/202
+Revision Colitis, Selarsdi subcutaneous, ustekinumab-ttwe subcutaneous, and 5
+Yesintek subcutaneous were added as Preferred ustekinumab
+subcutaneous products. The criteria for the following Non-Preferred
+Products were updated to include these Preferred ustekinumab products:
+Ilumya, Siliq, Entyvio subcutaneous, Rinvoq LQ, Rinvoq, Xeljanz, Bimzelx,
+Cimzia, Simponi subcutaneous, Cosentyx subcutaneous, and Orencia
+subcutaneous. Throughout the policy, the requirement of a previous trial
+of Stelara subcutaneous was changed to more generally refer to a
+ustekinumab subcutaneous product; a note was added indicating that a
+trial of multiple ustekinumab products counts as one product. For
+Crohn’s Disease and Ulcerative Colitis, the note that refers to a previous
+trial of Stelara intravenous was changed to more generally refer to an
+intravenous ustekinumab product.
+Selected Effective 04/18/2025. 04/02/202
+Revision Tremfya subcutaneous (SC) was added as a Preferred Product for Crohn’s 5
+Disease. Criteria for Cimzia, Rinvoq, and Entyvio SC were updated to
+include Tremfya SC as a Preferred Product. For Entyvio SC, a previous
+trial of Tremfya intravenous also counts.
+Selected Added a footnote to the table of Preferred and Non-preferred products 06/04/202
+Revision that Stelara is non-preferred for some plans. Therefore, the 5
+Inflammatory Conditions – Ustekinumab Subcutaneous Products
+Preferred Specialty Management Policy for National Preferred, High
+Performance, and Basic Formularies – Alternate or the Choice version of
+that policy should be referenced. Throughout the policy, a note was
+added to list examples of ustekinumab products which include Stelara,
+ustekinumab (unbranded Stelara), Imuldosa, Otulfi, Pyzchiva,
+ustekinumab-ttwe, Selarsdi, ustekinumab-aekn, Starjemza, Steqeyma,
+Wezlana, and Yesintek.
+Selected Cimzia: For Crohn’s Disease, a patient is directed to one Step 1 08/06/202
+Revision Product; previously, a patient was directed to adalimumab specifically. A 5
+previous trial of an infliximab intravenous product, Omvoh intravenous,
+Skyrizi intravenous, Tremfya intravenous, or an ustekinumab intravenous
+product also counts.
+Simponi Subcutaneous: For Ulcerative Colitis, a patient is directed
+to one Step 1 Product; previously, a patient was directed to adalimumab
+specifically. A previous trial of an infliximab intravenous product, Omvoh
+intravenous, Skyrizi intravenous, Tremfya intravenous, or an
+ustekinumab intravenous product also counts.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+Cosentyx SC: For Psoriatic Arthritis, Otezla was added as an agent
+that counts towards a trial of a Preferred Product for patients < 18 years
+of age.
+Orencia SC: For Psoriatic Arthritis, Otezla was added as an agent that
+counts towards a trial of a Preferred Product for patients < 18 years of
+age.
+Early Effective 10/01/2025. 09/10/202
+Annual For Psoriatic Arthritis, Plaque Psoriasis, Crohn’s Disease, and 5
+Revision Ulcerative Colitis, Imuldosa subcutaneous (SC) was added as Preferred
+ustekinumab SC product. The criteria for the following Non-Preferred
+Products were updated to include Imuldosa SC as a Preferred product:
+Cimzia, Simponi SC, Bimzelx, Cosentyx SC, Siliq, Ilumya, Entyvio SC,
+Orencia SC, Rinvoq, Rinvoq LQ, and Xeljanz/XR.
+APPENDIX A
+Table 1. Approved TNFis for Targeted Indications.*
+Rheumatology Dermatology Gastroenterology
+RA JIA AS nr- PsA HS PsO CD UC
+axSpA
+Tumor Necrosis Factor Inhibitors
+Cimzia √ √ √ √ √ -- √ √ --
+Enbrel √ √ √ -- √ -- √ -- --
+Adalimumab
+Products
+√ √ √ -- √ √ √ √ √
+(Humira,
+biosimilars)
+Infliximab --
+Intravenous √ -- √ -- √ √ √ √
+Products
+Zymfentra -- -- -- -- -- -- -- √^ √^
+Simponi --
+√ -- √ -- √ -- -- √
+Subcutaneous
+Simponi Aria √ √ √ -- √ -- -- -- --
+TNFis – Tumor necrosis factor inhibitors; * Refer to the selected standard Inflammatory Conditions Prior
+Authorization Policies for the specific patient population approved for each indication; RA – Rheumatoid
+arthritis; JIA – Juvenile idiopathic arthritis; AS – Ankylosing spondylitis; nr-axSpA – Non-radiographic
+spondyloarthritis; PsA – Psoriatic arthritis; HS – Hidradenitis suppurativa; PsO – Plaque psoriasis; CD –
+Crohn’s disease; UC – Ulcerative colitis; ^ Maintenance dosing only.
+Table 2. Approved IL-17, IL-23, and IL-12/23 Blockers for Targeted Indications.*
+Rheumatology Dermatology Gastroenterology
+Ankylosi Psoriati
+Ulcerati
+ng nr- c Plaque Crohn’s
+HS ve
+Spondyli axSpA Arthriti Psoriasis Disease
+Colitis
+tis s
+Interleukin-17 Blockers
+Bimzelx √ √ √ √ √ -- --
+Cosentyx √ √ √ √ √ -- --
+Subcutaneous
+Cosentyx √ √ √ -- -- -- --
+Intravenous
+Siliq -- -- -- -- √ -- --
+Taltz √ √ √ -- √ -- --
+Interleukin-23 Blockers
+Ilumya -- -- -- -- √ √ --
+Omvoh -- -- -- -- -- √# √#
+Intravenous
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+Omvoh -- -- -- -- -- √^ √^
+Subcutaneous
+Skyrizi -- -- -- -- -- √# √#
+Intravenous
+Skyrizi -- -- √ -- √ √^ √^
+Subcutaneous
+Tremfya -- -- -- -- -- √# √#
+Intravenous
+Tremfya -- -- √ -- √ √µ √^
+Subcutaneous
+Interleukin-12/23 Blockers
+Stelara -- -- √ -- √ √^ √^
+Subcutaneous
+Stelara -- -- -- -- -- √# √#
+Intravenous
+IL – Interleukin; * Refer to the selected standard Prior Authorization Policies for the specific patient
+population approved for each indication; nr-axSpA – Non-radiographic spondyloarthritis; HS –
+Hidradenitis suppurativa; ^ Maintenance dosing only; # Induction dosing only; µ Induction and
+maintenance dosing.
+Table 3. Approved Oral tsDMARDs for Targeted Indications.*
+Dermatol
+Rheumatology Gastroenterology
+ogy
+nr- UC
+RA JIA AS PsA PsO CD
+axSpA
+Janus Kinases Inhibitors
+Olumia
+√ -- -- -- -- -- -- --
+nt
+Rinvoq √ √ √ √ √ -- √ √
+Rinvoq
+-- √ -- √ -- -- -- --
+LQ
+Xeljanz
+√ √# √ -- √ -- -- √
+tablets
+Xeljanz
+oral
+-- √# -- -- -- -- -- --
+solutio
+n
+Xeljanz
+√ -- √ -- √ -- -- √
+XR
+Phosphodiesterase Type 4 Inhibitor
+Otezla -- -- -- -- √ √ -- --
+Sphingosine 1-Phosphate Receptor Modulator
+Velsipit -- -- -- -- -- -- -- √
+y
+Zeposi -- -- -- -- -- -- -- √
+a
+Tyrosine Kinase 2 Inhibitor
+Sotykt -- -- -- -- -- √ -- --
+u
+tsDMARDs – Targeted synthetic disease-modifying antirheumatic drugs; * Refer to the selected standard
+Prior Authorization Policies for the specific patient population approved for each indication; RA –
+Rheumatoid arthritis; JIA – Juvenile idiopathic arthritis; AS – Ankylosing spondylitis; nr-axSpA –
+Nonradiographic axial spondyloarthritis; PsA – Psoriatic arthritis; PsO – Plaque psoriasis; CD – Crohn’s
+disease; UC – Ulcerative colitis; # Indicated in polyarticular JIA.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate
+Table 4. Other Approved Biologics for Targeted Indications.*
+Rheumatology Gastroenterology
+Juvenile
+Rheumatoid Psoriatic Crohn’s Ulcerativ
+Idiopathic
+Arthritis Arthritis Disease e Colitis
+Arthritis
+Integrin Receptor Antagonist
+Entyvio Intravenous -- -- -- √ √
+Entyvio Subcutaneous -- -- -- √¥ √¥
+Interleukin-6 Blockers
+Tocilizumab Intravenous √ √^ -- -- --
+Products (Actemra,
+biosimilar)
+Tocilizumab Subcutaneous √ √^ -- -- --
+Products (Actemra,
+biosimilar)
+Kevzara √ √ -- -- --
+Interleukin-1 Blocker
+Kineret √ -- -- -- --
+T-Cell Costimulation Modulator
+Orencia Intravenous √ √# √ -- --
+Orencia Subcutaneous √ √# √ -- --
+CD20-Directed Cytolytic Antibody
+Rituximab Intravenous √ -- -- -- --
+Products
+* Refer to the selected standard Prior Authorization Policies for the specific patient population approved
+for each indication; ^ Indicated in polyarticular and systemic JIA; # Indicated in polyarticular JIA; ¥
+Maintenance dosing only.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+75 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions Preferred Specialty Management
+Policy for National Preferred, High Performance, and Basic Formularies – Choice/Alternate

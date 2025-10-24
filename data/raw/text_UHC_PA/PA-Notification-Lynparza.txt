@@ -1,0 +1,292 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1149-13
+Program Prior Authorization/Notification
+Medication Lynparza® (olaparib)
+P&T Approval Date 2/2015, 2/2016, 12/2016, 11/2017, 3/2018, 3/2019, 2/2020, 7/2020,
+7/2021, 5/2022, 10/2022, 7/2023, 7/2024
+Effective Date 10/1/2024
+1. Background:
+Lynparza (olaparib) is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated for the
+maintenance treatment of adult patients with deleterious or suspected deleterious germline or somatic
+BRCA-mutated (gBRCAm or sBRCAm) advanced epithelial ovarian, fallopian tube or primary
+peritoneal cancer who are in complete or partial response to first-line platinum-based chemotherapy.
+Lynparza is also indicated for the maintenance treatment of adult patients with recurrent epithelial
+ovarian, fallopian tube or primary peritoneal cancer, who are in complete or partial response to
+platinum-based chemotherapy. Lynparza is also indicated in combination with bevacizumab for the
+maintenance treatment of adult patients with advanced epithelial ovarian, fallopian tube, or primary
+peritoneal cancer who are in complete or partial response to first-line platinum-based chemotherapy
+and whose cancer is associated with homologous recombination deficiency (HRD)-positive status
+defined by either: a deleterious or suspected deleterious BRCA mutation or genomic instability.
+Lynparza is also indicated in patients with deleterious or suspected deleterious gBRCAm, human
+epidermal growth factor receptor 2 (HER2)-negative high risk early, recurrent, or metastatic breast
+cancer who have been treated with chemotherapy in the neoadjuvant, adjuvant or, in the setting of
+metastatic breast cancer, the metastatic setting. Patients with hormone receptor (HR)-positive breast
+cancer should have been treated with a prior endocrine therapy or be considered inappropriate for
+endocrine treatment. The National Comprehensive Cancer Network (NCCN) also recommends
+Lynparza therapy in patients with deleterious or suspected deleterious gBRCAm human epidermal
+growth factor receptor 2 (HER2)-positive recurrent unresectable or metastatic breast cancer. Patients
+with high risk early breast cancer should continue treatment for a total of 1 year, or until disease
+recurrence, or unacceptable toxicity, whichever occurs first.
+Lynparza is indicated for the treatment of adult patients with deleterious or suspected deleterious
+germline or somatic homologous recombination repair (HRR) gene-mutated metastatic castration-
+resistant prostate cancer (mCRPC) who have progressed following prior treatment with enzalutamide
+or abiraterone. Lynparza is also indicated in combination with abiraterone and prednisone or
+prednisolone for the treatment of adult patients with deleterious or suspected deleterious BRCA-
+mutated (BRCAm) mCRPC. Patients receiving Lynparza for mCRPC should also receive a
+gonadotropin-releasing hormone (GnRH) analog concurrently or should have had a bilateral
+orchiectomy.
+Lynparza is indicated for the maintenance treatment of adult patients with deleterious or suspected
+deleterious gBRCAm metastatic pancreatic adenocarcinoma whose disease has not progressed on at
+least 16 weeks of a first-line platinum-based chemotherapy regimen.
+The NCCN also recommends Lynparza therapy in patients with uterine sarcoma as single-agent
+second-line therapy.
+© 2024 UnitedHealthcare Services, Inc.
+1
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of 19
+years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or under
+some circumstances. Some states also mandate usage of other Compendium references. Where such
+mandates apply, they supersede language in the benefit document or in the notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Lynparza will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Breast Cancer (High Risk Early Breast Cancer)
+1. Authorization
+a. Lynparza will be approved based on all of the following:
+(1) Diagnosis of high risk early breast cancer
+-AND-
+(2) Presence of deleterious or suspected deleterious germline BRCA-mutations
+(gBRCAm)
+-AND-
+(3) Disease is human growth factor receptor 2 (HER2)-negative
+-AND-
+(4) One of the following:
+i. Patient is hormone receptor (HR) negative
+-OR-
+ii. Both of the following:
+1. Patient is hormone receptor (HR) positive
+2. Patient is continuing concurrent treatment with endocrine therapy
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+2
+(5) Patient has been treated with neoadjuvant or adjuvant chemotherapy
+-AND-
+(6) Treatment duration has not exceeded 12 months of therapy
+Authorization will be issued for 12 months.
+C. Breast Cancer (Metastatic or Recurrent Breast Cancer)
+1. Initial Authorization
+a. Lynparza will be approved based on all of the following criteria:
+(1) Diagnosis of one of the following:
+(a) Metastatic breast cancer
+(b) Recurrent breast cancer
+-AND-
+(2) Presence of deleterious or suspected deleterious germline BRCA-mutations
+(gBRCAm)
+-AND-
+(3) One of the following:
+(a) Both of the following:
+1. Disease is human epidermal growth factor receptor 2 (HER2)-negative
+-AND-
+2. One of the following:
+i. Disease is hormone receptor (HR) negative
+-OR-
+ii. Both of the following:
+a. Disease is hormone receptor (HR) positive
+-AND-
+b. One of the following:
+• Disease has progressed on previous endocrine therapy
+• Provider attestation that treatment with endocrine therapy is
+inappropriate
+© 2024 UnitedHealthcare Services, Inc.
+3
+-OR-
+(b) Disease is human epidermal growth factor receptor 2 (HER2)-positive
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Lynparza will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Lynparza
+therapy
+Authorization will be issued for 12 months.
+D. Ovarian Cancer (Maintenance Therapy)
+1. Initial Authorization
+a. Lynparza will be approved based on all of the following criteria:
+(1) Diagnosis of one of the following:
+(a) Epithelial ovarian cancer
+(b) Fallopian tube cancer
+(c) Primary peritoneal cancer
+-AND-
+(2) Disease is one of the following:
+(a) Advanced
+(b) Recurrent
+-AND-
+(3) One of the following:
+(a) Presence of deleterious or suspected deleterious germline or somatic
+BRCA-mutations
+-OR-
+(b) Both of the following:
+1. Cancer is associated with homologous recombination deficiency
+(HRD)-positive status defined by either a deleterious or suspected
+deleterious BRCA mutation or genomic instability
+© 2024 UnitedHealthcare Services, Inc.
+4
+-AND-
+2. Used in combination with bevacizumab (e.g., Avastin, Mvasi)
+-AND-
+(4) Patient has had a complete or partial response to platinum-based chemotherapy
+-AND-
+(5) Request is for maintenance therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Lynparza will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Lynparza
+therapy
+Authorization will be issued for 12 months.
+E. Ovarian Cancer (Treatment)
+1. Initial Authorization
+a. Lynparza will be approved based on all of the following criteria:
+(1) Diagnosis of one of the following:
+(a) Epithelial ovarian cancer
+(b) Fallopian tube cancer
+(c) Primary peritoneal cancer
+(2) Disease is one of the following:
+(a) Advanced
+(b) Persistent
+(c) Recurrent
+-AND-
+(3) Presence of deleterious or suspected deleterious germline BRCA-mutation
+-AND-
+(4) Patient has been treated with two or more prior lines of chemotherapy
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+5
+2. Reauthorization
+a. Lynparza will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Lynparza
+therapy
+Authorization will be issued for 12 months.
+F. Pancreatic Cancer
+1. Initial Authorization
+a. Lynparza will be approved based on all of the following criteria:
+(1) Diagnosis of pancreatic adenocarcinoma
+-AND-
+(2) Disease is metastatic
+-AND-
+(3) Presence of deleterious or suspected deleterious germline BRCA1/2-mutation
+-AND-
+(4) Disease has not progressed while receiving at least 16 weeks of a first-line
+platinum-based chemotherapy regimen
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Lynparza will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Lynparza
+therapy
+Authorization will be issued for 12 months.
+G. Prostate Cancer
+1. Initial Authorization
+a. Lynparza will be approved based on all of the following criteria:
+(1) Diagnosis of metastatic castration-resistant prostate cancer
+© 2024 UnitedHealthcare Services, Inc.
+6
+-AND-
+(2) One of the following:
+(a) Both of the following:
+i. Presence of deleterious or suspected deleterious germline or somatic
+homologous recombination repair (HRR) gene mutations
+-AND-
+ii. Disease has progressed following prior treatment with one of the
+following:
+1. Enzalutamide (Xtandi)
+2. Abiraterone (e.g., Zytiga, Yonsa)
+-OR-
+(b) All of the following:
+i. Presence of deleterious or suspected deleterious BRCA-mutation
+-AND-
+ii. Used in combination with abiraterone (e.g., Zytiga, Yonsa)
+-AND-
+iii. Used in combination with one of the following:
+1. Prednisone
+2. Prednisolone
+-AND-
+(3) One of the following:
+(a) Used in combination with a gonadotropin-releasing hormone (GnRH)
+analog [e.g., Lupron (leuprolide), Zoladex (goserelin), Trelstar (triptorelin),
+Vantas (histrelin), Firmagon (degarelix)]
+-OR-
+(b) Patient has had bilateral orchiectomy
+Authorization will be issued for 12 months.
+2. Reauthorization
+© 2024 UnitedHealthcare Services, Inc.
+7
+a. Lynparza will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Lynparza
+therapy
+Authorization will be issued for 12 months.
+H. Uterine Neoplasms
+1. Initial Authorization
+a. Lynparza will be approved based on both of the following criteria:
+(1) Diagnosis of uterine sarcoma
+-AND-
+(2) Not used as first-line therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Lynparza will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Lynparza
+therapy
+Authorization will be issued for 12 months.
+I. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+© 2024 UnitedHealthcare Services, Inc.
+8
+4. References:
+1. Lynparza [package insert]. Wilmington, DE: AstraZeneca Pharmaceuticals LP, Inc, November
+2023.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org/professionals/drug_compendium/content/contents.asp. Accessed June 14,
+2024.
+Program Prior Authorization/Notification – Lynparza (olaparib)
+Change Control
+2/2015 New program for Lynparza approved by FDA on 12/19/14.
+2/2016 Annual review. Revised formatting of criteria. Changed initial and
+reauthorization period to 12 months.
+10/2016 Annual review. Updated references.
+11/2017 Annual review. Updated criteria. Updated references.
+3/2018 Added breast cancer to coverage criteria.
+3/2019 Annual review. Updated criteria to reflect NCCN recommendations
+and updated prescribing information. Updated background and
+references.
+2/2020 Annual review. Added pancreatic cancer and NCCN recommended
+regimen criteria. Updated background and references.
+7/2020 Added criteria for metastatic castration resistant prostate cancer due to
+expanded indication. Separated ovarian cancer criteria into maintenance
+therapy and treatment. Updated background and references.
+7/2021 Updated criteria for breast cancer to reflect NCCN recommendations.
+Updated formatting for ovarian cancer without change in clinical intent.
+Updated background and references.
+5/2022 Added criteria for high risk early breast cancer per label. Clarified
+metastatic and recurrent breast cancer in separate criteria. Added
+criteria for uterine neoplasms per NCCN recommendations. Updated
+background and references.
+10/2022 Updated background to reflect per prescribing information a voluntary
+indication withdrawal for patients with ovarian cancer who have been
+treated with three or more prior lines of chemotherapy.
+7/2023 Added criteria for BRCA-mutated metastatic castration resistant
+prostate cancer per label. Updated background and references.
+7/2024 Annual review. Updated formatting for ovarian cancer without change
+in clinical intent. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+9

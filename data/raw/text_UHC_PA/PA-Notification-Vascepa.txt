@@ -1,0 +1,115 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1072-13
+Program Prior Authorization/Notification
+Medication Vascepa® (icosapent ethyl)*
+P&T Approval Date 7/2010, 5/2011, 4/2012, 11/2012, 8/2013, 7/2014, 7/2015, 7/2016, 7/2017,
+7/2018, 10/2019, 2/2020, 3/2021, 3/2022, 3/2023, 3/2024, 3/2025
+Effective Date 6/1/2025
+1. Background:
+Vascepa® (icosapent ethyl)* is indicated as adjunctive therapy to diet and exercise to reduce
+triglyceride (TG) levels in adult patients with severe (≥ 500 mg/dL) hypertriglyceridemia.
+Vascepa* is also indicated as an adjunct to maximally tolerated statin therapy to reduce the risk
+of myocardial infarction, stroke, coronary revascularization, and unstable angina requiring
+hospitalization in adult patients with elevated triglyceride (TG) levels (≥ 150 mg/dL) and either
+established cardiovascular disease or diabetes mellitus and 2 or more additional risk factors for
+cardiovascular disease.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Severe Hypertriglyceridemia
+a. Vascepa* will be approved based on both of the following criteria:
+1) Diagnosis of severe hypertriglyceridemia (pre-treatment triglyceride level of greater
+than or equal to 500 mg/dL)
+-AND-
+2) Patient is on an appropriate lipid-lowering diet and exercise regimen
+Authorization will be issued for 12 months
+2. Cardiovascular risk reduction
+a. Vascepa* will be approved based on all of the following criteria:
+1) Diagnosis hypertriglyceridemia (pre-treatment triglyceride level ≥ 150 mg/dL)
+-AND-
+2) Patient is receiving maximally tolerated statin therapy
+-AND-
+3) Used to reduce the risk of myocardial infarction, stroke, coronary revascularization,
+© 2025 UnitedHealthcare Services, Inc.
+1
+and unstable angina requiring hospitalization
+-AND-
+4) One of the following:
+a) Established cardiovascular disease (CVD)
+- OR-
+b) Both of the following:
+i. Diagnosis of diabetes mellitus
+-AND-
+ii. Two additional risk factors for cardiovascular disease, for example:
+1. Men ≥55 years and women ≥65 years
+2. Cigarette smoker or stopped smoking within the past 3 months
+3. Hypertension (pretreatment blood pressure ≥140 mmHg systolic or ≥90
+mmHg diastolic)
+4. HDL-C ≤40 mg/dL for men or ≤50 mg/dL for women
+5. High-sensitivity C-reactive protein >3.0 mg/L
+6. Creatinine clearance >30 and <60 mL/min
+7. Retinopathy
+8. Micro- or macro-albuminuria
+9. Ankle-brachial index (ABI) <0.9 without symptoms of intermittent
+claudication
+Authorization will be issued for 12 months
+B. Reauthorization
+1. Severe Hypertriglyceridemia
+a. Vascepa* will be approved based on both of the following criteria:
+1) Documentation of positive clinical response to therapy
+-AND-
+2) Patient is on an appropriate lipid-lowering diet and exercise regimen
+Authorization will be issued for 12 months
+2. Cardiovascular risk reduction
+a. Vascepa* will be approved based on both of the following criteria:
+© 2025 UnitedHealthcare Services, Inc.
+2
+1) Documentation of positive clinical response to therapy
+-AND-
+2) Patient is receiving maximally tolerated statin therapy
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim
+logic. Use of automated approval and re-approval processes varies by program and/or
+therapeutic class.
+*Vascepa (brand and generic) is typically excluded from coverage. Tried/Failed criteria may be in
+place. Please refer to plan specifics to determine exclusion status
+4. References:
+1. Vascepa [package insert]. Bridgewater, NJ: Amarin Pharma Inc.; September 2021.
+2. Orringer, CE, Jacobson, TA, Maki, KC. National Lipid Association Scientific Statement on
+the use of icosapent ethyl in statin-treated patients with elevated triglycerides and high or very-
+high ASCVD risk. J Clin Lipidol. 2019;13(6):860-72.
+Program Prior Authorization/Notification - Vascepa® (icosapent ethyl)
+Change Control
+Date Change
+8/2013 Removed grandfathering criteria and replaced with reauthorization
+criteria. Changed criteria to note documentation of hypertriglyceridemia
+and added criteria to require patient to be on an appropriate lipid-
+lowering diet and exercise regimen.
+7/2014 Added Omtryg and Epanova to criteria. Removed notation that
+Vascepa typically excluded from coverage.
+7/2015 Updated references. Added notation that multi-source brand Lovaza is
+typically excluded from coverage.
+7/2016 Updated to mirror indications and usage section in prescribing
+information. Added note that criteria applies to brand and generic
+Lovaza. Updated references.
+7/2017 Annual review. Updated references.
+7/2018 Annual review. Removed Epanova and Omtryg since products have
+never launched.
+10/2019 Annual review. Updated references.
+2/2020 Removed Lovaza from criteria. Added new indication for Vascepa and
+updated references.
+3/2021 Modified pre-treatment triglyceride levels for cardiovascular risk
+© 2025 UnitedHealthcare Services, Inc.
+3
+reduction. Noted that Vascepa is typically excluded from coverage.
+3/2022 Annual review. No changes.
+3/2023 Annual review. Added state mandate language. Updated references.
+3/2024 Annual review. No changes.
+3/2025 Annual review. No changes.
+© 2025 UnitedHealthcare Services, Inc.
+4

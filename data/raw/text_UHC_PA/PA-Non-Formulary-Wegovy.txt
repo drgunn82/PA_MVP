@@ -1,0 +1,125 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1445-2
+Program Prior Authorization/Non-Formulary
+Medication Wegovy® (semaglutide) - Cardiovascular Risk Reduction Only
+P&T Approval Date 4/2024, 5/2025
+Effective Date 8/1/2025
+1. Background:
+Wegovy is a glucagon-like peptide-1 (GLP-1) receptor agonist indicated in combination with
+a reduced calorie diet and increased physical activity to reduce the risk of major adverse
+cardiovascular events (cardiovascular death, non-fatal myocardial infarction, or non-fatal
+stroke) in adults with established cardiovascular disease and either obesity or overweight.
+Wegovy is also indicated to reduce excess body weight and maintain weight reduction long
+term in adults and pediatric patients aged 12 years and older with obesity, and in adults with
+overweight in the presence of at least one weight-related comorbid condition.
+Medications for the purpose of weight loss are typically a benefit exclusion. The program
+allows for coverage of Wegovy for the cardiovascular risk reduction indication.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Wegovy will be approved based on all the following criteria:
+a. Treatment is being requested to reduce the risk of major adverse cardiovascular
+events
+-AND-
+b. Patient is 45 years of age or older
+-AND-
+c. Submission of medical records documenting all the following:
+(1) BMI ≥ 27 kg/m2
+(2) Established cardiovascular disease as evidenced by one of the following:
+(a) Prior myocardial infarction (MI)
+(b) Prior ischemic or hemorrhagic stroke
+(c) Symptomatic peripheral arterial disease (PAD) evidenced by one of the
+following:
+© 2025 UnitedHealthcare Services Inc.
+1
+(i) Intermittent claudication with ankle-brachial index (ABI) less than
+0.85 (at rest)
+(ii) Peripheral arterial revascularization procedure
+(iii) Amputation due to atherosclerotic disease
+-AND-
+d. Used in combination with a reduced calorie diet and increased physical activity
+-AND-
+e. One of the following:
+(1) For patients with history of MI:
+(a) Patient is on therapy from each of the following classes unless there is a
+contraindication or intolerance:
+(i) cholesterol lowering medication (e.g., statin, PCSK9i)
+(ii) beta blocker (i.e., carvedilol, metoprolol, or bisoprolol)
+(iii) angiotensin-converting enzyme inhibitor (ACE-I), angiotensin II
+receptor blocker (ARB) or angiotensin II receptor blocker
+neprilysin inhibitor (ARNI)
+(iv) antiplatelet (e.g., aspirin, clopidogrel)
+-OR
+(2) For patients with history of ischemic or hemorrhagic stroke:
+(a) Patient is on therapy from each of the following classes unless there is a
+contraindication or intolerance:
+(i) cholesterol lowering medication (e.g., statin, PCSK9)
+(ii) angiotensin-converting enzyme inhibitor (ACE-I), angiotensin II
+receptor blocker (ARB) or angiotensin II receptor blocker neprilysin
+inhibitor (ARNI)
+(iii) antiplatelet (e.g., aspirin, clopidogrel)
+-OR-
+(3) For patients with history of symptomatic PAD:
+(a) Patient is on therapy from each of the following classes unless there is a
+contraindication or intolerance:
+(i) cholesterol lowering medication (e.g., statin, PCSK9)
+(ii) angiotensin-converting enzyme inhibitor (ACE-I), angiotensin II
+receptor blocker (ARB) or angiotensin II receptor blocker
+neprilysin inhibitor (ARNI)
+(iii) antiplatelet (e.g., aspirin, clopidogrel)
+© 2025 UnitedHealthcare Services Inc.
+2
+-AND-
+f. Patient does not have either of the following:
+(1) Diagnosis of diabetes or HgA1c > 6.5%
+(2) New York Heart Association class IV heart failure
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Wegovy will be approved based on all of the following criteria:
+a. BMI ≥ 27 kg/m2
+-AND-
+b. Used in combination with a reduced calorie diet and increased physical activity
+-AND-
+c. Patient does not have either of the following:
+(1) Diagnosis of diabetes or HgA1c > 6.5%
+(2) New York Heart Association class IV heart failure
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Supply limits may be in place.
+4. References:
+1. Wegovy [package insert]. Plainsboro, NJ: Novo Nordisk; November 2024.
+2. Smith SC Jr, Benjamin EJ, Bonow RO, Braun LT, Creager MA, Franklin BA, Gibbons RJ,
+Grundy SM, Hiratzka LF, Jones DW, Lloyd-Jones DM, Minissian M, Mosca L, Peterson ED,
+Sacco RL, Spertus J, Stein JH, Taubert KA. AHA/ACCF secondary prevention and risk
+reduction therapy for patients with coronary and other atherosclerotic vascular disease: 2011
+update: a guideline from the American Heart Association and American College of
+Cardiology Foundation. Circulation. 2011;124:2458–2473.
+3. American Heart Association/American Stroke Association Practice Guidelines. Secondary
+Prevention of Ischemic Stroke: Updated Guidelines from AHA/ASA. 2022. American
+Family Physicians. 2022; 105(1).
+© 2025 UnitedHealthcare Services Inc.
+3
+4. Dawn O. Kleindorfer, Amytis Towfighi, Seemant Chaturvedi, Kevin M. Cockroft, Jose
+Gutierrez, Debbie Lombardi-Hill, Hooman Kamel, Walter N. Kernan, Steven J. Kittner,
+Enrique C. Leira, Olive Lennon, James F. Meschia, Thanh N. Nguyen, Peter M. Pollak,
+Pasquale Santangeli, Anjail Z. Sharrief, Sidney C. Smith Jr, Tanya N. Turan and Linda S.
+Williams. 2021 Guideline for the prevention of stroke in patients with stroke and transient
+ischmic attack : a guideline from the American Heart Association/American Stroke
+Association. Stroke. 2021 ;52 :e364-e467.
+5. Pablo Alonso-Coello , MD , PhD; Sergi Bellmunt, MD; Catherine McGorrian, MBBCh, BAO;
+Sonia S. Anand, MD, PhD; Randolph Guzman, MD, RVT; Michael H. Criqui, MD, MPH;
+Elie A. Akl, MD, MPH, PhD; Per Olav Vandvik, MD, PhD; Maarten G. Lansberg, MD, PhD;
+Gordon H. Guyatt, MD, FCCP; and Frederick A. Spencer, MD. Antithrombotic therapy in
+peripheral artery disease: antithrombic therapy and prevention of thrombosis, 9th ed:
+American College of Chest Physicians evidence-based clinical practice guidelines. Chest.
+2012;141(2 Suppl):e669S.
+Program Non-Formulary – Wegovy - Cardiovascular Risk Reduction Only
+Change Control
+Date Change
+4/2024 New program.
+5/2025 Annual review. Updated references.
+© 2025 UnitedHealthcare Services Inc.
+4

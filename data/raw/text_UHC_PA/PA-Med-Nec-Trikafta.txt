@@ -1,0 +1,142 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2180-8
+Program Prior Authorization/Medical Necessity
+Medication Trikafta® (elexacaftor/tezacaftor/ivacaftor)
+P&T Approval Date 11/2019, 11/2020, 3/2021, 7/2021, 7/2022, 6/2023, 6/2024, 2/2025
+Effective Date 5/1/2025
+1. Background:
+Trikafta is a combination of elexacaftor, tezacaftor, and ivacaftor, indicated for the treatment of
+patients with cystic fibrosis (CF) in patients aged 2 years and older who have at least one F508del
+mutation in the cystic fibrosis transmembrane conductance regulator (CFTR) gene or a mutation in
+the CFTR gene that is responsive based on clinical and/or in vitro data.
+If the patient’s genotype is unknown, an FDA-cleared CF mutation test should be used to confirm the
+presence of at least one indicated mutation.
+Members will be required to meet the coverage criteria below.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Trikafta will be approved based upon all of the following criteria:
+a. Diagnosis of cystic fibrosis (CF)
+-AND-
+b. Submission of laboratory results documenting that the patient has at least one of the
+following responsive mutations in the CFTR gene:*
+(1) F508del mutation
+(2) A mutation that is responsive based on clinical data
+(3) A mutation that is responsive based on in vitro data
+(4) A mutation that is responsive based on extrapolated data
+*List of CFTR gene mutations responsive to Trikafta. A complete up to date list of responsive mutations
+can be referenced in the Trikafta Prescribing Information.
+Based on clinical data⁎⁎
+2789+5G→A D1152H† L206W† R1066H† S945L†
+3272-26A→G F508del† L997F† R117C† T338I†
+3849+10kbC→T G85E† M1101K† R347H† V232D†
+A455E† L1077P† P5L† R347P†
+Based on in vitro data‡
+N1303K F200I I1139V P574H S1045Y
+1507_1515del9 F311del I125T P67L S108F
+2183A→G F311L I1269N P750L S1118F
+3141del9 F508C I1366N Q1291R S1159F
+© 2025 UnitedHealthcare Services, Inc.
+1
+546insCTA F508C; S1251N I148N Q1313K S1159P
+A1006E F575Y I148T Q237E S1235R
+A1067P F587I I175V Q237H S1251N
+A1067T G1047R I331N Q359R S1255P
+A107G G1061R I336K Q372H S13F
+A120T G1069R I502T Q493R S341P
+A234D G1123R I506L Q552P S364P
+A309D G1244E I556V Q98R S492F
+A349V G1247R I601F R1048G S549I
+A46D G1249R I618T R1070Q S549N
+A554E G126D I807M R1070W S549R
+A62P G1349D I980K R1162L S589N
+C491R G178E K1060T R117C; G576A; S737F
+R668C
+D110E G178R K162E R117G S912L
+D110H G194R K464E R117H S977F
+D1270N G194V L1011S R117L T1036N
+D1445N G27E L1324P R117P T1053I
+D192G G27R L1335P R1283M T1086I
+D443Y G314E L137P R1283S T1246I
+D443Y; G576A; G424S L1480P R170H T1299I
+R668C
+D565G G463V L15P R258G T351I
+D579G G480C L165S R297Q V1153E
+D614G G480S L320V R31C V1240G
+D836Y G551A L333F R31L V1293G
+D924N G551D L333H R334L V201M
+D979V G551S L346P R334Q V392G
+D993Y G576A L441P R347L V456A
+E116K G576A; R668C L453S R352Q V456F
+E116Q G622D L619S R352W V562I
+E193K G628R L967S R516S V603F
+E292K G970D M1137V R553Q V754M
+E474K H1054D M152V R668C W1282R
+E56K H1085P M265R R709Q W361R
+E588V H1085R M952I R74Q Y1014C
+E60K H1375P M952T R74W Y1032C
+E92K H199Y N1303I R74W; V201M Y161D
+F1016S H620P N186K R74W; V201M; Y161S
+D1270N
+F1052V H620Q N187K R751L Y301C
+F1074L H939R N418S R75L Y563N
+F1099L H939R; H949L P140S R75Q
+F1107L I1027T P205S R792G
+F191V I105N P499A R933G
+Based on extrapolation from Trial 5§
+4005+2T→C 2789+2insA 3849+40A→G 5T; TG13
+1341G→A 296+28A→G 3849+4A→G 621+3A→G
+1898+3A→G 3041-15T→G 3850-3T→G 711+3A→G
+2752-26A→G 3600G→A 5T; TG12 E831X
+© 2025 UnitedHealthcare Services, Inc.
+2
+⁎⁎ Clinical data obtained from Trials 1 (NCT03525444), 2 (NCT03525548), and 5 (NCT05274269).
+† This mutation is also predicted to be responsive by FRT assay.
+‡ The N1303K mutation is predicted to be responsive by HBE assay. All other mutations predicted to be
+responsive with in vitro data are supported by FRT assay.
+§ Efficacy is extrapolated from Trial 5 to non-canonical splice mutations because clinical trials in all
+mutations of this subgroup are infeasible and these mutations are not amenable to interrogation by FRT
+system.
+-AND-
+c. The patient is ≥ 2 years of age
+-AND-
+d. Prescribed by or in consultation with a provider who specializes in the treatment of CF
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Trikafta will be approved based on the following criterion:
+a. Documentation of positive clinical response to Trikafta therapy (e.g., improved lung
+function, stable lung function)
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Trikafta [package insert]. Cambridge, MA: Vertex Pharmaceuticals, Inc.; December 2024.
+Program Prior Authorization/Medical Necessity – Trikafta
+(elexacaftor/tezacaftor/ivacaftor)
+Change Control
+11/2019 New program
+11/2020 Annual review. Updated reference.
+3/2021 Updated criteria due to expanded indication approved for additional
+mutations.
+© 2025 UnitedHealthcare Services, Inc.
+3
+7/2021 Updated criteria due to expanded indication approved for patients 6 years
+and older.
+7/2022 Annal review with no change to coverage criteria. Updated reauthorization
+duration to 12 months and reference.
+6/2023 Updated criteria due to expanded indication approved for patients two years
+and older. Updated prescriber requirement, simplified reauthorization
+criteria, and updated reference.
+6/2024 Annual review. Increased initial authorization approval duration to 12
+months. Removed prescriber requirement from reauthorization criteria.
+Updated reference.
+2/2025 Updated list of CFTR responsive gene mutations. Updated background and
+reference.
+© 2025 UnitedHealthcare Services, Inc.
+4

@@ -1,0 +1,62 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1354-5
+Program Prior Authorization/Notification
+Medication Zokinvy™ (lonafarnib)
+P&T Approval Date 3/2021, 3/2022, 3/2023, 3/2024, 3/2025
+Effective Date 6/1/2025
+1. Background:
+Zokinvy (lonafarnib) is a farnesyltransferase inhibitor indicated in patients 12 months of age and
+older with a body surface area of 0.39 m2 and above to reduce risk of mortality in Hutchinson-
+Gilford Progeria Syndrome and for treatment of processing-deficient progeroid laminopathies
+with either:
+• Heterozygous LMNA mutation with progerin-like protein accumulation
+• Homozygous or compound heterozygous ZMPSTE24 mutations
+Limitations of Use:
+Zokinvy is not indicated for other progeroid syndromes or processing-proficient progerid
+laminopathies. Basedupon its mechanism of action, Zokinvy would not be expected to be
+effective in these populations.
+Coverage Information:
+Members will be required to meet the criteria below for coverage.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Hutchinson-Gilford Progeria Syndrome
+1. Zokinvy will be approved based on of the following criterion:
+a. Diagnosis of Hutchinson-Gilford Progeria Syndrome
+Authorization will be issued for 12 months.
+B. Progeroid Laminopathies
+1. Zokinvy will be approved based on of the following criteria:
+a. Diagnosis of processing deficient progeroid laminopathy
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+1
+b. Documentation of one of the following:
+i. Heterozygous LMNA mutation with progerin-like protein accumulation
+-OR-
+ii. Homozygous or compound heterozygous ZMPSTE24 mutations
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Zokinvy [package insert]. Palo Alto, CA: Eiger BioPharmaceuticals, Inc.; March 2024.
+Program Prior Authorization/Notification – Zokinvy (lonafarnib)
+Change Control
+3/2021 New program.
+3/2022 Annual review. Updated reference formatting.
+3/2023 Annual review with no change to coverage criteria. Added state
+mandate footnote.
+3/2024 Annual review with no change to coverage criteria.
+3/2025 Annual review with no change to coverage criteria. Updated
+background and reference.
+© 2025 UnitedHealthcare Services, Inc.
+2

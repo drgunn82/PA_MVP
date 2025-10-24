@@ -1,0 +1,77 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1188-10
+Program Prior Authorization/Notification
+Medication Ocaliva® (obeticholic acid)
+P&T Approval Date 5/2016, 6/2017, 6/2018, 6/2019, 6/2020, 6/2021, 6/2022, 6/2023, 6/2024,
+6/2025
+Effective Date 9/1/2025
+1. Background:
+Ocaliva (obeticholic acid), a farnesoid X receptor (FXR) agonist, is indicated for the treatment
+of primary biliary cholangitis (PBC), without cirrhosis or with compensated cirrhosis without
+evidence of portal hypertension, in combination with ursodeoxycholic acid (UDCA) in adults
+with an inadequate response to UDCA, or as monotherapy in adults unable to tolerate UDCA.
+This indication is approved under accelerated approval based on a reduction in alkaline
+phosphatase (ALP). An improvement in survival or disease-related symptoms has not been
+established. Continued approval for this indication may be contingent upon verification and
+description of clinical benefit in confirmatory trials.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Ocaliva will be approved based on all of the following criteria:
+a. Diagnosis of primary biliary cholangitis
+-AND-
+b. One of the following:
+(1) Patient does not have cirrhosis
+-OR-
+(2) Patient has compensated cirrhosis without evidence of portal hypertension
+-AND-
+c. One of the following:
+(1) Both of the following:
+(a) Used in combination with ursodeoxycholic acid (e.g., ursodiol)
+(b) Patient has not achieved an adequate response to an appropriate dosage of
+ursodeoxycholic acid (e.g., ursodiol) after at least 12 consecutive months of
+therapy
+© 2025 UnitedHealthcare Services Inc.
+1
+-OR-
+(2) History of contraindication or intolerance to ursodeoxycholic acid (e.g., ursodiol)
+Initial authorization will be issued for 12 months
+B. Reauthorization
+1. Ocaliva will be approved based on the following criterion:
+a. Documentation of positive clinical response to Ocaliva therapy
+Reauthorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place
+• Medical necessity may be in place
+• Step Therapy may be in place
+4. References:
+1. Ocaliva [package insert]. Morristown, NJ: Intercept Pharmaceuticals, Inc.; May 2022.
+Program Prior Authorization/Notification – Ocaliva (obeticholic acid)
+Change Control
+Date Change
+5/2016 New program.
+6/2016 Changed clinical criteria based on FDA approved label.
+6/2017 Annual review with no changes to clinical criteria. Updated Clinical Rules
+to include that Step Therapy may be in place.
+6/2018 Annual review with no changes to clinical criteria. Updated references.
+6/2019 Annual review with no changes.
+6/2020 Annual review. Added black box warning information.
+6/2021 Annual review. No changes to clinical criteria.
+6/2022 Annual review. Changed clinical criteria based on changes to prescribing
+information. Revised order of listing of two criteria to better align with
+prescribing information. Background and reference updated.
+6/2023 Annual review with no changes to coverage criteria. Added state mandate
+and updated reference.
+6/2024 Annual review. Updated initial authorization to 12 months.
+© 2025 UnitedHealthcare Services Inc.
+2
+6/2025 Annual review. Updated list of examples of ursodeoxycholic acid.
+© 2025 UnitedHealthcare Services Inc.
+3

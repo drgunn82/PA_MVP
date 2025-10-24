@@ -1,0 +1,162 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Cardiology – Tryvio Prior Authorization Policy
+• Tryvio™ (aprocitentan tablets − Idorsia)
+REVIEW DATE: 08/13/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Tryvio, an endothelin receptor antagonist, is indicated for the treatment of
+hypertension in combination with other antihypertensive medications, to
+lower blood pressure in adults who are not adequately controlled on other drugs.1
+Lowering blood pressure reduces the risk of fatal and non-fatal cardiovascular
+events, primarily strokes and myocardial infarctions.
+Guidelines
+Guidelines have not addressed Tryvio. Guidelines are available for the management
+of hypertension in adults. There are many medications available for the
+management of hypertension.2 These include thiazide-like diuretics (e.g.,
+chlorthalidone, hydrochlorothiazide, metolazone), potassium-sparing diuretics (e.g.,
+amiloride, triamterene), mineralocorticoid receptor antagonists (e.g.,
+spironolactone, eplerenone), angiotensin converting enzyme (ACE) inhibitors (e.g.,
+enalapril, lisinopril, ramipril, trandolapril), angiotensin receptor blockers (ARBs)
+Page 1 of 4 - Cigna National Formulary Coverage - Policy: Cardiology – Tryvio Prior Authorization Policy
+[e.g., candesartan, irbesartan, valsartan], a direct renin inhibitor (i.e., aliskiren),
+dihydropyridine calcium channel blockers (CCBs) [e.g., felodipine, amlodipine],
+non-dihydropyridine CCBs (e.g., diltiazem, verapamil), beta blockers (e.g., atenolol,
+bisoprolol, metoprolol, acebutolol), alpha-adrenergic blockers (e.g., doxazosin,
+prazosin, terazosin), central alpha-adrenergic agonists (e.g., clonidine, guanfacine,
+methyldopa), and direct vasodilators (e.g., hydralazine, minoxidil).
+• American College of Cardiology (ACC)/American Heart Association
+(AHA) Guidelines for High Blood Pressure: The ACC/AHA guideline for
+the prevention, detection, evaluation, and management of high blood
+pressure in adults (2017) cites normal blood pressure (systolic blood
+pressure [SBP]/diastolic blood pressure [DBP]) as < 120/80 mmHg; a SBP of
+120 to 129 mmHg and a DBP > 80 mmHg is considered elevated.3 Stage 1
+hypertension is denoted at SBPs of 130 to 139 mmHg and DBPs as 80 to 89
+mmHg; Stage 2 hypertension is defined as a SBP/DBP ≥ 140/90 mmHg.3
+The guidelines are extensive. In general, for initiation of antihypertensive
+drug therapy (SBP/DBP ≥ 130/80 mmHg), first-line medications are thiazide
+diuretics, CCBs, and ACE inhibitors or ARBs. Beta blockers are also
+recommended in certain clinical scenarios in patients with hypertension (e.g.,
+patients with stable ischemic heart disease or heart failure). For resistant
+hypertension, consider spironolactone, if appropriate. The addition of other
+agents with different mechanisms of action may also be useful (e.g.,
+hydralazine, minoxidil, doxazosin, clonidine).
+• AHA Statement on Resistant Hypertension: In 2018, the AHA published
+a Scientific Statement on resistant hypertension.4 Resistant hypertension is
+defined as above goal elevated blood pressure in a patient despite the
+concurrent use of three antihypertensive drug classes, commonly including a
+long-acting CCB, a blocker of the renin-angiotensin system (ACE inhibitor or
+an ARB), and a diuretic. The antihypertensive drugs should be given at
+maximum or maximally tolerated daily doses. Resistant hypertension also
+includes patients whose blood pressure achieves target values with use of
+four or more antihypertensive medications. Management of resistant
+hypertension includes use of long-acting thiazide-like diuretics
+(chlorthalidone or indapamide), the addition of a mineralocorticoid receptor
+antagonist (spironolactone or eplerenone), and, if blood pressure remains
+elevated, the addition in a stepwise manner of antihypertensive medications
+with complementary mechanisms of action to lower blood pressure.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Tryvio. All
+approvals are provided for the duration noted below.
+• Tryvio™ (aprocitentan tablets - Idorsia)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+Page 2 of 4 - Cigna National Formulary Coverage - Policy: Cardiology – Tryvio Prior Authorization Policy
+FDA-Approved Indication
+1. Hypertension. Approve for 1 year if the patient meets BOTH of the following (A
+and B):
+A) Patient is ≥ 18 years of age; AND
+B) Patient has tried, or is currently receiving, at least three other
+antihypertensive agents for the treatment of hypertension from at least three
+of the following pharmacological classes (i, ii, iii, iv, v, vi, vii, viii, ix, x).
+Note: A combination product from two or more different classes would count
+as an alternative from each class.
+i. Angiotensin converting enzyme (ACE) inhibitor or angiotensin receptor
+blocker (ARB);
+Note: Examples of ACE inhibitors include benazepril, captopril, enalapril,
+fosinopril, lisinopril, moexipril, perindopril, ramipril, and trandolapril.
+Examples of ARBs include azilsartan, candesartan, eprosartan, irbesartan,
+losartan, olmesartan, telmisartan, and valsartan.
+ii. Non-dihydropyridine calcium channel blocker;
+Note: Examples include diltiazem and verapamil.
+iii. Dihydropyridine calcium channel blocker;
+Note: Examples include amlodipine, felodipine, isradipine, nicardipine,
+nifedipine, and nisoldipine.
+iv. Diuretic;
+Note: Examples of thiazide diuretics include chlorthalidone,
+chlorothiazide, hydrochlorothiazide, indapamide, and metolazone.
+Examples of potassium-sparing diuretics are amiloride and triamterene.
+v. Mineralocorticoid receptor antagonist;
+Note: Examples include eplerenone and spironolactone.
+vi. Beta blocker;
+Note: Examples of beta blockers include acebutolol, atenolol, betaxolol,
+bispoprolol, carvedilol, metoprolol, nadolol, nebivolol, pindolol,
+propranolol, and timolol.
+vii. Alpha-adrenergic blocker;
+Note: Examples of alpha-adrenergic blockers are doxazosin, prazosin,
+and terazosin.
+viii. Central alpha-adrenergic agonist;
+Note: Examples of central alpha-adrenergic agonists are clonidine,
+guanfacine, and methyldopa.
+ix. Direct vasodilator;
+Note: Examples of direct vasodilators are hydralazine and minoxidil.
+x. Direct renin inhibitor;
+Note: An example of a direct renin inhibitor is aliskiren.
+CONDITIONS NOT COVERED
+Tryvio™ (aprocitentan tablets - Idorsia)
+is(are) considered not medically necessary for ANY other use(s); criteria will
+be updated as new published data are available.
+Page 3 of 4 - Cigna National Formulary Coverage - Policy: Cardiology – Tryvio Prior Authorization Policy
+REFERENCES
+1. Tryvio™ tablets [prescribing information]. Radnor, PA: Idorsia; March 2025.
+2. The Medical Letter. Drugs for hypertension. Med Lett Drugs Ther. 2024;66(1703):81-88.
+3. Whelton PK, Carey RM, Aronow WS, et al. 2017
+ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA guideline for the prevention,
+detection, evaluation, and management of high blood pressure in adults. A report of the American
+College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.
+Circulation. 2018;138:e484-e594.
+4. Carey RM, Calhoun DA, Bakris GL, et al. Resistant hypertension: detection, evaluation, and
+management: a scientific statement from the American Heart Association. Hypertension.
+2018;72(5):e53-e90.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 08/14/2024
+Selected Hypertension: The requirement that the patient has tried, or is 12/04/2024
+Revision currently receiving, at least four other antihypertensive agents from
+at least four different pharmacologic classes was changed to at least
+other three other antihypertensive agents from at least three
+different pharmacological classes.
+Annual No criteria changes. 08/13/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company, Connecticut
+General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc., and HMO or
+service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+Page 4 of 4 - Cigna National Formulary Coverage - Policy: Cardiology – Tryvio Prior Authorization Policy

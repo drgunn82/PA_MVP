@@ -1,0 +1,157 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1317-6
+Program Prior Authorization/Notification
+Medication Tukysa® (tucatinib)
+P&T Approval Date 6/2020, 11/2021, 11/2022, 3/2023, 3/2024, 3/2025
+Effective Date 6/1/2025
+1. Background:
+Tukysa (tucatinib) is a kinase inhibitor indicated in combination with trastuzumab and
+capecitabine for treatment of adult patients with advanced unresectable or metastatic human
+epidermal growth factor receptor 2 (HER2)-positive breast cancer, including patients with brain
+metastases, who have received one or more prior anti-HER2-based regimens in the metastatic
+setting. Tukysa is also indicated in combination with trastuzumab for the treatment of adult
+patients with RAS wild-type HER2-positive unresectable or metastatic colorectal cancer that has
+progressed following treatment with fluoropyrimidine-, oxaliplatin-, and irinotecan-based
+chemotherapy.
+The National Cancer Comprehensive Network (NCCN) recommends the use of Tukysa for the
+treatment of central nervous system cancers (limited and extensive brain metastases) when used in
+combination with capecitabine and trastuzumab in patients with HER2 positive breast cancer if
+previously treated with one or more anti-HER2-based regimens. The NCCN also recommends the
+use of Tukysa in combination with trastuzumab for the treatment of advanced or metastatic
+colorectal cancer (HER2-amplified and RAS and BRAF wild-type) if intensive therapy not
+recommended as well as in combination with trastuzumab as subsequent therapy for HER2-
+positive unresectable, resected gross residual (R2), or metastatic biliary tract cancers.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the notification
+criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Tukysa will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Breast Cancer
+© 2025 UnitedHealthcare Services, Inc.
+1
+1. Initial Authorization
+a. Tukysa will be approved based on all of the following criteria:
+(1) Diagnosis of breast cancer
+-AND-
+(2) Disease is one of the following:
+(a) Advanced unresectable
+(b) Metastatic
+-AND-
+(3) Disease is human epidermal growth factor receptor 2 (HER2)-positive
+-AND-
+(4) Patient has been previously treated with an anti-HER2-based regimen in the
+metastatic setting (e.g., trastuzumab [Kanjinti, Ogivri, Trazimera], pertuzumab
+[Perjeta], ado-trastuzumab emtansine [Kadcyla])
+-AND-
+(5) Used in combination with trastuzumab (e.g., Kanjinti, Ogivri, Trazimera) and
+capecitabine (Xeloda)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tukysa will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tukysa therapy
+Authorization will be issued for 12 months.
+C. CNS Cancers
+1. Initial Authorization
+a. Tukysa will be approved based on all of the following criteria:
+(1) Diagnosis of brain metastases with HER2 positive breast cancer
+-AND-
+(2) Patient has been previously treated with an anti-HER2-based regimen in the
+metastatic setting (e.g., trastuzumab [Kanjinti, Ogivri, Trazimera], pertuzumab
+© 2025 UnitedHealthcare Services, Inc.
+2
+[Perjeta], ado-trastuzumab emtansine [Kadcyla])
+-AND-
+(3) Used in combination with trastuzumab (e.g., Kanjinti, Ogivri, Trazimera) and
+capecitabine (Xeloda)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tukysa will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tukysa therapy
+Authorization will be issued for 12 months.
+D. Colorectal Cancer
+1. Initial Authorization
+a. Tukysa will be approved based on all of the following criteria:
+(1) Diagnosis of unresectable, advanced or metastatic colorectal cancer (HER2-
+amplified and RAS and BRAF wild-type)
+-AND-
+(2) Disease is human epidermal growth factor receptor 2 (HER2)-positive
+-AND-
+(3) One of the following:
+(a) Patient has previously been treated with one of the following regimens:
+i. Fluoropyrimidine-based chemotherapy
+ii. Oxaliplatin-based chemotherapy
+iii. Irinotecan-based chemotherapy
+-OR-
+(b) Patient is not appropriate for intensive therapy
+-AND-
+(4) Used in combination with trastuzumab (e.g., Kanjinti, Ogivri, Trazimera)
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services, Inc.
+3
+2. Reauthorization
+a. Tukysa will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tukysa therapy
+Authorization will be issued for 12 months.
+D. Biliary Tract Cancers
+1. Initial Authorization
+a. Tukysa will be approved based on all of the following criteria:
+(1) Diagnosis of one of the following:
+(a) Gallbladder Cancer
+(b) Intrahepatic cholangiocarcinoma
+(c) Extrahepatic cholangiocarcinoma
+-AND-
+(2) Disease is human epidermal growth factor receptor 2 (HER2)-positive
+-AND-
+(3) Disease is one of the following:
+(a) Unresectable
+(b) Resected gross residual (R2)
+(c) Metastatic
+-AND-
+(3) Patient has received at least one prior systemic therapy
+-AND-
+(4) Used in combination with trastuzumab (e.g., Kanjinti, Ogivri, Trazimera)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tukysa will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tukysa therapy
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services, Inc.
+4
+E. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category
+of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Tukysa® [package insert]. Bothell, WA: Seattle Genetics, Inc. January 2023.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+www.nccn.org. Accessed February 12, 2025.
+Program Prior Authorization/Notification – Tukysa (tucatinib)
+Change Control
+6/2020 New program.
+11/2021 Annual review. Added criteria for CNS cancers according to NCCN
+compendia. Updated background and references.
+11/2022 Annual review. Added state mandate. Updated references.
+3/2023 Updated background and added criteria for colorectal cancer per FDA
+label. Updated references.
+3/2024 Annual review. No changes to clinical criteria.
+3/2025 Annual review. Added criteria for NCCN recommended use of Tukysa
+in biliary tract cancers. Updated background and references.
+© 2025 UnitedHealthcare Services, Inc.
+5

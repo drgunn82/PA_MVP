@@ -1,0 +1,88 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1232-6
+Program Prior Authorization/Notification
+Medication Vosevi™ (sofosbuvir, velpatasvir, and voxilaprevir)
+P&T Approval Date 9/2017, 11/2018, 11/2019, 8/2022, 8/2023, 8/2024
+Effective Date 11/1/2024
+1. Background:
+Vosevi is a fixed-dose combination of sofosbuvir, a hepatitis C virus (HCV) nucleotide analog
+NS5B polymerase inhibitor, velpatasvir, an HCV NS5A inhibitor, and voxilaprevir, an HCV
+NS3/4A protease inhibitor, and is indicated for the treatment of adult patients with chronic HCV
+infection without cirrhosis or with compensated cirrhosis (Child-Pugh A) who have:1
+• Genotype 1, 2, 3, 4, 5, or 6 infection and have previously been treated with an HCV regimen
+containing an NS5A inhibitor.
+• Genotype 1a or 3 infection and have previously been treated with an HCV regimen
+containing sofosbuvir without an NS5A inhibitor.
+Additional benefit of Vosevi over Epclusa® (sofosbuvir/velpatasvir) was not shown in
+o
+adults with genotype 1b, 2, 4, 5, or 6 infection previously treated with sofosbuvir
+without an NS5A inhibitor.
+2. Coverage Criteriaa:
+A. For the treatment of chronic hepatitis C genotype 1, 2, 3, 4, 5 or 6 infection in patients who
+are treatment-experienced with an NS5A inhibitor-based regimen, who are without cirrhosis
+or have compensated cirrhosis, Vosevi will be approved based on all of the following
+criteria:
+1. Diagnosis of chronic hepatitis C genotype 1, 2, 3, 4, 5 or 6 infection
+-AND-
+2. Patient has prior treatment experience with an HCV NS5A inhibitor [e.g., Daklinza
+(daclatasvir), Epclusa (sofosbuvir/velpatasvir), Harvoni (ledipasvir/sofosbuvir), Viekira
+(dasabuvir/ombitasvir/ paritaprevir/ritonavir), Zepatier (elbasvir/grazoprevir)]
+-AND-
+3. One of the following:
+a. Patient is without cirrhosis
+b. Patient has compensated cirrhosis (Child-Pugh A)
+-AND-
+4. Patient is not receiving Vosevi in combination with another HCV direct acting antiviral
+agent [e.g., Epclusa (sofosbuvir/velpatasvir), Harvoni (ledipasvir/sofosbuvir), Mavyret
+© 2024 UnitedHealthcare Services Inc.
+1
+(glecaprevir/pibrentasvir), Sovaldi (sofosbuvir), Zepatier (elbasvir/grazoprevir)]
+Authorization will be issued for 12 weeks.
+B. For the treatment of chronic hepatitis C genotype 1a or 3 in patients who are treatment-
+experienced with a regimen containing Sovaldi (sofosbuvir) without an NS5A inhibitor,
+who are without cirrhosis or have compensated cirrhosis, Vosevi will be approved based on
+all of the following criteria:
+1. Diagnosis of chronic hepatitis C genotype 1a or 3 infection
+-AND-
+2. Patient has prior treatment experience with a regimen containing Sovaldi (sofosbuvir)
+without an NS5A inhibitor
+-AND-
+3. One of the following:
+a. Patient is without cirrhosis
+b. Patient has compensated cirrhosis (Child-Pugh A)
+-AND-
+4. Patient is not receiving Vosevi in combination with another HCV direct acting antiviral
+agent [e.g., Epclusa (sofosbuvir/velpatasvir), Harvoni (ledipasvir/sofosbuvir), Mavyret
+(glecaprevir/pibrentasvir), Sovaldi (sofosbuvir), Zepatier (elbasvir/grazoprevir)]
+Authorization will be issued for 12 weeks.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+• Medical necessity may be in place.
+4. References:
+1. Vosevi [package insert]. Foster City, CA: Gilead Sciences, Inc.; November 2019.
+2. American Association for the Study of Liver Diseases and the Infectious Diseases Society of
+America. Recommendations for Testing, Managing, and Treating Hepatitis C.
+http://www.hcvguidelines.org/full-report-view Accessed July 9, 2024.
+© 2024 UnitedHealthcare Services Inc.
+2
+Program Prior Authorization/Medical Necessity – Vosevi (sofosbuvir,
+velpatasvir, and voxilaprevir)
+Change Control
+Date Change
+9/2017 New program.
+11/2018 Annual review with no changes to criteria. Updated references.
+11/2019 Annual review with no changes to criteria. Updated references.
+8/2022 Annual review with no changes to criteria. Added Mavyret as example
+of HCV direct acting antiviral agent, removed examples of Sovaldi-
+containing regimens and updated references.
+8/2023 Annual review with no changes to the criteria.
+8/2024 Annual review with no changes to the criteria.
+© 2024 UnitedHealthcare Services Inc.
+3

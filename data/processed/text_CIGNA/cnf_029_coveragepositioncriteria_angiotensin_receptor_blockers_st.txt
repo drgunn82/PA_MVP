@@ -1,0 +1,152 @@
+STEP THERAPY POLICY
+POLICY: Angiotensin Receptor Blocker Step Therapy Policy
+Single-Entity Products
+• Atacand® (candesartan tablets − AstraZeneca/Ani, generic)
+• Avapro® (irbesartan tablets − sanofi-aventis, generic)
+• Benicar® (olmesartan tablets – Cosette, generic)
+• Cozaar® (losartan tablets − Organon, generic)
+• Diovan® (valsartan tablets − Novartis, generic)
+• Edarbi® (azilsartan tablets – Takeda/Azurity)
+• eprosartan tablets (generic only)
+• Micardis® (telmisartan tablets − Boehinger-Ingelheim, generic)
+• valsartan oral solution (generic only)
+Combination Products
+• Atacand HCT® (candesartan/hydrochlorothiazide tablets –
+AstraZeneca, generic)
+• Avalide (irbesartan/hydrochlorothiazide tablets − sanofi-aventis,
+generic)
+• Azor® (olmesartan/amlodipine tablets – Cosette, generic)
+• Benicar HCT® (olmesartan/hydrochlorothiazide tablets − Cosette,
+generic)
+• Diovan HCT (valsartan/hydrochlorothiazide tablets − Novartis,
+generic)
+• Edarbyclor® (azilsartan/chlorthalidone tablets − Takeda/Arbor)
+• Exforge® (valsartan/amlodipine tablets − Novartis, generic)
+• Exforge HCT® (valsartan/amlodipine/hydrochlorothiazide tablets –
+Novartis, generic)
+• Hyzaar (losartan/hydrochlorothiazide tablets − Merck, generic)
+• Micardis HCT (telmisartan/hydrochlorothiazide tablets –
+Boehringer Ingelheim, generic)
+• Tribenzor® (olmesartan/amlodipine/hydrochlorothiazide tablets –
+Cosette, generic)
+REVIEW DATE: 06/18/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Angiotensin Receptor Blocker Step Therapy Policy
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Angiotensin receptor blockers (ARBs) [also known as angiotensin II receptor
+antagonists] are all indicated for the treatment of adults with hypertension;
+selected agents are also indicated for use in pediatric patients.1-8 Some ARBs have
+other indications as well. Several clinical outcome trials with ARBs have shown
+positive results. All ARBs, except Edarbi, are also available as combination
+products with hydrochlorothiazide (HCTZ).9-14 Edarbi is available as a combination
+product containing chlorthalidone (Edarbyclor).15 There are several products that
+combine an ARB with amlodipine (plus or minus HCTZ); these products are
+indicated for the treatment of hypertension.16-20
+Valsartan oral solution is indicated for the following uses:21
+• Treatment of hypertension in adults and children ≥ 6 years of age, to lower
+blood pressure.
+• Management of heart failure (New York Heart Association [NYHA] Class II
+to IV) to reduce the risk of hospitalization for heart failure in patients who
+are unable to swallow valsartan tablets.
+• Reduce the risk of cardiovascular death in clinically stable patients with
+left ventricular failure or left ventricular dysfunction following myocardial
+infarction in patients who are unable to swallow valsartan tablets.
+POLICY STATEMENT
+This program has been developed to encourage the use of a Step 1 Product prior to
+the use of a Step 2 Product. If the Step Therapy rule is not met for a Step 2
+Product at the point of service, coverage will be determined by the Step Therapy
+criteria below. All approvals are provided for 1 year in duration.
+Step 1: candesartan, candesartan/HCTZ, eprosartan, irbesartan, irbesartan/HCTZ,
+losartan, losartan/HCTZ, olmesartan, olmesartan/amlodipine,
+olmesartan/HCTZ, olmesartan/amlodipine/HCTZ, telmisartan,
+telmisartan/amlodipine, telmisartan/HCTZ, valsartan,
+valsartan/amlodipine, valsartan/HCTZ,
+valsartan/amlodipine/hydrochlorothiazide
+4 Pages - Cigna National Formulary Coverage - Policy: Angiotensin Receptor Blocker Step Therapy Policy
+Step 2: Atacand, Atacand HCT, Avalide, Avapro, Azor, Benicar, Benicar HCT,
+Cozaar, Diovan, Diovan HCT, Edarbi, Edarbyclor, Exforge, Exforge HCT,
+Hyzaar, Micardis, Micardis HCT, Tribenzor, valsartan oral solution
+Angiotensin Receptor Blocker Step Therapy Policy product(s) is(are)
+covered as medically necessary when the following step therapy criteria
+is(are) met. Any other exception is considered not medically necessary.
+CRITERIA
+1. If the patient has tried one Step 1 Product, approve a Step 2 Product.
+2. If the patient cannot swallow or has difficulty swallowing tablets, approve
+valsartan oral solution.
+REFERENCES
+1. Diovan® tablets [prescribing information]. East Hanover, NJ: Novartis; April 2021.
+2. Avapro tablets [prescribing information]. Bridgewater, NJ: sanofi-aventis; May 2025.
+3. Cozaar tablets [prescribing information]. Jersey City, NJ: Organon; April 2023.
+4. Atacand® tablets [prescribing information]. Baudette, MN and Sodertalje, Sweden: ANI and
+AstraZeneca; December 2022.
+5. Micardis® tablets [prescribing information]. Ridgefield, CT: Boehringer Ingelheim; December 2022.
+6. Benicar® tablets [prescribing information]. South Plainfield, NJ: Cosette; February 2022.
+7. Edarbi® tablets [prescribing information]. Woburn, MA: Takeda and Azurity; January 2024.
+8. Hyzaar® tablets [prescribing information]. Jersey City, NJ: Organon; March 2023.
+9. Diovan® HCT tablets [prescribing information]. East Hanover, NJ: Novartis; April 2021.
+10. Avalide® tablets [prescribing information]. Bridgewater, NJ: sanofi-aventis; May 2025.
+11. Atacand HCT® tablets [prescribing information]. Baudette, MN and Sodertalje, Sweden: ANI and
+AstraZeneca; August 2020.
+12. Micardis HCT® tablets [prescribing information]. Ridgefield, CT: Boehringer Ingelheim; December
+2022.
+13. Benicar HCT® tablets [prescribing information]. South Plainfield, NJ: Cosette; February 2022.
+14. Edarbyclor® tablets [prescribing information]. Osaka, Japan and Atlanta, GA: Takeda and Arbor;
+March 2020.
+15. Exforge® tablets [prescribing information]. East Hanover, NJ: Novartis; April 2021.
+16. Exforge® HCT tablets [prescribing information]. East Hanover, NJ: Novartis; February 2021.
+17. Azor® tablets [prescribing information]. South Plainfield, NJ: Cosette; February 2022.
+18. Tribenzor® tablets [prescribing information]. South Plainfield, NJ: Cosette; February 2022.
+19. Valsartan oral solution [prescribing information]. Baudette, MN: ANI; August 2023.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 11/08/2023
+Revision
+Annual Prexxartan: Prexxartan was removed as a Step 2 Product (not 10/02/2024
+Revision available).
+Valsartan oral solution: Valsartan oral solution was listed as a
+Step 2 Product.
+4 Pages - Cigna National Formulary Coverage - Policy: Angiotensin Receptor Blocker Step Therapy Policy
+Criteria: The exception to approve Prexxartan if the patient cannot
+swallow or has difficulty swallowing tablets was changed to approve
+valsartan oral solution if the patient cannot swallow or has difficulty
+swallowing tablets.
+Early Annual Twynsta: Twynsta was removed as a Step 2 Product (not 06/18/2025
+Revision available).
+Criteria: The exception to approve a Step 2 Product if the patient
+met ALL of the following criteria was removed from the policy: the
+generic equivalent is not available in Step 1 AND patient was
+hospitalized and discharged within the previous 30 days for a
+cardiovascular event AND patient has been started on stabilized on
+a Step 2 product.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+4 Pages - Cigna National Formulary Coverage - Policy: Angiotensin Receptor Blocker Step Therapy Policy

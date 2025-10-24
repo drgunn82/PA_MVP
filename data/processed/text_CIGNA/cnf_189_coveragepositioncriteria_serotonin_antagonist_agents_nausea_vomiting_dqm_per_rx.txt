@@ -1,0 +1,356 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER RX
+POLICY: Antiemetics – Serotonin Receptor Antagonists (Oral and Transdermal)
+Drug Quantity Management – Per Rx
+• granisetron tablets (generic only)
+• Sancuso® (granisetron transdermal system – Kyowa Kirin)
+• ondansetron tablets (generic only)
+• ondansetron orally disintegrating tablets (generic only)
+• ondansetron 16 mg orally disintegrating tablets (branded product)
+• ondansetron oral solution (generic only)
+REVIEW DATE: 09/11/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Indications and Dosing/Availability
+All of the oral serotonin (5-HT ) receptor antagonists have similar indications
+3
+regarding the prevention of nausea/vomiting associated with emetogenic cancer
+chemotherapy.1-5 Details, additional indications, and recommended dosing are in
+Table 1.
+Table 1. Indications and Dosages for Oral and Transdermal 5-HT Receptor Antagonists.1-5
+3
+Drug/ FDA-Approved
+Recommended Dosage
+Availability Indications
+Granisetron Prevention of Adults: 2 mg QD or 1 mg BID. In the 2-mg QD
+1 mg tablets nausea/vomiting regimen, two 1-mg tablets are given up to 1 hour before
+associated with initial chemotherapy. In the 1 mg BID regimen, the first 1 mg
+and repeat courses of tablet is given up to 1 hour before chemotherapy, with
+emetogenic cancer the second tablet 12 hours after the first. Either
+Page 1 of 8 - Cigna National Formulary Coverage - Policy:Antiemetics – Serotonin Receptor Antagonists (Oral and
+Transdermal) Drug Quantity Management – Per Rx
+therapy, including high- regimen is given only on the day(s) of chemotherapy.
+dose cisplatin. Continued treatment, while not on chemotherapy, has
+not been found to be useful.
+Pediatric: Safety and efficacy of granisetron in
+pediatric patients have not been established.
+Prevention of Adults: 2 mg QD. Two 1-mg tablets are taken within 1
+nausea/vomiting hour of radiation.
+associated with Pediatric: Safety and efficacy of granisetron in
+radiation, including total pediatric patients have not been established.
+body irradiation and
+fractionated abdominal
+radiation.
+Sancuso® Prevention of Adults: Apply a single patch to the upper arm a
+(granisetron nausea/vomiting minimum of 24 hours before chemotherapy and a
+3.1 mg/24 associated with MEC or maximum of 48 hours prior to chemotherapy as
+hours HEC regimens of up to 5 appropriate. The patch can be worn for up to 7 days
+transdermal consecutive days’ depending upon the duration of the chemotherapy
+system) duration. regimen. Remove a minimum of 24 hours after
+completion of chemotherapy.
+Pediatric: Safety and efficacy of Sancuso in pediatric
+patients have not been established.
+Table 1 (continued). Indications and Dosages for Oral and Transdermal 5-HT Receptor
+3
+Antagonists.1-5
+Drug/ FDA-Approved
+Recommended Dosage
+Availability Indications
+ondansetron Prevention of Adults: 24 mg given 30 minutes before the start of
+4 mg and nausea/vomiting single-day highly emetogenic chemotherapy, including
+8 mg tablets associated with HEC, cisplatin  50 mg/m2. Multi-day, single-dose
+(generic including cisplatin  50 administration of 24-mg dosage has not been studied.
+only) mg/m2.
+Prevention of Adults: 8 mg BID. The first dose should be taken 30
+ondansetron nausea/vomiting minutes before the start of emetogenic chemotherapy,
+4 mg/5 mL associated with initial with a subsequent dose 8 hours after the first dose. The
+oral solution, and repeat courses of 8 mg dose should be taken BID (Q12H) for 1 to 2 days
+(generic MEC. after completing chemotherapy.
+only) Pediatric ( 12 years): 8 mg BID. 8 mg administered
+30 minutes before the start of chemotherapy, with a
+ondansetron subsequent 8-mg dose 8 hours after the first dose, then
+4 mg and administer 8 mg BID for 1 to 2 days after completion of
+8 mg orally chemotherapy.
+disintegratin Pediatric (4 to 11 years): 4 mg TID. The first dose
+g tablets should be taken 30 minutes before the start of
+(generic chemotherapy, with subsequent doses 4 and 8 hours
+only) after the first. The 4 mg dose should be given TID
+(Q8H) for 1 to 2 days after completion of chemotherapy.
+Ondansetron Prevention of Total body irradiation: 8 mg 1 to 2 hours before each
+16 mg orally nausea/vomiting fraction of radiotherapy each day.
+disintegratin associated with Single high-dose fractionated radiotherapy to the
+g tablets radiotherapy in patients abdomen: 8 mg 1 to 2 hours before radiotherapy, with
+(branded receiving total body subsequent doses Q8H after the first dose for 1 to 2
+product) irradiation, a single high- days after completion of radiotherapy.
+dose fraction to the Daily fractionated radiotherapy to the abdomen: 8
+abdomen, or daily mg 1 to 2 hours before radiotherapy with subsequent
+fractions to the doses Q8H after the first, each day of radiotherapy.
+abdomen.
+Prevention of PONV. As 16 mg one hour before induction of anesthesia.
+with other antiemetics,
+8 Pages - Cigna National Formulary Coverage - Policy:Antiemetics – Serotonin Receptor Antagonists (Oral and
+Transdermal) Drug Quantity Management – Per Rx
+routine prophylaxis is
+not recommended for
+patients in whom there
+is little expectation that
+nausea/vomiting will
+occur. For patients in
+whom PONV must be
+avoided, ondansetron is
+recommended even
+where the incidence of
+PONV is low.
+QD – Once daily; BID – Twice daily; MEC – Moderate emetogenic chemotherapy; HEC – Highly
+emetogenic chemotherapy; Q12H – Every 12 hours; TID – Three times daily; Q8H – Every 8 hours;
+PONV – Post-operative nausea and vomiting.
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of the serotonin receptor antagonists (oral and
+transdermal). If the Drug Quantity Management rule is not met for the requested
+medication at the point of service, coverage will be determined by the Criteria
+below. All approvals are provided for 1 year in duration, unless otherwise noted
+below.
+Drug Quantity Limits
+Product Strength Retail Home Delivery
+Maximum Maximum
+Quantity Quantity
+per Rx per Rx
+granisetron (generic only) 1 mg tablets 6 tablets 18 tablets
+Sancuso® 34.3 mg (3.1 mg/24 1 patch 3 patches
+(granisetron transdermal hours) transdermal
+system) system (patch)
+ondansetron tablets 4 mg tablets 9 tablets 27 tablets
+(generic only) 8 mg tablets 9 tablets 27 tablets
+ondansetron orally 4 mg tablets 9 tablets 27 tablets
+disintegrating tablets 8 mg tablets 9 tablets 27 tablets
+(generic only)
+ondansetron orally 16 mg tablets 2 tablets 6 tablets
+disintegrating tablets
+(branded product)
+ondansetron oral solution 4 mg/5 mL solution 100 mL 300 mL
+(generic only)
+Antiemetics – Serotonin Receptor Antagonists (Oral and Transdermal)
+Drug Quantity Management – Per Rx product(s) is(are) covered as
+medically necessary when the following criteria is(are) met. Any other
+exception is considered not medically necessary.
+CRITERIA
+Granisetron 1 mg tablets (generic only)
+8 Pages - Cigna National Formulary Coverage - Policy:Antiemetics – Serotonin Receptor Antagonists (Oral and
+Transdermal) Drug Quantity Management – Per Rx
+1. If the patient is receiving granisetron for the prevention of nausea and vomiting
+associated with multiple courses or multiple days of cancer chemotherapy within
+1 month, approve the requested quantity, not to exceed a total of 60 tablets per
+dispensing at retail or 180 tablets per dispensing at home delivery.
+2. If the patient is receiving granisetron for the treatment of one of the following
+conditions, approve the requested quantity, not to exceed 60 tablets per
+dispensing at retail or 180 tablets per dispensing at home delivery (i.e., allow for
+two tablets per day), for 6 months:
+• prevention or treatment of radiation-induced emesis,
+• delayed nausea and vomiting (greater than 24 hours following chemotherapy
+or radiation therapy),
+• as needed for nausea and vomiting after chemotherapy,
+• anticipatory nausea and vomiting,
+• vertigo or motion-induced nausea and vomiting,
+• opioid-induced nausea and vomiting,
+• treatment of postoperative nausea and vomiting,
+• pregnancy-induced nausea and vomiting,
+• drug-induced (non-chemotherapy) nausea and vomiting, or
+• nausea and vomiting due to other etiologies including idiopathic.
+Sancuso 34.3 mg (3.1 mg/24 hours) Transdermal System
+1. If the patient is receiving Sancuso for the prevention of nausea and vomiting
+associated with multiple courses or multiple days of cancer chemotherapy within
+1 month, approve the quantity requested, not to exceed a total of 4 patches per
+dispensing at retail or 16 patches per dispensing at home delivery.
+Ondansetron 4 mg tablets (generic only) and Ondansetron 4 mg orally-
+disintegrating tablets (generic only)
+1. If the patient is receiving ondansetron for the prevention of nausea and vomiting
+associated with multiple courses or multiple days of chemotherapy within 1
+month, approve the requested quantity, not to exceed 90 tablets/orally-
+disintegrating tablets per dispensing at retail or 270 tablets/orally-disintegrating
+tablets per dispensing at home delivery.
+2. If the patient is receiving ondansetron for the prevention of radiation-induced
+nausea and vomiting associated with multiple courses or multiple days of
+radiation within 1 month, approve the requested quantity, not to exceed 90
+tablets/orally-disintegrating tablets per dispensing at retail or 270 tablets/orally-
+disintegrating tablets per dispensing at home delivery.
+3. If the patient is receiving ondansetron for pregnancy-induced nausea and
+vomiting, approve the requested quantity, not to exceed 90 tablets/orally-
+disintegrating tablets per dispensing at retail or 270 tablets/orally-disintegrating
+tablets per dispensing at home delivery (i.e., three tablets/orally-disintegrating
+tablets per day) for 6 months.
+8 Pages - Cigna National Formulary Coverage - Policy:Antiemetics – Serotonin Receptor Antagonists (Oral and
+Transdermal) Drug Quantity Management – Per Rx
+4. If the patient is receiving ondansetron for the treatment of one of the following
+conditions, approve the requested quantity, not to exceed 60 tablets/orally-
+disintegrating tablets per dispensing at retail or 180 tablets/orally-disintegrating
+tablets per dispensing at home delivery (i.e., allow for two tablets/orally-
+disintegrating tablets per day), for 6 months:
+• treatment of radiation-induced emesis,
+• delayed nausea and vomiting (greater than 24 hours following chemotherapy
+or radiation therapy),
+• as needed for nausea and vomiting after chemotherapy,
+• anticipatory nausea and vomiting,
+• vertigo or motion-induced nausea and vomiting,
+• opioid-induced nausea and vomiting,
+• treatment of postoperative nausea and vomiting,
+• drug-induced (non-chemotherapy) nausea and vomiting, or
+• nausea and vomiting due to other etiologies including idiopathic.
+Ondansetron 8 mg tablets (generic only) and Ondansetron 8 mg orally-
+disintegrating tablets (generic only)
+1. If the patient is ≥ 12 years of age and is receiving ondansetron for the
+prevention of nausea and vomiting associated with multiple courses or multiple
+days of chemotherapy within 1 month, approve the requested quantity, not to
+exceed 90 tablets/orally-disintegrating tablets per dispensing at retail or 270
+tablets/orally-disintegrating tablets per dispensing at home delivery.
+2. If the patient is ≥ 12 years of age and is receiving ondansetron for the
+prevention of radiation-induced nausea and vomiting associated with multiple
+courses or multiple days of radiation within 1 month, approve the requested
+quantity not to exceed 90 tablets/orally-disintegrating tablets per dispensing at
+retail or 270 tablets/orally-disintegrating tablets per dispensing at home delivery.
+3. If the patient is receiving ondansetron for pregnancy-induced nausea and
+vomiting, approve the requested quantity, not to exceed 90 tablets/orally-
+disintegrating tablets per dispensing at retail or 270 tablets/orally-disintegrating
+tablets per dispensing at home delivery (i.e., three tablets/orally-disintegrating
+tablets per day) for 6 months.
+4. If the patient is ≥ 12 years of age AND is receiving ondansetron for the
+treatment of one of the following conditions, approve the requested quantity, not
+to exceed 60 tablets/orally-disintegrating tablets per dispensing at retail or 180
+tablets/orally-disintegrating tablets per dispensing at home delivery (i.e., allow
+for two tablets/orally-disintegrating tablets per day), for 6 months:
+• treatment of radiation-induced emesis,
+• delayed nausea and vomiting (greater than 24 hours following chemotherapy
+or radiation therapy),
+• as needed for nausea and vomiting after chemotherapy,
+• anticipatory nausea and vomiting,
+• vertigo or motion-induced nausea and vomiting,
+• opioid-induced nausea and vomiting,
+8 Pages - Cigna National Formulary Coverage - Policy:Antiemetics – Serotonin Receptor Antagonists (Oral and
+Transdermal) Drug Quantity Management – Per Rx
+• treatment of postoperative nausea and vomiting,
+• drug-induced (non-chemotherapy) nausea and vomiting, or
+• nausea and vomiting due to other etiologies including idiopathic.
+Ondansetron 4 mg/5 mL oral solution (generic only)
+1. If the patient is receiving ondansetron for the prevention of nausea and vomiting
+associated with multiple courses or multiple days of chemotherapy within 1
+month, approve the quantity specified below.
+• Patients ≥ 12 years of age: approve the requested quantity, not to exceed a
+total of 900 mL per dispensing at retail or 2,700 mL per dispensing at home
+delivery.
+Note: This override would accommodate up to 30 mL (24 mg) per day.
+Round up to accommodate a whole package size for the 50 mL bottles. For
+example, if the required dose is 90 mL for multiple 3-day courses of
+chemotherapy each on Days 1, 14, and 28 (total 270 mL), approve 300 mL
+(six 50 mL bottles) per dispensing.
+• Patients ≤ 11 years of age: approve the requested quantity, not to exceed a
+total of 450 mL per dispensing at retail or 1,350 mL per dispensing at home
+delivery.
+Note: This would accommodate a dose of 15 mL (12 mg) per day. Round up
+to accommodate a whole package size for the 50 mL bottles. For example, if
+the required dose is 45 mL for multiple 3-day courses of chemotherapy each
+on Days 1, 14, and 28 (total 135 mL), approve 150 mL (three 50 mL bottles)
+per dispensing.
+2. If the patient is receiving ondansetron for the prevention of radiation-induced
+nausea and vomiting associated with multiple courses or multiple days of
+radiation within 1 month.
+• Patients ≥ 12 years of age: approve the requested quantity, not to exceed
+900 mL per dispensing at retail or 2,700 mL per dispensing at home delivery
+for 6 months.
+Note: This would accommodate a dose of 30 mL (24 mg) per day. Round up
+to accommodate a whole package size for the 50 mL bottles. For example, if
+the required dose is 90 mL for multiple 3-day courses of chemotherapy each
+on Days 1, 14, and 28 (total 270 mL), approve 300 mL (six 50 mL bottles)
+per dispensing).
+• Patients ≤ 11 years of age: approve the requested quantity, not to exceed
+450 mL per dispensing at retail or 1,350 mL per dispensing at home delivery
+for 6 months.
+Note: This would accommodate a dose of 15 mL (12 mg) per day. Round up
+to accommodate a whole package size for the 50 mL bottles. For example, if
+the required dose is 45 mL for multiple 3-day courses of chemotherapy each
+on Days 1, 14, and 28 (total 135 mL), approve 150 mL (three 50 mL bottles)
+per dispensing.
+8 Pages - Cigna National Formulary Coverage - Policy:Antiemetics – Serotonin Receptor Antagonists (Oral and
+Transdermal) Drug Quantity Management – Per Rx
+3. If the patient is ≥ 12 years of age AND is receiving ondansetron for the
+treatment of one of the following conditions, approve the requested quantity, not
+to exceed 600 mL per dispensing at retail or 1,800 mL per dispensing at home
+delivery (i.e., allow for 20 mL [16 mg] per day), for 6 months:
+• treatment of radiation-induced emesis
+• delayed nausea and vomiting (greater than 24 hours following chemotherapy
+or radiation therapy),
+• as needed for nausea and vomiting after chemotherapy,
+• anticipatory nausea and vomiting,
+• vertigo or motion-induced nausea and vomiting,
+• opioid-induced nausea and vomiting,
+• treatment of postoperative nausea and vomiting,
+• pregnancy-induced nausea and vomiting
+• drug-induced (non-chemotherapy) nausea and vomiting, or
+• nausea and vomiting due to other etiologies including idiopathic.
+4. If the patient is ≤ 11 years of age AND is receiving ondansetron (Zofran, generic)
+for the treatment of one of the following conditions, approve the requested
+quantity, not to exceed 300 mL per dispensing at home delivery or 900 mL per
+dispensing at home delivery (i.e., allow for 10 mL [8 mg] per day), for 6 months:
+• treatment of radiation-induced emesis
+• delayed nausea and vomiting (greater than 24 hours following chemotherapy
+or radiation therapy),
+• as needed for nausea and vomiting after chemotherapy,
+• anticipatory nausea and vomiting,
+• vertigo or motion-induced nausea and vomiting,
+• opioid-induced nausea and vomiting,
+• treatment of postoperative nausea and vomiting,
+• pregnancy-induced nausea and vomiting
+• drug-induced (non-chemotherapy) nausea and vomiting, or
+• nausea and vomiting due to other etiologies including idiopathic.
+Ondansetron 16 mg tablets
+No overrides recommended.
+REFERENCES
+1. Granisetron tablets [prescribing information]. Berlin, CT: Breckenridge; February 2024.
+2. Sancuso® transdermal system [prescribing information]. Bedminster, NJ: Kyowa Kirin; December
+2022.
+3. Ondansetron tablets and orally disintegrating tablets [prescribing information]. Mahwah, NJ:
+Glenmark; November 2021.
+4. Ondansetron oral solution [prescribing information[]. Kothur, India: Natco; November 2021.
+5. Ondansetron orally disintegrating tablets [prescribing information]. New Brunswick, NJ: Lifsa;
+June 2024.
+8 Pages - Cigna National Formulary Coverage - Policy:Antiemetics – Serotonin Receptor Antagonists (Oral and
+Transdermal) Drug Quantity Management – Per Rx
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 12/21/2023
+Revision
+Early Annual Brand Zofran 4 mg and 8 mg tablets were removed from the 09/11/2024
+Revision policy (obsolete). Generics remain.
+Ondansetron 24 mg tablets were removed from the policy
+(obsolete).
+Zuplenz 4 mg and 8 mg soluble films were removed from the
+policy (obsolete).
+Ondansetron 16 mg orally disintegrating tablets: New quantity
+limits of 2 tablets per dispensing at retail and 6 tablets per dispensing
+at home delivery were added to the policy. No clinical overrides
+apply.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. ©
+2024 The Cigna Group.
+8 Pages - Cigna National Formulary Coverage - Policy:Antiemetics – Serotonin Receptor Antagonists (Oral and
+Transdermal) Drug Quantity Management – Per Rx

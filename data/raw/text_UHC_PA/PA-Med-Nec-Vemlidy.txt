@@ -1,0 +1,98 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2285-6
+Program Prior Authorization/Medical Necessity
+Medication Vemlidy® (tenofovir alafenamide)*
+P&T Approval Date 8/2022, 11/2022, 11/2023, 2/2024, 5/2024, 5/2025
+Effective Date 8/1/2025
+1. Background
+Vemlidy (tenofovir alafenamide) is a hepatitis B virus (HBV) nucleoside analogue reverse
+transcriptase inhibitor indicated for the treatment of chronic hepatitis B virus (HBV) infection
+in adults and pediatric patients 6 years of age and older and weighing at least 25 kg with
+compensated liver disease.
+Entecavir (generic Baraclude) is an HBV nucleoside analogue reverse transcriptase inhibitor
+indicated for the treatment of chronic hepatitis B virus infection in adults and children at least
+2 years of age with evidence of active viral replication and either evidence of persistent
+elevations in serum aminotransferases (ALT or AST) or histologically active disease.
+Tenofovir disoproxil fumarate (generic Viread) is an HBV nucleoside analogue reverse
+transcriptase inhibitor indicated for the treatment of chronic hepatitis B in adults and pediatric
+patients 2 years of age and older weighing at least 10 kg.
+2. Coverage Criteriaa:
+A. Treatment of Chronic Hepatitis B Infection:
+1. Initial Authorization
+a. Vemlidy* will be approved based on all of the following criteria:
+(1) Diagnosis of chronic hepatitis B infectionb
+-AND-
+(2) Both of the following:
+(a) Submission of medical records documenting one of the following:
+i. Patient has a history of adverse event or intolerance to entecavir
+(generic Baraclude)
+-OR-
+ii. Patient is not a suitable candidate for entecavir (generic Baraclude)
+-AND-
+© 2025 UnitedHealthcare Services Inc.
+1
+(b) One of the following:
+i. Submission of medical records documenting a history of adverse event
+or intolerance to tenofovir disoproxil fumarate (generic Viread)*
+-OR-
+ii. Submission of medical records documenting an estimated glomerular
+filtration rate below 90 mL/min
+-OR-
+iii. Submission of medical records documenting a diagnosis of osteopenia
+as defined by a BMD T-score between -1 and -2.5 (BMD T-score
+greater than -2.5 and less than or equal to -1) based on BMD
+measurements from lumbar spine (at least two vertebral bodies), hip
+(femoral neck, total hip), or radius (one-third radius site) [Provider must
+submit patient specific BMD T-scores] with evidence of progressive
+bone loss on serial DEXA scan
+-OR-
+iv. Submission of medical records documenting a diagnosis of osteoporosis
+as defined by a BMD T-score ≤ -2.5 based on BMD measurements from
+lumbar spine (at least two vertebral bodies), hip (femoral neck, total
+hip), or radius (one-third radius site) [Provider must submit patient
+specific BMD T-score]
+-OR-
+v. Submission of medical records documenting a prior low-trauma or non-
+traumatic fracture
+-OR-
+vi. Patient is less than 20 years of age
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Vemlidy will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Vemlidy therapyb
+-AND-
+(2) Patient is not a suitable candidate for entecavir (generic Baraclude) or
+tenofovir disoproxil fumarate (generic Viread).
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services Inc.
+2
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+b Plans sitused in Nevada are not subject to clinical criteria. Only step therapy may be required.
+*Vemlidy and Brand Viread are typically excluded from coverage. Tried/Failed criteria may be in
+place. Please refer to plan specifics to determine exclusion status.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place
+4. References:
+1. Vemlidy [package insert]. Foster City, CA: Gilead Sciences, Inc.; March 2024.
+2. Baraclude [package insert]. Princeton, NJ: Brisol-Myers Squibb Company; November 2019.
+3. Viread [package insert]. Foster City, CA: Gilead Sciences, Inc.; April 2019.
+Program Prior Authorization/Medical Necessity – Vemlidy® (tenofovir
+alafenamide)
+Change Control
+8/2022 New program
+11/2022 Updated language for prior use of entecavir and generic Viread.
+11/2023 Annual review with no changes to clinical coverage criteria. Updated
+background and references.
+2/2024 Added Nevada footnote.
+5/2024 Updated background with expanded indication in patients 6 to 11 years
+of age weighing at least 25 kg. Updated reference.
+5/2025 Annual review with no changes.
+© 2025 UnitedHealthcare Services Inc.
+3

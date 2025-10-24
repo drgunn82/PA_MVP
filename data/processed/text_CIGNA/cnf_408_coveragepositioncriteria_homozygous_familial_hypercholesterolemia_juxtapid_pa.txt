@@ -1,0 +1,328 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Homozygous Familial Hypercholesterolemia – Juxtapid Prior
+Authorization Policy
+• Juxtapid® (lomitapide capsules − Amryt)
+REVIEW DATE: 05/08/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Juxtapid, a microsomal triglyceride transfer protein inhibitor, is indicated as an
+adjunct to a low fat diet and other lipid-lowering treatments, including low-density
+lipoprotein (LDL) apheresis where available, to reduce low-density lipoprotein
+cholesterol (LDL-C), total cholesterol, apolipoprotein B, and non-high-density
+lipoprotein cholesterol (non-HDL-C) in adults with homozygous familial
+hypercholesterolemia (HoFH).1 Limitations of use include that the safety and
+efficacy of Juxtapid have not been established in patients with hypercholesterolemia
+who do not have HoFH, including those with heterozygous familial
+hypercholesterolemia (HeFH). Also, the effect of Juxtapid on cardiovascular (CV)
+morbidity and mortality have not been determined.
+Repatha® (evolocumab subcutaneous injection) and Praluent® (alirocumab
+subcutaneous injection), two proprotein convertase subtilisin kexin type 9 (PCSK9)
+inhibitors, are indicated as an adjunct to diet and other LDL-lowering therapies
+(e.g., statins, ezetimibe, LDL apheresis) in patients with HoFH who require
+additional LDL-C lowering.2,3 It is notable that patients known to have two LDL-
+receptor negative alleles (little or no residual function) did not respond or had
+minimal response to these agents. PCSK9 inhibitors are well tolerated and are not
+Page 1 of 7 - Cigna National Formulary Coverage - Policy:Homozygous Familial Hypercholesterolemia – Juxtapid
+Prior Authorization Policy
+associated with hepatotoxicity.2 Simvastatin, atorvastatin, and rosuvastatin are
+statins that are indicated for the management of patients with HoFH.4-6 Ezetimibe
+is also indicated for use in combination with atorvastatin or simvastatin in patients
+with HoFH.7 Ezetimibe/simvastatin tablets are indicated for use in HoFH.8
+Evkeeza® (evinacumab-dgnb intravenous infusion), an angiopoietin-like 3 inhibitor,
+is also indicated as an adjunct to other LDL-C lowering therapies for the treatment
+of HoFH in patients ≥ 5 years of age.9
+Disease Overview
+Familial hypercholesterolemias, which includes HeFH and HoFH, encompasses a
+group of genetic defects that causes severe elevations in LDL-C levels, as well as
+other lipid parameters.10,11 HoFH impacts approximately 1 in 300,000 to 1,000,000
+persons. The condition is most commonly due to impaired functionality of the LDL
+receptor which leads to a low or absence of clearance of LDL-C from the circulation.
+Currently known causes of familial hypercholesterolemia include mutations in the
+LDL receptor, apolipoprotein B, or PCSK9 genes. Patients with familial
+hypercholesterolemia may have physical findings such as tendon or cutaneous
+xanthomas, which may occur in childhood. Individuals with familial
+hypercholesterolemia are at very high risk of atherosclerotic cardiovascular disease
+(ASCVD) at a premature age. Most guidelines recommended LDL-C targets of <
+100 mg/dL for adults and < 70 mg/dL for adults with ASCVD or other risk factors.
+Statins are the initial treatment for familial hypercholesterolemia. For patients with
+HoFH, high-intensity statin therapy is recommended, with ezetimibe added as well.
+Therapy with a PCSK9 inhibitor (e.g., Repatha, Praluent) is usually the next step.
+Juxtapid can be added onto maximal lipid-lowering therapy and Evkeeza®
+(evinacumab-dgnb intravenous infusion) may be considered. Combination therapy
+is required for most patients. LDL apheresis is recommended in certain
+circumstances. The diagnosis of HoFH can be done by genetic or clinical criteria.10
+An untreated LDL-C > 400 mg/dL is suggestive of HoFH. Patients may have
+cutaneous or tendon xanthomas before 10 years of age and/or untreated elevated
+LDL-C levels consistent with HeFH in both parents. In the digenic form, one parent
+may have normal LDL-C levels and the other may have LDL-C levels consistent with
+HoFH.
+Guidelines
+• American College of Cardiology Expert Consensus Decision Pathway
+on the Role of Non-statin Therapies (2022): Specialized therapies, one
+of which includes Juxtapid, may be needed to control LDL-C in certain
+patients (e.g., those with HoFH) who have had an inadequate response to
+statins, with or without ezetimibe, and PCSK9 inhibitors.12
+• European Atherosclerosis Society (2023): Clinical guidance by this
+organization recommends lipid-lowering therapy be initiated with high-
+intensity statin therapy and ezetimibe.11 A PCSK9 inhibitor can be added as
+well. If patients are not at LDL-C goals, other agents can be alternatives as
+well (e.g., Juxtapid, Evkeeza). Lipoprotein apheresis may also be
+considered. The goal is to reduce LDL-C to < 115 mg/dL in children and
+adolescents, < 70 mg/dL in adults if no major ASCVD risk factors are
+7 Pages - Cigna National Formulary Coverage - Policy:Homozygous Familial Hypercholesterolemia – Juxtapid
+Prior Authorization Policy
+present, and < 55 mg/dL if patients have ASCVD or major ASCVD risk
+factors.
+Safety
+Juxtapid has a Boxed Warning regarding the risk of hepatotoxicity.1 Juxtapid may
+cause elevations in liver transaminases. Also, Juxtapid increases hepatic fat
+(hepatic steatosis) with or without concomitant increases in transaminases. Due to
+the risk of hepatotoxicity, Juxtapid is available only through a Risk Mitigation and
+Strategy Program. Juxtapid is a Pregnancy Category X medication and may cause
+fetal harm when given to a pregnant woman based on findings suggesting
+teratogenicity in animals. Females of reproductive potential should obtain a
+negative pregnancy test before Juxtapid initiation and should utilize effective
+contraception during Juxtapid use. Juxtapid is associated with gastrointestinal (GI)
+adverse events (AEs), which occurred in 93% of patients (n = 27/29). GI AEs
+included diarrhea (79%), nausea (65%), dyspepsia (38%), vomiting (34%), and
+abdominal pain (34%). Postmarketing reports regarding severe diarrhea have been
+associated with use of Juxtapid which have involved hospitalization of patients due
+to diarrhea-related complications such as volume depletion.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Juxtapid. All
+approvals are provided for the duration noted below. A patient who has previously
+met Initial Therapy criteria for Juxtapid for the requested indication under the
+Coverage Review Department and is currently receiving Juxtapid is only required to
+meet continuation of therapy criteria (i.e., currently receiving therapy). If past
+criteria has not been met under the Coverage Review Department and the patient is
+currently receiving Juxtapid, or is restarting Juxtapid, Initial Therapy criteria must be
+met.
+• Juxtapid® (lomitapide capsules - Amryt)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Homozygous Familial Hypercholesterolemia (HoFH). Approve for 1 year if
+the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve if the patient meets ALL of the following (i, ii, iii,
+and iv):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient meets ONE of the following (a, b, or c):
+a) Patient has phenotypic confirmation of homozygous familial
+hypercholesterolemia; OR
+7 Pages - Cigna National Formulary Coverage - Policy:Homozygous Familial Hypercholesterolemia – Juxtapid
+Prior Authorization Policy
+Note: Examples include pathogenic variants at the low-density
+lipoprotein receptor (LDLR), apolipoprotein B (apo B), proprotein
+convertase subtilisin kexin type 9 (PCSK9), or low-density lipoprotein
+receptor adaptor protein 1 (LDLRAP1) gene.
+b) Patient has an untreated low-density lipoprotein cholesterol (LDL-C)
+level > 400 mg/dL AND meets ONE of the following [(1) or (2)]:
+Note: Untreated refers to prior therapy with any antihyperlipidemic
+agent.
+(1) Patient had clinical manifestation of homozygous familial
+hypercholesterolemia before 10 years of age; OR
+Note: Clinical manifestations of homozygous familial
+hypercholesterolemia are cutaneous xanthomas, tendon
+xanthomas, arcus cornea, tuberous xanthomas, or xanthelasma.
+(2) At least one parent of the patient had untreated LDL-C levels or
+total cholesterol levels consistent with familial
+hypercholesterolemia; OR
+Note: An example of familial hypercholesterolemia is an untreated
+low-density LDL-C level ≥ 190 mg/dL and/or an untreated total
+cholesterol level > 250 mg/dL.
+c) Patient has a treated LDL-C level ≥ 300 mg/dL AND meets ONE of the
+following [(1) or (2)]:
+Note: Treated refers to after therapy with at least one
+antihyperlipidemic agent. Some examples of antihyperlipidemic
+agents include statins (e.g., atorvastatin, rosuvastatin, lovastatin,
+simvastatin, pravastatin), ezetimibe, PCSK9 inhibitors (i.e., Repatha
+[evolocumab subcutaneous injection], Praluent [alirocumab
+subcutaneous injection]), and Evkeeza (evinacumab-dgnb intravenous
+infusion).
+(1) Patient had clinical manifestations of homozygous familial
+hypercholesterolemia before 10 years of age; OR
+Note: Examples of clinical manifestations of homozygous familial
+hypercholesterolemia are cutaneous xanthomas, tendon
+xanthomas, arcus cornea, tuberous xanthomas or xanthelasma.
+(2) At least one parent of the patient had untreated LDL-C levels or
+total cholesterol levels consistent with familial
+hypercholesterolemia; AND
+Note: An example of familial hypercholesterolemia is an untreated
+LDL-C ≥ 190 mg/dL and/or an untreated total cholesterol > 250
+mg/dL.
+iii. Patient meets ONE of the following (a or b):
+a) Patient meets BOTH of the following [(1) and (2)]:
+(1) Patient has tried at least one proprotein convertase subtilisin
+kexin type 9 (PCSK9) inhibitor for ≥ 8 continuous weeks; AND
+Note: Examples of PCSK9 inhibitors include Repatha (evolocumab
+subcutaneous injection) and Praluent (alirocumab subcutaneous
+injection).
+(2) LDL-C level after this PCSK9 inhibitor therapy remains ≥ 70
+mg/dL; OR
+7 Pages - Cigna National Formulary Coverage - Policy:Homozygous Familial Hypercholesterolemia – Juxtapid
+Prior Authorization Policy
+b) Patient is known to have two LDL-receptor negative alleles; AND
+iv. Patient meets ONE of the following (a or b):
+a) Patient meets ALL of the following [(1), (2), and (3)]:
+(1) Patient has tried one high-intensity statin therapy (i.e.,
+atorvastatin ≥ 40 mg daily; rosuvastatin ≥ 20 mg daily [as a single
+entity or as a combination product]); AND
+(2) Patient has tried one high-intensity statin along with ezetimibe
+(as a single-entity or as a combination product) for ≥ 8 continuous
+weeks; AND
+(3) Low-density lipoprotein cholesterol level after this treatment
+regimen remains ≥ 70 mg/dL; OR
+b) Patient has been determined to be statin intolerant by meeting ONE of
+the following [(1) or (2)]:
+(1) Patient experienced statin-related rhabdomyolysis; OR
+Note: Rhabdomyolysis is statin-induced muscle breakdown that is
+associated with markedly elevated creatine kinase levels (at least
+10 times the upper limit of normal), along with evidence of end
+organ damage which can include signs of acute renal injury (noted
+by substantial increases in serum creatinine [Scr] levels [a ≥ 0.5
+mg/dL increase in Scr or doubling of the Scr] and/or myoglobinuria
+[myoglobin present in urine]).
+(2) Patient meets ALL of the following [(a), (b), and (c)]:
+(a) Patient experienced skeletal-related muscle symptoms;
+AND
+Note: Examples of skeletal-related muscle symptoms include
+myopathy (muscle weakness) or myalgia (muscle aches,
+soreness, stiffness, or tenderness).
+(b) The skeletal-muscle related symptoms occurred while
+receiving separate trials of both atorvastatin and rosuvastatin
+(as single-entity or combination products); AND
+(c) When receiving separate trials of both atorvastatin and
+rosuvastatin (as single-entity or as combination products), the
+skeletal-related muscle symptoms resolved upon discontinuation
+of each respective statin therapy (atorvastatin and
+rosuvastatin); OR
+Note: Examples of skeletal-related muscle symptoms include
+myopathy and myalgia.
+B) Patient Currently Receiving Juxtapid. Approve if according to the prescriber,
+the patient has experienced a response to therapy.
+Note: Examples of a response to therapy include decreasing low-density
+lipoprotein cholesterol (LDL-C), total cholesterol, non-high-density lipoprotein
+(non-HDL-C), or apolipoprotein B levels. Note: If the patient is currently
+receiving the requested therapy but has not previously received approval of
+Juxtapid for this specific indication through the Coverage Review
+Department, review under criteria for Initial Therapy. If the patient is
+restarting therapy with Juxtapid, Initial Therapy criteria must be met.
+7 Pages - Cigna National Formulary Coverage - Policy:Homozygous Familial Hypercholesterolemia – Juxtapid
+Prior Authorization Policy
+CONDITIONS NOT COVERED
+• Juxtapid® (lomitapide capsules - Amryt)
+is(are) considered experimental, investigational, or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria will
+be updated as new published data are available):
+1. Heterozygous Familial Hypercholesterolemia (HeFH). The safety and
+effectiveness of Juxtapid have not been established in patients with
+hypercholesterolemia who do not have HoFH, including those with HeFH.1
+2. Hyperlipidemia. The safety and efficacy of Juxtapid have not been established
+in patients with hypercholesterolemia who do not have HoFH.1
+Note: This is not associated with homozygous familial hypercholesterolemia and
+may be referred to as combined hyperlipidemia, hypercholesterolemia (pure,
+primary), mixed dyslipidemia, or increased/elevated low-density lipoprotein
+cholesterol (LDL-C) levels.
+REFERENCES
+1. Juxtapid® capsules [prescribing information]. Dublin, Ireland: Amryt; September 2020.
+2. Repatha® subcutaneous injection [prescribing information]. Thousand Oaks, CA: Amgen;
+September 2021.
+3. Praluent® subcutaneous injection [prescribing information]. Tarrytown, NY: Regeneron; March
+2024.
+4. Zocor® tablets [prescribing information]. Morgantown, WV; Viatris/Organon; August 2023.
+5. Lipitor® tablets [prescribing information]. Morgantown, WV; Viatris; Pfizer; April 2024.
+6. Crestor® tablets [prescribing information]. Wilmington, DE: AstraZeneca; July 2023.
+7. Zetia® tablets [prescribing information]. Jersey City, NJ: Organon; February 2024.
+8. Vytorin® tablets [prescribing information]. Jersey City, NJ: Organon; March 2024.
+9. Evkeeza® intravenous infusion [prescribing information]. Tarrytown, NY: Regeneron; March 2023.
+10. Cuchel M, Raal FJ, Hegele RA, et al. 2023 update on European Atherosclerosis Society Consensus
+Statement on Homozygous Familial Hypercholesterolaemia: new treatments and clinical guidance.
+Eur Heart J. 2023;44:2277-2291.
+11. Raal FJ, Hovingh GK, Catapano AL. Familial hypercholesterolemia treatments: guidelines and new
+therapies. Atherosclerosis. 2018;277:483-492.
+12. Lloyd-Jones DM, Morris PB, Ballantyne CM, et al. 2022 ACC Expert Consensus Decision Pathway on
+the Role of Non-Statin Therapies for LDL-Cholesterol Lowering in the Management of Atherosclerotic
+Cardiovascular Disease Risk. J Am Coll. 2022;80(14):1366-1418.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual It was added to the Policy Statement that a patient who has 04/26/2023
+Revision previously met initial therapy criteria for Juxtapid for the requested
+indication under the Coverage Review Department and is currently
+receiving Juxtapid is only required to meet continuation of therapy
+criteria (i.e., currently receiving therapy). If past criteria has not
+been met under the Coverage Review Department and the patient is
+currently receiving Juxtapid, or is restarting Juxtapid, initial criteria
+must be met. In addition, the following change was made:
+7 Pages - Cigna National Formulary Coverage - Policy:Homozygous Familial Hypercholesterolemia – Juxtapid
+Prior Authorization Policy
+Homozygous Familial Hypercholesterolemia: Requirements
+were divided to distinguish between initial therapy and patient
+currently receiving Juxtapid (previously there was only one criteria
+set). For a patient who is currently receiving Juxtapid and has
+previously met initial therapy criteria for the requested indication
+under the Coverage Review Department, only the continuation of
+therapy criteria has to be met, which was newly developed. The
+continuation of therapy criteria states that according to the
+prescribing physician, the patient has experienced a response to
+therapy with examples provided in a Note.
+Annual Policy Statement: The statement that “the agent is prescribed by 05/08/2024
+Revision or in consultation with a physician who specializes in the condition
+being treated” was removed. In addition, the following changes
+were made:
+Homozygous Familial Hypercholesterolemia: For Initial
+Therapy, the specialist physician requirement was removed. The
+requirement that the patient has had genetic confirmation by two
+mutant alleles at the low-density lipoprotein receptor, apolipoprotein
+B, proprotein convertase subtilisin kexin type 9, or low-density
+lipoprotein receptor adaptor protein 1 gene locus was changed to
+state that the patient has phenotypic confirmation of homozygous
+familial hypercholesterolemia and the above examples moved to a
+Note. The diagnostic criterion which stated that the patient has an
+untreated low-density lipoprotein cholesterol level > 500 mg/dL was
+changed to > 400 mg/dL. The criterion (which is in two places
+[those with an untreated low-density lipoprotein cholesterol level >
+400 mg/dL and a treated low-density lipoprotein cholesterol level ≥
+300 mg/dL]) that both parents of the patient had untreated low-
+density lipoprotein cholesterol levels or total cholesterol levels
+consistent with heterozygous familial hypercholesterolemia was
+changed to state that at least one parent of the patient had
+untreated low-density lipoprotein cholesterol levels or total
+cholesterol levels consistent with familial hypercholesterolemia. The
+related Note that “An example of heterozygous familial
+hypercholesterolemia in both parents would be if both had an
+untreated low-density lipoprotein cholesterol level ≥ 190 mg/dL
+and/or an untreated total cholesterol level > 250 mg/dL” was
+changed to state “An example of familial hypercholesterolemia is an
+untreated low-density lipoprotein cholesterol level ≥ 190 mg/dL
+and/or an untreated total cholesterol level > 250 mg/dL.” For a
+Patient Currently Receiving the Medication, the requirement that the
+“prescribing physician” notes that the patient has experienced a
+response to therapy was changed to “prescriber”.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2024
+The Cigna Group.
+7 Pages - Cigna National Formulary Coverage - Policy:Homozygous Familial Hypercholesterolemia – Juxtapid
+Prior Authorization Policy

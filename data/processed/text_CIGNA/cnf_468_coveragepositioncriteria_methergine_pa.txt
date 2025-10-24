@@ -1,0 +1,180 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Methylergonovine Prior Authorization Policy
+• Methergine® (methylergonovine maleate tablets – Lupin, generic)
+REVIEW DATE: 07/03/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Methylergonovine, a semi-synthetic ergot alkaloid, is indicated for management of
+uterine atony, hemorrhage, and subinvolution of the uterus following
+delivery of the placenta; and for control of uterine hemorrhage in the second
+stage of labor following delivery of the anterior shoulder.1
+Other Uses with Supportive Evidence
+Methylergonovine can cause constriction of the smooth muscles in the blood vessels
+and this effect can be helpful in treating vascular headaches, such as migraines or
+cluster headaches.2 However, methylergonovine should only be used for limited
+periods of time in most patients and only under careful supervision of a physician.
+The dose of methylergonovine used for migraines is 0.2 to 0.4 mg three times a day;
+a maximum dose of 1.6 mg/day has been reported (eight 0.2 mg tablets per day).
+Guidelines/Recommendations
+An updated assessment of the preventive and acute treatment of migraine by
+the American Headache Society (AHS) [2018; update 2021] reaffirms previous
+migraine guidelines.3,4 Methylergonovine is not addressed in the update.
+Prevention. Patients with migraine should be considered for preventive treatment
+in the following situations: when attacks significantly interfere with patients’ daily
+Page 1 of 5 - Cigna National Formulary Coverage - Policy: Methylergonovine Prior Authorization Policy
+routines despite acute treatment; frequent attacks (≥ 4 monthly headache days);
+contraindication to, failure, overuse, or adverse events with acute treatments; or
+patient preference. Before developing a preventive treatment plan, the appropriate
+use (e.g., drug type, route and timing of administration, frequency) of acute
+treatments should be initiated and coupled with education and lifestyle modifications.
+All patients with migraine should be offered a trial of acute treatment. Based on the
+level of evidence for efficacy and the American Academy of Neurology scheme for
+classification of evidence, the following oral treatments have established efficacy and
+should be offered for migraine prevention: antiepileptic drugs (divalproex sodium,
+valproate sodium, topiramate [not for women of childbearing potential without a
+reliable method of birth control]); beta-blockers (metoprolol, propranolol, timolol);
+calcitonin gene-related peptide (CGRP) receptor antagonists indicated for migraine
+prevention (i.e., Aimovig, Ajovy, Emgality, Nurtec ODT, Qulipta, and Vyepti); and
+frovatriptan (for short-term preventive treatment of menstrual migraine). The
+following treatments are probably effective and should be considered for migraine
+prevention: antidepressants (amitriptyline, venlafaxine); beta-blockers (atenolol,
+nadolol); and angiotensin receptor blockers (candesartan). Treatment. Triptans
+(e.g., almotriptan, eletriptan, frovatriptan, naratriptan, rizatriptan, sumatriptan, and
+zolmitriptan) are considered the gold standard for acute treatment of moderate to
+severe migraine headaches or mild to moderate migraine headaches that respond
+poorly to over-the-counter analgesics. Nonsteroidal anti-inflammatory drugs
+(NSAIDs) as a class are mentioned as an option for acute treatment of mild to
+moderate migraine attacks; celecoxib is not specifically addressed. The potential for
+cardiovascular and gastrointestinal adverse events with NSAID use is noted. Other
+treatment options in the mild to moderate setting include nonopioid analgesics,
+acetaminophen, or caffeinated analgesic combinations. For moderate to severe
+attacks or attacks which respond poorly to NSAIDs or caffeinated combinations, the
+update lists the triptans, dihydroergotamine, the oral CGRP receptor antagonists
+(Nurtec® ODT [rimegepant orally disintegrating tablets,] and Ubrelvy® [ubrogepant
+tablets]), and Reyvow™ (lasmiditan tablet) as effective treatments. The
+recommendation remains that clinicians must consider medication efficacy and
+potential medication-related adverse events when prescribing acute medications for
+migraine.
+The AHS issued an update to their position statement (2024) specifically regarding
+therapies targeting CGRP for the prevention of migraine.5 The evidence for the
+efficacy, tolerability, and safety of CGRP-targeting migraine preventive therapies
+(specifically, the monoclonal antibodies: Aimovig® [erenumab-aooe subcutaneous
+{SC} injection], Ajovy® [fremanezumab-vfrm SC injection], Emgality®
+[galcanezumab-gnlm SC injection], and Vyepti® [eptinezumab-jjmr intravenous
+infusion], and the gepants: Nurtec ODT [rimegepant orally disintegrating tablets] and
+Qulipta® [atogepant tablets]) is substantial and consistent across different individual
+CGRP-targeting treatments. Extensive “real-world” clinical experience corroborates
+clinical trials. This data indicates that the efficacy and tolerability of CGRP-targeting
+therapies are equal to or greater than those of previous first-line therapies. The
+CGRP-targeting therapies should be considered as a first-line approach for migraine
+prevention along with previous first-line treatments without a requirement for prior
+failure of other classes of migraine preventive treatment. Additionally, Botox®
+5 Pages - Cigna National Formulary Coverage - Policy: Methylergonovine Prior Authorization Policy
+(onabotulinumtoxinA SC injection) is considered a first-line therapy for prevention of
+chronic migraine.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of
+methylergonovine, for prescriptions with quantities exceeding 28 tablets per 30 days.
+Twenty-eight (28) tablets per month will be sufficient to treat uterine atony,
+hemorrhage, and subinvolution of the uterus following the delivery of the placenta
+(FDA-approved indication). All approvals are provided for the duration noted below.
+Because of the specialized skills required for evaluation and diagnosis of patients with
+migraines who are treated with methylergonovine as well as the monitoring required
+for adverse events and long-term efficacy, approval requires methylergonovine to be
+prescribed by or in consultation with a physician who specializes in the condition being
+treated.
+• Methergine® (methylergonovine maleate tablets – Lupin, generic)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Uterine Atony, Hemorrhage, and Subinvolution of the Uterus. Do not
+approve. The initial quantity of 28 tablets is sufficient to treat this condition;
+quantities > 28 tablets for this indication will not be approved.
+Other Uses with Supportive Evidence
+2. Migraine Headaches – Acute Treatment. Approve for 1 year if the patient
+meets BOTH of the following (A and B):
+A) Patient is ≥ 18 years of age; AND
+B) Patient meets ONE of the following (i or ii):
+i. Patient is already receiving methylergonovine therapy; OR
+ii. Patient meets ALL of the following (a, b, and c):
+a) Patient has tried and had inadequate efficacy and/or unacceptable side
+effects to at least one triptan therapy; AND
+Note: Examples of triptans are almotriptan, eletriptan, frovatriptan,
+naratriptan, rizatriptan, sumatriptan, and zolmitriptan.
+b) Patient has tried and had inadequate efficacy and/or unacceptable side
+effects to at least one other type of abortive therapy; AND
+Note: Examples of abortive therapies include analgesics
+(acetaminophen, nonsteroidal anti-inflammatory drugs [NSAIDs]),
+butalbital-containing products (butalbital-acetaminophen, butalbital-
+acetaminophen-caffeine, butalbital-acetaminophen-caffeine-codeine,
+butalbital-aspirin-caffeine, butalbital-aspirin-caffeine-codeine),
+dihydroergotamine (DHE, Migranal, generic), oral calcitonin gene-
+5 Pages - Cigna National Formulary Coverage - Policy: Methylergonovine Prior Authorization Policy
+related peptide (CGRP) receptor antagonists (Nurtec ODT [rimegepant
+orally disintegrating tablets], Ubrelvy [ubrogepant tablets], Reyvow
+[lasmiditan tablet]).
+c) The medication is prescribed by or in consultation with a neurologist or
+headache specialist.
+3. Migraine Headaches – Prevention. Approve for 1 year if the patient meets ALL
+of the following (A, B, and C):
+A) Patient is ≥ 18 years of age: AND
+B) Patient has tried at least two standard prophylactic pharmacologic therapies,
+each from a different pharmacologic class; AND
+Note: Examples of prophylactic pharmacologic therapies include angiotensin
+receptor blocker, angiotensin converting enzyme inhibitor, anticonvulsant,
+beta-blocker, calcium channel blocker, calcitonin gene-related peptide (CGRP)
+receptor antagonists indicated for migraine prevention, tricyclic
+antidepressant, other antidepressant.
+C) The medication is prescribed by or in consultation with a neurologist or
+headache specialist.
+CONDITIONS NOT COVERED
+• Methergine® (methylergonovine maleate tablets – Lupin, generic)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s); criteria will be updated as new published data are available.
+REFERENCES
+1. Methergine tablets [prescribing information]. Baltimore, MD: Lupin; January 2016.
+2. Saper JR, Evans RW. Oral methylergonovine maleate for refractory migraine and cluster headache
+prevention. Headache. 2013;53(2):378-81.
+3. American Headache Society. The American Headache Society position statement on integrating new
+migraine treatments into clinical practice. Headache. 2019;59:1-18.
+4. Ailani J, Burch RC, Robbins MS, on behalf of the Board of Directors of the American Headache
+Society. The American Headache Society Consensus Statement: Update on integrating new
+migraine treatments into clinical practice. Headache. 2021;00:1–19.
+5. Charles AC, Digre KB, Goadsby PJ, et al; American Headache Society. Calcitonin gene-related
+peptide-targeting therapies are a first-line option for the prevention of migraine: An American
+Headache Society position statement update. Headache. 2024 Mar 11. Epub ahead of print.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Annual Revision No criteria changes. 06/07/2023
+Annual Revision Migraine Headaches – Prevention: Addition of calcitonin 07/03/2024
+gene-related peptide (CGRP) receptor antagonists indicated for
+migraine prevention to the Note listing examples of prophylactic
+pharmacologic therapies.
+5 Pages - Cigna National Formulary Coverage - Policy: Methylergonovine Prior Authorization Policy
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2024 The Cigna
+Group.
+5 Pages - Cigna National Formulary Coverage - Policy: Methylergonovine Prior Authorization Policy

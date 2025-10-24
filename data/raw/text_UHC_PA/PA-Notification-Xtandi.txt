@@ -1,0 +1,106 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1117-15
+Program Prior Authorization/Notification
+Medication Xtandi® (enzalutamide)
+P&T Approval Date 11/2012, 7/2013, 8/2013, 11/2014, 11/2015, 9/2016, 9/2017, 5/2018,
+8/2018, 9/2019, 3/2020, 3/2021, 3/2022, 3/2023, 3/2024, 6/2024, 6/2025
+Effective Date 9/1/2025
+1. Background:
+Xtandi® (enzalutamide) is an androgen receptor inhibitor indicated for the treatment of patients
+with castration-resistant prostate cancer (CRPC), metastatic castration-sensitive prostate cancer
+(mCSPC), and non-metastatic castration-sensitive prostate cancer (nmCSPC) with biochemical
+recurrence at high risk for metastasis (high-risk BCR).
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Xtandi will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Prostate Cancer
+1. Initial Authorization
+a. Xtandi will be approved based on both of the following criteria:
+(1) Diagnosis of prostate cancer
+-AND-
+(2) One of the following:
+(a) Both of the following:
+© 2025 UnitedHealthcare Services, Inc.
+1
+i. Disease is castration-resistant
+ii. One of the following:
+• Used in combination with a gonadotropin-releasing hormone (GnRH)
+analog [e.g., Lupron (leuprolide), Zoladex (goserelin), Trelstar
+(triptorelin), Vantas (histrelin), Firmagon (degarelix)]
+• Patient has had bilateral orchiectomy
+-OR-
+(b) Both of the following:
+i. Disease is metastatic castration-sensitive
+ii. One of the following:
+• Used in combination with a gonadotropin-releasing hormone (GnRH)
+analog [e.g., Lupron (leuprolide), Zoladex (goserelin), Trelstar
+(triptorelin), Vantas (histrelin), Firmagon (degarelix)]
+• Patient has had bilateral orchiectomy
+-OR-
+(c) Disease is non-metastatic castration-sensitive with biochemical recurrence at
+high risk for metastasis
+Authorization will be issued for 12 months.
+2. Reauthorization Criteria
+a. Xtandi will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Xtandi therapy
+Authorization will be issued for 12 months.
+C. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category
+of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+© 2025 UnitedHealthcare Services, Inc.
+2
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits and/or Step Therapy may be in place.
+4. References:
+1. Xtandi [package insert]. Northbrook, IL: Astellas Pharma US, Inc. March 2025.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+https://www.nccn.org/professionals/drug_compendium/content/. Accessed April 28, 2025.
+Program Prior Authorization/Notification - Xtandi (enzalutamide)
+Change Control
+11/2014 Annual review. Added ‘relapsed’ to prostate cancer criteria. Updated
+background & references.
+11/2015 Annual review. Revised prostate cancer criteria. Updated background &
+references.
+9/2016 Annual review. Updated references
+9/2017 Annual review. Updated background and criteria to include NCCN
+recommendation as initial androgen deprivation therapy for prostate cancer
+in combination with a GnRH agonist. Updated references.
+5/2018 Updated background and criteria to remove criteria for use as initial
+androgen deprivation therapy as no longer recommended by NCCN.
+8/2018 Updated background and criteria with to align with new indication in non-
+metastatic setting. Updated criteria to include requirement to use in
+combination with GnRH analog or bilateral orchiectomy as per label.
+9/2019 Annual review with no changes to coverage criteria. Updated reference.
+Added general NCCN recommended review criteria.
+3/2020 Updated background and criteria to include new labeled indication for
+metastatic castration-sensitive prostate cancer.
+3/2021 Annual review. No changes to coverage criteria. Updated references.
+3/2022 Annual review. No changes to coverage criteria. Updated references.
+3/2023 Annual review with no change to coverage criteria. Updated references.
+Added state mandate footnote.
+3/2024 Annual review. Updated background and criteria with expanded indication
+in non-metastatic castration-sensitive setting. Updated references.
+6/2024 Updated criteria to reflect that for non-metastatic castration-sensitive
+prostate cancer concomitant use with GnRH is not required.
+6/2025 Annual review with no change to coverage criteria. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+3

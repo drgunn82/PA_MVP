@@ -1,0 +1,114 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1173-12
+Program Prior Authorization/Notification
+Medication Ninlaro® (ixazomib)
+P&T Approval Date 1/2016, 4/2016, 3/2017, 3/2018, 3/2019, 3/2020, 3/2021, 3/2022,
+3/2023, 3/2024, 6/2024, 6/2025
+Effective Date 9/1/2025
+1. Background:
+Ninlaro (ixazomib) is a proteasome inhibitor indicated in combination with lenalidomide and
+dexamethasone for the treatment of patients with multiple myeloma who have received at least
+one prior therapy.
+Limitations of Use:
+Ninlaro is not recommended for use in the maintenance setting or in newly diagnosed multiple
+myeloma in combination with lenalidomide and dexamethasone outside of controlled clinical
+trials.
+The National Comprehensive Cancer Network (NCCN) also recommends use of Ninlaro as
+primary or maintenance therapy for multiple myeloma, for treatment of relapsed or refractory
+systemic light chain amyloidosis, and for treatment of Waldenström
+macroglobulinemia/lymphoplasmacytic lymphoma in combination with rituximab and
+dexamethasone.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Ninlaro will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Multiple Myeloma
+1. Initial Authorization
+© 2025 UnitedHealthcare Services, Inc.
+1
+a. Ninlaro will be approved based on the following criterion:
+(1) Diagnosis of multiple myeloma
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Ninlaro will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Ninlaro therapy
+Authorization will be issued for 12 months.
+C. Systemic Light Chain Amyloidosis
+1. Initial authorization
+a. Ninlaro will be approved based on the following criterion:
+(1) Diagnosis of relapsed or refractory systemic light chain amyloidosis
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Ninlaro will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Ninlaro therapy
+Authorization will be issued for 12 months.
+D. Waldenström Macroglobulinemia/Lymphoplasmacytic Lymphoma
+1. Initial authorization
+a. Ninlaro will be approved based on both of the following criteria:
+(1) Diagnosis of Waldenström macroglobulinemia/lymphoplasmacytic lymphoma
+-AND-
+(2) Used in combination with Rituxan (rituximab) and dexamethasone
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Ninlaro will be approved based on the following criterion:
+© 2025 UnitedHealthcare Services, Inc.
+2
+(1) Patient does not show evidence of progressive disease while on Ninlaro therapy
+Authorization will be issued for 12 months.
+E. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category
+of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Ninlaro [package insert]. Cambridge, MA: Takeda Pharmaceutical Company Ltd.; July 2024
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org. Accessed May 2, 2025.
+Program Prior Authorization/Notification – Ninlaro (ixazomib)
+Change Control
+1/2016 New program.
+4/2016 Removed Revlimid & dexamethasone requirement from coverage criteria
+per NCCN. Updated background and references.
+3/2017 Annual Review. Updated background information and criteria to include
+NCCN recommendation for primary use in combination with Revlimid
+and dexamethasone.
+3/2018 Annual review with no changes to coverage criteria. Updated reference.
+3/2019 Annual review. Updated background information and criteria to include
+NCCN recommendation for relapsed/refractory systemic light chain
+amyloidosis. Updated criteria for multiple myeloma as Ninlaro is no
+longer recommended alone for relapsed or progressive disease. Updated
+reference.
+3/2020 Annual review. Updated background information and criteria to include
+NCCN recommendation for transplant candidates, and Waldenström
+© 2025 UnitedHealthcare Services, Inc.
+3
+Macroglobulinemia/Lymphoplasmacytic Lymphoma. Added standard
+language for NCCN recommended regimens. Updated reference.
+3/2021 Annual review. Updated references.
+3/2022 Annual review. Updated references.
+3/2023 Annual review with no change to coverage criteria. Updated background
+and references. Added state mandate footnote.
+3/2024 Annual review. Updated background and coverage criteria per NCCN
+guidelines. Updated references.
+6/2024 Updated Multiple Myeloma criteria to only diagnosis.
+6/2025 Annual review with no change to coverage criteria. Updated background
+and reference.
+© 2025 UnitedHealthcare Services, Inc.
+4

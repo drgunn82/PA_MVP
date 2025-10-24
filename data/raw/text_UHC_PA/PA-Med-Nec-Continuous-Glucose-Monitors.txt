@@ -1,0 +1,127 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2170-10
+Program Prior Authorization/Medical Necessity
+Medication Continuous glucose monitors, sensors and transmitters (all brands)
+P&T Approval Date 7/2019, 10/2019, 11/2019, 3/2020, 6/2021, 2/2022, 6/2022, 2/2023,
+8/2023, 7/2024
+Effective Date 10/1/2024
+1. Background:
+Continuous glucose monitors may be used by patients with diabetes who require glucose
+monitoring beyond what can be achieved with a standard blood glucose monitor. Coverage
+will be provided for the Guardian Connect sensor and transmitter when the Dexcom or
+Freestyle Libre monitors are not appropriate for the patient.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Guardian Connect, Guardian 3 and Guardian 4 continuous glucose sensors and
+transmitters will be approved for initial therapy based on all of the following criteria:
+a. Diagnosis of diabetes
+-AND-
+b. All of the following:
+(1) Patient is motivated and knowledgeable about use of continuous glucose
+monitoring
+-AND-
+(2) Patient is adherent to diabetic treatment plan
+-AND-
+(3) Patient participates in ongoing education and support
+-AND-
+c. One of the following:
+(1) Patient is on an intensive insulin regimen (3 or more insulin injections per day
+or uses continuous subcutaneous insulin infusion pump)b
+-OR-
+© 2024 UnitedHealthcare Services, Inc.
+1
+(2) One of the following:
+(a) Patient has a history of a level 3 hypoglycemic event
+(b) Patient has a history of more than one level 2 hypoglycemia events that
+persist despite multiple attempts to adjust medication(s) or modify diabetes
+treatment plan
+-AND-
+d. Patient regularly monitors blood glucose 4 or more times per dayb
+-AND-
+e. One of the followingb:
+(1) Patient has a physical or mental limitation that makes utilization of Dexcom G6
+and Dexcom G7 unsafe, inaccurate or otherwise not feasible (e.g. manual
+dexterity; document limitation)
+-OR-
+(2) Patient has a physical or mental limitation that makes utilization of Freestyle
+Libre unsafe, inaccurate or otherwise not feasible (e.g. manual dexterity;
+document limitation)
+Authorization will be issued for 12 months.
+2. All other continuous glucose monitors, sensors and transmitters will be approved for
+initial therapy based on all of the following criteria:
+a. Diagnosis of diabetes
+-AND-
+b. All of the following:
+(1) Patient is motivated and knowledgeable about use of continuous glucose
+monitoring
+-AND-
+(2) Patient is adherent to diabetic treatment plan
+-AND-
+(3) Patient participates in ongoing education and support
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+2
+c. One of the following:
+(1) Patient is on an intensive insulin regimen (3 or more insulin injections per day or
+uses continuous subcutaneous insulin infusion pump)b
+-OR-
+(2) One of the following:
+(a) Patient has a history of a level 3 hypoglycemic event
+(b) Patient has a history of more than one level 2 hypoglycemia events that
+persist despite multiple attempts to adjust medication(s) or modify diabetes
+treatment plan
+-AND-
+d. Patient regularly monitors blood glucose 4 or more times per dayb
+Authorization will be issued for 12 months.
+B. Reauthorizationb
+1. Continuous glucose monitors, sensors and transmitters will be approved for
+continuation of therapy based on the following criterion:
+a. Documentation of positive clinical response
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+b In Florida, Maine, Tennessee, and Texas only, medications prescribed for diabetes may be
+approved based on both of the following: 1) Provider attests use of this product is medically
+necessary for the treatment of diabetes; and- 2) If applicable, clinical characteristics exist that
+preclude the use of the covered preferred alternative(s) and use of the covered preferred
+alternative(s) could result in worsening of patient’s condition or inadequate treatment
+(document alternatives and clinical information related to worsening/inadequate treatment).
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+• Coverage is not provided for indications unproven per medical benefit drug policy.
+© 2024 UnitedHealthcare Services, Inc.
+3
+4. References:
+1. American Diabetes Association. Diabetes Technology: Standards of Care in Diabetes - 2023.
+Diabetes Care December 2022, Vol.46, S111-S127
+2. Lane AS, Mlynarczyk MA, de Veciana M, et al. Real-time continuous glucose monitoring in
+gestational diabetes: a randomized controlled trial. Am J Perinatol. 2019 Jul;36(9):891-897.
+3. LeRoith D, Biessels GJ, Braithwaite SS, et al. Treatment of diabetes in older adults: an Endocrine
+Society clinical practice guideline. J Clin Endocrinol Metab. 2019 May 1;104(5):1520-1574.
+Program Prior Authorization/Medical Necessity –Continuous glucose monitors,
+sensors and transmitters
+Change Control
+7/2019 New Medical Necessity program.
+10/2019 Removed monitor from criteria.
+11/2019 Modified criteria to allow coverage for any type of diabetes.
+3/2020 Added requirement that patient is knowledgeable about continuous
+glucose monitors, participates in education and support, and monitors
+blood glucose 3 or more times per day.
+6/2021 Modified criteria to monitor blood glucose 4 or more times per day and
+added criteria that patient has inadequate glycemic control despite an
+intensive diabetes management.
+2/2022 Added Florida, Maine, Tennessee, and Texas mandate language.
+6/2022 Added criteria for all continuous glucose monitors.
+2/2023 Removed Dexcom G4 and G5 since they are no longer on the market.
+Added the new product Dexcom G7.
+8/2023 Added Guardian 4 to criteria. Updated diabetes mandate language.
+Updated references.
+7/2024 Removed requirement for inadequate glycemic control. Added criteria
+for hypoglycemia.
+© 2024 UnitedHealthcare Services, Inc.
+4

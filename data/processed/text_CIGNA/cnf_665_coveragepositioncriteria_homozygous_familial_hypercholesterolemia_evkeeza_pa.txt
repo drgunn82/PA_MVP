@@ -1,0 +1,313 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Homozygous Familial Hypercholesterolemia – Evkeeza Prior
+Authorization Policy
+• Evkeeza® (evinacumab-dgnb intravenous infusion − Regeneron)
+REVIEW DATE: 05/28/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Evkeeza, an angiopoietin-like 3 inhibitor, is indicated as an adjunct to other low-
+density lipoprotein cholesterol (LDL-C) lowering therapies for the treatment of
+homozygous familial hypercholesterolemia (HoFH) in patients ≥ 5 years of age.1
+In the pivotal trial that led to approval of Evkeeza, patients were receiving additional
+medications to lower LDL-C levels such as statins (94% [77% of patients at high-
+intensity statin doses]), a proprotein convertase subtilisin kexin type 9 (PCSK9)
+inhibitor (77%), ezetimibe (75%), and Juxtapid® (lomitapide capsules). Although
+some Phase II data are available,3 the safety and effectiveness of Evkeeza have not
+been established in patients with other causes of hypercholesterolemia, including
+those with heterozygous familial hypercholesterolemia (HeFH).1 The effects of
+Evkeeza on cardiovascular (CV) morbidity and mortality have not been determined.
+Page 1 of 8 - Cigna National Formulary Coverage - Policy:Homozygous Familial Hypercholesterolemia – Evkeeza
+Prior Authorization Policy
+Disease Overview
+Familial hypercholesterolemias, which include HeFH and HoFH, encompass a group
+of genetic defects that cause severe elevations in LDL-C levels, as well as other lipid
+parameters.4,5 HoFH impacts approximately 1 in 300,000 to 1,000,000 persons. The
+condition is most commonly due to impaired functionality of the low-density
+lipoprotein (LDL) receptor which leads to a low or absence of clearance of LDL-C from
+the circulation. Currently known causes of familial hypercholesterolemia include
+mutations in the LDL receptor, apolipoprotein B, or PCSK9 genes. Patients with
+familial hypercholesterolemia may have physical findings such as tendon or
+cutaneous xanthomas, which may occur in childhood. Individuals with familial
+hypercholesterolemia are at very high risk of atherosclerotic cardiovascular disease
+(ASCVD) at a premature age. Most guidelines recommended LDL-C targets of < 100
+mg/dL for adults and < 70 mg/dL for adults with ASCVD or other risk factors. Statins
+are the initial treatment for familial hypercholesterolemia. For patients with HoFH,
+high-intensity statin therapy is recommended, with ezetimibe added as well. Therapy
+with a PCSK9 inhibitor (e.g., Repatha® [evolocumab subcutaneous injection],
+Praluent® [alirocumab subcutaneous injection]) is usually the next step. Juxtapid
+can be added onto maximal lipid-lowering therapy and Evkeeza may be considered.
+Combination therapy is required for most patients. LDL apheresis is recommended
+in certain circumstances. The diagnosis of HoFH can be done by genetic or clinical
+criteria.5 An untreated LDL-C > 400 mg/dL is suggestive of HoFH. Patients may
+have cutaneous or tendon xanthomas before 10 years of age and/or untreated
+elevated LDL-C levels consistent with HeFH in both parents. In the digenic form, one
+parent may have normal LDL-C levels and the other may have LDL-C levels consistent
+with HoFH.
+Guidelines
+Guidelines provide strategies for managing familial hypercholesterolemia, including
+HoFH, and mention the role of Evkeeza.5,6
+• American College of Cardiology (2022): Specialized therapies, one of
+which includes Evkeeza, may be needed to control LDL-C in certain patients
+(e.g., those with HoFH) who have had an inadequate response to statins, with
+or without ezetimibe, and PCSK9 inhibitors.6
+• European Atherosclerosis Society (2023): Clinical guidance by this
+organization recommends lipid-lowering therapy be initiated with high-
+intensity statin therapy and ezetimibe.5 A PCSK9 inhibitor can be added as
+well. If patients are not at LDL-C goals, other agents can be alternatives as
+well (e.g., Juxtapid, Evkeeza). Lipoprotein apheresis may also be considered.
+The goal is to reduce LDL-C to < 115 mg/dL in children and adolescents, < 70
+mg/dL in adults if no major ASCVD risk factors are present, and < 55 mg/dL if
+patients have ASCVD or major ASCVD risk factors.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Evkeeza. All
+approvals are provided for the duration noted below. A patient who has previously
+met Initial Therapy criteria for Evkeeza for the requested indication under the
+Coverage Review Department and is currently receiving Evkeeza is only required to
+5 Pages - Cigna National Formulary Coverage - Policy:Homozygous Familial Hypercholesterolemia – Evkeeza Prior
+Authorization Policy
+meet continuation of therapy criteria (i.e., currently receiving therapy). If past
+criteria has not been met under the Coverage Review Department and the patient is
+currently receiving Evkeeza, or is restarting Evkeeza, Initial Therapy criteria must be
+met.
+• Evkeeza® (evinacumab-dgnb intravenous infusion - Regeneron)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Homozygous Familial Hypercholesterolemia. Approve for 1 year if the
+patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve if the patient meets ALL of the following (i, ii, iii, and
+iv):
+i. Patient is ≥ 5 years of age; AND
+ii. Patient meets ONE of the following (a, b, or c):
+a) The diagnosis has been confirmed by genetic testing; OR
+Note: Examples include pathogenic variants at the low-density
+lipoprotein receptor (LDLR), apolipoprotein B (APOB), proprotein
+convertase subtilisin kexin type 9 (PCSK9), or low-density lipoprotein
+receptor adaptor protein 1 (LDLRAP1) gene.
+b) Patient has an untreated low-density lipoprotein cholesterol (LDL-C)
+level > 400 mg/dL AND meets ONE of the following [(1) or (2)]:
+Note: Untreated refers to prior to therapy with any antihyperlipidemic
+agent.
+(1) Patient had clinical manifestations of homozygous familial
+hypercholesterolemia before the age of 10 years; OR
+Note: Clinical manifestations of homozygous familial
+hypercholesterolemia are cutaneous xanthomas, tendon xanthomas,
+arcus cornea, tuberous xanthomas, or xanthelasma.
+(2) At least one parent of the patient had untreated LDL-C levels or
+total cholesterol levels consistent with familial hypercholesterolemia;
+OR
+Note: An example of familial hypercholesterolemia is an untreated
+LDL-C level ≥ 190 mg/dL and/or an untreated total cholesterol level
+> 250 mg/dL.
+c) Patient has a treated LDL-C level ≥ 300 mg/dL AND meets ONE of the
+following [(1) or (2)]:
+Note: Treated refers to after therapy with at least one
+antihyperlipidemic agent. Some examples of antihyperlipidemic agents
+include statins (e.g., atorvastatin, rosuvastatin, lovastatin, simvastatin,
+pravastatin), ezetimibe, a PCSK9 inhibitor (i.e., Repatha [evolocumab
+5 Pages - Cigna National Formulary Coverage - Policy:Homozygous Familial Hypercholesterolemia – Evkeeza Prior
+Authorization Policy
+subcutaneous injection], Praluent [alirocumab subcutaneous injection]),
+or Juxtapid (lomitapide capsules).
+(1) Patient had clinical manifestations of homozygous familial
+hypercholesterolemia before the age of 10 years; OR
+Note: Examples of clinical manifestations of homozygous familial
+hypercholesterolemia are cutaneous xanthomas, tendon xanthomas,
+arcus cornea, tuberous xanthomas, or xanthelasma.
+(2) At least one parent of the patient had untreated LDL-C levels or
+total cholesterol levels consistent with familial hypercholesterolemia;
+AND
+Note: An example of familial hypercholesterolemia is an untreated
+LDL-C ≥ 190 mg/dL and/or an untreated total cholesterol > 250
+mg/dL.
+iii. Patient meets ONE of the following (a or b):
+a) Patient meets ALL of the following [(1), (2), and (3)]:
+(1) Patient has tried one high-intensity statin therapy (i.e.,
+atorvastatin ≥ 40 mg daily; rosuvastatin ≥ 20 mg daily [as a single
+entity or as a combination product]); AND
+(2) Patient has tried one high-intensity statin along with ezetimibe
+(as a single-entity or as a combination product) for ≥ 8 continuous
+weeks; AND
+(3) Low-density lipoprotein cholesterol level after this treatment
+regimen remains ≥ 70 mg/dL; OR
+b) Patient has been determined to be statin intolerant by meeting ONE of
+the following [(1) or (2)]:
+(1) Patient experienced statin-related rhabdomyolysis; OR
+Note: Rhabdomyolysis is statin-induced muscle breakdown that is
+associated with markedly elevated creatine kinase levels (at least 10
+times the upper limit of normal), along with evidence of end organ
+damage which can include signs of acute renal injury (noted by
+substantial increases in serum creatinine [Scr] levels [a ≥ 0.5 mg/dL
+increase in Scr or doubling of the Scr] and/or myoglobinuria
+[myoglobin present in urine]).
+(2) Patient meets ALL of the following [(a), (b), and (c)]:
+(a) Patient experienced skeletal-related muscle symptoms;
+AND
+Note: Examples of skeletal-related muscle symptoms include
+myopathy (muscle weakness) or myalgia (muscle aches,
+soreness, stiffness, or tenderness).
+(b) The skeletal-muscle related symptoms occurred while
+receiving separate trials of both atorvastatin and rosuvastatin (as
+single-entity or combination products); AND
+(c) When receiving separate trials of both atorvastatin and
+rosuvastatin (as single-entity or as combination products) the
+skeletal-related muscle symptoms resolved upon discontinuation
+of each respective statin therapy (atorvastatin and rosuvastatin);
+AND
+5 Pages - Cigna National Formulary Coverage - Policy:Homozygous Familial Hypercholesterolemia – Evkeeza Prior
+Authorization Policy
+Note: Examples of skeletal-related muscle symptoms include
+myopathy and myalgia.
+iv. Patient meets ONE of the following (a, b, or c):
+a) Patient meets BOTH of the following [(1) and (2)]:
+(1) Patient has tried one PCSK9 inhibitor for ≥ 8 continuous weeks;
+AND
+Note: Examples of PCSK9 inhibitors include Repatha (evolocumab
+subcutaneous injection) and Praluent (alirocumab subcutaneous
+injection).
+(2) The LDL-C level after this PCSK9 inhibitor therapy remains ≥ 70
+mg/dL; OR
+b) Patient is known to have two LDL-receptor negative alleles; OR
+c) Patient is 5 to 9 years of age; OR
+B) Patient Currently Receiving Evkeeza. Approve if according to the prescriber,
+the patient has experienced a response to therapy.
+Note: Examples of a response to therapy include decreasing LDL-C, total
+cholesterol, non-high-density lipoprotein (non-HDL-C), or apolipoprotein B
+levels. Also, if the patient is currently receiving the requested therapy but has
+not previously received approval of Evkeeza for this specific indication through
+the Coverage Review Department, review under criteria for Initial Therapy. If
+the patient is restarting therapy with Evkeeza, Initial Therapy criteria must be
+met.
+CONDITIONS NOT COVERED
+• Evkeeza® (evinacumab-dgnb intravenous infusion - Regeneron)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Heterozygous Familial Hypercholesterolemia. The safety and effectiveness
+of Evkeeza have not been established in patients with hypercholesterolemia who
+do not have HoFH, including those with HeFH.1
+2. Hyperlipidemia. Although data are available, the prescribing information for
+Evkeeza states that the safety and efficacy of Evkeeza have not been established
+in patients with other forms of hypercholesterolemia.1,3
+Note: This is not associated with HoFH and is referred to as combined
+hyperlipidemia, hypercholesterolemia (pure, primary), dyslipidemia, or
+increased/elevated LDL-C levels.
+REFERENCES
+1. Evkeeza® intravenous infusion [prescribing information]. Tarrytown, NY: Regeneron; March 2023.
+2. Raal FJ, Rosenson RS, Reeskamp LF, et al, for the ELIPSE HoFH investigators. Evkeeza for
+homozygous familial hypercholesterolemia. N Engl J Med. 2020;383(8):711-720.
+5 Pages - Cigna National Formulary Coverage - Policy:Homozygous Familial Hypercholesterolemia – Evkeeza Prior
+Authorization Policy
+3. Rosenson RS, Burgess LJ, Ebenbichler CF, et al. Evkeeza in patients with refractory
+hypercholesterolemia. N Engl J Med. 2020;383(24):2307-2319.
+4. Raal FJ, Hovingh GK Catapano AL. Familial hypercholesterolemia treatments: guidelines and new
+therapies. Atherosclerosis. 2018;277:483-492.
+5. Cuchel M, Raal FJ, Hegele RA, et al. 2023 update on European Atherosclerosis Society Consensus
+Statement on Homozygous Familial Hypercholesterolaemia: new treatments and clinical guidance.
+Eur Heart J. 2023;44:2277-2291.
+6. Lloyd-Jones DM, Morris PB, Ballantyne CM, et al. 2022 ACC Expert Consensus Decision Pathway on
+the Role of Non-Statin Therapies for LDL-Cholesterol Lowering in the Management of Atherosclerotic
+Cardiovascular Disease Risk. J Am Coll. 2022;80(14):1366-1418.
+5 Pages - Cigna National Formulary Coverage - Policy:Homozygous Familial Hypercholesterolemia – Evkeeza Prior
+Authorization Policy
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 03/08/2023
+Revision
+Selected Homozygous Familial Hypercholesterolemia: The age of 03/29/2023
+Revision approval was changed to ≥ 5 years of age; previously, a patient had
+to be ≥ 12 years of age. Also, criteria were revised to not require a
+patient 5 to 9 years of age to try one proprotein convertase subtilisin
+kexin type 9 inhibitor.
+Early Annual It was added to the Policy Statement that only a patient who has 04/26/2023
+Revision previously met initial therapy criteria for Evkeeza for the requested
+indication under the Coverage Review Department and is currently
+receiving Evkeeza is only required to meet continuation of therapy
+criteria (i.e., currently receiving therapy). If past criteria has not been
+met under the Coverage Review Department and the patient is
+currently receiving Evkeeza, or is restarting Evkeeza, initial therapy
+criteria must be met. In addition, the following changes were made:
+Homozygous Familial Hypercholesterolemia: Requirements were
+divided to distinguish between initial therapy and patient currently
+receiving Evkeeza (previously there was only one criteria set). For a
+patient who is currently receiving Evkeeza and has previously met
+initial therapy criteria for the requested indication under the Coverage
+Review Department, only the continuation of therapy criteria has to
+be met. The continuation of therapy criteria states that according to
+the prescribing physician, the patient has experienced a response to
+therapy with examples provided in a Note.
+Annual It was removed from the Policy Statement that the agent is prescribing 05/08/2024
+Revision by or in consultation with a physician who specializes in the condition
+being treated. In addition, the following changes were made:
+Homozygous Familial Hypercholesterolemia: For Initial Therapy,
+the requirement that the medication is prescribed by or in consultation
+with a cardiologist, an endocrinologist, or a physician who focuses in
+the treatment of cardiovascular risk management and/or lipid
+disorders was removed. The requirement that the patient has had
+genetic confirmation by two mutant alleles at the low-density
+lipoprotein receptor, apolipoprotein B, proprotein convertase subtilisin
+kexin type 9, or low-density lipoprotein receptor adaptor protein 1
+gene locus was changed to state that the patient has phenotypic
+confirmation of homozygous familial hypercholesterolemia with the
+above examples moved to a Note. The diagnostic criterion which
+stated that the patient has an untreated low-density lipoprotein
+cholesterol level > 500 mg/dL was changed to > 400 mg/dL. The
+criterion (which is in two places [those with an untreated low-density
+lipoprotein cholesterol level > 400 mg/dL and a treated low-density
+lipoprotein cholesterol level ≥ 300 mg/dL]) that both parents of the
+patient had untreated low-density lipoprotein cholesterol levels or
+total cholesterol levels consistent with heterozygous familial
+hypercholesterolemia was changed to state that at least one parent of
+the patient had untreated low-density lipoprotein cholesterol levels or
+total cholesterol levels consistent with familial hypercholesterolemia.
+The related Note that “An example of heterozygous familial
+hypercholesterolemia in both parents would be if both had an
+untreated low-density lipoprotein cholesterol level ≥ 190 mg/dL
+and/or an untreated total cholesterol level > 250 mg/dL” was changed
+to state “An example of familial hypercholesterolemia is an untreated
+low-density lipoprotein cholesterol level ≥ 190 mg/dL and/or an
+untreated total cholesterol level > 250 mg/dL.” For a Patient Currently
+5 Pages - Cigna National Formulary Coverage - Policy:Homozygous Familial Hypercholesterolemia – Evkeeza Prior
+Authorization Policy
+Receiving the Medication, the requirement that the “prescribing
+physician” notes that the patient has experienced a response to
+therapy was changed to “prescriber”.
+Annual Homozygous Familial Hypercholesterolemia: For Initial Therapy, 05/28/2025
+Revision the phrase “phenotypic confirmation of homozygous familial
+hypercholesterolemia” was replaced with “The diagnosis has been
+confirmed by genetic testing”. Also, “apo B” was changed to “APOB”.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+5 Pages - Cigna National Formulary Coverage - Policy:Homozygous Familial Hypercholesterolemia – Evkeeza Prior
+Authorization Policy

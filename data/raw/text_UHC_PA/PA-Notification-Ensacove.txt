@@ -1,0 +1,78 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1468-1
+Program Prior Authorization/Notification
+Medication Ensacove (ensartinib)
+P&T Approval Date 2/2025
+Effective Date 5/1/2025
+1. Background:
+Ensacove (ensartinib) is a kinase inhibitor indicated for the treatment of adult patients with
+anaplastic lymphoma kinase (ALK)-positive locally advanced or metastatic non-small cell lung
+cancer (NSCLC) who have not previously received an ALK-inhibitor. The National Cancer
+Comprehensive Network (NCCN) also recommends the use of Ensacove as a preferred first-line,
+single agent therapy for ALK-positive recurrent, advanced, or metastatic disease in patients who
+are intolerant to or disease has progressed on Xalkori (crizotinib).
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Ensacove will be approved based on the following criterion
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months
+B. Non-Small Cell Lung Cancer (NSCLC)
+1. Initial Authorization
+a. Ensacove will be approved based on all the following criteria:
+(1) Diagnosis of non-small cell lung cancer (NSCLC)
+-AND-
+(2) Tumor is anaplastic lymphoma kinase (ALK)-positive
+-AND-
+© 2025 UnitedHealthcare Services Inc.
+1
+(3) Disease is one of the following:
+(a) Advanced
+(b) Metastatic
+(c) Recurrent
+-AND-
+(4) One of the following:
+(a) Patient has not previously received an ALK-inhibitor [e.g. Alecensa
+(alectinib), Alunbrig (brigatinib), Lorbrena (lorlatinib), Xalkori (crizotinib),
+Zykadia (ceritinib)]
+-OR-
+(b) Patient is intolerant to or experiences disease progression on Xalkori
+(crizotinib)
+Authorization will be issued for 12 months
+2. Reauthorization
+a. Ensacove will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Ensacove
+therapy
+Authorization will be issued for 12 months
+C. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+© 2025 UnitedHealthcare Services Inc.
+2
+4. References:
+1. Ensacove [package insert]. Miami, FL: Xcovery Holdings, Inc; December, 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org/professionals/drug_compendium/content/contents.asp. Accessed January 7,
+2025.
+Program Prior Authorization/Notification – Ensacove (ensartinib)
+Change Control
+2/2025 New program.
+© 2025 UnitedHealthcare Services Inc.
+3

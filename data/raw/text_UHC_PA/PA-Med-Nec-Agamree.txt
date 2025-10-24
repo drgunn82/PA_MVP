@@ -1,0 +1,53 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2345-2
+Program Prior Authorization/Medical Necessity
+Medication Agamree® (vamorolone)*
+P&T Approval Date 10/1/2024
+Effective Date 1/1/2025
+1. Background:
+Agamree (vamorolone)* is a corticosteroid indicated for the treatment of Duchenne muscular
+dystrophy (DMD) in patients 2 years of age and older.1
+The UnitedHealthcare Pharmacy and Therapeutics Committee has determined that Agamree
+is Therapeutically Equivalent to prednisone in the treatment of DMD. Data for FDA approval
+from relatively short-term randomized controlled trials were limited; and while adverse effect
+profiles may differ among glucocorticoids, vamorolone does not offer a clear advantage over
+other glucocorticoids for DMD with respect to efficacy and overall safety.2-5
+2. Coverage Criteriaa:
+A. Duchenne Muscular Dystrophy
+1. Published clinical evidence shows Agamree* is likely to produce equivalent therapeutic
+results as other available corticosteroids (e.g., prednisone); therefore, Agamree is not
+medically necessary for treatment of Duchenne muscular dystrophy.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+*Agamree is typically excluded from coverage. Tried/Failed criteria may be in place. Please
+refer to plan specifics to determine exclusion status.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-
+10) and/or claim logic. Use of automated approval and re-approval processes varies by
+program and/or therapeutic class.
+4. References:
+1. Agamree [package insert]. Coral Gables, FL: Catalyst Pharmaceuticals, Inc.; June 2024.
+2. Dang UJ, Damsker JM, Guglieri M, et al. Efficacy and Safety of Vamorolone Over 48
+Weeks in Boys With Duchenne Muscular Dystrophy: A Randomized Controlled
+Trial. Neurology. 2024;102(5):e208112.
+3. Guglieri M, Clemens PR, Perlman SJ, et al. Efficacy and Safety of Vamorolone vs
+Placebo and Prednisone Among Boys With Duchenne Muscular Dystrophy: A
+Randomized Clinical Trial. JAMA Neurol. 2022;79(10):1005-1014.
+© 2024 UnitedHealthcare Services, Inc.
+1
+4. Griggs RC, Miller JP, Greenberg CR, et al. Efficacy and safety of deflazacort vs
+prednisone and placebo for Duchenne muscular dystrophy. Neurology.
+2016;87(20):2123-2131.
+5. Gloss D, Moxley III R, Ashwal S, et. al. Practice guideline update summary:
+Corticosteroid treatment of Duchenne muscular dystrophy: Report of the Guideline
+Development Subcommittee of the American Academy of Neurology. Neurology 2016;
+86;465-472.
+Program Prior Authorization/Medical Necessity - Agamree (vamorolone)
+Change Control
+7/2024 New program
+10/2024 Added exclusion footnote and updated reference.
+© 2024 UnitedHealthcare Services, Inc.
+2

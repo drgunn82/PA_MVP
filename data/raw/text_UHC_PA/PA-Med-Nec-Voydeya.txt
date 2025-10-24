@@ -1,0 +1,89 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2340-2
+Program Prior Authorization/Medical Necessity
+Medication Voydeya™ (danicopan)
+P&T Approval Date 5/2024, 5/2025
+Effective Date 8/1/2025
+1. Background
+Voydeya (danicopan) is a complement factor D inhibitor indicated as add-on therapy to
+Ultomiris (ravulizumab) or eculizumab for the treatment of extravascular hemolysis (EVH) in
+adults with paroxysmal nocturnal hemoglobinuria (PNH).1
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Voydeya will be approved based on all of the following criteria:
+a. Submission of medical records (e.g., chart notes, laboratory values, etc.)
+documenting the diagnosis of paroxysmal nocturnal hemoglobinuria (PNH) as
+confirmed by both of the following2,3,4,5:
+(1) Flow cytometry analysis confirming presence of PNH clones
+-AND-
+(2) Laboratory results, signs, and/or symptoms attributed to PNH (e.g., abdominal
+pain, anemia, dyspnea, extreme fatigue, smooth muscle dystonia,
+unexplained/unusual thrombosis, hemolysis/hemoglobinuria, kidney disease,
+pulmonary hypertension, etc.)
+-AND-
+b. All of the following:
+(1) Patient is currently receiving complement protein C5 inhibitor eculizumab or
+Ultomiris (ravulizumab)
+-AND-
+(2) Patient is experiencing extravascular hemolysis (EVH) while on complement
+protein C5 inhibitor eculizumab or Ultomiris (ravulizumab)
+-AND-
+(3) Patient will continue to receive complement protein C5 inhibitor eculizumab or
+Ultomiris (ravulizumab)
+© 2025 UnitedHealthcare Services Inc.
+1
+-AND-
+c. Patient is not receiving Voydeya in combination with a complement protein C3
+inhibitor [e.g., Empaveli (Pegcetacoplan)] or a complement factor B inhibitor [e.g.,
+Fabhalta (iptacopan)] used for the treatment of PNH
+-AND-
+d. Prescribed by, or in consultation with one of the following:
+(1) Hematologist
+(2) Oncologist
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Voydeya will be approved based on all of the following criteria:
+a. Documentation of positive clinical response to Voydeya therapy [e.g., decrease in
+extravascular hemolysis (EVH), increased or stabilization of hemoglobin levels,
+reduction in transfusions, improvement in hemolysis, etc.)]
+-AND-
+b. Patient continues to receive Voydeya in combination with complement protein C5
+inhibitor eculizumab or Ultomiris (ravulizumab) for PNH
+-AND-
+c. Patient is not receiving Voydeya in combination with a complement protein C3
+inhibitor [e.g., Empaveli (Pegcetacoplan)] or a complement factor B inhibitor [e.g.,
+Fabhalta (iptacopan)] used for the treatment of PNH
+-AND-
+d. Prescribed by, or in consultation with one of the following:
+(1) Hematologist
+(2) Oncologist
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+© 2025 UnitedHealthcare Services Inc.
+2
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place
+4. References:
+1. Vodeya [package insert]. Boston, Massachusetts: Alexion Pharmaceuticals, Inc.; March 2024.
+2. Parker C, Omine M, Richards S, et al. Diagnosis and management of paroxysmal nocturnal
+hemoglobinuria. Blood. 2005 Dec 1; 106(12): 3699–3709.
+3. Devalet B, Mullier F, Chatelain B, et al. Pathophysiology, diagnosis, and treatment of paroxysmal
+nocturnal hemoglobinuria: a review. Eur J Haematol. 2015 Sep;95(3):190-8.
+4. Sutherland DR, Keeney M, Illingworth A. Practical guidelines for the high-sensitivity detection
+and monitoring of paroxysmal nocturnal hemoglobinuria clones by flow cytometry. Cytometry B
+Clin Cytom. 2012 Jul;82(4):195-208.
+5. Röth A, Maciejewski J, Nishimura JI, et al. Screening and diagnostic clinical algorithm for
+paroxysmal nocturnal hemoglobinuria: Expert consensus. Eur J Haematol. 2018 Jul;101(1):3-11.
+Program Prior Authorization/Medical Necessity - VoydeyaTM (danicopan)
+Change Control
+5/2024 New program.
+5/2025 Annual review. Updated list of C5 inhibitors by removing trade name of
+Soliris from eculizumab.
+© 2025 UnitedHealthcare Services Inc.
+3

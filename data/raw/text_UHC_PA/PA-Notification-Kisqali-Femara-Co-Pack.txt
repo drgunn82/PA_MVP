@@ -1,0 +1,140 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1260-9
+Program Prior Authorization/Notification
+Medication Kisqali® Femara® Co-Pack (ribociclib/letrozole)
+P&T Approval Date 9/2018, 9/2019, 9/2020, 9/2021, 2/2022, 2/2023, 2/2024, 11/2024,
+6/2025
+Effective Date 8/1/2025
+1. Background:
+Kisqali® Femara® Co-Pack is a co-packaged product containing ribociclib, a kinase inhibitor,
+and letrozole, an aromatase inhibitor, and is indicated as initial endocrine-based therapy for the
+treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth
+factor receptor 2 (HER2)-negative advanced or metastatic breast cancer. Kisqali is also
+indicated for use in combination with an aromatase inhibitor for the adjuvant treatment of
+adults with hormone receptor (HR)-positive, human epidermal growth factor receptor 2
+(HER2)-negative stage II and III early breast cancer at high risk of recurrence.
+The National Comprehensive Cancer Network (NCCN) recommends the use of Kisqali
+similarly for men and premenopausal women receiving ovarian ablation/suppression with
+recurrent unresectable (local or regional) or metastatic HR-positive HER2-negative breast
+cancer disease in combination with an aromatase inhibitor or fulvestrant. The use of an
+aromatase inhibitor in men with breast cancer is ineffective without concomitant suppression of
+testicular steroidogenesis. The NCCN also recommends Kisqali for estrogen receptor (ER)-
+positive recurrent or metastatic endometrial carcinoma in combination with letrozole.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age
+of 19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients Less Than 19 years of Age
+1. Kisqali Femara Co-Pack will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Early-Stage (II or III) Breast Cancer at High Risk of Recurrence
+1. Initial Authorization
+© 2025 UnitedHealthcare Services, Inc.
+1
+a. Kisqali Femara Co-Pack will be approved based on all of the following criteria:
+(1) Diagnosis of early-stage (II or III) breast cancer at high risk of recurrence
+-AND-
+(2) One of the following:
+(a) Disease is node-positive
+-OR-
+(b) Both of the following:
+i. Disease is node-negative
+-AND-
+ii. One of the following:
+• Tumor size > 5 cm
+-OR-
+• Both of the following:
+Tumor size is 2-5 cm
+o
+-AND-
+One of the following:
+o
+ Grade 2 and high genomic risk or Ki-67 ≥ 20%
+ Grade 3
+-AND-
+(3) Disease is hormone receptor (HR)-positive
+-AND-
+(4) Disease is human epidermal growth factor receptor 2 (HER2)-negative
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Kisqali Femara Co-Pack will be approved based on the following criterion:
+© 2025 UnitedHealthcare Services, Inc.
+2
+(1) Patient does not show evidence of progressive disease while on Kisqali Femara
+Co-Pack therapy
+Authorization will be issued for 12 months.
+C. Advanced, Recurrent, or Metastatic Breast Cancer
+1. Initial Authorization
+a. Kisqali Femara Co-Pack will be approved based on all of the following criteria:
+(1) Diagnosis of advanced, recurrent, or metastatic breast cancer
+-AND-
+(2) Disease is hormone receptor (HR)-positive
+-AND-
+(3) Disease is human epidermal growth factor receptor 2 (HER2)-negative
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Kisqali Femara Co-Pack will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Kisqali Femara
+Co-Pack therapy
+Authorization will be issued for 12 months.
+D. Endometrial Carcinoma
+1. Initial Authorization
+a. Kisqali Femara Co-Pack will be approved based on both of the following criteria:
+(1) Diagnosis of recurrent or metastatic endometrial cancer
+-AND-
+(2) Tumor is estrogen receptor (ER)-positive
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Kisqali Femara Co-Pack will be approved based on the following criterion:
+© 2025 UnitedHealthcare Services, Inc.
+3
+(1) Patient does not show evidence of progressive disease while on Kisqali Femara
+Co-Pack therapy
+Authorization will be issued for 12 months.
+C. NCCN Recommended Regimens
+1. The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B.
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Step Therapy and/or Supply limits may be in place.
+4. References:
+1. Kisqali® Femara® Co-Pack [package insert]. East Hanover, NJ: Novartis Pharmaceuticals Corp.
+September 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+https://www.nccn.org/professionals/drug_compendium/content/ Accessed May 15, 2025.
+Program Prior Authorization/Notification – Kisqali Femara Co-Pack
+(ribociclib/letrozole)
+Change Control
+9/2018 New program.
+9/2019 Annual review. Updated background and formatting to align with other
+CDK 4/6 inhibitor programs. Updated references. Added general
+NCCN recommended review criteria.
+9/2020 Annual review. Minor change to background. Updated references.
+9/2021 Annual review with no changes to coverage criteria. Updated
+references.
+2/2022 Updated background and references with no change to clinical criteria.
+2/2023 Updated background to align with NCCN recommended use. Added
+state mandate and updated references with no change to clinical criteria.
+2/2024 Annual review. Updated background and added clinical criteria for
+endometrial carcinoma per NCCN. Updated reference.
+11/2024 Annual review. Updated background and clinical criteria for new
+indication. Updated reference.
+© 2025 UnitedHealthcare Services, Inc.
+4
+6/2025 Updated breast cancer criteria based on NCCN recommendations.
+Separated breast cancer into two separate sections.
+© 2025 UnitedHealthcare Services, Inc.
+5

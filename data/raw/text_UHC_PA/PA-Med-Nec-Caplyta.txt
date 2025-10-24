@@ -1,0 +1,78 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2208-6
+Program Prior Authorization/Medical Necessity
+Medication Caplyta® (lumateperone)
+P&T Approval Date 6/2020, 7/2021, 3/2022, 6/2022, 11/2023, 11/2024
+Effective Date 2/1/2025
+1. Background:
+Caplyta is FDA approved for the treatment of schizophrenia and for depressive episodes associated
+with bipolar I or II disorder as monotherapy and as adjunctive therapy with lithium or valproate in
+adults. This program requires a member to try three atypical antipsychotics for schizophrenia or two
+atypical antipsychotics for bipolar depression before providing coverage for Caplyta.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Caplyta will be approved based on ONE of the following criteria:
+a. BOTH of the following:
+1) Diagnosis of schizophrenia
+-AND-
+2) History of failure, contraindication, or intolerance to three of the following (please
+document drug, date and duration of trial):
+(a) aripiprazole (generic Abilify)
+(b) olanzapine (generic Zyprexa)
+(c) quetiapine IR or ER (generic Seroquel or Seroquel XR)
+(d) risperidone (generic Risperdal)
+(e) ziprasidone (generic Geodon)
+-OR-
+b. BOTH of the following:
+1) Diagnosis of depressive episodes associated with bipolar I or II disorder (bipolar
+depression)
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+1
+2) History of failure, contraindication, or intolerance to both of the following (please
+document date and duration of trial):
+(a) olanzapine (generic Zyprexa) in combination with an SSRI (e.g. fluoxetine)
+(b) quetiapine IR or ER (generic Seroquel or Seroquel XR)
+-OR-
+c. Treatment with Caplyta was initiated at a recent behavioral inpatient admission
+(discharge within the past 3 months) and the member is currently stable on therapy.
+(Please document date of discharge from inpatient admission).
+-OR-
+d. Member is new to the plan and currently stabilized on Caplyta (as evidenced by
+coverage effective date of less than or equal to 120 days)
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Caplyta will be approved for continuation of therapy based on the following criterion:
+a. Documentation of a positive clinical response to therapy
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits and Prior Authorization/Notification may also be in place.
+4. References:
+1. Caplyta [package insert]. New York, NY: Intra-Cellular Therapies, Inc. June 2023.
+2. American Psychiatric Association. Practice Guideline for the Treatment of Patients with
+Schizophrenia Third Edition. Available at:
+https://psychiatryonline.org/doi/10.1176/appi.books.9780890424841
+3. American Psychiatric Association. Practice Guideline for the Treatment of Patients with Bipolar
+Disorder Second Edition. Available at:
+https://psychiatryonline.org/pb/assets/raw/sitewide/practice_guidelines/guidelines/bipolar.pdf
+© 2024 UnitedHealthcare Services, Inc.
+2
+Program Prior Authorization/Medical Necessity - Caplyta (lumateperone)
+Change Control
+6/2020 New program.
+7/2021 Annual review. Updated references and added continuation of therapy
+coverage criteria.
+3/2022 Updated to include coverage for depressive episodes associated with
+bipolar disorder due to new labeling.
+6/2022 Modified criteria for bipolar depression. Updated references.
+11/2023 Updated references.
+11/2024 Annual review with no changes.
+© 2024 UnitedHealthcare Services, Inc.
+3

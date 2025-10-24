@@ -1,0 +1,273 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1186-10
+Program Prior Authorization/Notification
+Medication Venclexta® (venetoclax)
+P&T Approval Date 5/2016, 5/2017, 5/2018, 4/2019, 4/2020, 4/2021, 4/2022, 4/2023, 4/2024,
+4/2025
+Effective Date 7/1/2025
+1. Background:
+Venclexta (venetoclax) is a BCL-2 inhibitor indicated for the treatment of adult patients with
+chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL). Venclexta is also
+indicated in combination with azacitidine, or decitabine, or low-dose cytarabine for the
+treatment of newly diagnosed acute myeloid leukemia (AML) in adults who are age 75 years or
+older, or who have comorbidities that preclude use of intensive induction chemotherapy.
+In addition, the National Cancer Comprehensive Network (NCCN) recommends the use of
+Venclexta in acute lymphoblastic leukemia (ALL); in newly diagnosed, relapsed/refractory, and
+blastic plasmacytoid dendritic cell neoplasm (BPDCN) AML; relapsed/refractory hairy cell
+leukemia; mantle cell lymphoma as second line or subsequent therapy; in relapsed or
+progressive multiple myeloma with t(11;14) translocation; for relapsed/refractory systemic light
+chain amyloidosis with t(11;14) translocation; in previously treated Waldenstrom
+macroglobulinemia/lymphoplasmacytic lymphoma; in accelerated/blast phase
+myeloproliferative neoplasm (MPN) with disease progression; in chronic myelomonocytic
+leukemia (CMML); and in higher risk myelodysplastic syndromes.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age
+of 19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Venclexta will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Acute Lymphoblastic Leukemia (ALL)
+1. Initial Authorization
+© 2025 UnitedHealthcare Services, Inc.
+1
+a. Venclexta will be approved based on both of the following criteria:
+(1) Diagnosis of relapsed/refractory T-cell acute lymphoblastic leukemia (T-ALL)
+-AND-
+(2) Venclexta therapy to be given in combination with one of the following:
+(a) Decitabine
+(b) HyperCVAD
+(c) Nelarabine
+(d) Mini-hyperCVD
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Venclexta will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Venclexta therapy
+Authorization will be issued for 12 months.
+C. Acute Myeloid Leukemia (AML)
+1. Initial Authorization
+a. Venclexta will be approved based on one of the following criteria:
+(1) All of the following:
+(a) Diagnosis of newly-diagnosed acute myeloid leukemia (AML)
+-AND-
+(b) One of the following:
+i. Used as treatment induction in candidates for intensive induction therapy
+ii. Used as treatment induction in candidates for lower-intensity induction
+therapy
+iii. Used as follow-up after induction therapy following response to previous
+lower intensity therapy with the same regimen
+iv. Used as consolidation therapy as continuation of lower-intensity regimen
+used for induction
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+2
+(c) Used in combination with decitabine, azacitidine, or low-dose cytarabine
+-OR-
+(2) All of the following:
+(a) Diagnosis of relapsed/refractory acute myeloid leukemia (AML)
+-AND-
+(b) Used as a component of repeating the initial successful induction regimen
+-AND-
+(c) Greater than or equal to 12 months since induction regimen if not administered
+continuously
+-AND-
+(d) Therapy was not stopped due to development of clinical resistance
+-OR-
+(3) All of the following:
+(a) Diagnosis of blastic plasmacytoid dendritic cell neoplasm (BPDCN) - acute
+myeloid leukemia (AML)
+-AND-
+(b) Considered systemic disease and therapy is given as palliative intent
+-AND-
+(c) Patient has low performance and/or nutritional status (i.e., serum albumin <3.2
+g/dL; not a candidate for intensive remission therapy or Elzonris)
+-AND-
+(d) Venclexta therapy to be given in combination with azacitidine, decitabine, or
+low-dose cytarabine
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Venclexta will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Venclexta therapy
+© 2025 UnitedHealthcare Services, Inc.
+3
+Authorization will be issued for 12 months.
+D. Chronic Lymphocytic Leukemia /Small Lymphocytic Lymphoma (CLL/SLL)
+1. Initial Authorization
+a. Venclexta will be approved based on the following criterion:
+(1) Diagnosis of chronic lymphocytic leukemia (CLL)/ small lymphocytic lymphoma
+(SLL)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Venclexta will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Venclexta therapy
+Authorization will be issued for 12 months.
+E. Chronic Myelomonocytic Leukemia (CMML)
+1. Initial Authorization
+a. Venclexta will be approved based on all the following criteria:
+(1) Diagnosis of chronic myelomonocytic leukemia (CMML)
+-AND-
+(2) Classified as CMML-2 (less than 20% bone marrow blasts or blast equivalents)
+-AND-
+(3) Venclexta therapy to be given in combination with azacitidine or decitabine
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Venclexta will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Venclexta therapy
+Authorization will be issued for 12 months.
+F. Hairy Cell Leukemia
+1. Initial Authorization
+© 2025 UnitedHealthcare Services, Inc.
+4
+a. Venclexta will be approved based on all of the following criteria:
+(1) Diagnosis of hairy cell leukemia
+-AND-
+(2) Disease is progressive after relapsed/refractory therapy
+-AND-
+(3) Disease is resistant to BRAF inhibitor therapy (i.e., Zelboraf, Tafinlar)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Venclexta will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Venclexta therapy
+Authorization will be issued for 12 months.
+G. Mantle Cell Lymphoma
+1. Initial Authorization
+a. Venclexta will be approved based on both of the following criteria:
+(1) Diagnosis of mantle cell lymphoma (MCL)
+-AND-
+(2) Not used as first line therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Venclexta will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Venclexta therapy
+Authorization will be issued for 12 months.
+H. Multiple Myeloma
+1. Initial Authorization
+a. Venclexta will be approved based on all of the following criteria:
+© 2025 UnitedHealthcare Services, Inc.
+5
+(1) Diagnosis of relapsed or progressive multiple myeloma which has been previously
+treated
+-AND-
+(2) Patient has t(11;14) translocation
+-AND-
+(3) Venclexta therapy to be given in combination with one of the following:
+i. dexamethasone
+ii. dexamethasone and daratumumab
+iii. dexamethasone and either bortezomib, carfilzomib, or ixazomib
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Venclexta will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Venclexta therapy
+Authorization will be issued for 12 months.
+I. Myeloproliferative Neoplasms – Accelerated/Blast Phase Myeloproliferative Neoplasms
+1. Initial Authorization
+a. Venclexta will be approved based on all of the following criteria:
+(1) Diagnosis of accelerated/blast phase myeloproliferative neoplasm
+-AND-
+(2) Used for management of disease progression of myeloproliferative neoplasm
+-AND-
+(3) Venclexta therapy to be given in combination with azacitidine or decitabine
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Venclexta will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Venclexta therapy
+© 2025 UnitedHealthcare Services, Inc.
+6
+Authorization will be issued for 12 months.
+J. Systemic Light Chain Amyloidosis
+1. Initial Authorization
+a. Venclexta will be approved based on both of the following criteria:
+(1) Diagnosis of relapsed/refractory systemic light chain amyloidosis
+-AND-
+(2) Patient has t(11;14) translocation
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Venclexta will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Venclexta therapy
+Authorization will be issued for 12 months.
+K. Waldenstrom Macroglobulinemia/Lymphoplasmacytic Lymphoma
+1. Initial Authorization
+a. Venclexta will be approved based on the following criterion:
+(1) Diagnosis of Waldenstrom Macroglobulinemia/Lymphoplasmacytic Lymphoma
+which has been previously treated
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Venclexta will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Venclexta therapy
+Authorization will be issued for 12 months.
+L. Myelodysplastic Syndromes
+1. Initial Authorization:
+a. Venclexta will be approved based on all of the following criteria:
+(1) Disease is higher risk (IPSS-R Intermediate, High, or Very High)
+© 2025 UnitedHealthcare Services, Inc.
+7
+-AND-
+(2) Used as initial treatment
+-AND-
+(3) Used in combination with azacitidine or decitabine
+Authorization will be issued for 12 months
+2. Reuthorization:
+a. Venclexta will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Venclexta
+Authorization will be issued for 12 months
+M. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category
+of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class
+• Supply limits may be in place.
+4. References:
+1. Venclexta [package insert]. North Chicago, IL: AbbVie Inc. June 2022.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org/professionals/drug_compendium/content/contents.asp. Accessed March
+13, 2025.
+Program Prior Authorization/Notification - Venclexta (venetoclax)
+Change Control
+5/2016 New program approved by FDA on 4/11/2016. Added SLL to criteria
+per NCCN. Updated background and references.
+© 2025 UnitedHealthcare Services, Inc.
+8
+5/2017 Annual review. Removed requirement for 17p deletion or TP53
+mutation for CLL/SLL and added criteria for MCL per NCCN
+guidelines. Updated references.
+5/2018 Annual review. No changes to criteria. Updated references.
+4/2019 Annual review. Added coverage for AML based on prescribing
+information and NCCN guidelines. Updated references.
+4/2020 Annual review. Updated background and criteria to align with updated
+labeled indication for first line use in CLL/SLL. Added general NCCN
+recommendations for use criteria. Updated references.
+4/2021 Annual review. Updated background and criteria for multiple myeloma
+based on NCCN recommendations. Updated references.
+4/2022 Annual review. Updated background and criteria to include acute
+lymphoblastic leukemia, systemic light chain amyloidosis, and
+Waldenstrom macroglobulinemia/lymphoplasmacytic lymphoma based
+on NCCN recommendations. Updated references.
+4/2023 Annual review. Updated background. Specified Ph-neg disease in ALL.
+Added additional AML recommendations. Added state mandate and
+oncology medications footnote. Updated references.
+4/2024 Annual review. Updated background on NCCN recommendations.
+Updated criteria for ALL and AML based on NCCN recommendations.
+Added criteria for additional indications based on NCCN
+recommendations for the following: hairy cell leukemia,
+myeloproliferative neoplasms – accelerated/blast phase
+myeloproliferative neoplasms, and CMML. Removed oncology
+medications footnote.
+4/2025 Annual review. Updated background and criteria to include
+Myelodysplastic Syndromes based on NCCN recommendations.
+Updated multiple myeloma criteria to include additional drugs to be
+given in combinations with. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+9

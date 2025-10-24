@@ -1,0 +1,184 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Colony Stimulating Factors – Pegfilgrastim Products Prior Authorization
+Policy
+• Neulasta® (pegfilgrastim subcutaneous injection − Amgen)
+• Fulphila™ (pegfilgrastim-jmdb subcutaneous injection − Mylan)
+• Fylnetra® (pegfilgrastim-pbbk subcutaneous injection − Kashiv)
+• Nyvepria™ (pegfilgrastim-apgf subcutaneous injection – Pfizer)
+• Stimufend® (pegfilgrastim-fpgk subcutaneous injection – Fresenius
+Kabi)
+• Udenyca® (pegfilgrastim-cbqv subcutaneous injection – Coherus)
+• Ziextenzo™ (pegfilgrastim-bmez subcutaneous injection – Sandoz)
+REVIEW DATE: 09/20/2023
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT
+PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN
+CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE
+DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Pegfilgrastim, a leukocyte growth factor, is indicated to decrease the incidence of
+infection as manifested by febrile neutropenia, in patients with non-myeloid
+malignancies receiving myelosuppressive anti-cancer drugs associated with a
+clinically significant incidence of febrile neutropenia.1-5,11,12
+Fulphila, Fylnetra, Nyvepria, Stimufend, Udenyca, and Ziextenzo are biosimilars to
+Neulasta.1-5,11,12 Neulasta is additionally indicated to increase survival in patients
+acutely exposed to myelosuppressive doses of radiation (Hematopoietic
+Subsyndrome of Acute Radiation Syndrome).1
+Guidelines
+Page 1 of 5 - Cigna National Formulary Coverage - Policy:Colony Stimulating Factors – Pegfilgrastim Products Prior
+Authorization Policy
+The National Comprehensive Cancer Network (NCCN) addresses the use of
+pegfilgrastim products in several guidelines.
+• Hematopoietic Cell Transplantation: Guidelines (version 1.2023 – March
+31, 2023) recommend pegfilgrastim for hematopoietic cell mobilization for
+autologous donors in combination with other treatments.6 Currently, there is
+no recommendation for use of pegfilgrastim for stem cell mobilization in
+allogeneic donors.
+• Hematopoietic Growth Factors: Guidelines (version 2.2023 – March 6,
+2023) recommend pegfilgrastim, along with other colony stimulating factors
+(CSFs), for prophylactic use if the patient is receiving anti-cancer medications
+that are associated with a high (> 20%) incidence of severe neutropenia with
+fever.7 Consider CSF therapy for patients with an intermediate (10% to 20%)
+probability of developing febrile neutropenia based on risk factors. The NCCN
+guidelines also recommend therapy with CSFs in other scenarios in those given
+myelosuppressive chemotherapy.
+The American Society of Clinical Oncology clinical practice guidelines for the use of
+white blood cell growth factors (2015) recommends CSFs to reduce the risk of febrile
+neutropenia in patients receiving cancer chemotherapy.8 CSFs may be considered in
+patients receiving radiation therapy alone if prolonged delays secondary to
+neutropenia are expected. The guidelines state CSFs should be avoided in patients
+receiving concomitant chemotherapy and radiation therapy, particularly involving the
+mediastinum.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of
+pegfilgrastim. All approvals are provided for the duration noted below. In cases
+where the approval is authorized in months, 1 month is equal to 30 days. Because
+of the specialized skills required for evaluation and diagnosis of patients treated with
+pegfilgrastim as well as the monitoring required for adverse events and long-term
+efficacy, approval requires pegfilgrastim to be prescribed by or in consultation with a
+physician who specializes in the condition being treated.
+• Neulasta® (pegfilgrastim subcutaneous injection ( Amgen)
+• Fulphila™ (pegfilgrastim-jmdb subcutaneous injection ( Mylan)
+• Fylnetra® (pegfilgrastim-pbbk subcutaneous injection ( Kashiv)
+• Nyvepria™ (pegfilgrastim-apgf subcutaneous injection – Pfizer)
+• Stimufend® (pegfilgrastim-fpgk subcutaneous injection – Fresenius
+Kabi)
+• Udenyca® (pegfilgrastim-cbqv subcutaneous injection – Coherus)
+• Ziextenzo™ (pegfilgrastim-bmez subcutaneous injection – Sandoz)
+is(are) covered as medically necessary when the following criteria is(are)
+met for fda-approved indication(s) or other uses with supportive evidence
+(if applicable):
+5 Pages - Cigna National Formulary Coverage - Policy:Colony Stimulating Factors – Pegfilgrastim Products Prior
+Authorization Policy
+FDA-Approved Indications
+1. Cancer in a Patient Receiving Myelosuppressive Chemotherapy. Approve
+for 6 months if the patient meets the following (A and B):
+A) Patient meets ONE of the following (i, ii, or iii):
+i. Patient is receiving myelosuppressive anti-cancer medications that are
+associated with a high risk of febrile neutropenia (the risk is at least 20%
+based on the chemotherapy regimen); OR
+ii. Patient meets both of the following (a and b):
+a) Patient is receiving myelosuppressive anti-cancer medications that are
+associated with a risk of febrile neutropenia, but the risk is less than
+20% based on the chemotherapy regimen; AND
+b) Patient has at least one risk factor for febrile neutropenia according to
+the prescriber; OR
+Note: Examples of risk factors include age ≥ 65 years; prior
+chemotherapy or radiation therapy; persistent neutropenia; bone
+marrow involvement by tumor; recent surgery and/or open wounds;
+liver and/or renal dysfunction; poor performance status; or human
+immunodeficiency virus (HIV) infection.
+iii. Patient meets both of the following (a and b):
+a) Patient has had a neutropenic complication from prior chemotherapy
+and did not receive prophylaxis with a colony stimulating factor; AND
+Note: Examples of colony-stimulating factors include filgrastim
+products, pegfilgrastim products, and sargramostim products (e.g.,
+Leukine).
+b) A reduced dose or frequency of chemotherapy may compromise
+treatment outcome; AND
+B) The medication is prescribed by or in consultation with an oncologist or
+hematologist.
+2. Radiation Syndrome (Hematopoietic Syndrome of Acute Radiation
+Syndrome). Approve for 1 month if the agent is prescribed by or in consultation
+with a physician who has expertise in treating acute radiation syndrome.
+Other Uses with Supportive Evidence
+3. Peripheral Blood Progenitor Cell Transplantation (PBPC) in Patients with
+Cancer. Approve one dose if prescribed by or in consultation with an oncologist,
+a hematologist, or a physician who specializes in transplantation.
+CONDITIONS NOT COVERED
+• Neulasta® (pegfilgrastim subcutaneous injection ( Amgen)
+• Fulphila™ (pegfilgrastim-jmdb subcutaneous injection ( Mylan)
+• Fylnetra® (pegfilgrastim-pbbk subcutaneous injection ( Kashiv)
+• Nyvepria™ (pegfilgrastim-apgf subcutaneous injection – Pfizer)
+5 Pages - Cigna National Formulary Coverage - Policy:Colony Stimulating Factors – Pegfilgrastim Products Prior
+Authorization Policy
+• Stimufend® (pegfilgrastim-fpgk subcutaneous injection – Fresenius
+Kabi)
+• Udenyca® (pegfilgrastim-cbqv subcutaneous injection – Coherus)
+• Ziextenzo™ (pegfilgrastim-bmez subcutaneous injection – Sandoz)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria will
+be updated as new published data are available):
+1. Myelodysplastic Syndrome (MDS). Only limited data report use of
+pegfilgrastim for patients with MDS.9 Guidelines from the NCCN for MDS (version
+1.2023 – September 12, 2022) do not mention use of pegfilgrastim in this patient
+population.10
+REFERENCES
+1. Neulasta® subcutaneous injection [prescribing information]. Thousand Oaks, CA: Amgen; March
+2021.
+2. Fulphila® subcutaneous injection [prescribing information]. Rockford, IL: Mylan; October 2021.
+3. Udenyca® subcutaneous injection [prescribing information]. Redwood City, CA: Coherus
+BioSciences; March 2023.
+4. Ziextenzo™ subcutaneous injection [prescribing information]. Princeton, NJ: Sandoz; March 2021.
+5. Nyvepria™ subcutaneous injection [prescribing information]. New York, NY: Pfizer; June 2023.
+6. The NCCN Hematopoietic Cell Transplantation Clinical Practice Guidelines in Oncology (version
+1.2023 – March 31, 2023). © 2023 National Comprehensive Cancer Network. Available at:
+http://www.nccn.org. Accessed on September 7, 2023.
+7. The NCCN Hematopoietic Growth Factors Clinical Practice Guidelines in Oncology (version 2.2023 –
+March 6, 2023). © 2023 National Comprehensive Cancer Network. Available at:
+http://www.nccn.org. Accessed on September 7, 2023.
+8. Smith TJ, Bohlke K, Lyman GH, Carson KR, et al. Recommendations for the use of WBC growth
+factors: American Society of Clinical Oncology Clinical Practice Guideline Update. J Clin Oncol.
+2015;33(28):3199-3212.
+9. Jakob A, Hirsch FW, Engelhardt M. Successful treatment of a patient with myelodysplastic syndrome
+(RAEB) with darbepoetin alfa in combination with pegfilgrastim. Ann Hematol. 2005;84(10):694-
+695.
+10. The NCCN Myelodysplastic Syndromes Clinical Practice Guidelines in Oncology (version 1.2023 –
+September 12, 2022). © 2023 National Comprehensive Cancer Network. Available at:
+http://www.nccn.org. Accessed on September 7, 2023.
+11. Fylnetra® subcutaneous injection [prescribing information]. Piscataway, NJ: Kashiv; May 2022.
+12. Stimufend® subcutaneous injection [prescribing information]. Lake Zurich, IL: Fresenius Kabi;
+September 2022.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 08/31/2022
+Revision
+Selected Fylnetra, a biosimilar to Neulasta, was added to the policy. 10/05/2022
+Revision
+Selected Stimufend, a biosimilar to Neulasta, was added to the policy. 01/04/2023
+Revision
+Annual No criteria changes. 09/20/2023
+Revision
+5 Pages - Cigna National Formulary Coverage - Policy:Colony Stimulating Factors – Pegfilgrastim Products Prior
+Authorization Policy
+"Cigna Companies" refers to operating subsidiaries of Cigna Corporation. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of Cigna Health Corporation. © 2023 Cigna
+5 Pages - Cigna National Formulary Coverage - Policy:Colony Stimulating Factors – Pegfilgrastim Products Prior
+Authorization Policy

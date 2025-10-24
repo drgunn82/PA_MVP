@@ -1,0 +1,60 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1361-6
+Program Prior Authorization/Notification
+Medication Empaveli® (pegcetacoplan)
+P&T Approval Date 7/2021, 7/2022, 8/2023, 2/2024, 4/2024, 4/2025
+Effective Date 7/1/2025
+1. Background:
+Empaveli (pegcetacoplan) is a complement inhibitor indicated for the treatment of adult
+patients with paroxysmal nocturnal hemoglobinuria (PNH).1
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Empaveli will be approved based on all of the following criteria:
+a. Diagnosis of paroxysmal nocturnal hemoglobinuria (PNH)
+-AND-
+b. One of the following:
+(1) Patient will not be prescribed Empaveli in combination with another
+complement inhibitor used for the treatment of PNH (e.g., Bkemv, Fabhalta,
+PiaSky, Soliris, Ultomiris)
+-OR-
+(2) Patient is currently receiving another complement inhibitor (e.g., Bkemv,
+Fabhalta, PiaSky, Soliris, Ultomiris) which will be discontinued and Empaveli
+will be initiated in accordance with the United States Food and Drug
+Administration approved labeling
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Empaveli will be approved based on both of the following criteria:
+a. Documentation of positive clinical response to Empaveli therapy
+-AND-
+b. Patient is not receiving Empaveli in combination with another complement inhibitor
+used for the treatment of PNH (e.g., Bkemv, Fabhalta, PiaSky, Soliris, Ultomiris )
+© 2025 UnitedHealthcare Services Inc.
+1
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may also be in place.
+4. References:
+1. Empaveli [package insert], Waltham, MA: Apellis Pharmaceuticals, Inc.; February 2024.
+Program Prior Authorization/Notification - Empaveli® (pegcetacoplan)
+Change Control
+7/2021 New program
+7/2022 Annual review. Added state mandate with no other changes to coverage
+criteria.
+8/2023 Annual review. Updated reference.
+2/2024 Added Fabhalta to list of examples of other complement inhibitors used
+for the treatment of PNH. Revised initial authorization to 12 months.
+Included criteria for therapeutic duplication. Updated references.
+4/2024 Simplified criteria language for converting to new complement inhibitor
+therapy.
+4/2025 Annual review. No changes to coverage criteria. Updated examples of
+alternate complement inhibitors.
+© 2025 UnitedHealthcare Services Inc.
+2

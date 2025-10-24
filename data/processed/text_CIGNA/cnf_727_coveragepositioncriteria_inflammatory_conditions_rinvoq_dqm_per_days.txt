@@ -1,0 +1,184 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Inflammatory Conditions – Rinvoq Drug Quantity Management Policy –
+Per Days
+• Rinvoq® (upadacitinib extended-release tablets – AbbVie)
+• Rinvoq® LQ (upadacitinib oral solution – AbbVie)
+REVIEW DATE: 12/18/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Rinvoq (tablets), a Janus kinase inhibitor (JAKi), is indicated for the following uses:1
+• Ankylosing spondylitis, for treatment of active disease in adults who have
+had an inadequate response or intolerance to one or more tumor necrosis
+factor inhibitors (TNFis).
+• Atopic dermatitis, for treatment of refractory, moderate to severe atopic
+dermatitis in patients ≥ 12 years of age, whose disease is not adequately
+controlled with other systemic drug products (including biologics) or when
+those therapies are not advisable.
+• Crohn’s disease, for treatment of moderately to severely active disease in
+adults who have had an inadequate response or intolerance to one or more
+TNFis.
+• Non-radiographic axial spondyloarthritis, in adults with objective signs
+of inflammation who have had an inadequate response or intolerance to one
+or more TNFis.
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Rinvoq Drug Quantity
+Management Policy – Per Days
+• Polyarticular juvenile idiopathic arthritis (JIA), in patients ≥ 2 years of
+age with active disease who have had an inadequate response or intolerance
+to one or more TNFis.
+o Rinvoq LQ shares this indication with Rinvoq tablets.
+• Psoriatic arthritis, for treatment of active disease in patients ≥ 2 years of
+age who have had an inadequate response or intolerance to one or more
+TNFis.
+o Rinvoq LQ shares this indication with Rinvoq tablets.
+• Rheumatoid arthritis, for treatment of moderately to severely active
+disease in adults who have had an inadequate response or intolerance to one
+or more TNFis.
+• Ulcerative colitis, for treatment of moderately to severely active disease in
+adults who have had an inadequate response or intolerance to one or more
+TNFis.
+Dosing
+Dosage recommendations for Rinvoq are:1
+• Ankylosing spondylitis: 15 mg once daily (QD).
+• Atopic dermatitis: 15 mg QD.
+o Patients 12 to < 65 years of age who weight ≥ 40 kg: Initiate treatment at
+15 mg QD. If an adequate response is not achieved, consider increasing to
+30 mg QD.
+o Patients ≥ 65 years of age: 15 mg QD.
+• Crohn’s disease: 45 mg QD for 12 weeks, then 15 mg QD.
+o A dose of 30 mg QD may be considered for patients with refractory, severe,
+or extensive disease.
+• Non-radiographic axial spondyloarthritis: 15 mg QD.
+• Polyarticular JIA: Dosing is based on body weight.
+o 10 kg to < 20 kg: 3 mg (3 mL oral solution) twice daily (BID)
+o 20 kg to < 30 kg: 4 mg (4 mL oral solution) BID
+o ≥ 30 kg: 6 mg (6 mL oral solution) BID or 15 mg QD (using extended-
+release tablets)
+• Psoriatic arthritis:
+o Adults: 15 mg QD.
+o Pediatric patients 2 to < 18 years of age: Dosing is based on weight.
+▪ 10 kg to < 20 kg: 3 mg (3 mL oral solution) BID
+▪ 20 kg to < 30 kg: 4 mg (4 mL oral solution) BID
+▪ ≥ 30 kg: 6 mg (6 mL oral solution) BID or 15 mg QD (using extended-
+release tablets)
+• Rheumatoid arthritis: 15 mg QD.
+• Ulcerative colitis: 45 mg QD for 8 weeks, then 15 mg QD.
+o A dose of 30 mg QD may be considered for patients with refractory, severe, or
+extensive disease.
+Dose adjustments are recommended in certain indications to manage renal/hepatic
+impairment or drug interactions (Table 1).
+Table 1. Rinvoq Recommended Dose Adjustments.1
+4 Pages - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Rinvoq Drug Quantity
+Management Policy – Per Days
+Indication Renal Hepatic Concomitant Strong
+Impairmentα Impairmentβ CYP3A4 Inhibitor
+Ankylosing spondylitis No adjustment No adjustment No adjustment
+Atopic dermatitis 15 mg QD No adjustment 15 mg QD
+Crohn’s disease 30 mg QD for 12 30 mg QD for 12 30 mg QD for 12
+weeks, then 15 mg weeks, then 15 mg weeks, then 15 mg
+QD QD QD
+Non-radiographic axial No adjustment No adjustment No adjustment
+spondyloarthritis
+Polyarticular JIA No adjustment No adjustment No adjustment
+Psoriatic arthritis No adjustment No adjustment No adjustment
+Rheumatoid arthritis No adjustment No adjustment No adjustment
+Ulcerative colitis 30 mg QD for 8 30 mg QD for 8 30 mg QD for 8
+weeks, then 15 mg weeks, then 15 mg weeks, then 15 mg
+QD QD QD
+α Dose adjustment recommendations are for patients with an estimated glomerular filtration rate (eGFR)
+of 15 to < 30 mL/min/1.73 m2. Use of Rinvoq is not recommended if eGFR < 15 mL/min/1.73 m2; β
+Dose adjustment recommendations are for patients with mild to moderate hepatic impairment (Child-
+Pugh A or B). Use of Rinvoq is not recommended in patients with severe hepatic impairment (Child-
+Pugh C); CYP – Cytochrome P450; QD – Once daily; JIA – Juvenile idiopathic arthritis.
+Availability
+Rinvoq is available as 15 mg and 30 mg tablets supplied in bottles containing 30
+tablets each.1 Rinvoq is also available as 45 mg tablets in bottles of 28 tablets.
+Rinvoq LQ is available as a 1 mg/mL oral solution supplied in a 180 mL bottle.2
+Rinvoq LQ is not substitutable with Rinvoq extended-release tablets. Changes
+between Rinvoq LQ oral solution and Rinvoq extended-release tablets should be
+made by the health care provider.
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of Rinvoq. If the Drug Quantity Management rule is
+not met at the point of service, coverage will be determined by the Criteria below.
+All approvals are provided for the duration noted below.
+Drug Quantity Limits
+Product Strength and Form Retail Home Delivery
+Maximum Maximum
+Quantity Quantity
+Rinvoq® 15 mg tablets 30 tablets per 30 90 tablets per 90
+(upadacitinib extended-release days days
+tablets) 30 mg tablets 30 tablets per 30 90 tablets per 90
+days days
+45 mg tablets 56 tablets per 365 days
+Rinvoq® LQ 1 mg/mL (180 mL 360 mL (2 1,080 mL (6
+(upadacitinib oral solution) bottle) bottles) per 30 bottles) per 90
+days days
+4 Pages - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Rinvoq Drug Quantity
+Management Policy – Per Days
+Inflammatory Conditions – Rinvoq Drug Quantity Management Policy – Per
+Days product(s) is(are) covered as medically necessary when the following
+criteria is(are) met. Any other exception is considered not medically
+necessary.
+CRITERIA
+Rinvoq 15 mg and 30 mg tablets
+No overrides recommended.
+Rinvoq 45 mg tablets
+1. If the patient is initiating treatment for Crohn’s disease or requires additional
+induction dosing for Crohn’s disease, as verified by the absence of claims for
+Rinvoq in the past 130 days, approve an override for an additional 84 tablets at
+retail or home delivery for 84 days.
+Note: The approval quantity should be the number of Rinvoq 45 mg tablets the
+patient has received in the past 365 days plus 84 tablets.
+2. If the patient requires additional induction dosing for ulcerative colitis, as verified
+by the absence of claims for Rinvoq in the past 130 days, approve an override for
+an additional 56 tablets at retail or home delivery for 56 days.
+Note: The approval quantity should be the number of Rinvoq 45 mg tablets the
+patient has received in the past 365 days plus 56 tablets.
+Rinvoq LQ oral solution
+No overrides recommended.
+REFERENCES
+1. Rinvoq® extended-release tablets and oral solution [prescribing information]. North Chicago, IL:
+AbbVie; April 2024.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Early Annual Rinvoq 1 mg/mL oral solution: New quantity limit to allow 360 mL 07/03/2024
+Revision (2 bottles) per 30 days at retail or 1,080 mL(6 bottles) per 90 days at
+home delivery was added to the policy. No overrides apply.
+Early Annual Rinvoq 45 mg tablets: Override criteria for Crohn’s disease were 12/18/2024
+Revision clarified to approve an override for an additional 84 tablets at retail or
+home delivery for 84 days. Previously, these criteria approved a one-
+time override for the requested quantity, not to exceed 84 tablets at
+retail or home delivery. Override criteria for ulcerative colitis were
+clarified to approve an override for an additional 56 tablets at retail or
+home delivery for 56 days. Previously, these criteria approved a one-
+time override for the requested quantity, not to exceed 56 tablets at
+retail or home delivery.
+4 Pages - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Rinvoq Drug Quantity
+Management Policy – Per Days
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. ©
+2024 The Cigna Group.
+4 Pages - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Rinvoq Drug Quantity
+Management Policy – Per Days

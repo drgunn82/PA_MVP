@@ -1,0 +1,421 @@
+PRIOR AUTHORIZATION FOR
+PREFERRED SPECIALTY MANAGEMENT POLICY
+POLICY: Hepatitis C – Mavyret Prior Authorization for Preferred Specialty
+Management Policy
+• Mavyret® (glecaprevir/pibrentasvir tablets and oral pellets −
+AbbVie)
+REVIEW DATE: 04/02/2025; selected revision 06/25/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Mavyret, a direct-acting antiviral, contains glecaprevir, a pangenotypic NS3/4A
+protease inhibitor and pibrentasvir, a pangenotypic NS5A inhibitor.1 It is indicated
+for the treatment of acute and chronic hepatitis C virus (HCV) in the following
+scenarios:
+• Patients ≥ 3 years of age with genotype 1, 2, 3, 4, 5, or 6 infection without
+cirrhosis or with compensated cirrhosis (Child-Pugh A).
+• Patients ≥ 3 years of age with genotype 1 infection who have previously
+been treated with a regimen containing an HCV NS5A inhibitor or an NS3/4A
+protease inhibitor, but not both.
+Dosing
+Page 1 of 10 - Cigna National Formulary Coverage - Hepatitis C – Mavyret Prior Authorization for Preferred
+Specialty Management Policy
+The duration of therapy is based on prior treatment experience, genotype, and the
+presence or absence of cirrhosis (see Tables 1 and 2). In addition, Mavyret is
+recommended for 12 weeks in patients ≥ 3 years of age who are liver or kidney
+transplant recipients. Similar to non-transplant recipients, a 16-week treatment
+duration is recommended in genotype 1-infected patients who are NS5A inhibitor-
+experienced without prior treatment with an NS3/4A protease inhibitor or in
+genotype 3-infected patients who are treatment-experienced with regimens
+containing interferon, pegylated interferon, ribavirin, and/or Sovaldi® (sofosbuvir
+tablets/oral pellets). The clinical trial in patients with acute HCV assessed Mavyret
+for 8 weeks.
+Table 1. Recommended Duration for Treatment-Naïve Patients.1
+HCV Genotype Treatment Duration
+No Cirrhosis Compensated Cirrhosis
+(Child-Pugh A)
+1, 2, 3, 4, 5, or 6 8 weeks 8 weeks
+HCV – Hepatitis C virus.
+Table 2. Recommended Duration for Treatment-Experienced Patients.1*
+HCV Prior Treatment Duration
+Genotype Experience Without Cirrhosis With Compensated
+Cirrhosis (Child-Pugh
+A)
+1, 2, 4, 5, 6 PRS 8 weeks 12 weeks
+3 PRS 16 weeks 16 weeks
+1 NS3/4 PI1 (NS5A-naïve) 12 weeks 12 weeks
+NS5A inhibitor2 (NS3/4 PI- 16 weeks 16 weeks
+naïve)†
+* Treatment-experienced patients are those who previously received treatment for the current infection;
+HCV – Hepatitis C virus; PRS – Prior treatment experience with regimens containing interferon,
+pegylated interferon, ribavirin, and/or Sovaldi® (sofosbuvir tablets), but no prior treatment experience
+with an HCV NS3/4A protease inhibitor (PI) or NS5A inhibitor; PI – Protease inhibitor; 1 Regimens
+containing Olysio® (simeprevir capsules) and Sovaldi, or Olysio, Victrelis® (boceprevir capsules), or
+Incivek® (telaprevir tablets) with interferon or pegylated interferon and ribavirin were studied; 2
+Regimens containing ledipasvir/sofosbuvir or Daklinza® (daclatasvir tablets) + pegylated interferon +
+ribavirin [unapproved regimen] were studied.
+Efficacy in Acute HCV
+The efficacy of Mavyret in patients with acute HCV was evaluated in a single-arm,
+open-label study in adults who were treatment-naïve for their current infection (n =
+286).1 All patients received Mavyret for 8 weeks. Eligible patients had a diagnosis
+of acute HCV infection at screening defined as physician diagnosis, quantifiable HCV
+RNA, and one or more of the following: Recent conversion of negative to positive
+results in anti-HCV antibody, HCV RNA, or HCV core antigen testing; liver disease
+signs associated with acute HCV infection1; and recent risk behaviors for HCV
+infection1 within the past 6 months4. In addition, patients either had compensated
+cirrhosis or did not have cirrhosis.4 Among the enrolled patients, 84% had
+evidence of clinical hepatitis at screening in the absence of other causes of liver
+disease and with recent risk behavior for HCV transmission.1 At baseline 96% of
+patients had quantifiable HCV RNA; 39% of these patients had a documented result
+of negative HCV antibody or unquantifiable HCV RNA within the prior 1 year, and
+10 Pages - Cigna National Formulary Coverage - Hepatitis C – Mavyret Prior Authorization for Preferred Specialty
+Management Policy
+4% of whom had unquantifiable HCV RNA (potentially reflecting spontaneous
+clearance of the HCV infection during the pretreatment period). A prior history of
+HCV infection was reported in 18% of patients; 2% of patients had cirrhosis. Most
+patients had genotype 1 HCV (58%); 4% of patients had genotype 2, 12% had
+genotype 3, and 17% had genotype 4. The overall rate of SVR12 was 96%; no
+patient had virologic failure.
+Guidelines
+The American Association for the Study of Liver Diseases/Infectious Diseases
+Society of America (AASLD/IDSA) provide recommendations for testing, monitoring,
+and treating HCV (December 19, 2023).2 The guidelines have not been updated
+since the approval of Mavyret in acute HCV infection.
+Patients with acute infection should be treated upon initial diagnosis (defined as
+quantifiable HCV RNA) without awaiting spontaneous resolution.2 Owing to high
+efficacy and safety, the same regimens that are recommended for chronic HCV
+infection are recommended for acute infection. At the time the recommendation
+was made, the guidelines note that there were insufficient evidence to support a
+particular regimen or treatment duration outside of a clinical trial. Pangenotypic
+regimens are recommended if HCV genotyping is not available or if a concern of
+exposure to more than one genotype exists. Additionally, the guidelines state that
+using the same regimens to treat acute or recent HCV as for chronic HCV also
+simplifies management as defining acute HCV may be clinically challenging.
+Instances in which the guidelines provide recommendations for Mavyret outside of
+the FDA-approved indications are outlined below.
+With the availability of pangenotypic HCV treatment regimens, HCV genotyping is
+no longer required prior to treatment initiation for all individuals.2 Pretreatment
+genotyping is still recommended in patients with cirrhosis and/or past unsuccessful
+HCV treatment, because treatment regimens may differ by genotype. However, for
+treatment-naïve patients without cirrhosis, although genotyping may impact the
+preferred treatment approach, it is not required if a pangenotypic regimen is used.
+In treatment-naïve adults without cirrhosis, the recommended regimens are
+Mavyret for 8 weeks or sofosbuvir/velpatasvir for 12 weeks. Additional genotype-
+specific and/or special circumstance-specific recommendations are also provided for
+patients falling outside of these parameters. Mavyret is recognized as a
+recommended regimen (12 weeks) for the treatment of patients with recurrent HCV
+post-liver transplantation (without cirrhosis or with compensated cirrhosis).
+Treatment-naïve adults with compensated cirrhosis are also eligible for simplified
+treatment. In patients with compensated cirrhosis, the recommended regimen in
+patients with genotype 1 through 6 is Mavyret for 8 weeks; sofosbuvir/velpatasvir
+for 12 weeks is recommended in patients with genotype 1, 2, 4, 5, or 6 (patients
+with genotype 3 require baseline NS5A resistance-associated substitution testing.
+Those without Y93H can be treated with sofosbuvir/velpatasvir for 12 weeks).
+Genotype testing is not required for Mavyret as part of the simplified algorithm in
+patients with compensated cirrhosis.
+10 Pages - Cigna National Formulary Coverage - Hepatitis C – Mavyret Prior Authorization for Preferred Specialty
+Management Policy
+Mavyret is recognized as a recommended regimen (12 weeks) for the treatment of
+patients with recurrent HCV post-liver transplantation (without cirrhosis or with
+compensated cirrhosis).
+The European Society for Pediatric Gastroenterology, Hepatology and Nutrition
+recommendations on the treatment of hepatitis C (2024) describe the optimal
+therapeutic management of adolescents and children with HCV infection.3 Direct-
+acting antiviral regimens are recommended for all treatment-naïve and treatment-
+experienced children ≥ 3 years of age with chronic HCV. When available, the
+regimen of choice should be one that has the shortest treatment duration and does
+not require concomitant ribavirin. In addition, to simplify treatment and avoid the
+need of genotyping and/or baseline resistance‐associated substitutions assessment,
+pangenotypic regimens are preferred. In children and adolescents without
+cirrhosis, or with compensated cirrhosis, recommended regimens are Mavyret,
+sofosbuvir/velpatasvir, or ledipasvir/sofosbuvir. In children and adolescents with
+decompensated cirrhosis, treatment should follow adult guidelines.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Mavyret.
+All approvals are provided for the duration noted below. Because of the specialized
+skills required for evaluation and diagnosis of patients treated with Mavyret as well
+as the monitoring required for adverse events and efficacy, approval requires
+Mavyret to be prescribed by or in consultation with a physician who specializes in
+the condition being treated.
+• Mavyret® (glecaprevir/pibrentasvir tablets and oral pellets - AbbVie)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Acute Hepatitis C Virus (HCV) Genotype 1, 2, 3, 4, 5, or 6. Approve for 8
+weeks if the patient meets the following (A, B, C, D, and E):
+A) Patient is ≥ 3 years of age; AND
+B) Patient meets ONE of the following (i or ii):
+i. Patient does not have cirrhosis; OR
+ii. Patient has compensated cirrhosis; AND
+C) Patient has quantifiable HCV RNA; AND
+D) Patient meets ONE or more of the following (i, ii, or iii):
+i. Patient has had conversion of negative to positive results in anti-HCV
+antibody, HCV RNA, and/or HCV core antigen; OR
+ii. Patient has signs and symptoms of acute hepatitis C virus, according to
+the prescriber; OR
+10 Pages - Cigna National Formulary Coverage - Hepatitis C – Mavyret Prior Authorization for Preferred Specialty
+Management Policy
+Note: Signs and symptoms of acute hepatitis C virus include but are not
+limited to alanine aminotransferase > 5 × upper limit of normal and/or
+jaundice; nausea, fatigue, fever, muscle aches.
+iii. Patient has engaged in a risk behavior for HCV infection within the prior 6
+months, according to the prescriber; AND
+E) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+2. Chronic Hepatitis C Virus (HCV) Genotype 1. Approve for the duration
+noted if the patient meets ALL of the following (A, B, and C):
+A) Patient is ≥ 3 years of age; AND
+B) Patient meets ONE of the following (i or ii):
+i. Approve for 12 weeks if the patient meets ONE of the following (a or b):
+a) Patient is treatment-naïve; OR
+b) Patient has previously been treated with pegylated interferon/ribavirin,
+Incivek (telaprevir tablets ), Olysio (simeprevir capsules), or Victrelis
+(boceprevir capsules); OR
+ii. Approve for 16 weeks if the patient meets ONE of the following (a, b, or
+c):
+a) Patient has previously been treated with Daklinza (daclatasvir tablets),
+sofosbuvir/velpatasvir, ledipasvir/sofosbuvir, or Zepatier
+(elbasvir/grazoprevir tablets); OR
+b) Patient has previously been treated with Sovaldi (sofosbuvir
+tablets/oral pellets) + ribavirin with or without pegylated
+interferon/interferon; OR
+c) Patient has previously been treated with Sovaldi + Olysio; AND
+C) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+3. Chronic Hepatitis C Virus (HCV) Genotype 2. Approve for 12 weeks if the
+patient meets BOTH of the following (A and B):
+A) Patient is ≥ 3 years of age; AND
+B) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+4. Chronic Hepatitis C Virus (HCV) Genotype 3. Approve for the duration
+noted if the patient meets ALL of the following (A, B, and C):
+A) Patient is ≥ 3 years of age; AND
+B) Patient meets ONE of the following (i or ii):
+i. Approve for 12 weeks if the patient is treatment-naïve; OR
+ii. Approve for 16 weeks if the patient meets BOTH of the following (a or b):
+a) Patient has previously been treated with Sovaldi (sofosbuvir
+tablets/oral pellets) + ribavirin with or without pegylated
+interferon/interferon; OR
+b) Patient has previously been treated with pegylated interferon/ribavirin;
+AND
+C) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+10 Pages - Cigna National Formulary Coverage - Hepatitis C – Mavyret Prior Authorization for Preferred Specialty
+Management Policy
+5. Chronic Hepatitis C Virus (HCV) Genotype 4. Approve for 12 weeks if the
+patient meets BOTH of the following (A and B):
+A) Patient is ≥ 3 years of age; AND
+B) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+6. Chronic Hepatitis C Virus (HCV) Genotype 5 or 6. Approve for 12 weeks if
+the patient meets BOTH of the following (A and B):
+A) Patient is ≥ 3 years of age; AND
+B) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+7. Hepatitis C Virus (HCV) Genotype 1, Renal Impairment (Estimated
+Glomerular Filtration Rate [eGFR] < 30 mL/min or End-Stage Renal
+Disease [ESRD]). Approve for the duration noted if the patient meets ALL of
+the following (A, B, and C):
+A) Patient is ≥ 3 years of age; AND
+B) Patient meets ONE of the following (i or ii):
+i. Approve for 12 weeks if the patient meets ONE of the following (a or b):
+a) Patient is treatment-naïve; OR
+b) Patient has previously been treated with pegylated interferon/ribavirin,
+Incivek (telaprevir tablets), Olysio (simeprevir capsules), or Victrelis
+(boceprevir capsules); OR
+ii. Approve for 16 weeks if the patient meets ONE of the following (a, b, or
+c):
+a) Patient has previously been treated with Daklinza (daclatasvir tablets),
+sofosbuvir/velpatasvir, ledipasvir/sofosbuvir, or Zepatier
+(elbasvir/grazoprevir tablets); OR
+b) Patient has previously been treated with Sovaldi (sofosbuvir
+tablets/oral pellets) + ribavirin with or without pegylated
+interferon/interferon; OR
+c) Patient has previously been treated with Sovaldi + Olysio; AND
+C) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, nephrologist, kidney transplant
+physician, or a liver transplant physician.
+8. Hepatitis C Virus (HCV) Genotype 4 with Renal Impairment (Estimated
+Glomerular Filtration Rate [eGFR] < 30 mL/min or End-Stage Renal
+Disease [ESRD]). Approve for 12 weeks if the patient meets BOTH of the
+following (A and B):
+A) Patient is ≥ 3 years of age; AND
+B) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, nephrologist, kidney transplant
+physician, or a liver transplant physician.
+9. Hepatitis C Virus (HCV) Genotype 2, 3, 5, or 6 with Renal Impairment
+(Estimated Glomerular Filtration Rate [eGFR] < 30 mL/min or End-
+10 Pages - Cigna National Formulary Coverage - Hepatitis C – Mavyret Prior Authorization for Preferred Specialty
+Management Policy
+Stage Renal Disease [ESRD]). Approve for the duration noted if the patient
+meets ALL of the following (A, B, and C):
+A) Patient is ≥ 3 years of age; AND
+B) Patient meets ONE of the following (i, ii, or iii):
+i. Patient has genotype 2, 5, or 6: Approve for 12 weeks; OR
+ii. Patient has genotype 3 and is treatment-naïve: Approve for 12 weeks;
+OR
+iii. Patient has genotype 3 and has previously been treated: Approve for 16
+weeks; AND
+C) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, nephrologist, kidney transplant
+physician, or a liver transplant physician.
+10. Hepatitis C Virus (HCV) Genotype 1, Kidney Transplant. Approve for
+the duration noted if the patient meets ALL of the following (A, B, C, and D):
+A) Patient is ≥ 3 years of age; AND
+B) Patient is a kidney transplant recipient; AND
+C) Patient meets ONE of the following (i or ii):
+i. Patient is treatment-naïve: Approve for 12 weeks; OR
+ii. Patient has previously been treated for HCV: Approve for 16 weeks; AND
+D) The medication is prescribed by or in consultation with one of the following
+prescribers who is affiliated with a transplant center: gastroenterologist,
+hepatologist, infectious diseases physician, nephrologist, renal transplant
+physician, or liver transplant physician.
+11. Hepatitis C Virus (HCV) Genotype 2, 3, 5, or 6, Kidney Transplant.
+Approve for the duration noted if the patient meets ALL of the following (A, B, C,
+and D):
+A) Patient is ≥ 3 years of age; AND
+B) Patient is a kidney transplant recipient; AND
+C) Patient meets ONE of the following (i, ii, or iii):
+i. Patient has genotype 2, 5, or 6: Approve for 12 weeks.
+ii. Patient has genotype 3 and is treatment-naïve: Approve for 12 weeks.
+iii. Patient has genotype 3 and has previously been treated for HCV:
+Approve for 16 weeks; AND
+D) The medication is prescribed by or in consultation with one of the following
+prescribers who is affiliated with a transplant center: gastroenterologist,
+hepatologist, infectious diseases physician, nephrologist, renal transplant
+physician, or liver transplant physician.
+12. Hepatitis C Virus (HCV) Genotype 4, Kidney Transplant. Approve for
+12 weeks if the patient meets ALL of the following (A, B, and C):
+A) Patient is ≥ 3 years of age; AND
+B) Patient is a kidney transplant recipient; AND
+C) The medication is prescribed by or in consultation with one of the following
+prescribers who is affiliated with a transplant center: gastroenterologist,
+hepatologist, infectious diseases physician, nephrologist, renal transplant
+physician, or liver transplant physician.
+10 Pages - Cigna National Formulary Coverage - Hepatitis C – Mavyret Prior Authorization for Preferred Specialty
+Management Policy
+13. Hepatitis C Virus (HCV) Genotype 1, 2, 3, 4, 5, or 6, Liver Transplant.
+Approve for the duration noted below if the patient meets ALL of the following
+(A, B, C, and D):
+A) Patient is ≥ 3 years of age; AND
+B) Patient is a liver transplant recipient; AND
+C) Patient meets ONE of the following (i, ii, or iii):
+i. Patient has genotype 2, 4, 5, or 6: Approve for 12 weeks.
+ii. Patient has genotype 1 or 3 and is treatment-naïve: Approve for 12
+weeks.
+iii. Patient has genotype 1 or 3 and has previously been treated for HCV:
+Approve for 16 weeks; AND
+D) The medication is prescribed by or in consultation with one of the following
+prescribers who is affiliated with a transplant center: a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+Other Uses with Supportive Evidence
+14. Chronic Hepatitis C Virus (HCV), Genotype Unknown/Undetermined.
+Approve for 8 weeks if the patient meets ALL of the following (A, B, C, D, E, F,
+G, and H):
+A) Patient is ≥ 18 years of age; AND
+B) Patient meets ONE of the following (i or ii):
+i. Patient does not have cirrhosis; OR
+ii. Patient has compensated cirrhosis; AND
+C) Patient has not previously been treated for hepatitis C virus; AND
+D) Patient does not have hepatitis B virus; AND
+E) Patient is not pregnant; AND
+F) Patient does not have hepatocellular carcinoma; AND
+G) Patient has not had a liver transplantation; AND
+H) The medication will be prescribed by or in consultation with a
+gastroenterologist, hepatologist, infectious diseases physician, or a liver
+transplant physician.
+15. Recurrent Hepatitis C Virus (HCV) Post-Liver Transplantation,
+Genotype 1, 2, 3, 4, 5, or 6. Approve for 12 weeks if the patient meets ALL of
+the following (A, B, and C):
+A) Patient is ≥ 3 years of age; AND
+B) Patient has recurrent HCV after a liver transplantation; AND
+C) The medication is prescribed by or in consultation with one of the following
+prescribers who is affiliated with a transplant center: gastroenterologist,
+hepatologist, infectious diseases physician, or liver transplant physician.
+16. Patient Has Been Started on Mavyret. Approve for an indication or
+condition above. Approve the duration described above to complete a course
+therapy (e.g., a patient who should receive 12 weeks, and has received 3 weeks
+should be approved for 9 weeks to complete their 12-week course).
+10 Pages - Cigna National Formulary Coverage - Hepatitis C – Mavyret Prior Authorization for Preferred Specialty
+Management Policy
+CONDITIONS NOT COVERED
+• Mavyret® (glecaprevir/pibrentasvir tablets and oral pellets - AbbVie)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+in the following situations:
+1. Hepatitis C Virus (HCV) Child-Pugh Class B or C Liver Disease (Moderate
+or Severe Hepatic Impairment). Mavyret is contraindicated in patients with
+moderate or severe hepatic impairment (Child-Pugh Class B or C).1
+2. Hepatitis C Virus (HCV) [any genotype], Combination with Any Other
+Direct-Acting Antivirals (DAAs). Mavyret provides a complete antiviral
+regimen.
+3. Pediatric Patients (Age < 3 Years of Age). The safety and efficacy of
+Mavyret have not been established in pediatric patients < 3 years of age.1
+REFERENCES
+1. Mavyret® tablets and oral pellets [prescribing information]. North Chicago, IL: AbbVie; June
+2025.
+2. American Association for the Study of Liver Diseases and the Infectious Diseases Society of
+America. Testing, managing, and treating hepatitis C. Available at:
+http://www.hcvguidelines.org. Updated December 19, 2023. Accessed on March 25, 2025.
+3. Indolfi G, Gonzalez-Peralta RP, Jona MM, et al. ESPGHAN recommendations on treatment of
+chronic hepatitis C virus infection in adolescents and children including those living in resource
+limited settings. J Pediatr Gastroenterol Nutr. 2024;78:957-972.
+4. AbbVie. Study to evaluate adverse events and change in disease activity in adult and adolescent
+participants with acute hepatitis C virus (HCV) infection on treatment with oral tablets of
+glecaprevir (GLE)/pibrentasvir (PIB). In: ClinicalTrials.gov [Internet]. Bethesda (MD): National
+Library of Medicine (US). 2000- [cited 2025 June 25]. Available at:
+https://clinicaltrials.gov/study/NCT04903626. NLM Identifier: NCT04903626.
+10 Pages - Cigna National Formulary Coverage - Hepatitis C – Mavyret Prior Authorization for Preferred Specialty
+Management Policy
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Early Annual Chronic Hepatitis C Virus (HCV), Genotype 04/05/2023
+Revision Unknown/Undetermined: A new condition of coverage was added
+to “Other Uses with Supportive Evidence”. Patients meeting these
+criteria are approved for 12 weeks of sofosbuvir/velpatasvir.
+Selected Conditions Not Covered: Life Expectancy Less Than 12 02/28/2024
+Revision Months Due to Non-Liver Related Comorbidities. This condition
+was removed.
+Annual Chronic Hepatitis C Virus (HCV), Genotype 04/03/2024
+Revision Unknown/Undetermined. The criterion that the patient does not
+have cirrhosis was modified to state that the patient does not have
+cirrhosis OR the patient has compensated cirrhosis.
+Annual No criteria changes. 04/02/2025
+Revision
+Selected Acute Hepatitis C Virus (HCV), Genotype 1, 2, 3, 4, 5, or 6. A 06/25/2025
+Revision new condition of approval was added. In a patient that meets
+criteria, Mavyret is approved for 8 weeks.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+10 Pages - Cigna National Formulary Coverage - Hepatitis C – Mavyret Prior Authorization for Preferred Specialty
+Management Policy

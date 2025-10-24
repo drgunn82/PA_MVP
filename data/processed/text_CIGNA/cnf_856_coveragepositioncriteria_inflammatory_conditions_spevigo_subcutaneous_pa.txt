@@ -1,0 +1,198 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Inflammatory Conditions – Spevigo Subcutaneous Prior Authorization
+Policy
+• Spevigo® (spesolimab-sbzo subcutaneous injection − Boehringer
+Ingelheim)
+REVIEW DATE: 04/09/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Spevigo, an interleukin-36 receptor antagonist, is indicated for the treatment of
+generalized pustular psoriasis flares in adults and pediatric patients ≥ 12 years
+of age and weighing ≥ 40 kg.1
+Spevigo subcutaneous is used for treatment of generalized pustular psoriasis when a
+patient is not experiencing a flare. The recommended dosage of Spevigo
+subcutaneous for the treatment of generalized pustular psoriasis when not
+experiencing a flare in adults and pediatric patients ≥ 12 years of age and ≥ 40 kg
+is a loading dose of 600 mg (four 150 mg injections) followed by 300 mg (two 150
+mg injections) administered subcutaneously 4 weeks after the loading dose
+injection(s) and every 4 weeks thereafter.
+Page 1 of 5 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Spevigo Subcutaneous Prior
+Authorization Policy
+Guidelines
+The National Psoriasis Foundation has written a consensus statement for generalized
+pustular psoriasis (2024). The statement strongly advocates for timely access to FDA
+approved therapy for generalized pustular psoriasis because delays can increased the
+risk of mortality in patients.2 The statement states that Spevigo is the first FDA-
+approved treatment that is highly effective in the treatment of generalized pustular
+psoriasis flares in adults. Timely access to approved therapies is critical to reducing
+morbidity and mortality in patients presenting with generalized pustular psoriasis.
+Treatment guidelines from the Medical Board of the National Psoriasis Foundation
+(2012) address the management of generalized pustular psoriasis in different clinical
+scenarios.3 Recommended therapies include acitretin, cyclosporine, methotrexate,
+and infliximab for adults with generalized pustular psoriasis as first-line therapy.
+Second-line therapy includes Humira, Enbrel, topical therapy (e.g., corticosteroids,
+calcipotriene, and tacrolimus), and PUVA (psoralen and ultraviolet A). There are also
+separate recommendations for pediatric and pregnant patients.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Spevigo.
+Because of the specialized skills required for evaluation and diagnosis of patients
+treated with Spevigo, initial approval requires Spevigo to be prescribed by or in
+consultation with a physician who specializes in the condition being treated. All
+approvals are provided for the duration noted below.
+• Spevigo® (spesolimab-sbzo subcutaneous injection - Boehringer
+Ingelheim)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Generalized Pustular Psoriasis. Approve for the duration noted if the patient
+meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, iii, iv, v, and vi):
+i. Patient is ≥ 12 years of age; AND
+ii. Patient weighs ≥ 40 kilograms (kg); AND
+iii. Patient has history of at least two generalized pustular psoriasis flares of
+moderate-to-severe intensity in the past; AND
+iv. Patient has a Generalized Pustular Psoriasis Physician Global Assessment
+(GPPGA) total score of 0 or 1; AND
+v. Patient meets ONE of the following (a or b):
+a) Patient meets BOTH of the following ([1] and [2]):
+(1) Patient has had a 4-month trial of least one treatment for
+generalized pustular psoriasis; AND
+5 Pages - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Spevigo Subcutaneous Prior
+Authorization Policy
+Note: Examples of treatment include methotrexate, acitretin,
+cyclosporine, or biologics.
+(2) Patient has had a history of flaring while on treatment or with
+dose reduction or discontinuation of treatment; OR
+b) Patient has tried at least one treatment for generalized pustular
+psoriasis but was unable to tolerate a 4-month trial; AND
+vi. The medication is prescribed by or in consultation with a dermatologist; OR
+B) Patient is Currently Receiving Spevigo Subcutaneous. Approve for 1 year if the
+patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy should be considered under criterion A (Initial Therapy).
+ii. Patient has experienced a beneficial clinical response, defined as
+improvement from baseline (prior to initiating the requested drug) in at
+least one of the following: reduction of generalized pustular psoriasis flares
+or an improvement in Generalized Pustular Psoriasis Physician Global
+Assessment (GPPGA) score.
+CONDITIONS NOT COVERED
+• Spevigo® (spesolimab-sbzo subcutaneous injection - Boehringer
+Ingelheim)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Concomitant use with Another Biologic or Disease-Modifying
+Antirheumatic Drugs (DMARD) Prescribed for Treatment of Generalized
+Pustular Psoriasis. Although not approved, there are case reports documenting
+use of some biologics approved for plaque psoriasis (see Appendix for examples)
+for treatment of generalized pustular psoriasis. In the pivotal study for Spevigo,
+patients were required to discontinue therapy for generalized pustular psoriasis
+prior to receiving Spevigo.
+Note: Patients with concomitant plaque psoriasis and generalized pustular
+psoriasis may be receiving a biologic for treatment of plaque psoriasis.
+2. Plaque Psoriasis. Spevigo has not been studied in patients with plaque psoriasis
+without generalized pustular psoriasis.
+Note: Patients with concomitant plaque psoriasis and generalized pustular
+psoriasis may be reviewed under the generalized pustular psoriasis criteria above.
+REFERENCES
+1. Spevigo® intravenous infusion and subcutaneous injection [prescribing information]. Ridgefield, CT:
+Boehringer Ingelheim; March 2024.
+2. Armstrong AW, Elston CA, Elewski BE. Generalized pustular psoriasis: A consensus statement from
+the National Psoriasis Foundation. J Am Acad Dermatol. 2024; 90(4):727-730.
+5 Pages - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Spevigo Subcutaneous Prior
+Authorization Policy
+3. Robinson A, Van Voorhees AS, Hsu S, et al. Treatment of pustular psoriasis: from the medical board
+of the National Psoriasis Foundation. J Am Acad Dermatol. 2012;67(2):279-288.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New policy -- 04/10/2024
+Annual No criteria changes. 04/09/2025
+Revision
+5 Pages - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Spevigo Subcutaneous Prior
+Authorization Policy
+APPENDIX
+Mechanism of Action Examples of
+Inflammatory Indications*
+Biologics
+Adalimumab SC Products (Humira®, Inhibition of TNF AS, CD, JIA, PsO, PsA, RA,
+biosimilars) UC
+Cimzia (certolizumab pegol SC Inhibition of TNF AS, CD, nr-axSpA, PsO, PsA,
+injection) RA
+Etanercept SC Products (Enbrel, Inhibition of TNF AS, JIA, PsO, PsA
+biosimilars)
+Infliximab IV Products (Remicade®, Inhibition of TNF AS, CD, PsO, PsA, RA, UC
+biosimilars)
+Simponi®, Simponi® Aria™ (golimumab Inhibition of TNF SC formulation: AS, PsA, RA,
+SC injection, golimumab IV infusion) UC
+IV formulation: AS, PJIA,
+PsA, RA
+Actemra® (tocilizumab IV infusion, Inhibition of IL-6 SC formulation: PJIA, RA,
+tocilizumab SC injection) SJIA
+IV formulation: PJIA, RA,
+SJIA
+Kevzara® (sarilumab SC injection) Inhibition of IL-6 RA
+Orencia® (abatacept IV infusion, T-cell costimulation SC formulation: JIA, PsA, RA
+abatacept SC injection) modulator IV formulation: JIA, PsA, RA
+Rituximab IV Products (Rituxan®, CD20-directed cytolytic RA
+biosimilars) antibody
+Kineret® (anakinra SC injection) Inhibition of IL-1 JIA^, RA
+Stelara® (ustekinumab SC injection, Inhibition of IL-12/23 SC formulation: CD, PsO,
+ustekinumab IV infusion) PsA, UC
+IV formulation: CD, UC
+Siliq™ (brodalumab SC injection) Inhibition of IL-17 PsO
+Cosentyx® (secukinumab SC injection) Inhibition of IL-17A AS, ERA, nr-axSpA, PsO, PsA
+Taltz® (ixekizumab SC injection) Inhibition of IL-17A AS, nr-axSpA, PsO, PsA
+Ilumya™ (tildrakizumab-asmn SC Inhibition of IL-23 PsO
+injection)
+Skyrizi® (risankizumab-rzaa SC Inhibition of IL-23 SC formulation: CD, PsA,
+injection, risankizumab-rzaa IV infusion) PsO
+IV formulation: CD
+Tremfya™ (guselkumab SC injection) Inhibition of IL-23 PsO
+Entyvio™ (vedolizumab IV infusion) Integrin receptor CD, UC
+antagonist
+* Not an all-inclusive list of indications (e.g., oncology indications and rare inflammatory conditions are
+not listed). Refer to the prescribing information for the respective agent for FDA-approved indications;
+SC – Subcutaneous; TNF – Tumor necrosis factor; AS – Ankylosing spondylitis; CD – Crohn’s disease;
+JIA – Juvenile idiopathic arthritis; PsO – Plaque psoriasis; PsA – Psoriatic arthritis; RA – Rheumatoid
+arthritis; UC – Ulcerative colitis; nr-axSpA – Non-radiographic axial spondyloarthritis; IV – Intravenous,
+PJIA – Polyarticular juvenile idiopathic arthritis; IL – Interleukin; SJIA – Systemic juvenile idiopathic
+arthritis; ^ Off-label use of Kineret in JIA supported in guidelines; ERA – Enthesitis-related arthritis;
+DMARD – Disease-modifying antirheumatic drug; PDE4 – Phosphodiesterase 4; JAK – Janus kinase; AD
+– Atopic dermatitis.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+5 Pages - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Spevigo Subcutaneous Prior
+Authorization Policy

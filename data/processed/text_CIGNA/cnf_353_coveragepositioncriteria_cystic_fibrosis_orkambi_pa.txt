@@ -1,0 +1,232 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Cystic Fibrosis Transmembrane Conductance Regulator – Orkambi Prior
+Authorization Policy
+• Orkambi® (lumacaftor/ivacaftor tablets and oral granules – Vertex)
+REVIEW DATE: 07/09/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Orkambi, a combination of lumacaftor and ivacaftor, is indicated for the treatment
+of cystic fibrosis (CF) in patients ≥ 1 year of age who are homozygous for the
+F508del mutation in the cystic fibrosis transmembrane conductance regulator
+(CFTR) gene.1
+If the patient’s genotype is unknown, an FDA-cleared cystic fibrosis mutation test
+should be used to detect the presence of the F508del mutation on both alleles of
+the CFTR gene. The efficacy and safety of Orkambi have not been established in
+patients with cystic fibrosis other than those homozygous for the F508del mutation.
+Orkambi contains a unique chemical entity, lumacaftor, which is a CFTR corrector
+that increases trafficking of F508del CFTR to the cell surface, and ivacaftor (the
+same active ingredient contained in Kalydeco® [ivacaftor tablets and oral
+granules]), a CFTR potentiator that enhances chloride transport of CFTR on the cell
+Page 1 of 5 - Cigna National Formulary Coverage - Policy: Cystic Fibrosis Transmembrane Conductance Regulator
+– Orkambi Prior Authorization Policy
+surface. The F508del mutation in CFTR causes cystic fibrosis by limiting the amount
+of CFTR protein that reaches the epithelial cell surface.
+Guidelines
+The most current treatment recommendations are the Standards of Care for CFTR
+variant-specific therapy for people with CF, from the European Cystic Fibrosis
+Society (2023).4 However, the Standards do not reflect the currently approved age
+indications for Kalydeco® (ivacaftor tablets and oral granules) [≥ 1 months of age],
+Orkambi (≥ 1 year of age), or Trikafta® (elexacaftor/tezacaftor/ivacaftor; ivacaftor
+co-packaged tablets and granules) [≥ 2 years of age]. In general, Trikafta is
+recommended over other agents where indications overlap. The Standards
+recommend Trikafta in patients ≥ 6 years of age with CF who are homozygous or
+heterozygous for F508del. In patients with one or more responsive non-F508del
+variant, Kalydeco, Symdeko® (tezacaftor/ivacaftor tablets; ivacaftor tablets), or
+Trikafta are recommended. Kalydeco is recommended in patients ≥ 4 months of
+age with eligible CFTR gene variants. Orkambi is recommended for patients 2 to 5
+years of age who are homozygous for F508del. Of note, the Standards state that
+after diagnosis, repeat sweat testing provides evidence of treatment effect on CFTR
+activity, but does not predict clinical response. The European Cystic Fibrosis Society
+Standards for establishing and maintaining health (2024) note that people with CF
+with eligible CFTR gene variants should be offered CFTR modulator therapy.4
+According to the CF Foundation (2017), CF is diagnosed when an individual has
+both a clinical presentation of CF and evidence of CFTR dysfunction.2,3 Clinical
+presentation of CF includes a positive newborn screening, signs and/or symptoms
+of CF, and/or family history of CF. To establish a diagnosis of CF, sweat chloride
+tests should be considered first, then CFTR genetic analysis (CFTR genotype), and
+then CFTR physiologic tests (nasal potential difference [NPD] or intestinal current
+measurement [ICM]). However, tests of CFTR function are not always done in this
+order. All individuals diagnosed with CF should have a sweat chloride test and CFTR
+genetic analysis performed.
+In a patient with a sweat chloride test ≥ 60 mmol/L, CF diagnosis is established and
+in patients with a sweat chloride test < 30 mmol/L, a diagnosis of CF is unlikely.2,3
+Rarely, patients with a sweat chloride < 30 mmol/L may be considered to have CF if
+alternatives are excluded and other confirmatory tests (genetic and physiologic
+testing) support CF. In patients with a sweat chloride test of ≥ 30 to < 60 mmol/L,
+CFTR genetic analysis is undertaken. If the genetic analysis identifies two CF-
+causing CFTR mutations, CF is diagnosed, if no CFTR mutations are identified, a
+diagnosis of CF is unlikely. In patients with a CFTR genotype that is undefined or of
+varying clinical consequence, full gene CFTR sequencing (if not already performed)
+or CFTR physiologic testing is performed (NPD or ICM). If only one CFTR variant is
+identified on limited analysis, full gene CFTR sequencing should be performed. CF is
+possible if both alleles possess CF-causing, undefined, or mutation of varying
+clinical consequence mutations; CF is unlikely if only no CF-causing mutations are
+found. If results of the NPD or ICM show CFTR dysfunction, CF is diagnosed; when
+testing is unavailable or equivocal, the diagnosis of CF is not resolved, and when
+results of the physiologic testing show CFTR function is preserved, a diagnosis of CF
+Page 2 of 5 - Cigna National Formulary Coverage - Policy: Cystic Fibrosis Transmembrane Conductance Regulator
+– Orkambi Prior Authorization Policy
+is considered unlikely. It is recommended that patients with challenging diagnoses
+be evaluated at an accredited CF Foundation Care Center.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Orkambi. All
+approvals are provided for the duration noted below. Because of the specialized
+skills required for evaluation and diagnosis of patients treated with Orkambi as well
+as the monitoring required for adverse events and long-term efficacy, approval
+requires Orkambi to be prescribed by or in consultation with a physician who
+specializes in the condition being treated.
+• Orkambi® (lumacaftor/ivacaftor tablets and oral granules – Vertex)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Cystic Fibrosis, Homozygous for the F508del Mutation in the Cystic
+Fibrosis Transmembrane Conductance Regulator Gene. Approve for 1 year
+if the patient meets ALL of the following (A, B, C, D, and E):
+A) Patient is ≥ 1 year of age; AND
+B) Patient has TWO copies of the F508del mutation in the cystic fibrosis
+transmembrane conductance regulator gene; AND
+C) Patient meets at least ONE of the following (i, ii, or iii):
+i. Positive cystic fibrosis newborn screening test; OR
+ii. Family history of cystic fibrosis; OR
+iii. Clinical presentation consistent with signs and symptoms of cystic
+fibrosis; AND
+Note: Examples of clinical presentation of cystic fibrosis include but are
+not limited to meconium ileus, sino-pulmonary symptoms (e.g., persistent
+cough, wheezing, pulmonary function tests consistent with obstructive
+airway disease, excess sputum production), bronchiectasis, sinusitis,
+failure to thrive, pancreatic insufficiency.
+D) Patient has evidence of abnormal cystic fibrosis transmembrane conductance
+regulator function as demonstrated by at least ONE of the following (i, ii, or
+iii):
+i. Elevated sweat chloride test; OR
+ii. Two cystic fibrosis-causing cystic fibrosis transmembrane conductance
+regulator mutations; OR
+iii. Abnormal nasal potential difference; AND
+E) The medication is prescribed by or in consultation with a pulmonologist or a
+physician who specializes in the treatment of cystic fibrosis.
+CONDITIONS NOT COVERED
+Page 3 of 5 - Cigna National Formulary Coverage - Policy: Cystic Fibrosis Transmembrane Conductance Regulator
+– Orkambi Prior Authorization Policy
+• Orkambi® (lumacaftor/ivacaftor tablets and oral granules – Vertex)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Cystic Fibrosis, Heterozygous for the F508del Mutation in the Cystic
+Fibrosis Transmembrane Conductance Regulator Gene. Orkambi is not
+indicated for a patient with only one copy of the F508del mutation in the cystic
+fibrosis transmembrane conductance regulator gene.1
+2. Combination Therapy with Other Cystic Fibrosis Transmembrane
+Conductance Regulator Modulator(s). Orkambi contains ivacaftor, the active
+agent in Kalydeco® (tablets and oral granules) and therefore is not indicated in
+combination with Kalydeco. Symdeko® (tezacaftor/ivacaftor tablets; ivacaftor
+tablets) and Trikafta® (elexacaftor/tezacaftor/ivacaftor; ivacaftor co-packaged
+tablets and granules) contain ivacaftor and are therefore not indicated in
+combination with Orkambi.
+Note: Examples of other cystic fibrosis transmembrane conductance regulator
+modulators are: Alyftrek™ (vanzacaftor/tezacaftor/deutivacaftor tablets),
+Kalydeco (ivacaftor tablets and oral granules), Symdeko (tezacaftor/ivacaftor;
+ivacaftor tablets), Trikafta (elexacaftor/tezacaftor/ivacaftor; ivacaftor co-
+packaged tablets and granules).
+3. Infertility. Orkambi is indicated for the treatment of cystic fibrosis in a patient
+≥ 1 year of age who is homozygous for the F508del mutation in the cystic
+fibrosis transmembrane regulator gene.1
+Note: A patient with a diagnosis of cystic fibrosis should be reviewed using
+criteria for the FDA-approved indication, above.
+REFERENCES
+1. Orkambi® tablets and oral granules [prescribing information]. Cambridge, MA: Vertex; December
+2024.
+2. Farrell PM, White TB, Ren CL, et al. Diagnosis of cystic fibrosis: consensus guidelines from the
+cystic fibrosis foundation. J Pediatr. 2017;181S:S4-S15.
+3. Farrell PM, White TB, Howenstine MS, et al. Diagnosis of cystic fibrosis in screened populations. J
+Pediatr. 2017;181S:S33-S44.
+4. Southern KW, Addy C, Bell SC, et al. Standards for the care of people with cystic fibrosis;
+establishing and maintaining health. J Cyst Fibros. 2024;21-28.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 07/05/2023
+Revision
+Selected Cystic Fibrosis (CF) Homozygous for the F508del Mutation in 04/10/2024
+Revision the Cystic Fibrosis Transmembrane Regulator (CFTR) Gene:
+Reference to Phe508del was removed from the title of this criterion
+Page 4 of 5 - Cigna National Formulary Coverage - Policy: Cystic Fibrosis Transmembrane Conductance Regulator
+– Orkambi Prior Authorization Policy
+(this is the same as F508del). The criterion that the patient is
+homozygous for the F508del (Phe508del) mutation in the CFTR gene
+(meaning the patient has two copies of the F508del [Phe508del]
+mutation) was revised to state that the patient has TWO copies of
+the F508del mutation. A criterion was added to require that the
+patient has at least one of the following: positive cystic fibrosis
+newborn screening test, family history of cystic fibrosis, or a clinical
+presentation consistent with signs and symptoms of cystic fibrosis. A
+criterion was added to require that the patient has evidence of
+abnormal cystic fibrosis transmembrane conductance regulator
+function as demonstrated by at least one of the following: elevated
+sweat chloride test, two cystic fibrosis-causing cystic fibrosis
+transmembrane conductance regulator mutations, or an abnormal
+nasal potential difference.
+Cystic Fibrosis, Heterozygous for the F508del Mutation in the
+CFTR Gene. Reference to Phe508del was removed from this
+condition not recommended for approval (this is the same as
+F508del).
+Infertility: This indication was added to Conditions Not Covered
+.
+Annual No criteria changes. 07/10/2024
+Revision
+Selected The Policy title was changed to Cystic Fibrosis Transmembrane 01/02/2025
+Revision Conductance Regulator – Orkambi PA Policy. Previously, Cystic
+Fibrosis – Orkambi PA Policy.
+Cystic Fibrosis Homozygous for the F508del Mutation in the
+Cystic Fibrosis Transmembrane Conductance Regulator Gene.
+“Conductance” was added to these criteria. The criterion that the
+patient has TWO copies of the F508del mutation in the cystic fibrosis
+transmembrane conductance regulator gene was updated to add
+“conductance”.
+Conditions Not Covered
+Cystic Fibrosis, Heterozygous for the F508del Mutation in the
+Cystic Fibrosis Transmembrane Conductance Regulator Gene
+Mutation. “Conductance” was added to the verbiage for this
+condition not recommended for approval.
+Combination Therapy with Other Cystic Fibrosis
+Transmembrane Conductance Regulator Modulator(s). This
+condition not recommended for approval was modified to refer to the
+class of cystic fibrosis transmembrane conductance regulator
+modulator(s). Previously individual agents were listed. A Note was
+added to list examples of the cystic fibrosis transmembrane
+conductance regulators.
+Annual No criteria changes. 07/09/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025
+The Cigna Group.
+Page 5 of 5 - Cigna National Formulary Coverage - Policy: Cystic Fibrosis Transmembrane Conductance Regulator
+– Orkambi Prior Authorization Policy

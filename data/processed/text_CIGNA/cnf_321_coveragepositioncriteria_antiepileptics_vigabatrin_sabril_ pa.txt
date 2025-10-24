@@ -1,0 +1,190 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Antiseizure Medications – Vigabatrin Prior Authorization Policy
+• Sabril® (vigabatrin tablets and powder for solution – Lundbeck,
+generic)
+• Vigpoder™ (vigabatrin powder for oral solution – Pyros [branded
+generic to Sabril powder for solution])
+• Vigadrone® (vigabatrin tablets and oral solution – Upsher-Smith
+[branded generic to Sabril])
+• Vigafyde™ (vigabatrin oral solution – Pyros)
+REVIEW DATE: 04/23/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Vigabatrin (Sabril, generic) is indicated for the following uses:1-3
+• Infantile spasms, as monotherapy, in patients 1 month to 2 years of age for
+whom the potential benefits outweigh the potential risk of vision loss.
+• Refractory complex partial seizures, as adjunctive therapy, in patients ≥
+2 years of age who have inadequately responded to several alternative
+treatments and for whom the potential benefits outweigh the risk of vision loss.
+Vigabatrin is not indicated as a first-line agent for complex partial seizures.
+Page 1 of 5 - Cigna National Formulary Coverage - Policy: Antiseizure Medications – Vigabatrin Prior
+Authorization Policy
+Vigafyde is indicated as monotherapy for the treatment of infantile spasms in
+pediatric patients 1 month to 2 years of age for whom the potential benefits outweigh
+the potential risk of vision loss.4
+According to the vigabatrin prescribing information, use the lowest dosage and
+shortest exposure to vigabatrin consistent with clinical objectives.1-4 In patients with
+infantile spasms, vigabatrin should be withdrawn if a substantial clinical benefit is not
+observed within 2 to 4 weeks. In patients with refractory complex partial seizures,
+vigabatrin should be withdrawn if a substantial clinical benefit is not observed within
+3 months of initiating treatment.1-3
+Safety
+Vigabatrin has a Boxed Warning with regard to permanent vision loss.1-4 In some
+cases, vigabatrin can also damage the central retina and may decrease visual acuity.
+The onset of vision loss from vigabatrin is unpredictable, and can occur within weeks
+of starting treatment or sooner, or at any time after starting treatment, even after
+months or years. The risk of vision loss increases with increasing dose and cumulative
+exposure, but there is no dose or exposure known to be free of risk of vision loss.
+Vision assessment is recommended at baseline (no later than 4 weeks after starting
+vigabatrin), at least every 3 months during therapy, and about 3 to 6 months after
+the discontinuation of therapy. Once detected, vision loss due to vigabatrin is not
+reversible. Because of the risk of vision loss, vigabatrin should be withdrawn from
+patients with refractory complex partial seizures who fail to show substantial clinical
+benefit within 3 months of initiation and within 2 to 4 weeks of initiation for patients
+with infantile spasms, or sooner if treatment failure becomes obvious. Because of the
+risk of permanent vision loss, vigabatrin is available only through a restricted access
+program under a Risk Evaluation and Mitigation Strategy (REMS) called the Vigabatrin
+REMS Program.
+Guidelines/Recommendations
+In 2012, the American Academy of Neurology (AAN) and the Child Neurology Society
+updated the evidence-based guideline for the medical treatment of infantile spasms
+(retired April 15, 2024).5 The guidelines note that low-dose adrenocorticotropic
+hormone (ACTH) is a first-line agent for the short-term treatment of infantile spasms.
+ACTH or vigabatrin may be useful for short-term treatment of infantile spasms, with
+ACTH considered preferentially over vigabatrin. Hormonal therapy (ACTH or
+prednisolone) may be considered for use in preference to vigabatrin in infants with
+cryptogenic infantile spasms, to possibly improve developmental outcome. A shorter
+lag time to treatment of infantile spasms with either hormonal therapy or vigabatrin
+possibly improves long-term developmental outcomes. The Infantile Spasms Working
+Group (ISWG) published a US consensus report on infantile spasms in 2010.6 Data
+regarding ACTH use and vigabatrin use in infantile spasms were detailed. ACTH is an
+effective first-line therapy for infantile spasms. Vigabatrin is considered a drug of first
+choice for infantile spasms with concomitant tuberous sclerosis complex, and it is the
+drug of second or third choice for children with other symptomatic or cryptogenic
+infantile spasms.
+Page 2 of 5 - Cigna National Formulary Coverage - Policy: Antiseizure Medications – Vigabatrin Prior
+Authorization Policy
+The AAN and the American Epilepsy Society published a guideline update for
+treatment-resistant epilepsy (2018) that notes clobazam is probably effective as add-
+on therapy for Lennox-Gastaut syndrome and is possibly effective as add-on therapy
+for treatment-resistant adult focal epilepsy.7 Vigabatrin is effective as add-on therapy
+in treatment-resistant adult focal epilepsy based on two Class I studies, but it should
+not be used as a first-line treatment. The benefits of vigabatrin should be weighed
+against the risks, particularly the risk of irreversible retinopathy.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of vigabatrin.
+All approvals are provided for the duration noted below. In cases where the approval
+is authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with vigabatrin as well as
+the monitoring required for adverse events and long-term efficacy, initial approval
+requires vigabatrin to be prescribed by or in consultation with a physician who
+specializes in the condition being treated.
+• Sabril® (vigabatrin tablets and powder for solution – Lundbeck,
+generic)
+• Vigpoder™ (vigabatrin powder for oral solution – Pyros [branded
+generic to Sabril powder for solution])
+• Vigadrone® (vigabatrin tablets and oral solution – Upsher-Smith
+[branded generic to Sabril])
+• Vigafyde™ (vigabatrin oral solution – Pyros)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Infantile Spasms. Approve for 6 months if the patient meets ALL of the following
+(A, B, and C):
+A) Patient is ≤ 2 years of age; AND
+B) Vigabatrin is being used as monotherapy; AND
+C) The medication is prescribed by or in consultation with a neurologist.
+2. Treatment-Refractory Complex Partial Seizures. Approve for the duration
+noted below if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 3 months if the patient meets ALL of the following
+(i, ii, and iii):
+i. Patient is ≥ 2 years of age; AND
+ii. Patient has tried and/or is concomitantly receiving at least three other
+antiseizure medications; AND
+Note: Examples of antiseizure medications include valproic acid,
+gabapentin, phenytoin, carbamazepine, oxcarbazepine, lacosamide,
+levetiracetam, zonisamide, Fycompa (perampanel tablet or oral
+Page 3 of 5 - Cigna National Formulary Coverage - Policy: Antiseizure Medications – Vigabatrin Prior
+Authorization Policy
+suspension), lamotrigine, topiramate, rufinamide, tiagabine, felbamate,
+Diacomit (stiripentol capsules or oral suspension), and clobazam.
+iii. The medication is prescribed by or in consultation with a neurologist; OR
+B) Patient is Currently Receiving Vigabatrin. Approve for 1 year if the patient is
+responding to therapy (e.g., reduced seizure severity, frequency, and/or
+duration) as determined by the prescriber.
+CONDITIONS NOT COVERED
+• Sabril® (vigabatrin tablets and powder for solution – Lundbeck,
+generic)
+• Vigpoder™ (vigabatrin powder for oral solution – Pyros [branded
+generic to Sabril powder for solution])
+• Vigadrone® (vigabatrin tablets and oral solution – Upsher-Smith
+[branded generic to Sabril])
+• Vigafyde™ (vigabatrin oral solution – Pyros)
+is(are) considered not medically necessary for ANY other use(s); criteria will
+be updated as new published data are available.
+REFERENCES
+1. Sabril® tablets and powder for oral solution [prescribing information]. Deerfield, IL: Lundbeck;
+October 2021.
+2. Vigpoder™ powder for oral solution [prescribing information]. Parsippany, NJ: Pyros; July 2023.
+3. Vigadrone® powder for oral solution [prescribing information]. Maple Grove, MN: Upsher-Smith;
+January 2024.
+4. Vigafyde™ oral solution [prescribing information]. Parsippany, NJ: Pyrose; June 2024.
+5. Go CY, Mackay MT, Weiss SK, et al. Evidence-based guideline update: medical treatment of infantile
+spasms: Report of the guideline development subcommittee of the American Academy of Neurology
+and the Practice Committee of the Child Neurology Society. Neurology. 2012;78:1974-1980.
+6. Pellock JM, Hrachovy R, Shinnar S, et al. Infantile spasms: a US consensus report. Epilepsia.
+2010;51(10):2175-2189.
+7. Kanner AM, Ashman E, Gloss D, et al. Practice guideline update summary: Efficacy and tolerability
+of the new antiepileptic drugs II: Treatment-resistant epilepsy. Report of the Guideline
+Development, Dissemination, and Implementation Subcommittee of the American Academy of
+Neurology and the American Epilepsy Society. Neurology. 2018;91:82-90.
+HISTORY
+Type of Revision Summary of Changes Review
+Date
+Annual Revision The policy name was changed from Antiepileptics – Vigabatrin 09/20/2023
+Prior Authorization Policy to Antiseizure Medications –
+Vigabatrin Prior Authorization Policy.
+Throughout the criteria, reference to antiepileptic medications
+was changed to antiseizure medications.
+Early Annual Vigpoder: Vigpoder, a branded generic product, rolled into the 04/19/2024
+Revision policy.
+Vigadrone: Vigadrone, a branded generic product, rolled into
+the policy.
+Selected Revision Vigafyde: Vigafyde was added to the policy. 09/18/2024
+Annual Revision No criteria changes. 04/23/2025
+Page 4 of 5 - Cigna National Formulary Coverage - Policy: Antiseizure Medications – Vigabatrin Prior
+Authorization Policy
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 5 of 5 - Cigna National Formulary Coverage - Policy: Antiseizure Medications – Vigabatrin Prior
+Authorization Policy

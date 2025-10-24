@@ -1,0 +1,110 @@
+PREFERRED SPECIALTY MANAGEMENT POLICY
+POLICY: Immunologicals – Asthma Preferred Specialty Management Policy
+• Cinqair® (reslizumab intravenous infusion – Teva)
+• Fasenra® (benralizumab subcutaneous injection – AstraZeneca)
+• Nucala® (mepolizumab subcutaneous injection – GlaxoSmithKline)
+REVIEW DATE: 08/06/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Cinqair, Fasenra, and Nucala are anti-interleukin (IL)-5 monoclonal antibodies
+indicated for add-on maintenance treatment of patients with severe asthma who
+have an eosinophilic phenotype.1-3 Fasenra and Nucala are indicated in patients ≥
+6 years of age, while Cinqair is indicated in patients ≥ 18 years of age. Nucala is
+also indicated for the treatment of adults with eosinophilic granulomatosis with
+polyangiitis (EGPA), adults and adolescents with hypereosinophilic syndrome, adults
+with chronic obstructive pulmonary disease; and adults with chronic rhinosinusitis
+with nasal polyps.3 Fasenra is also indicated for the treatment of adults with
+EGPA.2
+Guidelines
+Page 1 of 3 - Cigna National Formulary Coverage - Policy: Immunologicals – Asthma Preferred Specialty
+Management Policy
+The Global Initiative for Asthma (GINA) Global Strategy for Asthma Management
+(2025) lists Cinqair, Fasenra, and Nucala as options for add-on therapy in patients
+with uncontrolled severe asthma despite maximal inhaled therapy.4 GINA does not
+prefer one immunological agent over another, but does note the differences in their
+approved age indications as well as patient characteristics that may predict a good
+response with each agent.
+POLICY STATEMENT
+This Preferred Specialty Management program has been developed to encourage
+the use of the Preferred Products. For all medications (Preferred and Non-
+Preferred), the patient is required to meet the respective standard Prior
+Authorization Policy criteria. The program also directs the patient to try one
+Preferred Product prior to the approval of a Non-Preferred Product. Requests for
+the Non-Preferred Product will also be reviewed using the exception criteria
+(below). If the patient meets the standard Immunologicals – Cinqair Prior
+Authorization Policy criteria, but has not tried a Preferred Product, a review will be
+offered for a Preferred Product using the respective standard Prior Authorization
+Policy criteria. All approvals are provided for the duration noted in the respective
+Immunologicals Prior Authorization Policy.
+Preferred Products: Fasenra, Nucala
+Non-Preferred Products: Cinqair
+Immunologicals – Asthma Preferred Specialty Management Policy non-
+preferred product(s) is(are) covered as medically necessary when the
+following non-preferred product exception criteria is(are) met. Any other
+exception is considered not medically necessary.
+NON-PREFERRED PRODUCT EXCEPTION CRITERIA
+Non- Exception Criteria
+Preferred
+Product
+Cinqair 1. Approve if the patient meets BOTH of the following (A and B):
+A) Patient meets the standard Immunologicals – Cinqair Prior
+Authorization Policy criteria; AND
+B) Patient meets ONE of the following (i or ii):
+i. Patient has tried ONE of Fasenra or Nucala; OR
+ii. Patient is currently receiving Cinqair.
+2. If the patient has met the standard Immunologicals – Cinqair
+Prior Authorization Policy criteria (1A), but has not met
+exception criteria (1B): offer to review for a Preferred Product.
+REFERENCES
+3 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Asthma Preferred Specialty Management
+Policy
+1. Cinqair® intravenous infusion [prescribing information]. Frazer, PA: Teva; January 2019.
+2. Fasenra® subcutaneous injection [prescribing information]. Wilmington, DE: AstraZeneca;
+September 2024.
+3. Nucala® subcutaneous injection [prescribing information]. Research Triangle Park, NC:
+GlaxoSmithKline; May 2025.
+4. Global Initiative for Asthma. Global strategy for asthma management and prevention. Updated
+2025. Available at: http://www.ginasthma.org. Accessed on July 21, 2025.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Annual No criteria changes. 11/15/2023
+Revision
+Early Annual The title of the policy was changed from “Immunologicals – Anti- 08/07/2024
+Revision Interleukin-5 Agents Preferred Specialty Management Policy” to
+“Immunologicals – Asthma Preferred Specialty Management
+Policy”.
+Annual No criteria changes. 08/06/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company, Connecticut
+General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc., and HMO or
+service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Asthma Preferred Specialty Management
+Policy

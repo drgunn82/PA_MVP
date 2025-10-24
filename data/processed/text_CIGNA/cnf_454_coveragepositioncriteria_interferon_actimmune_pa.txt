@@ -1,0 +1,155 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Interferon – Actimmune Prior Authorization Policy
+• Actimmune® (interferon gamma-1b subcutaneous injection –
+Horizon)
+REVIEW DATE: 05/14/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Actimmune, an interferon gamma, is indicated for the following uses:1
+• Chronic granulomatous disease (CGD), to reduce the frequency and severity of
+serious infections.
+• Severe, malignant osteopetrosis (SMO), to delay time to disease progression.
+In both disorders, the exact mechanism(s) by which Actimmune has a treatment effect has
+not been established. Changes in superoxide levels during Actimmune therapy do not
+predict efficacy and should not be used to assess patient response to therapy.
+Disease Overview
+Chronic Granulomatous Disease (CGD)
+CGD, a primary immune deficiency disease, is caused by defects in the nicotinamide
+adenine dinucleotide phosphate (NAPDH) oxidase (NOX) enzyme.2,3 This enzyme is needed
+by phagocytes (a type of white blood cell) to kill certain types of bacteria and fungi. Patients
+with CGD are at risk of contracting recurrent and sometimes severe bacterial or fungal
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Interferon – Actimmune Prior Authorization Policy
+infections. Patients may need lifelong regimens of antibiotics and antifungals to prevent
+infections and use of Actimmune may also help reduce the number of severe infections.
+Mutations in one of five different genes that encode components of the NADPH (CYBA,
+CYBB, NCF1, NCF2, or NCF4) cause CGD. Some patients with CGD do not have an identified
+mutation in any of these genes and the cause of the condition in these individuals is
+unknown.
+The American Academy of Allergy, Asthma and Immunology and the American College of
+Allergy, Asthma and Immunology have jointly accepted responsibility for establishing the
+practice parameter for the diagnosis and management of primary immunodeficiency.4 The
+practice parameter (2015) recommends patients with CGD be given antibacterial and
+antifungal prophylaxis and Actimmune.
+Severe, Malignant Osteopetrosis (SMO)
+SMO is an inherited disorder characterized by osteoclast defect and deficient phagocyte
+oxidative metabolism.1 There is a reduction in osteoclastic bone reabsorption, which results
+in bone density overgrowth and poor structural integrity (i.e., bones are more brittle and
+susceptible to fracture).5,6 In some cases, this is also accompanied by skeletal
+abnormalities.5 The cause of SMO is unknown in some patients, however, variants in one of
+the following genes have been found to be associated with osteopetrosis: CA2, CLCN7,
+IKBLG, ITGB3, LRP5, OSTM1, PLEKHM1, SNX10, TCIRG1, TNFRSF11A, TNFSF11. The
+Osteopetrosis Working Group developed expert consensus guidelines for the diagnosis and
+management of osteopetrosis (2017).7 The guidelines recommend determination of
+diagnosis by classic radiographic (X-ray) features of osteopetrosis followed by genetic
+testing to differentiate between the different forms of osteopetrosis with unique
+complications. The guidelines suggest the use of Actimmune to be considered experimental
+in non-infantile osteopetrosis with limited clinical experience. Furthermore, the guidelines
+acknowledge the FDA indication for SMO and advise that the indication pertains only to
+severe infantile osteopetrosis.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Actimmune.
+Because of the specialized skills required for evaluation and diagnosis of patients treated
+with Actimmune as well as the monitoring required for adverse events and long-term
+efficacy, approval requires Actimmune to be prescribed by or in consultation with a
+physician who specializes in the condition being treated. All approvals are provided for the
+duration noted below.
+• Actimmune® (interferon gamma-1b subcutaneous injection – Horizon)
+is(are) covered as medically necessary when the following criteria is(are) met for
+FDA-approved indication(s) or other uses with supportive evidence (if applicable):
+FDA-Approved Indications
+1. Chronic Granulomatous Disease. Approve for 1 year if the patient meets BOTH of the
+following (A and B):
+A) Diagnosis has been established by a molecular genetic test identifying a gene-related
+pathogenic variant linked to chronic granulomatous disease; AND
+Note: Examples of gene-related pathogenic variants linked to chronic granulomatous
+disease include biallelic pathogenic variants in CYBA, CYBB, NCF1, NCF2, and NCF4.
+3 Pages - Cigna National Formulary Coverage - Policy:Interferon – Actimmune Prior Authorization Policy
+B) The medication is prescribed by or in consultation with an immunologist, a
+hematologist, or an infectious disease specialist.
+2. Malignant Osteopetrosis, Severe Infantile. Approve for 1 year if the patient meets
+BOTH of the following (A and B):
+A) Diagnosis has been established by ONE of the following (i or ii):
+i. Patient has had radiographic (X-ray) imaging demonstrating skeletal features
+related to osteopetrosis; OR
+ii. Patient has had a molecular genetic test identifying a gene-related pathogenic
+variant linked to severe, infantile malignant osteopetrosis; AND
+Note: Examples of gene-related pathogenic variants linked to osteopetrosis
+include CA2, CLCN7, IKBLG, ITGB3, LRP5, OSTM1, PLEKHM1, SNX10, TCIRG1,
+TNFRSF11A, and TNFSF11.
+B) The medication is prescribed by or in consultation with an endocrinologist.
+CONDITIONS NOT COVERED
+• Actimmune® (interferon gamma-1b subcutaneous injection – Horizon)
+is(are) considered not medically necessary for ANY other use(s).
+REFERENCES
+1. Actimmune® subcutaneous injection [prescribing information]. Lake Forest, IL: Horizon;
+December 2024.
+2. National Institute of Allergy and Infectious Diseases. Chronic granulomatous disease
+(CGD). Available at: https://www.niaid.nih.gov/diseases-conditions/chronic-
+granulomatous-disease-
+cgd#:~:text=Chronic%20granulomatous%20disease%20(CGD)%20is,threatening%20b
+acterial%20and%20fungal%20infections. Last reviewed May 20, 2022. Accessed on May
+7, 2025.
+3. Genetics Home Reference. National Institutes of Health, U.S. National Library of
+Medicine. Available at https://ghr.nlm.nih.gov/. Accessed on May 7, 2025. Search
+terms: chronic granulomatous disease.
+4. Bonilla F, Khan D, Ballas Z, et al. Practice parameter for the diagnosis and management
+of primary immunodeficiency. The J Allergy Clin Immunol. 2015;136(5):1186-1205.e78.
+5. Charoenngam N, Nasr A, Shirvani A, Holick MF. Hereditary metabolic bone diseases: a
+review of pathogenesis, diagnosis and management. Genes. 2022;13:1880.
+6. Genetics Home Reference. National Institutes of Health, U.S. National Library of
+Medicine. Available at https://ghr.nlm.nih.gov/. Accessed on May 7, 2025. Search
+terms: osteopetrosis.
+7. Wu C, Econs M, DiMeglio L, et al. Diagnosis and management of osteopetrosis:
+consensus guidelines from the osteopetrosis working group. J Clin Endocrinol Metab.
+2017;102:3111-3123.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Malignant Osteopetrosis, Severe Infantile: Added Note for 04/05/2023
+Revision examples of genes linked to osteopetrosis.
+Annual No criteria changes. 05/29/2024
+Revision
+3 Pages - Cigna National Formulary Coverage - Policy:Interferon – Actimmune Prior Authorization Policy
+Selected Chronic Granulomatous Disease: The word “mutation(s)” was 07/17/2024
+Revision changed to “pathogenic variant.”
+Malignant Osteopetrosis, Severe Infantile: In the criteria, the
+word “mutation” was changed to “pathogenic variant.” Also, in
+the note, the word “genes” was clarified to state “gene-related
+pathogenic variants.”
+Selected Chronic Granulomatous Disease: Regarding the specialist 09/18/2024
+Revision requirement, a hematologist or an infectious disease specialist
+were added; previously only an immunologist was listed.
+Annual No criteria changes. 05/14/2025
+revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025
+The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Interferon – Actimmune Prior Authorization Policy

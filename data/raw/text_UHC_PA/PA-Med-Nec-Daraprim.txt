@@ -1,0 +1,103 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2071-10
+Program Prior Authorization/Medical Necessity
+Medication Daraprim® (pyrimethamine)
+P&T Approval Date 10/2015, 10/2016, 3/2018, 5/2019, 5/2020, 5/2021, 5/2022, 5/2023,
+5/2024, 5/2025
+Effective Date 8/1/2025
+1. Background:
+Daraprim® (pyrimethamine) is indicated for the treatment of toxoplasmosis when used conjointly
+with a sulfonamide, since synergism exists with this combination.
+The use of pyrimethamine for the treatment or prophylaxis of malaria is no longer recommended
+in the CDC Guidelines for the Treatment of Malaria in the United States. For the treatment of
+malaria, contact the CDC Malaria Hotline: (770) 488-7788 or (855) 856-4713 toll-free Monday-
+Friday 9 am to 5 pm EST - (770) 488-7100 after hours, weekends and federal holidays.
+Limitations of Use:
+Outpatient medication access to Daraprim is available exclusively through the Daraprim Direct
+program in partnership with Optime Care, Inc.
+Members will be required to meet the coverage criteria below.
+2. Coverage Criteriaa:
+A. Daraprim (pyrimethamine) will be approved based on submission of medical records (e.g.,
+chart notes) documenting one of the following criteria:
+1. Treatment of severe acquired toxoplasmosis, including toxoplasmic encephalitis
+-OR-
+2. Treatment of congenital toxoplasmosis
+-OR-
+3. Secondary prophylaxis of toxoplasmic encephalitis
+-OR-
+4. All of the following:
+a. Primary Pneumocystis pneumonia (PCP) prophylaxis in HIV-infected patients or as
+secondary prophylaxis in HIV-infected patients who have been treated for an acute
+episode of Pneumocystis pneumonia
+b. Patient has experienced intolerance to prior prophylaxis with trimethoprim-
+© 2025 UnitedHealthcare Services, Inc.
+1
+sulfamethoxazole (TMP-SMX)
+c. One of the following:
+(1) Patient has been re-challenged with trimethoprim-sulfamethoxazole (TMP-SMX)
+using a desensitization protocol and is still unable to tolerate
+(2) Evidence of moderately severe or life threatening-reaction to trimethoprim-
+sulfamethoxazole (TMP-SMX) in the past (e.g., toxic epidermal necrolysis (TEN),
+Stevens-Johnson syndrome)
+-OR-
+5. All of the following:
+a. Primary prophylaxis of toxoplasmic encephalitis
+b. Toxoplasma IgG positive
+c. CD4 count ≤ 100 cells/mm3 if initiating prophylaxis or CD4 count < 100-200 cells/mm3
+if reinstituting prophylaxis
+d. Will be used in combination with dapsone or atovaquone
+e. Patient has experienced intolerance to prior prophylaxis with trimethoprim-
+sulfamethoxazole (TMP-SMX)
+f. One of the following:
+(1) Patient has been re-challenged with trimethoprim-sulfamethoxazole (TMP-SMX)
+using a desensitization protocol and is still unable to tolerate
+(2) Evidence of moderately severe or life threatening-reaction to trimethoprim-
+sulfamethoxazole (TMP-SMX) in the past (e.g., toxic epidermal necrolysis (TEN),
+Stevens-Johnson syndrome)
+Authorization will be issued for 12 months*
+* Consider discontinuation of primary prophylaxis if CD4 count > 200 cells/mm3 for > 3
+months after institution of combination antiretroviral therapy.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+© 2025 UnitedHealthcare Services, Inc.
+2
+4. References:
+1. Daraprim [Package Insert]. Jersey City, NJ: Tilde Sciences LLC; October 2023.
+2. Centers for Disease Control and Prevention. Treatment of Malaria (Guidelines For Clinicians).
+Accessed April 10, 2025: Clinical Guidance: Malaria Diagnosis & Treatment in the U.S.
+3. Centers for Disease Control and Prevention. CDC Yellow Book: Health Information for
+International Travel 2024. New York: Oxford University Press; 2024. Accessed April 10, 2025:
+https://wwwnc.cdc.gov/travel/yellowbook/2024/infections-diseases/malaria
+4. Daraprim Accessing Daraprim. Accessed April 10, 2025:
+https://www.daraprimdirect.com/home/hcp#PO
+5. Department of Health and Human Services. Guidelines for the Prevention and Treatment of
+Opportunistic Infections in HIV-Infected Adults and Adolescents. Accessed April 10, 2025:
+Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and
+Adolescents With HIV
+6. Department of Health and Human Services. Guidelines for the Prevention and Treatment of
+Opportunistic Infections in HIV-Exposed and HIV-Infected Children. Accessed April 10, 2025:
+Toxoplasmosis | Pediatric Opportunistic Infection | ClinicalInfo (hiv.gov)
+Program Prior Authorization/Medical Necessity – Daraprim® (pyrimethamine)
+Change Control
+10/2015 New Program
+10/2016 Annual review. Updates to references.
+3/2018 Annual review. Updates to references, added criteria for PCP prophylaxis
+and clarified existing criteria.
+5/2019 Annual review. Updated background information without change to
+coverage criteria. Updated references.
+5/2020 Annual review without change to coverage criteria. Updated references.
+5/2021 Annual review without change to coverage criteria. Updated references.
+5/2022 Annual review without change to coverage criteria. Updated references.
+5/2023 Annual review without change to clinical coverage criteria. Clarified
+documentation requirement. Updated references.
+5/2024 Annual review without change to coverage criteria. Updated references.
+5/2025 Annual review without change to coverage criteria. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+3

@@ -1,0 +1,362 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2149-10
+Program Prior Authorization/Medical Necessity Supported By Fertility Solutions
+Medication Follistim® AQ (follitropin beta), Gonal-f™ (follitropin alfa), Gonal-f™ RFF
+(follitropin alfa) *, Menopur® (menotropins)*ǂ
+P&T Approval Date 7/2018, 11/2018, 5/2019, 8/2019, 8/2020, 9/2021, 10/2022, 10/2023,
+5/2024, 6/2025
+Effective Date 9/1/2025
+1. Background:
+The body produces two types of gonadotropins, follicle-stimulating hormone (FSH) and luteinizing
+hormone (LH), both of which play a role in fertility and human reproduction. After they are produced
+by the pituitary gland, gonadotropins trigger production of other sex hormones which then promote
+production of egg and sperm. Gonadotropins are used in the treatment of infertility, a disease of the
+reproductive system defined as one of the following:
+• inability to achieve a successful pregnancy due to an individual’s medical, sexual, or reproductive
+history;
+• failure to achieve a pregnancy after 12 months or more of regular unprotected sexual intercourse
+when the female partner is less than 35 years;
+• failure to achieve a pregnancy after 6 months or more of regular unprotected sexual intercourse
+when the female partner is 35 years or older
+Gonal-f and Gonal-f RFF (follitropin alfa) are indicated for the induction of ovulation and pregnancy
+in oligo-anovulatory infertile women in whom the cause of infertility is functional and not due to
+primary ovarian failure. Gonal-f and Gonal-f RFF are also indicated for the development of multiple
+follicles in ovulatory women participating in an Assisted Reproductive Technology (ART) program.
+Gonal-f is indicated for the induction of spermatogenesis in men with primary and secondary
+hypogonadotropic hypogonadism for whom the cause of infertility is not due to primary testicular
+failure.
+Follistim AQ (follitropin beta) is indicated for induction of ovulation and pregnancy in anovulatory
+infertile women in whom the cause of infertility is functional and not due to primary ovarian failure.
+It is also indicated for pregnancy in normal ovulatory women undergoing ovarian stimulation as part
+of an in vitro fertilization (IVF) or intracytoplasmic sperm injection (ICSI) cycle. In males, Follistim
+AQ is indicated for induction of spermatogenesis in men with primary and secondary
+hypogonadotropic hypogonadism (HH) in whom the cause of infertility is not due to primary
+testicular failure.
+Menopur (menotropins) is indicated for the development of multiple follicles and pregnancy in
+women participating in an assisted reproductive technology (ART) program. Human menopausal
+gonadotropins (hMG) is used for the treatment of ovulation induction in women with ovulatory
+dysfunction including polycystic ovary syndrome (PCOS) who failed on clomiphene as well for
+ovulation induction in the setting of hypogonadotropic hypogonadism.
+hMG is also used for induction of spermatogenesis in men with primary and secondary
+hypogonadotropic hypogonadism in whom the cause of infertility is not due to primary testicular
+failure.
+© 2025 UnitedHealthcare Services, Inc.
+1
+The clinically appropriate dosing for hMG agents when used in an ART cycle without an FSH
+product is 450 IU/day or less for not more than 14 days of treatment. When used as part of a mixed
+stimulation protocol (hMG + FSH) or when used alone for ovulation induction or ovarian stimulation,
+the clinically appropriate maximum dosing for hMG agents is 225 IU/day and 150 IU/day,
+respectively. Exceeding this daily dose and duration of treatment has not been proven to be
+efficacious in terms of pregnancy outcome. The clinically appropriate dosing for gonadotropin (FSH
+or hMG alone or in combination) agents is 450 IU/day or less when used for an ART cycle, or 225
+IU/day and 150 IU/day or less when used for ovulation induction or ovarian stimulation, respectively,
+for not more than 14 days of treatment. Exceeding this daily dose and duration of treatment has not
+been proven to be efficacious in terms of pregnancy outcome.
+This is an optional program that is put in place for clients or businesses that have elected to provide
+coverage for gonadotropins, managed through the Optum Fertility Solutions program.
+2. Coverage Criteriaa:
+A. Coverage Criteria for Ovarian Stimulation, Ovulation Induction, and Assisted
+Reproductive Technology
+1. Follistim AQ, Gonal-f, Gonal-f RFF, or Menopur will be approved based on all of the
+following criteria:
+a. Prognosis for conception must be ≥ 5%
+-AND-
+b. Adequate ovarian reserve as indicated, but not limited to, at least two of the following
+markers within the previous 6 months:
+(1) FSH level < 15 mIU/ml;
+(2) AMH level > 0.2 ng/ml;
+(3) Antral follicle count > 3;
+(4) The risk for aneuploidy for all embryos is ≤ 85%
+-AND-
+c. Evidence of adequate ovarian response to stimulation if there has been previously
+monitored, medicated-stimulated infertility treatment within the previous 6 months.
+Examples of adequate ovarian response are:
+(1) One follicle ≥ 15 mm diameter for IUI
+(2) Minimum of 1 follicle ≥ 15 mm diameter for ART
+-AND-
+d. If the request is for Gonal-f/Gonal-f RFF, the following criterion:
+(1) History of failure, contraindication, or intolerance to Follistim AQ
+© 2025 UnitedHealthcare Services, Inc.
+2
+-AND-
+e. Follistim AQ, Gonal-f, Gonal-f RFF, or Menopur will be utilized for one of the
+following indications (See additional coverage criteria for each indication):
+(1) Ovulation Induction (see Section B)
+(2) Ovarian Stimulation (see Section C)
+(3) Assisted Reproductive Technology (see Section D)
+B. Ovulation Induction
+1. Follistim AQ, Gonal-f, or Gonal-f RFF, or Menopur will be approved based on all of
+the following criteria*ǂ:
+a. Patient meets the coverage criteria in section A
+-AND-
+b. One of the following:
+(1) Failure to ovulate with either Clomid (clomiphene citrate) or Femara (letrozole)
+(2) Patient diagnosed with hypothalamic amenorrhea
+-AND-
+c. One of the following exists:
+(1) Anovulation
+(2) Oligo-ovulation
+(3) Both of the following:
+i. Amenorrhea
+ii. Other specific causative factors (e.g., thyroid disease, hyperprolactinemia)
+have been excluded or treated
+-AND-
+d. Both of the following:
+(1) Dose does not exceed 225 IU/day
+(2) One of the following:
+i. Duration of therapy does not exceed 14 days per cycle
+ii. Patient diagnosed with hypothalamic amenorrhea
+-AND-
+e. The use of Follistim AQ, Gonal-f, Gonal-f RFF, or Menopur applies to NONE of the
+following situations:
+© 2025 UnitedHealthcare Services, Inc.
+3
+(1) Use of gonadotropins beyond the 6th gonadotropin induced ovulatory cycle.
+(2) When there are ≥ 4 follicles which are ≥15 mm in diameter from a previously
+gonadotropin-induced ovulation, despite a dosage adjustment (e.g., doses of
+gonadotropin down to 37.5 IU per day).
+(3) When used alone for individuals with unexplained infertility.
+(4) When there is a failure to respond to ovulation induction (e.g., doses of
+gonadotropins up to 225 IU per day and no follicles ≥ 15 mm in diameter).
+(5) In lieu of clomiphene or letrozole to correct a thin endometrial lining.
+(6) An estradiol level <100 pg/ml/follicle ≥15 mm in diameter.
+(7) Doses that exceed 225 IU/day for ovulation induction.
+(8) Duration of therapy that exceeds 14 days per cycle. Note that a longer than 14 day
+stimulation may be considered in the setting of hypothalamic amenorrhea.
+Authorization will be issued for 3 months.§
+C. Ovarian Stimulation
+1. Follistim AQ, Gonal-f, or Gonal-f RFF, or Menopur will be approved based on all of
+the following criteria*ǂ:
+a. Patient meets the coverage criteria in section A.
+-AND-
+b. One of the following:
+(1) All of the following:
+(a) Used alone or in conjunction with intrauterine insemination (IUI)
+-AND-
+(b) One of the following:
+i. Treatment in individuals with diminished ovarian reserve that have not
+responded to clomiphene or letrozole
+ii. In the setting of unilateral tubal disease in conjunction with IUI when there
+is no evidence of tubal compromise on the patent side when at least 2
+cycles of oral agents (clomiphene or letrozole) have failed to yield a
+dominant follicle on the side with a patent fallopian tube
+-AND-
+(c) Dose does not exceed 150 IU/day, for no more than 14 days per cycle.
+-AND-
+(d) The use of Follistim AQ, Gonal-f, Gonal-f RFF, or Menopur applies to
+NONE of the following situations:
+© 2025 UnitedHealthcare Services, Inc.
+4
+i. Treatment in individuals with unexplained infertility, endometriosis,
+bilateral tubal factor infertility, unilateral isthmic, ampullary, fimbrial or
+peri tubal compromise (e.g., loculated spill, dilatation, phimosis,
+occlusion), recurrent pregnancy loss, isolated male factor infertility
+ii. When there is a failure to respond to ovarian stimulation, (e.g., doses of
+gonadotropins up to 150 IU per day and no follicles ≥ 15 mm in diameter)
+iii. An estradiol level <100 pg/ml/follicle ≥15 mm in diameter
+iv. When there are ≥ 4 follicles which are ≥15 mm in diameter from a
+previously gonadotropin-induced ovulation, despite a dosage adjustment.
+v. Following ART cycles that fail to result in conception due to poor ovarian
+response or poor-quality oocytes or embryos.
+vi. Doses that exceed 150 IU/day for ovulation stimulation
+vii. Duration of therapy that exceeds 14 days per cycle.
+viii. Beyond 3 cycles
+-OR-
+(2) All of the following:
+(a) Used for fertility preservation
+-AND-
+(b) The individual will undergo gonadotoxic therapy (e.g., exposure to cytotoxic
+agents, invasive surgery, prolonged hormonal ovarian suppression, radiation
+therapy)
+-AND-
+(c) Will be used as part of an assisted reproductive technology (e.g., in vitro
+fertilization) procedure
+Authorization will be issued for 3 months.§
+D. Assisted Reproductive Technology
+1. Follistim AQ, Gonal-f, or Gonal-f RFF, or Menopur will be approved based on all of
+the following criteria*ǂ:
+a. Patient meets the coverage criteria in section A.
+-AND-
+b. If used for the preparation of the endometrial lining, then there has been a failure to
+achieve a sufficient endometrial thickness (>6 mm) or trilaminar pattern with
+conventional preparation methods (e.g., estrogen and progesterone)**
+** Gonadotropins are not indicated for use in the preparation of the endometrial lining
+unless there has been a failure to achieve a sufficient endometrial thickness (>6 mm) or
+© 2025 UnitedHealthcare Services, Inc.
+5
+trilaminar pattern with conventional preparation methods (e.g., estrogen and progesterone)
+-AND-
+c. For assisted reproductive technologies (ART)b, total gonadotropin dose does not
+exceed 450 IU/day, for no more than 14 days per cycle
+-AND-
+d. The use of Follistim AQ, Gonal-f, Gonal-f RFF, or Menopur applies to NONE of
+the following situations:
+(1) Following ART cycles that fail to result in conception due to poor ovarian response
+or poor-quality oocytes or embryos.
+(2) Doses that exceed 450 IU/day for ART
+(3) Duration of therapy that exceeds 14 days per cycle.
+Authorization will be issued for 3 months.§
+E. Male Hypogonadotropic Hypogonadism
+1. Follistim AQ, Gonal-f, or Menopur will be approved based on all of the following
+criteria*ǂ:
+a. One of the following:
+(1) Diagnosis of male primary hypogonadotropic hypogonadism
+-OR-
+(2) Diagnosis of male secondary hypogonadotropic hypogonadism
+-AND-
+b. For induction of spermatogenesis
+-AND-
+c. Infertility is not due to primary testicular failure
+-AND-
+d. If the request is for Gonal-f, the following criterion:
+(1) History of failure, contraindication, or intolerance to Follistim AQ
+Authorization will be issued for 3 months.§
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+© 2025 UnitedHealthcare Services, Inc.
+6
+programs may apply.
+b ART includes all fertility treatments in which both eggs and embryos are handled, including in vitro
+fertilization.37
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+*Infertility is typically excluded from coverage for UnitedHealthcare. Please refer to member’s
+specific benefits for coverage determination.
+ǂ Optum Fertility Solutions review only: Please refer to the Clinical Policy on Human Menopausal
+Gonadotropin (hMG) Used in the Treatment of Infertility for state-specific requirements that may
+apply.
+§ Optum Fertility Solutions review only: Authorizations will be reviewed according to the Fertility
+Solutions Medical Necessity Clinical Guideline - Infertility.
+4. References:
+1. American Medical Association. Healthcare Common Procedure Coding System. Medicare's
+National Level II Codes HCPCS. AMA Press.
+2. American Society for Reproductive Medicine. Definitions of infertility and recurrent pregnancy
+loss. Fertil Steril 2008;90:S60.
+3. Brassard M. Med Clin North Am. 01-SEP-2008; 92(5): 1163-92, xi.
+4. Conn. Gen. Stat. § 38a-536 and § 38a-509 (1989, 2005).
+5. Gonal-F [package insert]. Rockland, MA: EMD Serono, Inc.; December 2020.
+6. Gonal-F RFF [package insert]. Rockland, MA: EMD Serono, Inc.; February 2020.
+7. Follistim AQ [package insert]. Roseland, NJ: Organon USA Inc.; July 2023.
+8. Menopur [package insert] Parsippany, NJ: Ferring Pharmaceuticals, Inc.; May 2018.
+9. ASRM The Practice Committee of the American Society for Reproductive Medicine: Testing and
+interpreting measures of ovarian reserve. Fertil Steril 2012;98:1407-15.
+10. ASRM. The Ethics Committee of the American Society for Reproductive Medicine. Fertility
+Treatment When the Prognosis is Very Poor or Futile: a Committee Opinion. Fertil Steril
+2012;98:e6–e9.
+11. N.Y. Public Health Law § 2807-v (2002).
+12. Muasher SJ. Use of gonadotrophin-releasing hormone agonists in controlled ovarian
+hyperstimulation for in vitro fertilization. Clin Ther 1992;14(Suppl A):74-86.
+13. Ferraretti A, Marca A, Fauser B et al. ESHRE consensus on the definition of 'poor response' to
+ovarian stimulation for in vitro fertilization: the Bologna criteria. Human Reprod 2011; 26: 1616-
+24.
+14. Andoh K, Mizunuma H, Liu X, et al. A comparative study of fixed-dose, stepdown, and low-dose
+step-up regimens of human menopausal gonadotropin for patients with polycystic ovary
+syndrome. Fertil Steril m1998: 70; 840-846.
+15. Pal L, Jindal S, Witt B, Santoro N: Less is more: increased gonadotropin use for ovarian
+stimulation adversely influences clinical pregnancy and live birth after in vitro fertilization. Fertil
+Steril 2008;89:1694-701.
+© 2025 UnitedHealthcare Services, Inc.
+7
+16. Fauser B, Nargund G, Anderson A et al. Mild ovarian stimulation for IVF: 10 years later. Human
+Reprod 2010; 25: 2678-84.
+17. Baart E, Martini E, Eijkemans M et al. Milder ovarian stimulation for in-vitro fertilization
+reduces aneuploidy in the human preimplantation embryo: a randomized controlled trial. Human
+Reprod 2007; 22: 980-8.
+18. Sunkara S, Rittenberg V, Raine-Fenning N et al. Association between the number of eggs and
+live birth in IVF treatment: an analysis of 400,135 treatment cycles. Human Reprod 2011; 26:
+1768-74.
+19. McClamrock HD, Jones HW Jr., Adashi, EY. Ovarian stimulation and intrauterine insemination
+at the quarter centennial: implications for the multiple births epidemic. Fertil Steril 2012;97:802–
+9.
+20. European Society of Human Reproduction and Embryology (ESHRE) Guideline: Management of
+Women with Endometriosis. September 2013.
+21. Practice Committee of American Society for Reproductive Medicine. Definitions of infertility
+and recurrent pregnancy loss: a committee opinion. Fertil Steril. 2013 Jan;99(1):63.
+22. Lenton E, Soltan A, Hewitt J, Thomson A, Davies W, Ashraf N, Sharma V, Jenner L, Ledger W,
+McVeigh E. Induction of ovulation in women undergoing assisted reproductive techniques:
+recombinant human FSH (follitropin alpha) versus highly purified urinary FSH (urofollitropin
+HP). Hum Reprod. 2000 May;15(5):1021-7.
+23. van Wely M, Kwan I, Burt AL, Thomas J, Vail A, Van der Veen F, Al-Inany HG. Recombinant
+versus urinary gonadotrophin for ovarian stimulation in assisted reproductive technology cycles.
+Cochrane Database Syst Rev. 2011 Feb 16;(2):CD005354.
+24. Bayram N, van Wely M, Van der Veen F. Recombinant FSH versus urinary gonadotrophins or
+recombinant FSH for ovulation induction in subfertility associated with polycystic ovary
+syndrome. Cochrane Database of Syst Rev 2001; (2):CD002121.
+25. Thessaloniki ESHRE/ASRM-Sponsored PCOS Consensus Workshop Group. Consensus on
+infertility treatment related to polycystic ovary syndrome. Fertil Steril. 2008 Mar;89(3):505-22.
+26. Warne DW, Decosterd G, Okada H, Yano Y, Koide N, Howles CM. A combined analysis of data
+to identify predictive factors for spermatogenesis in men with hypogonadotropic hypogonadism
+treated with recombinant human follicle-stimulating hormone and human chorionic gonadotropin.
+Fertil Steril. 2009 Aug;92(2):594-604.
+27. Jungwirth A, Giwercman A, Tournaye H, Diemer T, Kopa Z, Dohle G, Krausz C; European
+Association of Urology Working Group on Male Infertility. European Association of Urology
+guidelines on Male Infertility: the 2012 update. Eur Urol. 2012 Aug;62(2):324-32.
+28. Attia AM, Abou-Setta AM, Al-Inany HG. Gonadotrophins for idiopathic male factor subfertility.
+Cochrane Database Syst Rev. 2013 Aug 23;8:CD005071.
+29. Dietterich C, Wang W, Shucoski K, Check JH. The relationship of endometrial thickness and
+pregnancy in infertile women treated without in vitro fertilization. Fertil Steril. 2004 Apr;81
+Suppl 3:S7-31.
+30. Kolibianakis EM, Fatemi HM, Osmanagaoglu K, et al. Is endometrial thickness, assessed on the
+day of HCG administration, predictive of ongoing pregnancy in patients undergoing intrauterine
+insemination after ovarian stimulation with clomiphene citrate? Fertil Steril 2002;78 Suppl
+1:S151-S152.
+31. Assante A, Coddington CC, Schenck LL, Stewart EA. Thin endometrial stripe does not affect the
+likelihood of achieving pregnancy in clomiphene citrate/intrauterine insemination cycles. Fertil
+Steril 2013 Dec;100(6):1610-4.
+32. Gingold JA, Lee JA, Rodriguez Purata R, et al. Endometrial pattern, but not endometrial
+thickness, affects implantation rates in euploid embryo transfers. Fertil Steril 2015;104:620-8.
+33. Centers for Disease Control and Prevention. (2018). Assisted Reproductive Technology (ART).
+Retrieved from https://www.cdc.gov/art/whatis.html.
+© 2025 UnitedHealthcare Services, Inc.
+8
+34. Practice Committee of the American Society for Reproductive Medicine, American Society for
+Reproductive Medicine. Definition of infertility: a committee opinion (2023). Available at:
+https://www.asrm.org/practiceguidance/practice-committee-documents/denitions-of-infertility/
+35. Gerber R, Fazzari M, Kappy M, et al. Differential impact of controlled ovarian hyperstimulation
+on live birth rate in fresh versus frozen embryo transfer cycles: a Society for Assisted
+Reproductive Technology Clinic Outcome System study. Fertil Steril 2020; 114: 1225-1231.
+36. Youseff M A-F; van Wiley M, Mochtar M, et al: Low dosing of gonadotropins in in vitro
+fertilization cycles for women with poor ovarian reserve: systematic review and meta-analysis.
+Fertil Steril 2018; 109: 289-301.
+Program Prior Authorization/Medical Necessity (For Optum Fertility Solutions)
+- Follistim AQ (follitropin beta), Gonal-f (follitropin alfa), Gonal-f RFF
+(follitropin alfa)
+Change Control
+7/2018 New program
+11/2018 Corrected maximum dosing for ovulation induction to 225 IU/day and
+controlled ovarian stimulation to 150 IU/day. Added definition of
+ART. Moved Follistim AQ criteria in to general requirements sections.
+5/2019 Annual review. Revised coverage rationale for ovulation induction and
+controlled ovarian stimulation. Updated references.
+8/2019 Revised coverage rationale to change step therapy criteria. Require trial
+of Follistim AQ before Gonal F.
+8/2020 Annual review with no changes to coverage criteria.
+9/2021 Annual review. Updated coverage rationale for ovulation induction and
+controlled ovarian stimulation.
+10/2022 Annual review. Added Assisted Reproductive Technology section and
+clarified when gonadotropins are indicated for use in the preparation of
+the endometrial lining. Updated Coverage Criteria for Controlled
+Ovarian Stimulation, Ovulation Induction, and Assisted Reproductive
+Technology with revised FSH and AMH levels as well as antral follicle
+count and risk for aneuploidy to specify indicators for adequate ovarian
+reserve. Clarified situations to which the use of Follistim AQ, Gonal-f,
+Gonal-f RFF, or Menopur applies.
+10/2023 Annual review with no changes to coverage criteria. Updated
+references.
+5/2024 Added coverage criteria for fertility preservation for iatrogenic
+infertility. Updated term "controlled ovarian stimulation” to “ovarian
+stimulation”.
+6/2025 Revised definition of infertility in background to correlate with ASRM.
+Added criteria bypassing step requirement for patients diagnosed with
+hypothalamic amenorrhea. Clarified situations to which the use of
+gonadotropins applies. Removed criterion for initial treatment of
+diminished ovarian reserve. Updated coverage criteria for fertility
+preservation for iatrogenic infertility to include additional examples of
+gonadotoxic therapy such as prolonged hormonal ovarian suppression.
+Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+9

@@ -1,0 +1,294 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2205-8
+Program Prior Authorization/Medical Necessity
+Medication *Skyrizi® (risankizumab-rzaa) injection
+*This program applies to the subcutaneous formulations of Skyrizi
+P&T Approval Date 5/2020, 5/2021, 6/2021, 3/2022, 8/2022, 7/2023, 5/2024, 7/2024
+Effective Date 10/1/2024
+1. Background:
+Skyrizi is an interleukin-23 antagonist indicated for the treatment of moderate to severe plaque
+psoriasis in adults who are candidates for systemic therapy or phototherapy, active psoriatic
+arthritis in adults, moderately to severely active Crohn's disease in adults, and moderately to
+severely active ulcerative colitis in adults.
+2. Coverage Criteriaa:
+A. Plaque Psoriasis
+1. Initial Authorization
+a. Skyrizi will be approved based on all of the following criteria:
+(1) Diagnosis of moderate to severe plaque psoriasis
+-AND-
+(2) One of the following:
+(a) All of the following:
+i. Greater than or equal to 3% body surface area involvement,
+palmoplantar, facial, genital involvement, or severe scalp psoriasis
+-AND-
+ii. History of failure to one of the following topical therapies, unless
+contraindicated or clinically significant adverse effects are experienced
+(document drug, date, and duration of trial):
+a. Corticosteroids (e.g., betamethasone, clobetasol, desonide)
+b. Vitamin D analogs (e.g., calcitriol, calcipotriene)
+c. Tazarotene
+d. Calcineurin inhibitors (e.g., tacrolimus, pimecrolimus)
+e. Anthralin
+f. Coal tar
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+1
+iii. History of failure to a 3 month trial of methotrexate at maximally
+indicated dose, unless contraindicated or clinically significant adverse
+effects are experienced (document date and duration of trial)b
+-OR-
+(b) Patient has been previously treated with a targeted immunomodulator FDA-
+approved for the treatment of plaque psoriasis as documented by claims
+history or submission of medical records (Document drug, date, and
+duration of therapy) [e.g., Cimzia (certolizumab), adalimumab, Stelara
+(ustekinumab), Tremfya (guselkumab)].
+-OR-
+(c) Both of the following:
+i. Patient is currently on Skyrizi therapy as documented by claims history or
+submission of medical records (Document date and duration of therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in
+the prescriber’s office, or any form of assistance from the Abbvie
+sponsored Skyrizi Complete program (e.g., sample card which can be
+redeemed at a pharmacy for a free supply of medication) as a means
+to establish as a current user of Skyrizi*
+-AND-
+(3) Patient is not receiving Skyrizi in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Stelara
+(ustekinumab), Tremfya (guselkumab), Cosentyx (secukinumab), Taltz
+(ixekizumab), Siliq (brodalumab), Ilumya (tildrakizumab), Xeljanz
+(tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib), Otezla
+(apremilast)]
+-AND-
+(4) Prescribed by or in consultation with a dermatologist
+* Patients requesting initial authorization who were established on therapy via the
+receipt of a manufacturer supplied sample at no cost in the prescriber’s office or any
+form of assistance from the Abbvie sponsored Skyrizi Complete program shall be
+required to meet initial authorization criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+2
+2. Reauthorization
+a. Skyrizi will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Skyrizi therapy
+-AND-
+(2) Patient is not receiving Skyrizi in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab), Simponi
+(golimumab), Orencia (abatacept), adalimumab, Stelara (ustekinumab),
+Tremfya (guselkumab), Cosentyx (secukinumab), Taltz (ixekizumab), Siliq
+(brodalumab), Ilumya (tildrakizumab), Xeljanz (tofacitinib), Olumiant
+(baricitinib), Rinvoq (upadacitinib), Otezla (apremilast)]
+Authorization will be issued for 12 months.
+B. Psoriatic Arthritis (PsA)
+1. Initial Authorization
+a. Skyrizi will be approved based on all of the following criteria:
+(1) Diagnosis of active psoriatic arthritis
+-AND-
+(3) One of the following:
+(a) History of failure to a 3 month trial of methotrexate at the maximally
+indicated dose, unless contraindicated or clinically significant adverse effects
+are experienced (document date and duration of trial)b
+-OR-
+(b) Patient has been previously treated with a targeted immunomodulator FDA-
+approved for the treatment of psoriatic arthritis as documented by claims
+history or submission of medical records (Document drug, date, and
+duration of therapy) [e.g., adalimumab, Cimzia (certolizumab), Rinvoq
+(upadacitinib), Simponi (golimumab), Stelara (ustekinumab), Tremfya
+(guselkumab), Xeljanz/Xeljanz XR (tofacitinib), Otezla (apremilast),
+Rinvoq (upadacitinib)]
+-OR-
+(c) Both of the following:
+i. Patient is currently on Skyrizi therapy as documented by claims history
+or submission of medical records (Document date and duration of
+therapy):
+© 2024 UnitedHealthcare Services, Inc.
+3
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from the Abbvie sponsored
+Skyrizi Complete program (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a
+current user of Skyrizi*
+-AND-
+(3) Patient is not receiving Skyrizi in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab), Simponi
+(golimumab), Orencia (abatacept), adalimumab, Stelara (ustekinumab), Tremfya
+(guselkumab), Cosentyx (secukinumab), Taltz (ixekizumab), Xeljanz
+(tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib), Otezla (apremilast)]
+-AND-
+(4) Prescribed by or in consultation with one of the following:
+(a) Rheumatologist
+(b) Dermatologist
+* Patients requesting initial authorization who were established on therapy via the
+receipt of a manufacturer supplied sample at no cost in the prescriber’s office or any
+form of assistance from the Abbvie sponsored Skyrizi Complete program shall be
+required to meet initial authorization criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Skyrizi will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Skyrizi therapy
+-AND-
+(2) Patient is not receiving Skyrizi in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Stelara
+(ustekinumab), Tremfya (guselkumab), Cosentyx (secukinumab), Taltz
+(ixekizumab), Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq
+(upadacitinib), Otezla (apremilast)]
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+4
+C. Crohn’s Disease (CD)
+1. Initial Authorization for Maintenance Dosing
+a. Skyrizi will be approved based on all of the following criteria:
+(1) Diagnosis of moderately to severely active Crohn’s disease
+-AND-
+(2) One of the following:
+(a) Patient has been established on therapy with Skyrizi under an active
+UnitedHealthcare prior authorization for the treatment of moderately to
+severely active Crohn’s disease
+-OR-
+(b) Both of the following:
+i. Patient is currently on Skyrizi therapy for moderately to severely active
+Crohn’s disease as documented by claims history or submission of
+medical records (Document date and duration of therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from the Abbvie sponsored
+Skyrizi Complete program (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a
+current user of Skyrizi*
+-AND-
+(3) Patient is not receiving Skyrizi in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Xeljanz
+(tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib), Stelara
+(ustekinumab)]
+-AND-
+(4) Prescribed by or in consultation with a gastroenterologist
+* Patients requesting initial authorization who were established on therapy via the
+receipt of a manufacturer supplied sample at no cost in the prescriber’s office or any
+form of assistance from the Abbvie sponsored Skyrizi Complete program shall be
+required to meet initial authorization criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+5
+2. Reauthorization
+a. Skyrizi will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Skyrizi therapy
+-AND-
+(2) Patient is not receiving Skyrizi in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Xeljanz
+(tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib), Stelara
+(ustekinumab)]
+Authorization will be issued for 12 months.
+D. Ulcerative Colitis (UC)
+1. Initial Authorization for Maintenance Dosing
+a. Skyrizi will be approved based on all of the following criteria:
+(1) Diagnosis of moderately to severely active ulcerative colitis
+-AND-
+(2) One of the following:
+(a) Patient has been established on therapy with Skyrizi under an active
+UnitedHealthcare medical benefit prior authorization for the treatment
+of moderately to severely active ulcerative colitis
+-OR-
+(b) Both of the following:
+i. Patient is currently on Skyrizi therapy for moderately to severely active
+ulcerative colitis as documented by claims history or submission of
+medical records (Document date and duration of therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from the Abbvie sponsored
+Skyrizi Complete program (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a
+current user of Skyrizi*
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+6
+(3) Patient is not receiving Skyrizi in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), Xeljanz (tofacitinib), Olumiant
+(baricitinib), Rinvoq (upadacitinib), Stelara (ustekinumab), adalimumab]
+-AND-
+(4) Prescribed by or in consultation with a gastroenterologist
+* Patients requesting initial authorization who were established on therapy via the
+receipt of a manufacturer supplied sample at no cost in the prescriber’s office or any
+form of assistance from the Abbvie sponsored Skyrizi Complete program shall be
+required to meet initial authorization criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Skyrizi will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Skyrizi therapy
+-AND-
+(2) Patient is not receiving Skyrizi in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), Xeljanz (tofacitinib), Olumiant
+(baricitinib), Rinvoq (upadacitinib), Stelara (ustekinumab), adalimumab]
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+b For Connecticut, Kentucky, and Mississippi business only a 30-day trial will be required.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Skyrizi [package insert]. North Chicago, IL: AbbVie Inc.; June 2024.
+2. Menter A, Gottlieb A, Feldman SR, et al. Guidelines of care for the management of psoriasis and
+psoriatic arthritis: Section 1. Overview of psoriasis and guidelines of care for the treatment of
+psoriasis with biologics. J Am Acad Dermatol 2008; 58(5):826-50.
+© 2024 UnitedHealthcare Services, Inc.
+7
+3. Gottlieb A, Korman NJ, Gordon KB, et al. Guidelines of care for the management of psoriasis
+and psoriatic arthritis. Psoriatic arthritis: Overview and guidelines of care for treatment with an
+emphasis on the biologics. J Am Acad Dermatol 2008;58(5):851-64.
+4. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and
+psoriatic arthritis. Section 3. Guidelines of care for the management and treatment of psoriasis
+with topical therapies. J Am Acad Dermatol 2009;60(4):643-59.
+5. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and
+psoriatic arthritis. Guidelines of care for the treatment of psoriasis with phototherapy and
+photochemotherapy. J Am Acad Dermatol 2010;62(1):114-35.
+6. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and
+psoriatic arthritis. Guidelines of care for the management and treatment of psoriasis with
+traditional systemic agents. J Am Acad Dermatol 2009;61(3):451-85.
+7. Nast A, et al; European S3-Guidelines on the systemic treatment of psoriasis vulgaris – update
+2015 – short version – EFF in cooperation with EADV and IPC, J Eur Acad Derm Venereol
+2015;29:2277-94.
+8. Menter A, Korman NJ, Elmets CA,Feldman SR, Gelfand JM, Gordon KB, Guidelines of care for
+the management of psoriasis and psoriatic arthritis: section 6. Guidelines of care for the treatment
+of psoriasis and psoriatic arthritis: case-based presentations and evidence-based conclusions. J
+Am Acad Dermatol. 2011 Jul;65(1):137-74.
+9. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management
+and treatment of psoriasis with biologics. J Am Acad Dermatol. 2019;80:1029-72.
+10. Lichtenstein GR, Loftus EV, Isaacs KL, et al ACG clinical guideline: management of Crohn’s
+disease in adults. Am J Gastroenterol. 2018; 113:481-517.
+Program Prior Authorization/Medical Necessity – Skyrizi® (risankizumab-rzaa)
+Change Control
+5/2020 New program
+5/2021 Annual review. Removed preceding month requirement from failure
+criteria. Removed prescriber requirement from reauthorization criteria.
+Removed drug documentation where only one drug is required.
+Reference updated.
+6/2021 Added coverage criteria for patients previously treated with a biologic
+DMARD. Added clarification that submission of medical records is
+required documenting previous or current therapy with a biologic
+DMARD in order to bypass step through non-biologic therapies if claim
+history not available.
+3/2022 Clinical coverage criteria updated to add active psoriatic arthritis.
+Updated reference.
+8/2022 Clinical coverage criteria and background updated to add Crohn’s
+disease. Added state mandate footnote to include Mississippi. Added
+Rinvoq as Janus kinase inhibitor example. Updated reference.
+7/2023 Updated not receiving in combination language to targeted
+immunomodulator and updated examples.
+5/2024 Annual review with no changes to coverage criteria. Updated state
+mandate footnote and references.
+7/2024 Updated clinical coverage criteria and background to add ulcerative
+colitis. Updated active prior authorization verbiage under Crohn’s
+disease with no change to clinical intent. Updated reference.
+© 2024 UnitedHealthcare Services, Inc.
+8

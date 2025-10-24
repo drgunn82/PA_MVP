@@ -1,0 +1,141 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1216-9
+Program Prior Authorization/Notification
+Medication Zejula™ (niraparib)
+P&T Approval Date 5/2017, 5/2018, 5/2019, 3/2020, 6/2020, 6/2021, 6/2022, 6/2023,
+12/2024
+Effective Date 3/1/2025
+1. Background:
+Zejula (niraparib) is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated for the
+maintenance treatment of adult patients with advanced epithelial ovarian, fallopian tube, or
+primary peritoneal cancer who are in a complete or partial response to first-line platinum-based
+chemotherapy. Zejula is also indicated for the maintenance treatment of adult patients with
+recurrent epithelial ovarian,
+fallopian tube, or primary peritoneal cancer with deleterious or suspected deleterious germline
+BRCA-mutated (gBRCAmut) who are in a complete or partial response to platinum-based
+chemotherapy.
+The National Comprehensive Cancer Network (NCCN) recommends Zejula therapy as recurrence
+therapy in epithelial ovarian/fallopian tube/primary peritoneal cancer for persistent disease or
+recurrence in combination with bevacizumab for platinum-sensitive disease, in BRCA2-altered
+uterine leiomyosarcoma (uLMS) as a second-line or subsequent therapy for advanced,
+recurrent/metastatic, or inoperable disease as a single agent, and in castration-resistant distant
+metastatic (M1) prostate cancer.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Zejula will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Ovarian Cancer
+1. Initial Authorization
+© 2024 UnitedHealthcare Services, Inc.
+1
+a. Zejula will be approved based on all of the following criteria:
+(1) Diagnosis of one of the following:
+(a) Epithelial ovarian cancer
+(b) Fallopian tube cancer
+(c) Primary peritoneal cancer
+-AND-
+(2) Disease is stage II-IV
+-AND-
+(3) One of the following:
+(a) Maintenance therapy for those who are in complete or partial response to
+platinum-based chemotherapy
+(b) Recurrence therapy for platinum-sensitive disease in combination with
+bevacizumab
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Zejula will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Zejula therapy
+Authorization will be issued for 12 months.
+C. Prostate Cancer
+1. Initial Authorization
+a. Zejula will be approved based on all of the following criteria:
+(1) Diagnosis of castration-resistant distant metastatic (M1) prostate cancer
+-AND-
+(2) Patient is positive for pathogenic BRCA1 or BRCA2 mutation
+-AND-
+(3) Patient has not had treatment since disease progression to metastatic castration-
+resistant prostate cancer (mCRPC)
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+2
+(4) One of the following:
+(a) Patient has not received prior docetaxel and prior novel hormone therapy
+(b) Patient had progression on prior docetaxel therapy and has not received
+prior novel hormone therapy
+(c) Patient had progression on prior novel hormone therapy and has not
+received prior docetaxel therapy
+-AND-
+(5) Used in combination with Yonsa (fine-particle abiraterone) and
+methylprednisolone
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Zejula will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Zejula therapy
+Authorization will be issued for 12 months.
+D. Uterine Sarcoma
+1. Initial Authorization
+a. Zejula will be approved based on all of the following criteria:
+(1) Diagnosis of BRCA-2 altered uterine leiomyosarcoma (LMS)
+-AND-
+(2) Disease is advanced, recurrent/metastatic, or inoperable
+-AND-
+(3) Used as second-line or subsequent therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Zejula will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Zejula therapy
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+3
+E. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Zejula™ [package insert]. Research Triangle Park, NC: GlaxoSmithKline; May 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+https://www.nccn.org/professionals/drug_compendium/content/. Accessed October 28, 2024.
+Program Prior Authorization/Notification – Zejula (niraparib)
+Change Control
+5/2017 New program for Zejula approved by FDA on 3/27/2017.
+5/2018 Annual review. No changes to criteria.
+5/2019 Annual review. No changes to criteria. Updated references.
+3/2020 Updated criteria for expanded indication. Updated background and
+references.
+6/2020 Updated background and criteria to reflect expanded indication for
+maintenance therapy. Updated references.
+6/2021 Annual review. No changes to criteria. Updated background and
+references.
+6/2022 Annual review. Updated background and criteria to include indication
+for uterine cancer per NCCN guidelines. Updated references.
+6/2023 Annual review. Updated background to reflect the changes in FDA
+indications. Updated clinical guidelines for Ovarian cancer (treatment
+and maintenance). Added state mandate footnote. Updated references.
+12/2024 Annual review. Updated criteria for Ovarian cancer per NCCN
+guidelines and consolidated sections for maintenance therapy and
+treatment. Added new criteria for prostate cancer per NCCN guidelines.
+Updated Uterine Sarcoma section per NCCN guidelines. Updated
+© 2024 UnitedHealthcare Services, Inc.
+4
+background and references.
+© 2024 UnitedHealthcare Services, Inc.
+5

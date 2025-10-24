@@ -1,0 +1,132 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Cinacalcet Prior Authorization Policy
+• Sensipar® (cinacalcet tablets – Amgen, generic)
+REVIEW DATE: 03/12/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Cinacalcet, a calcium-sensing receptor agonist (calcimimetic), is indicated for the
+following uses:1
+• Hypercalcemia due to parathyroid carcinoma in adults.
+• Hypercalcemia with primary hyperparathyroidism in adults for whom
+parathyroidectomy would be indicated on the basis of serum calcium levels,
+but who are unable to undergo parathyroidectomy.
+• Secondary hyperparathyroidism with chronic kidney disease (CKD) in
+adults on dialysis.
+Limitation of use: Cinacalcet is not indicated for use in patients with CKD who
+are not on dialysis due to increased risk of hypocalcemia.
+Disease Overview
+Secondary hyperparathyroidism is a frequent complication of CKD caused by a
+reduction in circulating calcitriol levels and disturbances in calcium and phosphorous
+metabolism.2 This leads to increases in the parathyroid hormone (PTH) levels, which
+then leads to osteoclastic activity resulting in bone resorption and marrow fibrosis.
+Parathyroid carcinoma, a rare malignant cancer, is an uncommon cause of primary
+hyperparathyroidism.3 The condition is associated with higher serum calcium and
+Page 1 of 4 - Cigna National Formulary Coverage - Policy: Cinacalcet Prior Authorization Policy
+PTH levels than primary hyperparathyroidism due to benign adenoma. The primary
+cause of morbidity in patients with parathyroid carcinoma is due to complications of
+hypercalcemia (e.g., cardiac arrhythmias, renal failure). Surgical resection of the
+malignancy may relieve symptoms and reduce serum calcium levels. Medical therapy
+with cinacalcet and intravenous bisphosphonates are useful adjunct therapies to
+control hypercalcemia.
+Guidelines
+The Kidney Disease: Improving Global Outcomes (KDIGO) clinical practice guidelines
+(2009; updated 2017) for the treatment of CKD-mineral bone disorder (CKD-MBD)
+consider calcimimetics (cinacalcet), calcitriol, or vitamin D analogs (or a combination
+of these agents) as reasonable first-line options for patients with CKD stage 5D who
+require PTH-lowering therapy.4,5 If intact parathyroid hormone (iPTH) levels fall
+below two times the upper limit of normal for the assay, these products should be
+reduced or discontinued.
+Other Uses with Supportive Evidence
+The KDIGO clinical practice guidelines (2017) for the treatment of CKD-MBD note
+that although cinacalcet is not approved for the treatment of hyperparathyroidism in
+kidney transplant recipients, it is used in these patients, especially those with
+significant hypercalcemia.4,5
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of cinacalcet. All
+approvals are provided for the duration noted below. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with cinacalcet as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+cinacalcet to be prescribed by or in consultation with a physician who specializes in
+the condition being treated.
+• Sensipar® (cinacalcet tablets – Amgen, generic)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Hypercalcemia due to Parathyroid Carcinoma. Approve for 1 year if
+cinacalcet is prescribed by or in consultation with an oncologist or endocrinologist.
+2. Hypercalcemia in a Patient with Primary Hyperparathyroidism. Approve for
+1 year if the patient meets BOTH of the following (A and B):
+A) Patient has failed or is unable to undergo a parathyroidectomy due to a
+contraindication; AND
+B) The medication is prescribed by or in consultation with a nephrologist or
+endocrinologist.
+4 Pages - Cigna National Formulary Coverage - Policy: Cinacalcet Prior Authorization Policy
+3. Secondary Hyperparathyroidism. Approve for 1 year if the patient meets ALL
+of the following (A, B, C, and D):
+A) Patient has chronic kidney disease; AND
+B) Patient is on dialysis; AND
+C) The baseline (prior to starting cinacalcet therapy) intact parathyroid hormone
+(iPTH) level is at least two times the upper limit of normal as defined by the
+laboratory reference value measured on two separate occasions; AND
+D) The medication is prescribed by or in consultation with a nephrologist or
+endocrinologist.
+Other Uses with Supportive Evidence
+4. Hyperparathyroidism in a Post-Renal Transplant Patient. Approve for 1 year
+if the patient meets BOTH of the following (A and B):
+A) The baseline (prior to starting cinacalcet therapy) calcium and intact
+parathyroid hormone (iPTH) levels are above the normal range, as defined by
+the laboratory reference values; AND
+B) The medication is prescribed by or in consultation with a transplant physician,
+nephrologist, or endocrinologist.
+CONDITIONS NOT COVERED
+• Sensipar® (cinacalcet tablets – Amgen, generic)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria will
+be updated as new published data are available):
+1. Patient with Primary Hyperparathyroidism Eligible for
+Parathyroidectomy. Parathyroidectomy is the primary treatment for primary
+hyperparathyroidism.
+REFERENCES
+1. Sensipar tablets [prescribing information]. Thousand Oaks, CA: Amgen; December 2019.
+2. Crockell YJ. Management of chronic kidney disease: An emphasis on delaying disease progression
+and treatment options. Formulary. 2012;47:228-236.
+3. Sharretts JM, Kebebew E, Simonds WF. Parathyroid Cancer. Semin Oncol. 2010;37:580-590.
+4. Kidney Disease: Improving Global Outcomes (KDIGO) CKD – MBD Work Group, KDIGO clinical
+practice guideline for the diagnosis, evaluation, prevention, and treatment of chronic kidney disease-
+mineral and bone disorder (CKD-MBD). Kidney Int Suppl. 2009;76(Suppl 113):S1-S130.
+5. Kidney Disease: Improving Global Outcomes (KDIGO) CKD – MBD Update Work Group. KDIGO
+2017 clinical practice guideline update for the diagnosis, evaluation, prevention, and treatment of
+chronic kidney disease-mineral and bone disorder (CKD-MBD). Kidney Int Suppl. 2017;7:1-59.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Revision No criteria changes. 03/01/2023
+4 Pages - Cigna National Formulary Coverage - Policy: Cinacalcet Prior Authorization Policy
+Annual Revision No criteria changes. 03/27/2024
+Annual Revision No criteria changes. 03/12/2025
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2025 The Cigna
+Group.
+4 Pages - Cigna National Formulary Coverage - Policy: Cinacalcet Prior Authorization Policy

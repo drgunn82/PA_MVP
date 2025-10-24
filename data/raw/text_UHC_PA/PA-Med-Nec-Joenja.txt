@@ -1,0 +1,89 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2305-3
+Program Prior Authorization/Medical Necessity
+Medication Joenja® (leniolisib)
+P&T Approval Date 5/2023, 5/2024, 5/2025
+Effective Date 8/1/2025
+1. Background:
+Joenja (leniolisib) is a kinase inhibitor indicated for the treatment activated phosphoinositide
+3-kinase delta (PI3Kẟ) syndrome (APDS) in adult and pediatric patients 12 years of age and
+older.1
+APDS is a rare primary immunodeficiency caused by variations in the genes encoding subunits of
+the PI3Kẟ enzyme complex and PI3Kẟ hyperactivity. PI3Kẟ hyperactivity results in altered
+development of B and T-cell which can lead to severe lymphoproliferation, recurrent infections,
+autoimmune disorders, and malignancies. APDS can be characterized by a variety of symptoms,
+including recurrent respiratory tract infections (e.g., pneumonia, otitis media, rhinosinusitis),
+recurrent herpesvirus infections (e.g., Epstein Barr virus, cytomegalovirus, herpes simplex virus),
+lymphoproliferation (e.g., lymphadenopathy, hepatosplenomegaly), autoimmune cytopenia and
+glomerulonephritis, and neurodevelopmental delay. A definitive diagnosis can be made through
+genetic testing. Current standard of care includes antimicrobial prophylaxis (e.g.,
+trimethoprim/sulfamethoxazole, azithromycin), immunoglobulin replacement therapy (IRT),
+immunosuppressive therapy (e.g., glucocorticoids, rituximab), and hematopoietic stem cell
+transplant (HSCT).4
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Joenja will be approved based upon all of the following criteria:
+a. Diagnosis of activated phosphoinositide 3-kinase delta syndrome (APDS)
+-AND-
+b. Diagnosis has been confirmed by the presence of an APDS-associated genetic variant in
+either PIK3CD or PIK3R1.
+-AND-
+c. Documentation of other clinical findings and manifestations consistent with APDS (e.g.,
+recurrent respiratory tract infections, recurrent herpesvirus infections, lymphadenopathy,
+hepatosplenomegaly, autoimmune cytopenias)
+-AND-
+d. Patient has a history of trial and failure, intolerance or contraindication to current
+© 2025 UnitedHealthcare Services, Inc.
+1
+standard of care for APDS (e.g., antimicrobial prophylaxis, immunoglobulin replacement
+therapy, immunosuppressive therapy)
+-AND-
+e. Prescribed by one of the following:
+1) Hematologist
+2) Immunologist
+-AND-
+f. Both of the following:
+1) Patient is 12 years of age or older
+-AND-
+2) Patient weighs greater than or equal to 45 kg
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Joenja will be approved based on all the following criterion:
+a. Documentation of positive clinical response to Joenja therapy (e.g., reduced lymph node
+size, increased naïve B-cell percentage, decreased frequency or severity of infections,
+decreased frequency of hospitalizations)
+-AND-
+b. Prescribed by one of the following:
+1) Hematologist
+2) Immunologist
+-AND-
+c. Patient weighs greater than or equal to 45 kg
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+© 2025 UnitedHealthcare Services, Inc.
+2
+• Supply limits may be in place.
+4. Reference:
+1. Joenja [package insert]. Foster City, CA: Pharming Technologies, Inc.; March 2023.
+2. Rao VK, Webster S, Šedivá A, et al. A randomized, placebo-controlled phase 3 trial of the PI3Kδ
+inhibitor leniolisib for activated PI3Kδ syndrome. Blood. 2023;141(9):971-983.
+3. Singh A, Joshi V, Jindal AK, Mathew B, Rawat A. An updated review on activated PI3 kinase
+delta syndrome (APDS). Genes Dis. 2019 Oct 14;7(1):67-74.
+4. Vanselow S, Wahn V, Schuetz C. Activated PI3Kδ syndrome - reviewing challenges in diagnosis
+and treatment. Front Immunol. 2023 Jul 20;14:1208567.
+Program Prior Authorization/Medical Necessity - Joenja (leniolisib)
+Change Control
+5/2023 New program.
+5/2024 Annual review. Updated initial authorization duration to 12 months.
+Updated references.
+5/2025 Annual review with no changes to coverage criteria. Updated
+references.
+© 2025 UnitedHealthcare Services, Inc.
+3

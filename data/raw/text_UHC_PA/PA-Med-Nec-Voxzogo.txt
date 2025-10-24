@@ -1,0 +1,96 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2272-4
+Program Prior Authorization/Medical Necessity
+Medication Voxzogo™ (vosoritide)
+P&T Approval Date 3/2022, 3/2023, 12/2023, 12/2024
+Effective Date 3/1/2025
+1. Background:
+Voxzogo (vosoritide) is a C type natriuretic peptide (CNP) analog indicated to increase linear
+growth in pediatric patients with achondroplasia with open epiphyses. This indication is
+approved under accelerated approval based on an improvement in annualized growth
+velocity. Continued approval for this indication may be contingent upon verification and
+description of clinical benefit in confirmatory trial(s).
+Coverage will be provided for members who meet the following criteria.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Voxzogo will be approved based on all of the following criteria:
+a. Patient is less than 18 years of age
+-AND-
+b. Diagnosis of achondroplasia as confirmed by one of the following:
+(1) Submission of medical records documenting both of the following:
+(a) Patient has clinical manifestations characteristic of achondroplasia (e.g.,
+macrocephaly, frontal bossing, midface retrusion, disproportionate short
+stature with rhizomelic shortening of the arms and the legs, brachydactyly,
+trident configuration of the hands, thoracolumbar kyphosis, and
+accentuated lumbar lordosis)
+-AND-
+(b) Patient has radiographic findings characteristic of achondroplasia (e.g.,
+large calvaria and narrowing of the foramen magnum region,
+undertubulated, shortened long bones with metaphyseal abnormalities,
+narrowing of the interpedicular distance of the caudal spine, square ilia and
+horizontal acetabula, small sacrosciatic notches, proximal scooping of the
+femoral metaphyses, and short and narrow chest)
+-OR-
+© 2024 UnitedHealthcare Services, Inc.
+1
+(2) Submission of medical records documenting molecular genetic testing
+confirmed c.1138G>A or c.1138G>C variant (i.e., p.Gly380Arg mutation) in the
+fibroblast growth factor receptor-3 (FGFR3) gene
+-AND-
+c. Patient has open epiphyses
+-AND-
+d. Both of the following:
+(1) Patient has not had limb-lengthening surgery in the previous 18 months
+(2) Patient does not plan to have limb-lengthening surgery while on Voxzogo
+-AND-
+e. Prescribed by one of the following:
+(1) Clinical geneticist
+(2) Endocrinologist
+(3) A practitioner who has specialized expertise in the management of
+achondroplasia
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Voxzogo will be approved based on all the following criteria:
+a. Documentation of positive clinical response to Voxzogo therapy (e.g., improvement
+in annualized growth velocity (AGV) compared to baseline)
+-AND-
+b. Patient has open epiphyses
+-AND-
+c. Patient does not plan to have limb-lengthening surgery while on Voxzogo
+-AND-
+d. Prescribed by or in consultation with one of the following:
+(1) Clinical geneticist
+(2) Endocrinologist
+(3) A practitioner who has specialized expertise in the management of
+achondroplasia
+© 2024 UnitedHealthcare Services, Inc.
+2
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-
+10) and/or claim logic. Use of automated approval and re-approval processes varies by
+program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Voxzogo [package insert]. Novato, CA: BioMarin Pharmaceutical Inc.; October 2023.
+2. Pauli RM. Achondroplasia: a comprehensive clinical review. Orphanet J Rare Dis
+2019;14(1):1-49.
+3. Hoover-Fong J, Scott CI, Jones MC; COMMITTEE ON GENETICS. Health Supervision
+for People With Achondroplasia. Pediatrics. 2020;145(6):e20201010.
+Program Prior Authorization/Medical Necessity – Voxzogo (vosoritide)
+Change Control
+3/2022 New program
+3/2023 Annual review with no changes to coverage criteria. Updated
+references.
+12/2023 Updated background and coverage criteria with expanded indication in
+pediatric patients of all ages. Updated references.
+12/2024 Annual review. Updated wording of open epiphyses requirement in
+reauthorization criteria with no change to clinical intent. Updated
+references.
+© 2024 UnitedHealthcare Services, Inc.
+3

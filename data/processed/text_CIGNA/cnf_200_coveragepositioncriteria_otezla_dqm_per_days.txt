@@ -1,0 +1,155 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Inflammatory Conditions – Otezla Drug Quantity Management Policy –
+Per Days
+• Otezla® (apremilast tablets – Amgen)
+REVIEW DATE: 09/04/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Otezla, an oral phosphodiesterase 4 (PDE4) inhibitor, is indicated for the following
+uses:1
+• Behcet’s disease, in adults with oral ulcers.
+• Plaque psoriasis, in adults who are candidates for phototherapy or systemic
+therapy.
+• Plaque psoriasis, in pediatric patients ≥ 6 years of age and ≥ 20 kg with
+moderate to severe disease who are candidates for phototherapy or systemic
+therapy.
+• Psoriatic arthritis in adults with active disease.
+Dosing
+Otezla is administered orally without regard to meals. It requires a titration period
+to reduce gastrointestinal adverse events.1
+Adults with Behcet’s Disease, Plaque Psoriasis, or Psoriatic Arthritis
+The 5-day recommended titration schedule is in Table 1 below.1 Following the 5-
+day titration, the recommended maintenance dose in adults is 30 mg twice daily
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Otezla Drug Quantity
+Management Policy – Per Days
+(BID) starting on Day 6. The dosage of Otezla should be reduced to 30 mg once
+daily (QD) in patients with severe renal impairment (creatinine clearance CrCl] <
+30 mL per minute estimated by the Cockcroft–Gault equation). For initial dosage
+titration in this population, it is recommended that Otezla be titrated using only the
+morning schedule listed in the table below and the evening doses should be
+skipped.
+Table 1. Otezla Titration Schedule.1
+Day 1 Day 2 Day 3 Day 4 Day 5 Day 6 &
+Thereafter
+AM AM PM AM PM AM PM AM PM AM PM
+10 mg 10 mg 10 mg 10 mg 20 mg 20 mg 20 mg 20 mg 30 mg 30 mg 30 mg
+AM – Morning; PM – Evening.
+Pediatric Patients with Plaque Psoriasis
+The recommended dose of Otezla in pediatric patients is based on body weight.1
+The initial titration schedule is in Table 2 below. Following the 5-day titration, the
+recommended maintenance dose is 30 mg BID in pediatric patients weighing ≥ 50
+kg and 20 mg BID in pediatric patients weighing 20 kg to < 50 kg. In patients with
+severe renal impairment (CrCl < 30 mL per minute), the recommended dose of
+Otezla is 30 mg QD if the patient weighs ≥ 50 kg or 20 mg QD if the patient weighs
+20 kg to < 50 kg. For initial dosage titration in this population, it is recommended
+that Otezla be titrated using only the morning schedule listed in the table below and
+the evening doses should be skipped.
+Table 2. Otezla Titration Schedule.1
+Body Day 1 Day 2 Day 3 Day 4 Day 5 Day 6 &
+Weight Thereafter
+AM AM PM AM PM AM PM AM PM AM PM
+≥ 50 10 mg 10 10 mg 10 mg 20 20 20 20 30 30 30
+kg mg mg mg mg mg mg mg mg
+20 kg 10 mg 10 10 mg 10 mg 20 20 20 20 20 20 20
+to < mg mg mg mg mg mg mg mg
+50 kg
+AM – Morning; PM – Evening.
+Availability
+Otezla is available as:
+• 20 mg tablets supplied in bottles of 60 tablets each
+• 30 mg tablets supplied in bottles of 60 tablets each
+• 28-day Starter Pack (20 mg BID dose) containing: 4 x 10 mg tablets and 51 x
+20 mg tablets
+• 14-day Starter Pack containing: 4 x 10 mg tablets, 4 x 20 mg tablets, and 5 x
+30 mg tablets with an additional 14 x 30 mg tablets (discontinued)
+• 28-day Starter Pack (30 mg BID dose) containing: 4 x 10 mg tablets, 4 x 20
+mg tablets, and 47 x 30 mg tablets.
+POLICY STATEMENT
+4 Pages - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Otezla Drug Quantity
+Management Policy – Per Days
+This Drug Quantity Management program has been developed to manage potential
+premature dose escalation of Otezla. If the Drug Quantity Management rule is not
+met at the point of service, coverage will be determined by the Criteria below. All
+approvals are provided for the duration noted below.
+Drug Quantity Limits
+Product Strength and Form Retail Home Delivery
+Maximum Maximum
+Quantity Quantity
+Otezla® 20 mg tablets 60 tablets per 30 180 tablets per
+(apremilast days 90 days
+tablets) 30 mg tablets 60 tablets per 30 180 tablets per
+days 90 days
+14-day Starter Pack 27 tablets per 365 days
+(4 x 10 mg, 4 x 20 mg, and 5 x 30 mg
+tablets, with an additional 14 x 30 mg
+tablets) [discontinued]
+28-day Starter Pack (20 mg BID dose) 55 tablets per 365 days
+(4 x 10 mg and 51 x 20 mg tablets)
+28-day Starter Pack (30 mg BID dose) 55 tablets per 365 days
+(4 x 10 mg, 4 x 20 mg, and 47 x 30 mg
+tablets)
+BID – Twice daily.
+Inflammatory Conditions – Otezla Drug Quantity Management Policy – Per
+Days product(s) is(are) covered as medically necessary when the following
+criteria is(are) met. Any other exception is considered not medically
+necessary.
+CRITERIA
+Otezla 20 mg tablets
+No overrides recommended.
+Otezla 30 mg tablets
+No overrides recommended.
+Otezla Starter Pack (14-day) [discontinued]
+1. If the patient requires additional induction dosing, as verified by the absence of
+claims for Otezla in the past 130 days, approve a one-time override for 27 tablets
+(one 14-day Starter Pack) at retail or home delivery.
+Otezla Starter Pack (28-day [20 mg BID dose])
+1. If the patient requires additional induction dosing, as verified by the absence of
+claims for Otezla in the past 130 days, approve a one-time override for 55 tablets
+(one 28-day Starter Pack) at retail or home delivery.
+4 Pages - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Otezla Drug Quantity
+Management Policy – Per Days
+Otezla Starter Pack (28-day [30 mg BID dose])
+1. If the patient requires additional induction dosing, as verified by the absence of
+claims for Otezla in the past 130 days, approve a one-time override for 55 tablets
+(one 28-day Starter Pack) at retail or home delivery.
+REFERENCES
+1. Otezla® tablets [prescribing information]. Thousand Oaks, CA: Amgen; April 2024.
+HISTORY
+Type of Revision Summary of Changes Review
+Date
+Annual Revision No criteria changes. 01/04/2024
+Early Annual Otezla 20 mg tablets: New quantity limits were added of 60 09/04/2024
+Revision tablets per 30 days at retail and 180 tablets per 90 days at home
+delivery. No clinical overrides apply.
+Otezla Starter Pack 28-day (20 mg BID dose): New quantity
+limit was added of 55 tablets (1 pack) per 365 days at retail and
+home delivery. An override to provide a one-time override for one
+28-day Starter Pack (55 tablets) at retail or home delivery applies
+if the patient requires additional induction dosing, as verified by
+the absence of claims for Otezla in the past 130 days.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. ©
+2024 The Cigna Group.
+4 Pages - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Otezla Drug Quantity
+Management Policy – Per Days

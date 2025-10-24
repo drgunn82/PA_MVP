@@ -1,0 +1,187 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1104-14
+Program Prior Authorization/Notification
+Medication Tarceva® (erlotinib)
+P&T Approval Date 8/2008, 6/2009, 6/2010, 9/2010, 12/2010, 9/2011, 8/2012, 7/2013,
+2/2014, 2/2015, 2/2016, 12/2016, 11/2017, 11/2018, 11/2019, 11/2020,
+11/2021, 11/2022, 11/2023, 11/2024
+Effective Date 2/1/2025
+1. Background:
+Tarceva® (erlotinib) is a kinase inhibitor indicated for the treatment of patients with metastatic non-
+small cell lung cancer (NSCLC) whose tumors have epidermal growth factor receptor (EGFR) exon
+19 deletions or exon 21 (L858R) substitution mutations receiving first-line, maintenance, or second or
+greater line treatment after progression following at least one prior chemotherapy regimen.1 Tarceva
+is also indicated as first-line treatment for locally advanced, unresectable, or metastatic pancreatic
+cancer in combination with gemcitabine.1
+In addition, the National Cancer Comprehensive Network (NCCN) also recommends Tarceva for the
+treatments of chordoma, brain, leptomeningeal, and spine metastases originating from NSCLC,
+relapsed or stage IV kidney cancer with non-clear cell histology, NSCLC with known sensitizing
+EGFR mutations, and vulvar cancer.2
+The safety and efficacy of Tarceva has not been established in patients with NSCLC whose tumors
+have other EGFR mutations. Tarceva is not recommended for use in combination with platinum-
+based chemotherapy.1
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of 19
+years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or under
+some circumstances. Some states also mandate usage of other Compendium references. Where such
+mandates apply, they supersede language in the benefit document or in the notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Tarceva will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Pancreatic Cancer
+1. Initial Authorization
+© 2024 UnitedHealthcare Services, Inc.
+1
+a. Tarceva will be approved based on all of the following criteria:
+(1) Diagnosis pancreatic cancer
+-AND-
+(2) Disease is one of the following:
+(a) Locally advanced
+(b) Unresectable
+(c) Metastatic
+-AND-
+(3) Used in combination with gemcitabine
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tarceva will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tarceva therapy
+Authorization will be issued for 12 months.
+C. Non-Small Cell Lung Cancer (NSCLC)
+1. Initial Authorization
+a. Tarceva will be approved based on one of the following criteria:
+(1) All of the following:
+(a) Diagnosis of non-small cell lung cancer (NSCLC)
+-AND-
+(b) Disease is one of the following:
+(a) Recurrent
+(b) Advanced
+(c) Metastatic
+-AND-
+(c) One of the following:
+i. Tumors are positive for epidermal growth factor receptor (EGFR) exon
+19 deletions
+© 2024 UnitedHealthcare Services, Inc.
+2
+ii. Tumors are positive for exon 21 (L858R) substitution mutations
+iii. Tumors are positive for a known sensitizing EGFR mutation (e.g.,
+S768I, L861Q, G719X)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tarceva will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tarceva therapy
+Authorization will be issued for 12 months.
+D. Chordoma
+1. Initial Authorization
+a. Tarceva will be approved based on the following criterion:
+(1) Diagnosis of chordoma
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tarceva will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tarceva therapy
+Authorization will be issued for 12 months.
+E. Kidney Cancer
+1. Initial Authorization
+a. Tarceva will be approved based on both of the following criteria:
+(1) Both of the following:
+(a) Diagnosis of kidney cancer
+(b) Disease is stage IV or relapsed
+-AND-
+(2) Disease is of non-clear cell histology
+Authorization will be issued for 12 months.
+2. Reauthorization
+© 2024 UnitedHealthcare Services, Inc.
+3
+a. Tarceva will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tarceva therapy
+Authorization will be issued for 12 months.
+F. Central Nervous System (CNS) Cancers
+1. Initial Authorization
+a. Tarceva will be approved based on both of the following criteria:
+(1) Diagnosis of brain, leptomeningeal, or spine metastases from NSCLC
+-AND-
+(2) One of the following:
+(a) Tumors are positive for epidermal growth factor receptor (EGFR) exon 19
+deletions
+(b) Tumors are positive for exon 21 (L858R) substitution mutations
+(c) Tumors are positive for a known sensitizing EGFR mutation (e.g., S768I,
+L861Q, G719X)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tarceva will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tarceva therapy
+Authorization will be issued for 12 months.
+G. Vulvar Cancer
+1. Initial Authorization
+a. Tarceva will be approved based on the following criterion:
+(1) Diagnosis of vulvar cancer
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tarceva will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tarceva therapy
+© 2024 UnitedHealthcare Services, Inc.
+4
+Authorization will be issued for 12 months.
+H. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Tarceva [package insert]. South San Francisco, CA: Genentech USA, Inc.; October 2016.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at NCCN
+Drugs and Biologics Compendium®. Accessed October 8, 2024.
+Program Prior Authorization/Notification - Tarceva (erlotinib)
+Change Control
+2/2014 Clarified indications for and added coverage for kidney cancer.
+9/2014 Administrative change - Tried/Failed exemption for State of New Jersey
+removed.
+2/2015 Annual review. Removed coverage esophageal and esophagogastric
+junction cancers – NCCN no longer recommends. Added coverage for
+leptomeningeal metastases. Clarified kidney cancer criteria. Updated
+background and references.
+2/2016 Annual review. Revised formatting of criteria. Changed initial and
+reauthorization periods to 12 months. Updated references.
+12/2016 Annual review. Changed member to patient in coverage criteria.
+Simplified coverage criteria for NSCLC and added coverage for
+NSCLC with a known sensitizing EGFR mutation (per NCCN).
+Simplified coverage criteria for kidney cancer (per NCCN). Added
+coverage criteria for vulvar cancer (per NCCN). Updated background,
+formatting and references.
+11/2017 Annual review with no change to clinical coverage criteria. Updated
+reference.
+© 2024 UnitedHealthcare Services, Inc.
+5
+11/2018 Annual review. Updating background and criteria to align with NCCN
+recommendations for the treatment of metastatic CNS cancer.
+Removed “off-label” from NCCN Compendium supported indications.
+Updated background and references.
+11/2019 Annual review. Added general NCCN recommendations for use
+criteria. Updated reference.
+11/2020 Annual review. Minor change to kidney cancer section for clarity of
+intent. Added other EGFR sensitizing mutations to align with NSCLC
+section. Updated references.
+11/2021 Annual review with no changes to clinical coverage criteria. Updated
+references.
+11/2022 Annual review. Added coverage of advanced NSCLC and updated
+examples of known sensitizing EGFR mutations for NSCL and CNS
+cancers. Added leptomeningeal and spine metastases to background
+and CNS Cancers criteria. Updated reference and added state mandate
+footnote.
+11/2023 Annual review with no changes to clinical coverage criteria. Updated
+references.
+11/2024 Annual review with no changes to clinical coverage criteria. Updated
+references.
+© 2024 UnitedHealthcare Services, Inc.
+6

@@ -1,0 +1,123 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Hereditary Angioedema – Haegarda Drug Quantity Management Policy
+– Per Days
+• Haegarda® (C1 esterase inhibitor [human] subcutaneous injection −
+CSL Behring)
+REVIEW DATE: 02/19/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE
+DETERMINATIONS DO NOT APPLY TO THOSE CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING
+CERTAIN STANDARD BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR
+BENEFIT PLAN DOCUMENT [GROUP SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN
+DESCRIPTION (SPD) OR SIMILAR PLAN DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE
+COVERAGE POLICIES ARE BASED. FOR EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED
+TO A TOPIC ADDRESSED IN A COVERAGE POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS
+SUPERSEDES THE INFORMATION IN THE COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE
+MANDATE, BENEFITS ARE ULTIMATELY DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE
+DETERMINATIONS IN EACH SPECIFIC INSTANCE REQUIRE CONSIDERATION OF 1) THE TERMS OF
+THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY APPLICABLE LAWS/REGULATIONS; 3) ANY
+RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE SPECIFIC FACTS OF THE PARTICULAR
+SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL DIRECTORS ARE EXPECTED TO EXERCISE
+CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE DETERMINATIONS. WHERE
+COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES, REIMBURSEMENT WILL ONLY BE PROVIDED IF A
+REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA OUTLINED IN THE APPLICABLE COVERAGE POLICY,
+INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS NOT ALLOWED FOR SERVICES WHEN BILLED FOR
+CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY (SEE "CODING INFORMATION" BELOW). WHEN
+BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR
+SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE COVERAGE POLICY WILL BE DENIED AS NOT
+COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES ARE NOT
+RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS, DELEGATED
+VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Haegarda, a human plasma-derived C1 esterase inhibitor (C1-INH), is indicated for
+routine prophylaxis to prevent hereditary angioedema attacks in adults and
+pediatric patients ≥ 6 years of age.1
+Dosing
+Haegarda is dosed 60 IU/kg twice weekly (once every 3 or 4 days).1 Thus, eight
+doses of Haegarda are required in a 28-day period and 24 doses are required in a
+84-day period.
+Availability
+Page 1 of 3 - Cigna National Formulary Coverage - Policy:Hereditary Angioedema – Haegarda Drug Quantity
+Management Policy – Per Days
+Haegarda is available in single-dose vials of lyophilized powder containing 2,000 IU
+or 3,000 IU.1 Refer to Table 1 for the number of doses required based on patient
+weight.
+Due to the weight-based dosing of Haegarda and the vial sizes available, the
+maximum approvable quantity per 28 days is dependent on patient weight. The
+quantity limits provided in this policy provide a sufficient quantity for a patient
+weighing up to 100 kg using either 2,000 IU vials or 3,000 IU vials. For a patient
+requiring additional quantity based on body weight, quantity limits are provided in
+the exception criteria below.
+Table 1. Vials of Haegarda Required Based on Patient Weight.1
+Weight (kg) IU required per dose 2,000 IU 3,000 IU 2,000 IU 3,000 IU
+(rounded to nearest vials vials vials vials
+package size) per dose per dose per 28 per 28
+days days
+≤ 33 kg 2,000 IU 1 0 8 0
+> 33 kg to 50 3,000 IU 0 1 0 8
+kg
+> 50 kg to 66 4,000 IU 2 0 16 0
+kg
+> 66 kg to 100 6,000 IU 3* 2* 24* 16*
+kg
+> 100 kg to 8,000 IU 4 0 32 0
+133 kg
+> 133 kg to 9,000 IU 0 3 0 24
+150 kg
+> 150 kg to 10,000 IU 5 0 40 0
+166 kg
+> 166 kg to 12,000 IU 6** 4** 48** 32**
+200 kg
+* Can use three 2,000 IU vials or two 3,000 IU vials to achieve the desired dose; ** Can use six 2,000
+IU vials or four 4,000 IU vials to achieve to desired dose.
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of Haegarda. If the Drug Quantity Management rule is
+not met for the requested medication at the point of service, coverage will be
+determined by the Criteria below. All approvals are provided for 1 year in duration.
+Drug Quantity Limits
+Product Package Size Retail Home Delivery
+Maximum Maximum
+Quantity Quantity
+per 28 Days per 84 Days
+Haegarda® 2,000 IU single- 24 vials* 72 vials*
+(C1 esterase inhibitor [human] SC dose vial
+injection) 3,000 IU single- 16 vials* 48 vials*
+dose vial
+SC – Subcutaneous; * The quantity limits in this policy provide quantity sufficient for a dose of 60 IU/kg
+twice weekly for a patient weighing up to 100 kg, using either the 2,000 IU strength vials or the 3,000
+3 Pages - Cigna National Formulary Coverage - Policy:Hereditary Angioedema – Haegarda Drug Quantity
+Management Policy – Per Days
+IU strength vials. If the patient requires additional quantity based on body weight > 100 kg, exceptions
+are provided in criteria.
+Hereditary Angioedema – Haegarda Drug Quantity Management Policy –
+Per Days product(s) is(are) covered as medically necessary when the
+following criteria is(are) met. Any other exception is considered not
+medically necessary.
+CRITERIA
+Haegarda 2,000 IU vials:
+1. If the patient weighs > 100 kg, approve the requested quantity, not to exceed
+48 vials per 28 days at retail or 144 vials per 84 days at home delivery.
+Haegarda 3,000 IU vials:
+1. If the patient weighs > 100 kg, approve the requested quantity, not to exceed
+32 vials per 28 days at retail or 96 vials per 84 days at home delivery.
+REFERENCES
+1. Haegarda® subcutaneous injection [prescribing information]. Kankakee, IL: CSL Behring;
+January 2022.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 01/18/2023
+Annual No criteria changes. 02/08/2024
+Revision
+Annual No criteria changes. 02/19/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Hereditary Angioedema – Haegarda Drug Quantity
+Management Policy – Per Days

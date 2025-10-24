@@ -1,0 +1,62 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1367-4
+Program Prior Authorization/Notification
+Medication Bylvay™ (odevixibat)
+P&T Approval Date 9/2021, 9/2022, 8/2023, 8/2024
+Effective Date 11/1/2024
+1. Background:
+Bylvay (odevixibat) is an ileal bile acid transporter inhibitor indicated for the treatment of
+pruritis in patients aged 3 months or older with progressive familial intrahepatic cholestasis
+(PFIC). Bylvay is also indicated for the treatment of pruritis in patients 12 months of age and
+older with Alagille syndrome (ALGS).
+Limitation of Use:
+Bylvay may not be effective in a subgroup of PFIC type 2 patients with specific ABCB11
+variants resulting in non-functional or complete absence of bile salt export pump protein (BSEP-
+3).
+2. Coverage Criteriaa:
+A. Progressive Familial Intrahepatic Cholestasis
+1. Initial Authorization
+a. Bylvay will be approved based upon both of the following criteria:
+(1) Diagnosis of progressive familial intrahepatic cholestasis (PFIC)
+-AND-
+(2) Patient is experiencing pruritus associated with PFIC.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Bylvay will be approved based on the following criterion:
+(1) Documentation of positive clinical response to Bylvay therapy
+Authorization will be issued for 12 months.
+B. Alagille Syndrome
+1. Initial Authorization
+a. Bylvay will be approved based upon both of the following criteria:
+© 2024 UnitedHealthcare Services, Inc.
+1
+(1) Diagnosis of Alagille syndrome (ALGS).
+-AND-
+(2) Patient is experiencing pruritus associated with ALGS.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Bylvay will be approved based on the following criterion:
+(1) Documentation of positive clinical response to Bylvay therapy
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. Reference:
+1. Bylvay™ [package insert]. Cambridge, MA: Ipsen Biopharmaceuticals, Inc.; February 2024.
+Program Prior Authorization/Notification - Bylvay™ (odevixibat) Notification
+Change Control
+9/2021 New program
+9/2022 Annual review with no changes to criteria. Added state mandate
+footnote.
+8/2023 Added coverage criteria for new ALGS indication. Updated reference.
+8/2024 Annual review. Updated initial authorization durations to 12 months.
+Updated background and reference.
+© 2024 UnitedHealthcare Services, Inc.
+2

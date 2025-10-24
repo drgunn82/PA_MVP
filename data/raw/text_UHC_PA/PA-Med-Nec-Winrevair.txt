@@ -1,0 +1,89 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2343-2
+Program Prior Authorization/Medical Necessity
+Medication Winrevair™ (sotatercept-csrk)
+P&T Approval Date 6/2024, 6/2025
+Effective Date 9/1/2025
+1. Background:
+Winrevair (sotatercept-csrk) is an activin signaling inhibitor indicated for the treatment of adults
+with pulmonary arterial hypertension (PAH, WHO Group 1) to increase exercise capacity,
+improve WHO functional class (FC) and reduce the risk of clinical worsening events.1
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Winrevair will be approved based on all of the following criteria:
+a. One of the following:
+(1) All of the following:
+(a) Diagnosis of pulmonary arterial hypertension (PAH)
+-AND-
+(b) PAH has been confirmed by right heart catheterization
+-AND-
+(c) Prescriber attestation that other types of pulmonary hypertension (PH) are
+excluded as a diagnosis
+-AND-
+(d) Pulmonary arterial hypertension is symptomatic
+-OR-
+(2) Both of the following:
+(a) Diagnosis of pulmonary arterial hypertension
+-AND-
+(b) Patient is currently on Winrevair therapy as documented by claims history
+or submission of medical records (document date and duration of therapy)
+© 2025 UnitedHealthcare Services, Inc.
+1
+-AND-
+b. One of the following:
+(1) Both of the following:
+(a) Patient has a cardiopulmonary comorbidity (e.g., obesity, hypertension,
+diabetes mellitus, coronary heart disease)
+-AND-
+(b) Patient is currently taking at least one of the following oral therapies:
+i. Endothelin receptor antagonist (ERA) [e.g., ambrisentan, bosentan,
+Opsumit (macitentan)]
+ii. Phosphodiesterase-5 inhibitor (PDE5i) (e.g., sildenafil, tadalafil)
+-OR-
+(2) Both of the following:
+(a) Patient does not have a cardiopulmonary comorbidity (e.g., obesity,
+hypertension, diabetes mellitus, coronary heart disease)
+-AND-
+(b) Patient is currently taking oral combination therapy with both of the
+following:
+i. Endothelin receptor antagonist (ERA) [e.g., ambrisentan, bosentan,
+Opsumit (macitentan)]
+ii. One of the following:
+• Phosphodiesterase-5 inhibitor (PDE5i) (e.g., sildenafil, tadalafil)
+• Soluble guanylate cyclase stimulator (sGC) [e.g., Adempas
+(riociguat)]
+-AND-
+c. Prescribed by, or in consultation with, a cardiologist, pulmonologist, or
+rheumatologist
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Winrevair will be approved based on both of the following criteria:
+© 2025 UnitedHealthcare Services, Inc.
+2
+a. Documentation of a positive clinical response to Winrevair therapy [e.g.,
+improvement in symptoms of right heart failure, exercise tolerance, six-minute
+walk distance (6MWD), resting and ambulatory oximetry]
+-AND-
+b. Prescribed by, or in consultation with, a cardiologist, pulmonologist, or
+rheumatologist
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-
+10) and/or claim logic. Use of automated approval and re-approval processes varies by
+program and/or therapeutic class.
+• Supply limitations may be in place.
+4. References:
+1. Winrevair [package insert]. Rahway, NJ: Merck & Co., Inc; March 2024.
+2. Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/ERS Guidelines for the diagnosis
+and treatment of pulmonary hypertension. Eur Heart J 2022; 43:3618.
+Program Prior Authorization/Medical Necessity – Winrevair™ (sotatercept-csrk)
+Change Control
+6/2024 New program.
+6/2025 Annual review. No changes to coverage criteria
+© 2025 UnitedHealthcare Services, Inc.
+3

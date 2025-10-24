@@ -1,0 +1,191 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2168-10
+Program Prior Authorization/Medical Necessity
+Medication Spravato® (esketamine)
+P&T Approval Date 6/2019, 9/2019, 2/2020, 12/2020, 4/2021, 4/2022, 12/2022, 12/2023,
+6/2024, 3/2025
+Effective Date 5/1/2025
+1. Background:
+Spravato® (esketamine) is a non-competitive N-methyl D-aspartate (NMDA) receptor antagonist
+indicated for the treatment of:
+• treatment-resistant depression (TRD) in adults, as monotherapy or in conjunction with an oral
+antidepressant.
+• depressive symptoms in adults with major depressive disorder (MDD) with acute suicidal
+ideation or behavior in conjunction with an oral antidepressant.
+Limitations of Use: The effectiveness of Spravato in preventing suicide or in reducing suicidal
+ideation or behavior has not been demonstrated. Use of Spravato does not preclude the need for
+hospitalization if clinically warranted, even if patients experience improvement after an initial
+dose of Spravato. Spravato is not approved as an anesthetic agent. The safety and effectiveness
+of Spravato as an anesthetic agent have not been established.
+Because of the risks of serious adverse outcomes resulting from sedation, dissociation, and abuse
+and misuse, Spravato is only available through a restricted program under a Risk Evaluation and
+Mitigation Strategy (REMS) called the Spravato REMS
+For the purposes of this program, a trial and failure of a given antidepressant is defined as the
+patient unable to achieve a clinical meaningful improvement of the maximally tolerated dose(s)
+for at least 8 weeks.
+2. Coverage Criteria a:
+A. Major depressive disorder (treatment-resistant)
+1. Initial Authorization
+a. Spravato will be approved based on all of the following criteria
+(1) Diagnosis of major depressive disorder (treatment-resistant), according to the
+current DSM (i.e., DSM-5-TR) criteria, by a mental health professional
+-AND-
+(2) Submission of medical records (e.g., chart notes, laboratory values)
+documenting baseline scoring (prior to starting Spravato) on at least one of the
+following clinical assessments has been completed:
+© 2025 UnitedHealthcare Services, Inc.
+1
+(a) Beck Depression Inventory (BDI)
+(b) Hamilton Rating Scale for Depression (HAMD)
+(c) Montgomery-Asberg Depression Rating Scale (MADRS)
+(d) 9-item Patient Health Questionnaire (PHQ-9)
+(e) Quick Inventory of Depressive Symptomatology (QIDS)
+-AND-
+(3) History of failure of a trialb of at least two different antidepressant medications
+or treatment regimens for a duration of at least 8 weeks each (document
+medication, date, and duration of trial)
+An antidepressant or treatment regimen would include any of the following
+classes or combinations:
+(a) Selective serotonin reuptake inhibitors (e.g., citalopram, fluoxetine,
+paroxetine, sertraline)
+(b) Serotonin norepinephrine reuptake inhibitors (e.g., duloxetine, venlafaxine,
+etc.)
+(c) Bupropion
+(d) Tricyclic antidepressants (e.g., amitriptyline, clomipramine, nortriptyline,
+etc.)
+(e) Mirtazapine
+(f) Monoamine oxidase inhibitors (e.g., selegiline, tranylcypromine, etc.)
+(g) Serotonin modulators (e.g., nefazodone, trazodone, etc.)
+(h) Augmentation with antipsychotics, lithium, or thyroid hormone
+-AND-
+(4) Provider and/or the provider’s healthcare setting is certified in the Spravato
+REMS program
+-AND-
+(5) Prescribed by or in consultation with a psychiatrist
+Authorization will be issued for 12 months
+2. Reauthorization
+a. Spravato will be approved based on all of the following criteria:
+(1) Documentation of remission or a positive clinical response to Spravato therapy
+-AND-
+(2) Submission of medical records (e.g., chart notes, laboratory values)
+documenting baseline and recent (within the last month) scoring on at least one
+of the following assessments demonstrating remission or clinical response (e.g.,
+score reduction from baseline):
+© 2025 UnitedHealthcare Services, Inc.
+2
+(a) BDI
+(b) HAMD
+(c) MADRS
+(d) PHQ-9
+(e) QIDS
+-AND-
+(3) Provider and/or the provider’s healthcare setting is certified in the Spravato
+REMS program
+-AND-
+(4) Prescribed by or in consultation with a psychiatrist
+Authorization will be issued for 12 months
+B. Depressive symptoms in adults with major depressive disorder (MDD) with acute
+suicidal ideation or behavior
+1. Authorization
+a. Spravato will be approved based on all of the following criteria:
+(1) Diagnosis of major depressive disorder according to the current DSM (i.e.,
+DSM-5-TR) criteria, by a mental health professional
+-AND-
+(2) Patient is experiencing an acute suicidal ideation or behavior
+-AND-
+(3) Spravato will be used in combination with a newly initiated or optimized oral
+antidepressant
+-AND-
+(4) Provider and/or the provider’s healthcare setting is certified in the Spravato
+REMS program
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+b For Connecticut, Kentucky and Mississippi business, only a 30 day trial will be required.
+© 2025 UnitedHealthcare Services, Inc.
+3
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Spravato [prescribing information]. Lakewood, NJ; Janssen Pharmaceuticals, Inc.; January 2025.
+2. Gaynes BN, Rush AJ, Trivedi MH, et al. The STAR*D study: treating depression in the real
+world. Cleve Clin J Med. 2008; 75(1):57-66
+3. American Psychiatric Association (APA). Practice guideline for the treatment of patients with
+major depressive disorder. 3rd ed. Arlington (VA): American Psychiatric Association (APA);
+2010 Oct.
+4. Psychopharmacologic Drugs Advisory Committee and Drug Safety and Risk Management
+Advisory Committee Meeting. FDA Briefing Document. February 12, 2019.
+https://www.fda.gov/downloads/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/Psyc
+hopharmacologicDrugsAdvisoryCommittee/UCM630970.pdf. (Accessed on March 11, 2019)
+5. Thase M, Connolly KR. Unipolar depression in adults: Choosing treatment for resistant
+depression. Solomon D, ed. UpToDate. Waltham, MA: UpToDate Inc.
+https://www.uptodate.com (Accessed on March 3, 2025)
+6. Huda Akil, Joshua Gordon, Rene Hen, et al. Treatment Resistant Depression: A Multi-Scale,
+Systems Biology Approach. Neurosci Biobehav Rev. 2018 Jan; 84: 272–288.
+7. Hamilton M. A rating scale for depression. J Neurol Neurosurg Psychiatry 1960; 23:56–61.
+8. Rush AJ, Bernstein IH, Trivedi MH, et al. An evaluation of the Quick Inventory of Depressive
+Symptomatology and the Hamilton Rating Scale for Depression: a Sequenced Treatment
+Alternatives to Relieve Depression (STAR*D) trial report. Biol Psychiatry 2006; 59:493–501.
+9. Trivedi MH1, Rush AJ, Wisniewski SR, et al. Evaluation of outcomes with citalopram for
+depression using measurement-based care in STAR*D: implications for clinical practice. Am J
+Psychiatry. 2006 Jan;163(1):28-40.
+10. Trivedi MH, Rush AJ, Gaynes BN, et al. Maximizing the adequacy of medication treatment in
+controlled trials and clinical practice: STAR*D measurement-based care.
+Neuropsychopharmacology. 2007 Dec;32(12):2479-89.
+11. Canuso CM, Singh JB, Fedgchin M, et al. Efficacy and Safety of Intranasal Esketamine for the
+Rapid Reduction of Symptoms of Depression and Suicidality in Patients at Imminent Risk for
+Suicide: Results of a Double-Blind, Randomized, Placebo-Controlled Study. Am J Psychiatry.
+2018 Jul 1;175(7):620-630.
+12. Popova V, Daly EJ, Trivedi M, et al. Efficacy and Safety of Flexibly Dosed Esketamine Nasal
+Spray Combined With a Newly Initiated Oral Antidepressant in Treatment-Resistant Depression:
+A Randomized Double-Blind Active-Controlled Study. Am J Psychiatry. 2019 Jun 1;176(6):428-
+438.
+13. Fu DJ, Ionescu DF, Li X, et al. Esketamine Nasal Spray for Rapid Reduction of Major Depressive
+Disorder Symptoms in Patients Who Have Active Suicidal Ideation With Intent: Double-Blind,
+Randomized Study (ASPIRE I). J Clin Psychiatry. 2020 May 12;81(3):19m13191.
+14. Ionescu DF, Fu DJ, Qiu X, et al. Esketamine Nasal Spray for Rapid Reduction of Depressive
+Symptoms in Patients With Major Depressive Disorder Who Have Active Suicide Ideation With
+Intent: Results of a Phase 3, Double-Blind, Randomized Study (ASPIRE II), International Journal
+of Neuropsychopharmacology, pyaa068
+© 2025 UnitedHealthcare Services, Inc.
+4
+15. Coley RY, Boggs JM, Beck A, Hartzler AL, Simon GE. Defining Success in Measurement-Based
+Care for Depression: A Comparison of Common Metrics. Psychiatr Serv. 2020;71(4):312-318.
+doi:10.1176/appi.ps.201900295
+16. Taylor RW, Marwood L, Oprea E, et al. Pharmacological Augmentation in Unipolar Depression:
+A Guide to the Guidelines. Int J Neuropsychopharmacol. 2020;23(9):587-625.
+doi:10.1093/ijnp/pyaa033
+Program Prior Authorization/Medical Necessity – Spravato (esketamine)
+Change Control
+6/2019 New program.
+9/2019 Updated coverage criteria.
+2/2020 Updated coverage criteria to require submission of baseline validated
+provider administered assessments.
+12/2020 Updated background and coverage criteria for new indication for MDD
+with acute suicidal ideation or behavior. Updated references.
+4/2021 Clarified submission of clinical assessments to include medical record
+submission.
+4/2022 Annual review with no change to clinical criteria.
+12/2022 Updated coverage criteria for treatment-resistant depression with
+clarification of requirement for combination with “new” oral
+antidepressant to be an agent that has not been previously failed.
+12/2023 Annual review. Added PHQ-9 scale to list of options for clinical
+assessments. Updated background and references.
+6/2024 Updated wording of coverage criteria without change to clinical intent.
+Updated approval duration, both initial and reauthorization, to 12
+months.
+3/2025 Revised options for clinical assessments to reflect different item
+versions of the same scale as well as added BDI. Removed requirement
+for combination with oral antidepressant for TRD per updated label.
+Revised coverage criteria for TRD to require history of failure of a trial
+of at least two different antidepressant medications or treatment
+regimens, remove reference to current depressive episode, and remove
+augmentation with anticonvulsants as a treatment regimen based on
+latest clinical evidence. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+5

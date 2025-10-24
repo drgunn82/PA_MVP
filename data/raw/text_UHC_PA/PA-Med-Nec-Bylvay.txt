@@ -1,0 +1,127 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2251-6
+Program Prior Authorization/Medical Necessity
+Medication Bylvay™ (odevixibat)
+P&T Approval Date 10/2021, 12/2021, 12/2022, 8/2023, 10/2023, 8/2024
+Effective Date 11/1/2024
+1. Background:
+Bylvay (odevixibat) is an ileal bile acid transporter inhibitor indicated for the treatment of pruritis
+in patients aged 3 months or older with progressive familial intrahepatic cholestasis (PFIC).
+Bylvay is also indicated for the treatment of pruritis in patients 12 months of age and older with
+Alagille syndrome (ALGS).
+PFIC is a heterogeneous group of liver disorders of autosomal recessive inheritance,
+characterized by an early onset of cholestasis (usually during infancy) with pruritus and
+malabsorption, which rapidly progresses and ends up as liver failure. Pruritus is the most obvious
+and the most unbearable symptom in cholestasis. It has been proposed that it is induced by the
+stimulation of nonmyelinated subepidermal free nerve ends because of increased serum bile
+acids.
+ALGS is a rare genetic disorder caused by a mutation in the JAG1 or Notch2 genes which are
+involved in embryonic development in utero. In ALGS patients, multiple organ systems may be
+affected by the mutation. In the liver, the mutation causes the bile ducts to abnormally narrow,
+malform and reduce in number, leading to bile acid accumulation, cholestasis, and ultimately
+progressive liver disease. The cholestatic pruritus experienced by patients with ALGS is among
+the most severe in any chronic liver disease and is present in most affected children by the third
+year of life.
+Conventional treatments for pruritis associated with PFIC or Alagille syndrome include
+uroseoxycholic acid (UCDA), antihistamines (e,g., diphenhydramine), bile acid sequestrants
+(e.g., cholestyramine), rifampin, naltrexone and sertraline.
+Limitation of Use:
+Bylvay may not be effective in a subgroup of PFIC type 2 patients with specific ABCB11
+variants resulting in non-functional or complete absence of bile salt export pump protein (BSEP-
+3).
+© 2024 UnitedHealthcare Services, Inc.
+1
+2. Coverage Criteriaa:
+A. Progressive Familial Intrahepatic Cholestasis
+1. Initial Authorization
+a. Bylvay will be approved based upon all of the following criteria:
+(1) Confirmed molecular diagnosis of progressive familial intrahepatic cholestasis
+(PFIC)
+-AND-
+(2) Patient does not have a ABCB11 variant resulting in non-functional or complete
+absence of bile salt export pump protein (BSEP-3)
+-AND-
+(3) Patient is experiencing moderate to severe pruritus associated with PFIC.
+-AND-
+(4) Patient has a serum bile acid concentration above the upper limit of the normal
+reference range for the reporting laboratory.
+-AND-
+(5) Patient has had an inadequate response to at least two other conventional
+treatments for the symptomatic relief of pruritus (e.g., uroseoxycholic acid,
+diphenhydramine, cholestyramine, rifampin, naltrexone, and sertraline).
+-AND-
+(6) Prescribed by a gastroenterologist or hepatologist.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Bylvay will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Bylvay therapy (e.g., reduced
+serum bile acids, improved pruritis and less sleep disturbance)
+-AND-
+(2) Prescribed by a gastroenterologist or hepatologist.
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+2
+B. Alagille Syndrome
+1. Initial Authorization
+a. Bylvay will be approved based upon all of the following criteria:
+(1) Diagnosis of Alagille syndrome (ALGS)
+-AND-
+(2) Confirmation of diagnosis by presence of the JAG1 or Notch2 gene mutation
+-AND-
+(3) Patient has a serum bile acid concentration above the upper limit of the normal
+reference range for the reporting laboratory.
+-AND-
+(4) Patient is experiencing moderate to severe pruritis associated with ALGS
+-AND-
+(5) Patient has had an inadequate response to at least two other conventional
+treatments for the symptomatic relief of pruritus (e.g., ursodeoxycholic acid,
+diphenhydramine, cholestyramine, rifampin, naltrexone, and sertraline).
+-AND-
+(6) Prescribed by a gastroenterologist or hepatologist.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Bylvay will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Bylvay therapy (e.g., reduced
+serum bile acids, improved pruritis)
+-AND-
+(2) Prescribed by a gastroenterologist or hepatologist.
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+© 2024 UnitedHealthcare Services, Inc.
+3
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. Reference:
+1. Bylvay [package insert]. Cambridge, MA: Ipsen Biopharmaceuticals, Inc.; February 2024.
+2. Thompson RJ, Arnell H, Artan R, et al. Odevixibat treatment in progressive familial intrahepatic
+cholestasis: a randomised, placebo-controlled, phase 3 trial. Lancet Gastroenterol Hepatol.
+2022;7(9):830-842.
+3. Ovchinsky N, Aumar M, Baker A, et al. Efficacy and safety of odevixibat in patients with
+Alagille syndrome (ASSERT): a phase 3, double-blind, randomised, placebo-controlled
+trial. Lancet Gastroenterol Hepatol. 2024;9(7):632-645.
+4. Chowdhury JR, Chowdhury NR. Inherited disorders associated with conjugated
+hyperbilirubinemia in adults. In: Post TW, ed. UpToDate. UpToDate, 2024. Accessed July 9,
+2024. Inherited disorders associated with conjugated hyperbilirubinemia in adults - UpToDate
+5. Kohut TJ, Loomes KM. Alaglle syndrome. In: Post TW, ed. UpToDate. UpToDate, 2024.
+Accessed July 9, 2024. Alagille syndrome - UpToDate
+Program Prior Authorization/Medical Necessity - Bylvay (odevixibat)
+Change Control
+10/2021 New program
+12/2021 Updated criteria with addition of elevated sBA level requirement.
+12/2022 Annual review with no changes to coverage criteria. Updated
+references.
+8/2023 Updated examples of conventional treatment for pruritus associated
+with PFIC. Added coverage criteria for new ALGS indication.
+Updated background and references.
+10/2023 Removed requirement that PFIC must be type 1 or 2. Expanded
+prescriber requirement to include gastroenterologist.
+8/2024 Annual review. Updated examples of conventional treatment and initial
+authorization durations. Updated background and references.
+© 2024 UnitedHealthcare Services, Inc.
+4

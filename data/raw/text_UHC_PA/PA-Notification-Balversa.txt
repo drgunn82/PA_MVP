@@ -1,0 +1,187 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1284-7
+Program Prior Authorization/Notification
+Medication Balversa® (erdafitinib)
+P&T Approval Date 6/2019, 5/2020, 5/2021, 5/2022, 5/2023, 5/2024, 5/2025
+Effective Date 8/1/2025
+1. Background:
+Balversa (erdafitinib) is a kinase inhibitor indicated for the treatment of adult patients with
+locally advanced or metastatic urothelial carcinoma (mUC) with susceptible fibroblast growth
+factor receptor 3 (FGFR3) genetic alterations whose disease has progressed on or after at least
+one line of prior systemic therapy.
+Limitations of Use:
+Balversa is not recommended for the treatment of patients who are eligible for and have not
+received prior PD-1 or PD-L1 inhibitor therapy.
+The National Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium also
+recommends the use of Balversa in the treatment of salivary gland tumor, pancreatic
+adenocarcinoma, non-small cell lung cancer, invasive breast cancer, and cholangiocarcinoma.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Balversa will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Urothelial Carcinoma
+1. Initial Authorization
+a. Balversa will be approved based on ALL of the following criteria:
+(1) Diagnosis of urothelial carcinoma
+© 2025 UnitedHealthcare Services, Inc.
+1
+-AND-
+(2) Disease is one of the following:
+(a) Locally advanced
+(b) Metastatic
+-AND-
+(3) Presence of FGFR3 genetic alterations
+-AND-
+(4) Disease has progressed on or after at least one line of prior systemic therapy
+[e.g., platinum-based chemotherapy (e.g., cisplatin, carboplatin), immune
+checkpoint inhibitor (e.g., pembrolizumab, nivolumab, avelumab)]
+-AND-
+(5) One of the following:
+(a) Patient has received prior systemic therapy containing an immune
+checkpoint inhibitor (e.g., pembrolizumab, nivolumab, avelumab)
+OR-
+(b) Patient is not eligible for immune checkpoint inhibitor therapy (e.g.,
+pembrolizumab, nivolumab, avelumab)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Balversa will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Balversa
+therapy.
+Authorization will be issued for 12 months.
+C. Salivary Gland Tumor
+1. Initial Authorization
+a. Balversa will be approved based on ALL of the following criteria:
+(1) Diagnosis of salivary gland tumor
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+2
+(2) Disease is one of the following:
+(a) Recurrent
+(b) Unresectable
+(c) Metastatic
+-AND-
+(3) Presence of FGFR genetic alterations
+-AND-
+(4) Disease has progressed on or after at least one line of prior systemic therapy
+[e.g., platinum-based chemotherapy (e.g., cisplatin, carboplatin)]
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Balversa will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Balversa
+therapy.
+Authorization will be issued for 12 months.
+D. Pancreatic Adenocarcinoma
+1. Initial Authorization
+a. Balversa will be approved based on ALL of the following criteria:
+(1) Diagnosis of pancreatic adenocarcinoma
+-AND-
+(2) Disease is one of the following:
+(a) Locally advanced
+(b) Metastatic
+(c) Recurrent
+-AND-
+(3) Presence of FGFR genetic alterations
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Balversa will be approved based on the following criterion:
+© 2025 UnitedHealthcare Services, Inc.
+3
+(1) Patient does not show evidence of progressive disease while on Balversa
+therapy.
+Authorization will be issued for 12 months.
+E. Non-Small Cell Lung Cancer
+1. Initial Authorization
+a. Balversa will be approved based on ALL of the following criteria:
+(1) Diagnosis of non-small cell lung cancer
+-AND-
+(2) Disease is metastatic
+-AND-
+(3) Presence of FGFR genetic alterations
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Balversa will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Balversa
+therapy.
+Authorization will be issued for 12 months.
+F. Breast Cancer
+1. Initial Authorization
+a. Balversa will be approved based on ALL of the following criteria:
+(1) Diagnosis of invasive breast cancer
+-AND-
+(2) Disease is metastatic
+-AND-
+(3) Presence of FGFR1-3 genetic alterations
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services, Inc.
+4
+2. Reauthorization
+a. Balversa will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Balversa
+therapy.
+Authorization will be issued for 12 months.
+G. Cholangiocarcinoma
+1. Initial Authorization
+a. Balversa will be approved based on ALL of the following criteria:
+(1) Diagnosis of cholangiocarcinoma
+-AND-
+(2) Disease is one of the following:
+(a) Unresectable
+(b) Metastatic
+-AND-
+(3) Presence of FGFR2 genetic alterations
+-AND-
+(4) Disease has progressed on or after both of the following:
+(a) Lytgovi (futibatinib)
+(b) Pemazyre (pemigatinib)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Balversa will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Balversa
+therapy.
+Authorization will be issued for 12 months.
+H. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+© 2025 UnitedHealthcare Services, Inc.
+5
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Balversa [package insert]. Horsham, PA: Janssen Products, LP; October 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org/professionals/drug_compendium/content/contents.asp. Accessed March 21,
+2025
+Program Prior Authorization/Notification - Balversa
+Change Control
+6/2019 New program.
+5/2020 Annual review. Updated reference.
+5/2021 Annual review. Updated references.
+5/2022 Annual review. Updated references.
+5/2023 Annual review with no changes to coverage criteria. Added state
+mandate footnote and updated references.
+5/2024 Annual review. Removed coverage for FGFR2 genetic alterations.
+Added that first line of prior systemic therapy should contain an
+immune checkpoint inhibitor, if eligible. Updated background and
+references.
+5/2025 Annual review. Added coverage criteria for salivary gland tumor,
+pancreatic adenocarcinoma, non-small cell lung cancer, breast cancer,
+and cholangiocarcinoma. Updated background and references.
+© 2025 UnitedHealthcare Services, Inc.
+6

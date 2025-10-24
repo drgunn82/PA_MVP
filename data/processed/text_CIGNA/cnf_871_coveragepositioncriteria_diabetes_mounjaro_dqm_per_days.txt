@@ -1,0 +1,100 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Diabetes – Mounjaro Drug Quantity Management Policy – Per Days
+• Mounjaro® (tirzepatide subcutaneous injection − Eli Lilly)
+REVIEW DATE: 10/30/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Mounjaro, a glucagon-like peptide-1 (GLP-1)/glucose-dependent insulinotropic
+polypeptide-1 (GIP) agonist, is indicated as an adjunct to diet and exercise to
+improve glycemic control in adults with type 2 diabetes mellitus.1
+Dosing
+The recommended initial dose of Mounjaro is 2.5 mg administered subcutaneous
+(SC) once weekly (QW).1 The 2.5 mg dose is not intended for glycemic control, but
+is to be used for treatment initiation only. After 4 weeks, the Mounjaro dose should
+be increased to 5 mg SC QW. If additional glycemic control is needed, the dose
+should be increased in 2.5 mg increments after ≥ 4 weeks on the current dose.
+The maximum dose of Mounjaro is 15 mg SC QW. If a dose is missed, the next
+dose should be administered as soon as possible within 4 days (96 hours) after the
+missed dose. If more than 4 days have passed, the missed dose should be skipped
+and Mounjaro administered on the next regularly scheduled day. In either case,
+then the regular QW dosing schedule should be resumed. The administration day
+may be changed, if needed, as long as at least 3 days (72 hours) passes between
+doses.
+Availability
+Page 1 of 3 - Cigna National Formulary Coverage - Policy:Diabetes – Mounjaro Drug Quantity Management Policy
+– Per Days
+Mounjaro is supplied as single-dose pens in cartons containing four pens each. The
+pens are available in the following strengths:1
+• 2.5 mg/0.5 mL pen
+• 5 mg/0.5 mL pen
+• 7.5 mg/0.5 mL pen
+• 10 mg/0.5 mg pen
+• 12.5 mg/0.5 mL pen
+• 15 mg/0.5 mL pen
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of Mounjaro. There are no overrides to the Per Days
+quantity limits outlined below.
+Drug Quantity Limits
+Product Strength and Form Retail Home Delivery
+Maximum Quantity Maximum Quantity
+Per 28 Days Per 84 Days
+Mounjaro® 2.5 mg/0.5 mL pen 2 mL (4 pens) 6 mL (12 pens)
+(tirzepatide SC 5 mg/0.5 mL pen 2 mL (4 pens) 6 mL (12 pens)
+injection) 7.5 mg/0.5 mL pen 2 mL (4 pens) 6 mL (12 pens)
+10 mg/0.5 mg pen 2 mL (4 pens) 6 mL (12 pens)
+12.5 mg/0.5 mL pen 2 mL (4 pens) 6 mL (12 pens)
+15 mg/0.5 mL pen 2 mL (4 pens) 6 mL (12 pens)
+SC – Subcutaneous.
+Diabetes – Mounjaro Drug Quantity Management Policy – Per Days
+product(s) is(are) covered as medically necessary when the following
+criteria is(are) met. Any other exception is considered not medically
+necessary.
+CRITERIA
+Mounjaro (all strengths)
+No overrides recommended.
+REFERENCES
+1. Mounjaro® subcutaneous injection [prescribing information]. Indianapolis, IN: Lilly; July 2023.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy New policy created to add additional quantity limits to approve ONE 07/17/2024
+claim collectively for ONE glucagon-like peptide-1 (GLP-1) agonist or
+3 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Mounjaro Drug Quantity Management Policy –
+Per Days
+GLP-1/glucose-dependent insulinotropic polypeptide (GIP) agonist
+every 21 days at retail or home delivery. New clinical overrides
+apply to these limits. Existing “Per Days” quantity limits were not
+changed and no overrides apply.
+Early Annual The quantity limit of ONE claim of ONE glucagon-like peptide-1 (GLP- 10/30/2024
+Revision 1) agonist or GLP-1/glucose-dependent insulinotropic polypeptide
+(GIP) agonist to be dispensed every 21 days at retail or home
+delivery was removed from this policy (refer to the “Diabetes –
+Glucagon-Like Peptide-1 Agonists Drug Quantity Management Policy
+– Claim Per Days” document for additional information).
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. ©
+2024 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Mounjaro Drug Quantity Management Policy –
+Per Days

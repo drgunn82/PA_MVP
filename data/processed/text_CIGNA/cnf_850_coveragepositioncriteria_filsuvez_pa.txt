@@ -1,0 +1,217 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Dermatology – Filsuvez Prior Authorization Policy
+• Filsuvez® (birch triterpenes topical gel − Lichtenheldt GmbH/Chiesi)
+REVIEW DATE: 01/29/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Filsuvez is indicated for the treatment of wounds associated with dystrophic
+epidermolysis bullosa (DEB) and junctional epidermolysis bullosa (JEB) in patients
+≥ 6 months of age.1
+Filsuvez is a sterile botanical drug product for topical use and contains birch triterpenes in
+an oil base. Birch triterpenes is a botanical drug substance composed of a mixture of
+pentacyclic triterpenes. Filsuvez should be applied to cleansed wounds with wound dressing
+changes until the wound is healed. If a Filsuvez-treated wound becomes infected, treatment
+should be discontinued until the infection has resolved.
+Disease Overview
+DEB usually presents at birth and is divided into two major types depending on the pattern
+of inheritance: recessive DEB (RDEB) and dominant DEB (DDEB).6 All subtypes of DEB are
+caused by mutations in the gene coding COL7A1 leading to extreme skin fragility.4,6 The
+hallmark of DEB is scarring of blisters, both on the skin and on other mucosal surfaces.4
+JEB is an autosomal recessive disorder characterized by skin blistering through the lamina
+lucida of the cutaneous basement membrane zone.4 The severity varies across the two
+major JEB subtypes, intermediate and severe, with severe disease causing death in the first
+6 to 24 months of life. JEB is less common than DEB. Biallelic mutations in one of the three
+genes encoding the subunit chains of laminin 332 (LAMA3,
+Page 1 of 6 - Cigna National Formulary Coverage - Policy:Dermatology – Filsuvez Prior Authorization Policy
+LAMB3, LAMC2) can cause either JEB subtype, biallelic mutations of COL17A1 can also
+cause intermediate JEB and rarely severe JEB. Rare JEB subtypes are clinically and
+genetically heterogeneous
+and include several syndromic disorders. Wounds in JEB are characterized as having
+excessive granulation tissue, and frequently affect the face and occipital area, diaper area,
+and extremities.6 Wounds may heal with pigment changes or with scarring. Other features
+of JEB include extensive skin and mucous membrane involvement, failure to thrive and
+sepsis in severe subtypes, nail dystrophy and loss, and hair loss in intermediate and
+localized subtypes.
+Clinical Efficacy
+The efficacy of Filsuvez was evaluated in EASE, a Phase III, randomized, double-blind,
+placebo-controlled, multicenter, pivotal study in patients ≥ 21 days of age with inherited
+DEB or JEB (n = 223).2,3 Patients who had undergone stem cell transplant or gene therapy
+for the treatment of inherited epidermolysis bullosa (EB) were excluded. Additionally,
+patients with current and/or former malignancy including basal cell carcinomas and
+squamous cell carcinomas were ineligible to enroll.
+The study consisted of a 90-day, double-blind, randomized, placebo-controlled treatment
+phase (published), followed by a 24-month, open-label, single-arm, follow-up phase (data
+unavailable).3 In the double-blind phase, patients were randomized 1:1 to Filsuvez or
+placebo vehicle gel, both with standard of care wound dressing applied at least once every 4
+days (treatment with Filsuvez or placebo was applied at the same time as the wound
+dressing change). One EB target wound was assigned for each patient. The target wound
+involved loss of the epidermis; extension into the dermis was allowed. The target wound
+size was 10 cm2 to 50 cm2 in surface area and the age of the target wound was ≥ 21 days
+but < 9 months according to the patient’s report. For the assessment of wound closure and
+re-epithelization, the investigator photographed the target wound and all other wounds that
+matched target wound criteria with a system that measures accurately, precisely, and
+reliably to provide high quality imaging and standardized documentation. Post-treatment
+assessments were made within 1 week of wound closure to determine the durability of
+healing.
+The median patient age was 12 years.2 The median wound size was 15.6 cm2 and the
+median wound age was 35.5 days. Most patients had RDEB (78.5%); 9.0% of patients had
+DDEB and 11.0% of patients had JEB. In the DDEB subgroup, there was an imbalance
+between patients receiving Filsuvez (n = 6) and placebo (n = 14). Among patients with
+RDEB, more than 55% had generalized-severe RDEB.
+At Day 45 (± 7 days), 41.3% vs. 28.9% of patients receiving Filsuvez vs. placebo,
+respectively, had complete wound closure (P = 0.013). However, a subgroup analysis by EB
+subtype demonstrated that patients with RDEB (Filsuvez n = 91 and placebo n = 84) were
+the only subgroup to have a statistically significant benefit from Filsuvez; complete target
+wound closure by Day 45 was achieved in 44.0% of wounds treated with Filsuvez vs. 26.2%
+of placebo-treated wounds (relative risk 1.72; 95% confidence interval [CI]: 1.14, 2.59; P
+= 0.008). In patients with JEB (n = 26) and DDEB (n = 20), differences between Filsuvez
+and placebo groups did not reach statistical significance (18.6% vs. 26.7%, respectively, in
+JEB and 50% vs. 50%, respectively, in DDEB), although number of patients in each group
+were small. At Day 90, the difference in time to first target wound closure was not
+significantly different between the Filsuvez and placebo arms (50.5% vs. 43.9%,
+respectively). Differences in total wound burden were not statistically different between
+Filsuvez and placebo. There were improvements in the Itch Man Scale (patients ≥ 4 years of
+4 Pages - Cigna National Formulary Coverage - Policy:Dermatology – Filsuvez Prior Authorization Policy
+age) with both Filsuvez and placebo (a significant difference with Filsuvez was only observed
+at Day 60).2 There was a statistically significant reduction in procedural pain with Filsuvez
+vs. placebo at Days 14 and 90 only, not at other timepoints (Day 30, Day 45, and Day 60).
+In an analysis of dressing change frequency, patients treated with Filsuvez had a reduced
+requirement for daily dressing changes vs. placebo; at Day 90, this equated to one less
+dressing change every 2 weeks with Filsuvez vs. no change with placebo.
+Guidelines
+Filsuvez is not addressed in available guidelines. According to a position statement by the
+European Reference Network for Rare Skin Diseases (2021), wound care is the
+cornerstone of treatment for patients with EB.5 Careful and complete skin and wound
+assessment should be undertaken regularly, at least every 6 months. The healing rate of
+chronic wounds should be closely monitored, by checking wound edges.
+The diagnosis of EB is based on a combination of clinical features, family history, and
+laboratory findings.5 Laboratory techniques include immunofluorescence mapping,
+transmission electron microscopy, and molecular genetic testing. Whenever possible,
+laboratory diagnosis should be performed in a specialized EB center. Genetic testing is the
+gold standard for the diagnosis of EB, since it provides a definitive diagnosis and
+classification of the major EB type and in many cases, the subtype.
+An international consensus best practice guideline on skin and wound care in EB
+[2017] notes that EB is a lifelong disease that requires specialist intervention and
+consideration to minimize complications and improve quality of life.6 Management should
+ideally take place in a specialized center by a multi-disciplinary team. Definitive diagnosis is
+most commonly made from analysis of a skin biopsy using positive immunofluorescence,
+antigenic mapping, and transmission electron microscopy. These key diagnostic tools help
+confirm diagnosis and indicate the particular subtype of EB. Due to the rarity of expertise
+and facilities, diagnosis is generally made using immunofluorescence and antigen mapping.
+Some laboratories are moving towards molecular diagnosis from exome sequencing of a
+panel of known skin fragility genes. Experienced clinicians can often make a provisional
+diagnosis on clinical observations, but a definitive diagnosis will always be required.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Filsuvez. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Filsuvez as well as the
+monitoring required for adverse events and long-term efficacy, approval requires Filsuvez to
+be prescribed by or in consultation with a physician who specializes in the condition being
+treated.
+Documentation: Documentation is required for use of Filsuvez as noted in the criteria as
+[documentation required]. Documentation may include, but is not limited to, chart notes,
+prescription claims records, prescription receipts, and/or other information.
+• Filsuvez® (birch triterpenes topical gel (Lichtenheldt GmbH/Chiesi)
+is(are) covered as medically necessary when the following criteria is(are) met for
+FDA-approved indication(s) or other uses with supportive evidence (if applicable):
+4 Pages - Cigna National Formulary Coverage - Policy:Dermatology – Filsuvez Prior Authorization Policy
+FDA-Approved Indication
+1. Dystrophic Epidermolysis Bullosa. Approve for the duration noted below if the
+patient meets ONE of the following (A or B):
+Note: For new wound(s), the patient is directed to Initial Therapy criteria. If the patient
+is continuing to treat the same wound(s), the patient is directed to criteria for Patient
+Currently Receiving Filsuvez on Previously Treated Wound(s).
+A) Initial Therapy: Approve for 3 months if the patient meets ALL of the following (i, ii,
+and iii):
+i. Patient is ≥ 6 months of age; AND
+ii. Patient meets ALL of the following (a, b, and c):
+a) Patient has at least one clinical feature of dystrophic epidermolysis bullosa
+[documentation required]; AND
+Note: Examples of clinical features of dystrophic epidermolysis bullosa
+include but are not limited to blistering, wounds, and scarring.
+b) Patient has one or more open wound(s) that will be treated (i.e., “target
+wound[s]); AND
+c) According to the prescriber, target wound(s) meet ALL of the following [(1),
+(2), (3), and (4)]:
+(1)Target wound(s) is clean in appearance and does not appear to be
+infected; AND
+(2)Target wound(s) is 10 cm2 to 50 cm2; AND
+(3)Target wound(s) is ≥ 21 days and < 9 months old; AND
+(4)Squamous cell and/or basal cell carcinoma has been ruled out for the
+target wound(s); AND
+iii. The medication is prescribed by or in consultation with a dermatologist or wound
+care specialist; OR
+B) Patient is Currently Receiving Filsuvez on Previously Treated Wound(s): Approve
+for 3 months if the patient meets ALL of the following (i, ii, and iii):
+Note: If the patient is treating a new wound(s) not previously treated with Filsuvez
+or a reopened recurrent wound(s), then refer to Initial Therapy criteria above.
+i. According to the prescriber, the target wound(s) remains open; AND
+ii. According to the prescriber, the target wound(s) has decreased in size from
+baseline; AND
+iii. The medication is prescribed by or in consultation with a dermatologist or wound
+care specialist.
+CONDITIONS NOT COVERED
+• Filsuvez® (birch triterpenes topical gel (Lichtenheldt GmbH/Chiesi)
+is(are) considered experimental, investigational, or unproven for ANY other use(s)
+including the following (this list may not be all inclusive; criteria will be updated
+as new published data are available):
+1. Combination use with Vyjuvek (beremagene geperpavec-svdt topical gel).
+Combination use of Vyjuvek and Filsuvez have not been studied. Patients who had
+undergone gene therapy for the treatment of inherited EB were excluded from the
+pivotal EASE trial with Filsuvez.2
+4 Pages - Cigna National Formulary Coverage - Policy:Dermatology – Filsuvez Prior Authorization Policy
+2. Junctional Epidermolysis Bullosa (JEB). Efficacy has not proven to be better than
+placebo. In the pivotal EASE trial, patients with JEB comprised 11% of the total
+population (n = 26).2 At Day 45 (± 7 days), complete wound closure in patients with JEB
+was greater in patients who received placebo vs. Filsuvez (26.7% vs. 18.6%).
+REFERENCES
+1. Filsuvez® topical gel [prescribing information]. Wahlstedt, Germany: Lichtenheldt
+GmbH/Chiesi; December 2023.
+2. Kern JS, Sprecher E, Fernandez MF, et al. Efficacy and safety of Olegel-S10 (birch
+triterpenes) for epidermolysis bullosa: results from the phase III randomized double-
+blind phase of the EASE study. Br J Dermatol. 2023; 188:12-21.
+3. Kern JS, Schwieger-Briel A, Lowe S, et al. Olegel-S10 phase 3 study “EASE” for
+epidermolysis bullosa: Study design and rationale. Trials. 2019; 20:350.
+4. Has C, Bauer JW, Bolling MC et al. Consensus and reclassification of inherited
+epidermolysis bullosa and other disorders with skin fragility. Br J Dermatol. 2020;
+183:614-627.
+5. Has C, El Hachem M, Buckova H, et al. Practical management of epidermolysis bullosa:
+consensus clinical position statement from the European Reference Network for Rare
+Skin Diseases. J Eur Acad Derm Venereol. 2021; 35:2349-2360.
+6. Denyer J, Pillay E, Clapham J. Best practice guidelines for skin and wound care in
+epidermolysis bullosa. An International Consensus. Wounds International. 2017.
+Available at: https://af13d689-15eb-4199-8733-
+e91a7bb8ae3f.usrfiles.com/ugd/af13d6_01ed147ab87e49c584c20a917c47f19f.pdf.
+Accessed on January 14, 2025.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 01/21/2024
+Annual No criteria changes 01/29/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. ©
+2024 The Cigna Group.
+4 Pages - Cigna National Formulary Coverage - Policy:Dermatology – Filsuvez Prior Authorization Policy

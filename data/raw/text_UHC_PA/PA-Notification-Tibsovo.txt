@@ -1,0 +1,193 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1257-9
+Program Prior Authorization/Notification
+Medication Tibsovo® (ivosidenib)
+P&T Approval Date 9/2018, 6/2019, 6/2020, 6/2021, 10/2021, 10/2022, 10/2023, 1/2024,
+1/2025
+Effective Date 4/1/2025
+1. Background:
+Tibsovo® (ivosidenib) is an isocitrate dehydrogenase-1 inhibitor indicated for the treatment of
+adult patients with a susceptible isocitrate dehydrogenase-1 (IDH1) mutation with relapsed or
+refractory acute myeloid leukemia (AML) or in combination with azacitidine or as monotherapy
+for the treatment of newly diagnosed AML in adults who are > 75 years old, or who have
+comorbidities that preclude the use of intensive induction chemotherapy. Tibsovo is indicated for
+the treatment of adult patients with relapsed or refractory myelodysplastic syndromes (MDS) with
+a susceptible IDH1 mutation. Tibsovo is also indicated in adult patients with a susceptible IDH1
+mutation with locally advanced or metastatic cholangiocarcinoma who have previously been
+treated.
+The National Cancer Comprehensive Network (NCCN) guideline also recommends the use of
+Tibsovo in susceptible IDH1 mutation-positive AML patients who are 60 to 74 years old and
+receiving Tibsovo as treatment induction when not a candidate for intensive remission induction
+therapy or declines, or as post-induction therapy following response to previous lower intensity
+therapy with the same regimen. The NCCN guidelines also recommend the use of Tibsovo in
+IDH1 mutation-positive patients with either conventional (grades 1-3) or dedifferentiated
+chondrosarcoma, recurrent or progressive IDH mutant 1p19q codeleted oligodendroglioma WHO
+Grade 2 or 3, and recurrent or progressive IDH-mutant astrocytoma WHO Grade 2, 3, or 4.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Tibsovo will be approved based on the following criterion:
+a. Member is less than 19 years of age
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services Inc.
+1
+B. Acute Myeloid Leukemia (AML)
+1. Initial Authorization
+a. Tibsovo will be approved based on all of the following criteria:
+(1) Diagnosis of acute myeloid leukemia (AML)
+-AND-
+(2) AML is IDH1 mutation-positive
+-AND-
+(3) One of the following:
+(a) Disease is relapsed or refractory
+-OR-
+(b) Both of the following:
+i. New diagnosis of AML
+-AND-
+ii. One of the following:
+• Patient ≥ 75 years old
+• Patient has comorbidities that preclude the use of intensive induction
+chemotherapy
+• Patient is ≥ 60 years old and not a candidate for or declines intensive
+induction therapy
+• Patient is ≥ 60 years old and receiving post-induction therapy
+following response to previous lower intensity therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tibsovo will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tibsovo therapy
+Authorization will be issued for 12 months.
+C. Bone Cancer
+1. Initial Authorization
+a. Tibsovo will be approved based on all of the following criteria:
+© 2025 UnitedHealthcare Services Inc.
+2
+(1) Diagnosis of chondrosarcoma
+-AND-
+(2) Susceptible IDH1 mutation-positive
+-AND-
+(3) Disease is one of the following:
+(a) Conventional (grades 1-3)
+(b) Dedifferentiated
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tibsovo will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tibsovo therapy
+Authorization will be issued for 12 months.
+D. Biliary Tract Cancer
+1. Initial Authorization
+a. Tibsovo will be approved based on all of the following criteria:
+(1) Diagnosis of cholangiocarcinoma
+-AND-
+(2) Susceptible IDH1 mutation-positive
+-AND-
+(3) Disease is one of the following:
+(a) Locally advanced
+(b) Unresectable
+(c) Metastatic
+-AND-
+(4) Disease has progressed on or after systemic treatment
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services Inc.
+3
+2. Reauthorization
+a. Tibsovo will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tibsovo therapy
+Authorization will be issued for 12 months.
+E. Oligodendroglioma
+1. Initial Authorization
+a. Tibsovo will be approved based on all of the following criteria:
+(1) Diagnosis of oligodendroglioma
+-AND-
+(2) Disease is recurrent or progressive
+-AND-
+(3) Presence of both of the following:
+(a) IDH1 mutation
+(b) 1p19q codeletion
+-AND-
+(4) Disease is WHO grade 2 or 3
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tibsovo will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tibsovo therapy
+Authorization will be issued for 12 months.
+F. Astrocytoma
+1. Initial Authorization
+a. Tibsovo will be approved based on all of the following criteria:
+(1) Diagnosis of astrocytoma
+-AND-
+© 2025 UnitedHealthcare Services Inc.
+4
+(2) Disease is recurrent or progressive
+-AND-
+(3) Presence of IDH1 mutation
+-AND-
+(4) Disease is WHO grade 2, 3, or 4
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tibsovo will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tibsovo therapy
+Authorization will be issued for 12 months.
+G. Myelodysplastic Syndromes (MDS)
+1. Initial Authorization
+a. Tibsovo will be approved based on all of the following criteria:
+(1) Diagnosis of myelodysplastic syndrome (MDS)
+-AND-
+(2) Disease is relapsed or refractory
+-AND-
+(3) Presence of IDH1 mutation
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tibsovo will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tibsovo therapy
+Authorization will be issued for 12 months.
+H. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+© 2025 UnitedHealthcare Services Inc.
+5
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category of
+Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Tibsovo [package insert]. Boston, MA: Servier Pharmaceuticals LLC; October 2023.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+www.nccn.org. Accessed November 25, 2024.
+Program Prior Authorization/Notification – Tibsovo (ivosidenib)
+Change Control
+9/2018 New program.
+6/2019 Updated background and criteria to include new indication for newly
+diagnosed AML in patients ≥ 75 years of age or with comorbidities that
+preclude intensive induction chemotherapy.
+6/2020 Annual review. Added general NCCN recommendations for use
+criteria. Updated references.
+6/2021 Annual review. Added criteria per NCCN guidelines for
+chondrosarcoma and cholangiocarcinoma. Updated reference.
+10/2021 Updated background and criteria for AML biliary tract cancer to align
+with both label and NCCN guidelines. Updated references.
+10/2022 Annual review. Added state mandate footnote. Updated background
+and criteria to more closely align with the NCCN guidelines. Updated
+references.
+10/2023 Annual review. Added criteria for oligodendroglioma and astrocytoma
+per NCCN guidelines. Updated references.
+1/2024 Updated background and criteria to include new indication for relapsed
+or refractory MDS with a susceptible IDH1 mutation. Updated
+references.
+1/2025 Annual review. Updated criteria for oligodendroglioma and
+astrocytoma per NCCN guidelines. Updated references.
+© 2025 UnitedHealthcare Services Inc.
+6

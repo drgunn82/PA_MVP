@@ -1,0 +1,111 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER RX
+POLICY: Cushing’s Disease – Isturisa Drug Quantity Management Policy – Per Rx
+• Isturisa® (osilodrostat tablets − Recordati Rare Disease)
+REVIEW DATE: 05/07/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Isturisa, a cortisol synthesis inhibitor, is indicated for the treatment of
+endogenous hypercortisolemia in adults with Cushing’s syndrome for whom
+surgery is not an option or has not been curative.1
+Dosing
+The recommended initial dose of Isturisa is 2 mg orally twice daily (BID).1 The
+dose is titrated by 1 mg to 2 mg BID no more frequently than every 2 weeks based
+on the rate of cortisol changes, individual tolerability, and improvement in signs
+and symptoms of Cushing’s disease. If a patient tolerates a dose of 10 mg BID and
+continues to have elevated 24-hour urine free cortisol levels above upper normal
+limit, the dose can be titrated further by 5 mg BID every 2 weeks. The
+maintenance dose of Isturisa is individualized and determined by titration based on
+cortisol levels and patient’s signs and symptoms. In clinical trials, the maintenance
+Page 1 of 3 - Cigna National Formulary Coverage - Policy:Cushing’s Disease – Isturisa Drug Quantity Management
+Policy – Per Rx
+dose varied between 2 mg and 7 mg BID. The maximum recommended
+maintenance dose of Isturisa is 30 mg BID.
+Lower starting doses are recommended in patients with moderate (Child-Pugh B) or
+severe (Child-Pugh C) hepatic impairment.1 Dose reductions are recommended
+when Isturisa is used with a strong cytochrome P450 (CYP)3A inhibitor. The dose
+of Isturisa may need to be increased if used with strong inducers of CYP3A4 and
+CYP2B6. Dose modifications of Isturisa are guided by cortisol concentration and the
+patient’s signs and symptoms.
+Availability
+Isturisa is available as 1 mg, 5 mg, and 10 mg tablets.1 The tablets are supplied in
+cartons containing three blister packs (60 tablets) or one blister pack (20 tablets);
+each blister pack contains 20 tablets.
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of Isturisa. If the Drug Quantity Management rule is
+not met for the requested medication at the point of service, coverage will be
+determined by the Criteria below. All approvals are provided for 1 year in duration.
+Drug Quantity Limits
+Product Strength and Dose Retail Home Delivery
+Form Maximum Quantity Maximum Quantity
+per Rx Per Rx
+Isturisa® 1 mg tablets 240 tablets 720 tablets
+(osilodrostat 5 mg tablets 60 tablets 180 tablets
+tablets) 10 mg tablets 180 tablets 540 tablets
+Exceptions to the quantity limits listed above are covered as medically
+necessary when the following criteria are met. Any other exception is
+considered not medically necessary.
+CRITERIA
+Isturisa 1 mg tablets
+1. If the patient is taking 6 mg twice daily, approve 360 tablets per dispensing at
+retail or 1,080 tablets per dispensing at home delivery.
+2. If the patient is taking 7 mg twice daily, approve 420 tablets per dispensing at
+retail or 1,260 tablets per dispensing at home delivery.
+3. If the patient is taking 8 mg twice daily, approve 480 tablets per dispensing at
+retail or 1,440 tablets per dispensing at home delivery.
+4. If the patient is taking 9 mg twice daily, approve 540 tablets per dispensing at
+retail or 1,620 tablets per dispensing at home delivery.
+3 Pages - Cigna National Formulary Coverage - Policy:Cushing’s Disease – Isturisa Drug Quantity Management
+Policy – Per Rx
+Isturisa 5 mg tablets
+1. If the patient is taking 15 mg twice daily, approve 180 tablets per dispensing at
+retail or 540 per dispensing at home delivery.
+2. If the patient is taking 25 mg twice daily, approve 300 tablets per dispensing at
+retail or 900 tablets per dispensing at home delivery.
+Isturisa 10 mg tablets
+No overrides recommended.
+REFERENCES
+1. Isturisa® tablets [prescribing information]. Lebanon, NJ: Recordati Rare Disease; November
+2023.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Policy was updated to reflect the existing quantity limits when a 05/16/2023
+Revision product is obtained via home delivery.
+No criteria changes.
+Annual No criteria changes. 05/15/2024
+Revision
+Annual No criteria changes. 05/07/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Cushing’s Disease – Isturisa Drug Quantity Management
+Policy – Per Rx

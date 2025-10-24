@@ -1,0 +1,60 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1431-2
+Program Prior Authorization/Notification
+Medication Ogsiveo™ (nirogacestat)
+P&T Approval Date 1/2025
+Effective Date 4/1/2025
+1. Background:
+Ogsiveo™ (nirogacestat) is a gamma secretase inhibitor indicated for adult patients with
+progressing desmoid tumors who require systemic treatment.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Ogsiveo will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Desmoid Tumors
+1. Initial Authorization
+a. Ogsiveo will be approved based on all of the following criteria:
+(1) Diagnosis of desmoid tumor
+-AND-
+(2) Disease is progressive
+-AND-
+(3) Patient requires systemic treatment
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services, Inc.
+1
+2. Reauthorization Criteria
+a. Ogsiveo will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Ogsiveo therapy
+Authorization will be issued for 12 months.
+C. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category of
+Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits and/or Step Therapy may be in place.
+4. References:
+1. Ogsiveo [package insert]. Stamford, CT: SpringWorks Therapeutics, Inc.; April 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+https://www.nccn.org/professionals/drug_compendium/content/. Accessed November 27, 2024.
+Program Prior Authorization/Notification - Ogsiveo (nirogacestat)
+Change Control
+1/2024 New program.
+1/2025 Annual review with no changes to coverage criteria. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+2

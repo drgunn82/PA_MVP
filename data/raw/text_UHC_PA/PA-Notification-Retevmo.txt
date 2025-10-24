@@ -1,0 +1,160 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1320-6
+Program Prior Authorization/Notification
+Medication Retevmo® (selpercatinib)
+P&T Approval Date 7/2020, 7/2021, 7/2022, 11/2022, 11/2023, 11/2024
+Effective Date 2/1/2025
+1. Background:
+Retevmo (selpercatinib) is a kinase inhibitor indicated for the treatment of adult patients with
+locally advanced or metastatic rearranged during transfection (RET) fusion-positive non-small
+cell lung cancer (NSCLC). Retevmo is also indicated, with approvals under accelerated approval,
+for the treatment of adult and pediatric patients 2 years of age and older with: advanced or
+metastatic medullary thyroid cancer (MTC) with a RET mutation, as detected by an FDA-
+approved test, who require systemic therapy; advanced or metastatic thyroid cancer with a RET
+gene fusion, as detected by an FDA-approved test, who require systemic therapy and who are
+radioactive iodine-refractory (if radioactive iodine is appropriate); and locally advanced or
+metastatic solid tumors with a RET gene fusion, as detected by an FDA-approved test, that have
+progressed on or following prior systemic treatment or who have no satisfactory alternative
+treatment options.1
+Indications approved under accelerated approval are based on overall response rate and duration of
+response. Continued approval for these indications may be contingent upon verification and
+description of clinical benefit in confirmatory trial(s).
+The National Cancer Comprehensive Network (NCCN) guideline also recommends use of
+Retevmo as single-agent therapy for RET fusion target for the treatment of the following
+histiocyctic neoplasms: Langerhans Cell Histiocytosis, Erdheim-Chester disease, and Rosai-
+Dorfman disease.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of 19
+years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or under
+some circumstances. Some states also mandate usage of other Compendium references. Where such
+mandates apply, they supersede language in the benefit document or in the notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Retevmo will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+1
+B. Non-Small Cell Lung Cancer (NSCLC)
+1. Initial Authorization
+a. Retevmo will be approved based on all of the following criteria:
+(1) Diagnosis of non-small cell lung cancer (NSCLC)
+-AND-
+(2) Disease is one of the following:
+(a) Recurrent
+(b) Advanced
+(c) Metastatic
+-AND-
+(3) Presence of RET gene fusion-positive or RET rearrangement positive tumors
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Retevmo will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Retevmo
+therapy
+Authorization will be issued for 12 months.
+C. Thyroid Cancer
+1. Initial Authorization
+a. Retevmo will be approved based on one of the following criteria:
+(1) All of the following:
+(a) Diagnosis of medullary thyroid cancer (MTC)
+-AND-
+(b) Disease is one of the following:
+(i) Advanced
+(ii) Metastatic
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+2
+(c) Disease has presence of RET gene mutation
+-AND-
+(d) Disease requires treatment with systemic therapy
+-OR-
+(2) All of the following:
+(a) Diagnosis of thyroid cancer
+-AND-
+(b) Disease is one of the following:
+(i) Advanced
+(ii) Metastatic
+-AND-
+(c) Disease is RET gene fusion-positive
+-AND-
+(d) Disease requires treatment with systemic therapy
+-AND-
+(e) One of the following:
+(i) Patient is radioactive iodine-refractory
+(ii) Treatment with radioactive iodine is not appropriate
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Retevmo will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Retevmo
+therapy
+Authorization will be issued for 12 months.
+D. Histiocytic Neoplasms
+1. Initial Authorization
+a. Retevmo will be approved based on all of the following criteria:
+© 2024 UnitedHealthcare Services, Inc.
+3
+(1) All of the following:
+(a) Diagnosis of one of the following histiocytic neoplasms:
+i. Langerhans Cell Histiocytosis
+ii. Erdheim-Chester disease
+iii. Rosai-Dorfman disease
+-AND-
+(b) Used for RET fusion target as a single agent
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Retevmo will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Retevmo
+therapy
+Authorization will be issued for 12 months.
+E. Solid Tumors
+1. Initial Authorization
+a. Retevmo will be approved based on both of the following criteria:
+(1) Presence of RET gene fusion-positive solid tumor
+-AND-
+(2) Disease is one of the following:
+(a) Recurrent
+(b) Advanced
+(c) Metastatic
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Retevmo will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Retevmo
+therapy
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+4
+F. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Retevmo [package insert]. Indianapolis, IN: Eli Lilly and Company, May 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+www.nccn.org. Accessed October 3, 2024.
+Program Prior Authorization/Notification – Retevmo® (selpercatinib)
+Change Control
+7/2020 New program.
+7/2021 Annual review. Updated coverage criteria in accordance with NCCN
+guidelines.
+7/2022 Annual review. Added state mandate with no other changes to coverage
+criteria. References updated.
+11/2022 Updated background with traditional approval for locally advanced or
+metastatic NSCLC with a RET gene fusion per prescribing information.
+Updated background and added coverage for solid tumors with a RET
+gene fusion per prescribing information. Updated references.
+11/2023 Annual review with no changes to clinical criteria. Updated reference.
+11/2024 Annual review with no changes to clinical criteria. Updated background
+and references.
+© 2024 UnitedHealthcare Services, Inc.
+5

@@ -1,0 +1,425 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Inflammatory Conditions – Simponi Subcutaneous Prior Authorization
+Policy
+• Simponi® (golimumab subcutaneous injection – Janssen)
+REVIEW DATE: 06/04/2025; selected revision 07/23/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Simponi subcutaneous injection, a tumor necrosis factor inhibitor (TNFi), is
+approved for the following uses:1
+• Ankylosing spondylitis, in adults with active disease either alone or in
+combination with methotrexate or other non-biologic disease-modifying
+antirheumatic drugs (DMARDs).
+• Psoriatic arthritis, in adults with active disease either alone or in
+combination with methotrexate or other non-biologic DMARDs.
+• Rheumatoid arthritis, in adults with moderate to severe active disease in
+combination with methotrexate.
+• Ulcerative colitis, for inducing and maintaining clinical response, improving
+endoscopic appearance of the mucosa during induction, inducing clinical
+remission, and achieving and sustaining clinical remission in induction
+responders in adults with moderate to severe disease who have demonstrated
+Page 1 of 9 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Simponi Subcutaneous Prior
+Authorization Policy
+corticosteroid dependence or who have had an inadequate response to or
+failed to tolerate oral aminosalicylates, oral corticosteroids, azathioprine, or 6-
+mercaptopurine.
+Guidelines
+TNFis are featured prominently in guidelines for treatment of inflammatory
+conditions.
+• Psoriatic Arthritis: Guidelines from American College of Rheumatology
+(ACR) [2019] recommend TNFis over other biologics for use in treatment-
+naïve patients and in those who were previously treated with an oral
+therapy.3
+• Rheumatoid Arthritis: Guidelines from ACR (2021) recommend addition of
+a biologic or a targeted synthetic DMARD for a patient taking the maximum
+tolerated dose of methotrexate who is not at target.4
+• Spondyloarthritis: Guidelines for ankylosing spondylitis and non-
+radiographic axial spondylitis are published by the ACR/Spondylitis
+Association of America/Spondyloarthritis Research and Treatment Network
+(2019).2 TNFis are recommended as the initial biologic. In those who are
+secondary non-responders to a TNFi, a second TNFi is recommended over
+switching out of the class.
+• Ulcerative Colitis: The AGA (2024) and the ACG (2025) have clinical
+practice guidelines on the management of moderate to severe UC.5,8 In
+moderate to severe disease, systemic corticosteroids or advanced therapies
+may be utilized for induction of remission. Advanced therapies recommended
+include TNF inhibitors, Entyvio® (vedolizumab), interleukin (IL)-23 inhibitors,
+IL-12/23 inhibitors, sphingosine-1-phosphate (S1P) receptor modulators, and
+Janus kinase (JAK) inhibitors. If steroids are utilized for induction, efforts
+should be made to introduce steroid-sparing agents for maintenance therapy.
+Of note, guidelines state corticosteroids may be avoided entirely when other
+effective induction strategies are planned.8 Both guidelines also recommend
+that any drug that effectively treats induction should be continued for
+maintenance.5,8
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Simponi
+Subcutaneous. All approvals are provided for the duration listed below. In cases
+where the approval is authorized in months, 1 month is equal to 30 days. Because
+of the specialized skills required for evaluation and diagnosis of patients treated
+with Simponi Subcutaneous as well as the monitoring required for adverse events
+and long-term efficacy, initial approval requires Simponi Subcutaneous to be
+prescribed by or in consultation with a physician who specializes in the condition
+being treated.
+• Simponi® (golimumab subcutaneous injection – Janssen)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+Page 2 of 9 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Simponi Subcutaneous Prior
+Authorization Policy
+FDA-Approved Indications
+1. Ankylosing Spondylitis. Approve for the duration noted if the patient meets
+ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months the patient meets BOTH of the
+following (i and ii):
+i. Patient is ≥ 18 years of age; AND
+ii. The medication is prescribed by or in consultation with a rheumatologist;
+OR
+B) Patient is Currently Receiving Simponi (Subcutaneous or Aria). Approve for 1
+year if the patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating
+Simponi); OR
+Note: Examples of objective measures include Ankylosing Spondylitis
+Disease Activity Score (ASDAS), Ankylosing Spondylitis Quality of Life
+Scale (ASQoL), Bath Ankylosing Spondylitis Disease Activity Index
+(BASDAI), Bath Ankylosing Spondylitis Functional Index (BASFI), Bath
+Ankylosing Spondylitis Global Score (BAS-G), Bath Ankylosing
+Spondylitis Metrology Index (BASMI), Dougados Functional Index
+(DFI), Health Assessment Questionnaire for the Spondylarthropathies
+(HAQ-S), and/or serum markers (e.g., C-reactive protein, erythrocyte
+sedimentation rate).
+b) Compared with baseline (prior to initiating Simponi), patient
+experienced an improvement in at least one symptom, such as
+decreased pain or stiffness, or improvement in function or activities of
+daily living.
+2. Psoriatic Arthritis. Approve for the duration noted if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient is ≥ 18 years of age; AND
+ii. The medication is prescribed by or in consultation with a rheumatologist
+or a dermatologist; OR
+B) Patient is Currently Receiving Simponi (Subcutaneous or Aria). Approve for 1
+year if the patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+Page 3 of 9 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Simponi Subcutaneous Prior
+Authorization Policy
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating
+Simponi); OR
+Note: Examples of standardized measures of disease activity include
+Disease Activity Index for Psoriatic Arthritis (DAPSA), Composite
+Psoriatic Disease Activity Index (CPDAI), Psoriatic Arthritis Disease
+Activity Score (PsA DAS), Grace Index, Leeds Enthesitis Score (LEI),
+Spondyloarthritis Consortium of Canada (SPARCC) enthesitis score,
+Leeds Dactylitis Instrument Score, Minimal Disease Activity (MDA),
+Psoriatic Arthritis Impact of Disease (PsAID-12), and/or serum
+markers (e.g., C-reactive protein, erythrocyte sedimentation rate).
+b) Compared with baseline (prior to initiating Simponi), patient
+experienced an improvement in at least one symptom, such as less
+joint pain, morning stiffness, or fatigue; improved function or activities
+of daily living; decreased soft tissue swelling in joints or tendon
+sheaths.
+3. Rheumatoid Arthritis. Approve for the duration noted if the patient meets ONE
+of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the
+following (i, ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has tried one conventional synthetic disease-modifying
+antirheumatic drug (DMARD) for at least 3 months; AND
+Note: Examples of conventional synthetic DMARDs include methotrexate
+(oral or injectable), leflunomide, hydroxychloroquine, and sulfasalazine.
+An exception to the requirement for a trial of one conventional synthetic
+DMARD can be made if the patient has already had a 3-month trial with at
+least one biologic other than the requested drug. A biosimilar of the
+requested biologic does not count. Refer to Appendix for examples of
+biologics used for Rheumatoid Arthritis. A patient who has already tried a
+biologic for rheumatoid arthritis is not required to “step back” and try a
+conventional synthetic DMARD.
+iii. The medication is prescribed by or in consultation with a rheumatologist;
+OR
+B) Patient is Currently Receiving Simponi (Subcutaneous or Aria). Approve for 1
+year if the patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) Patient experienced a beneficial clinical response when assessed by at
+least one objective measure; OR
+Note: Examples of standardized and validated measures of disease
+activity include Clinical Disease Activity Index (CDAI), Disease Activity
+Score (DAS) 28 using erythrocyte sedimentation rate (ESR) or C-
+reactive protein (CRP), Patient Activity Scale (PAS)-II, Rapid
+Page 4 of 9 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Simponi Subcutaneous Prior
+Authorization Policy
+Assessment of Patient Index Data 3 (RAPID-3), and/or Simplified
+Disease Activity Index (SDAI).
+b) Patient experienced an improvement in at least one symptom, such as
+decreased joint pain, morning stiffness, or fatigue; improved function
+or activities of daily living; decreased soft tissue swelling in joints or
+tendon sheaths.
+4. Ulcerative Colitis. Approve for the duration noted if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient is ≥ 18 years of age; AND
+ii. The medication is prescribed by or in consultation with a
+gastroenterologist; OR
+B) Patient is Currently Receiving Simponi (Subcutaneous or Aria). Approve for 1
+year if the patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating
+Simponi); OR
+Note: Examples of assessment for inflammatory response include
+fecal markers (e.g., fecal calprotectin), serum markers (e.g., C-
+reactive protein), endoscopic assessment, and/or reduced dose of
+corticosteroids.
+b) Compared with baseline (prior to initiating Simponi), patient
+experienced an improvement in at least one symptom, such as
+decreased pain, fatigue, stool frequency, and/or decreased rectal
+bleeding.
+Other Uses with Supportive Evidence
+5. Spondyloarthritis, Other Subtypes. Approve for the duration noted if the
+patient meets ONE of the following (A or B):
+Note: This includes undifferentiated arthritis, non-radiographic axial
+spondyloarthritis, and reactive arthritis (Reiter’s disease). For Ankylosing
+Spondylitis or Psoriatic Arthritis, refer to the respective criteria under FDA-
+approved indications.
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the
+following (i, ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient meets BOTH of the following [(1) and (2)]:
+(1) Patient has arthritis primarily in the knees, ankles, elbows,
+wrists, hands, and/or feet; AND
+Page 5 of 9 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Simponi Subcutaneous Prior
+Authorization Policy
+(2) Patient has tried at least one conventional synthetic disease-
+modifying antirheumatic drug (DMARD); OR
+Note: Examples of conventional synthetic DMARDs include
+methotrexate, leflunomide, and sulfasalazine.
+b) Patient has axial spondyloarthritis AND has objective signs of
+inflammation, defined as at least ONE of the following [(1) or (2)]:
+(1) C-reactive protein elevated beyond the upper limit of normal for
+the reporting laboratory; OR
+(2) Sacroiliitis reported on magnetic resonance imaging; AND
+iii. The medication is prescribed by or in consultation with a rheumatologist
+OR
+B) Patient is Currently Receiving Simponi (Subcutaneous or Aria). Approve for 1
+year if the patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating
+Simponi); OR
+Note: Examples of objective measures include Ankylosing Spondylitis
+Disease Activity Score (ASDAS) and/or serum markers (e.g., C-
+reactive protein, erythrocyte sedimentation rate).
+b) Compared with baseline (prior to initiating Simponi), patient
+experienced an improvement in at least one symptom, such as
+decreased pain or stiffness, or improvement in function or activities of
+daily living.
+CONDITIONS NOT COVERED
+• Simponi® (golimumab subcutaneous injection – Janssen)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Concurrent Use with a Biologic or with a Targeted Synthetic Oral Small
+Molecule Drug. This medication should not be administered in combination
+with another biologic or with a targeted synthetic oral small molecule drug used
+for an inflammatory condition (see Appendix for examples). Combination
+therapy is generally not recommended due to a potentially higher rate of
+adverse events and lack of controlled clinical data supporting additive efficacy.
+Note: This does NOT exclude the use of conventional synthetic DMARDs (e.g.,
+methotrexate, leflunomide, hydroxychloroquine, or sulfasalazine) in combination
+with this medication.
+2. Plaque Psoriasis without Psoriatic Arthritis. Simponi Subcutaneous is
+indicated in patients with psoriatic arthritis, but it has not been evaluated and it
+Page 6 of 9 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Simponi Subcutaneous Prior
+Authorization Policy
+is not indicated in patients with plaque psoriasis without psoriatic arthritis.
+Prospective, controlled trials are needed to determine safety and efficacy in
+plaque psoriasis. Other TNFis (e.g., etanercept, adalimumab, and infliximab
+products, Cimzia® [certolizumab pegol subcutaneous injection]) are indicated for
+the treatment of plaque psoriasis.
+REFERENCES
+1. Simponi® subcutaneous injection [prescribing information]. Horsham, PA: Janssen; April 2025.
+2. Ward MM, Deodhar A, Gensler LS, et al. 2019 update of the American College of
+Rheumatology/Spondylitis Association of America/Spondyloarthritis Research and Treatment
+Network recommendations for the treatment of ankylosing spondylitis and nonradiographic axial
+spondyloarthritis. Arthritis Rheumatol. 2019;71(10):1599-1613.
+3. Singh JA, Guyatt G, Ogdie A, et al. 2018 American College of Rheumatology/National Psoriasis
+Foundation Guideline for . treatment of psoriatic arthritis. Arthritis Care Res (Hoboken).
+2019;71(1):2-29.
+4. Fraenkel L, Bathon JM, England BR, et al. 2021 American College of Rheumatology guideline for
+the treatment of rheumatoid arthritis. Arthritis Rheumatol. 2021;73(7):1108-1123.
+5. Singh S, Loftus EV Jr, Limketkai BN, et al. AGA Living Clinical Practice Guideline on
+Pharmacological Management of Moderate-to-Severe Ulcerative Colitis. Gastroenterology. 2024
+Dec;167(7):1307-1343.
+6. Furst DE, Keystone EC, So AK, et al. Updated consensus statement on biological agents for the .
+atment of rheumatic diseases, 2012. Ann Rheum Dis. 2013;72 Suppl 2:ii2-34.
+7. Kavanaugh A, McInnes I, Mease P, et al. Golimumab, a new human tumor necrosis factor alpha
+antibody, administered every four weeks as a subcutaneous injection in psoriatic arthritis: Twenty-
+four-week efficacy and safety results of a randomized, placebo-controlled study. Arthritis Rheum.
+2009;60:976-986.
+8. Rubin D, Ananthakrishnan A, Siegel C. ACG Clinical Guideline Update: Ulcerative Colitis in Adults.
+Am J of Gastroenterol. 2025 June;120(6):1187-1224.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 05/10/2023
+Revision
+Annual No criteria changes. 06/12/2024
+Revision
+Selected Ankylosing Spondylitis: For initial approvals, a requirement that 09/11/2024
+Revision the patient is ≥ 18 years of age was added.
+Psoriatic Arthritis: For initial approvals, a requirement that the
+patient is ≥ 18 years of age was added.
+Rheumatoid Arthritis: For initial approvals, a requirement that
+the patient is ≥ 18 years of age was added.
+Spondyloarthritis, Other Subtypes: For initial approvals, a
+requirement that the patient is ≥ 18 years of age was added.
+Conditions Not Covered: Concurrent use with a Biologic or with a
+Targeted Synthetic Oral Small Molecule Drug was changed to as
+listed (previously oral small molecule drug was listed as Disease-
+Modifying Antirheumatic Drug).
+Annual No criteria changes. 06/04/2025
+Revision
+Selected Ulcerative Colitis: For initial therapy, removed the following 07/23/2025
+Revision options of approval: (1) the patient has tried one systemic therapy;
+(2) the patient has pouchitis and tried an antibiotic, probiotic,
+corticosteroid enema, or mesalamine enema.
+Page 7 of 9 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Simponi Subcutaneous Prior
+Authorization Policy
+APPENDIX
+Mechanism of Action Examples of Indications*
+Biologics
+Adalimumab SC Products (Humira®, Inhibition of TNF AS, CD, JIA, PsO, PsA, RA, UC
+biosimilars)
+Cimzia® (certolizumab pegol SC Inhibition of TNF AS, CD, nr-axSpA, PsO, PsA,
+injection) RA
+Etanercept SC Products (Enbrel®, Inhibition of TNF AS, JIA, PsO, PsA, RA
+biosimilars)
+Infliximab IV Products (Remicade®, Inhibition of TNF AS, CD, PsO, PsA, RA, UC
+biosimilars)
+Zymfentra® (infliximab-dyyb SC Inhibition of TNF CD, UC
+injection)
+Simponi®, Simponi Aria® (golimumab Inhibition of TNF SC formulation: AS, PsA, RA,
+SC injection, golimumab IV infusion) UC
+IV formulation: AS, PJIA,
+PsA, RA
+Tocilizumab Products (Actemra® IV, Inhibition of IL-6 SC formulation: PJIA, RA,
+biosimilar; Actemra SC, biosimilar) SJIA
+IV formulation: PJIA, RA,
+SJIA
+Kevzara® (sarilumab SC injection) Inhibition of IL-6 RA
+Orencia® (abatacept IV infusion, T-cell costimulation SC formulation: JIA, PSA, RA
+abatacept SC injection) modulator IV formulation: JIA, PsA, RA
+Rituximab IV Products (Rituxan®, CD20-directed cytolytic RA
+biosimilars) antibody
+Kineret® (anakinra SC injection) Inhibition of IL-1 JIA^, RA
+Omvoh® (mirikizumab IV infusion, SC Inhibition of IL-23 CD, UC
+injection)
+Ustekinumab Products (Stelara® IV, Inhibition of IL-12/23 SC formulation: CD, PsO,
+biosimilar; Stelara SC, biosimilar) PsA, UC
+IV formulation: CD, UC
+Siliq® (brodalumab SC injection) Inhibition of IL-17 PsO
+Cosentyx® (secukinumab SC injection; Inhibition of IL-17A SC formulation: AS, ERA, nr-
+secukinumab IV infusion) axSpA, PsO, PsA
+IV formulation: AS, nr-
+axSpA, PsA
+Taltz® (ixekizumab SC injection) Inhibition of IL-17A AS, nr-axSpA, PsO, PsA
+Bimzelx® (bimekizumab-bkzx SC Inhibition of IL- PsO, AS, nr-axSpA, PsA
+injection) 17A/17F
+Ilumya® (tildrakizumab-asmn SC Inhibition of IL-23 PsO
+injection)
+Skyrizi® (risankizumab-rzaa SC Inhibition of IL-23 SC formulation: CD, PSA,
+injection, risankizumab-rzaa IV infusion) PsO, UC
+IV formulation: CD, UC
+Tremfya® (guselkumab SC injection, Inhibition of IL-23 SC formulation: CD, PsA,
+guselkumab IV infusion) PsO, UC
+IV formulation: CD, UC
+Entyvio® (vedolizumab IV infusion, Integrin receptor CD, UC
+vedolizumab SC injection) antagonist
+Oral Therapies/Targeted Synthetic Oral Small Molecule Drugs
+Otezla® (apremilast tablets) Inhibition of PDE4 PsO, PsA
+Cibinqo™ (abrocitinib tablets) Inhibition of JAK AD
+pathways
+Olumiant® (baricitinib tablets) Inhibition of JAK RA, AA
+pathways
+Page 8 of 9 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Simponi Subcutaneous Prior
+Authorization Policy
+Litfulo® (ritlecitinib capsules) Inhibition of JAK AA
+pathways
+Leqselvi® (deuruxolitinib tablets) Inhibition of JAK AA
+pathways
+Rinvoq® (upadacitinib extended-release Inhibition of JAK AD, AS, nr-axSpA, RA, PsA,
+tablets) pathways CD, UC
+Rinvoq® LQ (upadacitinib oral solution) Inhibition of JAK PsA, PJIA
+pathways
+Sotyktu® (deucravacitinib tablets) Inhibition of TYK2 PsO
+Xeljanz® (tofacitinib tablets/oral Inhibition of JAK RA, PJIA, PsA, UC
+solution) pathways
+Xeljanz® XR (tofacitinib extended- Inhibition of JAK RA, PsA, UC
+release tablets) pathways
+Zeposia® (ozanimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+Velsipity® (etrasimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+* Not an all-inclusive list of indications. Refer to the prescribing information for the respective agent for
+FDA-approved indications; SC – Subcutaneous; TNF – Tumor necrosis factor; AS – Ankylosing
+spondylitis; CD – Crohn’s disease; JIA – Juvenile idiopathic arthritis; PsO – Plaque psoriasis; PsA –
+Psoriatic arthritis; RA – Rheumatoid arthritis; UC – Ulcerative colitis; nr-axSpA – Non-radiographic axial
+spondyloarthritis; IV – Intravenous, PJIA – Polyarticular juvenile idiopathic arthritis; IL – Interleukin;
+SJIA – Systemic juvenile idiopathic arthritis; ^ Off-label use of Kineret in JIA supported in guidelines;
+ERA – Enthesitis-related arthritis; DMARD – Disease-modifying antirheumatic drug; PDE4 –
+Phosphodiesterase 4; JAK – Janus kinase; AD – Atopic dermatitis; AA – Alopecia areata; TYK2 – Tyrosine
+kinase 2.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 9 of 9 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Simponi Subcutaneous Prior
+Authorization Policy

@@ -1,0 +1,121 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1261-8
+Program Prior Authorization/Notification
+Medication Copiktra® (duvelisib)
+P&T Approval Date 11/2018, 11/2019, 11/2020, 11/2021,5/2022, 5/2023, 5/2024, 5/2025
+Effective Date 8/1/2025
+1. Background:
+Copiktra (duvelisib) is a dual inhibitor of phosphoinositide 3-kinases (PI3Kδ and PI3Kγ)
+indicated for the treatment of adult patients with relapsed or refractory chronic lymphocytic
+leukemia (CLL) or small lymphocytic lymphoma (SLL) after at least two prior therapies.1
+The National Cancer Comprehensive Network (NCCN) also recommends the use of Copiktra
+for the treatment of hepatosplenic T-cell lymphoma after two first-line therapy regimens and as
+second-line and subsequent therapy for relapsed/refractory breast implant-associated anaplastic
+large cell lymphoma (ALCL). The NCCN also recommends Copiktra as initial palliative intent
+therapy or second-line and subsequent therapy for relapsed/refractory for certain peripheral T-
+cell lymphomas.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age
+of 19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Copiktra will be approved based on the following criterion:
+a. Member is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL)
+1. Initial Authorization
+a. Copiktra will be approved based on all of the following criteria:
+(1) Diagnosis of chronic lymphocytic leukemia (CLL) or small lymphocytic
+lymphoma (SLL)
+-AND-
+© 2025 UnitedHealthcare Services Inc.
+1
+(2) Disease is relapsed or refractory
+-AND-
+(3) History of failure, contraindication, or intolerance to at least two prior therapies
+for CLL/SLL. Examples include, but not limited to, regimens consisting of:
+Leukeran (chlorambucil), Gazyva (obinutuzumab), Arzerra (ofatumumab),
+Bendeka (bendamustine), Imbruvica (ibrutinib), Calquence (acalabrutinib),
+Venclexta (venetoclax), etc.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Copiktra will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Copiktra
+therapy
+Authorization will be issued for 12 months.
+C. T-cell Lymphomas
+1. Initial Authorization
+a. Copiktra will be approved based on one of the following criteria:
+(1) All of the following:
+(a) Diagnosis of Hepatosplenic T-cell lymphoma
+-AND-
+(b) Disease is relapsed or refractory
+-AND-
+(c) History of failure, contraindication, or intolerance to at least two prior
+systemic therapies
+-OR-
+(2) All of the following:
+(a) Diagnosis of Breast implant-associated anaplastic large cell lymphoma
+-AND-
+(b) Disease is relapsed or refractory
+© 2025 UnitedHealthcare Services Inc.
+2
+-AND-
+(c) Used as second-line and subsequent therapy
+-OR-
+(3) Both of the following:
+(a) Diagnosis of Peripheral T-cell lymphoma
+-AND-
+(b) One of the following:
+i. Used as initial palliative intent therapy
+ii. Used as second-line and subsequent therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Copiktra will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Copiktra
+therapy
+Authorization will be issued for 12 months.
+D. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+© 2025 UnitedHealthcare Services Inc.
+3
+4. References:
+1. Copiktra [package insert]. Las Vegas, NV: Secura Bio; July 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+https://www.nccn.org/professionals/drug_compendium/content/. Accessed on March 31, 2025.
+Program Prior Authorization/Notification – Copiktra (duvelisib)
+Change Control
+11/2018 New program.
+11/2019 Annual review. Added coverage for additional B cell lymphomas.
+Added NCCN recommended regimens criteria. Updated background
+and references.
+11/2020 Annual review. Added additional first line NCCN treatment examples.
+No change to clinical criteria. Updated references.
+11/2021 Annual review with no change to clinical criteria. Updated reference.
+5/2022 Annual review. Removed coverage for gastric and nongastric MALT
+lymphomas, splenic marginal zone lymphoma, and nodal marginal zone
+lymphoma. Added coverage for T-cell lymphomas. Updated
+background and references.
+5/2023 Annual review. Added state mandate. Updated the background with no
+changes to clinical criteria. Updated references.
+5/2024 Annual review with no change to clinical criteria. Updated reference.
+5/2025 Annual review. Updated criteria for peripheral T-cell Lymphoma based
+on NCCN guidance. Updated references and background.
+© 2025 UnitedHealthcare Services Inc.
+4

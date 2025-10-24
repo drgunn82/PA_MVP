@@ -1,0 +1,114 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1015-12
+Program Prior Authorization/Notification
+Medication Caprelsa® (vandetanib)
+P&T Approval Date 9/2011, 8/2012, 7/2013, 8/2014, 8/2015, 7/2016, 7/2017, 7/2018,
+9/2019, 9/2020, 10/2021, 10/2022, 10/2023, 10/2024
+Effective Date 1/1/2025
+1. Background:
+Caprelsa (vandetanib) is a kinase inhibitor indicated for the treatment of symptomatic or
+progressive medullary thyroid cancer in patients with unresectable locally advanced or
+metastatic disease. The National Cancer Comprehensive Network (NCCN) recommends use of
+Caprelsa for the treatment of medullary, follicular, oncocytic, and papillary carcinomas.
+Caprelsa may be used in patients with indolent, asymptomatic or slowly progressing disease
+after careful consideration of the treatment related risks.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Caprelsa will be approved based on the following criterion:
+(1) Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Thyroid Carcinoma
+1. Initial Authorization
+a. Caprelsa will be approved based on one of the following:
+(1) All of the following criteria:
+(a) Diagnosis of medullary thyroid cancer (MTC)
+© 2024 UnitedHealthcare Services, Inc.
+1
+-AND-
+(b) One of the following:
+i. Unresectable locoregional disease that is symptomatic or progressing
+ii. Asymptomatic recurrent or persistent distant metastatic disease if
+unresectable and progressing
+iii. Recurrent or persistent distant metastases if symptomatic disease or
+progression
+-OR-
+(2) All of the following:
+(a) One of the following diagnoses:
+i. Follicular Carcinoma
+ii. Oncocytic Carcinoma
+iii. Papillary Carcinoma
+-AND-
+(b) One of the following:
+i. Unresectable recurrent
+ii. Persistent locoregional disease
+iii. Metastatic disease
+-AND-
+(c) One of the following:
+i. Patient has symptomatic disease
+ii. Patient has progressive disease
+-AND-
+(d) Disease is refractory to radioactive iodine treatment
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Caprelsa will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Caprelsa
+therapy
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+2
+C. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Caprelsa [package insert]. Wilmington, DE: AstraZeneca Pharmaceuticals LP; April 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org/professionals/drug_compendium/content/contents.asp. Accessed
+August 28, 2024.
+Program Prior Authorization/Notification – Caprelsa® (vandetanib)
+Change Control
+8/2014 Annual review with no changes to the coverage criteria. Updated
+formatting, Background and References.
+8/2015 Annual review. Added coverage for follicular, Hurthle Cell and
+papillary carcinomas per NCCN. Updated medullary carcinoma criteria.
+Updated background and references.
+7/2016 Annual review. Revised criteria for thyroid carcinoma. Updated
+formatting, background and references.
+7/2017 Annual review. Added criteria for NSCLC. Updated references.
+7/2018 Annual review. Revised criteria for medullary thyroid cancer. Updated
+references.
+9/2019 Annual review with no changes to the coverage criteria. Updated
+references. Added general NCCN recommended review criteria.
+9/2020 Annual review with no changes to coverage criteria. Updated
+references.
+10/2021 Annual review with no changes to coverage criteria. Updated
+references.
+10/2022 Annual review. Updated background and removed criteria for NSCLC
+as no longer recommended by NCCN. Added state mandate. Updated
+references.
+© 2024 UnitedHealthcare Services, Inc.
+3
+10/2023 Annual review. Updated hürthle cell carcinoma to oncocytic carcinoma.
+Updated references.
+10/2024 Annual review. Updated criteria for medullary thyroid carcinoma.
+Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+4

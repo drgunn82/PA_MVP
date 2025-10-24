@@ -1,0 +1,171 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1096-13
+Program Prior Authorization/Notification
+Medication Sprycel® (dasatinib)
+P&T Approval Date 8/2008, 6/2009, 6/2010, 9/2010, 12/2010, 9/2011, 8/2012, 8/2013,
+2/2014, 2/2015, 2/2016, 11/2017, 11/2018, 10/2019, 10/2020, 10/2021,
+10/2022, 10/2023, 10/2024
+Effective Date 1/1/2025
+1. Background:
+Sprycel (dasatinib) is a tyrosine kinase inhibitor indicated for newly diagnosed adults with
+Philadelphia chromosome-positive (Ph+) chronic myeloid leukemia (CML) in chronic phase.
+Sprycel is also indicated for treatment of adults with chronic, accelerated, or myeloid or lymphoid
+blast phase Ph+ CML with resistance or intolerance to prior therapy including Gleevec®
+(imatinib), for the treatment of adults with Ph+ acute lymphoblastic leukemia (ALL) with
+resistance or intolerance to prior therapy, for the treatment of pediatric patients 1 year of age and
+older with Ph+ CML in chronic phase, and for the treatment of pediatric patients 1 year of age
+and older with Ph+ ALL in combination with chemotherapy. The National Comprehensive
+Cancer Network (NCCN) also recommends the use of Sprycel in the following: BCR-ABL1
+positive CML, in gastrointestinal stromal tumor in patients with PDGFRA exon 18 mutations,
+metastatic chondrosarcoma, in recurrent chordoma, in myeloid/lymphoid neoplasms with
+eosinophilia and ABL1 rearrangement, and in cutaneous melanoma with metastatic or
+unresectable tumors with activating mutations of KIT as second-line or subsequent therapy for
+disease progression, intolerance, and/or projected risk of progression with BRAF-targeted
+therapy.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Sprycel will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+1
+B. Philadelphia Chromosome-Positive or BCR-ABL1-Positive Chronic Myeloid
+Leukemia
+1. Initial Authorization
+a. Sprycel will be approved based on the following criterion:
+(1) Diagnosis of Philadelphia chromosome-positive or BCR-ABL1-Positive chronic
+myeloid leukemia
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Sprycel will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Sprycel therapy
+Authorization will be issued for 12 months.
+C. Philadelphia Chromosome-Positive Acute Lymphoblastic Leukemia (Ph+ALL)
+1. Initial Authorization
+a. Sprycel will be approved based on the following criterion:
+(1) Diagnosis of Philadelphia chromosome-positive acute lymphoblastic leukemia
+(Ph+ALL)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Sprycel will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Sprycel therapy
+Authorization will be issued for 12 months.
+D. Gastrointestinal Stromal Tumor (GIST)
+1. Initial Authorization
+a. Sprycel will be approved based on the following criterion:
+(1) Diagnosis of gastrointestinal stromal tumor (GIST) with PDGFRA exon 18
+mutations
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+2
+2. Reauthorization
+a. Sprycel will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Sprycel therapy
+Authorization will be issued for 12 months.
+E. Chondrosarcoma
+1. Initial Authorization
+a. Sprycel will be approved based on the following criterion:
+(1) Diagnosis of metastatic chondrosarcoma
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Sprycel will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Sprycel therapy
+Authorization will be issued for 12 months.
+F. Chordoma
+1. Initial Authorization
+a. Sprycel will be approved based on the following criterion:
+(1) Diagnosis of recurrent chordoma
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Sprycel will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Sprycel therapy
+Authorization will be issued for 12 months.
+G. Myeloid/Lymphoid Neoplasms with Eosinophilia
+1. Initial Authorization
+a. Sprycel will be approved based on both of the following:
+© 2024 UnitedHealthcare Services, Inc.
+3
+(1) Diagnosis of lymphoid, myeloid, or mixed lineage neoplasms with
+eosinophilia
+-AND-
+(2) Patient has an ABL1 rearrangement
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Sprycel will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Sprycel therapy.
+Authorization will be issued for 12 months.
+H. Cutaneous Melanoma
+1. Initial Authorization
+a. Sprycel will be approved based on all of the following:
+(1) Diagnosis of cutaneous melanoma
+-AND-
+(2) Tumors are metastatic or unresectable
+-AND-
+(3) Contains activating mutations of KIT
+-AND-
+(4) Used as second-line or subsequent therapy for disease progression, intolerance,
+and/or projected risk of progression with BRAF-targeted therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Sprycel will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Sprycel therapy.
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+4
+I. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits Step Therapy, and/or Medical Necessity may be in place.
+4. References:
+1. Sprycel [package insert]. Princeton, NJ: Bristol-Myers Squibb Company; July 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org/professionals/drug_compendium/content/contents.asp. Accessed
+September 10, 2024.
+Program Prior Authorization/Notification - Sprycel (dasatinib)
+Change Control
+2/2014 Updated references.
+9/2014 Administrative change - Tried/Failed exemption for State of New Jersey
+removed.
+2/2015 Annual review. Updated GIST to include PDGFRA D842V mutation.
+Updated background and references.
+2/2016 Annual review. Updated background and CML coverage criteria to
+include BCR-ABL1 positive diagnosis. Updated references.
+11/2017 Annual review. Updated background and criteria removing acute
+lymphoblastic lymphoma as no longer recommended by NCCN.
+11/2018 Updated background and criteria to include NCCN recommended use in
+chordoma and chondrosarcoma.
+10/2019 Annual review. Added general NCCN recommended review criteria.
+Updated background and references.
+10/2020 Annual review. Updated background and coverage criteria to include
+NCCN recommended use in myeloid/lymphoid neoplasms with
+© 2024 UnitedHealthcare Services, Inc.
+5
+eosinophilia. Updated references.
+10/2021 Annual review with no change to clinical coverage criteria. Updated
+reference.
+10/2022 Annual review with no changes to clinical coverage criteria. Updated
+references. Added state mandate footnote.
+10/2023 Annual review. Added criteria for cutaneous melanoma per NCCN
+Guidelines. Updated background and references.
+10/2024 Annual review. Updated coverage criteria to include NCCN language
+for use in gastrointestinal stromal tumors. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+6

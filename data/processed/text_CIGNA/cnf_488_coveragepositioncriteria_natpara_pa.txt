@@ -1,0 +1,136 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Hypoparathyroidism − Natpara Prior Authorization Policy
+• Natpara® (parathyroid hormone subcutaneous injection − Shire-NPS/Takeda)
+REVIEW DATE: 04/23/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Natpara, a replica of the endogenous parathyroid hormone, is indicated as an adjunct
+to calcium and vitamin D to control hypocalcemia in patients with
+hypoparathyroidism.1
+Limitations of Use: Due to the potential risk of osteosarcoma, Natpara is
+recommended only for patients who cannot be well-controlled on calcium
+supplements and active forms of vitamin D alone.1 Natpara was not studied in
+patients with hypoparathyroidism caused by calcium-sensing receptor mutations;
+and Natpara was not studied in patients with acute post-surgical hypoparathyroidism.
+Before initiating and during therapy with Natpara, 25-hydroxyvitamin D stores should
+be sufficient.1 In addition, before initiating Natpara, serum calcium concentration
+should be > 7.5 mg/dL In the pivotal study, a responder to Natpara therapy was
+defined as an individual who had: ≥ 50% reduction from baseline in the dose of
+Page 1 of 4: Cigna National Formulary Coverage - Policy: Hypoparathyroidism (Natpara Prior
+Authorization Policy)
+active vitamin D, ≥ 50% reduction from baseline in the dose of oral calcium
+supplementation, and an albumin-corrected total serum calcium concentration
+between 7.5 mg/dL and 10.6 mg/dL.
+Natpara has a Boxed Warning about the potential risk of osteosarcoma.1 Parathyroid
+hormone has been shown to increase the incidence of osteosarcoma in male and
+female rats; the risk was dependent on dose and treatment duration. A risk to
+humans could not be excluded. Natpara is available only through a restricted Risk
+Evaluation and Mitigation Strategy (REMS) program; only certified healthcare
+providers can prescribe and only certified pharmacies can dispense Natpara.
+Note: Natpara continues to be unavailable except for select patients through a
+Special Use Program. On October 3, 2022, the manufacturer (Takeda) released a
+statement that it will discontinue manufacturing Natpara globally at the end of 2024
+due to unresolved supply issues.2 Takeda will not re-commercialized Natpara in the
+US (or globally). Beyond 2024, Takeda intends to supply available doses until
+inventory is depleted or expired.2
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Natpara. All
+approvals are provided for the duration noted below. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Natpara as well as the
+monitoring required for adverse events and long-term efficacy, initial approval
+requires Natpara to be prescribed by or in consultation with a physician who
+specializes in the condition being treated.
+• Natpara® (parathyroid hormone subcutaneous injection ( Shire-
+NPS/Takeda)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Chronic Hypoparathyroidism. Approve for 1 year if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy. Approve if the patient meets ALL of the following (i, ii, iii, and
+iv):
+i. Patient cannot be well-controlled on calcium supplements and active forms
+of vitamin D alone; AND
+ii. Patient’s 25-hydroxyvitamin D stores are sufficient (before initiating
+Natpara therapy) according to the prescriber; AND
+iii. Patient’s serum calcium concentration is > 7.5 mg/dL before initiating
+Natpara therapy; AND
+iv. Medication is prescribed by or in consultation with an endocrinologist or a
+nephrologist; OR
+Page 2 of 4: Cigna National Formulary Coverage - Policy: Hypoparathyroidism (Natpara Prior
+Authorization Policy)
+B) Patient is Currently Receiving Natpara. Approve if the patient meets ALL of the
+following (i, ii, and iii):
+i. Patient cannot be well-controlled on calcium supplements and active forms
+of vitamin D alone; AND
+ii. Patient’s 25-hydroxyvitamin D stores are sufficient (during Natpara
+therapy) according to the prescriber; AND
+iii. Patient is responding to Natpara therapy, according to the prescriber.
+Note: Response to Natpara therapy include reduction in the patient’s oral
+calcium dose; reduction in the patient’s active vitamin D dose; maintenance
+of a stable albumin-corrected total serum calcium concentration.
+CONDITIONS NOT COVERED
+• Natpara® (parathyroid hormone subcutaneous injection – Shire-
+NPS/Takeda)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Acute Post-Surgical Hypoparathyroidism. Natpara was not studied in patients
+with acute post-surgical hypoparathyroidism.
+2. Hypoparathyroidism Caused by Calcium-Sensing Receptor Mutations.
+Natpara was not studied in this patient population.
+REFERENCES
+1. Natpara® subcutaneous injection [prescribing information]. Lexington MA: Shire-NPS/Takeda;
+February 2023.
+2. Takeda will discontinue global manufacturing of Natpara® by the end of 2024. Available at:
+https://www.natpara.com/recall. Accessed on April 18, 2025.
+Page 3 of 4: Cigna National Formulary Coverage - Policy: Hypoparathyroidism (Natpara Prior
+Authorization Policy)
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 04/19/2023
+Revision
+Annual Chronic Hypoparathyroidism – Patient is Currently Receiving 04/24/2024
+Revision Natpara: For the criterion regarding patient response to Natpara,
+examples of response to Natpara were moved to a Note.
+Update 09.10.24: No criteria changes. Hypoparathyroidism was added as N/A
+a header to the policy.
+Selected Chronic Hypoparathyroidism: A nephrologist was added as a 10/30/2024
+Revision physician type that counts toward the specialist requirement.
+Annual No criteria changes. 04/23/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 4 of 4: Cigna National Formulary Coverage - Policy: Hypoparathyroidism (Natpara Prior
+Authorization Policy)

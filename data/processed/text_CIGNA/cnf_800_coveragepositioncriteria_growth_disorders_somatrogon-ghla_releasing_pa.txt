@@ -1,0 +1,280 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Growth Disorders – Ngenla Prior Authorization Policy
+• Ngenla® (somatrogon-ghla subcutaneous injection − Pfizer)
+REVIEW DATE: 06/18/2025; selected revision 08/13/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Ngenla, a human growth hormone (hGH) product, is indicated for the treatment of
+growth failure due to inadequate secretion of growth hormone (GH) in
+pediatric patients ≥ 3 years of age.1
+Disease Overview
+Ngenla is a hGH analog, which is made up of the amino acid sequence of hGH with
+an added three copies of the C-terminal peptide of human chorionic gonadotropin.1
+The addition of the C-terminal peptides leads to a longer half-life. Ngenla binds to
+the GH receptor, which initiates changes in growth and metabolism. In children
+with GH deficiency (GHD), somatropin is effective for increasing final adult height.2
+Somatropin therapy is recommended to normalize adult height and prevent
+extreme shortness in children and adolescents with GHD. In addition to congenital
+causes, hypopituitarism may also be caused by radiation therapy; somatropin may
+be used to improve final height of children who have undergone radiation.3,4
+Page 1 of 6 - Cigna National Formulary Coverage - Policy: Growth Disorders – Ngenla Prior Authorization Policy
+Guidelines
+A consensus statement from international experts was recently published (2025)
+regarding long-acting GH therapy.12 The authors note that lonapegsomatropin,
+somapacitan, and somatrogon have all demonstrated noninferiority to daily
+somatropin for efficacy (i.e., annualized height velocity) in pediatric GHD. They
+also state that the safety profile of long-acting products is comparable to that of
+daily somatropin. It is noted that given the unique pharmacokinetic and
+pharmacodynamic profile and molecular weight of each formulation, the weight-
+based dosing calculation is different for each product and direct milligram dose
+comparisons are not appropriate.
+Some guidelines do not specifically address Ngenla. Neither the Pediatric Endocrine
+Society guidelines for children and adolescents with GHD2 (2016) nor the GH
+Research Society guidelines on children with short stature11 (2019) recommend a
+specific GH product for GHD. Guidelines recommend the use of GH to normalize
+adult height and prevent extreme shortness in pediatric patients with GHD.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Ngenla. All
+reviews will be directed to a clinician (i.e., pharmacist or nurse) for verification of
+criteria. All approvals are provided for the duration noted below. Because of the
+specialized skills required for evaluation and diagnosis of patients treated with
+Ngenla as well as monitoring required for adverse events and long-term efficacy,
+initial approval requires the medication to be prescribed by or in consultation with a
+physician who specializes in the condition being treated. hGH is FDA-approved for
+treatment of a limited number of conditions. The FDA has not approved the use of
+hGH as therapy for anti-aging, longevity, or cosmetic or performance enhancement.
+Federal law prohibits the dispensing of hGH for non-approved purposes. A
+pharmacy’s failure to comply with that law could result in significant criminal
+penalties to the pharmacy and its employees. Accordingly, a pharmacy may decline
+to dispense prescriptions for hGH when written by a physician or other authorized
+prescribers who they believe may be involved in or affiliated with the fields of anti-
+aging, longevity, rejuvenation, cosmetic, performance enhancement, or sports
+medicine.
+• Ngenla® (somatrogon-ghla subcutaneous injection - Pfizer)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Growth Hormone Deficiency in a Pediatric Patient (≥ 3 years of age to <
+18 years of age). Approve for 1 year if the patient meets ONE of the following
+(A or B):
+Page 2 of 6 - Cigna National Formulary Coverage - Policy: Growth Disorders – Ngenla Prior Authorization Policy
+A) Initial Therapy with any Growth Hormone Agent. Approve if the patient
+meets ONE of the following (i, ii, iii, iv, or v):
+i. Patient meets BOTH of the following (a and b):
+a) Patient meets at least ONE of the following [(1) or (2)]:
+(1) Patient has had at least two growth hormone stimulation tests
+performed with any of the following agents: levodopa, insulin-
+induced hypoglycemia, arginine, clonidine, or glucagon AND the
+peak growth hormone response to both tests are < 10 ng/mL; OR
+(2) Patient meets BOTH of the following [(a) and (b)]:
+(a) Patient has had at least one growth hormone stimulation
+test performed with any of the following agents: levodopa,
+insulin-induced hypoglycemia, arginine, clonidine, or glucagon
+AND the peak growth hormone response to at least one test is <
+10 ng/mL; AND
+(b) Patient has at least one risk factor for growth hormone
+deficiency; AND
+Note: Examples of at least one risk factor for growth hormone
+deficiency includes: the height for age curve has deviated
+downward across two major height percentiles (e.g., from above
+the 25th percentile to below the 10th percentile); the child’s
+growth rate is less than the expected normal growth rate based
+on age and gender; low insulin-like growth factor (IGF)-1 and/or
+IGFBP-3 levels; the child has a very low peak growth hormone
+level on provocative testing as defined by the prescribing
+physician; the child’s growth velocity is less than the 10th
+percentile for age and gender (height velocity percentile is NOT
+the same as height-for-age percentile); the patient is status
+post craniopharyngioma resection; the patient has optic nerve
+hypoplasia; the patient has a growth hormone gene deletion;
+AND
+b) The medication has been prescribed by or in consultation with an
+endocrinologist; OR
+ii. Patient has undergone brain radiation or tumor resection AND meets
+BOTH of the following (a and b):
+a) Patient meets at least ONE of the following [(1) or (2)]:
+(1) Patient meets BOTH of the following [(i) and (ii)]:
+(i) Patient has had one growth hormone stimulation test with any
+of the following agents: levodopa, insulin-induced
+hypoglycemia, arginine, clonidine, or glucagon; AND
+(ii) The peak growth hormone response to at least one test is
+< 10 ng/mL; OR
+(2) Patient has a deficiency in at least one other pituitary hormone
+(i.e., adrenocorticotropic hormone, thyroid-stimulating hormone,
+gonadotropin [luteinizing hormone and/or follicle stimulating
+hormone deficiency are counted as one deficiency], or prolactin);
+AND
+b) The medication has been prescribed by or in consultation with an
+endocrinologist; OR
+Page 3 of 6 - Cigna National Formulary Coverage - Policy: Growth Disorders – Ngenla Prior Authorization Policy
+iii. Patient has congenital hypopituitarism AND meets BOTH of the following
+(a and b):
+a) Patient meets at least ONE of the following [(1), (2), or (3)]:
+(1) Patient meets BOTH of the following [(i) and (ii)]:
+(i) Patient has had one growth hormone stimulation test with any
+of the following agents: levodopa, insulin-induced
+hypoglycemia, arginine, clonidine, or glucagon; AND
+(ii) The peak growth hormone response to at least one test is
+< 10 ng/mL; OR
+(2) Patient has a deficiency in at least one other pituitary hormone
+(i.e., adrenocorticotropic hormone, thyroid-stimulating hormone,
+gonadotropin [luteinizing hormone and/or follicle stimulating
+hormone deficiency are counted as one deficiency], or prolactin);
+OR
+(3) Patient has the imaging triad of ectopic posterior pituitary and
+pituitary hypoplasia with abnormal pituitary stalk; AND
+b) The medication has been prescribed by or in consultation with an
+endocrinologist; OR
+iv. Patient has multiple pituitary hormone deficiencies and meets BOTH of the
+following (a and b):
+Note: Growth hormone deficiency may occur in combination with other
+pituitary hormone deficiencies and is referred to as hypopituitarism,
+panhypopituitarism, or multiple pituitary hormone deficiency.
+a) Patient meets at least ONE of the following [(1) or (2)]:
+(1) Patient has three or more of the following pituitary hormone
+deficiencies: somatropin (growth hormone), adrenocorticotropic
+hormone, thyroid-stimulating hormone, gonadotropin (luteinizing
+hormone and/or follicle stimulating hormone deficiency are counted
+as one deficiency), and prolactin; OR
+(2) Patient meets BOTH of the following [(i) and (ii)]:
+(i) Patient has had one growth hormone stimulation test with any
+of the following agents: levodopa, insulin-induced
+hypoglycemia, arginine, clonidine, or glucagon; AND
+(ii) The peak growth hormone response to at least one test is
+< 10 ng/mL; AND
+b) The medication has been prescribed by or in consultation with an
+endocrinologist; OR
+v. Patient has had a hypophysectomy (surgical removal of pituitary gland)
+;OR
+B) Patient is Currently Receiving Ngenla or is switching to Ngenla from another
+Growth Hormone Agent (Patient has been established on either therapy for ≥
+10 months). Approve if the patient meets ONE of the following (i or ii):
+i. Patient is < 12 years of age: Patient’s height has increased by ≥ 2
+cm/year in the most recent year; OR
+ii. Patient is ≥ 12 years of age and < 18 years of age: Patient meets BOTH
+of the following (a and b):
+a) Patient’s height has increased by ≥ 2 cm/year in the most recent year;
+AND
+Page 4 of 6 - Cigna National Formulary Coverage - Policy: Growth Disorders – Ngenla Prior Authorization Policy
+b) Patient’s epiphyses are open.
+CONDITIONS NOT COVERED
+• Ngenla® (somatrogon-ghla subcutaneous injection - Pfizer)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Athletic Ability Enhancement.5 Somatropin and related agents are not FDA-
+approved for athletic performance enhancement or for body building in non-
+athletes. Federal law prohibits the distribution or dispensing of somatropin or
+related agents for non-FDA approved uses.
+2. Central Precocious Puberty (CPP). Children with precocious puberty are often
+treated with gonadotropin releasing hormone (GnRH) agonists (Lupron®
+[leuprolide acetate injection]) to suppress pituitary gonadal activity, to slow the
+advancement of bone age (prevent premature fusion of the epiphyseal growth
+plates), and to improve adult height. In some patients GnRH agonist therapy may
+result in marked deceleration of bone velocity and may result in adult height that
+is less than the mid-parental height. Small and nonrandomized studies have
+demonstrated a significant improvement in final adult height over pre-treated
+predicted adult height in patients treated with GnRH agonist and growth hormone
+as compared with patients treated with GnRH agonist alone. However, larger
+randomized studies are lacking, and routine use of growth hormone in this setting
+is not recommended.6,7
+3. Congenital Adrenal Hyperplasia (CAH).8,9 The Endocrine Society clinical
+practice guidelines on CAH due to steroid 21-hydroxylase deficiency recommend
+against the use of experimental treatment approaches outside of formally
+approved clinical trials.9 Children with predicted adult height standard deviation
+≤ -2.25 may be considered for growth-promoting treatments in appropriately
+controlled trials.
+4. Constitutional Delay of Growth and Puberty. These children have delayed
+skeletal maturation and pubertal development. Administering somatropin does
+not increase adult height (which is usually normal).10 Short-term androgen
+therapy accelerates growth and the rate of pubertal advancement in boys.
+REFERENCES
+1. Ngenla® subcutaneous injection [prescribing information]. New York, NY: Pfizer; June 2023.
+2. Grimberg A, DiVall SA, Polychronakos C, et al; Drug and Therapeutics Committee and Ethics
+Committee of the Pediatric Endocrine Society. Guidelines for growth hormone and insulin-like
+growth factor-I treatment in children and adolescents: growth hormone deficiency, idiopathic
+short stature, and primary insulin-like growth factor-I deficiency. Horm Res Paediatr.
+2016;86(6):361-397.
+3. Melmed S. Idiopathic adult growth hormone deficiency. J Clin Endocrinol Metab. 2013;98:2187-
+2197.
+Page 5 of 6 - Cigna National Formulary Coverage - Policy: Growth Disorders – Ngenla Prior Authorization Policy
+4. Isfan F, Kanold J, Merlin E, et al. Growth hormone treatment impact on growth rate and final
+height of patients who received HSCT with TBI or/and cranial irradiation in childhood: a report
+from the French Leukaemia Long-Term Follow-Up Study (LEA). Bone Marrow Transplant.
+2012;47:684-693.
+5. Clemmons DR, Molitch M, Hoffman AR, et al. Growth hormone should be used only for approved
+indications. J Clin Endocrinol Metab. 2014;99:409-411.
+6. Chen M, Eugster EA. Central Precocious Puberty: Update on diagnosis and treatment. Paediatr
+Drugs. 2015;17(4)272-81.
+7. Shi Y, Ma Z, Yang X, et al. Gonadotropin-releasing hormone analogue and recombinant human
+growth hormone treatment for idiopathic central precocious puberty in girls. Front Endocrinol.
+2023; 13:1085385.
+8. Lin-Su K, Harbison MD, Lekarev O, et al. Final adult height in children with congenital adrenal
+hyperplasia treated with growth hormone. J Clin Endocrinol Metab. 2011;96:1710-1717.
+9. Speiser PW, Arlt W, Auchus RJ, et al. Congenital adrenal hyperplasia due to steroid 21-
+hydroxylase deficiency: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab.
+2018:103(11):4043-4088.
+10. De Luca F, Argente J, Cavallo L, et al; International Workshop on Management of Puberty for
+Optimum Auxological Results. Management of puberty in constitutional delay of growth and
+puberty. Pediatr Endocrinol Metab. 2001;14 Suppl 2:953-957.
+11. Collett-Solberg PF, Ambler G, Backelijaw PF, et al. Diagnosis, genetics, and therapy of short
+stature in children: A growth hormone research society international perspective. Horm Res
+Paediatr. 2019;92(1):1-14.
+12. Maniatis A, Cutfield W, Dattani M, et al. Long-acting growth hormone therapy in pediatric growth
+hormone deficiency: A consensus statement. J Clin Endocrinol Metab. 2025;110(4):e1232-
+e1240.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 07/26/2023
+Selected Growth Hormone Deficiency in a Pediatric Patient (≥ 3 years 11/01/2023
+Revision of age to < 18 years of age): Criterion that specified the result of
+a growth hormone stimulation test to be < 10 ng/mL was added.
+Criterion that the stimulation test shows an inadequate response as
+defined by a peak response below the normal reference range as
+determined by the testing laboratory was removed.
+Early Annual Growth Hormone Deficiency in a Pediatric Patient (≥ 3 years 06/12/2024
+Revision of age to < 18 years of age): Examples of risk factors for growth
+hormone deficiency were moved into a note.
+Annual Growth Hormone Deficiency in a Pediatric Patient (≥ 3 years 06/18/2025
+Revision of age to < 18 years of age): The wording “at least” was added
+to the requirement for two growth hormone stimulation tests ˂ 10
+ng/mL. Updated the wording “Patient has been evaluated by an
+endocrinologist” to “The medication has been prescribed by or in
+consultation with an endocrinologist.”
+Selected The following statement in the Policy Statement was updated to 08/13/2025
+Revision include a clinician nurse: “All reviews will be directed to a clinician
+(i.e., pharmacist or nurse) for verification of criteria.”
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 6 of 6 - Cigna National Formulary Coverage - Policy: Growth Disorders – Ngenla Prior Authorization Policy

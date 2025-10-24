@@ -1,0 +1,798 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Immunologicals – Dupixent Prior Authorization Policy
+• Dupixent® (dupilumab subcutaneous injection – Regeneron/sanofi-
+aventis)
+REVIEW DATE: 04/23/2025; selected revision 06/04/2025 and 07/02/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Dupixent, an interleukin-4 receptor alpha antagonist, is indicated for the following uses:1
+• Asthma, as an add-on maintenance treatment in patients ≥ 6 years of age with
+moderate-to-severe disease with an eosinophilic phenotype or with oral
+corticosteroid-dependent asthma.
+Limitation of Use: Dupixent is not indicated for the relief of acute bronchospasm or
+status asthmaticus.
+• Atopic dermatitis, for the treatment of patients ≥ 6 months of age with moderate-
+to-severe disease not adequately controlled with topical prescription therapies or
+when those therapies are not advisable.
+• Bullous pemphigoid, for the treatment of patients ≥ 18 years of age.
+• Chronic obstructive pulmonary disease (COPD), as add-on maintenance
+treatment in patients ≥ 18 years of age with inadequately controlled disease and
+an eosinophilic phenotype.
+Limitation of Use: Dupixent is not indicated for the relief of acute bronchospasm.
+Page 1 of 19 - Cigna National Formulary Coverage - Policy:Immunologicals – Dupixent Prior Authorization Policy
+• Chronic rhinosinusitis with nasal polyposis (CRSwNP) [i.e., nasal polyps], as
+an add-on maintenance treatment in patients ≥ 12 years of age with inadequately
+controlled disease.
+• Chronic spontaneous urticaria, in patients ≥ 12 years of age who remain
+symptomatic despite H1 antihistamine treatment.
+Limitation of Use: Dupixent is not indicated for the treatment of other forms of
+urticaria.
+• Eosinophilic esophagitis, in patients ≥ 1 year of age who weigh ≥ 15 kg.
+• Prurigo nodularis, for the treatment of patients ≥ 18 years of age.
+Clinical Efficacy
+Asthma
+Timing of efficacy assessments varied by indication across the numerous pivotal studies in
+which Dupixent demonstrated benefit. In the asthma trials, efficacy with Dupixent was
+assessed as early as 24 weeks.2-5
+Atopic Dermatitis
+In atopic dermatitis, the majority of studies evaluated the efficacy of Dupixent at 16
+weeks.1,6-10 There are data with Dupixent in patients ≥ 6 months of age. Additionally, one
+study evaluated Dupixent in patients ≥ 12 years of age with atopic dermatitis with
+moderate to severe hand and/or foot involvement.1,44
+Bullous Pemphigoid
+One pivotal study, evaluated Dupixent for the treatment of adults with moderate-to-severe
+bullous pemphigoid.41,42
+Chronic Obstructive Pulmonary Disease
+Two pivotal studies evaluated Dupixent in adults with COPD.11,12 To be eligible for
+enrollment, patients had a blood eosinophil level ≥ 300 cells per microliter. Patients were
+required to have been receiving background triple inhaler therapy (i.e., an inhaled
+corticosteroid [ICS] with a long-acting muscarinic antagonist [LAMA] and a long-acting
+beta2-agonist [LABA]) or LAMA/LABA combination therapy if the patient had an ICS
+contraindication, for at least 3 months prior to randomization. Patients also had
+experienced at least two moderate COPD exacerbations (e.g., resulted in systemic
+corticosteroid treatment) or one severe COPD exacerbation (e.g., resulted in hospitalization
+for≥ 24 hours) the year prior to screening. Overall, at least one of the patient’s
+exacerbations had to have occurred while they were receiving ICS/LAMA/LABA therapy (or a
+LAMA/LABA if the patient had an ICS contraindication). Patients were randomized to
+receive either Dupixent or placebo in addition to background maintenance therapy (i.e.,
+ICS/LAMA/LABA triple therapy or LAMA/LABA therapy if the patient had an ICS
+contraindication) for 52 weeks. While lung function parameters were improved as early as
+Week 12 (3 months), the other major efficacy endpoints were evaluated at Week 52 (e.g.,
+exacerbations, dyspnea scores).
+Chronic Rhinosinusitis with Nasal Polyps
+The pivotal studies involving patients with CRSwNP evaluated the primary efficacy endpoints
+following 24 weeks of treatment.1,13-15 Patients continued treatment with intranasal
+corticosteroids throughout the studies.
+Chronic Spontaneous Urticaria
+The pivotal studies of Dupixent in patients with chronic spontaneous urticaria involved
+patients who were symptomatic despite H1 antihistamine treatment at approved or higher
+doses.16,38 In both studies, patients were required to have experienced itch and hives for >
+2 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Dupixent Prior Authorization Policy
+6 consecutive weeks, despite treatment with an H1 antihistamine up to 4 times a standard
+dose. The primary efficacy endpoints were evaluated following 24 weeks of treatment.
+Eosinophilic Esophagitis
+In Dupixent’s eosinophilic esophagitis pivotal study, patients ≥ 12 years of age were
+required to have disease confirmed by baseline endoscopic biopsies with a demonstration of
+eosinophilic infiltration on central reading (peak cell count ≥ 15 eosinophils per high-
+powered field) that was unresponsive to an 8 week course of treatment with a high-dose
+proton pump inhibitor.17 Patients with other causes of eosinophilic esophagitis, such as
+hypereosinophilic syndrome and eosinophilic granulomatosis with polyangiitis, were
+excluded from the study. In the first portion of this study, efficacy, as measured by
+objective assessments (e.g., intraepithelial eosinophil count) and subjective assessments
+(e.g., dysphagia symptoms), was evaluated after 24 weeks (6 months) of Dupixent therapy.
+A very similarly designed pivotal study evaluated the efficacy of Dupixent for the treatment
+of eosinophilic esophagitis in patients 1 to 11 years of age.1,18 Endoscopic biopsy evidence
+of eosinophilic infiltration despite treatment with a proton pump inhibitor was again required
+for study enrollment.
+Prurigo Nodularis
+Two pivotal studies, PRIME and PRIME2, evaluated Dupixent’s efficacy in the treatment of
+prurigo nodularis.19 To enroll, patients were required to have ≥ 20 identifiable nodular
+lesions in total on both legs, and/or both arms, and/or trunk and to have failed a 2-week
+trial of a topical corticosteroid. Patients with prurigo nodularis secondary to medications or
+a medical condition such as neuropathy or psychiatric disease were excluded from the
+studies. The primary endpoint was evaluated at Week 24 in PRIME and initially at Week 12
+and again at Week 24 in PRIME2.
+Guidelines
+Asthma Guidelines
+The Global Initiative for Asthma Global Strategy for Asthma Management and Prevention
+(2025) proposes a stepwise approach to asthma treatment.20 Dupixent is listed as an
+option for add-on therapy in patients ≥ 6 years of age with severe eosinophilic/Type 2
+asthma or who require treatment with a maintenance oral corticosteroid. Severe asthma is
+defined as asthma that is uncontrolled despite adherence to optimized high-dose ICS/LABA
+therapy or that worsens when high-dose treatment is decreased. Higher blood eosinophil
+levels and higher fractional concentration of exhaled nitric oxide may predict a good asthma
+response to Dupixent.
+According to the European Respiratory Society/American Thoracic Society guidelines (2014;
+updated in 2020), severe asthma is defined as asthma which requires treatment with a
+high-dose inhaled corticosteroid (ICS) in addition to a second controller medication (and/or
+systemic corticosteroids) to prevent it from becoming uncontrolled, or asthma which
+remains uncontrolled despite this therapy.21,22 Uncontrolled asthma is defined as asthma
+that worsens upon tapering of high-dose ICS or systemic corticosteroids or asthma that
+meets one of the following four criteria:
+1) Poor symptom control: Asthma Control Questionnaire consistently ≥ 1.5 or Asthma
+Control Test < 20; OR
+2) Frequent severe exacerbations: two or more bursts of systemic corticosteroids in
+the previous year; OR
+3) Serious exacerbations: at least one hospitalization, intensive care unit stay, or
+mechanical ventilation in the previous year; OR
+4) Airflow limitation: forced expiratory volume in 1 second (FEV1) < 80% predicted
+after appropriate bronchodilator withholding.
+2 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Dupixent Prior Authorization Policy
+Atopic Dermatitis Guidelines
+Guidelines for the care and management of atopic dermatitis (with topical therapies in
+adults [2022], with phototherapy and systemic agents [2023]) have been updated to
+address Dupixent.23,24 The guidelines note that despite the availability of newer, systemic
+therapies (e.g., Dupixent), topical agents remain the mainstay of treatment due to their
+proven track record and favorable safety profiles. Several topical agents are recommended,
+with topical corticosteroids commonly used first-line for mild to severe atopic dermatitis in
+all skin regions. If topical therapy and basic management (e.g., moisturizers, bathing
+modifications) have been optimized and the patient has not achieved adequate control,
+consider an alternative diagnosis or systemic therapy. In this setting, use of Dupixent is
+recommended in patients with moderate to severe disease (strong recommendation).
+Bullous Pemphigoid Guidelines
+Guidelines for the management of bullous pemphigoid from the European Academy of
+Dermatology and Venereology (EADV) [2022] have not been updated since the approval of
+Dupixent for this indication.43 However, Dupixent is a recommended treatment option.
+Chronic Obstructive Pulmonary Disease Guidelines
+The Global Initiative for Chronic Obstructive Lung Disease (GOLD) Global Strategy for the
+Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease (2025)
+recommends triple inhaled therapy with an ICS/LAMA/LABA combination in patients with a
+history of exacerbations and elevated eosinophils.25 However, guidelines note that ICS
+therapy increases the risk of pneumonia in patients with COPD, particularly those with
+severe disease. Dupixent is a recommended treatment option in patients who continue to
+have symptoms despite ICS/LAMA/LABA therapy and have eosinophils ≥ 300 cells/microliter
+and symptoms of chronic bronchitis.
+Chronic Rhinosinusitis with Nasal Polyps Guidelines
+The Joint Task Force on Practice Parameters (JTFPP) published a focused guideline update
+for the medical management of CRSwNP (2023), which updated recommendations
+regarding intranasal corticosteroids and biologic therapies.26 Intranasal corticosteroids are
+recommended for the treatment of CRSwNP. Use of biologics (e.g., Dupixent) is also
+recommended. However, in patients who derived a sufficient benefit from other therapies
+such as intranasal corticosteroids, surgery, or aspirin therapy after desensitization, biologics
+may not be preferred. Conversely, biologics may be preferred over other medical treatment
+options in patients who continue to have a high burden of disease despite receiving at least
+4 weeks of treatment with an intranasal corticosteroid.
+The diagnosis of CRSwNP was not addressed in this focused guideline update, but previous
+guidelines have noted that the presence of two or more signs and symptoms of chronic
+rhinosinusitis (e.g., rhinorrhea, postnasal drainage, anosmia, nasal congestion, facial pain,
+headache, fever, cough, and purulent discharge) that persist for an extended period of time
+makes the diagnosis chronic rhinosinusitis likely.27-30 However, this requires confirmation of
+sinonasal inflammation, which can either be done via direct visualization or computed
+tomography (CT) scan. Oral corticosteroids and surgical intervention were not specifically
+addressed in this update, but prior guidelines recommend short courses of oral
+corticosteroid as needed and consideration of surgical removal as an adjunct to medical
+therapy in patients with CRSwNP that is not responsive or is poorly responsive to medical
+therapy.27,28,30
+Chronic Spontaneous Urticaria Guidelines
+Guidelines for the definition, classification, diagnosis, and management of urticaria have
+been published by the European Academy of Allergy and Clinical Immunology/Global Allergy
+2 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Dupixent Prior Authorization Policy
+and Asthma European Network/European Dermatology Forum/Asia Pacific Association of
+Allergy, Asthma and Clinical Immunology (2022).31 The American Academy of Dermatology
+was involved in the development of these guidelines and endorses their recommendations.
+Chronic spontaneous urticaria is defined as the appearance of wheals, angioedema, or both
+for > 6 weeks due to known or unknown causes. Signs and symptoms may be present
+daily/almost daily or have an intermittent recurrent course. Second generation H1-
+antihistamines taken regularly are the recommended first-line treatment for all types of
+urticaria following elimination of possible underlying causes. If standard doses do not
+eliminate urticaria signs and symptoms, the dose of the antihistamine should be increased
+up to 4-fold. Guidelines have not been updated since the approval of Dupixent. Short
+courses of rescue systemic corticosteroids are recommended for treatment of patients with
+acute exacerbations of chronic urticaria. However, guidelines recommend against the long-
+term use of systemic steroids.
+Eosinophilic Esophagitis Guidelines
+Guidelines for the diagnosis and management of EoE from the American College of
+Gastroenterology (2025) confirm that the diagnosis of EoE should be based on the presence
+esophageal dysfunction symptoms and ≥ 15 eosinophils per high-power field on esophageal
+biopsy.32 Treatment with a proton pump inhibitor is recommended. Dupixent is a
+recommended treatment for patients who are ≥ 1 year of age who are nonresponsive to
+proton pump inhibitor therapy. A food elimination diet is recommended. However, it is
+noted that patient preferences should be taken into account and that any decisions
+regarding diet should be agreed upon between the patient and the provider.
+Prurigo Nodularis Guidelines
+A United States Expert Panel Consensus provides a practical approach for the diagnosis and
+management of prurigo nodularis (2021).33 The primary findings in patients with prurigo
+nodularis are the presence of firm, nodular lesions; pruritus lasting at least 6 weeks; and
+history or signs, or both, of repeated scratching, picking, or rubbing. Goals of treatment are
+to reduce pruritus, interrupt the itch-scratch cycle, and completely heal prurigo nodularis
+lesions.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Dupixent. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Dupixent as well as the
+monitoring required for adverse events and long-term efficacy, initial approval
+requires Dupixent to be prescribed by or in consultation with a physician who
+specializes in the condition being treated.
+• Dupixent® (dupilumab subcutaneous injection – Regeneron/Sanofi-
+Aventis)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+2 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Dupixent Prior Authorization Policy
+1. Asthma. Approve for the duration noted if the patient meets ONE of the following (A or
+B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following (i, ii,
+iii, iv, and v):
+i. Patient is ≥ 6 years of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient meets ONE of the following (1 or 2):
+(1)Patient has a blood eosinophil level ≥ 150 cells per microliter within the
+previous 6 weeks; OR
+(2)Patient had a blood eosinophil level ≥ 150 cells per microliter prior to
+treatment with Dupixent or another monoclonal antibody therapy that
+may alter blood eosinophil levels; OR
+Note: Examples of monoclonal antibody therapies that may alter blood
+eosinophil levels include Dupixent, Adbry (tralokinumab-ldrm
+subcutaneous injection), Cinqair (reslizumab intravenous infusion),
+Ebglyss (lebrikizumab-lbkz subcutaneous injection), Fasenra
+(benralizumab subcutaneous injection), Nemluvio (nemolizumab-ilto
+subcutaneous injection), Nucala (mepolizumab subcutaneous injection),
+Tezspire (tezepelumab subcutaneous injection), and Xolair (omalizumab
+subcutaneous injection).
+b) According to the prescriber, the patient has oral (systemic) corticosteroid-
+dependent asthma (e.g., the patient has received ≥ 5 mg oral prednisone or
+equivalent per day for ≥ 6 months); AND
+iii. Patient has received at least 3 consecutive months of combination therapy with
+BOTH of the following (a and b):
+a) An inhaled corticosteroid; AND
+b) At least one additional asthma controller or asthma maintenance medication;
+AND
+Note: Examples of additional asthma controller or asthma maintenance
+medications are inhaled long-acting beta2-agonists, inhaled long-acting
+muscarinic antagonists, and monoclonal antibody therapies for asthma (e.g.,
+Cinqair, Fasenra, Nucala, Tezspire, and Xolair). Use of a combination inhaler
+containing both an inhaled corticosteroid and additional asthma
+controller/maintenance medication(s) would fulfill the requirement for both
+criteria a and b.
+iv. Patient has asthma that is uncontrolled or was uncontrolled at baseline as defined
+by ONE of the following (a, b, c, d, or e):
+Note: “Baseline” is defined as prior to receiving Dupixent or another monoclonal
+antibody therapy for asthma. Examples of monoclonal antibody therapies for
+asthma include Dupixent, Cinqair, Fasenra, Nucala, Tezspire, and Xolair.
+a) Patient experienced two or more asthma exacerbations requiring treatment
+with systemic corticosteroids in the previous year; OR
+b) Patient experienced one or more asthma exacerbation(s) requiring a
+hospitalization, an emergency department visit, or an urgent care visit in the
+previous year; OR
+c) Patient has a forced expiratory volume in 1 second (FEV1) < 80% predicted;
+OR
+d) Patient has an FEV1/forced vital capacity (FVC) < 0.80; OR
+e) Patient has asthma that worsens upon tapering of oral (systemic)
+corticosteroid therapy; AND
+v. The medication is prescribed by or in consultation with an allergist, immunologist,
+or pulmonologist; OR
+2 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Dupixent Prior Authorization Policy
+B) Patient is Currently Receiving Dupixent. Approve for 1 year if the patient meets ALL
+of the following (i, ii, and iii):
+i. Patient has already received at least 6 months of therapy with Dupixent; AND
+Note: A patient who has received < 6 months of therapy or who is restarting
+therapy with Dupixent should be considered under criterion 1A (Asthma, Initial
+Therapy).
+ii. Patient continues to receive therapy with one inhaled corticosteroid or one
+inhaled corticosteroid-containing combination inhaler; AND
+iii. Patient has responded to therapy as determined by the prescriber.
+Note: Examples of a response to Dupixent therapy are decreased asthma
+exacerbations; decreased asthma symptoms; decreased hospitalizations,
+emergency department visits, or urgent care visits due to asthma; decreased
+requirement for oral corticosteroid therapy.
+2. Atopic Dermatitis. Approve for the duration noted if the patient meets ONE of the
+following (A or B):
+A) Initial Therapy. Approve for 4 months if the patient meets ALL of the following (i, ii,
+iii, and iv):
+i. Patient is ≥ 6 months of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has atopic dermatitis involvement estimated to be ≥ 10% of the body
+surface area; OR
+b) Patient meets BOTH of the following (1 and 2):
+1) Patient has moderate to severe hand and/or foot atopic dermatitis; AND
+2) Patient is ≥ 12 years of age; AND
+iii. Patient meets ALL of the following (a, b, and c):
+a) Patient has tried at least one medium-, medium-high, high-, and/or super-
+high-potency prescription topical corticosteroid; AND
+b) This topical corticosteroid was applied daily for at least 28 consecutive days;
+AND
+c) According to the prescriber, inadequate efficacy was demonstrated with this
+topical corticosteroid therapy; AND
+iv. The medication is prescribed by or in consultation with an allergist, immunologist,
+or dermatologist; OR
+B) Patient is Currently Receiving Dupixent. Approve for 1 year if the patient meets
+BOTH of the following (i and ii):
+i. Patient has already received at least 4 months of therapy with Dupixent; AND
+Note: A patient who has received < 4 months of therapy or who is restarting
+therapy with Dupixent should be considered under criterion 2A (Atopic
+Dermatitis, Initial Therapy).
+ii. Patient has responded to therapy as determined by the prescriber.
+Note: Examples of a response to Dupixent therapy are marked improvements in
+erythema, induration/papulation/edema, excoriations, and lichenification;
+reduced pruritus; decreased requirement for other topical or systemic therapies;
+reduced body surface area affected with atopic dermatitis; or other responses
+observed.
+3. Bullous Pemphigoid. Approve for the duration noted if the patient meets ONE of the
+following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following (i and
+ii):
+i. Patient is ≥ 18 years of age; AND
+ii. The medication is prescribed by or in consultation with a dermatologist; OR
+2 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Dupixent Prior Authorization Policy
+B) Patient is Currently Receiving Dupixent. Approve for 1 year if the patient meets
+BOTH of the following (i and ii):
+i. Patient has already received at least 6 months of therapy with Dupixent; AND
+Note: A patient who has received < 6 months of therapy or who is restarting
+therapy with Dupixent should be considered under criterion 3A (Bullous
+Pemphigoid, Initial Therapy).
+ii. Patient has experienced a beneficial clinical response, defined by ONE of the
+following (a, b, c, d, or e):
+a) Decreased area of skin involvement; OR
+b) Decreased lesions, including blisters or erosions (bullae); OR
+c) Decreased urticaria, OR
+d) Decreased erythema; OR
+e) Reduced or no need for systemic or topical corticosteroid therapy.
+4. Chronic Obstructive Pulmonary Disease (COPD). Approve for the duration noted if
+the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following (i, ii,
+iii, iv, and v):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has a blood eosinophil level ≥ 300 cells per microliter within the
+previous 6 weeks; OR
+b) Patient had a blood eosinophil level ≥ 300 cells per microliter prior to
+treatment with Dupixent or another monoclonal antibody therapy that may
+alter blood eosinophil levels; AND
+Note: Examples of monoclonal antibody therapies that may alter blood
+eosinophil levels include Dupixent, Adbry (tralokinumab-ldrm subcutaneous
+injection), Cinqair (reslizumab intravenous infusion), Ebglyss (lebrikizumab-
+lbkz subcutaneous injection); Fasenra (benralizumab subcutaneous injection),
+Nemluvio (nemolizumab-ilto subcutaneous injection); Nucala (mepolizumab
+subcutaneous injection), Tezspire (tezepelumab subcutaneous injection), and
+Xolair (omalizumab subcutaneous injection).
+iii. Patient meets ONE of the following (a or b):
+a) Patient has received at least 3 consecutive months of combination therapy
+with ALL of the following (1, 2, and 3):
+(1)Inhaled long-acting beta2-agonist (LABA); AND
+(2)Inhaled long-acting muscarinic antagonist (LAMA); AND
+(3)Inhaled corticosteroid (ICS); OR
+Note: Use of single-entity inhalers or a combination inhaler containing
+multiple agents from the medication classes listed would fulfill the
+requirement.
+b) Patient meets BOTH of the following (1 and 2):
+(1)Patient has received at least 3 consecutive months of combination therapy
+with an inhaled LABA and an inhaled LAMA; AND
+Note: Use of single-entity inhalers or a combination inhaler containing
+multiple agents from the medication classes listed would fulfill the
+requirement.
+(2)According to the prescriber, the patient has a contraindication to the use
+of an inhaled corticosteroid; AND
+iv. Patient meets ONE of the following (a or b):
+a) Patient experienced two or more COPD exacerbations requiring treatment
+with a systemic corticosteroid with or without an antibiotic in the previous 12
+months; OR
+2 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Dupixent Prior Authorization Policy
+b) Patient experienced one or more COPD exacerbation(s) requiring a
+hospitalization in the previous 12 months; AND
+Note: A hospitalization includes a hospital admission or an emergency
+medical care visit with observation lasting > 24 hours.
+v. The medication is prescribed by or in consultation with an allergist,
+immunologist, or pulmonologist; OR
+B) Patient is Currently Receiving Dupixent. Approve for 1 year if the patient meets the
+following (i, ii, and iii):
+i. Patient has already received at least 6 months of therapy with Dupixent; AND
+Note: A patient who has received < 6 months of therapy or who is restarting
+therapy with Dupixent should be considered under criterion 3A (Chronic
+Obstructive Pulmonary Disease, Initial Therapy).
+ii. Patient continues to receive combination therapy with an inhaled LABA and
+LAMA; AND
+Note: Use of single-entity inhalers or a combination inhaler containing multiple
+agents from the medication classes listed would fulfill the requirement.
+iii. Patient has experienced a beneficial clinical response, defined by ONE of the
+following (a, b, c, d, or e):
+a) Reduced COPD symptoms; OR
+b) Reduced COPD exacerbations; OR
+c) Reduced COPD-related hospitalizations; OR
+d) Reduced emergency department or urgent care visits; OR
+e) Improved lung function parameters.
+5. Chronic Rhinosinusitis with Nasal Polyps. Approve for the duration noted if the
+patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following (i, ii,
+iii, iv, v, and vi):
+i. Patient is ≥ 12 years of age; AND
+ii. Patient has chronic rhinosinusitis with nasal polyps as evidenced by direct
+examination, endoscopy, or sinus computed tomography (CT) scan; AND
+iii. Patient has experienced two or more of the following symptoms for at least 6
+months: nasal congestion, nasal obstruction, nasal discharge, and/or
+reduction/loss of smell; AND
+iv. Patient meets BOTH of the following (a and b):
+a) Patient has received at least 4 weeks of therapy with an intranasal
+corticosteroid; AND
+b) Patient will continue to receive therapy with an intranasal corticosteroid
+concomitantly with Dupixent; AND
+v. Patient meets ONE of the following (a, b, or c):
+a) Patient has received at least one course of treatment with a systemic
+corticosteroid for 5 days or more within the previous 2 years; OR
+b) Patient has a contraindication to systemic corticosteroid therapy; OR
+c) Patient has had prior surgery for nasal polyps; AND
+vi. The medication is prescribed by or in consultation with an allergist, immunologist,
+or an otolaryngologist (ear, nose, and throat [ENT] physician specialist); OR
+B) Patient is Currently Receiving Dupixent. Approve for 1 year if the patient meets ALL
+of the following (i, ii, and iii):
+i. Patient has already received at least 6 months of therapy with Dupixent; AND
+Note: A patient who has received < 6 months of therapy or who is restarting
+therapy with Dupixent should be considered under criterion 4A (Chronic
+Rhinosinusitis with Nasal Polyps, Initial Therapy).
+ii. Patient continues to receive therapy with an intranasal corticosteroid; AND
+2 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Dupixent Prior Authorization Policy
+iii. Patient has responded to therapy as determined by the prescriber.
+Note: Examples of a response to Dupixent therapy are reduced nasal polyp size,
+improved nasal congestion, reduced sinus opacification, decreased sinonasal
+symptoms, improved sense of smell.
+6. Chronic Spontaneous Urticaria (Chronic Idiopathic Urticaria). Approve Dupixent
+for the duration noted if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following (i, ii,
+and iii):
+i. Patient is ≥ 12 years of age; AND
+ii. Patient has/had urticaria for > 6 weeks (prior to treatment with Dupixent), with
+symptoms present > 3 days per week despite daily non-sedating H1
+antihistamine therapy with doses that have been titrated up to a maximum of
+four times the standard FDA-approved dose; AND
+Note: Examples of non-sedating H1 antihistamine therapy are cetirizine,
+desloratadine, fexofenadine, levocetirizine, and loratadine.
+iii. The medication is prescribed by or in consultation with an allergist, immunologist,
+or dermatologist; OR
+B) Patient is Currently Receiving Dupixent. Approve Dupixent for 1 year if the patient
+meets BOTH the following criteria (i and ii):
+i. Patient has already received at least 6 months of therapy with Dupixent; AND
+Note: A patient who has received < 6 months of therapy or who is restarting
+therapy with Dupixent should be considered under criterion 5A (Chronic
+Spontaneous Urticaria [Chronic Idiopathic Urticaria], Initial Therapy).
+ii. Patient has experienced a beneficial clinical response, defined by ONE of the
+following (a, b, or c):
+a) Decreased itch severity; OR
+b) Decreased number of hives; OR
+c) Decreased size of hives
+7. Eosinophilic Esophagitis. Approve for the duration noted if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following (i, ii,
+iii, iv, v, vi and vii):
+i. Patient is ≥ 1 year of age; AND
+ii. Patient weighs ≥ 15 kg; AND
+iii. Patient has a diagnosis of eosinophilic esophagitis as confirmed by an endoscopic
+biopsy demonstrating ≥ 15 intraepithelial eosinophils per high-power field; AND
+iv. Patient does not have a secondary cause of eosinophilic esophagitis; AND
+Note: Examples of secondary causes of eosinophilic esophagitis are
+hypereosinophilic syndrome, eosinophilic granulomatosis with polyangiitis, and
+food allergy.
+v. Patient has received at least 8 weeks of therapy with a proton pump inhibitor;
+AND
+vi. Patient meets ONE of the following (a or b):
+a) Patient has tried dietary modifications to treat/manage eosinophilic
+esophagitis; OR
+b) The provider has determined that the patient is not an appropriate candidate
+for dietary modifications; AND
+Note: Examples of dietary modifications to treat eosinophilic esophagitis
+include an elemental diet or an elimination diet.
+vii. The medication is prescribed by or in consultation with an allergist or
+gastroenterologist; OR
+2 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Dupixent Prior Authorization Policy
+B) Patient is Currently Receiving Dupixent. Approve for 1 year if the patient meets
+BOTH of the following (i and ii):
+i. Patient has already received at least 6 months of therapy with Dupixent; AND
+Note: A patient who has received < 6 months of therapy or who is restarting
+therapy with Dupixent should be considered under criterion 6A (Eosinophilic
+Esophagitis, Initial Therapy).
+ii. Patient has experienced a beneficial clinical response, defined by ONE of the
+following (a, b, or c):
+a) Reduced intraepithelial eosinophil count; OR
+b) Decreased dysphagia/pain upon swallowing; OR
+c) Reduced frequency/severity of food impaction.
+8. Prurigo Nodularis. Approve for the duration noted if the patient meets ONE of the
+following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following (i, ii,
+iii, iv, v, and vi):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has ≥ 20 identifiable nodular lesions in total on both arms, and/or both
+legs, and/or trunk; AND
+iii. Patient has experienced pruritus for ≥ 6 weeks; AND
+iv. Patient meets ONE of the following (a or b):
+a) Patient’s prurigo nodularis is NOT medication-induced or secondary to a non-
+dermatologic condition such as neuropathy or a psychiatric disease; OR
+b) According to the prescriber, the patient has a secondary cause of prurigo
+nodularis that has been identified and adequately managed; AND
+v. Patient meets ALL of the following (a, b, and c):
+a) Patient has tried at least one high- or super-high-potency prescription topical
+corticosteroid; AND
+b) This topical corticosteroid was applied daily for at least 14 consecutive days;
+AND
+c) According to the prescriber, inadequate efficacy was demonstrated with this
+topical corticosteroid therapy; AND
+vi. The medication is prescribed by or in consultation with an allergist, immunologist,
+or dermatologist; OR
+B) Patient is Currently Receiving Dupixent. Approve for 1 year if the patient meets
+BOTH of the following (i and ii):
+i. Patient has already received at least 6 months of therapy with Dupixent; AND
+Note: A patient who has received < 6 months of therapy or who is restarting
+therapy with Dupixent should be considered under criterion 6A (Prurigo
+Nodularis, Initial Therapy).
+ii. Patient has experienced a beneficial clinical response, defined by ONE of the
+following (a, b, or c):
+a) Reduced nodular lesion count; OR
+b) Decreased pruritus; OR
+c) Reduced nodular lesion size.
+CONDITIONS NOT COVERED
+• Dupixent® (dupilumab subcutaneous injection – Regeneron/Sanofi-Aventis)
+is(are) considered not medically necessary for ANY other use(s) including the
+following (this list may not be all inclusive; criteria will be updated as newly
+published data are available):
+2 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Dupixent Prior Authorization Policy
+1. Concurrent Use of Dupixent with another Monoclonal Antibody Therapy. The
+efficacy and safety of Dupixent in combination with other monoclonal antibody therapies
+have not been established.
+Note: Monoclonal antibody therapies are Adbry® (tralokinumab-ldrm subcutaneous
+injection), Cinqair® (reslizumab intravenous injection), Ebglyss® (lebrikizumab-lbkz
+subcutaneous injection), Fasenra® (benralizumab subcutaneous injection), Nemluvio®
+(nemolizumab-ilto subcutaneous injection), Nucala® (mepolizumab subcutaneous
+injection), Tezspire® (tezepelumab-ekko subcutaneous injection), or Xolair®
+(omalizumab subcutaneous injection).
+2. Concurrent Use of Dupixent with Janus Kinase (JAK) Inhibitors (oral or
+topical). Use of JAK inhibitors is not recommended for use in combination with other
+JAK inhibitors, biologic immunomodulators (e.g., Dupixent), or with other
+immunosuppressants.34-37
+Note: Examples of JAK inhibitors are Cibinqo® (abrocitinib tablets), Leqselvi™
+(deuruxolitinib tablets), Rinvoq®/Rinvoq® LQ (upadacitinib extended-release tablets and
+oral solution), and Opzelura™ (ruxolitinib cream).
+3. Peanut Allergy. Dupixent is not indicated for the management of patients with peanut
+allergy.1 One phase II, single-arm, open-label study evaluated Dupixent in children and
+adolescents with peanut allergy (n = 24).39 Following 24 weeks of therapy, Dupixent
+monotherapy did not improve desensitization to peanut exposure after food challenge.
+Only 2 patients (8.3%) were able to achieve the primary endpoint of passing the 24-
+week double-blind placebo-controlled food challenge (DBPCFC) [≥ 444 mg {cumulative}
+of peanut protein]. Another 8 patients (33.3%) experienced a grade 2 allergic reaction
+at the 24-week DBPCFC and 10 patients (41.7%) used epinephrine rescue medication.
+An additional study (n = 128) evaluated whether Dupixent enhances the efficacy and
+safety of an oral immunotherapy product, Palforzia® (peanut [Arachis hypogaea]
+allergen powder-dnfp for oral administration), in patients 6 to ≤ 17 years of age with
+peanut allergy.40 Patients received either Dupixent + Palforzia or placebo + Palforzia
+during a 28- to 40-week up-dosing period. Then, patients in the Dupixent + Palforzia
+group were re-randomized to receive Dupixent + Palforzia or placebo + Palforzia during
+a 24-week maintenance period. Following the up-dosing period, Dupixent + Palforzia
+resulted in a modest increase in efficacy vs. placebo + Palforzia (20.2% increase in the
+number of patients who passed a DBPCFC [2,044 mg peanut protein {cumulative}] with
+Dupixent + Palforzia vs. placebo + Palforzia). Similarly, during the maintenance period,
+Dupixent + Palforzia increased the number of patients who passed the DBPCFC (2,044
+mg peanut protein [cumulative]) vs. placebo + Palforzia (16.6% treatment difference).
+However, Dupixent was not found to provide protection against Palforiza-related
+anaphylaxis, which occurred in 5.1% of patients receiving Dupixent + Palforzia and
+4.0% of patients receiving placebo + Palforzia. Additional studies are needed to
+establish the efficacy of Dupixent for peanut allergy.
+REFERENCES
+1. Dupixent® subcutaneous injection [prescribing information]. Tarrytown, NY:
+Regeneron/sanofi-aventis; September 2024.
+2. Castro M, Corren J, Pavord ID, et al. Dupilumab efficacy and safety in moderate-to-
+severe uncontrolled asthma. N Engl J Med. 2018;378(26);2486-2496.
+3. Wenzel S, Castro M, Corren J, et al. Dupilumab efficacy and safety in adults with
+uncontrolled persistent asthma despite use of medium-to-high-dose inhaled
+2 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Dupixent Prior Authorization Policy
+corticosteroids plus a long-acting β2 agonist: a randomised double-blind placebo-
+controlled pivotal phase 2b dose-ranging trial. Lancet. 2016;388(10039):31-44.
+4. Rabe KF, Nair P, Brusselle G, et al. Efficacy and safety of dupilumab in glucocorticoid-
+dependent severe asthma. N Engl J Med. 2018;378(26):2475-2485.
+5. Bacharier LB, Maspero JF, Katelaris CH, et al. Dupilumab in children with uncontrolled
+moderate-to-severe asthma. N Engl J Med. 2021;385(24):2230-2240.
+6. Simpson EL, Bieber T, Guttman-Yassky E, et al. Two phase 3 trials of dupilumab versus
+placebo in atopic dermatitis. N Engl J Med. 2016;375(24):2335-2348.
+7. Blauvelt A, de Bruin-Weller M, Gooderham M, et al. Long-term management of
+moderate-to-severe atopic dermatitis with dupilumab and concomitant topical
+corticosteroids (LIBERTY AD CHRONOS): a 1-year, randomised, double-blinded, placebo-
+controlled, phase 3 trial. Lancet. 2017;389:2287-2303.
+8. Simpson EL, Paller AS, Siegfried EC, et al. Efficacy and safety of dupilumab in
+adolescents with uncontrolled moderate to severe atopic dermatitis: a phase 3
+randomized clinical trial. JAMA Dermatol. 2020;156(1):44-56.
+9. Paller AS, Siegfried EC, Thaci D, et al. Efficacy and safety of dupilumab with
+concomitant topical corticosteroids in children 6 to 11 years old with severe atopic
+dermatitis: a randomized, double-blinded, placebo-controlled phase 3 trial. J Am Acad
+Dermatol. 2020;83(5):1282-1293.
+10. Paller AS, Simpson EL, Siegfried EC, et al. Dupilumab in children aged 6 months to
+younger than 6 years with uncontrolled atopic dermatitis: a randomised, double-blind,
+placebo-controlled, phase 3 trial. Lancet. 2022;400:908-919.
+11. Bhatt SP, Rabe KF, Hanania NA, et al. Dupilumab for COPD with type 2 inflammation
+indicated by eosinophil counts. N Engl J Med. 2023;289(3):205-214.
+12. Bhatt SP, Rabe KF, Hanania NA, et al. Dupilumab for COPD with blood eosinophil
+evidence of type 2 inflammation. N Engl J Med. 2024;390(24):2274-2283.
+13. Bachert C, Han JK, Desrosiers M, et al. Efficacy and safety of dupilumab in patients with
+severe chronic rhinosinusitis with nasal polyps (LIBERTY NP SINUS-24 and LIBERTY NP
+SINUS-52): results from two multicenter, randomized, double-blind, placebo-controlled,
+parallel-group phase3 trials. Lancet. 2019;394(10209):1638-1650.
+14. Bachert C, Mannent L, Naclerio RM, et al. Effect of subcutaneous dupilumab on nasal
+polyp burden in patients with chronic sinusitis and nasal polyposis: a randomized clinical
+trial. JAMA. 2016;315(5):469-479.
+15. Jonstam K, Swanson BN, Mannent L, et al. Dupilumab reduces local type 2 pro-
+inflammatory biomarkers in chronic rhinosinusitis with nasal polyposis. Allergy.
+2019;74(4):743-752.
+16. Maurer M, Casale TB, Saini SS, et al. Dupilumab in patients with chronic spontaneous
+urticaria (LIBERTY_CSU CUPID): two randomized, double-blind, placebo-controlled
+phase 3 trials. J Allergy Clin Immunol. 2024;154(1):184-194.
+17. Dellon ES, Rothenberg ME, Collins MH, et al. Dupilumab in adults with adolescents with
+eosinophilic esophagitis. N Engl J Med. 2022;387(25):2317-2330.
+18. Chehade M, Dellon ES, Spergel JM, et al. Dupilumab for eosinophilic esophagitis in
+patients 1 to 11 years of age. N Engl J Med. 2024;390(24):2239-2251.
+19. Yosipovitch G, Mollanazar N, Stander S, et al. Dupilumab in patients with prurigo
+nodularis: two randomized, double-blind, placebo-controlled phase 3 trials. Nat Med.
+2023;29(5):1180-1190.
+20. Global Initiative for Asthma. Global strategy for asthma management and prevention.
+Updated 2025. Available at: http://www.ginasthma.org. Accessed on March 29, 2025.
+21. Chung KF, Wenzel SE, Brozek JL, et al. International ERS/ATS guidelines on definition,
+evaluation and treatment of severe asthma. Eur Respir J. 2014;43:343-373.
+22. Holguin F, Cardet JC, Chung KF, et al. Management of severe asthma: a European
+Respiratory Society/American Thoracic Society Guideline. Eur Respir J.
+2020;55:1900588.
+2 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Dupixent Prior Authorization Policy
+23. Davis DMR, Drucker AM, Alikhan A, et al. Guidelines of care for the management of
+atopic dermatitis in adults with phototherapy and systemic therapies. J Am Acad
+Dermatol. 2024;90(2):e43-e56.
+24. Sidbury R, Alikhan A, Cohen DE, et al. Guidelines of care for the management of atopic
+dermatitis in adults with topical therapies. J Am Acad Dermatol. 2023;89(e1-e20).
+25. Global Initiative for Chronic Obstructive Lung Disease. Global strategy for the diagnosis,
+management, and prevention of chronic obstructive pulmonary disease. National
+Institutes of Health, National Heart, Lung, and Blood Institute; 2025. Available at:
+https://goldcopd.org/gold-reports/. Accessed on April 8, 2025.
+26. Rank MA, Chu DK, Bognanni A, et al. Joint Task Force on Practice Parameters GRADE
+guidelines for the medical management of chronic rhinosinusitis with nasal polyposis. J
+Allergy Clin Immunol. 2023;151(2):386-398.
+27. Peters AT, Spector S, Hsu J, et al. Diagnosis and management of rhinosinusitis: a
+practice parameter update. Ann Allergy Asthma Immunol. 2014:347-385.
+28. Dykewicz MS, Wallace DV, Baroody F, et al. Treatment of seasonal allergic rhinitis: an
+evidenced-based focused 2017 guideline update. Ann Allergy Asthma Immunol.
+2017;119(6):489-511.
+29. Rosenfeld RM, Piccirillo JF, Chandrasekhar SS, et al. Clinical practice guideline (update):
+adult sinusitis. Otolaryngol Head Neck Surg. 2015;152(2S):S1-S39.
+30. Joint Task Force on Practice Parameters: American Academy of Allergy, Asthma and
+Immunology and the American College of Allergy, Asthma and Immunology. Rhinitis
+2020: a practice parameter update. J Allergy Clin Immunol. 2020;146:721-767.
+31. Zuberbier T, Abdul Latiff AH, Abuzakouk M, et al. The international
+EAACI/GA2LEN/EuroGuiDerm/APAAACI guideline for the definition, classification,
+diagnosis, and management of urticaria. Allergy. 2022;73:734-766.
+32. Dellon ES, Muir AB, Katzka DA, et al. ACG Clinical Guideline: Diagnosis and
+Management of Eosinophilic Esophagitis. Am J Gastrenterol. 2025;120(1):31-59.
+33. Elmariah S, Kim B, Berger T, et al. Practical approaches for diagnosis and management
+of prurigo nodularis: United States expert panel consensus. J Am Acad Dermatol.
+2021;84(3):747-760.
+34. Cibinqo® tablets [prescribing information]. New York, NY: Pfizer; December 2023.
+35. Rinvoq® extended-release tablets/Rinvoq® LQ oral solution [prescribing information].
+North Chicago, IL: AbbVie; March 2025.
+36. Opzelura® cream [prescribing information]. Wilmington, DE: Incyte; January 2023.
+37. Leqselvi™ tablets [prescribing information]. Whippany, NJ: Sun/Halo; July 2024.
+38. Casale T, Saini S, Bernstein J, et al. Dupilumab significantly improves itch and hives in
+patients with chronic spontaneous urticaria (CUPID Study C) [abstract LBA002].
+Presented at: 2024 Annual Scientific Meeting American College of Allergy, Asthma, &
+Immunology; Boston, MA; October 24-28, 2024.
+39. Sindher SB, Nadeau C, Chinthrajah RS, et al. Efficacy and safety of dupilumab in
+children with peanut allergy: a multicenter, open-label, phase II study. Allergy.
+2025;80(1):227-237.
+40. Chinthrajah RS, Sindher SB, Nadeau KC, et al. Dupilumab as an adjunct to oral
+immunotherapy in pediatric patients with peanut allergy. Allergy. 2025;80(3):827-842.
+41. Murrell DF, Joly P, Werth VP, et al. Study design of a phase 2/3 randomized controlled
+trial of dupilumab in adults with bullous pemphigoid: LIBERTY-BP ADEPT. Adv Ther.
+2024;41(7):2991-3002.
+42. Werth VP, Caux F, Murrell DF, et al. Efficacy and safety of dupilumab in patients with
+bullous pemphigoid: results from LIBERTY-BP ADEPT phase 2/3 study. Presented at:
+the 83rd Annual Meeting of the American Academy of Dermatology (AAD); Orlando, FL;
+March 7 ̶11, 2025.
+2 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Dupixent Prior Authorization Policy
+43. Borradori L, Van Beek N, Feliciani C, et al. Updated S2 K guidelines for the management
+of bullous pemphigoid initiated by the European Academy of Dermatology and
+Venereology (EADV). J Eur Acad Dermatol Venereol. 2022;36(10):1689-1704.
+44. Simpson EL, Silverberg JI, Worm M, et al. Dupilumab treatment improves signs,
+symptoms, quality of life, and work productivity in patients with atopic hand and foot
+dermatitis: results from a phase 3 randomized, double-blind, placebo-controlled trial. J
+Am Acad Dermatol. 2024;90(6):1190-1199.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Conditions Not Covered 03/22/2023
+Revision : Criteria were updated to clarify that use of Dupixent with another
+monoclonal antibody therapy is specific to Cinqair, Fasenra, Nucala,
+Tezspire, Xolair, and Adbry.
+Selected Conditions Not Covered 05/10/2023
+Revision : Criteria were added for “Concurrent Use of Dupixent with Janus
+Kinase Inhibitors (JAKis) [oral or topical]”.
+Selected Chronic Rhinosinusitis with Nasal Polyps: Approval condition 02/14/2024
+Revision updated from “Nasal Polyps” to “Chronic Rhinosinusitis with Nasal
+Polyps”. Duration of the intranasal corticosteroid requirement was
+changed from 3 months to 4 weeks.
+Eosinophilic Esophagitis: The age of approval was reduced from ≥
+12 years of age to ≥ 1 year of age. Additionally, the weight
+requirement was reduced from ≥ 40 kg to ≥ 15 kg.
+HISTORY (CONTINUED)
+Type of Summary of Changes Review
+Revision Date
+Annual Asthma: Removed leukotriene receptor antagonists as an example 04/19/2024
+Revision of additional asthma controller or asthma maintenance medications.
+Selected Chronic Rhinosinusitis with Nasal Polyps: The age of approval 09/25/2024
+Revision was changed from ≥ 18 years of age to ≥ 12 years of age.
+Asthma: Eosinophil level requirements were clarified to require a
+level ≥ 150 cells/microliter either within the previous 6 weeks OR
+prior to treatment with a monoclonal antibody that may alter
+eosinophil levels. Previously, criteria required a level ≥ 150
+cells/microliter either within the previous 6 weeks OR within 6 weeks
+prior to treatment with a monoclonal antibody that may lower
+eosinophil levels.
+Throughout the policy, Ebglyss (lebrikizumab-lbkz subcutaneous
+injection) and Nemluvio (nemolizumab-ilto subcutaneous injection)
+were added to notes as examples of monoclonal antibody therapies.
+Selected Chronic Obstructive Pulmonary Disease: This condition and 10/09/2024
+Revision criteria for approval were added to the policy. New approval criteria
+for this indication were added that include an age requirement, an
+eosinophil requirement, a trial of inhaled therapies, a history of
+chronic bronchitis signs or symptoms, a history of COPD
+exacerbations, and specialist involvement.
+Conditions Not Covered
+, Concurrent Use of Dupixent with Janus Kinase (JAK)
+Inhibitors (oral or topical): Leqselvi™ (deuruxolitinib tablets) and
+Rinvoq® LQ (upadacitinib oral solution) were added as examples of
+JAK inhibitors.
+2 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Dupixent Prior Authorization Policy
+Annual Chronic Spontaneous Urticaria (Chronic Idiopathic Urticaria): 04/23/2025
+Revision This condition and criteria for approval were added to the policy.
+New approval criteria for this indication were added that include an
+age requirement, a duration of symptom requirement, a trial of H
+1
+antihistamine therapy, and specialist involvement.
+Conditions Not Covered
+, Peanut Allergy: Peanut allergy was added to the “Conditions Not
+Covered”.
+Selected Chronic Obstructive Pulmonary Disease: Criteria requiring the 06/04/2025
+Revision patient to have signs and symptoms of chronic bronchitis were
+removed. Exacerbation criteria were simplified to require the patient
+to have experienced two or more COPD exacerbations requiring
+treatment with a systemic corticosteroid with or without an antibiotic
+in the previous 12 months or one or more COPD exacerbations
+requiring a hospitalization in the previous 12 months. Previously,
+these criteria required that the patient experienced two or more
+COPD exacerbations requiring treatment with a systemic
+corticosteroid and/or an antibiotic in the previous 12 months and one
+or more of these exacerbations required treatment with a systemic
+steroid and one or more of these exacerbations occurred while the
+patient was receiving combination inhaled therapy. Previous criteria
+also required that one or more COPD exacerbations requiring a
+hospitalization in the previous 12 months had occurred while the
+patient was receiving combination inhaled therapy.
+Selected Atopic Dermatitis: Criteria were updated to require that the 07/02/2025
+Revision patient either has atopic dermatitis involvement estimated to be ≥
+10% of the body surface area OR the patient is ≥ 12 years of age
+and has moderate to severe hand and/or foot atopic dermatitis.
+Previously, criteria required that the patient have atopic dermatitis
+involvement estimated to be ≥ 10% of the body surface area.
+Bullous Pemphigoid: This condition and criteria for approval were
+added to the policy.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025
+The Cigna Group.
+2 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Dupixent Prior Authorization Policy

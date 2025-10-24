@@ -1,0 +1,157 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Hepatitis C – Sovaldi Drug Quantity Management Policy – Per Days
+• Sovaldi® (sofosbuvir tablets and oral pellets − Gilead)
+REVIEW DATE: 10/07/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Sovaldi, a hepatitis C virus (HCV) nucleotide analog non-serine (NS)5B polymerase
+inhibitor, is indicated for the following uses:1
+• Chronic HCV genotype 1, 2, 3 or 4 infection, in adults without cirrhosis
+or with compensated cirrhosis as a component of a combination antiviral
+treatment.
+• Chronic HCV genotype 2 or 3 infection, in pediatric patients ≥ 3 years of
+age without cirrhosis or with compensated cirrhosis in combination with
+ribavirin.
+Dosing
+The recommended dose of Sovaldi in pediatric patients ≥ 3 years of age with
+genotype 2 or 3 HCV is based on weight, and is to be taken orally once daily in
+combination with ribavirin (Table 1).1 Sovaldi pellets can be taken by pediatric
+patients who cannot swallow the tablet formulation.
+Table 1. Sovaldi Dosing in Pediatric Patients ≥ 3 Years of Age.1
+Body Weight Dosing of Sovaldi Tablets or Oral Sovaldi Daily Dose
+Pellets
+< 17 kg 1 x 150 mg pellet packet QD 150 mg/day
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Hepatitis C – Sovaldi Drug Quantity Management
+Policy – Per Days
+≥ 17 kg to < 35 1 x 200 mg pellet packet QD 200 mg/day
+kg OR
+1 x 200 mg tablet QD
+≥ 35 kg 2 x 200 mg pellet packets QD 400 mg/day
+OR
+2 x 200 mg tablets QD
+OR
+1 x 400 mg tablet QD
+QD – Once daily.
+The duration of therapy in pediatric patients with genotype 2 or 3 chronic HCV is
+provided in Table 2.
+Table 2. Sovaldi Treatment Regimen in Pediatric Patients (≥ 3 years of age).1
+Patient Population Treatment and Duration
+Genotype 2 Treatment-naïve and treatment experienced Sovaldi + ribavirin x 12 weeks
+without cirrhosis or with compensated cirrhosis
+(Child-Pugh A)
+Genotype 3 Treatment-naïve and treatment experienced Sovaldi + ribavirin x 24 weeks
+without cirrhosis or with compensated cirrhosis
+(Child-Pugh A)
+Availability
+Sovaldi is available as 150 mg and 200 mg pellets in unit-dose packets in cartons of
+28 packets.1 Sovaldi is also available as 200 mg and 400 mg tablets in bottles
+containing 28 tablets.
+Guidelines
+According to the American Association for the Study of Liver Diseases (AASLD)
+guidelines, weight-based Sovaldi + ribavirin for treatment-naive or interferon-
+experienced (± ribavirin) children aged ≥3 years with genotype 2 or 3, without
+cirrhosis or with compensated cirrhosis (Child-Pugh A) is no longer favored because
+pangenotypic ribavirin-free treatments are now available for children as young as 3
+years of age.2 The AASLD recommends Epclusa® (sofosbuvir/velpatasvir tablets
+and oral pellets) and Mavyret® (glecaprevir/pibrentasvir tablets and oral pellets) for
+the treatment of patients ≥ 3 years of age with genotypes 1 through 6 chronic HCV
+who are treatment-naïve or interferon-experienced, with or without compensated
+cirrhosis; Harvoni® (ledipasvir/sofosbuvir tablets and oral pellets) is also an option
+for children ≥ 3 years of age with genotypes 1, 4, 5, or 6 chronic HCV.2
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to prevent
+stockpiling and waste and address potential order entry error of Sovaldi. If the
+Drug Quantity Management rule is not met for the requested medication at the
+point of service, coverage will be determined by the Criteria below. All approvals
+are provided for 1 year in duration.
+4 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Sovaldi Drug Quantity Management Policy –
+Per Days
+Drug Quantity Limits
+Product Strength and Form Retail or Home Delivery
+Maximum Quantity per 365 days*
+Sovaldi® 150 mg pellet packets 84 packets
+(sofosbuvir tablets and pellet (28 packets per dispensing)
+packets) 200 mg pellet packets 168 packets
+(56 packets per dispensing)
+200 mg tablets 168 tablets
+(56 tablets per dispensing)
+400 mg tablets 84 tablets
+(28 tablets per dispensing)
+* This is a quantity sufficient to treat for 12 weeks at a dose of 1 x 150 mg pellet packet QD, 1 x 200
+mg pellet packet QD, 2 x 200 mg pellet packet QD, 2 x 200 mg tablets QD, or 1 x 400 mg tablet QD.
+Hepatitis C – Sovaldi Drug Quantity Management Policy – Per Days
+product(s) is(are) covered as medically necessary when the following
+criteria is(are) met. Any other exception is considered not medically
+necessary.
+CRITERIA
+Sovaldi 150 mg pellet packet, Sovaldi 400 mg tablet
+1. Chronic Hepatitis C Virus, Genotype 3 Approve 168 tablets per 365 days at
+retail or home delivery if the patient meets ALL of the following (A, B, and C):
+A) Patient is < 18 years of age; AND
+B) The patient does not have decompensated cirrhosis (Child-Pugh B or C); AND
+Note: Coverage is provided for patients without cirrhosis or with
+compensated cirrhosis (Child-Pugh A).
+C) The medication will be prescribed in combination with ribavirin.
+Note: This is a quantity sufficient to treat with one pellet packet or one tablet
+once daily for 24 weeks.
+2. For an indication or condition addressed as an approval in the above criteria
+section, approve the quantity requested, not to exceed 168 tablets to complete
+a course therapy.
+Note: For example, if the patient has received 84 tablets (12 weeks), approve
+84 tablets to complete a total of 24 weeks of treatment (total of 168 tablets).
+Sovaldi 200 mg pellet packet, Sovaldi 200 mg tablet
+1. Chronic Hepatitis C Virus, Genotype 3. Approve 336 tablets per 365 days at
+retail or home delivery if the patient meets ALL of the following (A, B, and C):
+A) Patient is < 18 years of age; AND
+B) The patient does not have decompensated cirrhosis (Child-Pugh B or C); AND
+Note: Coverage is provided for patients without cirrhosis or with
+compensated cirrhosis (Child-Pugh A).
+C) The medication will be prescribed in combination with ribavirin.
+Note: This is a quantity sufficient to treat with two pellet packets or two tablets
+once daily for 24 weeks.
+4 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Sovaldi Drug Quantity Management Policy –
+Per Days
+2. For an indication or condition addressed as an approval in the above criteria
+section, approve the quantity requested, not to exceed 336 tablets per 365 days
+at retail or home delivery, to complete a course therapy.
+Note: For example, if the patient has received 12 weeks of therapy (168
+tablets), approve 168 tablets to complete a total of 24 weeks of treatment (total
+of 336 tablets).
+REFERENCES
+1. Sovaldi tablets and oral pellets [prescribing information]. Foster City, CA: Gilead; March 2020.
+2. American Association for the Study of Liver Diseases and the Infectious Diseases Society of
+America. Testing, managing, and treating hepatitis C. Available at:
+http://www.hcvguidelines.org. Updated December 19, 2023. Accessed on: October 1, 2024.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 09/28/2023
+Revision
+Annual No criteria changes. 10/07/2024
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. ©
+2024 The Cigna Group.
+4 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Sovaldi Drug Quantity Management Policy –
+Per Days

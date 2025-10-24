@@ -1,0 +1,137 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1296-6
+Program Prior Authorization/Notification
+Medication Xpovio® (selinexor)
+P&T Approval Date 10/2019, 1/2021, 1/2022, 1/2023, 1/2024, 1/2025
+Effective Date 4/1/2025
+1. Background:
+Xpovio (selinexor) is a nuclear export inhibitor indicated in combination with Velcade®
+(bortezomib) and dexamethasone for the treatment of adult patients with multiple myeloma who
+have received at least one prior therapy. It is also indicated in combination with dexamethasone for
+the treatment of adult patients with relapsed or refractory multiple myeloma (RRMM) who have
+received at least four prior therapies and whose disease is refractory to at least two proteasome
+inhibitors, at least two immunomodulatory agents, and an anti-CD38 monoclonal antibody.
+Xpovio is also indicated for the treatment of adult patients with relapsed or refractory diffuse large
+B-cell lymphoma (DLBCL), not otherwise specified, including DLBCL arising from follicular
+lymphoma, after at least 2 lines of systemic therapy.
+The National Cancer Comprehensive Network® (NCCN) also recommends the use of Xpovio for
+the treatment of previously treated multiple myeloma for relapsed or progressive disease in
+combination with Darzalex® (daratumumab) and dexamethasone, Kyprolis® (carfilzomib) and
+dexamethasone, or Pomalyst® (pomalidomide) and dexamethasone in patients who have received
+at least two prior therapies including an immunomodulatory agent and a proteasome inhibitor and
+who have demonstrated disease progression on or within 60 days of completion of the last therapy.
+The NCCN also recommends using Xpovio for the treatment of adult patients with relapsed or
+refractory diffuse large B-cell lymphoma (DLBCL), not otherwise specified including histologic
+transformation of indolent lymphomas to DLBCL; HIV-related diffuse large B-cell lymphoma, or
+monomorphic B-cell hyper post-transplant lymphoproliferative disorder, after at least 2 lines of
+systemic therapy.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the notification
+criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Xpovio will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+© 2025 UnitedHealthcare Services, Inc.
+1
+Authorization will be issued for 12 months.
+B. Multiple Myeloma
+1. Initial Authorization
+a. Xpovio will be approved based on one of the following:
+(1) All of the following:
+a) Diagnosis of relapsed or refractory multiple myeloma (RRMM)
+-AND-
+b) Patient has received at least four prior therapies
+-AND-
+c) Disease is refractory to all of the following:
+i. Two proteasome inhibitors (e.g., bortezomib, carfilzomib)
+ii. Two immunomodulatory agents (e.g., lenalidomide, thalidomide)
+iii. An anti-CD38 monoclonal antibody (e.g., daratumumab)
+-AND-
+d) Used in combination with dexamethasone
+-OR-
+(2) All of the following:
+a) Diagnosis of multiple myeloma
+-AND-
+b) Patient has received at least one prior therapy
+-AND-
+c) One of the following:
+i. Used in combination with Velcade® (bortezomib) and dexamethasone
+ii. Used in combination with Darzalex® (daratumumab) and dexamethasone
+iii. Used in combination with Kyprolis® (carfilzomib) and dexamethasone
+-OR-
+(3) All of the following:
+© 2025 UnitedHealthcare Services, Inc.
+2
+a) Diagnosis of multiple myeloma
+-AND-
+b) Patient has received at least 2 prior therapies, including an immunomodulatory
+agent (e.g., lenalidomide, thalidomide) and a proteasome inhibitor (e.g.,
+bortezomib, carfilzomib)
+-AND-
+c) Patient has demonstrated progression on or within 60 days of completion of
+the last therapy
+-AND-
+d) Used in combination with Pomalyst® (pomalidomide) and dexamethasone
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Xpovio will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Xpovio therapy
+Authorization will be issued for 12 months.
+C. Diffuse Large B-Cell Lymphoma (DLBCL)
+1. Initial Authorization
+a. Xpovio will be approved based on both of the following:
+(1) One of the following:
+a) Diagnosis of relapsed or refractory diffuse large B-cell lymphoma (DLBCL)
+(including histologic transformation of indolent lymphomas to DLBCL)
+b) Diagnosis of relapsed or refractory HIV-related diffuse large B-cell lymphoma,
+primary effusion lymphoma, or HHV8-positive diffuse large B-cell lymphoma.
+c) Diagnosis of relapsed or refractory monomorphic B-Cell type post-transplant
+lymphoproliferative disorder.
+-AND-
+(2) Patient has received at least 2 lines of systemic therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+© 2025 UnitedHealthcare Services, Inc.
+3
+a. Xpovio will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Xpovio therapy
+Authorization will be issued for 12 months.
+D. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category
+of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+Supply limits may be in place.
+• Please refer to plan specifics to determine exclusion status.
+4. References:
+1. Xpovio [package insert]. Newton, MA: Karyopharm Therapeutics Inc.; July 2022.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org. Accessed November 25, 2024.
+Program Prior Authorization/Notification – Xpovio (selinexor)
+Change Control
+10/2019 New program.
+1/2021 Added coverage criteria for DLBCL according to label.
+1/2022 Annual review. Updated coverage criteria for multiple myeloma according
+to label and NCCN. Updated references.
+1/2023 Annual review. Updated background and coverage criteria for multiple
+myeloma according to NCCN recommendations. Added state mandate and
+updated references.
+1/2024 Annual review. Updated background. Updated indicated formatting for
+consistency. Included coverage criteria for diffuse large B-cell lymphoma
+according to NCCN recommendations and updated reference.
+1/2025 Annual review. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+4

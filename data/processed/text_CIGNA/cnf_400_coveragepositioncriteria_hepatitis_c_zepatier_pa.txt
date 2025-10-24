@@ -1,0 +1,211 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Hepatitis C – Zepatier Prior Authorization Policy
+• Zepatier® (grazoprevir/elbasvir tablets – Merck)
+REVIEW DATE: 02/12/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Zepatier is an oral fixed-dose combination tablet containing grazoprevir, a second-
+generation protease inhibitor and elbasvir, an NS5A inhibitor.1 It is indicated with or
+without ribavirin for the treatment of patients ≥ 12 years of age or weighing ≥ 30 kg
+with genotype 1 or 4 chronic hepatitis C virus (HCV).1
+Zepatier is contraindicated in patients with Child-Pugh B or C liver disease
+(decompensated cirrhosis).1
+Dosing
+The duration of treatment is outlined below (Table 1). Prior to initiating Zepatier in
+patients with genotype 1a infection, testing for the NS5A resistance-associated
+polymorphism is recommended to guide treatment duration.1 In patients with
+genotype 1a with the NS5A polymorphism present at baseline, 12 weeks of treatment
+with Zepatier resulted in lower rates of sustained viral response 12 weeks after
+treatment completion relative to patients with genotype 1a without the presence of
+this baseline polymorphism.
+Page 1 of 5 - Cigna National Formulary Coverage - Policy:Hepatitis C – Zepatier Prior Authorization Policy
+Table 1. Recommended Zepatier Dosage Regimens for the Treatment of Genotype 1 or 4
+Chronic HCV.1
+Genotype Treatment History Baseline NS5A Treatment Treatment
+Polymorphism Regimen Duration
+1a TN/PR-experienced* without No† Zepatier 12 weeks
+NS5A polymorphisms†
+1a TN/PR-experienced* with baseline Yes† Zepatier + 16 weeks
+NS5A polymorphisms† ribavirin
+1a§ or 1b PR + HCV PI-experiencedβ NA Zepatier + 12 weeks
+ribavirin
+1b TN/TE* NA Zepatier 12 weeks
+4 TN NA Zepatier 12 weeks
+4 PR-experienced* NA Zepatier + 16 weeks
+ribavirin‡
+HCV – Hepatitis C virus; TN – Treatment naïve; PR – Pegylated interferon/ribavirin; * Patients who have
+failed treatment with PR; † NS5A resistance-associated polymorphisms at amino acid positions 28, 30,
+31, or 93;§ The optimal Zepatier-based treatment regimen and duration of therapy for PR + HCV
+protease inhibitor-experienced patients with genotype 1a with one or more baseline NS5A resistance-
+associated polymorphisms at positions 28, 30, 31, and 93 has not been established; PI – PI – Protease
+inhibitor; β Patients who have failed treatment with PR + and NS3/4A PI (i.e., Victrelis® [boceprevir
+capsules], Incivek® [telaprevir tablets], or Olysio® [simeprevir capsules]); NA – Not applicable; TE –
+Treatment-experienced.
+Guidelines
+According to the American Association for the Study of Liver Diseases (AASLD)
+[December 2023], NS5A resistance-associated substitution testing is recommended
+for treatment-naïve or treatment-experienced patients with genotype 1a chronic HCV
+who are being considered for Zepatier.2 If the NS5A polymorphism is present, a
+different regimen should be considered. Zepatier is recognized as an alternative
+regimen in treatment-naïve patients with genotype 1a chronic HCV with or without
+compensated cirrhosis, and a recommended treatment option in patients with
+genotype 1b or 4 chronic HCV with or without compensated cirrhosis. It is also
+recognized as an alternative regimen in treatment-naïve and non-direct-acting
+antiviral-experienced kidney transplant patients with genotype 1 or 4 chronic HCV
+with or without compensated cirrhosis. The pediatric portion of the guidelines have
+not been updated since the approval of the lower age indication approved with
+Zepatier.
+The European Society for Pediatric Gastroenterology, Hepatology and Nutrition
+recommendations on the treatment of hepatitis C (2024) describe the optimal
+therapeutic management of adolescents and children with HCV infection.3 Direct-
+acting antiviral regimens are recommended for all treatment-naïve and treatment-
+experienced children ≥ 3 years of age with chronic HCV. When available, the regimen
+of choice should be one that has the shortest treatment duration and does not require
+concomitant ribavirin. In addition, to simplify treatment and avoid the need of
+genotyping and/or baseline resistance‐associated substitutions assessment,
+pangenotypic regimens are preferred.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Zepatier. All
+approvals are provided for the duration noted below. Because of the specialized skills
+5 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Zepatier Prior Authorization Policy
+required for evaluation and diagnosis of patients treated with Zepatier as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Zepatier to be prescribed by or in consultation with a physician who specializes in the
+condition being treated.
+• Zepatier® (grazoprevir/elbasvir tablets – Merck)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Chronic Hepatitis C Virus (HCV) Genotype 1a. Approve for the duration noted
+if the patient meets ALL of the following (A, B, and C):
+A) Patient meets ONE of the following (i or ii):
+i. Patient is ≥ 12 years of age; OR
+ii. Patient weighs ≥ 30 kg; AND
+B) Patient meets ONE of the following (i or ii):
+i. Approve for 12 weeks if the patient meets ONE of the following (a or b):
+a) Patient meets BOTH of the following [(1) and (2)]:
+(1) Patient is treatment-naïve, OR patient has previously been
+treated with pegylated interferon + ribavirin only; AND
+(2) Patient does NOT have a baseline NS5A polymorphism at one (or
+more) of the following the amino acid positions: 28, 30, 31, or 93;
+OR
+b) Patient meets BOTH of the following [(1) and (2)]:
+(1) Patient has previously been treated with pegylated interferon +
+ribavirin and an HCV protease inhibitor; AND
+(2) The medication will be prescribed in combination with ribavirin;
+OR
+ii. Approve for 16 weeks if the patient meets ALL of the following (a, b, and
+c):
+a) Patient meets ONE of the following [(1) or (2)]:
+(1) Patient is treatment-naïve; OR
+(2) Patient has previously been treated with pegylated interferon +
+ribavirin only; AND
+b) Patient has a baseline NS5A polymorphism at one (or more) of the
+following amino acid positions: 28, 30, 31, or 93; AND
+c) The medication will be prescribed in combination with ribavirin; AND
+C) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+2. Chronic Hepatitis C Virus (HCV) Genotype 1b. Approve for 12 weeks if the
+patient meets ALL of the following (A, B, and C):
+A) Patient meets ONE of the following (i or ii):
+i. Patient is ≥ 12 years of age; OR
+ii. Patient weighs ≥ 30 kg; AND
+5 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Zepatier Prior Authorization Policy
+B) Patient meets ONE of the following (i or ii):
+i. Patient meets ONE of the following (a or b):
+a) Patient is treatment-naïve; OR
+b) Patient has previously been treated with pegylated interferon + ribavirin
+only; OR
+ii. Patient meets BOTH of the following (a and b):
+a) Patient has previously been treated with pegylated interferon + ribavirin
++ an HCV protease inhibitor; AND
+b) The medication will be prescribed in combination with ribavirin; AND
+C) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+3. Chronic Hepatitis C Virus (HCV) Genotype 4. Approve for the duration noted
+if the patient meets ALL of the following (A, B, and C):
+A) Patient meets ONE of the following (i or ii):
+i. Patient is ≥ 12 years of age; OR
+ii. Patient weighs ≥ 30 kg; AND
+B) Patient meets ONE of the following (i or ii):
+i. Patient is treatment-naïve: Approve for 12 weeks; OR
+ii. Approve for 16 weeks if the patient meets BOTH of the following (a and b):
+a) Patient has previously been treated with pegylated interferon +
+ribavirin; AND
+b) The medication will be prescribed in combination with ribavirin; AND
+C) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+Other Uses with Supportive Evidence
+4. Patient is Currently Receiving Zepatier. Approve for an indication or condition
+addressed as an approval in the Recommended Authorization Criteria section
+(FDA-Approved Indications). Approve the duration described above to complete a
+course of therapy (e.g., a patient who should receive 12 weeks and has received
+3 weeks should be approved for 9 weeks to complete their 12-week course).
+CONDITIONS NOT COVERED
+• Zepatier® (grazoprevir/elbasvir tablets – Merck)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria will
+be updated as new published data are available):
+n the following situations:
+1. Hepatitis C Virus (HCV), Child-Pugh Class B or Child-Pugh Class C Liver
+Disease (Moderate or Severe Hepatic Impairment). Zepatier is
+contraindicated in patients with moderate or severe hepatic impairment (Child-
+Pugh Class B or C).1
+5 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Zepatier Prior Authorization Policy
+2. Hepatitis C Virus (HCV) [Any Genotype], Combination with Any Other
+Direct-Acting Antivirals (Not Including Ribavirin). Zepatier provides a
+complete antiviral regimen for patients with genotype 1 and 4 chronic HCV.
+3. Pediatric Patients (Age < 12 Years or < 30 kg). The safety and efficacy of
+Zepatier have not been established in pediatric patients < 12 years of age or <
+30 kg.1 Guidelines recommend Harvoni (ledipasvir/sofosbuvir tablets and pellets,
+generic for tablets only) in pediatric patients with genotypes 1 or 4 chronic HCV.2
+4. Retreatment with Zepatier in Patients Who Have Previously Received
+Zepatier. Zepatier is not recommended. This includes retreatment in prior null
+responders, prior partial responders, prior relapse patients, and patients who have
+not completed a course of therapy due to an adverse reaction or for other reasons.
+REFERENCES
+1. Zepatier® tablets [prescribing information]. Whitehouse Station, NJ: Merck; December 2021.
+2. American Association for the Study of Liver Diseases and the Infectious Diseases Society of America.
+Testing, managing, and treating hepatitis C. Updated December 19, 2023. Available at:
+http://www.hcvguidelines.org. Accessed on February 5, 2025.
+3. Indolfi G, Gonzalez-Peralta RP, Jona MM, et al. ESPGHAN recommendations on treatment of chronic
+hepatitis C virus infection in adolescents and children including those living in resource limited
+settings. J Pediatr Gastroenterol Nutr. 2024;78:957-972.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 02/15/2023
+Revision
+Annual No criteria changes. 02/14/2024
+Revision
+Selected Conditions Not Covered: Life Expectancy Less Than 12 02/28/2024
+Revision Months Due to Non-Liver Related Comorbidities. This condition
+was removed.
+Annual No criteria changes. 02/15/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2025 The Cigna
+Group.
+5 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Zepatier Prior Authorization Policy

@@ -1,0 +1,239 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Immunologicals – Tezspire Prior Authorization Policy
+• Tezspire® (tezepelumab-ekko subcutaneous injection −
+AstraZeneca/Amgen)
+REVIEW DATE: 02/19/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Tezspire, a thymic stromal lymphopoietin (TSLP) blocker, is indicated as add-on
+maintenance treatment of severe asthma in patients ≥ 12 years of age.1
+Clinical Efficacy
+Tezspire has been studied in patients ≥ 12 years of age with severe asthma.2 The
+patients enrolled in the Phase III pivotal Tezspire trial had experienced two or more
+asthma exacerbations in the previous year, despite treatment with a medium- or
+high-dose inhaled corticosteroid (ICS) and one additional controller medication (e.g.,
+long-acting beta -agonist [LABA], leukotriene antagonist).2,3 In one study, 6 months
+2
+of these previous therapies were required for enrollment, while in another, 12 months
+of ICS therapy with at least 3 months of additional controller therapy was required.
+In these trials, asthma exacerbation data was evaluated following 52 weeks of
+treatment. However, improvements in lung function parameters and symptom
+scores were reported as early as the first post-baseline assessment (i.e., 2 weeks of
+therapy).
+Guidelines
+Page 1 of 7 - Cigna National Formulary Coverage - Policy:Immunologicals – Tezspire Prior Authorization Policy
+The Global Initiative for Asthma Global Strategy for Asthma Management and
+Prevention (2024) proposes a stepwise approach to asthma treatment.4 Tezspire is
+listed as an option for add-on therapy in patients ≥ 12 years of age with uncontrolled
+severe asthma. Severe asthma is defined as asthma that is uncontrolled despite
+adherence to optimized high-dose ICS/LABA therapy or that worsens when high-dose
+treatment is decreased. Higher blood eosinophil levels and higher fractional exhaled
+nitric oxide may predict a good asthma response to Tezspire.
+According to the European Respiratory Society/American Thoracic Society guidelines
+(2014; updated in 2020), severe asthma is defined as asthma which requires
+treatment with a high-dose ICS in addition to a second controller medication (and/or
+systemic corticosteroids) to prevent it from becoming uncontrolled, or asthma which
+remains uncontrolled despite this therapy.5,6 Uncontrolled asthma is defined as
+asthma that worsens upon tapering of high-dose ICS or systemic corticosteroids or
+asthma that meets one of the following four criteria:
+1) Poor symptom control: Asthma Control Questionnaire consistently ≥ 1.5 or
+Asthma Control Test < 20;
+2) Frequent severe exacerbations: two or more bursts of systemic corticosteroids in
+the previous year;
+3) Serious exacerbations: at least one hospitalization, intensive care unit stay, or
+mechanical ventilation in the previous year;
+4) Airflow limitation: forced expiratory volume in 1 second (FEV ) < 80% predicted
+1
+after appropriate bronchodilator withholding.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Tezspire. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Tezspire as well as the
+monitoring required for adverse events and long-term efficacy, initial approval
+requires Tezspire to be prescribed by or in consultation with a physician who
+specializes in the condition being treated.
+• Tezspire® (tezepelumab-ekko subcutaneous injection (
+AstraZeneca/Amgen)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Asthma. Approve Tezspire for the duration noted if the patient meets ONE of the
+following (A or B):
+4 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Tezspire Prior Authorization Policy
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, iii, and iv):
+i. Patient is ≥ 12 years of age; AND
+ii. Patient has received at least 3 consecutive months of combination therapy
+with BOTH of the following (a and b):
+a) An inhaled corticosteroid; AND
+b) At least one additional asthma controller or asthma maintenance
+medication; AND
+Note: Examples of additional asthma controller or asthma maintenance
+medications are inhaled long-acting beta -agonists, inhaled long-acting
+2
+muscarinic antagonists, leukotriene receptor antagonists, and
+monoclonal antibody therapies for asthma (e.g., Tezspire, Cinqair
+[reslizumab intravenous infusion], Fasenra [benralizumab subcutaneous
+injection], Nucala [mepolizumab subcutaneous injection], Dupixent
+[dupilumab subcutaneous injection], Xolair [omalizumab subcutaneous
+injection]). Use of a combination inhaler containing both an inhaled
+corticosteroid and additional asthma controller/maintenance
+medication(s) would fulfill the requirement for both criteria a and b.
+iii. Patient has asthma that is uncontrolled or was uncontrolled at baseline as
+defined by ONE of the following (a, b, c, d, or e):
+Note: “Baseline” is defined as prior to receiving Tezspire or another
+monoclonal antibody therapy for asthma. Examples of monoclonal antibody
+therapies for asthma include Cinqair, Dupixent, Fasenra, Nucala, Tezspire,
+and Xolair.
+a) Patient experienced two or more asthma exacerbations requiring
+treatment with systemic corticosteroids in the previous year; OR
+b) Patient experienced one or more asthma exacerbation(s) requiring a
+hospitalization, an emergency department visit, or an urgent care visit
+in the previous year; OR
+c) Patient has a forced expiratory volume in 1 second (FEV ) < 80%
+1
+predicted; OR
+d) Patient has an FEV /forced vital capacity (FVC) < 0.80; OR
+1
+e) Patient has asthma that worsens upon tapering of oral (systemic)
+corticosteroid therapy; AND
+iv. The medication is prescribed by or in consultation with an allergist,
+immunologist, or pulmonologist; OR
+4 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Tezspire Prior Authorization Policy
+B) Patient is Currently Receiving Tezspire. Approve for 1 year if the patient meets
+ALL of the following (i, ii, and iii):
+i. Patient has already received at least 6 months of therapy with Tezspire;
+AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with Tezspire should be considered under criterion 1A
+(Asthma, Initial Therapy).
+ii. Patient continues to receive therapy with one inhaled corticosteroid or one
+inhaled corticosteroid-containing combination inhaler; AND
+iii. Patient has responded to therapy as determined by the prescriber.
+Note: Examples of a response to Tezspire therapy are decreased asthma
+exacerbations; decreased asthma symptoms; decreased hospitalizations,
+emergency department, urgent care, or medical clinic visits due to asthma;
+improved lung function parameters; and/or a decreased requirement for
+oral corticosteroid therapy.
+CONDITIONS NOT COVERED
+• Tezspire® (tezepelumab-ekko subcutaneous injection (
+AstraZeneca/Amgen)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria will
+be updated as new published data are available):
+1. Atopic Dermatitis. Tezspire is not indicated for the treatment of atopic
+dermatitis.1 One Phase IIa study, ALLEVIAD (published) [n = 113] evaluated the
+efficacy of Tezspire in combination with topical corticosteroids (TCS) vs. placebo
+in adults with moderate to severe atopic dermatitis.7 At Week 12, a larger
+proportion of patients in the Tezspire + TCS group achieved a 50% reduction in
+the Eczema Area and Severity Index (primary efficacy endpoint) compared with
+placebo + TCS. However, this treatment difference was not statistically
+significant. Another Phase II, dose-ranging study in patients with atopic
+dermatitis was terminated prior to completion.8
+2. Chronic Obstructive Pulmonary Disease (COPD). Tezspire is not indicated
+for the treatment of COPD.1 One Phase II, randomized, double-blind, placebo-
+controlled trial, COURSE, evaluated the efficacy of Tezspire in patients with
+moderate- to very severe-COPD who continued to experience exacerbations
+despite triple inhaled maintenance therapy (i.e., ICS/LABA/long-acting muscarinic
+antagonist).8 In this patient population, Tezspire did not result in a significant
+reduction in the annualized rate of moderate or severe COPD exacerbations
+compared with placebo.9
+3. Chronic Rhinosinusitis with Nasal Polyposis (CRSwNP). Tezspire is not
+indicated for the treatment of CRSwNP.1 One Phase III, randomized, double-blind,
+4 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Tezspire Prior Authorization Policy
+placebo-controlled trial, WAYPOINT, evaluated the efficacy of Tezspire in adults
+with severe CRSwNP.10 Following 52 weeks of therapy, Tezspire significantly
+improved the total Nasal Polyp Score and the mean Nasal Congestion Score
+compared with placebo. A post-hoc analysis of one of the Tezspire pivotal asthma
+studies also showed an improvement in sino-nasal symptoms with Tezspire in
+patients with concomitant asthma and CRSwNP.11 Additional data are needed.
+4. Chronic Spontaneous Urticaria. Tezspire is not indicated for the treatment of
+chronic spontaneous urticaria.1 One Phase II, randomized, double-blind, placebo-
+controlled trial, INCEPTION, evaluated the efficacy of Tezspire in patients with
+chronic spontaneous urticaria.8,12 Results are available from a subgroup of anti-
+immunoglobulin E-naïve patients. In this subgroup, there was numeric
+improvement in the Urticaria Activity Score over 7 days (UAS7) at Week 16
+compared with placebo; these improvements were not significant compared with
+placebo.
+5. Concurrent use of Tezspire with another Monoclonal Antibody Therapy.
+The efficacy and safety of Tezspire used in combination with other monoclonal
+antibody therapies have not been established.
+Note: Monoclonal antibody therapies are Adbry® (tralokinumab-ldrm
+subcutaneous [SC] injection), Cinqair® (reslizumab intravenous infusion),
+Dupixent® (dupilumab SC injection), Ebglyss™ (lebrikizumab-lbkz SC injection),
+Fasenra® (benralizumab SC injection), Nemluvio® (nemolizumab-ilto SC
+injection), Nucala® (mepolizumab SC injection), or Xolair® (omalizumab SC
+injection).
+REFERENCES
+1. Tezspire® subcutaneous injection [prescribing information]. Thousand Oaks, CA: Amgen; May
+2023.
+2. Menzies-Gow A, Corren J, Bourdin A, et al. Tezepelumab in adults and adolescents with severe,
+uncontrolled asthma. N Engl J Med. 2021;384(19):1800-1809.
+3. Corren J, Parnes JR, Wang L, et al. Tezepelumab in adults with uncontrolled asthma. N Engl J Med.
+2017;377(10):936-946.
+4. Global Initiative for Asthma. Global strategy for asthma management and prevention. Updated
+2024. Available at: http://www.ginasthma.org. Accessed on February 7, 2025.
+5. Chung KF, Wenzel SE, Brozek JL, et al. International ERS/ATS guidelines on definition, evaluation
+and treatment of severe asthma. Eur Respir J. 2014;43:343-373.
+6. Holguin F, Cardet JC, Chung KF, et al. Management of severe asthma: a European Respiratory
+Society/American Thoracic Society Guideline. Eur Respir J. 2020;55:1900588.
+7. Simpson EL, Parnes JR, She D, et al. Tezepelumab, an anti-thymic stromal lymphopoietin
+monoclonal antibody, in the treatment of moderate to severe atopic dermatitis: a randomized phase
+2A clinical trial. J Am Acad Dermatol. 2019;80(4):1013-1021.
+8. US National Institutes of Health. In: ClinicalTrials.gov [Internet]. Bethesda (MD): National Library
+of Medicine (US). 2000- [cited 2025 Feb 7]. Available from:
+https://www.clinicaltrials.gov/ct2/results?cond=&term=tezepelumab&cntry=&state=&city=&dist=
+. Search term: tezepelumab.
+9. Singh D, Brightling CE, Rabe KF, et al. Efficacy and safety of Tezepelumab versus placebo in adults
+with moderate to very severe chronic obstructive pulmonary disease (COURSE): a randomized,
+placebo-controlled, phase 2a trial. Lancet Respir Med. 2025;13(1):47-58.
+4 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Tezspire Prior Authorization Policy
+10. Han J, Lipworth B, Desrosiers M, et al. Efficacy And safety of tezepelumab in adults with severe
+chronic rhinosinusitis with nasal polyps: results from the Phase 3 WAYPOINT study [abstract L44].
+Presented at: the American Academy of Allergy, Asthma, and Immunology/World Allergy
+Organization Joint Congress; San Diego, CA; February 28 – March 3, 2025.
+11. Laidlaw TM, Menzies-Gow A, Caveney S, et al. Tezepelumab efficacy in patients with severe,
+uncontrolled asthma with comorbid nasal polyps in NAVIGATOR. J Asthma Allergy. 2023;16:915-
+932.
+12. Maurer M, McLaren J, Chon Y, et al. Sustained improvement in UAS7 after 16-week treatment with
+tezepelumab in biologic-naïve adults with CSU: results of the phase 2b INCEPTION study [abstract
+L39]. Presented at: the American Academy of Allergy, Asthma, and Immunology Annual Meeting;
+Washington D.C.; February 23-26, 2024.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Revision Conditions Not Covered 02/08/2023
+: For “Concurrent use of Tezspire with another Monoclonal Antibody
+Therapy”, the condition was updated to specify that “other
+monoclonal antibody therapy” is defined as “Cinqair, Dupixent,
+Fasenra, Nucala, Xolair, and Adbry”. There were no other changes
+to the criteria.
+Annual Revision No criteria changes. 02/14/2024
+Annual Revision No criteria changes. 02/19/2025
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2025 The Cigna
+Group.
+4 Pages - Cigna National Formulary Coverage - Policy:Immunologicals – Tezspire Prior Authorization Policy

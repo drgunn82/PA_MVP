@@ -1,0 +1,109 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Diabetes – Trulicity Drug Quantity Management Policy – Per Days
+• Trulicity® (dulaglutide subcutaneous injection – Eli Lilly)
+REVIEW DATE: 10/30/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Trulicity, a glucagon-like peptide 1 (GLP-1) agonist, is indicated:1
+• As an adjunct to diet and exercise to improve glycemic control in adult and
+pediatric patients ≥ 10 years of age with type 2 diabetes mellitus.
+• To reduce the risk of major adverse cardiovascular events
+(cardiovascular death, non-fatal myocardial infarction or non-fatal stroke) in
+adults with type 2 diabetes mellitus who have established cardiovascular
+disease or multiple cardiovascular risk factors.
+Dosing
+Adult Dosing
+The recommended initial dose of Trulicity is 0.75 mg administered subcutaneously
+(SC) once weekly (QW).1 The dose should be increased to 1.5 mg SC QW for
+additional glycemic control. After 4 weeks on the current dose, may increase the
+dose in 1.5 mg increments if additional glycemic control is needed. The maximum
+dose of Trulicity is 4.5 mg SC QW.
+Pediatric Dosing
+Page 1 of 3 - Cigna National Formulary Coverage - Policy:Diabetes – Trulicity Drug Quantity Management Policy
+– Per Days
+The recommended initial dose of Trulicity is 0.75 mg SC QW.1 The dose may be
+increased to the maximum dose of 1.5 mg SC QW after at least 4 weeks on the
+0.75 mg dose, if additional glycemic control is needed.
+Missed Doses
+If a dose of Trulicity is missed, the dose should be administered as soon as possible
+if there are at least 3 days (72 hours) until the next scheduled dose. If there are
+less than 3 days prior to the next scheduled dose, the missed dose should be
+skipped and administered on the regularly scheduled day. In either scenario,
+patients may then resume their regular dosing schedule. The day of administration
+can be changed if needed, provided the last dose was administered 3 or more days
+before the new day of administration.
+Availability
+Trulicity is supplied as single-dose pens in cartons containing four pens each.1 The
+pens are available in the following strengths:
+• 0.75 mg/0.5 mL pen
+• 1.5 mg/0.5 mL pen
+• 3 mg/0.5 mL pen
+• 4.5 mg/0.5 mL pen
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of Trulicity. There are no overrides to the Per Days
+quantity limits outlined below.
+Drug Quantity Limits
+Product Strength and Retail Home Delivery
+Form Maximum Quantity Maximum Quantity
+Per 28 Days Per 84 Days
+Trulicity® 0.75 mg/0.5 mL 2 mL (4 pens) 6 mL (12 pens)
+(dulaglutide SC pen
+injection) 1.5 mg/0.5 mL 2 mL (4 pens) 6 mL (12 pens)
+pen
+3 mg/0.5 mL pen 2 mL (4 pens) 6 mL (12 pens)
+4.5 mg/0.5 mL 2 mL (4 pens) 6 mL (12 pens)
+pen
+SC – Subcutaneous.
+Diabetes – Trulicity Drug Quantity Management Policy – Per Days
+product(s) is(are) covered as medically necessary when the following
+criteria is(are) met. Any other exception is considered not medically
+necessary.
+CRITERIA
+Trulicity (all strengths)
+3 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Trulicity Drug Quantity Management Policy –
+Per Days
+No overrides recommended.
+REFERENCES
+1. Trulicity® subcutaneous injection [prescribing information]. Indianapolis, IN: Lilly; November 2022.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy New policy created to add additional quantity limits to approve ONE 07/17/2024
+claim collectively for ONE glucagon-like peptide-1 (GLP-1) agonist or
+GLP-1/glucose-dependent insulinotropic polypeptide (GIP) agonist
+every 21 days at retail or home delivery. New clinical overrides
+apply to these limits. Existing “Per Days” quantity limits were not
+changed and no overrides apply.
+Early Annual The quantity limit of ONE claim of ONE glucagon-like peptide-1 (GLP- 10/30/2024
+Revision 1) agonist or GLP-1/glucose-dependent insulinotropic polypeptide
+(GIP) agonist to be dispensed every 21 days at retail or home
+delivery was removed from this policy (refer to the “Diabetes –
+Glucagon-Like Peptide-1 Agonists Drug Quantity Management Policy
+– Claim Per Days” document for additional information).
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. ©
+2024 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Trulicity Drug Quantity Management Policy –
+Per Days

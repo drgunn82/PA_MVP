@@ -1,0 +1,164 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2309-2
+Program Prior Authorization/Medical Necessity
+Medications Tezspire™ (tezepelumab-ekko)*
+*This program applies to the prefilled pen for self-administration
+P&T Approval Date 7/2023, 7/2024
+Effective Date 10/1/2024
+1. Background:
+Tezspire (tezepelumab) is indicated for the add-on maintenance treatment of adult and pediatric
+patients aged 12 years and older with severe asthma.
+Limitations of use:
+Tezspire is not indicated for relief of acute bronchospasm of status asthmaticus.
+2. Coverage Criteriaa:
+A. Severe Asthma
+1. Initial Authorization
+a. Tezspire will be approved based on one of the following criteria:
+(1) All of the following:
+(a) Patient has been established on therapy with Tezspire under an active
+UnitedHealthcare medical benefit prior authorization for the treatment of
+severe asthma
+-AND-
+(b) Documentation of positive clinical response to Tezspire therapy as
+demonstrated by at least one of the following:
+i. Reduction in the frequency of exacerbations
+ii. Decreased utilization of rescue medications
+iii. Increase in percent predicted FEV1 from pretreatment baseline
+iv. Reduction in severity or frequency of asthma-related symptoms (e.g.,
+wheezing, shortness of breath, coughing, etc.)
+-AND-
+(c) Tezspire is being used in combination with an inhaled corticosteroid (ICS)-
+containing controller medication [e.g., Advair/AirDuo Respiclick
+(fluticasone propionate/salmeterol), Symbicort (budesonide/formoterol),
+Breo Ellipta (fluticasone furoate/vilanterol), Trelegy Ellipta (fluticasone
+© 2024 UnitedHealthcare Services, Inc.
+1
+furoate/umeclidinium/vilanterol)]
+-AND-
+(d) Patient is not receiving Tezspire in combination with any of the following:
+i. Anti-interleukin-5 therapy [e.g., Cinqair (resilizumab), Fasenra
+(benralizumab), Nucala (mepolizumab)]
+ii. Anti-IgE-therapy [e.g., Xolair (omalizumab)]
+iii. Anti-interleukin-4 therapy [e.g., Dupixent (dupilumab)]
+-AND-
+(e) Prescribed by one of the following:
+i. Allergist
+ii. Immunologist
+iii. Pulmonologist
+-OR-
+(2) All of the following:
+(a) Diagnosis of severe asthma
+-AND-
+(b) Classification of asthma as uncontrolled or inadequately controlled as
+defined by at least one of the following:
+i. Poor symptom control (e.g., Asthma Control Questionnaire [ACQ]
+score consistently greater than 1.5 or Asthma Control Test [ACT] score
+consistently less than 20)
+ii. Two or more bursts of systemic corticosteroids for at least 3 days each
+in the previous 12 months
+iii. Asthma-related emergency treatment (e.g., emergency room visit,
+hospital admission, or unscheduled physician’s office visit for nebulizer
+or other urgent treatment)
+iv. Airflow limitation (e.g., after appropriate bronchodilator withhold
+forced expiratory volume in 1 second [FEV1] less than 80% predicted
+[in the face of reduced FEV1/forced vital capacity [FVC] defined as
+less than the lower limit of normal])
+v. Patient is currently dependent on oral corticosteroids for the treatment
+of asthma
+-AND-
+(c) Tezspire will be used in combination with one of the following:
+i. One maximally dosed (appropriately adjusted for age) combination
+© 2024 UnitedHealthcare Services, Inc.
+2
+inhaled corticosteroid (ICS)/long-acting beta agonist (LABA) product
+2
+[e.g., Advair/AirDuo Respiclick (fluticasone propionate/salmeterol),
+Symbicort (budesonide/formoterol), Breo Ellipta (fluticasone
+furoate/vilanterol)]
+-OR-
+ii. Combination therapy including both of the following:
+• One maximally dosed (appropriately adjusted for age) ICS product
+[e.g., ciclesonide (Alvesco), mometasone furoate (Asmanex),
+beclomethasone dipropionate (QVAR)]
+-AND-
+• One additional asthma controller medication [e.g., LABA -
+olodaterol (Striverdi) or indacaterol (Arcapta); leukotriene receptor
+antagonist – montelukast (Singulair); theophylline]
+-AND-
+(d) Patient is not receiving Tezspire in combination with any of the following:
+i. Anti-interleukin 5 therapy [e.g., Cinqair (resilizumab), Fasenra
+(benralizumab), Nucala (mepolizumab)]
+ii. Anti-IgE therapy [e.g., Xolair (omalizumab)]
+iii. Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+-AND-
+(e) Prescribed by one of the following:
+i. Allergist
+ii. Immunologist
+iii. Pulmonologist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tezspire will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Tezspire therapy as demonstrated
+by at least one of the following:
+(a) Reduction in the frequency of exacerbations
+(b) Decreased utilization of rescue medications
+(c) Increase in percent predicted FEV1 from pretreatment baseline
+(d) Reduction in severity or frequency of asthma-related symptoms (e.g.,
+wheezing, shortness of breath, coughing, etc.)
+© 2024 UnitedHealthcare Services, Inc.
+3
+-AND-
+(2) Tezspire is being used in combination with an ICS-containing controller
+medication [e.g., Advair/AirDuo Respiclick (fluticasone propionate/salmeterol),
+Symbicort (budesonide/formoterol), Breo Ellipta (fluticasone
+furoate/vilanterol), Trelegy Ellipta (fluticasone
+furoate/umeclidinium/vilanterol)]
+-AND-
+(3) Patient is not receiving Tezspire in combination with any of the following:
+(a) Anti-interleukin-5 therapy [e.g., Cinqair (resilizumab), Fasenra
+(benralizumab), Nucala (mepolizumab)]
+(b) Anti-IgE therapy [e.g., Xolair (omalizumab)]
+(c) Anti-interleukin-4 therapy [e.g., Dupixent (dupilumab)]
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limitations may be in place.
+• The single-dose vial and pre-filled syringe for administration by a healthcare professional is
+typically covered under the medical benefit. Please refer to the United Healthcare Medical
+Benefit Drug Policy: “Tezspire™ (tezepelumab-ekko).”
+4. References:
+1. Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2023.
+Available at http://www.ginasthma.org. Accessed May 29, 2024.
+2. Tran TN, Zeiger RS, Peters SP, et al. Overlap of atopic, eosinophilic, and TH2-high asthma
+phenotypes in a general population with current asthma. Ann Allergy Asthma Immunol.
+2016;116(1):37-42. doi:10.1016/j.anai.2015.10.027.
+3. Corren J, Ziegler SF. TSLP: from allergy to cancer. Nat Immunol. 2019;20(12):1603-1609.
+doi:10.1038/s41590-019-0524-9.
+4. Tezspire™ [package insert]. Thousand Oakes, CA: Amgen Inc.; May 2023.
+5. Institute for Clinical and Economic Review (ICER). Tezepelumab for Severe Asthma.
+November 4, 2021. Available at ICER | Working Towards Fair Pricing, Fair Access, &
+Future Innovation. Accessed May 29, 2024.
+6. Holguin F, Cardet JC, Chung KF, Diver S, Ferreira DS, Fitzpatrick A, Gaga M, Kellermeyer
+L, Khurana S, Knight S, McDonald VM, Morgan RL, Ortega VE, Rigau D, Subbarao P,
+© 2024 UnitedHealthcare Services, Inc.
+4
+Tonia T, Adcock IM, Bleecker ER, Brightling C, Boulet LP, Cabana M, Castro M, Chanez P,
+Custovic A, Djukanovic R, Frey U, Frankemölle B, Gibson P, Hamerlijnck D, Jarjour N,
+Konno S, Shen H, Vitary C, Bush A. Management of severe asthma: a European Respiratory
+Society/American Thoracic Society guideline. Eur Respir J. 2020 Jan 2;55(1):1900588. doi:
+10.1183/13993003.00588-2019. PMID: 31558662
+Program Prior Authorization/Medical Necessity - Tezspire (tezepelumab)
+Change Control
+7/2023 New program.
+7/2024 Annual review. Modified criteria for existing prior authorization for
+under the medical benefit. Removed footnote disclaimer for step
+therapy. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+5

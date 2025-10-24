@@ -1,0 +1,333 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2104-19
+Program Prior Authorization/Medical Necessity
+Medication Taltz (ixekizumab)*
+* Taltz is excluded from coverage for the majority of our benefits
+P&T Approval Date 8/2016, 5/2017, 2/2018, 2/2019, 9/2019, 5/2020, 7/2020, 11/2020,
+6/2021, 12/2021, 3/2022, 6/2022, 11/2022, 1/2023, 4/2023, 7/2023,
+10/2024, 4/2025
+Effective Date 6/1/2025
+1. Background:
+Taltz (ixekizumab) is a humanized interleukin-17A antagonist indicated for the treatment of
+moderate to severe plaque psoriasis in patients aged 6 years or older who are candidates for
+systemic therapy or phototherapy. It is also indicated for the treatment of adult patients with
+active psoriatic arthritis, active non-radiographic axial spondyloarthritis with objective signs of
+inflammation, or active ankylosing spondylitis.1
+2. Coverage Criteriaa:
+A. Plaque Psoriasis (PsO)
+a. Taltz will be approved based on all of the following criteria:
+(1) Submission of medical records (e.g., chart notes, laboratory values) documenting
+all of the following:
+(a) One of the following:
+i. All of the following:
+a. Diagnosis of chronic moderate to severe plaque psoriasis
+-AND-
+b. One of the following:
+1. All of the following:
+a.) Greater than or equal to 3 % body surface area involvement,
+palmoplantar, facial, genital involvement, or severe scalp
+psoriasis
+-AND-
+© 2025 UnitedHealthcare Services Inc.
+1
+b.) History of failure to one of the following topical therapies,
+unless contraindicated or clinically significant adverse
+effects are experienced (document drug, date, and duration
+of trial):
+• Corticosteroids (e.g., betamethasone, clobetasol,
+desonide)
+• Vitamin D analogs (e.g., calcitriol, calcipotriene)
+• Tazarotene
+• Calcineurin inhibitors (e.g., tacrolimus, pimecrolimus)
+• Anthralin
+• Coal tar
+-AND-
+c.) History of failure to a 3 month trial of methotrexate at
+maximally indicated dose, unless contraindicated or
+clinically significant adverse effects are experienced
+(document date and duration of trial)b
+-OR-
+2. Patient has been previously treated with a targeted
+immunomodulator FDA-approved for the treatment of plaque
+psoriasis as documented by claims history or submission of
+medical records (Document drug, date, and duration of therapy)
+[e.g., Cimzia (certolizumab), adalimumab, Otezla (apremilast),
+Skyrizi (risankizumab-rzaa), ustekinumab, Tremfya
+(guselkumab), Enbrel (etanercept)].
+-AND-
+c. History of failure, contraindication, or intolerance to three of the
+following preferred products (document drug, date, and duration of
+trial):
+• One of the preferred adalimumab productsc
+• Cimzia (certolizumab)
+• Cosentyx (secukinumab)
+• Enbrel (etanercept)
+• Skyrizi (risankizumab)
+• Sotyktu (deucravacitinib)
+• One of the preferred ustekinumab productsc
+• Tremfya (guselkumab)
+-OR-
+ii. All of the following:
+© 2025 UnitedHealthcare Services Inc.
+2
+a. Diagnosis of chronic moderate to severe plaque psoriasis
+-AND-
+b. Patient is less than 18 years of age
+-AND-
+c. History of failure, contraindication, or intolerance to Cosentyx
+(secukinumab), Enbrel (etanercept), or one of the preferred
+ustekinumab productsc(document date and duration of trial)
+-AND-
+(b) Patient is not receiving Taltz in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, ustekinumab,
+Skyrizi (risankizumab), Tremfya (guselkumab), Cosentyx (secukinumab),
+Siliq (brodalumab), Ilumya (tildrakizumab), Xeljanz (tofacitinib), Olumiant
+(baricitinib), Rinvoq (upadacitinib), Sotyktu (deucravacitinib), Otezla
+(apremilast)]
+-AND-
+(c) Prescribed by or in consultation with a dermatologist
+Authorization will be issued for 12 months.
+B. Psoriatic Arthritis (PsA)
+a. Taltz will be approved based on the following criteria:
+(1) Submission of medical records (e.g., chart notes, laboratory values) documenting
+all of the following:
+(a) Diagnosis of active psoriatic arthritis
+-AND-
+(b) One of the following:
+i. History of failure to a 3 month trial of methotrexate at maximally
+indicated dose, unless contraindicated or clinically significant adverse
+effects are experienced (document date and duration of trial)b
+-OR-
+ii. Patient has been previously treated with a targeted immunomodulator
+FDA-approved for the treatment of psoriatic arthritis as documented by
+claims history or submission of medical records (Document drug, date,
+© 2025 UnitedHealthcare Services Inc.
+3
+and duration of therapy) [e.g., Cimzia (certolizumab), Cosentyx
+(secukinumab), adalimumab, Simponi (golimumab), ustekinumab,
+Tremfya (guselkumab), Xeljanz/Xeljanz XR (tofacitinib), Otezla
+(apremilast), Skyrizi (risankizumab), Rinvoq (upadacitinib), Enbrel
+(etanercept)]
+-AND-
+(c) History of failure, contraindication, or intolerance to three of the following
+preferred products (document drug, date, and duration of trial):
+i. One of the preferred adalimumab productsc
+ii. Cimzia (certolizumab)
+iii. Cosentyx (secukinumab)
+iv. Enbrel (etanercept)
+v. Simponi (golimumab)
+vi. Skyrizi (risankizumab)
+vii. One of the preferred ustekinumab productsc
+viii. Tremfya (guselkumab)
+-AND-
+(d) History of failure, contraindication, or intolerance to one of the following
+(document drug, date, and duration of trial):
+i. Orencia (abatacept)
+ii. Xeljanz/Xeljanz XR (tofacitinib)
+iii. Rinvoq (upadacitinib)
+-AND-
+(e) Patient is not receiving Taltz in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab), Simponi
+(golimumab), Orencia (abatacept), adalimumab, ustekinumab, Skyrizi
+(risankizumab), Tremfya (guselkumab), Cosentyx (secukinumab), Xeljanz
+(tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib), Otezla
+(apremilast)]
+-AND-
+(f) Prescribed by or in consultation with one of the following:
+i. Rheumatologist
+ii. Dermatologist
+Authorization will be issued for 12 months.
+C. Ankylosing Spondylitis (AS)
+a. Taltz will be approved based on the following criteria:
+© 2025 UnitedHealthcare Services Inc.
+4
+(1) Submission of medical records (e.g., chart notes, laboratory values) documenting
+all of the following:
+(a) Diagnosis of active ankylosing spondylitis
+-AND-
+(b) One of the following:
+i. History of failure to two NSAIDs (e.g., ibuprofen, naproxen) at maximally
+indicated doses, each used for at least 4 weeks, unless contraindicated or
+clinically significant adverse effects are experienced (document drug, date,
+and duration of trials)
+-OR-
+ii. Patient has been previously treated with a targeted immunomodulator
+FDA-approved for the treatment of ankylosing spondylitis as documented
+by claims history or submission of medical records (Document drug, date,
+and duration of therapy) [e.g., adalimumab, Simponi (golimumab), Rinvoq
+(upadacitinib), Xeljanz/Xeljanz XR (tofacitinib), Enbrel (etanercept)].
+-AND-
+(c) History of failure, contraindication, or intolerance to three of the following
+preferred products (document drug, date, and duration of trial):
+i. One of the preferred adalimumab productsc
+ii. Cimzia (certolizumab)
+iii. Cosentyx (secukinumab)
+iv. Enbrel (etanercept)
+v. Simponi (golimumab)
+-AND-
+(d) History of failure, contraindication, or intolerance to one of the following
+(document drug, date, and duration of trial):
+i. Xeljanz/Xeljanz XR (tofacitinib)
+ii. Rinvoq (upadacitinib)
+-AND-
+(e) Patient is not receiving Taltz in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Cosentyx (secukinumab), Simponi (golimumab), Orencia (abatacept),
+adalimumab, Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq
+(upadacitinib)]
+© 2025 UnitedHealthcare Services Inc.
+5
+-AND-
+(f) Prescribed by or in consultation with a rheumatologist
+Authorization will be issued for 12 months.
+D. Non-radiographic Axial Spondyloarthritis
+a. Taltz will be approved based on the following criteria:
+(1) Submission of medical records (e.g., chart notes, laboratory values) documenting
+all of the following:
+(a) Diagnosis of active non-radiographic axial spondyloarthritis
+-AND-
+(b) One of the following:
+i. History of failure to two NSAIDs (e.g., ibuprofen, naproxen) at maximally
+indicated doses, each used for at least 4 weeks, unless contraindicated or
+clinically significant adverse effects are experienced (document drug, date,
+and duration of trials)
+-OR-
+ii. Patient has been previously treated with a targeted immunomodulator
+FDA-approved for the treatment of non-radiographic axial
+spondyloarthritis as documented by claims history or submission of
+medical records (Document drug, date, and duration of therapy) [e.g.
+Cimzia (certolizumab), Cosentyx (secukinumab), Rinvoq (upadacitinib)].
+-AND-
+(c) History of failure, contraindication, or intolerance to two of the following
+preferred products (document drug, date, and duration of trial):
+i. Cimzia (certolizumab)
+ii. Cosentyx (secukinumab)
+iii. Rinvoq (upadacitinib)
+-AND-
+(d) Patient is not receiving Taltz in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Cosentyx (secukinumab), Simponi (golimumab), Orencia (abatacept),
+adalimumab, Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq
+(upadacitinib)]
+-AND-
+© 2025 UnitedHealthcare Services Inc.
+6
+(e) Prescribed by or in consultation with a rheumatologist
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+b For Connecticut, Kentucky and Mississippi business only a 30-day trial will be required.
+c For a list of preferred products please reference drug coverage tools.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Exclusion: Taltz is excluded from coverage for the majority of our benefits
+• Supply limits may be in place.
+4. References:
+1. Taltz [package insert]. Indianapolis, IN: Eli Lilly and Company; September 2022.
+2. Menter A, Gottlieb A, Feldman SR, et al. Guidelines of care for the management of psoriasis
+and psoriatic arthritis: Section 1. Overview of psoriasis and guidelines of care for the
+treatment of psoriasis with biologics. J Am Acad Dermatol 2008; 58(5):826-50.
+3. Gottlieb A, Korman NJ, Gordon KB, et al. Guidelines of care for the management of
+psoriasis and psoriatic arthritis. Psoriatic arthritis: Overview and guidelines of care for
+treatment with an emphasis on the biologics. J Am Acad Dermatol 2008;58(5):851-64.
+4. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis
+and psoriatic arthritis. Section 3. Guidelines of care for the management and treatment of
+psoriasis with topical therapies. J Am Acad Dermatol 2009;60(4):643-59.
+5. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis
+and psoriatic arthritis. Guidelines of care for the treatment of psoriasis with phototherapy and
+photochemotherapy. J Am Acad Dermatol 2010;62(1):114-35.
+6. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis
+and psoriatic arthritis. Guidelines of care for the management and treatment of psoriasis with
+traditional systemic agents. J Am Acad Dermatol 2009;61(3):451-85.
+7. Nast A, et al; European S3-Guidelines on the systemic treatment of psoriasis vulgaris –
+update 2015 – short version – EFF in cooperation with EADV and IPC, J Eur Acad Derm
+Venereol 2015;29:2277-94.
+8. Menter A, Korman NJ, Elmets CA,Feldman SR, Gelfand JM, Gordon KB, Guidelines of care
+for the management of psoriasis and psoriatic arthritis: section 6. Guidelines of care for the
+treatment of psoriasis and psoriatic arthritis: case-based presentations and evidence-based
+conclusions. J Am Acad Dermatol. 2011 Jul;65(1):137-74.
+9. Gossec L, et al; European League Against Rheumatism (EULAR) recommendations for
+the management of psoriatic arthritis with pharmacological therapies: 2015 update, Ann
+Rheum Dis 2016;75:499-510.
+© 2025 UnitedHealthcare Services Inc.
+7
+10. Ward MM, Deodhar A, Dubreuil M, et al. 2019 update of the american college of
+rheumatology/spondylitis association of america/spondyloarthritis research and treatment
+network recommendations for the treatment of ankylosing spondylitis and nonradiographic
+axial spondyloarthritis. Arthritis Rheumatol. 2019; Aug 22. doi: 10.1002/art.41042.
+11. Menter A, Strober BE, Kaplan DH et al. Joint AAD-NPF guidelines of care for the
+management and treatment of psoriasis with biologics. J Am Acad Dermatol. 2019:80:1029-
+72.
+Program Prior Authorization/Medical Necessity-Taltz (ixekizumab)
+Change Control
+Date Change
+8/2016 New Program.
+11/2016 Administrative change. Added California coverage information.
+5/2017 Updated disease severity criteria to include facial, genital area psoriasis,
+decreased to 5% of body surface area. Added criteria for patients
+already receiving Taltz. Updated references. Updated State Mandate
+Reference
+2/2018 Updated background and added criteria for new indication of psoriatic
+arthritis. Updated criteria adding Tremfya as additional preferred
+option for plaque psoriasis. Updated formatting without changes to
+clinical intent. Updated references.
+2/2019 Annual review. Updated background and criteria adding Cimzia to list
+of preferred products for the treatment of plaque psoriasis. Updated
+reference.
+9/2019 Updated background and criteria to include new indication for active
+ankylosing spondylitis. Updated criteria for psoriasis and psoriatic
+arthritis. Added coverage exclusion statement. Updated references.
+5/2020 Updated program to include new indication in pediatric patients with
+plaque psoriasis. Updated criteria for psoriatic arthritis and ankylosing
+spondylitis pertaining to nonbiologic therapies. Updated references.
+7/2020 Updated background and criteria to include new indication for non-
+radiographic axial spondyloarthritis. Clarified documentation
+requirements. Updated references.
+11/2020 Added Tremfya as a step therapy medication for psoriatic arthritis.
+Revised formatting for psoriasis section to match other sections.
+Modified psoriasis step requirement due to expanded indication for
+Stelara.
+6/2021 Added coverage criteria for patients previously treated with a biologic
+DMARD.
+12/2021 Updated the following with no change to clinical intent: updated
+conventional DMARD bypass language for psoriatic arthritis and
+psoriasis, removed “biologic” from required preferred product criteria
+language, updated age requirement language and updated CT/KY
+footnote.
+3/2022 Added Skyrizi as a preferred drug for active psoriatic arthritis.
+6/2022 Added Rinvoq and Xeljanz to step therapy medication for ankylosing
+spondylitis and Rinvoq to psoriatic arthritis. Added Rinvoq and/or
+Xeljanz to examples where appropriate. Added Mississippi to state
+mandate footnote.
+© 2025 UnitedHealthcare Services Inc.
+8
+11/2022 Added Enbrel as a preferred product step option for PsO, PsA, and AS.
+Added Enbrel as an example where appropriate. Added Rinvoq as a
+step option for non-radiographic axial spondyloarthritis. Updated
+reference. Added targeted synthetic to DMARD bypass for non-
+radiographic axial spondyloarthritis.
+1/2023 Updated step therapy requirements to Humira or Amjevita. Updated
+listed examples from Humira to adalimumab.
+4/2023 Updated step therapy requirement from Humira or Amjevita to one of
+the preferred adalimumab products and added the footnote “For a list of
+preferred adalimumab products please reference drug coverage tools.”
+7/2023 Updated not receiving in combination language to targeted
+immunomodulator and updated examples.
+10/2024 Updated step requirement noting Adalimumab-adaz (unbranded
+Hyrimoz), Amjevita for Nuvaila, and Humira as preferred adalimumab
+products with no change to clinical intent. Removed preferred
+adalimumab footnote. Added Sotyktu as step therapy agent for PsO.
+Moved Cosentyx to preferred step agent. Updated state mandate
+footnote.
+4/2025 Removed examples for adalimumab in step therapy. Changed Stelara
+step therapy to “One of the preferred ustekinumab productsc”. Changed
+Stelara example to Ustekinumab. Added the footnote “For a list of
+preferred products please reference drug coverage tools.”
+© 2025 UnitedHealthcare Services Inc.
+9

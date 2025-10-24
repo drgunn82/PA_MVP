@@ -1,0 +1,102 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2341-2
+Program Prior Authorization/Medical Necessity
+Medication *Spevigo® (spesolimab-sbzo) injection
+*This program applies to the subcutaneous formulations of Spevigo
+P&T Approval Date 5/2024, 5/2025
+Effective Date 7/1/2025
+1. Background:
+Spevigo is an interleukin-36 receptor antagonist indicated for the treatment of generalized
+pustular psoriasis (GPP) in adults and pediatric patients 12 years of age and older and weighing
+at least 40 kg.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Spevigo will be approved based on all of the following criteria:
+a. Diagnosis of generalized pustular psoriasis (GPP) based on both of the following:
+(1) Presence of primary, sterile, macroscopically visible pustules on erythematous
+base
+(2) Pustulation is not restricted to the acral region or within psoriatic plaques
+-AND-
+b. Both of the following:
+(1) Used to prevent GPP flares
+(2) Patient is not currently experiencing a GPP flare
+-AND-
+c. One of the following:
+(1) Patient has been established on therapy with Spevigo for GPP under an active
+UnitedHealthcare medical benefit prior authorization
+-OR-
+(2) Both of the following:
+(a) Patient is currently on Spevigo therapy for GPP as documented by claims
+history or submission of medical records (Document date and duration of
+therapy)
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+1
+(b) Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or via manufacturer’s patient assistance programs (e.g.,
+sample card which can be redeemed at a pharmacy for a free supply of
+medication) as a means to establish as a current user of Spevigo*
+-AND-
+d. Patient is not receiving Spevigo in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab), Simponi
+(golimumab), Orencia (abatacept), adalimumab, Xeljanz (tofacitinib), Olumiant
+(baricitinib), Rinvoq (upadacitinib), ustekinumab, Skyrizi (risankizumab)] for
+treatment of the same indication
+-AND-
+e. Prescribed by a dermatologist
+* Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or via manufacturer’s patient
+assistance programs shall be required to meet initial authorization criteria as if patient were new
+to therapy.
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Spevigo will be approved based on all of the following criteria:
+a. Documentation of positive clinical response to therapy [e.g., preventing flares,
+reducing frequency of flares, prolonging time between flares, controlling signs and
+symptoms of GPP (e.g. pustules, erythema, pain, itching) between flares]
+-AND-
+b. Reduction in the utilization of therapy (e.g., intravenous Spevigo) used for GPP
+flares
+-AND-
+c. Patient is not receiving Spevigo in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab), Simponi
+(golimumab), Orencia (abatacept), adalimumab, Xeljanz (tofacitinib), Olumiant
+(baricitinib), Rinvoq (upadacitinib), ustekinumab, Skyrizi (risankizumab)] for
+treatment of the same indication
+-AND-
+d. Prescribed by a dermatologist
+© 2025 UnitedHealthcare Services, Inc.
+2
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Spevigo [package insert]. Ridgefield, CT: Boehringer Ingelheim Pharmaceuticals, Inc.; March
+2024.
+2. Bachelez H, Choon SE, Marrakchi S, et al. Trial of Spesolimab-sbzo for Generalized Pustular
+Psoriasis. N Engl J Med. 2021;385(26):2431-2440. doi:10.1056/NEJMoa2111563.
+3. Navarini AA, Burden AD, Capon F, et al. European consensus statement on phenotypes of
+pustular psoriasis. J Eur Acad Dermatol Venereol. 2017;31(11):1792-1799.
+doi:10.1111/jdv.14386.
+4. Armstrong AW, Elston CA, Elewski BE, et al. Generalized pustular psoriasis: A consensus
+statement from the National Psoriasis Foundation. J Am Acad Dermatol. 2024;90(4):727-730.
+doi:10.1016/j.jaad.2023.09.080
+5. Choon SE, van de Kerkhof P, Gudjonsson JE, et al. International Consensus Definition and
+Diagnostic Criteria for Generalized Pustular Psoriasis From the International Psoriasis
+Council. JAMA Dermatol. 2024;160(7):758-768. doi:10.1001/jamadermatol.2024.0915
+6. Barker JN, Casanova E, Choon SE, et al. Global Delphi consensus on treatment goals for
+generalized pustular psoriasis. Br J Dermatol. 2025;192(4):706-716. doi:10.1093/bjd/ljae491
+Program Prior Authorization/Medical Necessity – Spevigo® (spesolimab-sbzo)
+Change Control
+5/2024 New program.
+5/2025 Annual review. Revised diagnostic criteria per consensus guidelines.
+Updated combination use language. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+3

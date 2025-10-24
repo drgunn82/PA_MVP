@@ -1,0 +1,112 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2064-14
+Program Prior Authorization/Medical Necessity
+Medication Entresto® (valsartan-sacubitril)
+P&T Approval Date 8/2015, 1/2016, 2/2017, 9/2017, 2/2018, 2/2019, 11/2019, 11/2020,
+4/2021, 4/2022, 9/2022, 11/2023, 11/2024
+Effective Date 2/1/2025
+1. Background:
+Entresto (valsartan-sacubitril) is indicated to reduce the risk of cardiovascular death and
+hospitalization for heart failure. Benefits are most clearly evident in patients with left ventricular
+ejection fraction (LVEF) below normal. It is also indicated for the treatment of symptomatic
+heart failure with systemic left ventricular systolic dysfunction in pediatric patients aged one year
+and older.
+2. Coverage Criteria a:
+A. Initial Therapy
+1. Entresto will be approved based on one of the following criteria:
+a. As continuation of therapy initiated during an inpatient stay
+-OR-
+b. Both of the following:
+(1) Diagnosis of pediatric heart failure with systemic left ventricular systolic
+dysfunction which is symptomatic.
+(2) Prescribed by or in consultation with a cardiologist.
+-OR-
+c. All of the following:
+(1) Diagnosis of heart failure (with or without hypertension)
+-AND-
+(2) One of the following:
+(a) Ejection fraction is less than or equal to 40 percent
+-OR-
+(b) Both of the following:
+© 2024 UnitedHealthcare Services, Inc.
+1
+i. Ejection fraction greater than 40 percent
+ii. Patient has structural heart disease (i.e. left atrial enlargement (LAE) or
+left ventricular hypertrophy (LVH)
+-AND-
+(3) Heart failure is classified as one of the following:
+(a) New York Heart Association Class II
+(b) New York Heart Association Class III
+(c) New York Heart Association Class IV
+-AND-
+(4) Patient does not have a history of angioedema
+-AND-
+(5) Patient will discontinue any use of concomitant ACE Inhibitor or ARB
+before initiating treatment with Entresto. ACE inhibitors must be
+discontinued at least 36 hours prior to initiation of Entresto
+-AND-
+(6) Patient is not concomitantly on aliskiren therapy
+-AND-
+(7) Entresto is prescribed by or in consultation with a cardiologist
+Authorization will be issued for 12 months
+B. Reauthorization
+1. Entresto will be approved based on both of the following criteria:
+a. The Entresto dose has been titrated to a dose of 97 mg/103 mg twice daily or the
+maximum labeled dose for pediatric patients, or to a maximum dose as tolerated by
+the patient
+-AND-
+b. Documentation of positive clinical response to therapy
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+© 2024 UnitedHealthcare Services, Inc.
+2
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply Limits may be in place.
+4. References:
+1. Entresto [package insert]. East Hanover, NJ: Novartis Pharmaceuticals Corporation; April 2024.
+2. McMurray JJ, Desai AS, Gong J. Dual angiotensin receptor and neprilysin inhibition as an
+alternative to angiotensin-converting enzyme inhibition in patients with chronic systolic heart
+failure: rationale for and design of the prospective comparison of ARNI with ACEI to determine
+impact on global mortality and morbidity in heart failure trial (PARADIGM-HF). European
+Journal of Heart Failure 2013; 15: 1062–1073
+3. McMurray JJ, Packer M, Desai AS, et al. Angio-tensin-neprilysin inhibition versus enalapril in
+heart failure. N Engl J Med 2014;371:993-1004.
+4. Heidenreich PA, Bozkurt, B, et al. 2022 AHA/ACC/HFSA Guideline for the Management of
+Heart Failure: A Report of the American College of Cardiolgy/American Heart Association Joint
+Committee on Clinical Practice Guidelines. Circulation. 2022;145(18):e895-e1032.
+Program Prior Authorization/Medical Necessity - Entresto (valsartan-sacubitril)
+Change Control
+8/2015 New program.
+1/2016 Added in continuation of coverage after initiation from an inpatient stay.
+Changed EF criteria to < 35% based on PARADIGM HF trial. Modified
+beta blocker language to state patient should be stabilized on beta blocker
+therapy. Included requirement of BNP levels based on PARADIGM HF
+trial and ACCF/AHA guidelines. Added prescriber requirement. For
+reauthorization criteria added a component that patient’s dose has been
+titrated.
+2/2017 Removed requirement that angioedema must be associated with an ACE
+inhibitor or ARB, based on the 2016 ACC/AHA/HFSA recommendation
+that Entresto should not be administered to patients with a history of
+angioedema. Updated references.
+9/2017 Removed BNP requirement.
+2/2018 Updated metoprolol to remove specification of metoprolol succinate.
+Revised ejection fraction from 35% to 40%.
+12/2018 Administrative change to add statement regarding use of automated
+processes.
+2/2019 Annual review. Updated references.
+11/2019 Added criteria for coverage of pediatric heart failure. Updated references.
+11/2020 Annual review. Updated references.
+4/2021 Updated criteria to allow coverage with ejection fraction greater than
+40% with structural heart disease based on updated labeling.
+4/2022 Annual review with no changes.
+9/2022 Removed beta-blocker requirement. Updated references.
+11/2023 Annual review. Clarified reauthorization criteria for pediatric patients.
+11/2024 Annual review. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+3

@@ -1,0 +1,152 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1226-9
+Program Prior Authorization/Notification
+Medication Nerlynx® (neratinib)
+P&T Approval Date 9/2017, 9/2018, 9/2019, 4/2020, 5/2021, 5/2022, 5/2023, 7/2023,
+7/2024
+Effective Date 10/1/2024
+1. Background:
+Nerlynx® (neratinib) is a kinase inhibitor indicated for the extended adjuvant treatment of adult
+patients with early-stage human epidermal growth factor receptor 2 (HER2)-positive breast
+cancer, to follow adjuvant trastuzumab-based therapy. It is also indicated for use in combination
+with capecitabine, for the treatment of adult patients with advanced or metastatic HER2-positive
+breast cancer who have received two or more prior anti-HER2 based regimens in the metastatic
+setting.
+The National Comprehensive Cancer Network (NCCN) also recommends the use of Nerlynx in
+combination with capecitabine or paclitaxel as treatment for brain metastases in HER2 positive
+breast cancer, as extended adjuvant therapy following adjuvant trastuzumab-containing therapy
+in hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-positive
+patients with a perceived high risk of recurrence and node positive, as fourth-line therapy and
+beyond in combination with capecitabine for recurrent unresectable or stage IV (M1) HER2-
+positive disease that is HR-negative or HR-positive with or without endocrine therapy. and for
+stage IV (M1) breast cancer in HER2 activating mutations as a single agent, or in combination
+with fulvestrant with or without trastuzumab for hormone receptor-positive, HER2-negative
+disease in patients who have already received a CDK4/6 inhibitor therapy, or for triple negative
+disease.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa :
+A. Patients less than 19 years of age
+1. Nerlynx will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+1
+B. Early-Stage or Node-Positive Breast Cancer
+1. Nerlynx will be approved based on one of the following criteria:
+a. All of the following:
+(1) Diagnosis of early-stage breast cancer
+-AND-
+(2) Disease is human epidermal growth factor receptor 2 (HER2)-positive
+-AND-
+(3) Used as extended adjuvant therapy following adjuvant trastuzumabcontaining
+therapy (e.g., Herceptin®, Kanjinti™)
+-OR-
+b. All of the following:
+(1) Diagnosis of node positive breast cancer
+-AND-
+(2) Disease is hormone receptor (HR)-positive and HER2-positive
+-AND-
+(3) Used as extended adjuvant therapy following adjuvant trastuzumab-containing
+therapy (e.g., Herceptin®, Kanjinti™)
+-AND-
+(4) Patient has a perceived high risk of recurrence
+Authorization will be issued for 12 months. Duration of coverage is limited to 12
+months per occurrence.
+C. Advanced or Metastatic Breast Cancer
+1. Initial Authorization
+a. Nerlynx will be approved based on one of the following criteria:
+(1) All of the following:
+(a) Diagnosis of advanced or metastatic breast cancer
+© 2024 UnitedHealthcare Services, Inc.
+2
+-AND-
+(b) Disease is HER2-positive
+-AND-
+(c) Patient has received two or more prior anti-HER2 based regimens in
+metastatic setting
+-AND-
+(d) Will be used in combination with capecitabine
+-OR-
+(2) Both of the following:
+(a) Diagnosis of stage IV (M1) breast cancer
+-AND-
+(b) One of the following:
+(i) Both of the following:
+• HR-positive, HER2-negative disease
+• Patient has already received CDK4/6 inhibitor therapy
+-OR-
+(ii) Triple negative disease
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Nerlynx will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Nerlynx therapy
+Authorization will be issued for 12 months.
+D. Breast Cancer with Brain Metastases
+1. Initial Authorization
+a. Nerlynx will be approved based on all of the following criteria:
+(1) Diagnosis of breast cancer
+© 2024 UnitedHealthcare Services, Inc.
+3
+-AND-
+(2) Patient has brain metastases
+-AND-
+(3) Disease is HER2-positive
+-AND-
+(4) Used in combination with one of the following:
+(a) capecitabine
+(b) paclitaxel
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Nerlynx will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Nerlynx therapy
+Authorization will be issued for 12 months.
+E. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-
+10) and/or claim logic. Use of automated approval and re-approval processes varies by
+program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Nerlynx [package insert]. Los Angeles, CA: Puma Biotechnology, Inc.; March 2022.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+https://www.nccn.org. Accessed May 31, 2024.
+© 2024 UnitedHealthcare Services, Inc.
+4
+Program Prior Authorization/Notification – Nerlynx (neratinib)
+Change Control
+9/2017 New program.
+9/2018 Updated background and criteria to include NCCN recommended use in
+patients with HER-2 positive breast cancer with recurrent brain
+metastases.
+9/2019 Annual review with no changes to clinical coverage criteria. Updated
+references. Added general NCCN recommended review criteria.
+4/2020 Updated background and criteria to include new indication.
+5/2021 Annual review with no changes to coverage criteria. Updated
+references.
+5/2022 Annual review with no changes to coverage criteria. Updated
+references.
+5/2023 Annual review. Updated background. Updated criteria for metastatic
+breast cancer per NCCN guidelines. Updated references. Added state
+mandate and oncology medications footnote.
+7/2023 Updated background. Added criteria for node-positive extended
+adjuvant therapy per NCCN guidelines. Removed oncology
+medications footnote. Updated reference.
+7/2024 Annual review. Formatting changes to criteria without change to
+clinical intent. Updated background and references.
+© 2024 UnitedHealthcare Services, Inc.
+5

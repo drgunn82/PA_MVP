@@ -1,0 +1,63 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1349-6
+Program Prior Authorization/Notification
+Medication Mavenclad® (cladribine)
+P&T Approval Date 1/2021, 1/2022, 1/2023, 1/2024, 1/2025, 4/2025
+Effective Date 7/1/2025
+1. Background:
+Mavenclad® (cladribine) is indicated for the treatment of relapsing forms of multiple sclerosis
+(MS), to include relapsing-remitting disease and active secondary progressive disease, in adults.
+Because of its safety profile, the use of Mavenclad is generally recommended for patients who
+have had an inadequate response to, or are unable to tolerate, an alternate drug indicated for the
+treatment of MS. Mavenclad is not recommended for use in patients with clinically isolated
+syndrome (CIS) because of its safety profile.1
+The recommended cumulative dosage of Mavenclad is divided into 2 yearly treatment courses.
+Each treatment course is divided into 2 treatment cycles with the 2nd cycle administered 23-27
+days after the last dose of the 1st cycle. Additional cycles of Mavenclad are not to be
+administered after the completion of the 2nd treatment course. The safety and efficacy of
+reinitiating Mavenclad more than 2 years after completing 2 treatment courses has not been
+studied.
+2. Coverage Criteriaa:
+A. Relapsing Forms of Multiple Sclerosis
+1. Initial Authorization
+a. Mavenclad will be approved based on the following criterion:
+(1) Diagnosis of relapsing forms of multiple sclerosis (MS)
+-AND-
+(2) Patient has not already received the FDA-recommended limit of 2 lifetime treatment
+courses (4 treatment cycles) of Mavenclad
+Authorization will be issued for 2 months.
+2. Reauthorization
+a. Mavenclad will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Mavenclad
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+1
+(2) Patient has not already received the FDA-recommended limit of 2 lifetime treatment
+courses (4 treatment cycles) of Mavenclad
+Authorization will be issued for 2 months. (Duration of coverage will be limited to 1
+reauthorization to allow 2 cumulative treatment courses [4 treatment cycles] of
+Mavenclad therapy.)
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits and/or Step Therapy may be in place.
+4. References:
+1. Mavenclad [package insert]. Rockland, MA: EMD Serono, Inc.; May 2024.
+Program Prior Authorization/Notification – Mavenclad (cladribine)
+Change Control
+1/2021 New program.
+1/2022 Annual review with no change to clinical criteria.
+1/2023 Annual review. Added state mandate footnote. Updated reference.
+1/2024 Annual review with no change to clinical criteria.
+1/2025 Annual review with no change to clinical criteria. Updated reference.
+4/2025 Added statement to initial criteria “Patient has not already received the FDA-
+recommended limit of 2 lifetime treatment courses (4 treatment cycles) of
+Mavenclad” and revised similar statement in reauthorization criteria to
+clarify maximum recommended lifetime treatment.
+© 2025 UnitedHealthcare Services, Inc.
+2

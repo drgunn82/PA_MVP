@@ -1,0 +1,195 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Hepatology – Bylvay Prior Authorization Policy
+• Bylvay™ (odevixibat capsules and oral pellets − Albireo Pharma)
+REVIEW DATE: 07/30/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Bylvay, an ileal bile acid transporter (IBAT) inhibitor, is indicated for the treatment
+of:
+• Pruritus in patients ≥ 3 months of age with progressive familial
+intrahepatic cholestasis (PFIC).1
+• Cholestatic pruritus in patients > 12 months of age with Alagille syndrome
+(ALGS).1
+Disease Overview
+PFIC is a group of rare, autosomal recessive liver diseases defined by genetic
+mutations affecting bile acid transporters (e.g., mutation of the ATP8B1 gene,
+ABCB11 gene, ABCB4 gene, TJP2 gene, NR1H4 gene, and MYO5B gene).2-4 ALGS is
+a rare liver disease defined by genetic deletion or mutation affecting bile acid
+transporters (e.g., deletion or mutation of the JAG1 gene or NOTCH2 gene).5,8,9
+Page 1 of 5 - Cigna National Formulary Coverage - Policy: Hepatology – Bylvay Prior Authorization Policy
+Progression of both diseases can cause liver fibrosis, cirrhosis, or end-stage liver
+disease and leads to death at an early age in life (infancy to adolescence).
+Cholestasis, jaundice, and pruritus are common symptoms in patients with PFIC
+and ALGS.8,9 Although the complete mechanism by which Bylvay improves pruritus
+in these patients is unknown, it may involve inhibition of the IBAT, which results in
+decreased reuptake of bile salts, as observed by a decrease in serum bile acids.
+Cholestyramine, rifampicin, and ursodeoxycholic acid (ursodiol) have been used off-
+label for decades to alleviate symptoms related to PFIC and ALGS.5,6,9 Additionally,
+cholestyramine, fenofibrate, ursodeoxycholic acid, rifampicin, naltrexone, and
+sertraline are recommended in clinical practice guidelines from the European
+Association for the Study of the Liver (2024).7
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Bylvay. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Bylvay as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Bylvay to be prescribed by or in consultation with a physician who specializes in the
+condition being treated.
+• Bylvay™ (odevixibat capsules and oral pellets - Albireo Pharma)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Progressive Familial Intrahepatic Cholestasis. Approve for the duration
+noted if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the
+following (i, ii, iii, iv, v, vi and vii):
+i. Patient is ≥ 3 months of age; AND
+ii. According to the prescriber, the patient has moderate-to-severe pruritus;
+AND
+iii. Diagnosis of progressive familial intrahepatic cholestasis was confirmed by
+genetic testing demonstrating a gene mutation affiliated with progressive
+familial intrahepatic cholestasis; AND
+Note: Gene mutations affiliated with progressive familial intrahepatic
+cholestasis include the ATP8B1 gene, ABCB11 gene, ABCB4 gene, TJP2
+gene, NR1H4 gene, and MYO5B gene.
+iv. Patient has a serum bile acid concentration above the upper limit of the
+normal reference range for the reporting laboratory; AND
+v. Patient has tried at least two systemic medications for progressive familial
+intrahepatic cholestasis, unless contraindicated; AND
+Page 2 of 5 - Cigna National Formulary Coverage - Policy: Hepatology – Bylvay Prior Authorization Policy
+Note: Systemic medications for progressive familial intrahepatic
+cholestasis include fenofibrate, cholestyramine, naltrexone, rifampicin,
+sertraline, and ursodeoxycholic acid (ursodiol).
+vi. Patient does not have any of the following (a, b, or c):
+a) Cirrhosis; OR
+b) Portal hypertension; OR
+c) History of a hepatic decompensation event; AND
+Note: Examples of a hepatic decompensation event include variceal
+hemorrhage, ascites, and hepatic encephalopathy.
+vii. The medication is prescribed by or in consultation with a hepatologist,
+gastroenterologist, or a physician who specializes in progressive familial
+intrahepatic cholestasis; OR
+B) Patient is Currently Receiving Bylvay. Approve for 1 year if the patient meets
+ALL of the following (i, ii, and iii):
+i. Patient does not have any of the following (a, b, or c):
+a) Cirrhosis; OR
+b) Portal hypertension; OR
+c) History of a hepatic decompensation event; AND
+Note: Examples of a hepatic decompensation event include variceal
+hemorrhage, ascites, and hepatic encephalopathy.
+ii. Patient had response to therapy, as determined by the prescriber; AND
+Note: Examples of response to therapy include decrease in serum bile
+acids and decrease in pruritus.
+iii. The medication is prescribed by or in consultation with a hepatologist,
+gastroenterologist, or a physician who specializes in progressive familial
+intrahepatic cholestasis.
+2. Alagille Syndrome. Approve for the duration noted if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the
+following (i, ii, iii, iv, v, vi and vii):
+i. Patient is ≥ 12 months of age; AND
+ii. According to the prescriber, the patient has moderate-to-severe pruritus;
+AND
+iii. Diagnosis of Alagille syndrome was confirmed by genetic testing
+demonstrating a JAG1 or NOTCH2 deletion or mutation; AND
+iv. Patient has a serum bile acid concentration above the upper limit of the
+normal reference range for the reporting laboratory; AND
+v. Patient has tried at least two systemic medications for Alagille syndrome,
+unless contraindicated; AND
+Note: Systemic medications for Alagille syndrome include fenofibrate,
+cholestyramine, naltrexone, rifampicin, sertraline, and ursodeoxycholic
+acid (ursodiol).
+vi. Patient does not have any of the following (a, b, or c):
+a) Cirrhosis; OR
+b) Portal hypertension; OR
+c) History of a hepatic decompensation event; AND
+Page 3 of 5 - Cigna National Formulary Coverage - Policy: Hepatology – Bylvay Prior Authorization Policy
+Note: Examples of a hepatic decompensation event include variceal
+hemorrhage, ascites, and hepatic encephalopathy.
+vii. The medication is prescribed by or in consultation with a hepatologist,
+gastroenterologist, or a physician who specializes in Alagille syndrome;
+OR
+C) Patient is Currently Receiving Bylvay. Approve for 1 year if the patient meets
+ALL of the following (i, ii, and iii):
+i. Patient does not have any of the following (a, b, or c):
+a) Cirrhosis; OR
+b) Portal hypertension; OR
+c) History of a hepatic decompensation event; AND
+Note: Examples of a hepatic decompensation event include variceal
+hemorrhage, ascites, and hepatic encephalopathy.
+ii. Patient had response to therapy, as determined by the prescriber; AND
+Note: Examples of response to therapy include decrease in serum bile
+acids and decrease in pruritus.
+iii. The medication is prescribed by or in consultation with a hepatologist,
+gastroenterologist, or a physician who specializes in Alagille syndrome.
+CONDITIONS NOT COVERED
+• Bylvay™ (odevixibat capsules and oral pellets - Albireo Pharma)
+is(are) considered not medically necessary for ANY other use(s); criteria
+will be updated as new published data are available.
+REFERENCES
+1. Bylvay™ capsules and oral pellets [prescribing information]. Boston, MA: Albireo Pharma; March
+2025.
+2. Davit-Spraul, A, Gonzales, E, Baussan, C, et al. Progressive familial intrahepatic cholestasis.
+Orphanet J Rare Dis. 2009;4:1.
+3. Amirneni S, Haep N, Gad MA, et al. Molecular overview of progressive familial intrahepatic
+cholestasis. World J Gastroenterol. 2020 Dec 21;26(47):7470-7484.
+4. Gunaydin M, Bozkurter Cil AT. Progressive familial intrahepatic cholestasis: diagnosis,
+management, and treatment. Hepat Med. 2018 Sep 10;10:95-104.
+5. van der Woerd WL, Houwen RH, van de Graaf SF. Current and future therapies for inherited
+cholestatic liver diseases. World J Gastroenterol. 2017 Feb 7;23(5):763-775.
+6. Gunaydin M, Bozkurter C. Progressive familial intrahepatic cholestasis: diagnosis, management,
+and treatment. Hepat Med. 2018 Sep 10;10:95-104.
+7. European Association for the Study of the Liver. EASL Clinical Practice Guidelines on genetic
+cholestatic liver diseases. J Hepatol. 2024 Aug;81(2): 303-325.
+8. Alagille syndrome. National Organization for Rare Disorders. Updated 2024. Available at:
+https://rarediseases.org/rare-diseases/alagille-syndrome/. Accessed on July 22, 2025.
+9. Diaz-Frias J, Kondamudi NP. Alagille Syndrome. [Updated 2023 Aug 12]. In: StatPearls [Internet].
+Treasure Island (FL): StatPearls Publishing; 2023 Jan-. Available from:
+https://www.ncbi.nlm.nih.gov/books/NBK507827/. Accessed on July 22, 2025.
+Page 4 of 5 - Cigna National Formulary Coverage - Policy: Hepatology – Bylvay Prior Authorization Policy
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Alagille Syndrome: This condition and criteria for approval was 07/19/2023
+Revision added to the policy.
+Annual No criteria changes. 07/24/2024
+Revision
+Annual Alagille Syndrome: Fenofibrate was added to the Note with 07/30/2025
+Revision examples of systemic medications that should be tried prior to
+approval of Bylvay.
+Progressive Familial Intrahepatic Cholestasis: Fenofibrate was
+added to the Note with examples of systemic medications that
+should be tried prior to approval of Bylvay.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+Page 5 of 5 - Cigna National Formulary Coverage - Policy: Hepatology – Bylvay Prior Authorization Policy

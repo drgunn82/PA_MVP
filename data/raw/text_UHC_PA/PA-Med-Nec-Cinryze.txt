@@ -1,0 +1,126 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2031-15
+Program Prior Authorization/Medical Necessity
+Medication Cinryze® (C1 esterase inhibitor, human)*
+* Cinryze is excluded from coverage for the majority of our benefits
+P&T Approval Date 8/2014, 8/2015, 7/2016, 7/2017, 7/2018, 7/2019, 6/2020, 3/2021,
+3/2022, 3/2023, 3/2024, 3/2025
+Effective Date 6/1/2025
+1. Background:
+Cinryze is a plasma-derived C1 esterase inhibitor (human) indicated for routine prophylaxis
+against angioedema attacks in adolescent, adult, and pediatric (6 years of age and above)
+patients with hereditary angioedema (HAE).1
+2. Coverage Criteria a:
+A. Initial Authorization
+1. Cinryze will be approved based on all of the following criteria:
+a. Diagnosis of hereditary angioedema (HAE) as confirmed by one of the following:
+(1) C1 inhibitor (C1-INH) deficiency or dysfunction (Type I or II HAE) as
+documented by one of the following (per laboratory standard):
+(a) C1-INH antigenic level below the lower limit of normal
+(b) C1-INH functional level below the lower limit of normal
+-OR-
+(2) HAE with normal C1 inhibitor levels and one of the following:
+(a) Confirmed presence of variant(s) in the gene(s) for factor XII, angiopoietin-1,
+plasminogen-1, kininogen-1, myoferlin, and heparan sulfate-glucosamine 3-
+O-sulfotransferase 6
+(b) Recurring angioedema attacks that are refractory to high-dose antihistamines
+with confirmed family history of angioedema
+(c) Recurring angioedema attacks that are refractory to high-dose antihistamines
+with unknown background de-novo mutation(s) (i.e., no family history)
+(HAE-unknown)
+-AND-
+b. All of the following:
+(1) Prescribed for the prophylaxis of HAE attacks
+© 2025 UnitedHealthcare Services, Inc.
+1
+-AND-
+(2) Not used in combination with other products indicated for prophylaxis against
+HAE attacks (e.g., Haegarda, Orladeyo, Takhzyro)
+-AND-
+(3) Prescriber attests that patient has experienced attacks of a severity and/or
+frequency such that they would clinically benefit from prophylactic therapy with
+Cinryze
+-AND-
+c. History of failure to both of the following (document date of trial and list reason for
+therapeutic failure):
+(1) Haegarda (C1 esterase inhibitor, human)
+(2) Takhzyro (lanadelumab)
+-AND-
+d. Prescribed by one of the following:
+(1) Immunologist
+(2) Allergist
+Authorization of therapy will be issued for 12 months.
+B. Reauthorization
+1. Cinryze will be approved based on all of the following criteria:
+a. Documentation of positive clinical response to Cinryze therapy.
+-AND-
+b. Reduction in the utilization of on-demand therapies used for acute attacks (e.g.,
+Berinert, Firazyr, Ruconest) as determined by claims information, while on Cinryze
+therapy
+-AND-
+c. Both of the following:
+(1) Prescribed for the prophylaxis of HAE attacks
+-AND-
+(2) Not used in combination with other products indicated for prophylaxis against
+© 2025 UnitedHealthcare Services, Inc.
+2
+HAE attacks (e.g., Haegarda, Orladeyo, Takhzyro)
+-AND-
+d. Prescribed by one of the following:
+(1) Immunologist
+(2) Allergist
+Authorization of therapy will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Cinryze [package insert]. Lexington, MA: ViroPharma Biologics LLC ; November 2024.
+2. Maurer M, Magerl M, Ansotegui I, et al. The international WAO/EAACI guideline for the
+management of hereditary angioedema-The 2017 revision and update. Allergy. 2018 Jan 10.
+3. Wu, E. Hereditary angioedema with normal C1 inhibitor. In: UpToDate, Saini, S (Ed),
+UpToDate, Waltham, MA, 2023.
+4. Busse, P., Christiansen, S., Riedl, M., et. al. “US HAEA Medical Advisory Board 2020
+Guidelines for the Management of Hereditary Angioedema.” The Journal of Allergy and
+Clinical Immunology. 2020 September 05.
+5. Maurer M, Magerl M, Betschel S, et al. The international WAO/EAACI guideline for the
+management of hereditary angioedema-The 2021 revision and update. Allergy.
+2022;77(7):1961-1990. doi:10.1111/all.15214
+Program Prior Authorization/Medical Necessity - Cinryze (C1 esterase inhibitor,
+human)
+Change Control
+8/2014 New program.
+9/2014 Administrative change - Tried/Failed exemption for State of New Jersey
+removed.
+8/2015 Annual review. No change.
+7/2016 Annual review with no changes to the coverage criteria. Updated
+background and references. Added Maryland, Indiana and West
+Virginia coverage information.
+11/2016 Administrative change. Added California coverage information.
+© 2025 UnitedHealthcare Services, Inc.
+3
+2/2017 Administrative change. Correct Oxford effective date.
+7/2017 Annual review. No change to criteria. Updated reference.
+7/2018 Annual review. Updated coverage criteria. Updated references.
+7/2019 Annual review. Updated background and references.
+6/2020 Annual review. Aligned criteria with acute and prophylactic therapies.
+Removed off-label use for acute attacks. Added notation that Cinryze is
+excluded for most plans.
+3/2021 Added diagnosis criteria and aligned combination use language with
+prophylactic therapies. Updated references.
+3/2022 Annual review. Updated references.
+3/2023 Annual review. Updated references.
+3/2024 Annual review with update to diagnostic criteria for HAE with normal
+C1 inhibitor levels. Simplified reauthorization criteria. Updated
+reference.
+3/2025 Annual review. Updated coverage criteria by adding Takhzyro
+(lanadelumab) to list of products requiring a history of use. Updated
+reference.
+© 2025 UnitedHealthcare Services, Inc.
+4

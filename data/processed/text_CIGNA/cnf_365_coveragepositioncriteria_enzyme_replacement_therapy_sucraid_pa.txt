@@ -1,0 +1,119 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Enzyme Replacement Therapy – Sucraid Prior Authorization Policy
+• Sucraid® (sacrosidase oral solution – QOL Medical)
+REVIEW DATE: 04/16/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Sucraid, an enzyme replacement therapy, is indicated for the treatment of sucrase
+deficiency, which is part of congenital sucrase-isomaltase deficiency (CSID).1
+Disease Overview
+CSID is an autosomal recessive intestinal disorder characterized by reduced or absent
+activity of the sucrase-isomaltase complex.2,3 These enzymes are responsible for the
+hydrolysis of complex sugars and starches into simple sugars which are absorbed
+from the gastrointestinal tract. With absent or diminished enzyme activity, complex
+sugars and starches accumulate in the small intestine and lead to disease
+manifestations.2 Symptoms include osmotic diarrhea, vomiting, bloating, abdominal
+pain, and steatorrhea.2,3 Patients can occasionally experience dehydration, failure to
+thrive, developmental delay, and muscular hypotonia.2 The diagnosis of CSID can
+be established by testing small intestine biopsy specimens for reduced or absent
+Page 1 of 3: Cigna National Formulary Coverage - Policy: Enzyme Replacement Therapy - Sucraid Prior
+Authorization Policy
+enzyme activity; this is considered the gold standard. Additionally, genetic testing
+to identify a mutation in the sucrase-isomaltase gene may also confirm diagnosis.3-5
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Sucraid. All
+approvals are provided for the duration noted below. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Sucraid as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Sucraid to be prescribed by or in consultation with a physician who specializes in the
+condition being treated.
+• Sucraid® (sacrosidase oral solution – QOL Medical)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Congenital Sucrase-Isomaltase Deficiency. Approve for 1 year if the patient
+meets ALL of the following (A, B, and C):
+A) The diagnosis is established by ONE of the following (i or ii):
+i. Patient has endoscopic biopsy of the small bowel with disaccharidase levels
+consistent with congenital sucrose-isomaltase deficiency as evidenced by
+ALL of the following (a, b, c, and d):
+a) Decreased (usually absent) sucrase level (normal reference: > 25 U/g
+protein); AND
+b) Decreased or normal isomaltase (palatinase) level [normal reference:
+> 5 U/g protein]; AND
+c) Decreased maltase level (normal reference: > 100 U/g protein); AND
+d) Decreased or normal lactase level (normal reference: > 15 U/g protein);
+OR
+ii. Patient has a molecular genetic test demonstrating homozygous or
+compound heterozygous pathogenic or likely pathogenic sucrase-
+isomaltase gene variant; AND
+B) Prior to starting therapy with Sucraid, patient had symptomatic congenital
+sucrose-isomaltase deficiency (e.g., diarrhea, bloating, abdominal cramping);
+AND
+C) The medication is prescribed by or in consultation with a geneticist,
+gastroenterologist, a metabolic disorder sub-specialist, or a physician who
+specializes in the treatment of congenital diarrheal disorders.
+CONDITIONS NOT COVERED
+• Sucraid® (sacrosidase oral solution – QOL Medical)
+Page 2 of 3: Cigna National Formulary Coverage - Policy: Enzyme Replacement Therapy - Sucraid Prior
+Authorization Policy
+is(are) considered not medically necessary for ANY other use(s); criteria will
+be updated as new published data are available.
+REFERENCES
+1. Sucraid® oral solution [prescribing information]. Vero Beach, FL: QOL Medical; August 2024.
+2. Naim HY, Heine M, Zimmer KP. Congenital sucrose-isomaltase deficiency: Heterogeneity of
+inheritance, trafficking, and function of an intestinal enzyme complex. J Pediatr Gastroenterol Nutr.
+2012;55:S13-S20.
+3. Cohen SA. The clinical consequences of sucrose-isomaltase deficiency. Mol Cell Pediatr. 2016;3:5.
+4. Gericke B, Amiri M, Scott CR, Naim HY. Molecular pathogenicity of novel sucrose-isomaltase
+mutations found in congenital sucrose-isomaltase deficiency patients. Biochim Biophys Acta Mol
+Basis Dis. 2017;1863:817-826.
+5. Chey, W.D. Congenital sucrase-isomaltase deficiency: What, when, and how? Gastroenterology
+Hepatology. October 2020. Available at:
+https://www.gastroenterologyandhepatology.net/supplements/congenital-sucrase-isomaltase-
+deficiency-what-when-and-how/. Accessed on April 8, 2025.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 04/12/2023
+Revision
+Annual Congenital Sucrase-Isomaltase Deficiency: Disaccharidase 04/19/2024
+Revision levels consistent with congenital sucrase-isomaltase deficiency was
+changed from “decreased to normal” to “decreased or normal”
+isomaltase and lactase levels.
+Annual No criteria changes. 04/16/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 3 of 3: Cigna National Formulary Coverage - Policy: Enzyme Replacement Therapy - Sucraid Prior
+Authorization Policy

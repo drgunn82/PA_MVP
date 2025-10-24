@@ -1,0 +1,801 @@
+BENEFIT EXCLUSION OVERRIDES POLICY
+POLICY: Non-Weight Loss Indications – Wegovy and Zepbound Benefit
+Exclusion Overrides Policy
+• Wegovy® (semaglutide subcutaneous injection – Novo Nordisk)
+• Zepbound® (tirzepatide subcutaneous injection – Eli Lilly)
+REVIEW DATE: 10/23/2024; selected revision 01/08/2025, 05/28/2025,
+07/09/2025, and 08/27/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Wegovy and Zepbound are indicated in combination with a reduced-calorie diet
+and increased physical activity:1,4
+• To reduce excess body weight and maintain weight reduction long
+term in:
+o Wegovy and Zepbound: Adults with overweight in the presence of at
+least one weight-related comorbid condition.1,3
+o Wegovy and Zepbound: Adults with obesity.1,3,4
+o Wegovy: Pediatric patients ≥ 12 years of age with obesity.1
+Page 1 of 17 - Cigna National Formulary Coverage - Policy: Non-Weight Loss Indications – Wegovy and Zepbound
+Benefit Exclusion Overrides Policy
+Wegovy is also indicated in combination with a reduced-calorie diet and increased
+physical activity:1
+• To reduce the risk of major adverse cardiovascular (CV) events (CV
+death, non-fatal myocardial infarction {MI}, or non-fatal stroke) in adults
+with established CV disease and either obesity or overweight.1,2
+• For the treatment of non-cirrhotic metabolic dysfunction-associated
+steatohepatitis (MASH), formerly known as non-alcoholic steatohepatitis
+(NASH), with moderate to advanced liver fibrosis (consistent with stages F2
+to F3 fibrosis) in adults.1,25-26
+Zepbound is indicated in combination with a reduced-calorie diet and increased
+physical activity:4
+• To treat moderate to severe obstructive sleep apnea (OSA) in adults
+with obesity.
+Dosing
+In the prescribing information for Wegovy, a recommended dose escalation
+schedule of 16 weeks is outlined (the 2.4 mg dose would be reached at the start of
+Week 17).1 If a patient does not tolerate a dose during dose escalation, consider
+delaying dose escalation for 4 weeks. For CV risk reduction and weight reduction,
+the maintenance dose of Wegovy is 2.4 mg (recommended) or 1.7 mg injected
+subcutaneously (SC) once weekly (QW); consider treatment response and
+tolerability when selecting the maintenance dose. For MASH, the recommended
+maintenance dose is 2.4 mg QW. If the patient does not tolerate 2.4 mg QW, the
+dose can be decreased to 1.7 mg QW. Consider re-escalation to 2.4 mg QW.
+In the prescribing information for Zepbound, the recommended starting dose is 2.5
+mg SC QW.9 The 2.5 mg dose is for treatment initiation and is not intended for
+chronic weight management. After 4 weeks, the dose can be increased to 5 mg
+QW. The dose can then be increased in 2.5 mg increments, after at least 4 weeks
+on the current dose. The recommended maintenance doses for weight reduction
+and long-term maintenance are 5 mg, 10 mg, or 15 mg QW. The recommended
+maintenance dose in OSA is 10 mg or 15 mg QW. The treatment response and
+tolerability should be considered when selecting the maintenance dose. If a patient
+does not tolerate a maintenance dose, consider a lower maintenance dose. The
+maximum dose is 15 mg QW. The 5 mg, 10 mg, and 15 mg maintenance doses are
+reached after Week 4, Week 12, and Week 20, respectively.
+Clinical Efficacy
+Secondary Prevention of MACE
+SELECT was a randomized, double-blind, placebo-controlled, event-driven study
+that assessed Wegovy vs. placebo, when added to standard of care, for the
+secondary prevention of CV events in adults ≥ 45 years of age with BMI ≥ 27
+kg/m2 and established CV disease without diabetes (n = 17, 604).2 Established CV
+disease was defined as one of the following: prior MI, prior stroke (ischemic or
+hemorrhagic), and/or symptomatic peripheral arterial disease (as evidenced by
+intermittent claudication with ankle-brachial index < 0.85, peripheral arterial
+revascularization procedure, or amputation due to atherosclerotic disease). The
+Page 2 of 17 - Cigna National Formulary Coverage - Policy: Non-Weight Loss Indications – Wegovy and Zepbound
+Benefit Exclusion Overrides Policy
+trial excluded patients who had received a GLP-1 or GLP-1/GIP agonist within 90
+days of enrollment. Patients who developed diabetes during the study remained in
+the study and received treatment (excluding use of another GLP-1 or GLP-1/GIP
+agonist). Wegovy was titrated to reach the 2.4 mg QW maintenance dose over 16
+weeks. However, if dose escalation led to unacceptable effects, the dose escalation
+intervals could be extended, treatment could be paused, or maintenance doses <
+2.4 mg QW could be used. Very few patients (< 0.1%) were treated with weight‐
+lowering pharmacotherapy at baseline (further detail is not available; however,
+concomitant GLP-1 agonist use was not allowed).3 The mean hemoglobin A
+1c
+(HbA ) was just over 5.7%; 67% of patients had a HbA ≥ 5.7% (pre-diabetes).
+1c 1c
+The most common prior CV event was MI (68% of patients), followed by stroke
+(18%), and 4.5% of patients had symptomatic peripheral arterial disease; 8% of
+patients had two or more of these conditions. At baseline, 91.8% of patients were
+receiving CV risk‐lowering pharmacotherapy, 90% of patients were receiving lipid‐
+lowering agents (87.3% of patients were taking statins, 13.0% of patients were
+taking ezetimibe, 2.7% of patients were taking fibrates, and 2.0% of patients were
+taking proprotein convertase subtilisin/kexin type 9 inhibitors), 86.2% of patients
+were receiving platelet aggregation inhibitors, and 12.6% of patients were receiving
+antithrombotic medications.2,3 In addition, 70.2% of patients were taking beta-
+blockers, 45.0% of patients were taking angiotensin converting enzyme inhibitors,
+and 29.5% of patients were taking angiotensin receptor blockers.3 The primary
+efficacy endpoint was a composite of death from CV causes, non-fatal MI, or non-
+fatal stroke.2
+Results. Patients were followed for a mean of 39.8 months.2 At Week 104,
+approximately 77% of patients receiving Wegovy were taking the target 2.4 mg QW
+dose (details on the exact proportions of patients on other Wegovy doses are not
+available; efficacy results are only provided for the 2.4 mg dose). The trial
+achieved its primary endpoint, demonstrating a statistically significant and superior
+reduction in MACE for Wegovy vs. placebo. A primary endpoint event occurred in
+6.5% vs. 8.0% of patients in the Wegovy vs. placebo groups, respectively (hazard
+ratio [HR] 0.80; 95% confidence interval [CI]: 0.72, 0.90; P < 0.001). Death from
+CV events, the first confirmatory secondary endpoint, occurred in 2.5% vs. 3.0% of
+Wegovy- vs. placebo-treated patients, respectively (HR 0.85; 95% CI: 0.71, 1.01;
+P = not significant for superiority). Because the difference between groups for
+death from CV events did not meet the required P-value for superiority, testing was
+not performed for the remaining confirmatory and secondary endpoints.
+MASH
+The ESSENCE trial (Part 1 n = 800), a two-part, ongoing. Phase III, multicenter,
+double-blind, parallel-group trial randomized adults with MASH and stage F2 to F3
+fibrosis to Wegovy or placebo, both in addition to standard of care (optimization of
+treatment for type 2 diabetes, dyslipidemia, and CV risk management).12,13 Results
+from Part 1 have been published. Eligible patients were ≥ 18 years of age with
+histological presence of steatohepatitis with stage F2 to F3 fibrosis according to
+NASH Clinical Research Network classification and a non-alcoholic fatty liver disease
+(NAFLD) activity score (NAS) of ≥ 4, with a score of ≥ 1 in each component
+(steatosis, lobular inflammation, and hepatocyte ballooning), based on central
+Page 3 of 17 - Cigna National Formulary Coverage - Policy: Non-Weight Loss Indications – Wegovy and Zepbound
+Benefit Exclusion Overrides Policy
+pathologist evaluation of a baseline liver biopsy. Patients with an average alcohol
+consumption of ≥ 20 grams/day for women or ≥ 30 grams/day for men or alcohol
+dependence were excluded.12,13 Patients taking stable doses of pioglitazone,
+vitamin E, glucose lowering agent(s), lipid-lowering medication(s), and weight loss
+medication(s) were allowed to continue these therapies. Rezdiffra™ (resmetirom
+tablets) was not approved at the time the trial commenced; therefore, no patients
+were taking Rezdiffra in Part 1 of this trial. Concomitant use of any other GLP-1 or
+GLP-1/GIP agonist was not allowed. In patients randomized to Wegovy, the dose
+was escalated over 16 weeks to reach Wegovy 2.4 mg SC QW. Patients could
+continue to receive a lower dose of Wegovy if they had unacceptable side effects
+while receiving the designated target dose and would otherwise discontinue the
+study.12 The two primary histologic endpoints were: 1) Resolution of
+steatohepatitis and no worsening of liver fibrosis; and 2) Improvement in liver
+fibrosis and no worsening of steatohepatitis. In Part 2 of the trial, the primary
+endpoint will be cirrhosis-free survival at Week 240 (ongoing). Overall, 56% of
+patients had type 2 diabetes. The mean BMI was 34.6 kg/m2 and most patients
+had a BMI ≥ 35 kg/m2 (41.3%); 31.5% of patients had a BMI ≥ 30 kg/m2 to < 35
+kg/m2, 20.5% of patients had a BMI of ≥ 25 kg/m2 to < 30 kg/m2, and 6.6% of
+patients had a BMI < 25 kg/m2. Most patients fulfilled four (27.8%) or five
+(43.3%) of five metabolic dysfunction-associated metabolic liver disease (MASLD)
+cardiometabolic criteria (i.e., BMI ≥ 25 kg/m2 [≥ 23 kg/m2 Asia] or waist
+circumference > 94 cm [male] or > 80 cm [female] or ethnicity adjusted
+equivalent; fasting serum glucose ≥ 100 mg/dL or 2-hour post-prandial glucose ≥
+140 mg/dL or type 2 diabetes or treatment for type 2 diabetes; blood pressure ≥
+130/85 mmHg or specific antihypertensive drug treatment; plasma high-density
+lipoprotein cholesterol [HDL-C] ≤ 40 mg/dL [male] and ≤ 50 mg/dL [female] or
+lipid-lowering treatment). Most patients had stage F3 fibrosis (68.8%); 31.3% of
+patients had stage F2 fibrosis. The mean NAS was 5.05 (5.11 in patients with
+stage F3 fibrosis and 4.92 in patients with stage F2 fibrosis).
+Results. At the time of the primary endpoint assessment 83.5% of patients were
+taking Wegovy 2.4 mg QW.13 At the interim analysis (the first 800 patients enrolled
+in the trial), the between-group differences for both primary endpoints were
+significant for Wegovy vs. placebo. Wegovy demonstrated a significant
+improvement in liver fibrosis with no worsening of steatohepatitis, as well as
+resolution of steatohepatitis with no worsening of liver fibrosis. At Week 72, 62.9%
+vs. 34.1% of patients treated with Wegovy vs. placebo, respectively, achieved
+resolution of steatohepatitis with no worsening of liver fibrosis (estimated difference
+28.7%; 95% CI: 21.1%, 36.2%; P < 0.001). In addition, at Week 72, 36.8% vs.
+22.4% of patients treated with Wegovy vs. placebo, respectively, had a reduction in
+liver fibrosis with no worsening of steatohepatitis (estimated difference 14.4%;
+95% CI: 7.5%, 21.3%; P < 0.001). Confirmatory secondary endpoints also
+generally favored Wegovy (e.g., resolution of steatohepatitis with improvement in
+liver fibrosis, weight change). At Week 72, the proportion of patients with both
+resolution of steatohepatitis and improvement in fibrosis was 32.7% vs. 16.1% of
+patients receiving Wegovy vs. placebo, respectively (difference 16.5%; 95% CI:
+10.2% to 22.8%, respectively; P < 0.001). The mean change in body weight was -
+10.5% vs. -2.0% for Wegovy vs. placebo, respectively (difference -8.5%; 95% CI:
+Page 4 of 17 - Cigna National Formulary Coverage - Policy: Non-Weight Loss Indications – Wegovy and Zepbound
+Benefit Exclusion Overrides Policy
+-9.6%, -7.4%; P < 0.001). Improvements in liver enzymes, non-invasive liver
+tests, and other metabolic parameters also favored Wegovy. Among patients with
+F2 fibrosis (Wegovy vs. placebo), 45.0% vs. 22.7% of patients, respectively, had
+improvement of fibrosis, 37.1% vs. 42.4% of patients, respectively, had no change
+in fibrosis, and 17.9% vs. 34.8% of patients, respectively, had worsening of
+fibrosis. Part 2 of the trial is ongoing and expected to read out in 2029.
+OSA
+The SURMOUNT-OSA (n = 469) trials were two 52-week, Phase III, multicenter,
+double-blind, randomized trials that evaluated the efficacy and safety of maximally
+tolerated Zepbound (10 mg or 15 mg QW) in adults with obesity (without diabetes)
+and moderate to severe OSA.5 Two patient populations were included. In Trial 1,
+patients were unable or unwilling to use positive airway pressure (PAP) therapy,
+and in Trial 2, patients had been using PAP therapy for ≥ 3 months at the time of
+screening and planned to continue PAP therapy during the trial. All patients had a
+diagnosis of moderate to severe OSA with an apnea-hypopnea index (AHI) ≥ 15
+events/hour as diagnosed with polysomnography, home sleep apnea test, or other
+methods that met local guidelines prior to Visit 1. Patients had a BMI of ≥ 30
+kg/m2 (≥ 27 kg/m2 in Japan) despite the history of at least one self-reported
+unsuccessful dietary effort to lose weight. Key exclusion criteria were the presence
+of type 1 or type 2 diabetes (HbA ≥ 6.5% at Visit 1), change in weight of > 5 kg
+1c
+in the past 3 months, planned surgery for sleep apnea or obesity, diagnosis of
+central or mixed sleep apnea with the percentage of mixed or central
+apneas/hypopneas ≥ 50%, or diagnosis of Cheyne Stokes respiration, diagnosis of
+obesity hypoventilation syndrome or daytime hypocapnia, active device treatment
+of OSA other than PAP therapy (e.g., dental appliance), and major craniofacial
+abnormalities that may affect breathing. In addition, use of medications
+(prescribed or over-the-counter) or alternative remedies to promote weight loss in
+the past 3 months was not allowed, this included other GLP-1 or GLP-1/GIP
+agonists. Of note, although patients with diabetes at baseline were excluded, if a
+patient developed diabetes while in the study, the patient was referred to their
+usual care provider. The decision to further evaluate, to initiate antihyperglycemic
+therapy, and the choice of antihyperglycemic medication was at the discretion of
+the provider. Following a 4-week screening period, patients were assigned to Trial
+1 or Trial 2 and randomly assigned to receive Zepbound or placebo SC QW. All
+patients received regular lifestyle counseling sessions focused on the maintenance
+of healthy nutrition, adherence to a 500 calorie/day deficit, and ≥ 150 minutes per
+week of physical activity. The dose of Zepbound was escalated over a period of up
+to 20 weeks starting at 2.5 mg SC QW and increased by 2.5 mg every 4 weeks
+during the dose-escalation period until the patient reached the maximum tolerated
+dose of 10 mg or 15 mg SC QW at Week 20. Dose modification was permitted for
+the management of intolerable gastrointestinal (GI) symptoms. Patients who did
+not tolerate ≥ 10 mg even after one de-escalation and re-escalation attempt were
+discontinued from the study intervention but remained in the study for continued
+follow-up. During the first 24 weeks of the treatment period (20-week dose
+escalation plus 4 weeks), patients unable to tolerate 2.5 mg or 5 mg were
+discontinued from the study intervention but remained in the study. For patients
+unable to tolerate any dose escalation between 7.5 mg and 15 mg (inclusive), a
+Page 5 of 17 - Cigna National Formulary Coverage - Policy: Non-Weight Loss Indications – Wegovy and Zepbound
+Benefit Exclusion Overrides Policy
+dose de-escalation step with subsequent re-escalation by 2.5 mg every 4 weeks up
+to the maximum tolerated dose was allowed in a blinded fashion, to reach either
+the 10 mg or 15 mg dose. Only one cycle of dose de-escalation and re-escalation
+was permitted during the first 24 weeks of the treatment period. The 10 mg
+maintenance dose was used in patients who tolerated 10 mg, but not 12.5 mg or
+15 mg even following one de-escalation and re-escalation attempt. In addition,
+patients who tolerated 12.5 mg, but not 15 mg even after one de-escalation and
+re-escalation attempt, continued 10 mg as their maximum tolerated dose. Patients
+who tolerated 15 mg continued 15 mg as their maximum tolerated dose.
+The primary endpoint was the superiority of Zepbound vs. placebo for the change in
+the AHI from baseline.5 Several key secondary endpoints were assessed, including
+the proportion of patients with an AHI reduction of ≥ 50%, the proportion of
+patients with an AHI of < 5 events/hour or with an AHI of 5 to 14 events/hour and
+a score of ≤ 10 on the Epworth Sleepiness Scale (ESS; scores range from 0 to 24
+with higher scores indicating greater daytime sleepiness), percent change in body
+weight, change in high-sensitivity C-reactive protein (hsCRP), change in sleep
+apnea specific hypoxic burden, changes in patient-reported outcome measures, and
+the change in systolic blood pressure. In Trial 1, the mean BMI was 39.1 kg/m2
+and the mean AHI was 51.5 events/hour. Most patients had severe OSA (63%). In
+Trial 2, the mean BMI was 38.7 kg/m2 and the mean AHI was 49.5 events/hour.
+Most patients had severe OSA (68%).
+Results. In both trials, Zepbound was superior to placebo for the primary
+endpoint. In Trial 1, the change in AHI at Week 52 with Zepbound was superior to
+placebo (-25.3 events/hour [95% CI: -29.3, -21.2] vs. -5.3 events/hour [95% CI:
+-9.4, -1.1], respectively; estimated treatment difference of -20.0 events/hour; 95%
+CI: -25.8, -14.2; P < 0.001).5 In Trial 2, the change in AHI at Week 52 with
+Zepbound was superior to placebo (-29.3 events/hour [95% CI: -33.2, -25.4] vs. -
+5.5 events/hour [95% CI: -9.9, -1.2], respectively; estimated treatment difference
+of -23.8 events/hour; 95% CI: -26.9, -17.9; P < 0.001). Additionally, patients in
+both trials who received Zepbound had significant reductions in sleep apnea-specific
+hypoxic burden. The proportion of patients with a reduction in the AHI of ≥ 50% at
+Week 52 and the proportion of patients with an AHI of < 5 events/hour or an AHI of
+5 to 14 events/hour and an ESS of ≤ 10 at Week 52 also favored Zepbound.
+Patients receiving Zepbound in both trials had significant reductions in body weight,
+systolic blood pressure, and hsCRP concentrations as well.
+Guidelines
+MASH
+Available recommendations for MASH predate the availability of the published
+ESSENCE trial data and the approval of Wegovy for MASH. Note: The titles and
+verbiage within individual publications may not reflect the current MASH or MASLD
+nomenclature due to the timing of the respective publication. The nomenclature
+used in this section is reflective of that used within each publication.
+The American Association for the Study of Liver Diseases (AASLD) Practice
+Guidance on the Clinical Management of NAFLD (2023) was updated in October
+Page 6 of 17 - Cigna National Formulary Coverage - Policy: Non-Weight Loss Indications – Wegovy and Zepbound
+Benefit Exclusion Overrides Policy
+2024 to address the approval of Rezdiffra for MASLD.14 Some recommendations
+regarding other therapies (e.g., GLP-1 agonists) are also made. Regardless of
+treatment, the management of MASLD should include comprehensive lifestyle
+modification (e.g., nutrition, exercise, and behavior modification) and optimal
+control of comorbid metabolic conditions. Further, given the comorbidity profile of
+individuals with MASLD, CV risk management is an important aspect of medical
+management. MASH can only be definitively diagnosed by histologic exam
+(biopsy), in practice, patient selection is based on evidence of steatosis and fibrosis
+as determined by non-invasive liver disease assessments (NILDAs) in patients with
+cardiometabolic risk factors without other causes of steatosis, notably, alcohol
+consumption of > 20 g/day for women and > 30 g/day for men. There are no FDA-
+approved NILDAs to diagnose MASH with stage F2 to F3 fibrosis or to monitor the
+response to pharmacotherapy. In general, imaging-based NILDAs such as liver
+stiffness measurement by vibration-controlled transient elastography (VCTE) or
+magnetic resonance elastography have better accuracy in assessing fibrosis vs.
+blood-based tests. In general, magnetic resonance spectroscopy and magnetic
+resonance imaging proton density fat fraction are considered the most accurate
+quantitative measures of hepatic steatosis, followed by VCTE-controlled attenuation
+parameter score and gray scale ultrasound. However, for the purpose of selecting
+patients for treatment with non-quantitative imaging evidence of hepatic steatosis
+(e.g., ultrasonographic evidence) in individuals with at least one cardiometabolic
+risk factor and F2 or F3 fibrosis may be sufficient. Liver biopsy is not typically
+recommended for fibrosis staging in current clinical practice; however, histologic
+exam remains the gold standard to quantify fibrosis if performed previously
+(historical biopsy obtained reasonably recently, e.g., within 3 years). Since NILDAs
+are more readily available than liver biopsy, it is recommended that more current
+data (e.g., within 6 to 12 months) be utilized to determine patients who are
+appropriate candidates for treatment. Regardless of treatment, the management of
+MASLD should include comprehensive lifestyle modification (e.g., nutrition,
+exercise, and behavior modification) and optimal control of comorbid metabolic
+conditions.
+The American Diabetes Association (ADA) Standards of Care (2025) provide
+recommendations for the management of patients with type 2 diabetes and MASLD
+or MASH.18 In adults with type 2 diabetes, MASLD, and overweight or obesity, a
+GLP-1 agonist (i.e., liraglutide, semaglutide) or GLP-1/GIP agonist (i.e., tirzepatide)
+with potential benefits in MASH, in addition to healthy interventions for weight loss,
+is recommended for glycemic management. In adults with type 2 diabetes and
+MASH or those at high-risk for liver fibrosis (based on non-invasive tests),
+pioglitazone, GLP-1 agonists, or a GLP-1/GIP agonist is preferred for glycemic
+management due to potential beneficial effects on MASH.
+The ADA Consensus Report on MASLD in People with Diabetes (2025) largely
+provides recommendations similar to those outlined in the ADA standards of care
+for patients with type 2 diabetes and MASLD or MASH.15 In patients with at-risk
+MASH (stage F2 to F3 fibrosis) Rezdiffra may be considered after treatment
+optimization for obesity and/or diabetes therapies for at least 6 to 12 months. The
+addition of Rezdiffra should be initiated by a hepatologist or gastroenterologist with
+Page 7 of 17 - Cigna National Formulary Coverage - Policy: Non-Weight Loss Indications – Wegovy and Zepbound
+Benefit Exclusion Overrides Policy
+expertise in MASH. For the treatment of diabetes, preference should be given to
+treatments with evidence of safety and effectiveness for steatohepatitis from high-
+quality trials (e.g., GLP-1 agonists and/or pioglitazone, or GLP-1/GIP agonist), with
+the dual purpose of treating hyperglycemia and steatohepatitis. Once cirrhosis is
+established there are no effective treatments. Similar to the AASLD update, the
+report acknowledges the data are limited for combination use of Rezdiffra with
+medications often used for comorbidities in MASLD (e.g., pioglitazone, GLP-1
+agonist, or GLP-1/GIP agonist). People with obesity and type 2 diabetes should
+make it a priority to optimize lifestyle and medical management with a GLP-1
+agonist, pioglitazone, or their combination, or a GLP-1/GIP agonist with potential
+benefits for steatohepatitis.
+The American Academy of Clinical Endocrinology Clinical Practice Guideline (co-
+sponsored by AASLD) [2022] for the Diagnosis and Management of NAFLD in
+Primary Care and Endocrinology Settings discusses medications that have been
+proven to be effective for the treatment of liver disease and cardiometabolic
+conditions associated with NAFLD or NASH.16 The use of obesity pharmacotherapy
+in adjunct to lifestyle modification for individuals with obesity and NAFLD or NASH
+with a goal of ≥ 5%, and preferably ≥ 10%, weight loss is recommended, when this
+is not effectively achieved by lifestyle modification alone. For chronic weight
+management in individuals with a BMI ≥ 27 kg/m2 and NAFLD or NASH obesity
+pharmacotherapy should be considered (preference is given to Wegovy [2.4
+mg/week, best evidence] or Saxenda [3 mg/day]). These therapies must be
+considered as adjuncts to lifestyle modification for individuals with obesity and
+NAFLD or NASH to promote cardiometabolic health and treat or prevent type 2
+diabetes, CV disease, and other end-stage manifestations of obesity.
+The American Heart Association Scientific Statement on NAFLD and CV risk (2022)
+provides several key take-away messages for healthcare providers.17 NASH is
+recognized as a contributor to, and marker for, increased atherosclerotic CV disease
+risk. Many risk factors for NAFLD are also risk factors for atherosclerotic CV
+disease; NAFLD can be considered a risk enhancer when atherosclerotic CV disease
+risk is assessed. Similar to the other publications, lifestyle intervention is the key
+therapeutic intervention for patients with NAFLD. Dietary modification, increased
+physical activity, weight loss, and alcohol avoidance are strongly encouraged.
+Weight loss pharmacotherapy such as phentermine, Qsymia®
+(phentermine/topiramate extended-release capsules), Contrave®
+(naltrexone/bupropion extended-release tablets), high-dose liraglutide, high-dose
+semaglutide, and orlistat may be appropriate and effective to achieve sustained
+weight loss in some patients with BMI > 30 or ≥ 27 kg/m2 with comorbidities;
+however, the role of these agents in the management of NAFLD and NASH is
+currently undefined. Bariatric surgery should be considered in patients with NAFLD
+or NASH with BMI > 35 kg/m2 as it is the most effective intervention for achieving
+sustained weight loss in such individuals with a median body weight loss of 21% to
+30%.
+Sleep Apnea
+Page 8 of 17 - Cigna National Formulary Coverage - Policy: Non-Weight Loss Indications – Wegovy and Zepbound
+Benefit Exclusion Overrides Policy
+The American Academy of Sleep Medicine (2017) recommends that diagnostic
+testing for OSA be performed in combination with a comprehensive sleep
+evaluation.6 Polysomnography is the standard diagnostic test for the diagnosis of
+OSA in adults in whom there is concern for OSA based on the sleep evaluation.
+Polysomnography is accepted as the gold standard test for the diagnosis of OSA. In
+some cases, and within the appropriate context, the use of home sleep apnea test
+as the initial sleep study may be acceptable, however, polysomnography should be
+used when home sleep apnea test results do not provide satisfactory posttest
+probability of confirming or ruling out OSA.
+Available treatment guidelines for OSA do not specifically mention the GLP-1
+agonists. The American Thoracic Society clinical practice guideline on the role of
+weight management in the treatment with adults with OSA (2018) recommends
+that patients with OSA who are overweight or obese (BMI ≥ 25 kg/m2) participate
+in comprehensive lifestyle intervention that includes a reduced calorie diet,
+exercise/increased physical activity, and behavioral counseling.7 For patients with
+OSA and a BMI ≥ 27 kg/m2 who have not had an improvement in weight despite a
+comprehensive weight-loss lifestyle program, and have no contraindications (no
+active CV disease), evaluation for anti-obesity medication is suggested. The
+guideline also cites agreement with the American Association of Clinical
+Endocrinologists and the American College of Endocrinology guidelines (2016)19,
+which state the weight-loss goal in patients with overweight or obesity with OSA
+should be ≥ 7% to 11% of total body weight.7 In patients with a BMI ≥ 35 kg/m2,
+referral for bariatric surgery evaluation is suggested.
+The American College of Physicians clinical practice guideline for the management
+of OSA (2013) recommends that all overweight and obese patients diagnosed with
+OSA be encouraged to lose weight.8 Continuous PAP is recommended as initial
+therapy for patients with OSA. Mandibular advancement devices are recommended
+for patients with OSA who prefer such devices or for those with adverse events
+associated with continuous PAP treatment.
+Clinical success in OSA has been described by several publications. The American
+Academy of Sleep Medicine (2019) cites a clinically significant threshold of ≥ 15
+events/hour (on AHI)9 and a clinical practice guideline for the treatment of OSA and
+snoring with oral appliance therapy (2015) from the American Academy of Sleep
+Medicine and American Academy of Dental Sleep Medicine10 notes that treatment
+success is usually defined as a reduction in the AHI to a specific level (e.g., post-
+treatment AHI < 5 events/hour, or a > 50% reduction in AHI). Of note, a meta-
+analysis on the impact of weight reduction on AHI reported that weight reduction in
+patients with obesity and OSA was associated with improvements in the severity of
+OSA. A BMI reduction of 20% was associated with an AHI reduction of 57%;
+further weight reduction beyond 20% in BMI was associated with a smaller effect
+on AHI.11
+POLICY STATEMENT
+Page 9 of 17 - Cigna National Formulary Coverage - Policy: Non-Weight Loss Indications – Wegovy and Zepbound
+Benefit Exclusion Overrides Policy
+This Benefit Exclusion Overrides policy has been developed to authorize coverage of
+the targeted drug(s) for approved medical conditions, except weight loss. This
+Benefit Exclusion Overrides policy is not applicable if clients have weight loss as a
+covered benefit. In the clinical criteria, as appropriate, an asterisk (*) is noted next
+to the specified gender. In this context, the specified gender is defined as follows:
+males are defined as individuals with the biological traits of a male, regardless of
+the individual’s gender identity or gender expression; females are defined as
+individuals with the biological traits of a female, regardless of the individual’s
+gender identity or gender expression. Because of the specialized skills required for
+evaluation and diagnosis of patients treated with Wegovy for metabolic dysfunction-
+associated steatohepatitis (MASH)/non-alcoholic steatohepatitis (NASH) as well as
+the monitoring required for adverse events and long-term efficacy, approval
+requires Wegovy for MASH/NASH to be prescribed by or in consultation with a
+physician who specializes in the condition being treated. All approvals are provided
+for the duration noted below.
+Documentation: Documentation is required for use of Wegovy for MASH/NASH as
+noted in the criteria as [documentation required]. Documentation may include,
+but is not limited to, chart notes, laboratory results, medical test results, claims
+records, prescription receipts, and/or other information. All documentation must
+include patient-specific identifying information.
+I. Wegovy is(are) covered as medically necessary when the following criteria
+is(are) met for FDA-approved indication(s) or other uses with supportive
+evidence (if applicable):
+1. Major Adverse Cardiovascular Event(s) Risk Reduction in a Patient with
+Established Cardiovascular Disease with Overweight or Obesity. Approve
+for 1 year if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve if the patient meets ALL of the following (i, ii, iii, iv,
+and v):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has a current BMI ≥ 27 kg/m2; AND
+iii. Patient meets ONE of the following (a, b, or c):
+a) Patient has had a prior myocardial infarction; OR
+b) Patient has had a prior stroke; OR
+Note: This does not include a transient ischemic attack (TIA).
+c) Patient has a history of symptomatic peripheral arterial disease as
+evidenced by ONE of the following [(1), (2), or (3)]:
+(1) Intermittent claudication with ankle-brachial index < 0.85; OR
+(2) Peripheral arterial revascularization procedure; OR
+(3) Amputation due to atherosclerotic disease; AND
+iv. According to the prescriber, the medication will be used in combination
+with optimized pharmacotherapy for established cardiovascular disease;
+AND
+v. The medication will be used concomitantly with behavioral modification
+and a reduced-calorie diet; OR
+Page 10 of 17 - Cigna National Formulary Coverage - Policy: Non-Weight Loss Indications – Wegovy and
+Zepbound Benefit Exclusion Overrides Policy
+B) Patient is Continuing Therapy with Wegovy. Approve if the patient meets ALL
+of the following (i, ii, iii, iv, and v):
+Note: For a patient who has not completed 1 year of initial therapy, refer to
+Initial Therapy criteria above.
+i. Patient is ≥ 18 years of age; AND
+ii. At baseline, patient had a BMI ≥ 27 kg/m2; AND
+Note: This refers to baseline prior to Wegovy.
+iii. Patient meets ONE of the following (a, b, or c):
+a) Patient has had a prior myocardial infarction; OR
+b) Patient has had a prior stroke; OR
+c) Patient has a history of symptomatic peripheral arterial disease as
+evidenced by ONE of the following [(1), (2), or (3)]:
+(1) Intermittent claudication with ankle-brachial index < 0.85; OR
+(2) Peripheral arterial revascularization procedure; OR
+(3) Amputation due to atherosclerotic disease; AND
+iv. According to the prescriber, the medication will be used in combination
+with optimized pharmacotherapy for established cardiovascular disease;
+AND
+v. The medication will be used concomitantly with behavioral modification
+and a reduced-calorie diet.
+2. Metabolic Dysfunction-Associated Steatohepatitis (MASH)/Non-
+Alcoholic Steatohepatitis (NASH). Approve for 1 year if the patient meets
+the ONE of the following (A or B):
+A) Initial Therapy: Approve if the patient meets ALL of the following (i, ii, iii, iv,
+v, vi, vi, and viii):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient does not have cirrhosis; AND
+iii. The diagnosis of MASH/NASH is confirmed by ONE of the following (a or
+b):
+a) Patient has had a liver biopsy AND meets BOTH of the following [(1)
+and (2)]:
+(1) Liver biopsy has been performed within the 3 years preceding
+treatment with Wegovy [documentation required]; AND
+(2) Liver biopsy shows non-alcoholic fatty liver disease activity
+score of ≥ 4 with a score of ≥ 1 in ALL of the following ([i], [ii], and
+[iii]) [documentation required]:
+(i) Steatosis; AND
+(ii) Ballooning; AND
+(iii) Lobular inflammation; OR
+b) Patient has had ONE of the following imaging exams performed within
+the 6 months preceding treatment with Wegovy [(1), (2), or (3)]
+[documentation required]:
+(1) Elastography; OR
+Note: Examples of elastography include, but are not limited to
+vibration-controlled transient elastography (e.g., FibroScan),
+transient elastography, magnetic resonance elastography, acoustic
+radiation force impulse imaging, shear wave elastography.
+Page 11 of 17 - Cigna National Formulary Coverage - Policy: Non-Weight Loss Indications – Wegovy and
+Zepbound Benefit Exclusion Overrides Policy
+(2) Computed tomography; OR
+(3) Magnetic resonance imaging; AND
+iv. Patient meets ONE of the following prior to treatment with Wegovy (a or
+b) [documentation required]:
+a) Patient has stage F2 fibrosis; OR
+b) Patient has stage F3 fibrosis; AND
+v. According to the prescriber, the patient has ONE or more of the following
+metabolic risk factors that are managed according to standard of care (a,
+b, c, d, e):
+a) Central obesity;
+b) Hypertriglyceridemia;
+c) Reduced high-density lipoprotein cholesterol;
+d) Hypertension;
+e) Elevated fasting plasma glucose indicative of diabetes or pre-diabetes;
+AND
+vi. According to the prescriber, patient meets ONE of the following (a or b):
+a) Female* patient: Alcohol consumption is < 20 grams/day; OR
+Note: One standard drink (or one alcoholic drink equivalent) contains
+roughly 14 grams of pure alcohol, which is found in 12 ounces of
+regular beer, 5 ounces of wine, or 1.5 ounces of distilled spirits.
+b) Male* patient: Alcohol consumption < 30 grams/day; AND
+Note: One standard drink (or one alcoholic drink equivalent) contains
+roughly 14 grams of pure alcohol, which is found in 12 ounces of
+regular beer, 5 ounces of wine, or 1.5 ounces of distilled spirits.
+vii. The medication will be used in combination with appropriate diet and
+exercise therapy; AND
+viii. The medication is prescribed by or in consultation with an
+endocrinologist, gastroenterologist, or hepatologist; OR
+B) Patient is Currently Receiving Wegovy: Approve if the patient meets ALL of
+the following (i, ii, iii, iv, v, and vi):
+Note: A patient who has received < 1 year of therapy or who is restarting
+therapy should be considered under criterion A (Initial Therapy).
+i. Patient has completed ≥ 1 year of therapy with Wegovy AND according to
+the prescriber, the patient has not had worsening of fibrosis or
+MASH/NASH; AND
+Note: This applies to a patient starting their second (or more) year of
+therapy with Wegovy (i.e., the patient has already completed 1 year or
+more of therapy with Wegovy).
+ii. According to the prescriber, patient has not progressed to stage F4
+(cirrhosis); AND
+iii. According to the prescriber, metabolic risk factors are managed according
+to standard of care; AND
+iv. According to the prescriber, patient meets ONE of the following (a or b):
+a) Female* patient: Alcohol consumption is < 20 grams/day; OR
+Note: One standard drink (or one alcoholic drink equivalent) contains
+roughly 14 grams of pure alcohol, which is found in 12 ounces of
+regular beer, 5 ounces of wine, or 1.5 ounces of distilled spirits.
+b) Male* patient: Alcohol consumption < 30 grams/day; AND
+Page 12 of 17 - Cigna National Formulary Coverage - Policy: Non-Weight Loss Indications – Wegovy and
+Zepbound Benefit Exclusion Overrides Policy
+Note: One standard drink (or one alcoholic drink equivalent) contains
+roughly 14 grams of pure alcohol, which is found in 12 ounces of
+regular beer, 5 ounces of wine, or 1.5 ounces of distilled spirits.
+v. The medication will be used in combination with appropriate diet and
+exercise therapy; AND
+vi. The medication is prescribed by or in consultation with an endocrinologist,
+gastroenterologist, or hepatologist.
+*Refer to the Policy Statement
+II. Zepbound is(are) covered as medically necessary when the following
+criteria is(are) met for FDA-approved indication(s) or other uses with
+supportive evidence (if applicable):
+1. Obstructive Sleep Apnea, Moderate to Severe, in a Patient with Obesity.
+Approve for 1 year if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve if the patient meets ALL of the following (i, ii, iii, iv,
+and v):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has a current BMI ≥ 30 kg/m2; AND
+iii. Patient has had a sleep study that shows BOTH of the following (a and b):
+a) Patient has been diagnosed with moderate to severe obstructive sleep
+apnea; AND
+b) Patient has an apnea-hypopnea index ≥ 15 events per hour; AND
+Note: A diagnosis of moderate obstructive sleep apnea is an apnea-
+hypopnea index of ≥ 15 events per hour and a diagnosis of severe sleep
+apnea is an apnea-hypopnea index ≥ 30 events per hour. The apnea-
+hypopnea index is the number of apneas and hypopneas during 1 hour of
+sleep.
+iv. The patient does NOT meet either of the following (a or b):
+Note: A patient who has one or more of the following
+conditions/diagnoses below is not approved.
+a) Central sleep apnea with percent of central apneas/hypopneas ≥ 50%;
+OR
+b) Cheyne Stokes respiration; AND
+v. The medication will be used concomitantly with behavioral modification
+and a reduced-calorie diet; OR
+B) Patient is Continuing Therapy with Zepbound. Approve if the patient meets
+ALL of the following (i, ii, iii, and iv):
+Note: For a patient who has not completed 1 year of initial therapy, refer to
+Initial Therapy criteria above.
+i. Patient is ≥ 18 years of age; AND
+ii. At baseline, patient had a BMI ≥ 30 kg/m2; AND
+Note: This refers to baseline prior to Zepbound.
+iii. Patient has completed ≥ 1 year of therapy with Zepbound AND the
+patient meets BOTH of the following (a and b):
+a) Patient has lost ≥ 10% of baseline body weight; AND
+Page 13 of 17 - Cigna National Formulary Coverage - Policy: Non-Weight Loss Indications – Wegovy and
+Zepbound Benefit Exclusion Overrides Policy
+b) According to the prescriber, patient has stability in obstructive sleep
+apnea signs or symptoms; AND
+Note: Examples of signs or symptoms of obstructive sleep apnea
+include but are not limited to snoring, excessive daytime sleepiness,
+fatigue.
+iv. The medication will be used concomitantly with behavioral modification
+and a reduced-calorie diet.
+CONDITIONS NOT COVERED
+• Wegovy® (semaglutide subcutaneous injection – Novo Nordisk)
+• Zepbound® (tirzepatide subcutaneous injection – Eli Lilly)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Weight Loss. Coverage is determined by the member’s prescription benefit
+coverage of weight loss drugs.
+2. Concomitant Use with Glucagon-Like Peptide-1 (GLP-1) Agonists or
+GLP-1/ Glucose-Dependent Insulinotropic Polypeptide (GIP) Agonists.
+In the SELECT trial, patients could not receive concomitant GLP-1 agonists or
+GLP-1/GIP1 agonists.2,3 Patients who developed diabetes during the study
+remained in the study and received other forms of treatment (not GLP-1
+agonists or GLP-1/GIP agonists). Further, the SELECT and ESSENCE trials
+excluded patients who had received a GLP-1 or GLP-1/GIP agonist within 90
+days of enrollment.2,3,12,13 The SURMOUNT OSA trial did not include patients
+taking other GLP-1 agonists.5 The GLP-1 agonists and the GLP-1/GIP agonist
+should not be combined with each other or with any other GLP-1 agonists or
+GLP-1/GIP agonist. There are other GLP-1 and GLP-1/GIP products not included
+in this policy that are FDA-approved for type 2 diabetes or chronic weight
+management. Note: Examples of other GLP-1 agonists include but are not
+limited to exenatide subcutaneous (SC) injection, Ozempic (semaglutide SC
+injection), Rybelsus (semaglutide tablets), Saxenda (liraglutide subcutaneous
+injection), Trulicity (dulaglutide SC injection), and liraglutide SC injection
+(Victoza, generic). An example of a GLP-1/GIP agonist is Mounjaro (tirzepatide
+SC injection).
+REFERENCES
+1. Wegovy® subcutaneous injection [prescribing information]. Plainsboro, NJ: Novo Nordisk; August
+2025.
+2. Lincoff AM, Brown-Frandsen K, Colhoun HM, et al; for the SELECT Trial Investigators.
+Semaglutide and cardiovascular outcomes in obesity without diabetes. N Engl J Med.
+2023;389(24):2221-2232.
+3. Lingvay I, Brown-Frandson K, Colhoun HM, et al. Semaglutide for cardiovascular event reduction
+in people with overweight or obesity: SELECT study baseline characteristics. Obesity.
+2023;31(1):111-122.
+Page 14 of 17 - Cigna National Formulary Coverage - Policy: Non-Weight Loss Indications – Wegovy and
+Zepbound Benefit Exclusion Overrides Policy
+4. Zepbound® subcutaneous injection [prescribing information]. Indianapolis, IN: Eli Lilly; April
+2025.
+5. Malhorta A, Grunstein RR, Fietze I, et al; for the SURMOUNT-OSA Investigators. Tirzepatide for
+the treatment of obstructive sleep apnea and obesity. N Engl J Med. 2024;391(13):1193-1205.
+6. Kapur VK, Auckley DH, Chowdhuri S, et al. Clinical practice guideline for diagnostic testing for
+adult obstructive sleep apnea: an American Academy of Sleep Medicine clinical practice guideline.
+J Clin Sleep Med. 2017;13(3):479-504.
+7. Hudgel DW, Patel SR, Ahasic AM, et al; on behalf of the American Thoracic Society Assembly on
+Sleep and Respiratory Neurology. The role of weight management in the treatment of adult
+obstructive sleep apnea. Am J Respir Crit Care Med. 2018;198(6):e70-e87.
+8. Qaseem A, Hotly JEC, Ownes DK, et al; for the Clinical Guidelines Committee of the American
+College of Physicians. Management of obstructive sleep apnea in adults: a clinical practice
+guideline from the American College of Physicians. Ann Intern Med. 2013;159:471-483.
+9. Ramar K, Dort LC, Katz SG et al. Clinical practice guideline for the treatment of obstructive sleep
+apnea and snoring with oral appliance therapy: an update for 2015. An American Academy of
+Sleep Medicine and American Academy of Dental Sleep Medicine Clinical Practice Guideline. J Clin
+Sleep Med. 2015;11(7):773-827.
+10. Patil SP, Ayappa IA, Caples SM, et al. Treatment of adult obstructive sleep apnea with positive
+airway pressure: An American Academy of Sleem Medicine Systematic Review, Meta-analysis, and
+GRADE Assessment. J Clin Sleep Med. 2019;15(2):301-334.
+11. Malhorta A, Heilman CR, Banerjee, et al. Weight reduction and the impact on apnea-hypopnea
+index: a systematic meta-analysis. Sleep Medicine. 2023;121:26-31.
+12. Newsome PN, Sanyal AJ, Engerbretsen KA, et al. Semaglutide 2.4 mg in participants with
+metabolic dysfunction-associated steatohepatitis: baseline characteristics and design of the phase
+3 ESSENCE trial. Aliment Pharmacol Ther. 2024;60(11-12):1525-1533.
+13. Sanyal AJ, Newsome PN, Kliers I, et al. Phase 3 trial of semaglutide in metabolic dysfunction-
+associated steatohepatitis. N Engl J Med. 2025;392(21):2089-2099.
+14. Chen VL, Morgan TR, Rotman Y, et al. Resmetirom therapy for metabolic dysfunction-associated
+steatotic liver disease: October 2024 updates to AASLD Practice Guidance. Hepatology.
+2025;81(1):312-320.
+15. Cusi K, Abdelmalek MF, Apovian CM, et al. Metabolic dysfunction-associated steatotic liver disease
+(MASLD) in people with diabetes: The need for screening and early intervention. A consensus
+report of the American Diabetes Association. Diabetes Care. 2025;48(7):1057-1082.
+16. Cusi K, Isaacs S, Barb D, et al. American Association of Clinical Endocrinology clinical practice
+guideline for the diagnosis and management of nonalcoholic fatty liver disease in primary care and
+endocrinology settings. Co-sponsored by the American Association for the Study of Liver Diseases
+(AASLD). Endocrine Pract. 2022;28:528-562.
+17. Duell PB, Welty FK, Miller M, et al; on behalf of the American Heart Association Council on
+Arteriosclerosis, Thrombosis and Vascular biology; Council on Hypertension; Council on the Kidney
+in Cardiovascular Disease; Council on Lifestyle and Cardiometabolic Health; and Council on
+Peripheral Vascular Disease. Nonalcoholic fatty liver disease and cardiovascular risk: a scientific
+statement from the American Heart Association. Arterioscler Thromb Vasc Biol. 2022;42:e168-
+e185.
+18. American Diabetes Association. Standards of care in diabetes – 2025. Diabetes Care.
+2025;48(Suppl 1):S1-S352.
+19. Garvey WT, Mechanick JI, Brett EM, Garber AJ, Hurley DL, Jastreboff AM, Nadolsky K, Pessah-
+Pollack R, Plodkowski R; Reviewers of the AACE/ACE Obesity Clinical Practice Guidelines.
+American Association of Clinical Endocrinologists and American College of Cardiology
+comprehensive clinical practice guidelines for medical care of patients with obesity. Endocr Pract.
+2016;22 Suppl 3:1-203.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 10/23/2024
+Page 15 of 17 - Cigna National Formulary Coverage - Policy: Non-Weight Loss Indications – Wegovy and
+Zepbound Benefit Exclusion Overrides Policy
+Selected Zepbound was added to the Policy. 01/08/2025
+revision
+The Policy title was changed to Non-Weight Loss Indications –
+Wegovy and Zepbound. Previously titled Non-Weight Loss
+Indications – Wegovy.
+Wegovy
+Major Adverse Cardiovascular Event(s) Risk Reduction in a
+Patient with Established Cardiovascular Disease who is Either
+Obese or Overweight. Initial Therapy. The criterion requiring that
+the patient has a BMI ≥ 27 kg/m2 was clarified to state that the
+patient has a “current” BMI ≥ 27 kg/m2. Patient is Continuing
+Therapy with Wegovy: The criterion that required the patient was
+able to tolerate the Wegovy maintenance dose of 1.7 mg once
+weekly or 2.4 mg once weekly was removed.
+Zepbound
+Obstructive Sleep Apnea, Moderate to Severe, in a Patient
+with Obesity. A new FDA-approved indication was added to the
+Policy.
+Selected Wegovy 05/28/2025
+Revision Major Adverse Cardiovascular Event(s) Risk Reduction in a
+Patient with Established Cardiovascular Disease who is Either
+Obese or Overweight. Initial Therapy. For the requirement that a
+patient has had a prior stroke, a note was added to clarify that this
+does not include a transient ischemic attack (TIA).
+Zepbound
+Obstructive Sleep Apnea, Moderate to Severe, in a Patient
+with Obesity. Initial Therapy. The requirement that a patient had
+a sleep study was modified to remove the timeframe that the sleep
+study was within the past 1 year. A patient is still required to have a
+sleep study.
+Conditions Not Covered:
+Concomitant Use with Other Medications FDA-Approved for
+Weight Loss. This condition not recommended for approval was
+clarified to state that concomitant use with other medications FDA-
+approved for weight loss is not recommended. Previously, the
+requirement did not specify medications were “FDA-approved” for
+weight loss. The note with examples of weight loss medications was
+updated to reflect product availability for medications FDA-approved
+for weight loss.
+Concomitant Use with Glucagon-Like Peptide-1 (GLP-1)
+Agonists or GLP-1/ Glucose-Dependent Insulinotropic
+Polypeptide (GIP) Agonists. The note was updated to reflect
+availability for other GLP-1 or GLP-1/GIP agonists.
+Selected Wegovy: 07/09/2025
+Revision Major Adverse Cardiovascular Event(s) Risk Reduction in a
+Patient with Established Cardiovascular Disease in a Patient
+with Overweight or Obesity. This condition of approval was re-
+worded from “in an overweight or obese patient” to “in a patient with
+overweight or obesity”.
+Selected Policy Statement: The following was added to the Policy 08/27/2025
+Revision Statement: In clinical criteria, as appropriate, an asterisk (*) is
+noted next to the specified gender. In this context, the specified
+gender is defined as follows: males are defined as individuals with
+the biological traits of a male, regardless of the individual’s gender
+Page 16 of 17 - Cigna National Formulary Coverage - Policy: Non-Weight Loss Indications – Wegovy and
+Zepbound Benefit Exclusion Overrides Policy
+identity or gender expression; females are defined as individuals
+with the biological traits of a female, regardless of the individual’s
+gender identity or gender expression. Because of the specialized
+skills required for evaluation and diagnosis of patients treated with
+Wegovy for (MASH)/non-alcoholic steatohepatitis (NASH) as well as
+the monitoring required for adverse events and long-term efficacy,
+approval requires Wegovy for MASH/NASH to be prescribed by or in
+consultation with a physician who specializes in the condition being
+treated.
+Documentation: A requirement for documentation was added for
+the use of Wegovy for metabolic dysfunction-associated
+steatohepatitis MASH/NASH. Documentation may include, but is not
+limited to, chart notes, laboratory results, medical test results,
+claims records, prescription receipts, and/or other information. All
+documentation must include patient-specific identifying information.
+Wegovy:
+Metabolic Dysfunction-Associated Steatohepatitis
+(MASH)/Non-Alcoholic Steatohepatitis (NASH). A new
+condition of approval was added to FDA-Approved Indications.
+Conditions Not Covered:
+Concomitant Use with Other Medications FDA-Approved for
+Weight Loss. This condition not recommended for approval was
+removed.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 17 of 17 - Cigna National Formulary Coverage - Policy: Non-Weight Loss Indications – Wegovy and
+Zepbound Benefit Exclusion Overrides Policy

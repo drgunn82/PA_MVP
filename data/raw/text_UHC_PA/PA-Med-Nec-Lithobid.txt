@@ -1,0 +1,55 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2233-5
+Program Prior Authorization/Medical Necessity
+Medication/Therapeutic Class Lithobid® (brand only)
+P&T Approval Date 3/2021, 3/2022, 3/2023, 11/2023, 7/2024
+Effective Date 10/1/2024
+1. Background:
+This program requires a member to try an AB-rated generic lithium prior to receiving
+coverage for brand Lithobid.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Lithobid (brand only) will be approved based on one of the following criteria:
+a. Both of the following:
+(1) History of greater than or equal to 4 week trial of generic lithium (document
+date of trial)
+-AND-
+(2) Documented history of an inadequate response to generic lithium (document
+inadequate response)
+-OR-
+b. History of an intolerance to generic lithium which was unable to be resolved with
+attempts to minimize the adverse effects where appropriate (e.g. change timing of
+dosing, divide daily dose out for more frequent but smaller doses, lowering dose)
+-OR-
+c. Currently established on Lithobid and stable.
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Lithobid (brand only) will be approved based on the following criterion:
+a. Documentation of positive clinical response to therapy
+Reauthorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+1
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+4. References:
+1. Lithobid [package insert]. Baudette, MN: ANI Pharmaceuticals, Inc; October 2022.
+2. Gitlin, M. Lithium side effects and toxicity: prevalence and management strategies. Int J
+Bipolar Disord. 2016;4(1):27. Epub 2016 Dec 17.
+Program Prior Authorization/Medical Necessity – Lithobid (brand only)
+Change Control
+Date Change
+3/2021 New program.
+3/2022 Annual review. No changes.
+3/2023 Annual review. Updated references.
+11/2023 No changes.
+7/2024 Removed therapeutic levels requirement for generic trial and stability
+duration.
+© 2024 UnitedHealthcare Services, Inc.
+2

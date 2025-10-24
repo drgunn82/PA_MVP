@@ -1,0 +1,265 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Neurology – Oxybate Products Prior Authorization Policy
+• Lumryz™ (sodium oxybate extended-release oral suspension –
+Avadel)
+• Xyrem® (sodium oxybate oral solution − Jazz, generic)
+• Xywav® (calcium, magnesium, potassium, and sodium oxybates
+oral solution – Jazz)
+REVIEW DATE: 06/26/2024; selected revision 11/13/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Lumryz, sodium oxybate oral solution, and Xywav, central nervous system (CNS)
+depressants, are indicated for the following uses:1-3
+• Cataplexy treatment in patients with narcolepsy. Lumryz, Sodium
+oxybate oral solution and Xywav are indicated in patients ≥ 7 years of age.
+• Excessive daytime sleepiness in narcolepsy. Lumryz, Sodium oxybate oral
+solution and Xywav are indicated in patients ≥ 7 years of age.
+Additionally, Xywav is indicated for the treatment of idiopathic hypersomnia in
+adults.2
+Two specialized tests, which can be performed in a sleep disorders clinic, are required
+to establish a diagnosis of narcolepsy or idiopathic hypersomnia.4 Polysomnography
+is an overnight recording of brain and muscle activity, breathing, and eye
+movements. The multiple sleep latency test (MSLT) assesses daytime sleepiness by
+measuring how quickly a person falls asleep and whether they enter rapid eye
+Page 1 of 6 - Cigna National Formulary Coverage - Policy:Neurology – Oxybate Products Prior Authorization
+Policy
+movement (REM) sleep. Polysomnography is routinely indicated for the diagnosis of
+sleep-related breathing disorders; for continuous positive airway pressure titration in
+patients with sleep-related breathing disorders; with an MSLT in the evaluation of
+suspected narcolepsy; and in certain atypical or unusual parasomnias.5 The MSLT is
+indicated as part of the evaluation of patients with suspected narcolepsy to confirm
+the diagnosis or patients who are thought to have idiopathic hypersomnia to exclude
+other causes of hypersomnia. Most patients with narcolepsy have objective evidence
+of hypersomnia as determined by a mean sleep latency < 5 minutes. In studies, the
+presence of two or more sleep-onset REM episodes (SOREMPs) was associated with
+a sensitivity of 0.78 and a specificity of 0.93 for the diagnosis of narcolepsy. SOREMPs
+do not occur exclusively in patients with narcolepsy; thus, it is important to rule out
+or treat other sleep disorders before evaluating SOREMPs in the diagnosis of
+narcolepsy. Diagnostic criteria for patients with idiopathic hypersomnia include a
+mean sleep latency ≤ 8 minutes and MSLT results showing < 2 SOREMPs or no
+SOREMPs if the REM sleep latency preceding polysomnogram is ≤ 15 minutes; also,
+these patients do not have cataplexy. For these reasons, polysomnography and an
+MSLT performed on the day after the polysomnographic evaluation are routinely
+indicated in the evaluation of suspected narcolepsy or idiopathic hypersomnia.
+Guidelines
+Pertinent medical guidelines related to oxybate products are summarized below; of
+note, Lumryz and Xywav are not addressed in any of the guidelines.
+Narcolepsy and Cataplexy
+The American Academy of Sleep Medicine (AASM) practice parameters for the
+treatment of central disorders of hypersomnolence were updated in 2021.6,7
+• Modafinil, Wakix® (pitolisant tablets), sodium oxybate, and Sunosi® (solriamfetol
+tablets) are recommended as effective treatments for daytime sleepiness due to
+narcolepsy and reducing disease severity in adults (Strong Recommendation for
+each).
+• Wakix and sodium oxybate have also demonstrated efficacy for the treatment of
+cataplexy in patients with narcolepsy (Strong Recommendation for each).
+• Sodium oxybate and armodafinil have Conditional Recommendations for the
+treatment of narcolepsy, showing efficacy for daytime sleepiness due to
+narcolepsy and reducing disease severity.
+• Dextroamphetamine has a Conditional Recommendation for the treatment of
+narcolepsy, showing efficacy for excessive daytime sleepiness and cataplexy.
+• Methylphenidate has a Conditional Recommendation for the treatment of
+narcolepsy, showing efficacy in reducing disease severity.
+• There was insufficient and inconclusive evidence to make recommendations for l-
+carnitine, scheduled naps, selegiline, triazolam, selective serotonin reuptake
+inhibitors (SSRIs), and serotonin-norepinephrine reuptake inhibitors (SNRIs).
+• Modafinil and sodium oxybate have Conditional Recommendations for the
+treatment of narcolepsy in pediatric patients.
+Note: A Strong Recommendation should be followed by clinicians under most
+circumstances. A Conditional Recommendation requires that the clinician use clinical
+knowledge and experience and strongly consider the individual patient’s values and
+preferences to determine the best course of action.
+6 Pages - Cigna National Formulary Coverage - Policy: Neurology – Oxybate Products Prior Authorization Policy
+Idiopathic Hypersomnia
+The AASM guideline includes recommendations for the treatment of idiopathic
+hypersomnia.6,7
+• Only modafinil has a Strong recommendation for use.
+• Clarithromycin, methylphenidate, Wakix, and sodium oxybate have Conditional
+recommendations for the treatment of idiopathic hypersomnia in adults.
+Safety
+Sodium oxybate is the sodium salt of gamma hydroxybutyrate (GHB) and Xywav is
+a mixed salt formulation of GHB.1-3 They are both Schedule III controlled substances.
+Abuse of GHB (a Schedule I controlled substance), either alone or in combination
+with other CNS depressants, is associated with CNS adverse reactions, including
+seizure, respiratory depression, decreases in the level of consciousness, coma, and
+death. Because of the risks of CNS depression, abuse, and misuse, sodium oxybate
+oral solution and Xywav are available only through a restricted distribution program
+under a Risk Evaluation and Mitigation Strategy (REMS) called the Xyrem/Xywav
+Success Program, using a centralized pharmacy. Healthcare professionals who
+prescribe sodium oxybate oral solution or Xywav and patients must enroll in the
+Xyrem/Xywav Success Program and must comply with the requirements to ensure
+the drug’s safe use. Similarly, Lumryz is only available through a restricted
+distribution program under a REMS called the Lumryz REMS. Healthcare providers
+who prescribe Lumryz must be specially certified; Lumryz will be dispensed only by
+pharmacies that are specially certified; and Lumryz will be dispensed and shipped
+only to patients who are enrolled in the Lumryz REMS with documentation of safe use
+conditions.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Lumryz,
+sodium oxybate oral solution, and Xywav. All approvals are provided for the duration
+noted below. Because of the specialized skills required for evaluation and diagnosis
+of patients treated with Lumryz, sodium oxybate oral solution, and Xywav as well as
+the monitoring required for adverse event and long-term efficacy, approval requires
+these products to be prescribed by a physician who specializes in the condition being
+treated.
+• Lumryz™ (sodium oxybate extended-release oral suspension –
+Avadel)
+• Xyrem® (sodium oxybate oral solution - Jazz, generic)
+• Xywav® (calcium, magnesium, potassium, and sodium oxybates oral
+solution – Jazz)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+6 Pages - Cigna National Formulary Coverage - Policy: Neurology – Oxybate Products Prior Authorization Policy
+1. Cataplexy Treatment in a Patient with Narcolepsy. Approve for 1 year if the
+patient meets ALL of the following (A, B, C, D, and E):
+A) Patient is ≥ 7 years of age; AND
+B) Patient has been evaluated using polysomnography and a multiple sleep
+latency test; AND
+C) Diagnosis of narcolepsy has been confirmed, according to the prescriber; AND
+D) The medication has been prescribed by a sleep specialist physician or a
+neurologist; AND
+E) Patient meets ONE of the following (i or ii);
+i. Patient has tried dextroamphetamine; OR
+ii. Patient has a contraindication or intolerance to dextroamphetamine,
+according to the prescriber.
+Note: Contraindications to dextroamphetamine include a history of
+substance use disorder; advanced arteriosclerosis, symptomatic
+cardiovascular disease, and/or moderate to severe hypertension;
+hyperthyroidism; known hypersensitivity to sympathomimetic amines;
+glaucoma; agitated states; and concomitant administration with
+monoamine oxidase inhibitors (MAOIs), or within 14 days of stopping
+MAOIs.
+2. Excessive Daytime Sleepiness in a Patient with Narcolepsy. Approve for 1
+year if the patient meets ALL of the following (A, B, C, D, and E):
+A) Patient is ≥ 7 years of age; AND
+B) Patient has been evaluated using polysomnography and a multiple sleep
+latency test; AND
+C) Diagnosis of narcolepsy has been confirmed, according to the prescriber; AND
+D) The medication has been prescribed by a sleep specialist physician or a
+neurologist; AND
+E) Patient has tried at least one of the following treatments: a central nervous
+system (CNS) stimulant, modafinil, or armodafinil.
+Note: Examples of CNS stimulants include methylphenidate,
+dexmethylphenidate, and dextroamphetamine.
+3. Idiopathic Hypersomnia. Approve Xywav (NOT sodium oxybate oral solution or
+Lumryz) for 1 year if the patient meets ALL of the following (A, B, C, D, and E):
+A) Patient is ≥ 18 years of age; AND
+B) Patient has been evaluated using polysomnography and a multiple sleep
+latency test; AND
+C) Results of the polysomnography and a multiple sleep latency test are
+congruent with a diagnosis of idiopathic hypersomnia, according to the
+prescriber; AND
+D) The medication has been prescribed by a sleep specialist physician or a
+neurologist; AND
+E) Patient has tried at least one of modafinil, armodafinil, or methylphenidate.
+6 Pages - Cigna National Formulary Coverage - Policy: Neurology – Oxybate Products Prior Authorization Policy
+CONDITIONS NOT COVERED
+• Lumryz™ (sodium oxybate extended-release oral suspension –
+Avadel)
+• Xyrem® (sodium oxybate oral solution - Jazz, generic)
+• Xywav® (calcium, magnesium, potassium, and sodium oxybates oral
+solution – Jazz)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria will
+be updated as new published data are available):
+1. Fibromyalgia. The European League Against Rheumatism (EULAR) issued
+evidence-based recommendations for the management of fibromyalgia (2016)
+stating that initial management should involve patient education and focus on
+non-pharmacological therapies.8 EULAR’s position on sodium oxybate for
+fibromyalgia is strongly against with 94% agreement. Duloxetine, pregabalin
+capsules and oral solution, and Savella® (milnacipran tablets) are indicated for
+the treatment of fibromyalgia.9-11 Other recommended treatments include
+tricyclic antidepressants (i.e., amitriptyline), cyclobenzaprine, gabapentin, and
+selective serotonin reuptake inhibitors (i.e., fluoxetine, sertraline, paroxetine).12
+2. Concomitant use of Lumryz, sodium oxybate oral solution, and/or Xywav
+with each other or an oxybate product used in combination with Wakix
+(pitolisant tablets) and/or Sunosi (solriamfetol tablets). Lumryz, sodium
+oxybate oral solution. and Xywav have the same active ingredient (oxybate, a
+CNS depressant) and have not been studied for use in combination or as
+alternating treatments.1-3 Sunosi, a dopamine and norepinephrine reuptake
+inhibitor, is indicated to improve wakefulness in adults with excessive daytime
+sleepiness due to narcolepsy or obstructive sleep apnea.13 Wakix, an
+antagonist/inverse agonist of the histamine-3 receptor, is indicated for excessive
+daytime sleepiness and cataplexy in adults with narcolepsy.14 Currently, there
+are no published studies evaluating combination use of these medications.
+REFERENCES
+1. Xyrem oral solution [prescribing information]. Palo Alto, CA: Jazz; April 2023.
+2. Xywav® oral solution [prescribing information]. Palo Alto, CA: Jazz; April 2023.
+3. Lumryz™ extended-release oral suspension [prescribing information]. Chesterfield, MO: Avadel;
+October 2024.
+4. National Institutes of Health. Narcolepsy. National Institute of Neurological Disorders and Stroke.
+Last reviewed November 28, 2023. Available at: https://www.ninds.nih.gov/health-
+information/disorders/narcolepsy?search-term=narcolepsy. Accessed on June 24, 2024.
+5. Krahn LE, Arand DL, Avidan AY, et al. Recommended protocols for the multiple sleep latency test
+and maintenance of wakefulness test in adults: guidance from the American Academy of Sleep
+Medicine. J Clin Sleep Med. 2021;17(12):2489-2498.
+6. Maski K, Trotti LM, Kotagal S, et al. Treatment of central disorders of hypersomnolence: an
+American Academy of Sleep Medicine clinical practice guideline. Available at:
+https://jcsm.aasm.org/doi/10.5664/jcsm.9328. Accessed on June 24, 2024.
+7. Maski K, Trotti LM, Kotagal S, et al. Treatment of central disorders of hypersomnolence: an
+American Academy of Sleep Medicine systematic review, meta-analysis, and GRADE assessment. J
+Clin Sleep Med. 2021;17(9).
+6 Pages - Cigna National Formulary Coverage - Policy: Neurology – Oxybate Products Prior Authorization Policy
+8. Macfarlane GJ, Kronisch C, Dean LE, et al. EULAR revised recommendations for the management
+of fibromyalgia. Ann Rheum Dis. 2017;76(2):318-328.
+9. Lyrica® capsules and oral solution [prescribing information]. Morgantown, WV: Viatris; December
+2023.
+10. Cymbalta® delayed-release capsules [prescribing information]. Indianapolis, IN: Lilly; August 2023.
+11. Savella® tablets [prescribing information]. North Chicago, IL: AbbVie; May 2024.
+12. Clauw DJ. Fibromyalgia: a clinical review. JAMA. 2014;311(15):1547-1555.
+13. Sunosi® tablets [prescribing information]. New York, NY: Axsome; June 2023.
+14. Wakix® tablets [prescribing information]. Plymouth Meeting, PA: Harmony Biosciences; June 2024.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Early Annual Lumryz: Lumryz was added to the policy. 06/14/2023
+Revision Cataplexy Treatment in a Patient with Narcolepsy: The
+previous age requirement of ≥ 7 years of age was specified to apply
+to sodium oxybate oral solution and Xywav. An age requirement of ≥
+18 years of age was specified to apply to Lumryz.
+Excessive Daytime Sleepiness in a Patient with Narcolepsy:
+The previous age requirement of ≥ 7 years of age was specified to
+apply to sodium oxybate oral solution and Xywav. An age requirement
+of ≥ 18 years of age was specified to apply to Lumryz.
+Conditions Not Covered
+: Concomitant use of sodium oxybate with Xywav or either oxybate
+product used in combination with Wakix (pitolisant tablets) and/or
+Sunosi (solriamfetol tablets) was modified to include Lumryz as a
+product that should not be used concomitantly with sodium oxybate
+oral solution, Xywav, Wakix, or Sunosi due to lack of published
+studies demonstrating additive efficacy.
+Annual No criteria changes. 06/26/2024
+Revision
+Selected Cataplexy Treatment in a Patient with Narcolepsy: Changed 11/13/2024
+Revision the age requirement for Lumryz from ≥ 18 years of age to ≥ 7 years
+of age.
+Excessive Daytime Sleepiness in a Patient with Narcolepsy:
+Changed the age requirement for Lumryz from ≥ 18 years of age to
+≥ 7 years of age.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2024 The Cigna
+Group.
+6 Pages - Cigna National Formulary Coverage - Policy: Neurology – Oxybate Products Prior Authorization Policy

@@ -1,0 +1,192 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Antifungals – Voriconazole (Oral) Prior Authorization Policy
+• Vfend® (voriconazole tablets and oral suspension − Roerig/Pfizer,
+generic)
+REVIEW DATE: 07/16/2025
+1.
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED.
+FOR EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A
+COVERAGE POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN
+THE COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE
+APPLICABLE COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION
+OF HEALTH BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS
+TREATMENT GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND
+OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Voriconazole, an azole antifungal, is indicated in patients ≥ 2 years of age for the
+following uses:1
+• Candidemia, in non-neutropenic patients and other deep tissue Candida
+infections.
+• Esophageal candidiasis.
+• Invasive aspergillosis.
+• Scedosporium apiospermum (asexual form of Pseudallescheria boydii) and
+Fusarium spp. (including Fusarium solani), in patients intolerant of, or
+refractory to, other therapy.
+The duration of voriconazole therapy is varied.1 The median duration for invasive
+aspergillosis is 76 days, but can range to up to 232 days.
+Page 1 of 5: Cigna National Formulary Coverage - Policy: Antifungals – Voriconazole (Oral)
+Prior Authorization Policy
+Guidelines
+The Infectious Diseases Society of America (IDSA) recommends voriconazole as a
+treatment option for the treatment or prevention of invasive aspergillosis (2016)
+and for candidemia and candidiasis.2,3 Use of voriconazole for treatment of
+infections caused by Candida spp and Aspergillus spp are also noted in the National
+Comprehensive Cancer Network (NCCN) guidelines for the prevention and
+treatment of cancer-related infections (version 1.2025 – June 20,2025).4 The IDSA
+guidelines for management of candidiasis note voriconazole has demonstrated
+effectiveness for candidemia and candidiasis, including mucosal and invasive
+candidiasis (e.g., Candida intravascular infections, including endocarditis and
+infections of implantable cardiac devices; fluconazole-refractory oropharyngeal
+candidiasis; Candida endophthalmitis).3 Voriconazole represents an option in the
+first-line treatment of infections due to Scedosporium spp and Fusarium spp.5
+NCCN guidelines also notes voriconazole as a treatment option for the prevention of
+fungal infections in patients with significant graft-versus-host disease (GVHD)
+[especially grade 3/4] who are receiving immunosuppressive therapy; treatment
+should continue until resolution of significant GVHD.4 Voriconazole is also a
+treatment option for these groups of patients with neutropenia: patients with
+myelodysplastic syndrome, patients with acute myeloid leukemia, and patients who
+are allogeneic hematopoietic cell transplant recipients; treatment should continue
+until resolution of neutropenia.
+The IDSA guidelines for the management of blastomycosis (2008; archived) note
+voriconazole as an option for the treatment of central nervous system
+blastomycosis.6
+The Guidelines for Prevention and Treatment of Opportunistic Infections in Adults
+and Adolescents with Human Immunodeficiency Virus (HIV) Infections (last updated
+April 2025) recommend voriconazole as a treatment option for the
+prophylaxis/treatment of various fungal infections (e.g., candidiasis, histoplasmosis,
+coccidioidomycosis, and talaromycosis) in patients with HIV.7
+Page 2 of 5: Cigna National Formulary Coverage - Policy: Antifungals – Voriconazole (Oral)
+Prior Authorization Policy
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Vfend
+tablets and oral suspension and generic voriconazole tablets and oral suspension.
+All approvals are provided for the duration noted below. In cases where the
+approval is authorized in months, 1 month is equal to 30 days.
+• Vfend® (voriconazole tablets and oral suspension - Roerig/Pfizer,
+generic)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Aspergillus Infection – Treatment. Approve for 12 months.
+2. Candida (Systemic) Infection – Treatment. Approve for 3 months.
+3. Esophageal Candidiasis – Treatment. Approve for 3 months.
+4. Fusarium Infection – Treatment. Approve for 3 months.
+5. Scedosporium apiospermum Infection – Treatment. Approve for 3
+months.
+Other Uses with Supportive Evidence
+6. Aspergillus Infection – Prophylaxis. Approve for 6 months.
+7. Blastomycosis – Treatment. Approve for 12 months.
+8. Candida Endophthalmitis – Treatment. Approve for 3 months.
+9. Fungal Infection (Systemic) in a Patient with Cancer and Neutropenia –
+Prophylaxis. Approve for 6 months.
+Note: Examples of cancers predisposing neutropenic patients to risk of fungal
+infections include: myelodysplastic syndrome, acute myeloid leukemia, patients
+post-allogeneic hematopoietic cell transplant
+10. Fungal Infection (Systemic) in a Patient with Graft-versus-Host
+Disease - Prophylaxis. Approve for 6 months.
+11. Fungal Infection (Systemic) in a Patient with Human
+Immunodeficiency Virus (HIV) – Prophylaxis or Treatment. Approve for 6
+months.
+Page 3 of 5: Cigna National Formulary Coverage - Policy: Antifungals – Voriconazole (Oral)
+Prior Authorization Policy
+12. Oropharyngeal Candidiasis (Fluconazole-Refractory) – Treatment.
+Approve for 3 months.
+13. Fungal Infection (Systemic) that is Susceptible to Voriconazole –
+Treatment. Approve for 3 months.
+14. Patient is Currently Receiving Voriconazole. Approve for 3 months to
+complete the course of therapy.
+CONDITIONS NOT COVERED
+Vfend® (voriconazole tablets and oral suspension - Roerig/Pfizer, generic)
+is(are) considered not medically necessary for ANY other use(s); criteria
+will be updated as new published data are available.
+REFERENCES
+1. Vfend® tablet and oral suspension [prescribing information]. New York, NY: Roerig/Pfizer; March
+2025.
+2. Patterson TF, Thompson GR, Denning DW, et al. Practice guidelines for the diagnosis and
+management of aspergillosis: 2016 update by the Infectious Diseases Society of America. Clin
+Infect Dis. 2016;63(4):e1-e60.
+3. Pappas PG, Kauffman CA, Andes DR, et al. Clinical practice guidelines for the management of
+candidiasis: 2016 update by the Infectious Diseases Society of America. Clin Infect Dis.
+2016;62(4):e1-50.
+4. The NCCN Prevention and Treatment of Cancer-Related Infections Clinical Practice Guidelines in
+Oncology (version 1.2025 – June 20, 2025). ©2025 National Comprehensive Cancer Network.
+Available at: http://www.nccn.org. Accessed on July 1, 2025
+5. Tortorano AM, Richardson M, Roilides E, et al. European Society for Clinical Microbiology and
+Infectious Diseases (ESCMID) and European Confederation of Medical Mycology (ECMM) joint
+guidelines on diagnosis and management of hyalohyphomycosis: Fusarium spp., Scedosporium
+spp. and others. Clin Microb Infect. 2014;20(Suppl 3): 37-46.
+6. Chapman SW, Dismukes WE, Proia LA, et al. Clinical practice guidelines for the management of
+blastomycosis: 2008 update by the Infectious Diseases Society of America (Archived). Clin Infect
+Dis. 2008;46:1801-1812.
+7. Panel on Opportunistic Infections in HIV-Infected Adults and Adolescents. Guidelines for the
+prevention and treatment of opportunistic infections in HIV-infected adults and adolescents:
+recommendations from the Centers for Disease Control and Prevention, the National Institutes of
+Health, and the HIV Medicine Association of the Infectious Diseases Society of America. Available
+at: https://clinicalinfo.hiv.gov/sites/default/files/guidelines/documents/adult-adolescent-
+oi/guidelines-adult-adolescent-oi.pdf. Last updated April 23, 2025. Accessed on July 1, 2025.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Annual Policy name change: from Voriconazole (Oral) PA to 07/26/2023
+Revision Voriconazole (Oral) PA with Step Therapy.
+Fungal Infection (Systemic) in a Patient with Cancer and
+Neutropenia – Prophylaxis: This indication was previously
+worded as “Fungal Infection (Systemic) in a Patient At Risk of
+Neutropenia – Prophylaxis” and was revised to align with
+National Comprehensive Cancer Network (NCCN) guidelines.
+Examples of cancer predisposing neutropenic patients to risk of
+fungal infections were added as a Note.
+Page 4 of 5: Cigna National Formulary Coverage - Policy: Antifungals – Voriconazole (Oral)
+Prior Authorization Policy
+Fungal Infection (Systemic) in a Patient with Graft-
+Versus-Host Disease – Prophylaxis: This condition of
+approval was added to the policy.
+Annual No criteria changes. 07/31/2024
+Revision
+Early Annual Policy Statement was updated to add “When clinically 03/05/2025
+Revision appropriate, the patient is directed to try the generic
+voriconazole (Step 1) prior to brand Vfend (Step 2). If the
+patient is requesting brand Vfend and meets the standard
+Antifungals – Voriconazole (Oral) PA Policy criteria but has not
+met the Step Therapy requirement (i.e. has not tried generic
+voriconazole), an approval for generic voriconazole will be
+authorized.”
+Early Annual The policy name was changed to as listed. A Step Therapy 07/16/2025
+Revision component that required a trial of the corresponding generic
+voriconazole product (tablet or oral suspension) and a
+formulation difference in the inactive ingredients, which,
+according to the prescriber, would result in a significant allergy
+or serious adverse reaction, was removed from the policy.
+Aspergillus Infection – Treatment: The duration of approval
+for this condition was changed to 12 months. Previously, it was
+3 months.
+Blastomycosis – Treatment: The duration of approval for this
+condition was changed to 12 months. Previously, it was 3
+months.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025
+The Cigna Group.
+Page 5 of 5: Cigna National Formulary Coverage - Policy: Antifungals – Voriconazole (Oral)
+Prior Authorization Policy

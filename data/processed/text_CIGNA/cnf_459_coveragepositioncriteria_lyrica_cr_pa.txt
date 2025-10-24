@@ -1,0 +1,179 @@
+PRIOR AUTHORIZATION WITH STEP THERAPY POLICY
+POLICY: Neurology – Lyrica CR Prior Authorization with Step Therapy Policy
+• Lyrica® CR (pregabalin extended-release tablets − Pfizer, generic)
+REVIEW DATE: 04/03/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Pregabalin extended-release tablets, an analog of gamma-aminobutyric acid
+(GABA), are indicated for the following uses:1
+• Neuropathic pain associated with diabetic peripheral neuropathy
+(DPN), management in adults.
+• Postherpetic neuralgia (PHN), management in adults.
+The efficacy of pregabalin extended-release tablets has not been established for the
+management of fibromyalgia or as adjunctive therapy for adults with partial onset
+seizures.1
+Gabapentin immediate-release (IR), an analog of GABA, is indicated for the
+following uses:2
+• Partial onset seizures, with and without secondary generalization, as
+adjunctive therapy in adults and pediatric patients ≥ 3 years of age with
+epilepsy.
+• PHN, management in adults.
+Pregabalin IR capsules and oral solution are indicated for the following uses:3
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Neurology – Lyrica CR Prior Authorization with Step
+Therapy Policy
+• Fibromyalgia, management in adults.
+• Neuropathic pain associated with DPN, management in adults.
+• Neuropathic pain associated with spinal cord injury, management in
+adults.
+• Partial onset seizures, as adjunctive therapy for the treatment in patients
+≥ 1 month of age.
+• PHN, management in adults.
+Disease Overview
+PHN is the persistence of the pain of herpes zoster > 3 months after resolution of
+the rash; it is relatively common, affecting 10% to 15% of those with herpes
+zoster.4 Administration of antiviral agents within 72 hours of the onset of herpes
+zoster can reduce the intensity and duration of acute illness and can prevent PHN.
+Efforts to prevent herpes zoster and PHN are important because 40% to 50% of
+patients with PHN do not respond to any treatment.
+The diabetic neuropathies are a heterogeneous group of disorders with diverse
+clinical manifestations.5 The early recognition and appropriate management of
+neuropathy in the patient with diabetes is important. Up to 50% of DPN may be
+asymptomatic. Painful diabetic neuropathy affects 16% of patients with diabetes,
+and it is frequently unreported (12.5%) and more frequently untreated (39%).6 If
+not recognized and if preventive foot care is not implemented, patients are at risk
+for injuries to their insensate feet.5 Recognition and treatment of autonomic
+neuropathy may improve symptoms, reduce sequelae, and improve quality of life.
+Therapeutic strategies (pharmacologic and nonpharmacologic) for the relief of
+painful DPN can potentially reduce pain and improve quality of life.
+Guidelines
+Various guidelines for the treatment of DPN, neuropathic pain, PHN, and restless
+legs syndrome recommend gabapentin or pregabalin immediate-release as
+treatment options.4-11 Guidelines do not address pregabalin extended-release
+tablets.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of pregabalin
+extended-release tablets. Additionally, due to the availability of generic pregabalin
+extended-release tablets, approval of a branded pregabalin extended-release
+product requires a previous trial of the generic. All approvals are provided for the
+duration noted below.
+• Lyrica® CR (pregabalin extended-release tablets - Pfizer, generic)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+4 Pages - Cigna National Formulary Coverage - Policy:Neurology – Lyrica CR Prior Authorization with Step
+Therapy Policy
+FDA-Approved Indications
+1. Neuropathic Pain Associated with Diabetic Peripheral Neuropathy.
+Approve pregabalin extended-release tablets for 1 year if the patient meets the
+following (A and B):
+A) Patient has tried gabapentin immediate-release (brand [Neurontin] or generic)
+or generic immediate-release pregabalin; AND
+B) If brand Lyrica CR is requested, the patient meets BOTH of the following (i and
+ii):
+i. Patient has tried generic pregabalin extended-release tablets; AND
+ii. Patient cannot continue to use the generic due to a formulation difference
+in the inactive ingredient(s) [e.g., differences in dyes, fillers, preservatives]
+between the brand and the bioequivalent generic product, which, according
+to the prescriber, would result in a significant allergy or serious adverse
+reaction.
+2. Postherpetic Neuralgia. Approve pregabalin extended-release tablets for 1
+year if the patient meets the following (A and B):
+A) Patient has tried gabapentin immediate-release (brand [Neurontin] or generic)
+or generic immediate-release pregabalin; AND
+B) If brand Lyrica CR is requested, the patient meets BOTH of the following (i and
+ii):
+i. Patient has tried generic pregabalin extended-release tablets; AND
+ii. Patient cannot continue to use the generic due to a formulation difference
+in the inactive ingredient(s) [e.g., differences in dyes, fillers, preservatives]
+between the brand and the bioequivalent generic product, which, according
+to the prescriber, would result in a significant allergy or serious adverse
+reaction.
+CONDITIONS NOT COVERED
+• Lyrica® CR (pregabalin extended-release tablets - Pfizer, generic)
+is(are) considered experimental, investigational, or unproven for ANY
+other use(s) including the following (this list may not be all inclusive;
+criteria will be updated as new published data are available):
+1. Fibromyalgia. A double-blind, placebo-controlled, randomized withdrawal trial
+of pregabalin extended-release tablets in adults with fibromyalgia failed to
+demonstrate efficacy.1
+2. Partial Onset Seizures. A double-blind, placebo-controlled, randomized trial
+of pregabalin extended-release tablets as adjunctive therapy in adults with
+partial onset seizures failed to demonstrate efficacy.1
+4 Pages - Cigna National Formulary Coverage - Policy:Neurology – Lyrica CR Prior Authorization with Step
+Therapy Policy
+3. Restless Legs Syndrome. No data are available for pregabalin extended-
+release tablets for the treatment of restless legs at this time.
+REFERENCES
+1. Lyrica® CR extended-release tablets [prescribing information]. New York, NY: Pfizer; April 2020.
+2. Neurontin® capsules, tablets, oral solution [prescribing information]. New York, NY: Pfizer;
+December 2020.
+3. Lyrica capsules and oral solution [prescribing information]. Morgantown, WV: Viatris; December
+2023.
+4. Dubinsky RM, Kabbani H, El-Chami Z, et al. Practice parameter: treatment of postherpetic
+neuralgia: an evidence-based report of the Quality Standards Subcommittee of the American
+Academy of Neurology. Neurology. 2004;63(6):959-965.
+5. American Diabetes Association Professional Practice Committee; 12. Retinopathy, Neuropathy, and
+Foot Care: Standards of Medical Care in Diabetes—2024. Diabetes Care. 2023;47 (Supplement
+1):S231-S243. Available at: Volume 47 Issue Supplement_1 | Diabetes Care | American
+Diabetes Association (diabetesjournals.org). Accessed on March 28, 2024.
+6. Price R, Smith D, Franklin G, et al. Oral and topical treatment of painful diabetic polyneuropathy:
+Practice Guideline update summary. Report of the AAN Guideline Subcommittee. Neurology.
+2022;98(1):31-43.
+7. Handelsman Y, Bloomgarden ZT, Grunberger G, et al. American Association of Clinical Endocrine
+clinical practice guideline: Developing a diabetes mellitus comprehensive care plan – 2022
+update. Endocr Pract. 2022;28(10):P923-1049.
+8. Macfarlane GJ, Kronisch C, Dean LE, et al. EULAR revised recommendations for the management
+of fibromyalgia. Ann Rheum Dis. 2017;76:e54.
+9. Winkelman JW, Armstrong MJ, Allen RP, et al. Practice guideline summary: treatment of restless
+legs syndrome in adults. Report of the Guideline Development, Dissemination, and
+Implementation Subcommittee of the American Academy of Neurology. Neurology. 2016;87:1-9.
+10. Khan M. Restless Legs Syndrome and Other Common Sleep-Related Movement Disorders.
+Continuum (Minneap Minn). 2023;29(4):1130-1148.
+11. Garcia-Borreguero D, Silber MH, Winkelman JW, et al. Guidelines for the first-line treatment of
+restless legs syndrome/Willis–Ekbom disease, prevention and treatment of dopaminergic
+augmentation: a combined task force of the IRLSSG, EURLSSG, and the RLS-foundation. Sleep
+Med. 2016;21:1-11.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Annual Neuropathic Pain Associated with Diabetic Peripheral 03/22/2023
+Revision Neuropathy: Addition of “between the brand and the
+bioequivalent generic product” to criterion regarding the use of
+generic prior to the brand.
+Postherpetic Neuralgia: Addition of “between the brand and
+the bioequivalent generic product” to criterion regarding the use
+of generic prior to the brand.
+Update 12/11/2023: Policy Name (Neurology – Lyrica CR Prior --
+Authorization Policy) was updated to include “with Step Therapy”.
+The Policy is now named “Neurology – Lyrica CR Prior
+Authorization with Step Therapy Policy”.
+Annual No criteria changes. 04/03/2024
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+4 Pages - Cigna National Formulary Coverage - Policy:Neurology – Lyrica CR Prior Authorization with Step
+Therapy Policy
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2024 The Cigna
+Group.
+4 Pages - Cigna National Formulary Coverage - Policy:Neurology – Lyrica CR Prior Authorization with Step
+Therapy Policy

@@ -1,0 +1,217 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Immunologicals – Adbry Prior Authorization Policy
+• Adbry® (tralokinumab-ldrm subcutaneous injection – Leo)
+REVIEW DATE: 04/09/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Adbry, an interleukin (IL)-13 antagonist, is indicated for the treatment of moderate
+to severe atopic dermatitis in patients ≥ 12 years of age whose disease is not
+adequately controlled with topical prescription therapies or when those therapies are
+not advisable.1 Adbry may be used with or without topical corticosteroids.
+Clinical Efficacy
+Three pivotal Adbry studies enrolled adults (≥ 18 years of age) with moderate to
+severe chronic atopic dermatitis affecting ≥ 10% of their body surface area (BSA).1-
+3 Patients also had a recent history of an inadequate response to a sufficient course
+of topical therapy (e.g., topical corticosteroids and/or topical calcineurin inhibitors).
+Inadequate response was defined as a failure to either achieve or maintain remission
+or low disease activity following at least 28 days of topical corticosteroid treatment
+(medium potency or higher) or for the maximum duration recommended by the
+topical corticosteroid prescribing information, with or without a topical calcineurin
+Page 1 of 5 Cigna National Formulary Coverage - Policy: Immunologicals – Adbry Prior Authorization Policy
+inhibitor. Patients who had received systemic treatment for atopic dermatitis in the
+previous year were also considered to be non-responders to topical therapies and
+were eligible for study inclusion. At Week 16, Adbry was found to be more effective
+in achieving a clinical response compared with placebo. In the monotherapy trials,
+the majority of patients who achieved a clinical response to Adbry at Week 16
+experienced sustained efficacy at Week 52. Similarly, the patients enrolled in the
+Adbry pivotal trial in adolescents (12 to 17 years of age) had moderate to severe
+atopic dermatitis affecting 10% BSA or more and a previous inadequate response to
+topical medication (e.g., topical corticosteroids and/or topical calcineurin inhibitors).4
+As was observed in trials in adults, significantly more patients achieved a clinical
+response at Week 16 and again, efficacy was sustained through Week 52.
+Guidelines
+Guidelines for the care and management of atopic dermatitis (with topical therapies
+in adults [2022], with phototherapy and systemic agents [2023]) have been updated
+to address Adbry.5,6 The guidelines note that despite the availability of newer,
+systemic therapies (e.g., Adbry), topical agents remain the mainstay of treatment
+due to their proven track record and favorable safety profiles. Several topical agents
+are recommended, with topical corticosteroids commonly used first-line for mild to
+severe atopic dermatitis in all skin regions. If topical therapy and basic management
+(e.g., moisturizers, bathing modifications) have been optimized and the patient has
+not achieved adequate control, consider an alternative diagnosis or systemic therapy.
+In this setting, use of Adbry is recommended in patients with moderate to severe
+disease (strong recommendation).
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Adbry. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Adbry as well as the
+monitoring required for adverse events and long-term efficacy, initial approval
+requires Adbry to be prescribed by or in consultation with a physician who specializes
+in the condition being treated.
+• Adbry® (tralokinumab-ldrm subcutaneous injection – Leo)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Atopic Dermatitis. Approve for the duration noted if the patient meets one of
+the following (A or B):
+A) Initial Therapy. Approve for 4 months if the patient meets the following (i, ii,
+iii, and iv):
+i. Patient is ≥ 12 years of age; AND
+Page 2 of 5 - Cigna National Formulary Coverage - Policy: Immunologicals – Adbry Prior Authorization Policy
+ii. Patient has atopic dermatitis involvement estimated to be ≥ 10% of the
+body surface area according to the prescriber; AND
+iii. Patient meets ALL of the following (a, b, and c):
+a) Patient has tried at least one medium-, medium-high, high-, and/or
+super-high-potency prescription topical corticosteroid; AND
+b) This topical corticosteroid was applied daily for at least 28 consecutive
+days; AND
+c) Inadequate efficacy was demonstrated with this topical corticosteroid
+therapy, according to the prescriber; AND
+iv. The medication is prescribed by or in consultation with an allergist,
+immunologist, or dermatologist.
+B) Patient is Currently Receiving Adbry. Approve for 1 year if the patient meets
+the following (i and ii):
+i. Patient has already received at least 4 months of therapy with Adbry; AND
+Note: A patient who has received < 4 months of therapy or who is restarting
+therapy with Adbry should be considered under criterion 1A (Atopic
+Dermatitis, Initial Therapy).
+ii. Patient has responded to therapy as determined by the prescriber.
+Note: Examples of a response to Adbry therapy are marked improvements
+in erythema, induration/papulation/edema, excoriations, and
+lichenification; reduced pruritus; decreased requirement for other topical
+or systemic therapies; reduced body surface area affected with atopic
+dermatitis; or other observed responses.
+CONDITIONS NOT COVERED
+• Adbry® (tralokinumab-ldrm subcutaneous injection – Leo)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Asthma. Adbry is not indicated for the treatment of asthma.1 Three Phase III
+studies evaluated tralokinumab for the treatment of adults and adolescent
+patients with severe, uncontrolled asthma.7,8 In STRATOS 1 and STRATOS 2
+(published) [n = 1,202], Adbry 300 mg administered subcutaneously once every
+2 weeks did not significantly reduce the annualized asthma exacerbation rate
+compared with placebo.7 TROPOS (published) [n = 140] included patients with
+severe, uncontrolled asthma that required maintenance oral corticosteroid
+treatment plus inhaled corticosteroids and inhaled long-acting beta -agonists.8
+2
+Following 40 weeks of therapy, the percent reduction from baseline in the final
+daily average oral corticosteroid dose was not significantly different between
+Adbry and placebo.
+2. Concurrent use of Adbry with another Monoclonal Antibody Therapy. The
+efficacy and safety of Adbry in combination with other monoclonal antibodies have
+not been established.
+Page 3 of 5 - Cigna National Formulary Coverage - Policy: Immunologicals – Adbry Prior Authorization Policy
+Note: Monoclonal antibody therapies are Dupixent® (dupilumab subcutaneous
+[SC] injection), Cinqair® (reslizumab intravenous injection), Ebglyss®
+(lebrikizumab-lbkz subcutaneous injection), Fasenra® (benralizumab SC
+injection), Nemluvio® (nemolizumab-ilto subcutaneous injection), Nucala®
+(mepolizumab SC injection), Tezspire® (tezepelumab-ekko SC injection), or
+Xolair® (omalizumab SC injection).
+3. Concurrent Use of Adbry with Janus Kinase (JAK) Inhibitors (oral or
+topical). Use of JAK inhibitors is not recommended in combination with other JAK
+inhibitors, biologic immunomodulators (e.g., Adbry), or with other
+immunosuppressants.9-11,14
+Note: Examples of JAK inhibitors are Cibinqo® (abrocitinib tablets), Leqselvi™
+(deuruxolitinib tablets), Rinvoq®/Rinvoq® LQ (upadacitinib extended-release
+tablets and oral solution), and Opzelura™ (ruxolitinib cream).
+4. Idiopathic Pulmonary Fibrosis. Adbry is not indicated for the treatment of
+idiopathic pulmonary fibrosis.1 Intravenous tralokinumab has been studied for
+the treatment of idiopathic pulmonary fibrosis in a Phase II, randomized, placebo-
+controlled study (published) [n = 176].12 However, this study was terminated
+early after an interim analysis showed lack of efficacy. Two doses of tralokinumab
+were studied and neither dose significantly improved the least-squares mean
+difference percent predicted forced vital capacity from baseline to Week 52.
+5. Ulcerative Colitis. Adbry is not indicated for the treatment of ulcerative colitis.1
+One Phase IIa, randomized, double-blind, placebo-controlled study (published) [n
+= 111] evaluated tralokinumab for the treatment of patients with moderate to
+severe ulcerative colitis despite standard treatments.13 Following 8 weeks of
+therapy, tralokinumab did not significantly improve clinical response rates
+compared with placebo.
+REFERENCES
+1. Adbry® subcutaneous injection [prescribing information]. Madison, NJ: Leo; June 2024.
+2. Wollenberg A, Blauvelt A, Guttman-Yassky E, et al. Tralokinumab for moderate-to-severe atopic
+dermatitis: results from two 52-week, randomized, double-blind, multicenter, placebo-controlled
+phase III trials (ECZTRA 1 and ECZTRA 2). Br J Dermatol. 2021;184(3):437-449.
+3. Silverberg JI, Toth D, Bieber T, et al. Tralokinumab plus topical corticosteroids for the treatment of
+moderate-to-severe atopic dermatitis: results from the double-blind, randomized, multicenter,
+placebo-controlled phase III ECZTRA 3 trial. Br J Dermatol. 2021;184(3):450-463.
+4. Paller AS, Flohr C, Cork M, et al. Efficacy and safety of tralokinumab in adolescents with moderate
+to severe atopic dermatitis: the phase 3 ECZTRA 6 randomized clinical trial. JAMA Dermatol.
+2023;159(6):596-605.
+5. Sidbury R, Alikhan A, Cohen DE, et al. Guidelines of care for the management of atopic dermatitis
+in adults with topical therapies. J Am Acad Dermatol. 2023;89(e1-e20).
+6. Davis DMR, Drucker AM, Alikhan A, et al. Guidelines of care for the management of atopic dermatitis
+in adults with phototherapy and systemic therapies. J Am Acad Dermatol. 2024;90(2):e43-e56.
+7. Panettieri Jr. RA, Sjobring U, Peterffy AM, et al. Tralokinumab for severe, uncontrolled asthma
+(STRATOS 1 and STRATOS 2): two randomised, double-blind, placebo-controlled, phase 3 clinical
+trial. Lancet Respir Med. 2018;6(7):511-525.
+8. Busse WW, Brusselle GG, Korn S, et al. Tralokinumab did not demonstrate oral corticosteroid-
+sparing effects in severe asthma. Eur Respir J. 2019;53(2):1800948.
+9. Cibinqo® tablets [prescribing information]. New York, NY: Pfizer; December 2023.
+Page 4 of 5 - Cigna National Formulary Coverage - Policy: Immunologicals – Adbry Prior Authorization Policy
+10. Rinvoq® extended-release tablets/Rinvoq® LQ oral solution [prescribing information]. North
+Chicago, IL: AbbVie; April 2024.
+11. Opzelura® cream [prescribing information]. Wilmington, DE: Incyte; March 2023.
+12. Parker JM, Glaspole IN, Lancaster LH, et al. A phase 2 randomized controlled study of tralokinumab
+in subjects with idiopathic pulmonary fibrosis. Am J Respir Crit Care Med. 2018;197(1):94-103.
+13. Danese S, Rudzinski J, Brandt W, et al. Tralokinumab for moderate-to-severe UC: a randomized,
+double-blind, placebo-controlled, phase IIa study. Gut. 2015;64(2):243-249.
+14. Leqselvi™ tablets [prescribing information]. Whippany, NJ: Sun/Halo; July 2024.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Conditions Not Covered 03/22/2023
+Revision : Criteria were updated to clarify that use of Adbry with another
+monoclonal antibody therapy is specific to Cinqair, Fasenra, Nucala,
+Dupixent, Tezspire, and Xolair.
+Selected Conditions Not Covered 05/10/2023
+Revision : Criteria were added for “Concurrent Use of Dupixent with Janus
+Kinase Inhibitors (JAKis) [oral or topical]”.
+Selected Atopic Dermatitis: Age requirement was changed to “≥ 12 years 12/20/2023
+Revision of age”; previously, age requirement was “≥ 18 years of age”.
+Annual No criteria changes. 04/19/2024
+Revision
+Annual Conditions Not Covered, Concurrent Use of Adbry with 04/09/2025
+Revision another Monoclonal Antibody Therapy: Ebglyss® (lebrikizumab-
+lbkz subcutaneous injection) and Nemluvio® (nemolizumab-ilto
+subcutaneous injection) were added as examples of monoclonal
+antibody therapies.
+Conditions Not Covered, Concurrent Use of Adbry with Janus
+Kinase (JAK) Inhibitors (oral or topical): Leqselvi™
+(deuruxolitinib tablets) and Rinvoq® LQ (upadacitinib oral solution)
+were added as examples of JAK inhibitors.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 5 of 5 - Cigna National Formulary Coverage - Policy: Immunologicals – Adbry Prior Authorization Policy

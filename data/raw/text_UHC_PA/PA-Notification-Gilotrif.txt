@@ -1,0 +1,121 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1036-14
+Program Prior Authorization/Notification
+Medication Gilotrif® (afatinib)
+P&T Approval Date 10/2013, 2/2014, 2/2015, 2/2016, 6/2016, 6/2017, 6/2018, 6/2019,
+6/2020, 6/2021, 6/2022, 6/2023, 6/2024, 6/2025
+Effective Date 9/1/2025
+1. Background:
+Gilotrif® (afatinib) is a kinase inhibitor indicated for the first-line treatment of patients with
+metastatic non-small cell lung cancer (NSCLC) whose tumors have non-resistant epidermal
+growth factor receptor (EGFR) mutations as detected by an FDA-approved test. Gilotrif is also
+indicated for the treatment of patients with metastatic, squamous NSCLC progressing after
+platinum-based chemotherapy.1 The National Cancer Comprehensive Network (NCCN) also
+recommends the use of Gilotrif in patients with advanced non-nasopharyngeal head and neck
+cancers with progression on or after platinum-containing chemotherapy. Additionally, the NCCN
+also recommends use of Gilotrif as a single-agent treatment for brain metastases in patients with
+EGFR sensitizing mutation positive NSCLC.2
+Limitations of Use: Safety and efficacy of Gilotrif were not established in patients whose tumors
+have resistant EGFR mutations.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Gilotrif will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Non-Small Cell Lung Cancer (NSCLC)
+1. Initial Authorization
+a. Gilotrif will be approved based on both of the following criteria:
+© 2025 UnitedHealthcare Services, Inc.
+1
+(1) Diagnosis of metastatic non-small cell lung cancer (NSCLC)
+-AND-
+(2) One of the following:
+(a) Squamous disease progressing after previous platinum-based chemotherapy
+(b) Tumors are positive for non-resistant epidermal growth factor receptor
+(EGFR) mutations
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Gilotrif will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Gilotrif therapy.
+Authorization will be issued for 12 months.
+C. Non- Nasopharyngeal Head and Neck Cancer
+1. Initial Authorization
+a. Gilotrif will be approved based on both of the following criteria:
+(1) Diagnosis of advanced, non-nasopharyngeal head and neck cancer
+-AND-
+(2) Disease has progressed on or after platinum-containing chemotherapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Gilotrif will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Gilotrif therapy.
+Authorization will be issued for 12 months.
+D. Brain Metastases
+1. Initial Authorization
+a. Gilotrif will be approved based on the following criteria:
+(1) Diagnosis of brain metastasis due to EGFR-sensitizing mutation positive non-
+small cell lung cancer
+© 2025 UnitedHealthcare Services, Inc.
+2
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Gilotrif will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Gilotrif therapy.
+Authorization will be issued for 12 months.
+E. NCCN Recommended Regimens
+1. The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Gilotrif [package insert]. Ridgefield, CT: Boehringer Ingelheim Pharmaceuticals, Inc.; April
+2022.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+https://www.nccn.org/professionals/drug_compendium/content/. Accessed April 30, 2025.
+Program Prior Authorization/Notification - Gilotrif (afatinib)
+Change Control
+10/2013 New program for Gilotrif approved by FDA on 7/12/2013.
+2/2014 Review with no change to Coverage Criteria.
+2/2015 Annual review. Added coverage for HER2-positive NSCLC. Updated
+background and references.
+2/2016 Annual review. Changed initial and reauthorization period to 12
+months. Updated references.
+6/2016 Added additional coverage based on new FDA indication and NCCN
+guidelines. Updated background and references.
+© 2025 UnitedHealthcare Services, Inc.
+3
+6/2017 Added additional coverage for advanced non-nasopharyngeal head and
+neck cancer based on updated NCCN guidelines. Updated background
+and references.
+6/2018 Annual review. Updated background and criteria to align with updated
+labeled indication. Updated references.
+6/2019 Annual review with no change to coverage criteria. Updated
+background and reference.
+6/2020 Annual review. Added brain metastases coverage based on NCCN
+guidelines. Updated background and references.
+6/2021 Annual review. Updated brain metastases coverage based on NCCN
+guidelines. Updated background and references.
+6/2022 Annual review with no changes to criteria. Updated background with
+limitations of use and updated references.
+6/2023 Annual review. Updated background. Added state mandate footnote.
+Updated references.
+6/2024 Annual review. No changes to clinical criteria.
+6/2025 Annual review. No changes to coverage criteria.
+© 2025 UnitedHealthcare Services, Inc.
+4

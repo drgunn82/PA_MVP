@@ -1,0 +1,163 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1077-14
+Program Prior Authorization/Notification
+Medication Pomalyst® (pomalidomide)
+P&T Approval Date 2/2013, 7/2013, 5/2014, 5/2015, 5/2016, 5/2017, 5/2018, 5/2019,
+5/2020, 5/2021, 5/2022, 5/2023, 5/2024, 5/2025
+Effective Date 8/1/2025
+1. Background:
+Pomalyst® (pomalidomide) is a thalidomide analogue indicated for the treatment of adult
+patients, in combination with dexamethasone, for patients with multiple myeloma who have
+received at least two prior therapies including Revlimid® (lenalidomide) and a proteasome
+inhibitor [e.g., Velcade® (bortezomib)] and have demonstrated disease progression on or
+within 60 days of completion of the last therapy. Pomalyst is also indicated for adult patients
+with AIDS-related Kaposi sarcoma (KS) after failure of highly active antiretroviral therapy
+(HAART) or in patients with KS who are HIV-negative.1
+The National Comprehensive Cancer Network (NCCN) also recommends use of Pomalyst for
+the treatment of relapsed/refractory systemic light chain amyloidosis in combination with
+dexamethasone and for the treatment of primary central nervous system (CNS) lymphoma.
+Additionally, Pomalyst is recommended in NCCN for treatment of multiple myeloma in
+combination of dexamethasone after receiving only one prior line of therapy or for induction
+therapy for the management of POEMS.2
+Due to embryo-fetal risk (pregnancy category X) associated with Pomalyst; it is available only
+through the Pomalyst Risk Evaluation and Mitigation Strategy (REMS) Program. Prescribers
+and pharmacies must be certified with the Pomalyst REMS Program by enrolling and
+complying with the REMS requirements. Patients must sign a Patient-Physician agreement
+form and comply with the REMS requirements. Specifically, female patients who are not
+pregnant but can become pregnant must comply with the pregnancy testing and contraception
+requirements and males must comply with contraception requirements. Pharmacies must only
+dispense to patients who are authorized to receive the drug and must comply with REMS
+requirements. Additional information may be found at: https://www.pomalystrems.com/.3
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+© 2025 UnitedHealthcare Services, Inc.
+1
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Pomalyst will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Multiple Myeloma
+1. Initial Authorization
+a. Pomalyst will be approved based on both of the following criteria:
+(1) Diagnosis of multiple myeloma
+-AND-
+(2) One of the following:
+(a) History of failure, contraindication, or intolerance to one of the following:
+i. Immunomodulatory agent [e.g., Revlimid (lenalidomide)]
+ii. Proteasome inhibitor [e.g.,Velcade (bortezomib)]
+iii. Anti CD-38 therapy [e.g., Darzalex (daratumumab), Sarclisa
+(isatuximab)]
+-OR-
+(b) Induction therapy for the management of POEMS (polyneuropathy,
+organomegaly, endocrinopathy, monoclonal protein, skin changes)
+syndrome
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Pomalyst will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Pomalyst
+therapy
+Authorization will be issued for 12 months.
+C. Systemic Light Chain Amyloidosis
+1. Initial Authorization
+© 2025 UnitedHealthcare Services, Inc.
+2
+a. Pomalyst will be approved based on both of the following criteria:
+(1) Diagnosis of systemic light chain amyloidosis
+-AND-
+(2) Used in combination with dexamethasone
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Pomalyst will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Pomalyst
+therapy
+Authorization will be issued for 12 months.
+D. Kaposi Sarcoma
+1. Initial Authorization
+a. Pomalyst will be approved based on one of the following criteria:
+(1) Diagnosis of HIV-negative Kaposi Sarcoma
+-OR-
+(2) Both of the following:
+(a) Diagnosis of AIDS-related Kaposi Sarcoma
+-AND-
+(b) Patient is currently being treated with antiretroviral therapy (ART)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Pomalyst will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Pomalyst
+therapy
+Authorization will be issued for 12 months.
+E. Primary CNS Lymphoma
+© 2025 UnitedHealthcare Services, Inc.
+3
+1. Initial Authorization
+a. Pomalyst will be approved based on both of the following criteria:
+(1) Diagnosis of primary CNS lymphoma
+-AND-
+(2) One of the following:
+(a) Used as second-line or a subsequent therapy
+(b) Use as induction therapy if patient is unsuitable for or intolerant to high-
+dose methotrexate
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Pomalyst will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Pomalyst
+therapy
+Authorization will be issued for 12 months.
+F. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Pomalyst [package insert]. Summit, NJ: Celgene Corporation; February 2025.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+www.nccn.org. Accessed April 9, 2025.
+© 2025 UnitedHealthcare Services, Inc.
+4
+3. Pomalyst REMS®. Available at https://www.pomalystrems.com/. Accessed April 9, 2025.
+Program Prior Authorization/Notification - Pomalyst (pomalidomide)
+Change Control
+5/2014 Annual review. Added coverage for criteria for systemic light chain
+amyloidosis per NCCN.
+9/2014 Administrative change - Tried/Failed exemption for State of New Jersey
+removed.
+5/2015 Updated background, coverage criteria and references. Increased
+authorization from 8 months to 12 months.
+5/2016 Annual review. Added dexamethasone to background. Added
+proteasome inhibitor to Velcade in background and coverage criteria.
+Updated references.
+5/2017 Annual review. Changed member to patient in coverage criteria.
+Updated formatting and references.
+5/2018 Annual review. Added coverage criteria for AIDS-Related Kaposi
+Sarcoma per NCCN. Updated references.
+5/2019 Annual review. Added coverage criteria for primary CNS lymphoma
+per NCCN. Updated references.
+5/2020 Annual review. No changes to coverage criteria. Updated references.
+5/2021 Annual review. Added coverage criteria for HIV-negative Kaposi
+Sarcoma per package insert. Updated references.
+5/2022 Annual review. Added NCCN Recommended Regimens criteria.
+Updated references.
+5/2023 Annual review with no changes to coverage criteria. Updated
+background and references. Added state mandate footnote.
+5/2024 Annual review. Updated criteria for multiple myeloma and kaposi
+sarcoma. Updated background and references.
+5/2025 Annual review. Updated criteria for multiple myeloma and primary
+CNS lymphoma based on NCCN recommendation. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+5

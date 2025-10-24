@@ -1,0 +1,98 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 4008-9
+Program Short-Acting Opioid Review Criteria for opioid naïve members
+Medication Includes all salt forms, single and combination ingredient products
+short-acting opioid formulations, and all brand and generic formulations
+P&T Approval Date 12/2017, 4/2018, 7/2018, 4/2019, 4/2020, 4/2021, 4/2022, 10/2023,
+10/2024
+Effective Date 1/1/2025
+1. Background:
+The Center for Disease Control (CDC) recommends that clinicians should prescribe the lowest
+effective dosage when opioids are started. Clinicians should use caution when prescribing
+opioids at any dosage, should carefully reassess evidence of individual benefits and risks when
+considering increasing dosage to 50 morphine milligram equivalents (MME) or more per day,
+and should avoid increasing dosage to 90 MME or more per day or carefully justify a decision to
+titrate dosage to 90 MME or more per day.
+Patients new to opioid therapy will be limited to a 7-day supply* and less than 50 MME per day.
+Opioid naïve members are defined as not having filled an opioid in the past 120 days.
+2. Coverage Criteria a:
+A. Short-Acting Opioids
+1. Opioid naïve members (defined as not having filled an opioid in the past 120 days) may
+receive greater than the supply limit* based on ALL of the following:
+a. ONE of the following:
+(1) Cancer diagnosis
+(2) End of life pain, including hospice care
+(3) Palliative care
+(4) Sickle cell anemia
+(5) Both of the following:
+(a) ONE of the following:
+i. Traumatic injury
+ii. Post-surgical procedures, excluding dental procedures
+iii. Prescriber attests the patient has received an opioid in the past 120
+days.
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+1
+(b) Prescriber attests to the following:
+i. If requested for traumatic injury or post-surgical procedure, prescriber
+attests that based on the injury or surgical procedure performed the
+member requires greater than a 7-day supply* of short-acting opioids to
+adequately control pain.
+-AND-
+b. If the request is for 50 MME or greater ONE of the following:
+(1) Diagnosis of cancer, end of life pain (including hospice care), palliative care or
+sickle cell anemia
+(2) Patient is currently at or exceeding 50 MME and prescriber attests patient has
+been on an opioid in the past 120 days
+(3) Document all of the following:
+i. The diagnosis associated with the need for pain management with opioids.
+ii. If used in patients with medical comorbidities or if used concurrently with a
+benzodiazepine or other drugs that could potentially cause drug-drug
+interactions, the prescriber has acknowledged that they have completed an
+assessment of increased risk for respiratory depression.
+iii. The prescriber has acknowledged that they have completed an addiction risk
+and risk of overdose assessment.
+iv. Prescriber attests the member requires more than 50 MME per day to
+adequately control pain. (please note initial fill will be limited to 90 MME)
+-AND-
+c. Request does not exceed four grams of acetaminophen per day.
+Authorization for cancer, end of life pain or palliative care pain or sickle cell
+anemia will be issued or a quantity of 9999 for 24 months to prevent further
+disruption in therapy if the patient’s dose is increased. Members new to plan
+(coverage effective date of <120 days) will be approved for one month for the
+requested MME not to exceed the plan’s supply limit. All other approvals will be
+issued for one month for the requested MME not to exceed the maximum labeled
+FDA dosing where a maximum exists, the plan’s supply limit OR 90 MME.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+* Patients age 19 years and under new to opioid therapy are restricted to a 3-day supply for initial fill.
+Members age 20 years and older new to opioid therapy are restricted to up to a 7-day supply for initial
+fill. Initial fill for all ages is limited to <50 MME.
+© 2024 UnitedHealthcare Services, Inc.
+2
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+• Opioid Cumulative Dose Review may be in place.
+4. References:
+1. Dowell D, Ragan KR, Jones CM, Baldwin GT, Chou R. CDC Clinical Practice Guideline for
+Prescribing Opioids for Pain — United States, 2022. MMWR Recomm Rep 2022;71(No. RR-
+3):1–95. DOI: http://dx.doi.org/10.15585/mmwr.rr7103a1.
+Program Short-Acting Opioid Review Criteria
+Change Control
+12/2017 New program
+4/2018 Administrative changes to clarify intent.
+7/2018 Added information around edit restrictions for patients less than 20 years of
+age.
+4/2019 Revised morphine equivalent dosing to morphine milligram equivalent.
+4/2020 Revised criteria for member established on > 50 MME
+4/2021 Annual review. Administrative change for formatting.
+4/2022 Annual review. No changes.
+10/2023 Removed “routine audit” language from criteria.
+10/2024 Annual review with no changes.
+© 2024 UnitedHealthcare Services, Inc.
+3

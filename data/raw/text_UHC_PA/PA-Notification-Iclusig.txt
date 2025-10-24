@@ -1,0 +1,159 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1043-14
+Program Prior Authorization/Notification
+Medication Iclusig® (ponatinib)
+P&T Approval Date 2/2013, 7/2013, 8/2013, 2/2014, 2/2015, 2/2016, 12/2016, 11/2017,
+11/2018, 11/2019, 11/2020, 11/2021, 11/2022, 11/2023, 11/2024
+Effective Date 2/1/2025
+1. Background:
+Iclusig (ponatinib) is a kinase inhibitor indicated for the treatment of patients with newly
+diagnosed Philadelphia chromosome-positive acute Lymphoblastic Leukemia (Ph+ ALL), in
+combination with chemotherapy, as monotherapy in Ph+ ALL for whom no other kinase
+inhibitors are indicated, or T315I-positive Ph+ ALL. Iclusig is also indicated in chronic phase
+(CP) chronic myeloid leukemia (CML) with resistance or intolerance to at least two prior
+kinase inhibitors, accelerated phase (AP) or blast phase (BP) CML for whom no other kinase
+inhibitors are indicated, and T315I-positive CML (chronic phase, accelerated phase, or blast
+phase).
+The National Comprehensive Cancer Network (NCCN) also recommends Iclusig for the
+treatment of myeloid, lymphoid, or mixed lineage neoplasms with eosinophilia and FGFR1 or
+ABL1 rearrangements, and gastrointestinal stromal tumors.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age
+of 19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Iclusig will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Chronic Myelogenous / Myeloid Leukemia (CML)
+1. Initial Authorization
+a. Iclusig will be approved based on both of the following criteria:
+© 2024 UnitedHealthcare Services, Inc.
+1
+(1) Diagnosis of chronic myelogenous/myeloid leukemia (CML)
+-AND-
+(2) One of the following:
+(a) Both of the following:
+i. Disease is in the chronic phase
+ii. Patient with resistance or intolerance to two or more tyrosine kinase
+inhibitor (TKI) therapies [e.g., imatinib mesylate, Sprycel (dasatinib), or
+Tasigna (nilotinib)]
+-OR-
+(b) Confirmed documentation of T315I mutation
+-OR-
+(c) Both of the following:
+i. Disease is in the accelerated or blast phase
+ii. No other kinase inhibitors are indicated
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Iclusig will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Iclusig therapy
+Authorization will be issued for 12 months.
+C. Philadelphia Chromosome-Positive Acute Lymphoblastic Leukemia (Ph+ALL)
+1. Iclusig will be approved based on the following criterion:
+a. Diagnosis of Philadelphia chromosome positive acute lymphoblastic leukemia
+(Ph+ALL)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Iclusig will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Iclusig therapy
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+2
+D. Myeloid/Lymphoid Neoplasms
+1. Initial Authorization
+a. Iclusig will be approved based on both of the following:
+(1) Diagnosis of lymphoid, myeloid, or mixed lineage neoplasms with
+eosinophilia
+-AND-
+(2) One of the following:
+(a) Patient has a FGFR1 rearrangement
+(b) Patient has an ABL1 rearrangement
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Iclusig will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Iclusig therapy.
+Authorization will be issued for 12 months.
+E. Gastrointestinal Stromal Tumors (GIST)
+1. Initial Authorization
+a. Iclusig will be approved based on both of the following:
+(1) Diagnosis of gastrointestinal stromal tumor (GIST)
+-AND-
+(2) Disease is one of the following:
+(a) Gross residual disease (R2 resection)
+(b) Unresectable primary disease
+(c) Tumor rupture
+(d) Recurrent/metastatic disease after progression on approved therapies (e.g.
+imatinib, sunitinib, regorafenib, and standard dose ripretinib)
+© 2024 UnitedHealthcare Services, Inc.
+3
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Iclusig will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Iclusig therapy.
+Authorization will be issued for 12 months.
+F. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Iclusig [package insert]. Lexington, MA: Takeda Pharmaceuticals America, Inc.; March
+2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org/professionals/drug_compendium/content/contents.asp. Accessed
+September 26, 2024.
+Program Prior Authorization/Notification - Iclusig (ponatinib)
+Change Control
+2/2014 Updated coverage criteria with new FDA labeling indications.
+9/2014 Administrative change - Tried/Failed exemption for State of New Jersey
+removed.
+2/2015 Added ‘or has failed treatment with’ and ‘at least two or more’ to TKI
+requirement. Updated references.
+2/2016 Annual review. Increased authorization from 10 months to 12 month.
+Added ‘used in combination with an induction regimen not previously
+© 2024 UnitedHealthcare Services, Inc.
+4
+used’ to Ph+ALL. Formatting revision. Updated background and
+references.
+12/2016 Annual review. Changed Gleevec to imatinib mesylate. Updated
+formatting and references.
+11/2017 Annual review. Removed Acute Lymphoblastic Lymphoma based on
+NCCN recommendations. Updated references.
+11/2018 Annual review. Added use with HyperCVAD (hyper-fractionated
+cyclophosphamide, vincristine, doxorubicin, and dexamethasone,
+alternating with high-dose methotrexate and cytarabine) induction or
+consolidation and as maintenance therapy in combination with
+vincristine and prednisone with or without methotrexate and
+mercaptopurine and post-hematopoietic stem cell transplant. Updated
+references based on NCCN recommendations.
+11/2019 Annual review. Updated references.
+11/2020 Annual review. Updated background to reflect package insert.
+Updated clinical criteria for Ph+ ALL removing specific drug regimens.
+Updated NCCN guidelines for Myeloid/Lymphoid Neoplasms in
+background and criteria. Updated references.
+11/2021 Annual review. Updated Ph+ALL and CML criteria to reflect package
+insert and NCCN recommendations. Updated background and
+references.
+11/2022 Annual review. Updated CML and ALL criteria based on NCCN
+recommendations. Added state mandate footnote. Updated references.
+11/2023 Annual review. Updated ALL criteria based on NCCN
+recommendations. Added criteria for GIST based on NCCN
+recommendations. Updated background and references.
+11/2024 Updated background and references. No changes to coverage criteria.
+© 2024 UnitedHealthcare Services, Inc.
+5

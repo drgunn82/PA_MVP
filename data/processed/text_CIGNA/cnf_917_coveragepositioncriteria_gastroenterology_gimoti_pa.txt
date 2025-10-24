@@ -1,0 +1,208 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Gastroenterology – Gimoti Prior Authorization Policy
+• Gimoti® (metoclopramide nasal spray − Evoke)
+REVIEW DATE: 03/19/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Gimoti, a dopamine-2 receptor antagonist, is indicated for the relief of symptoms
+associated with acute and recurrent diabetic gastroparesis in adults.1
+Limitations of Use: Gimoti is not recommended for use in pediatric patients due to
+the risk of tardive dyskinesia and other extrapyramidal symptoms as well as the
+risk of methemoglobinemia in neonates.1 Gimoti is not recommended for use in
+patients with moderate or severe hepatic impairment (Child-Pugh B or C),
+moderate or severe renal impairment (creatine clearance < 60 mL/min), and in
+patients concurrently using strong cytochrome P450 (CYP)2D6 inhibitors due to the
+risk of increased drug exposure and adverse reactions.
+Disease Overview
+Gastroparesis is a disorder of the upper gastrointestinal tract characterized by
+delayed gastric emptying in the absence of mechanical obstruction.2 Women are
+affected by gastroparesis in a 4:1 ratio. The disorder is estimated to affect
+approximately 5% of patients with type 1 diabetes and 1% of patients with type 2
+diabetes.3 Diabetic gastroparesis is caused by autonomic neuropathy and is more
+likely to occur in individuals with poor glycemic control. Symptoms include nausea,
+vomiting, and early satiety which reduces the quality of life in impacted patients.5
+Page 1 of 5 - Cigna National Formulary Coverage - Policy:Gastroenterology – Gimoti Prior Authorization Policy
+Refractory symptoms of gastroparesis may require hospitalization for the treatment
+of symptoms and dehydration, and to achieve glucose control.
+Metoclopramide stimulates motility of the upper gastrointestinal tract without
+stimulating gastric, biliary, or pancreatic secretions; however, the exact mechanism
+of action in the treatment of diabetic gastroparesis has not been fully established.1
+Metoclopramide appears to sensitize tissues to the effects of acetylcholine and is
+inhibited by anticholinergic medications. Metoclopramide increases gastric
+contractions, relaxes the pyloric sphincter and duodenal bulb, and increases
+peristalsis of the duodenum and jejunum resulting in accelerated gastric emptying
+and small bowel transit time.1,5 Metoclopramide also increases the resting tone of
+the lower esophageal sphincter but has little to no effect on the motility of the colon
+or gallbladder. In addition, metoclopramide has antiemetic actions as an antagonist
+to dopamine receptors in the chemoreceptor trigger zone.
+Safety
+Gimoti has a Boxed Warning regarding tardive dyskinesia (TD).1 TD is syndrome of
+potentially irreversible and disfiguring involuntary movements of the face or
+tongue, and sometimes of the trunk and/or extremities. The risk of developing TD
+from treatment with metoclopramide is increased in the elderly, especially elderly
+women, and in patients with diabetes mellitus. The likelihood that TD will develop
+and become irreversible increases with duration of treatment with metoclopramide
+and total cumulative dosage. Avoid treatment with metoclopramide (all dosage
+forms and routes of administration) for longer than 12 weeks.
+Additional Warnings/Precautions associated with Gimoti include other
+extrapyramidal symptoms; neuroleptic malignant syndrome; depression and
+suicidal ideation/suicide; hypertension; fluid retention; hyperprolactinemia; effects
+on the ability to drive and operate machinery; and the risk of adverse reactions in
+patients with moderate or severe renal or hepatic impairment, CYP2D6 poor
+metabolizers, and patients taking strong CYP2D6 inhibitors.
+Gimoti is contraindicated in patients with a history of TD or a dystonic reaction to
+metoclopramide; when stimulation of gastrointestinal motility might be dangerous
+(e.g. in the presence of gastrointestinal hemorrhage, mechanical obstruction, or
+perforation); in patients with pheochromocytoma or other catecholamine-releasing
+paragangliomas; in patients with epilepsy; and in patients with hypersensitivity to
+metoclopramide. Of note, Gimoti is also not recommended as initial therapy in
+patients ≥ 65 years of age.
+Guidelines
+The American College of Gastroenterology (ACG) clinical guidelines for
+gastroparesis (2022) state that pharmacologic treatment should be considered in
+patients with idiopathic and diabetic gastroparesis to improve gastric emptying and
+gastroparesis symptoms while considering the benefits and risks of treatment (low
+evidence, conditional recommendation).2 ACG suggests treatment with
+metoclopramide over no treatment for the management of refractory symptoms of
+gastroparesis (low evidence, conditional recommendation). The guidelines do not
+4 Pages - Cigna National Formulary Coverage - Policy:Gastroenterology – Gimoti Prior Authorization Policy
+make specific recommendations regarding utilization between available dosage
+forms of metoclopramide (injection, tablets, or nasal spray).
+POLICY STATEMENT
+Due insufficient clinical efficacy data, approval is not recommended for Gimoti.
+The current Gimoti efficacy information is insufficient to determine if the medication
+demonstrates any clinically meaningful benefits.
+CONDITIONS NOT COVERED
+• Gimoti® (metoclopramide nasal spray - Evoke)
+is(are) considered not medically necessary for ANY use(s) including the
+following (this list may not be all inclusive; criteria will be updated as new
+published data are available):
+1. Diabetic gastroparesis. Due to the lack of clinically significant efficacy data,
+approval is not recommended for Gimoti.
+Gimoti was approved by the FDA under the 505(b)(2) pathway relying on
+existing safety and efficacy data for oral metoclopramide.1 No pivotal data with
+Gimoti are included in the prescribing information. The data leveraged with oral
+metoclopramide tablets are from US approval in 1979, involved small sample
+sizes, and with a short duration of therapy (< 4 weeks).
+A recently published (2024), double-blind, placebo-controlled, parallel-group,
+multicenter, Phase III study was conducted in adult females who were 18 to 75
+years of age with a diagnosis of type 1 or type 2 diabetes and symptoms of
+gastroparesis and delayed gastric emptying (n = 205).4 Patients were
+randomized 1:1 to receive metoclopramide nasal spray 10 mg or placebo for a
+28 day treatment period. Of note, Gimoti is available in a 15 mg nasal spray
+and a 10 mg nasal spray is not commercially available. Enrolled patients were
+mostly White (69%), postmenopausal, and < 65 years of age. The average age
+of patients was 52.7 years and the majority had type 2 diabetes (88%). The
+primary efficacy end point was the change in mean daily Gastroparesis
+Symptom Assessment total score from baseline to Week 4. The Gastroparesis
+Symptom Assessment daily diary is a patient-reported outcome questionnaire
+that averages scores of nausea, early satiety, prolonged fullness, bloating, and
+upper abdominal pain on a 5-point scale. The daily Gastroparesis Symptom
+Assessment total score is the average of the individual symptom scores during
+the treatment period. The mean daily Gastroparesis Symptom Assessment total
+score at baseline was 2.29 and a score > 2.7 was considered indicative of
+moderate to severe symptoms. Approximately half of all enrolled patients
+(49%) had not previously tried any diabetic gastroparesis treatment. Overall,
+the primary endpoint was not reached in the study as the metoclopramide nasal
+4 Pages - Cigna National Formulary Coverage - Policy:Gastroenterology – Gimoti Prior Authorization Policy
+spray group did not experience a significant reduction in symptoms compared
+with the placebo group from baseline to Week 4 (P = 0.881). In a post hoc
+analysis, approximately 100 patients with moderate to severe symptoms at
+baseline had a significant treatment effect from Weeks 1 to 3 (P < 0.05) and
+experienced a significant reduction in nausea and upper abdominal pain for all 4
+Weeks compared with placebo (P < 0.05). There were 190 patients who
+completed the study. The most common reasons for discontinuation were
+occurrence of adverse events, withdrawal of consent, loss to follow-up, or
+abnormal electrocardiograms. In general, adverse events were considered mild
+to moderate with headache and abdominal pain reported most frequently over
+28-day treatment period. Examples of limitations of the study include the
+patient population, which was limited to only women in the United States, and
+the dose of the metoclopramide nasal spray evaluated (10 mg) is not
+commercially available. The study also used a different gastroparesis symptom
+scale from each of the Phase II studies which evaluated metoclopramide nasal
+spray and are briefly summarized below. Current FDA guidelines suggest a 12-
+week study period for efficacy results, yet metoclopramide is not recommended
+for a treatment duration longer than 12 weeks. The study duration was 4 weeks
+which may be too short to identify TD as an adverse event or efficacy. Also, the
+post hoc analysis results for the moderate to severe subgroup were not powered
+for statistical significance.
+A previously published (2014), open-label, active-controlled, parallel-group,
+multicenter, Phase IIa study was performed in adults with a diagnosis of type 1
+or type 2 diabetes and diabetic gastroparesis who were randomized to
+metoclopramide 10 mg or 20 mg nasal spray, or 10 mg oral tablets (3:3:1,
+respectively) for 6 Weeks (n = 89).5 The primary efficacy endpoint was the
+change from baseline to Day 42 in the total symptom score. The total symptom
+score consisted of the sum of a patient-reported questionnaire regarding
+symptoms of nausea, vomiting, loss of appetite, bloating, early satiety, and
+persistent fullness and an investigator-scored symptom severity rating from 0 to
+4 (none, mild, moderate, marked, or severe; respectively). Metoclopramide 20
+mg nasal spray demonstrated significantly greater improvement in symptom
+control from baseline to Week 6 compared to the oral 10 mg tablet (P = 0.026).
+A pharmacokinetic analysis indicated comparable rates of rapid absorption of
+metoclopramide on Day 1 following a single treatment dose and on Day 42 for
+all three treatment groups. There were no statistically significant differences
+identified between the pharmacokinetic parameters of the nasal spray and oral
+tablet groups.
+A subsequently published (2015), double-blind, placebo-controlled, parallel-
+group, dose-ranging, multicenter, Phase IIb study was completed in adults with
+diabetic gastroparesis (n = 285).6 Adult patients ≤ 75 years of age were
+randomized 1:1:1 to metoclopramide nasal spray 10 mg, 14 mg, or placebo for
+4 weeks. The primary endpoint was in the change from baseline to Week 4 in
+the modified Gastroparesis Cardinal Symptom Index-Daily Dairy which consisted
+of 4 patient-reported symptoms (nausea, bloating, early satiety and upper
+abdominal pain). There was no statistically significant difference in reduction of
+4 Pages - Cigna National Formulary Coverage - Policy:Gastroenterology – Gimoti Prior Authorization Policy
+symptoms between the metoclopramide groups and placebo group. A subgroup
+analysis indicated a significant difference in female patients between placebo
+and both dose groups of metoclopramide nasal spray (P = 0.0215). In contrast,
+notably male patients had a greater decrease in the gastroparesis symptom
+scores in the placebo group than metoclopramide groups.
+2. Gastroesophageal reflux. Gimoti has not been evaluated for the treatment of
+gastroesophageal reflux disease.1
+3. Coverage is not recommended for circumstances not listed in the Recommended
+Authorization Criteria. Criteria will be updated as new published data are
+available.
+REFERENCES
+1. Gimoti® nasal spray [prescribing information]. Solana Beach, CA: Evoke; January 2021.
+2. Camilleri M, Kuo B, Nguyen L, et al. ACG Clinical Guideline: Gastroparesis. Am J Gastroenterol.
+2022;117(8):1197-1220.
+3. Moshiree B, Potter M, Talley NJ. Epidemiology and Pathophysiology of Gastroparesis. Gastrointest
+Endosc Clin N Am. 2019;29(1):1-14.
+4. McCallum RW, Parkman HP, Fass R, Bhandari BR, Carlson MR, Buck RD. Metoclopramide Nasal Spray
+in Women with Symptomatic Diabetic Gastroparesis: A Randomized, Double-Blind, Placebo-
+Controlled Phase 3 Study. Clin Gastroenterol Hepatol. 2024;22(12):2497-2505.e5.
+5. Parkman HP, Carlson MR, Gonyer D. Metoclopramide nasal spray is effective in symptoms of
+gastroparesis in diabetics compared to conventional oral tablet. Neurogastroenterol Motil.
+2014;26(4):521-528.
+6. Parkman HP, Carlson MR, Gonyer D. Metoclopramide Nasal Spray Reduces Symptoms of
+Gastroparesis in Women, but not Men, with Diabetes: Results of a Phase 2B Randomized Study. Clin
+Gastroenterol Hepatol. 2015;13(7):1256-1263.e1.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 03/19/2025
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2025 The Cigna
+Group.
+4 Pages - Cigna National Formulary Coverage - Policy:Gastroenterology – Gimoti Prior Authorization Policy

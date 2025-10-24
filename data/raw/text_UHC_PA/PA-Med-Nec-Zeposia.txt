@@ -1,0 +1,126 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2264-8
+Program Prior Authorization/Medical Necessity
+Medication Zeposia® (ozanimod)
+P&T Approval Date 12/2021, 5/2022, 1/2023, 4/2023, 4/2024, 10/2024, 11/2024, 4/2025
+Effective Date 6/1/2025
+1. Background:
+Zeposia® (ozanimod) is a sphingosine 1-phosphate receptor modulator indicated for the
+treatment of relapsing forms of multiple sclerosis (MS), to include clinically isolated
+syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults
+and moderately to severely active ulcerative colitis (UC) in adults.
+2. Coverage Criteriaa:
+A. Multiple Sclerosis
+1. Authorization
+a. Zeposia will be approved based on the following criterion:
+(1) Diagnosis of multiple sclerosis (MS)
+Authorization will be issued for 12 months.
+B. Ulcerative Colitis (UC)
+1. Initial Authorization
+a. Zeposia will be approved based on all of the following criteria:
+(1) Diagnosis of moderately to severely active UC
+-AND-
+(2) One of the following:
+(a) Patient has had prior or concurrent inadequate response to a therapeutic
+course of oral corticosteroids and/or immunosuppressants (e.g.,
+azathioprine, 6-mercaptopurine)
+-OR-
+(b) Patient has been previously treated with a biologic or targeted synthetic
+DMARD FDA-approved for the treatment of ulcerative colitis as
+documented by claims history or submission of medical records (Document
+drug, date, and duration of therapy) [e.g., adalimumab, Simponi
+© 2025 UnitedHealthcare Services, Inc.
+1
+(golimumab), ustekinumab, Xeljanz (tofacitinib), Rinvoq (upadacitinib)].
+-AND-
+(3) One of the following:
+(a) History of failure, contraindication, or intolerance to two of the following
+preferred products (document drug, date, and duration of trial):
+i. One of the preferred adalimumab productsb
+ii. Entyvio (vedolizumab)
+iii. Omvoh (mirikizumab-mrkz)
+iv. Rinvoq (upadacitinib)
+v. Simponi (golimumab)
+vi. Skyrizi (risankizumab)
+vii. One of the preferred ustekinumab productsb
+viii. Tremfya (guselkumab)
+ix. Xeljanz/Xeljanz XR (tofacitinib)
+-OR-
+(b) Both of the following:
+i. Patient is currently on Zeposia therapy as documented by claims history
+or submission of medical records (Document drug, date, and duration of
+therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from the Bristol Myers
+Squibb sponsored Zeposia 360 Support Program (e.g. sample card which
+can be redeemed at a pharmacy for a free supply of medication) as a
+means to establish as a current user of Zeposia*
+-AND-
+(4) Patient is not receiving Zeposia in combination with a targeted
+immunomodulator [e.g., adalimumab, Enbrel (etanercept), Cimzia
+(certolizumab), Simponi (golimumab), Orencia (abatacept), Xeljanz
+(tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib), ustekinumab,
+Skyrizi (risankizumab), Omvoh (mirikizumab-mrkz), Entyvio
+(vedolizumab)]
+-AND-
+(5) Prescribed by or in consultation with a gastroenterologist
+*Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance from
+© 2025 UnitedHealthcare Services, Inc.
+2
+the Bristol Myers Squibb sponsored Zeposia 360 Support Program shall be required to meet
+initial authorization criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Zeposia will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Zeposia therapy
+-AND-
+(2) Patient is not receiving Zeposia in combination with another targeted
+immunomodulator [e.g., adalimumab, Enbrel (etanercept), Cimzia
+(certolizumab), Simponi (golimumab), Orencia (abatacept), Xeljanz
+(tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib), ustekinumab,
+Skyrizi (risankizumab), Omvoh (mirikizumab-mrkz), Entyvio (vedolizumab)]
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+b For a list of preferred products please reference drug coverage tools.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Zeposia [package insert]. Summit, NJ: Celegene Corporation; August 2023.
+2. Feuerstein JD, Isaacs KL, Schneider Y, et al. AGA clinical practice guidelines on the
+management of moderate to severe ulcerative colitis. Gastroenterology. 2020; 158(5):1450-61.
+Program Prior Authorization/Medical Necessity – Zeposia® (ozanimod)
+Change Control
+12/2021 New program.
+5/2022 Added Xeljanz and Rinvoq as preferred products for failure,
+contraindication, or intolerance for Ulcerative Colitis and added Rinvoq
+as an example of JAK inhibitor. Updated reference.
+1/2023 Updated step therapy requirements to Humira or Amjevita. Updated
+listed examples from Humira to adalimumab.
+4/2023 Updated step therapy requirement from Humira or Amjevita to one of
+the preferred adalimumab products and added the footnote “For a list of
+© 2025 UnitedHealthcare Services, Inc.
+3
+preferred adalimumab products please reference drug coverage tools.”
+4/2024 Annual review. Updated not used in combination examples with no
+change to clinical intent. Updated reference.
+10/2024 Updated step requirement noting Adalimumab-adaz (unbranded
+Hyrimoz), Amjevita for Nuvaila, and Humira as preferred adalimumab
+products with no change to clinical intent. Removed preferred
+adalimumab footnote. Added Entyvio, Omvoh and Skyrizi as step
+therapy agents.
+11/2024 Added Tremfya as a step therapy agent.
+4/2025 Removed examples for adalimumab in step therapy. Changed Stelara
+step therapy to “One of the preferred ustekinumab productsc”. Changed
+Stelara example to Ustekinumab. Added the footnote “For a list of
+preferred products please reference drug coverage tools.”
+© 2025 UnitedHealthcare Services, Inc.
+4

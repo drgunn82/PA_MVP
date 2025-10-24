@@ -1,0 +1,234 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Inflammatory Conditions – Ilumya Prior Authorization Policy
+• Ilumya® (tildrakizumab-asmn subcutaneous injection – Sun)
+REVIEW DATE: 06/04/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Ilumya, an interleukin (IL)-23 blocker, is indicated for the treatment of moderate to
+severe plaque psoriasis in adults who are candidates for systemic therapy or
+phototherapy.1 It is administered subcutaneously at Weeks 0 and 4 and then once
+every 12 weeks thereafter. Ilumya should be administered by a healthcare
+professional. Safety and efficacy have not been established in patients < 18 years of
+age.
+Guidelines
+Joint guidelines from the American Academy of Dermatology and National Psoriasis
+Medical Board (2019) have been published for management of psoriasis with
+biologics.2 These guidelines list Ilumya as a monotherapy treatment option for
+patients with moderate to severe plaque psoriasis. Guidelines from the European
+Dermatology Forum (2025) recommend biologics (including Ilumya) as second-line
+therapy for most patients requiring systemic treatment when there is inadequate
+Page 1 of 5 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Ilumya Prior Authorization
+Policy
+response, contraindication, or intolerance to conventional systemic agents (e.g.,
+methotrexate, cyclosporine, acitretin).3
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Ilumya.
+Because of the specialized skills required for evaluation and diagnosis of patients
+treated with Ilumya as well as the monitoring required for adverse events and long-
+term efficacy, initial approval requires Ilumya to be prescribed by or in consultation
+with a physician who specializes in the condition being treated. All approvals are for
+the duration noted below. In cases where the approval is authorized in months, 1
+month is equal to 30 days.
+• Ilumya® (tildrakizumab-asmn subcutaneous injection – Sun)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Plaque Psoriasis. Approve for the duration noted if the patient meets ONE of the
+following (A or B):
+A) Initial Therapy. Approve for 3 months if the patient meets ALL of the following
+(i, ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has tried at least one traditional systemic agent for psoriasis for
+at least 3 months, unless intolerant; OR
+Note: Examples of one traditional systemic agent include methotrexate,
+cyclosporine, or acitretin tablets. A 3-month trial of psoralen plus
+ultraviolet A light (PUVA) also counts. An exception to the requirement
+for a trial of one traditional systemic agent for psoriasis can be made if
+the patient has already had a 3-month trial or previous intolerance to at
+least one biologic other than the requested drug. A biosimilar of the
+requested biologic does not count. Refer to Appendix for examples of
+biologics used for plaque psoriasis. A patient who has already tried a
+biologic for psoriasis is not required to “step back” and try a traditional
+systemic agent for psoriasis.
+b) Patient has a contraindication to methotrexate, as determined by the
+prescriber; AND
+iii. The medication is prescribed by or in consultation with a dermatologist; OR
+B) Patient is Currently Receiving Ilumya. Approve for 1 year if the patient meets
+ALL of the following (i, ii, and iii):
+i. Patient has been established on therapy for at least 3 months; AND
+Note: A patient who has received < 3 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+Page 2 of 5 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Ilumya Prior Authorization
+Policy
+ii. Patient experienced a beneficial clinical response, defined as improvement
+from baseline (prior to initiating the requested drug) in at least one of the
+following: estimated body surface area, erythema, induration/thickness,
+and/or scale of areas affected by psoriasis; AND
+iii. Compared with baseline (prior to initiating the requested drug), patient
+experienced an improvement in at least one symptom, such as decreased
+pain, itching, and/or burning.
+CONDITIONS NOT COVERED
+• Ilumya® (tildrakizumab-asmn subcutaneous injection – Sun)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Concurrent Use with a Biologic or with a Targeted Synthetic Oral Small
+Molecule Drug. This medication should not be administered in combination with
+another biologic or with a targeted synthetic oral small molecule drug used for an
+inflammatory condition (see Appendix for examples). Combination therapy is
+generally not recommended due to a potentially higher rate of adverse events and
+lack of controlled clinical data supporting additive efficacy.
+Note: This does NOT exclude the use of conventional synthetic DMARDs (e.g.,
+methotrexate, leflunomide, hydroxychloroquine, or sulfasalazine) in combination
+with this medication.
+REFERENCES
+1. Ilumya [prescribing information]. Cranbury, NJ: Sun; April 2024.
+2. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and
+treatment of psoriasis with biologics. J Am Acad Dermatol. 2019;80(4):1029-1072.
+3. Nast A, Spuls PI, Dressler C, et al. EuroGuiDerm guideline for the systemic treatment of psoriasis
+vulgaris. Updated February 2025. Available at:
+https://www.guidelines.edf.one/guidelines/psoriasis-guideline. Accessed on: 05/21/2025.
+4. Reich K, Papp KA, Blauvelt A, et al. Tildrakizumab versus placebo or etanercept for chronic plaque
+psoriasis (reSURFACE 1 and reSURFACE 2): results from two randomised controlled, phase 3
+trials. Lancet. 2017;390(10091):276-288.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 05/10/2023
+Revision
+Selected Plaque Psoriasis: For a patient currently taking Ilumya, the 03/27/2024
+Revision timeframe for established on therapy was changed from 90 days to 3
+months.
+Annual Plaque Psoriasis: In the Note, psoralen plus ultraviolet A light 06/12/2024
+Revision (PUVA) was removed from the examples of traditional systemic
+therapies. An additional Note was added that a 3-month trial of PUVA
+counts as a traditional systemic therapy.
+Page 3 of 5 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Ilumya Prior Authorization
+Policy
+Selected Conditions Not Covered: Concurrent use with a Biologic or with a 09/11/2024
+Revision Targeted Synthetic Oral Small Molecule Drug was changed to as listed
+(previously oral small molecule drug was listed as Disease-Modifying
+Antirheumatic Drug).
+Annual No criteria changes. 06/04/2025
+Revision
+APPENDIX
+Mechanism of Action Examples of Indications*
+Biologics
+Adalimumab SC Products (Humira®, Inhibition of TNF AS, CD, JIA, PsO, PsA, RA, UC
+biosimilars)
+Cimzia® (certolizumab pegol SC Inhibition of TNF AS, CD, nr-axSpA, PsO, PsA,
+injection) RA
+Etanercept SC Products (Enbrel®, Inhibition of TNF AS, JIA, PsO, PsA, RA
+biosimilars)
+Infliximab IV Products (Remicade®, Inhibition of TNF AS, CD, PsO, PsA, RA, UC
+biosimilars)
+Zymfentra® (infliximab-dyyb SC Inhibition of TNF CD, UC
+injection)
+Simponi®, Simponi Aria® (golimumab Inhibition of TNF SC formulation: AS, PsA, RA,
+SC injection, golimumab IV infusion) UC
+IV formulation: AS, PJIA,
+PsA, RA
+Tocilizumab Products (Actemra® IV, Inhibition of IL-6 SC formulation: PJIA, RA,
+biosimilar; Actemra SC, biosimilar) SJIA
+IV formulation: PJIA, RA,
+SJIA
+Kevzara® (sarilumab SC injection) Inhibition of IL-6 RA
+Orencia® (abatacept IV infusion, T-cell costimulation SC formulation: JIA, PSA, RA
+abatacept SC injection) modulator IV formulation: JIA, PsA, RA
+Rituximab IV Products (Rituxan®, CD20-directed cytolytic RA
+biosimilars) antibody
+Kineret® (anakinra SC injection) Inhibition of IL-1 JIA^, RA
+Omvoh® (mirikizumab IV infusion, SC Inhibition of IL-23 CD, UC
+injection)
+Ustekinumab Products (Stelara® IV, Inhibition of IL-12/23 SC formulation: CD, PsO,
+biosimilars; Stelara SC, biosimilars) PsA, UC
+IV formulation: CD, UC
+Siliq® (brodalumab SC injection) Inhibition of IL-17 PsO
+Cosentyx® (secukinumab SC injection; Inhibition of IL-17A SC formulation: AS, ERA, nr-
+secukinumab IV infusion) axSpA, PsO, PsA
+IV formulation: AS, nr-
+axSpA, PsA
+Taltz® (ixekizumab SC injection) Inhibition of IL-17A AS, nr-axSpA, PsO, PsA
+Bimzelx® (bimekizumab-bkzx SC Inhibition of IL- AS, nr-axSpA, PsO, PsA
+injection) 17A/17F
+Ilumya® (tildrakizumab-asmn SC Inhibition of IL-23 PsO
+injection)
+Skyrizi® (risankizumab-rzaa SC Inhibition of IL-23 SC formulation: CD, PSA,
+injection, risankizumab-rzaa IV infusion) PsO, UC
+IV formulation: CD, UC
+Tremfya® (guselkumab SC injection, Inhibition of IL-23 SC formulation: CD, PsA,
+guselkumab IV infusion) PsO, UC
+IV formulation: CD, UC
+Page 4 of 5 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Ilumya Prior Authorization
+Policy
+Entyvio® (vedolizumab IV infusion, Integrin receptor CD, UC
+vedolizumab SC injection) antagonist
+Oral Therapies/Targeted Synthetic Oral Small Molecule Drugs
+Otezla® (apremilast tablets) Inhibition of PDE4 PsO, PsA
+Cibinqo™ (abrocitinib tablets) Inhibition of JAK AD
+pathways
+Olumiant® (baricitinib tablets) Inhibition of JAK RA, AA
+pathways
+Litfulo® (ritlecitinib capsules) Inhibition of JAK AA
+pathways
+Leqselvi® (deuruxolitinib tablets) Inhibition of JAK AA
+pathways
+Rinvoq® (upadacitinib extended-release Inhibition of JAK AD, AS, nr-axSpA, RA, PsA,
+tablets) pathways CD, UC
+Rinvoq® LQ (upadacitinib oral solution) Inhibition of JAK PsA, PJIA
+pathways
+Sotyktu® (deucravacitinib tablets) Inhibition of TYK2 PsO
+Xeljanz® (tofacitinib tablets/oral Inhibition of JAK RA, PJIA, PsA, UC
+solution) pathways
+Xeljanz® XR (tofacitinib extended- Inhibition of JAK RA, PsA, UC
+release tablets) pathways
+Zeposia® (ozanimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+Velsipity® (etrasimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+* Not an all-inclusive list of indications. Refer to the prescribing information for the respective agent for
+FDA-approved indications; SC – Subcutaneous; TNF – Tumor necrosis factor; AS – Ankylosing
+spondylitis; CD – Crohn’s disease; JIA – Juvenile idiopathic arthritis; PsO – Plaque psoriasis; PsA –
+Psoriatic arthritis; RA – Rheumatoid arthritis; UC – Ulcerative colitis; nr-axSpA – Non-radiographic axial
+spondyloarthritis; IV – Intravenous, PJIA – Polyarticular juvenile idiopathic arthritis; IL – Interleukin;
+SJIA – Systemic juvenile idiopathic arthritis; ^ Off-label use of Kineret in JIA supported in guidelines;
+ERA – Enthesitis-related arthritis; DMARD – Disease-modifying antirheumatic drug; PDE4 –
+Phosphodiesterase 4; JAK – Janus kinase; AD – Atopic dermatitis; AA – Alopecia areata; TYK2 – Tyrosine
+kinase 2.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 5 of 5 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Ilumya Prior Authorization
+Policy

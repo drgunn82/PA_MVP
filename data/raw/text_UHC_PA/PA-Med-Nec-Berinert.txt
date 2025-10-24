@@ -1,0 +1,95 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2211-6
+Program Prior Authorization/Medical Necessity
+Medication Berinert® (C1 esterase inhibitor [human])
+P&T Approval Date 6/2020, 4/2021, 4/2022, 4/2023, 4/2024, 4/2025
+Effective Date 7/1/2025
+1. Background:
+Berinert is a plasma-derived C1 esterase inhibitor (human) indicated for the treatment of acute
+abdominal, facial, or laryngeal hereditary angioedema (HAE) attacks in adult and pediatric
+patients. The safety and efficacy of Berinert for prophylactic therapy have not been established.1
+2. Coverage Criteria a:
+A. Initial Authorization
+1. Berinert will be approved based on all of the following criteria:
+a. Diagnosis of hereditary angioedema (HAE) as confirmed by one of the following:
+(1) C1 inhibitor (C1-INH) deficiency or dysfunction (Type I or II HAE) as documented
+by one of the following (per laboratory standard):
+(a) C1-INH antigenic level below the lower limit of normal
+(b) C1-INH functional level below the lower limit of normal
+-OR-
+(2) HAE with normal C1 inhibitor levels and one of the following:
+(a) Confirmed presence of variant(s) in the gene(s) for factor XII, angiopoietin-1,
+plasminogen-1, kininogen-1, myoferlin, or heparan sulfate-glucosamine 3-O-
+sulfotransferase 6
+(b) Recurring angioedema attacks that are refractory to high-dose antihistamines
+with confirmed family history of angioedema
+(c) Recurring angioedema attacks that are refractory to high-dose antihistamines
+with unknown background de-novo mutation(s) (i.e., no family history) (HAE-
+unknown)
+-AND-
+b. Both of the following:
+(1) Prescribed for the acute treatment of HAE attacks
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+1
+(2) Not used in combination with other products indicated for the acute treatment of
+HAE attacks (e.g., Firazyr, Ruconest)
+-AND-
+c. Submission of medical records documenting a history of failure, contraindication, or
+intolerance to Ruconest (C1 esterase inhibitor [recombinant])
+-AND-
+d. Prescribed by one of the following:
+(1) Immunologist
+(2) Allergist
+Authorization of therapy will be issued for 12 months.
+B. Reauthorization
+1. Berinert will be approved based on all of the following criteria:
+a. Documentation of positive clinical response to Berinert therapy
+-AND-
+b. Both of the following:
+(1) Prescribed for the acute treatment of HAE attacks
+-AND-
+(2) Not used in combination with other products indicated for the acute treatment of
+HAE attacks (e.g., Firazyr, Ruconest)
+-AND-
+c. Prescribed by one of the following:
+(1) Immunologist
+(2) Allergist
+Authorization of therapy will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+© 2025 UnitedHealthcare Services, Inc.
+2
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Berinert [package insert]. Kankakee, IL: CSL Behring LLC; September 2021.
+2. Maurer M, Magerl M, Ansotegui I, et al. The international WAO/EAACI guideline for the
+management of hereditary angioedema-The 2017 revision and update. Allergy. 2018 Jan 10.
+3. Wu, E. Hereditary angioedema with normal C1 inhibitor. In: UpToDate, Saini, S (Ed),
+UpToDate, Waltham, MA, 2024.
+4. Busse, P., Christiansen, S., Riedl, M., et. al. “US HAEA Medical Advisory Board 2020
+Guidelines for the Management of Hereditary Angioedema.” The Journal of Allergy and Clinical
+Immunology. 2020 September 05.
+5. Maurer M, Magerl M, Betschel S, et al. The international WAO/EAACI guideline for the
+management of hereditary angioedema-The 2021 revision and update. Allergy. 2022;77(7):1961-
+1990. doi:10.1111/all.15214
+Program Prior Authorization/Medical Necessity - Berinert (C1 esterase inhibitor
+[human])
+Change Control
+6/2020 New program.
+4/2021 Added diagnosis criteria. Updated references.
+4/2022 Updated background to include the safety and efficacy for prophylactic
+use has not been established. Updated references.
+4/2023 Annual review. Updated references.
+4/2024 Annual review with update to examples of genetic variant(s) and
+diagnostic criteria with normal C1 inhibitor levels. Updated language
+for reauthorization criteria.
+4/2025 Annual review. No changes to coverage criteria.
+© 2025 UnitedHealthcare Services, Inc.
+3

@@ -1,0 +1,27 @@
+MVP_PA_Policies/
+│
+├── Streamlit/                      # Frontend interface
+│   ├── app.py                      # main Streamlit app
+│   └── components/                 # optional custom modules (e.g., sidebar, UI)
+│
+├── data/
+│   ├── raw/                        # raw downloaded PDFs
+│   ├── processed/                  # text-extracted + cleaned files
+│   ├── db/
+│   │   ├── chroma_UHC/             # UHC vector store
+│   │   ├── chroma_Cigna/           # Cigna vector store
+│   │   └── schema.json             # optional metadata or field schema
+│   └── embeddings/                 # archived embedding outputs (if exported)
+│
+├── scripts/
+│   ├── 01_download_pdfs.py         # web scraping or file download
+│   ├── 02_extract_text.py          # PDF → text extraction
+│   ├── 03_embed_documents.py       # create embeddings and store in Chroma
+│   └── 04_test_queries.py          # test retrieval and debug
+│
+├── .env                            # stores your OpenAI key, paths, etc.
+├── requirements.txt                # libraries for deployment
+├── README.md                       # explain your MVP goals and setup
+└── docs/
+    ├── MVP_overview.pptx           # conceptual / investor slides
+    └── test_feedback.xlsx          # early tester logs

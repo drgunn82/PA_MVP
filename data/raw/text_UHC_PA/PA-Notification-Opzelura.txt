@@ -1,0 +1,96 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1372-5
+Program Prior Authorization/Notification
+Medication Opzelura® (ruxolitinib)
+P&T Approval Date 11/2021, 4/2022, 9/2022, 9/2023, 12/2024
+Effective Date 3/1/2025
+1. Background:
+Opzelura (ruxolitinib) is a Janus kinase (JAK) inhibitor indicated for the topical short term and
+non-continuous chronic treatment of mild to moderate atopic dermatitis in non-
+immunocompromised patients 12 years of age and older whose disease is not adequately
+controlled with topical prescription therapies or when those therapies are not advisable. Opzelura
+is also indicated for the topical treatment of nonsegmental vitiligo in adult and pediatric patients
+12 years of age and older.
+Use of Opzelura in combination with therapeutic biologics, other JAK inhibitors or potent
+immunosuppressants such as azathioprine or cyclosporine is not recommended.
+2. Coverage Criteriaa:
+A. Atopic Dermatitis
+1. Initial Authorization
+a. Opzelura will be approved based on all of the following criteria:
+(1) Diagnosis of mild to moderate atopic dermatitis
+-AND-
+(2) History of failure, contraindication, or intolerance to topical therapies (e.g.,
+topical corticosteroids, topical calcineurin inhibitors)
+-AND-
+(3) Patient is not receiving Opzelura in combination with another biologic
+medication [e.g., Dupixent (dupilumab), Xolair (omalizumab), Rituxan
+(rituximab), Enbrel (etanercept), Avsola/Inflectra (infliximab)] or JAK inhibitor
+[e.g., Jakafi (ruxolitinib), Xeljanz (tofacitinib), Rinvoq (upadacitinib)]
+-AND-
+(4) Patient is not receiving Opzelura in combination with a potent
+immunosuppressant medication (e.g., azathioprine, cyclosporine)
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+1
+2. Reauthorization
+a. Opzelura will be approved based all of the following criteria:
+(1) Documentation of positive clinical response to therapy
+-AND-
+(2) Patient is not receiving Opzelura in combination with another biologic
+medication [e.g., Dupixent (dupilumab), Xolair (omalizumab), Rituxan
+(rituximab), Enbrel (etanercept), Avsola/Inflectra (infliximab)] or JAK inhibitor
+[e.g., Jakafi (ruxolitinib), Xeljanz (tofacitinib), Rinvoq (upadacitinib)]
+-AND-
+(3) Patient is not receiving Opzelura in combination with a potent
+immunosuppressant medication (e.g., azathioprine, cyclosporine)
+Authorization will be issued for 12 months.
+B. Nonsegmental Vitiligo
+1. Initial Authorization
+a. Opzelura will be approved based on all of the following criteria:
+(1) Diagnosis of nonsegmental vitiligo
+-AND-
+(2) Patient is not receiving Opzelura in combination with another biologic
+medication [e.g., Dupixent (dupilumab), Xolair (omalizumab), Rituxan
+(rituximab), Enbrel (etanercept), Avsola/Inflectra (infliximab)] or JAK inhibitor
+[e.g., Jakafi (ruxolitinib), Xeljanz (tofacitinib), Rinvoq (upadacitinib)]
+-AND-
+(3) Patient is not receiving Opzelura in combination with a potent
+immunosuppressant medication (e.g., azathioprine, cyclosporine)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Opzelura will be approved based all of the following criteria:
+(1) Documentation of positive clinical response to therapy
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+2
+(2) Patient is not receiving Opzelura in combination with another biologic
+medication [e.g., Dupixent (dupilumab), Xolair (omalizumab), Rituxan
+(rituximab), Enbrel (etanercept), Avsola/Inflectra (infliximab)] or JAK inhibitor
+[e.g., Jakafi (ruxolitinib), Xeljanz (tofacitinib), Rinvoq (upadacitinib)]
+-AND-
+(3) Patient is not receiving Opzelura in combination with a potent
+immunosuppressant medication (e.g., azathioprine, cyclosporine)
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Opzelura [package insert]. Wilmington, DE: Incyte Corporation; August 2024.
+Program Prior Authorization/Notification - Opzelura (ruxolitinib)
+Change Control
+11/2021 New program.
+4/2022 Changed initial authorization duration from 8 weeks to 12 months.
+9/2022 Added coverage criteria for nonsegmental vitiligo. Updated
+background, examples, and reference. Added state mandate footnote.
+9/2023 Annual review with no change to clinical criteria. Updated reference.
+12/2024 Annual review. Removed age requirement criteria. Updated vitiligo
+initial authorization to 12 months. Updated reference.
+© 2024 UnitedHealthcare Services, Inc.
+3

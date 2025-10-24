@@ -1,0 +1,204 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2099-14
+Program Prior Authorization/Medical Necessity – Buprenorphine Products (Pain
+Indications)
+Medication Belbuca® (buprenorphine hydrochloride film) and Butrans*®
+(buprenorphine patch, extended-release)
+P&T Approval Date 8/2016, 2/2017, 7/2017, 11/2017, 11/2018, 3/2019, 11/2019, 11/2020,
+11/2021, 4/2022, 8/2022, 10/2023, 10/2024
+Effective Date 1/1/2025
+1. Background:
+Belbuca and Butrans* are buprenorphine products indicated for the management of pain severe
+enough to require daily, around-the-clock, long-term opioid treatment for which alternative
+treatment options are inadequate. Similar to other long-acting opioids, the use of Belbuca and
+Butrans^ should be reserved for use in patients for whom alternative treatment options (e.g., non-
+opioid analgesics or immediate-release opioids) are ineffective, not tolerated, or inadequate to
+provide sufficient management of pain. Belbuca and Butrans* are not indicated for as-needed (prn)
+analgesics.
+The CDC recommends the following best practices in the prescription of long-acting opioids:
+• Nonopioid therapies are preferred for chronic pain.
+• Before starting opioid therapy, treatment goals should be established with patients that
+include realistic goals for pain and function and should consider how therapy will be
+discontinued if benefits do not outweigh risks. For some clinical context (e.g., headache or
+fibromyalgia), the expected benefits of initiating opioids are unlikely to outweigh the risks.
+Track pain and function at every visit (at least every 3 months) using a brief, validated
+instrument. Continue opioid therapy only if there is clinically meaningful improvement in
+pain and function that outweighs risks to patient safety.
+• When starting opioid therapy for chronic pain, clinicians should prescribe immediate-release
+opioids instead of extended-release/long-acting opioids.
+• Document the daily morphine milligram equivalents (MME) in mg/day from all sources of
+opioids. Access the state prescription drug monitoring program (PDMP) data at treatment
+initiation and periodically during treatment.
+• Caution should be used when prescribing opioid pain medication and benzodiazepines
+concurrently and consideration should be given to whether benefits outweigh risks of
+concurrent prescribing of opioids and other central nervous system depressants.
+• Screen for past and current substance abuse and for severe depression, anxiety, and PTSD
+prior to initiation.
+• Benefits and risks of toxicology testing should be considered to assess for prescribed and
+nonprescribed controlled substances.
+• Methadone should not be the first choice for a long-acting opioid. Only clinicians who are
+familiar with methadone’s unique risk profile and who are prepared to educate and closely
+monitor their patients should consider prescribing methadone for pain.
+• Avoid escalating doses above 50-90 mg/day MME unless sustained meaningful improvement
+in pain and function is attained.
+© 2024 UnitedHealthcare Services Inc.
+1
+• Clinicians should evaluate benefits and harms of continued therapy at least every 3 months.
+If benefits do not outweigh harms, clinicians should maximize other therapies and work
+closely with the patients to gradually reduce or taper opioids. Evaluation should include
+assessment of substance use disorder/opioid dependence. Validated scales (such as the
+DAST-10) are available at www.drugabuse.gov.
+Table 1. Maximum Recommended Dose Per Product Label
+Brand Active Ingredient Max Dose^
+Belbuca Buprenorphine (buccal film) 1800 mcg (900 mcg every 12 hours)
+Butrans* Buprenorphine (patch) 20 mcg/hour patch every 7 days
+^Doses are not considered equianalgesic and table does not represent a dose conversion chart.
+2. Coverage Criteriaa:
+A. Cancer or End of Life (defined as a < 2 year life expectancy) related painb
+1. Belbuca and buprenorphine patch (generic Butrans) will be approved based on the
+following criterion:
+a. Patient is being treated for pain due to active cancer diagnosis or end of life related
+pain (document cancer diagnosis or for end of life, expectancy of <2 years)
+Authorization will be issued for 24 months
+2. Butrans* (brand only) will be approved based on BOTH of the following:
+a. Patient is being treated for pain due to active cancer diagnosis or end of life related
+pain (document cancer diagnosis or for end of life, expectancy of < 2 years)
+-AND-
+b. The patient has a history of failure after a 30-day trial, contraindication or intolerance
+to both of the followingc:
+(1) Belbucad
+(2) buprenorphine patch (generic Butrans)
+Authorization will be issued for 24 months.
+B. Non-cancer pain
+1. Initial Authorization
+a. Belbuca and buprenorphine patch (generic Butrans) will be approved based on
+ALL of the following criteria:
+(1) The patient is being treated for pain severe enough to require daily, around-the-
+clock, longer-term opioid treatment.
+© 2024 UnitedHealthcare Services Inc.
+2
+-AND-
+(2) Prescriber attests to all of the following:
+(a) Pain is moderate to severe and expected to persist for an extended period of
+time
+(b) Pain is chronic
+(c) Medication is not being used for opioid dependence
+(d) Dose does not exceed the maximum recommended dose per product label.
+(See Table 1)
+-AND-
+(3) The patient is not receiving other long-acting opioids concurrently.
+b. Butrans* (brand only) will be approved based on ALL of the following criteria:
+(1) The patient is being treated for pain severe enough to require daily, around-the-
+clock, longer-term opioid treatment.
+-AND-
+(2) Prescriber attests to all of the following:
+(a) Pain is moderate to severe and expected to persist for an extended period of
+time
+(b) Pain is chronic
+(c) Medication is not being used for opioid dependence
+(d) Dose does not exceed the maximum recommended dose per product label.
+(See Table 1)
+-AND-
+(3) The patient is not receiving other long-acting opioids concurrently.
+-AND-
+(4) The patient has a history of failure after a 30-day trial, contraindication or
+intolerance to a trial BOTH of the following c:
+(a) Belbucad
+(b) buprenorphine patch (generic Butrans)
+Authorization for non-cancer pain will be issued for 6 months.
+© 2024 UnitedHealthcare Services Inc.
+3
+2. Reauthorization
+a. Belbuca or Butrans* (brand and generic) will be reauthorized based on ALL
+of the following:
+(1) Prescriber attests to ALL of the following:
+• Treatment goals are defined, including estimated duration of treatment.
+• Treatment plan includes the use of a non-opioid analgesic and/or non-
+pharmacologic intervention
+• Patient has been screened for substance abuse/opioid dependence
+• If used in patients with medical comorbidities or if used concurrently with a
+benzodiazepine or other drugs that could potentially cause drug-drug
+interactions, the prescriber has acknowledged that they have completed an
+assessment of increased risk for respiratory depression.
+• Pain is moderate to severe and expected to persist for an extended period of
+time
+• Pain is chronic
+• Pain is not postoperative (unless the patient is already receiving chronic
+opioid therapy prior to surgery, or if the postoperative pain is expected to be
+moderate to severe and persist for an extended period of time)
+-AND-
+(a) Patient demonstrates meaningful improvement in pain and function
+(Document improvement in function or pain score improvement)
+-AND-
+(b) Identify rationale for not tapering and discontinuing opioid. (Document
+rationale).
+-AND-
+(2) Dose does not exceed maximum dose recommended by product label (see Table
+1). (Document total daily dose).
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+b Coverage of medications to treat conditions associated with cancer may be approved based on
+state mandates.
+c In Connecticut, trial must be a generic product.
+d In Colorado, no trial will be required.
+© 2024 UnitedHealthcare Services Inc.
+4
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim
+logic. Use of automated approval and re-approval processes varies by program and/or
+therapeutic class.
+• Supply limits and/or Step may be in place.
+* Butrans brand is typically excluded from coverage. Tried/Failed criteria may be in place.
+Please refer to plan specifics to determine exclusion status.
+4. References:
+1. Belbuca [package insert]. Stoughton, MA: BioDelivery Sciences International, Inc.; December
+2023.
+2. Butrans [package insert]. Stamford, CT: Purdue Pharma L.P.; December 2023.
+3. Franklin GM. Opioids for chronic noncancer pain. A position paper of the American Academy
+of Neurology. Neurology. 2014;83:1277-1284.
+4. Argoff CE, Silvershein DI. A Comparison of Long- and Short-Acting Opioids for the
+Treatment of Chronic Noncancer Pain: Tailoring Therapy to Meet Patient Needs. Mayo Clin
+Proc. 2009;84(7):602-612.
+5. Dowell D, Haegerich TM, Chou R. CDC Guideline for Prescribing Opioids for Chronic Pain-
+United States, 2016. JAMA. Published online March 15, 2016.
+6. Dowell D, Ragan KR, Jones CM, Baldwin GT, Chou R. CDC Clinical Practice Guideline for
+Prescribing Opioids for Pain — United States, 2022. MMWR Recomm Rep 2022;71(No. RR-
+3):1–95. DOI: http://dx.doi.org/10.15585/mmwr.rr7103a1
+Program Prior Authorization/Medical Necessity – Buprenorphine Products (Pain
+Indications)
+Change Control
+Date Change
+8/2016 New program
+11/2016 Administrative change. Added California coverage information.
+2/2017 Separated criteria for Butrans and Belbuca to require trial and failure of
+Belbuca prior to approval of Butrans. Updated references.
+7/2017 State mandate reference language updated. Updated dose limit to allow
+for doses up to maximum recommended by the FDA Removed
+allowance for higher doses for pain management specialists. Removed
+need to provide specific assessment scores for reauthorization criteria.
+11/2017 Modified step one options for Butrans and removed for Belbuca.
+Updated Connecticut regulatory information. Updated authorization
+timeframe for cancer pain.
+11/2018 Annual review. Revised requirements to allow provider attestation on
+initial authorization and reauthorization.
+3/2019 Added criteria for exceeding maximum dose to Butrans initial
+authorization.
+11/2019 Added a note for stage four advanced metastatic cancer and state
+mandates. Revised cancer and end-of-life criterion.
+© 2024 UnitedHealthcare Services Inc.
+5
+11/2020 Added duration of trial requirement. Updated references.
+11/2021 Annual review. No changes.
+4/2022 Updated cancer medications state mandate note.
+8/2022 Removed step requirements from generic Butrans. Updated step
+requirements to include generic Butrans.
+10/2023 Annual review. Updated background information with updated CDC
+guidelines. Removed “routine audit” language from criteria. Updated
+references.
+10/2024 Annual review. Updated references.
+© 2024 UnitedHealthcare Services Inc.
+6

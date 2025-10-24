@@ -1,0 +1,168 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Cholbam Prior Authorization Policy
+• Cholbam® (cholic acid capsules – Mirum/Manchester)
+REVIEW DATE: 07/16/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Cholbam, a bile acid, is indicated for the following uses:1
+• Bile acid synthesis disorders due to single enzyme defects (SEDs).
+• Peroxisomal disorders (PDs), including Zellweger spectrum disorders,
+as adjunctive treatment in patients who exhibit manifestations of liver disease,
+steatorrhea, or complications from decreased fat soluble vitamin absorption.
+The effects of Cholbam on extrahepatic manifestations (e.g., neurologic symptoms)
+of bile acid synthesis disorders due to SEDs or PDs have not been established.1 The
+prescribing information states that treatment with Cholbam should be discontinued if
+liver function does not improve within 3 months of the start of treatment or if
+complete biliary obstruction develops.
+Bile Acid Synthesis Disorders
+Page 1 of 4 - Cigna National Formulary Coverage - Policy: Cholbam Prior Authorization Policy
+Bile acids are found in the liver and have several biological roles, including promotion
+of bile flow and intestinal absorption of fat and fat soluble vitamins.2 The two primary
+bile acids are cholic acid and chenodeoxycholic acid (available as Chenodal®
+[chenodiol tablets]). Bile acids are formed from cholesterol; inadequate bile acid
+production leads to accumulation of cholesterol in the body, as well as other
+intermediary metabolites. This can result in damage to various organ systems.
+Severe cases may progress to cirrhosis and liver failure. Progressive neurologic
+disease may also occur, even in the absence of liver disease.
+There are at least 17 known enzymes involved in bile acid synthesis. Primary bile
+acid synthesis disorders may be caused by a defect in the gene encoding any one of
+these enzymes. Enrollment criteria in the pivotal studies with Cholbam were based
+on abnormal urinary bile acids analysis by Fast Atom Bombardment ionization – mass
+spectrometry (FAB-MS).1 However, gene sequencing is now available for many of
+the affected enzymes.
+Peroxisomal Disorders (PDs)
+PDs occur due to genetic mutations to genes that are essential to the proper
+formation of peroxisomes.3 Among their many roles, peroxisomes are vital to the
+production of bile acids, as well as for neurologic function. Zellweger spectrum
+disorder is a type of PD and may be severe (Zellweger syndrome) or
+intermediate/milder (previously called neonatal adrenoleukodystrophy, infantile
+Refsum disease, or Heimler syndrome).4 Enrollment criteria in the pivotal trials were
+based on abnormal urinary bile acids analysis by FAB-MS and a neurologic exam.1
+However, molecular genetic testing is now available.4
+GUIDELINES
+A joint guideline by the North American and European Societies for Pediatric
+Gastroenterology, Hepatology, and Nutrition is available (2017).5 The guideline,
+which briefly addresses evaluation of cholestatic jaundice in infants, provides
+recommendations for diagnosis of bile acid synthesis disorders. While it is possible to
+perform rapid diagnosis of potential inborn errors in bile acid synthesis from urinary
+bile acid analysis, FAB-MS of urine is recommended. The guideline also notes that
+molecular techniques identify the specific mutations in genes encoding enzymes
+responsible for bile acid synthesis.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Cholbam. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Cholbam as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Cholbam to be prescribed by or in consultation with a physician who specializes in
+the condition being treated.
+4 Pages - Cigna National Formulary Coverage - Policy: Cholbam Prior Authorization Policy
+• Cholbam® (cholic acid capsules – Mirum/Manchester)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Bile Acid Synthesis Disorders Due to Single Enzyme Defects (SEDs).
+Approve for the duration noted if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 3 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient has at least ONE of the following (a or b):
+a) An abnormal urinary bile acid as confirmed by Fast Atom Bombardment
+ionization – Mass Spectrometry (FAB-MS) analysis; OR
+b) Molecular genetic testing consistent with the diagnosis; AND
+ii. The medication is prescribed by or in consultation with a hepatologist,
+metabolic specialist, or gastroenterologist; OR
+B) Patient is Currently Receiving Cholbam. Approve for 1 year if the patient meets
+ALL of the following (i, ii, and iii):
+i. Patient has responded to initial Cholbam therapy with an improvement in
+liver function tests (e.g., aspartate aminotransferase [AST], alanine
+aminotransferase [ALT], bilirubin levels); AND
+ii. Patient does not have complete biliary obstruction; AND
+iii. The medication is prescribed by or in consultation with a hepatologist,
+metabolic specialist, or gastroenterologist.
+2. Bile Acid Synthesis Disorders Due to Peroxisomal Disorders (PDs),
+Including Zellweger Spectrum Disorders. Approve for the duration noted if
+the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 3 months if the patient meets ALL of the following
+(i, ii, and iii):
+i. Patient has peroxisomal disorders with at least ONE of the following (a or
+b):
+a) An abnormal urinary bile acid analysis by Fast Atom Bombardment
+ionization – Mass Spectrometry (FAB-MS); OR
+b) Molecular genetic testing consistent with the diagnosis; AND
+ii. Patient has liver disease, steatorrhea, or complications from decreased fat
+soluble vitamin absorption (e.g., rickets); AND
+iii. The medication is prescribed by or in consultation with a hepatologist,
+metabolic specialist, or gastroenterologist; OR
+B) Patient is Currently Receiving Cholbam. Approve for 1 year if the patient meets
+ALL of the following (i, ii, and iii):
+i. According to the prescriber, patient has responded to initial Cholbam
+therapy; AND
+Note: Examples of a response to initial Cholbam therapy include
+improvements in liver enzymes or improvement in steatorrhea.
+ii. Patient does not have complete biliary obstruction; AND
+4 Pages - Cigna National Formulary Coverage - Policy: Cholbam Prior Authorization Policy
+iii. The medication is prescribed by or in consultation with a hepatologist,
+metabolic specialist, or gastroenterologist.
+CONDITIONS NOT COVERED
+• Cholbam® (cholic acid capsules – Mirum/Manchester)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Concomitant Use with Chenodal or Ctexli. There are no efficacy data available
+to support concomitant use of Cholbam and Chenodal or Ctexli.
+REFERENCES
+1. Cholbam® capsules [prescribing information]. Foster City, CA: Mirum; October 2024.
+2. Bile acid synthesis disorders. National Organization for Rare Diseases. Updated 2024. Available at:
+https://rarediseases.org/rare-diseases/bile-acid-synthesis-disorders/. Accessed on July 08, 2025.
+3. Zellweger spectrum disorders. National Organization for Rare Diseases. Updated 2020. Available at:
+https://rarediseases.org/rare-diseases/zellweger-spectrum-disorders/. Accessed on July 08, 205.
+4. Steinberg SJ, Raymond GV, Braverman NE, et al. Zellweger Spectrum Disorder. 2003 Dec 12
+[Updated 2020 Oct 29]. In: Adam MP, Ardinger HH, Pagon RA, et al., editors. GeneReviews®
+[Internet]. Seattle (WA): University of Washington, Seattle; 1993-2021. Updated October 29, 2020.
+Available from: https://www.ncbi.nlm.nih.gov/books/NBK1448/. Accessed on July 08, 2025.
+5. Fawaz R, Baumann U, Ekong U, et al. Guideline for the evaluation of cholestatic jaundice in infants:
+joint recommendations of the North American Society for Pediatric Gastroenterology, Hepatology,
+and Nutrition and the European Society for Pediatric Gastroenterology, Hepatology, and Nutrition. J
+Pediatr Gastroenterol Nutrition. 2017;64(1):154-168.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 07/19/2023
+Revision
+Annual No criteria changes. 07/24/2024
+Revision
+Annual Conditions Not Covered: Ctexli was added as a medication that 07/16/2025
+Revision should not be used concomitantly with Cholbam.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+4 Pages - Cigna National Formulary Coverage - Policy: Cholbam Prior Authorization Policy

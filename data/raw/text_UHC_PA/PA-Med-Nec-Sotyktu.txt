@@ -1,0 +1,137 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2297-5
+Program Prior Authorization/Medical Necessity
+Medication Sotyktu™ (deucravacitinib)
+P&T Approval Date 1/2023, 4/2023, 7/2023, 7/2024, 10/2024
+Effective Date 1/1/2025
+1. Background:
+Sotyktu is a tyrosine kinase 2 (TYK2) inhibitor indicated for the treatment of adults with
+moderate to severe plaque psoriasis who are candidates for systemic therapy or phototherapy.
+Limitations of Use:
+Not recommended for use in combination with other potent immunosuppressants.
+2. Coverage Criteriaa:
+A. Plaque Psoriasis
+1. Initial Authorization
+a. Sotyktu will be approved based on all of the following criteria:
+(1) Diagnosis of moderate to severe plaque psoriasis
+-AND-
+(2) One of the following:
+(a) All of the following:
+i. Greater than or equal to 3% body surface area involvement,
+palmoplantar, facial, genital involvement, or severe scalp psoriasis
+-AND-
+ii. History of failure to one of the following topical therapies, unless
+contraindicated or clinically significant adverse effects are experienced
+(document drug, date, and duration of trial):
+a. Corticosteroids (e.g., betamethasone, clobetasol, desonide)
+b. Vitamin D analogs (e.g., calcitriol, calcipotriene)
+c. Tazarotene
+d. Calcineurin inhibitors (e.g., tacrolimus, pimecrolimus)
+e. Anthralin
+f. Coal tar
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+1
+iii. History of failure to a 3 month trial of methotrexate at maximally
+indicated dose, unless contraindicated or clinically significant adverse
+effects are experienced (document date and duration of trial)b
+-OR-
+(b) Patient has been previously treated with a targeted immunomodulator FDA-
+approved for the treatment of plaque psoriasis as documented by claims
+history or submission of medical records (Document drug, date, and
+duration of therapy) [e.g., adalimumab, Cimzia (certolizumab), Enbrel
+(etanercept), Otezla (apremilast), Skyrizi (risankizumab-rzaa), Stelara
+(ustekinumab), Taltz (ixekizumab), Tremfya (guselkumab)]
+-OR-
+(c) Both of the following:
+i. Patient is currently on Sotyktu therapy as documented by claims history or
+submission of medical records (Document date and duration of therapy)
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from a manufacturer
+sponsored program (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a
+current user of Sotyktu*
+-AND-
+(3) Patient is not receiving Sotyktu in combination with another targeted
+immunomodulator [e.g., adalimumab, Bimzelx (bimekizumab-bkzx),
+Cimzia (certolizumab), Cosentyx (secukinumab), Enbrel (etanercept),
+Ilumya (tildrakizumab), Olumiant (baricitinib), Orencia (abatacept), Otezla
+(apremilast), Rinvoq (upadacitinib), Siliq (brodalumab), Simponi
+(golimumab), Skyrizi (risankizumab), Stelara (ustekinumab), Taltz
+(ixekizumab), Tremfya (guselkumab), Xeljanz (tofacitinib)]
+-AND-
+(4) Prescribed by or in consultation with a dermatologist
+* Patients requesting initial authorization who were established on therapy via the
+receipt of a manufacturer supplied sample at no cost in the prescriber’s office or any
+form of assistance from a manufacturer sponsored program shall be required to meet
+initial authorization criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+2
+2. Reauthorization
+a. Sotyktu will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Sotyktu therapy
+-AND-
+(2) Patient is not receiving Sotyktu in combination with another targeted
+immunomodulator [e.g., adalimumab, Bimzelx (bimekizumab-bkzx),
+Cimzia (certolizumab), Cosentyx (secukinumab), Enbrel (etanercept),
+Ilumya (tildrakizumab), Olumiant (baricitinib), Orencia (abatacept), Otezla
+(apremilast), Rinvoq (upadacitinib), Siliq (brodalumab), Simponi
+(golimumab), Skyrizi (risankizumab), Stelara (ustekinumab), Taltz
+(ixekizumab), Tremfya (guselkumab), Xeljanz (tofacitinib)]
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+b For Connecticut, Kentucky and Mississippi business only a 30-day trial will be required.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by
+program and/or therapeutic class.
+• Supply limits may be in place.
+4. Reference:
+1. Sotyktu [package insert]. Princeton, NJ: Bristol-Myers Squibb Company; September 2022
+2. Menter A, Gottlieb A, Feldman SR, et al. Guidelines of care for the management of psoriasis and
+psoriatic arthritis: Section 1. Overview of psoriasis and guidelines of care for the treatment of
+psoriasis with biologics. J Am Acad Dermatol 2008; 58(5):826-50.
+3. Gottlieb A, Korman NJ, Gordon KB, et al. Guidelines of care for the management of psoriasis
+and psoriatic arthritis. Psoriatic arthritis: Overview and guidelines of care for treatment with an
+emphasis on the biologics. J Am Acad Dermatol 2008;58(5):851-64.
+4. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and
+psoriatic arthritis. Section 3. Guidelines of care for the management and treatment of psoriasis
+with topical therapies. J Am Acad Dermatol 2009;60(4):643-59.
+5. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and
+psoriatic arthritis. Guidelines of care for the treatment of psoriasis with phototherapy and
+photochemotherapy. J Am Acad Dermatol 2010;62(1):114-35.
+6. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and
+psoriatic arthritis. Guidelines of care for the management and treatment of psoriasis with
+traditional systemic agents. J Am Acad Dermatol 2009;61(3):451-85.
+© 2024 UnitedHealthcare Services, Inc.
+3
+7. Nast A, et al; European S3-Guidelines on the systemic treatment of psoriasis vulgaris – update
+2015 – short version – EFF in cooperation with EADV and IPC, J Eur Acad Derm Venereol
+2015;29:2277-94.
+8. Menter A, Korman NJ, Elmets CA,Feldman SR, Gelfand JM, Gordon KB, Guidelines of care for
+the management of psoriasis and psoriatic arthritis: section 6. Guidelines of care for the treatment
+of psoriasis and psoriatic arthritis: case-based presentations and evidence-based conclusions. J
+Am Acad Dermatol. 2011 Jul;65(1):137-74.
+9. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management
+and treatment of psoriasis with biologics. J Am Acad Dermatol. 2019;80:1029-72.
+Program Prior Authorization/Medical Necessity - Sotyktu (deucravacitinib)
+Change Control
+1/2023 New program
+4/2023 Updated step therapy requirement from Humira or Amjevita to one of
+the preferred adalimumab products and added the footnote “For a list of
+preferred adalimumab products please reference drug coverage tools.”
+7/2023 Updated not receiving in combination language to targeted
+immunomodulator and updated examples.
+7/2024 Annual review. Updated step therapy criteria requirements. Updated
+state mandate foot note.
+10/2024 Removed step through preferred products. Added continuation of
+therapy to initial criteria. Removed preferred adalimumab footnote.
+Updated examples with no change to clinical intent.
+© 2024 UnitedHealthcare Services, Inc.
+4

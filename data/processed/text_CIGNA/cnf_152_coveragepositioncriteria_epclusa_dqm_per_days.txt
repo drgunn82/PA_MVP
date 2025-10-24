@@ -1,0 +1,191 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Hepatitis C – Epclusa Drug Quantity Management Policy – Per Days
+• Epclusa® (sofosbuvir/velpatasvir tablets and oral pellets − Gilead)
+• Sofosbuvir/velpatasvir tablets (authorized generic to Epclusa 400
+mg/100 mg tablets – Asegua)
+REVIEW DATE: 09/06/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+The fixed-dose combination of sofosbuvir, a hepatitis C virus (HCV) nucleotide
+analog NS5B polymerase inhibitor, and velpatasvir, an HCV NS5A inhibitor, is
+indicated for the treatment of chronic HCV genotype 1 through 6 infection in
+patients ≥ 3 years of age.1
+Dosing
+The FDA-approved duration of therapy with sofosbuvir/velpatasvir is 12 weeks for
+all patients.1 In patients with decompensated cirrhosis (Child-Pugh B or C),
+sofosbuvir/velpatasvir is administered with weight-based ribavirin.
+In adults, the recommended dose is one tablet (400 mg/100 mg) once daily (QD).1
+In pediatric patients ≥ 3 years of age, dosing is weight-based (Table 1).
+Table 1. Dosing in Pediatric Patients ≥ 3 Years of Age.2
+Body weight Daily Dose Epclusa oral pellets sofosbuvir/velpatasvir
+Daily Dose tablet (Epclusa,
+generic)
+Page 1 of 5 - Cigna National Formulary Coverage - Policy:Hepatitis C – Epclusa Drug Quantity Management
+Policy – Per Days
+Daily Dose
+< 17 kg 150 mg/37.5 mg One 150 mg/37.5 mg packet NA
+of pellets
+≥ 17 to < 30 250 mg/50 mg One 200 mg/50 mg packet of One 200 mg/50 mg tablet
+kg pellets
+≥ 30 kg 400 mg/100 mg Two 200 mg/50 mg packet of One 400 mg/100 mg
+pellets tablet*
+QD – Once daily; NA – Not applicable; *Two 200 mg/50 mg tablets once daily can be used for patients
+who cannot swallow the 400 mg/100 mg tablet.
+Availability
+Sofosbuvir/velpatasvir (Epclusa, generic) is available as a fixed-dose combination
+tablet of sofosbuvir 400 mg/velpatasvir 100 mg.1 Epclusa (brand only) is also
+available as fixed-dose combination tablet of sofosbuvir 200 mg/velpatasvir 50 mg
+as well as film-coated oral pellets of sofosbuvir 200 mg/velpatasvir 50 mg and
+sofosbuvir 150 mg/velpatasvir 37.5 mg.
+Guidelines
+American Association for the Study of Liver Diseases (AASLD) recommendations
+provide information regarding a longer duration of treatment (beyond 12 weeks) for
+certain circumstances.2 Although Vosevi® (sofosbuvir/velpatasvir/voxilaprevir
+tablets) is recommended in most instances for adults with no cirrhosis or
+compensated cirrhosis who have failed treatment with a sofosbuvir-containing
+regimen, sofosbuvir/velpatasvir is recommended in adults (genotypes 1 through 6)
+with decompensated cirrhosis who have failed therapy with a sofosbuvir-containing
+regimen. In this setting, AASLD guidelines recommend sofosbuvir/velpatasvir for
+24 weeks in combination with ribavirin. Data are limited to one Phase II study
+where sofosbuvir/velpatasvir was studied in patients with genotype 1, 2, and 3 who
+did not respond to velpatasvir-containing regimens including sofosbuvir/velpatasvir
+and Vosevi.2,3 Retreatment with sofosbuvir/velpatasvir + ribavirin for 24 weeks
+yielded high overall response rates (sustained virologic response 12 weeks post-
+treatment [SVR12] 91% [n = 63/69]). Among patients with genotype 1 chronic
+HCV, 97% of patients (n = 36/37) achieved SVR12. In patients with genotype 2
+chronic HCV, SVR12 was attained in 95% of patients (n = 13/14) and in patients
+with genotype 3 chronic HCV, SVR12 was attained in 78% of patients (n = 14/18).
+Baseline NS5A resistance associated substitutions did not appear to impact SVR
+rates. No breakdown of the proportion of patients with decompensated cirrhosis
+was provided in the study.
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to prevent
+stockpiling, misuse and/or overuse of sofosbuvir/velpatasvir (Epclusa, generic). If
+the Drug Quantity Management rule is not met for the requested medication at the
+point of service, coverage will be determined by the Criteria below. All approvals
+are provided for the duration noted below.
+5 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Epclusa Drug Quantity Management Policy –
+Per Days
+Drug Quantity Limits
+Product Strength and Form Retail and Home Delivery
+Maximum Quantity per 365 Days*
+Epclusa® 400 mg/100 mg tablets 84 tablets
+(sofosbuvir/velpatasvir (28 tablets per Rx)
+tablets [generic for 200 mg/50 mg tablets 84 tablets
+400mg/100 mg tablets only] (28 tablets per Rx)
+and oral pellets) 200 mg/50 mg oral pellets 84 pellet packets
+(28 packets per Rx)
+150 mg/37.5 mg pellets 84 pellet packets
+(28 packets per Rx)
+* This is enough drug for patient to complete a 12-week course of therapy based on approved dosing.
+Patients who weigh > 30 kg and require two pellet packets should use the 400 mg/100 mg tablets.
+Hepatitis C – Epclusa Drug Quantity Management Policy – Per Days
+product(s) is(are) covered as medically necessary when the following
+criteria is(are) met. Any other exception is considered not medically
+necessary.
+CRITERIA
+Sofosbuvir/velpatasvir 400 mg/100 mg tablet (Epclusa 400 mg/100 mg tablet,
+generic), Epclusa 200 mg/50 mg tablet
+1. Chronic Hepatitis C Virus (HCV) Genotype 1, 2, 3, 4, 5, or 6,
+Decompensated Cirrhosis (Child-Pugh B or C). Approve 168 tablets per
+365 days at retail or home delivery if the patient meets ALL of the following (A,
+B, C and D):
+A. Patient is ≥ 18 years of age; AND
+B. Patient has not been previously treated with sofosbuvir/velpatasvir (Epclusa,
+generic) or Vosevi. Note: For patients previously treated with
+sofosbuvir/velpatasvir (Epclusa, generic) or Vosevi see Criterion 2 below;
+AND
+C. Patient has decompensated cirrhosis (Child-Pugh B or C); AND
+D. Patient is ribavirin-ineligible, according to the prescriber.
+2. Chronic Hepatitis C Virus, Genotype 1, 2, 3, 4, 5, or 6, Decompensated
+Cirrhosis (Child-Pugh B or C), Prior Null Responder, Prior Partial
+Responder, and Prior Relapser to sofosbuvir/velpatasvir (Epclusa,
+generic) or Vosevi. Approve 168 tablets per 365 days at retail or home
+delivery if the patient meets ALL of the following (A, B, and C):
+A. Patient has been previously treated with sofosbuvir/velpatasvir (Epclusa,
+generic) or Vosevi; AND
+B. Patient has decompensated cirrhosis (Child-Pugh B or C); AND
+C. The medication will be prescribed in combination with ribavirin.
+3. For an indication or condition addressed as an approval in the above criteria
+section, approve the quantity requested, not to exceed 168 tablets per 365 days
+at retail or home delivery to complete a course therapy. Note: If the patient has
+received 3 weeks of therapy (21 tablets), approve 147 tablets to complete 24
+weeks of treatment.
+5 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Epclusa Drug Quantity Management Policy –
+Per Days
+Epclusa 150 mg/37.5 mg pellet packets
+1. Chronic Hepatitis C Virus, Genotype 1, 2, 3, 4, 5, or 6, Decompensated
+Cirrhosis (Child-Pugh B or C), Prior Null Responder, Prior Partial
+Responder, and Prior Relapser to sofosbuvir/velpatasvir (Epclusa,
+generic) or Vosevi. Approve 168 pellet packets per 365 days at retail or home
+delivery if the patient meets ALL of the following (A, B, and C):
+A. Patient has been previously treated with sofosbuvir/velpatasvir (Epclusa,
+generic) or Vosevi; AND
+B. Patient has decompensated cirrhosis (Child-Pugh B or C); AND
+C. The medication will be prescribed in combination with ribavirin.
+2. For an indication or condition addressed as an approval in the above criteria
+section, approve the quantity requested, not to exceed 168 pellet packets per
+365 days at retail or home delivery, to complete a course therapy.
+Note: If the patient has received 3 weeks of therapy (21 pellet packets),
+approve 147 pellet packets to complete 24 weeks of treatment.
+Epclusa 200 mg/50 mg pellet packets
+1. Chronic Hepatitis C Virus, Genotype 1, 2, 3, 4, 5, or 6, Decompensated
+Cirrhosis (Child-Pugh B or C), Prior Null Responder, Prior Partial
+Responder, and Prior Relapser to sofosbuvir/velpatasvir (Epclusa,
+generic) or Vosevi. Approve 336 pellet packets per 365 days at retail or home
+delivery if the patient meets ALL of the following (A, B, and C):
+A. Patient has been previously treated with sofosbuvir/velpatasvir (Epclusa,
+generic) or Vosevi; AND
+B. Patient has decompensated cirrhosis (Child-Pugh B or C); AND
+C. The medication will be prescribed in combination with ribavirin.
+2. For an indication or condition addressed as an approval in the above criteria
+section, approve the quantity requested, not to exceed 336 pellet packets per
+365 days at retail or home delivery, to complete a course therapy.
+Note: If the patient has received 3 weeks of therapy (21 pellet packets),
+approve 147 pellet packets to complete 24 weeks of treatment.
+REFERENCES
+1. Epclusa® tablets and oral pellets [prescribing information]. Foster City, CA: Gilead; April 2022.
+2. American Association for the Study of Liver Diseases and the Infectious Diseases Society of America.
+Testing, managing, and treating hepatitis C. Available at: http://www.hcvguidelines.org. Updated
+December 19, 2023. Accessed on August 27, 2024.
+3. Gane EJ, Shiffman ML, Etzkorn K, et al. Sofosbuvir-velpatasvir with ribavirin for 24 weeks in HCV
+patients previously treated with a direct-acting antiviral regimen. Hepatology. 2017;66(4):1083-
+1089.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+5 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Epclusa Drug Quantity Management Policy –
+Per Days
+Annual Sofosbuvir/velpatasvir 400 mg/100 mg tablet (Epclusa 400 09/05/2023
+Revision mg/100 mg tablet, generic), Epclusa 200 mg/50 mg tablet.
+Chronic Hepatitis C Virus (HCV) Genotype 1, 2, 3, 4, 5, or 6,
+Decompensated Cirrhosis (Child-Pugh B or C). Criteria were
+clarified to move the age requirement for ≥ 18 years to be within the
+criteria and remove “adults” from the approved indication.
+Annual No criteria changes. 09/06/2024
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group. © 2024 The Cigna Group.
+5 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Epclusa Drug Quantity Management Policy –
+Per Days

@@ -1,0 +1,78 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2364-1
+Program Prior Authorization/Medical Necessity
+Medication Tryngolza™ (olezarsen)
+P&T Approval Date 2/2025
+Effective Date 5/1/2025
+1. Background:
+Tryngolza™ (olezarsen) is an APOC-III-directed antisense oligonucleotide (ASO) indicated as
+an adjunct to diet to reduce triglycerides in adults with familial chylomicronemia syndrome
+(FCS).
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Tryngolza will be approved based on both of the following criteria:
+a. Both of the following:
+(1) Diagnosis of familial chylomicronemia syndrome (FCS) (i.e., monogenic
+chylomicronemia, type 1 hyperlipoproteinemia)
+-AND-
+(2) Diagnosis has been confirmed by both of the following:
+(a) One of the following:
+i. Genetic confirmation of biallelic pathogenic variants (i.e.,
+homozygosity, compound heterozygosity or double heterozygosity) in
+FCS-causing genes (i.e., LPL, GPIHBP1, APOA5, APOC2, or LMF1)
+-OR-
+ii. North American FCS (NAFCS) Score ≥ 45
+-AND-
+(b) Untreated fasting triglyceride levels greater than or equal to 880 mg/dL
+-AND-
+b. Prescribed by one of the following:
+(1) Cardiologist
+(2) Endocrinologist
+© 2025 UnitedHealthcare Services, Inc.
+1
+(3) Gastroenterologist
+(4) Lipid specialist (lipidologist)
+Authorization will be issued for 12 months
+B. Reauthorization
+1. Tryngolza will be approved based on both of the following criteria:
+a. Documentation of positive clinical response to Tryngolza therapy (e.g., reduction in
+triglycerides, reduction in episodes of acute pancreatitis)
+-AND-
+b. Prescribed by one of the following:
+(1) Cardiologist
+(2) Endocrinologist
+(3) Gastroenterologist
+(4) Lipid specialist (lipidologist)
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Tryngolza [package insert]. Carlsbad, CA: Ionis Pharmaceuticals, Inc.; December 2024.
+2. Stroes ESG, Alexander VJ, Karwatowska-Prokopczuk E, et al. Olezarsen, Acute
+Pancreatitis, and Familial Chylomicronemia Syndrome. N Engl J Med. 2024;390(19):1781-
+1792. doi:10.1056/NEJMoa2400201
+3. Davidson M, Stevenson M, Hsieh A, et al. The burden of familial chylomicronemia
+syndrome: Results from the global IN-FOCUS study. J Clin Lipidol. 2018;12(4):898-907.e2.
+doi:10.1016/j.jacl.2018.04.009
+4. Baass A, Paquette M, Bernard S, Hegele RA. Familial chylomicronemia syndrome: an under-
+recognized cause of severe hypertriglyceridaemia. J Intern Med. 2020;287(4):340-348.
+doi:10.1111/joim.13016
+5. Hegele RA, Ahmad Z, Ashraf A, et al. Development and validation of clinical criteria to identify
+familial chylomicronemia syndrome (FCS) in North America. J Clin Lipidol. Published online
+November 12, 2024. doi:10.1016/j.jacl.2024.09.008
+© 2025 UnitedHealthcare Services, Inc.
+2
+Program Prior Authorization/Medical Necessity - Tryngolza™ (olezarsen)
+Change Control
+Date Change
+2/2025 New program.
+© 2025 UnitedHealthcare Services, Inc.
+3

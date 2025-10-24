@@ -1,0 +1,136 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2136-9
+Program Prior Authorization/Medical Necessity
+Medication Strensiq® (asfotase alfa)
+P&T Approval Date 11/2017, 5/2019, 5/2020, 5/2021, 6/2021, 6/2022, 6/2023, 10/2023,
+10/2024
+Effective Date 1/1/2025
+1. Background:
+Strensiq® (asfotase alfa) is a tissue nonspecific alkaline phosphatase indicated for the treatment
+of patients with perinatal/infantile and juvenile-onset hypophosphatasia (HPP).
+2. Coverage Criteriaa:
+A. Initial Therapy
+1. Strensiq will be approved based on all of the following criteria:
+a. Diagnosis of perinatal/infantile or juvenile-onset hypophosphatasia based on all of
+the following:
+(1) One of the following:
+a. Onset of clinical signs and symptoms of hypophosphatasia prior to age 18
+years (e.g., respiratory insufficiency, vitamin B6 responsive seizures,
+hypotonia, failure to thrive, delayed walking, waddling gait, dental
+abnormalities, low trauma fractures)
+b. Radiographic evidence supporting the diagnosis of hypophosphatasia at the
+age of onset prior to age 18 (e.g., craniosynostosis, infantile rickets, non-
+traumatic fractures)
+-AND-
+(2) One of the following:
+a. Both of the following:
+i. Patient has low level activity of serum alkaline phosphatase (ALP)
+evidenced by an ALP level below the age and gender-adjusted normal
+range
+ii. Patient has an elevated level of tissue non-specific alkaline phosphatase
+(TNSALP) substrate (e.g., serum pyridoxal 5’-phosphate [PLP] level,
+serum or urine phosphoethanolamine [PEA] level, urinary inorganic
+pyrophosphate [PPi level])
+© 2024 UnitedHealthcare Services, Inc.
+1
+-OR-
+b. Confirmation of tissue-nonspecific alkaline phosphatase (TNSALP) gene
+mutation by ALPL genomic DNA testing*
+-AND-
+b. Prescribed by one of the following:
+(1) Endocrinologist
+(2) A specialist experienced in the treatment of metabolic bone disorders
+-AND-
+c. One of the following:
+(1) Both of the following:
+a. Diagnosis of perinatal/infantile-onset hypophosphatasia
+b. Request does not exceed a maximum supply limit of 9 mg/kg/week
+-OR-
+(2) Both of the following:
+a. Diagnosis of juvenile-onset hypophosphatasia
+b. Request does not exceed a maximum supply limit of 6 mg/kg/week
+-AND-
+d. One of the following:
+(1) Patient is prescribed Strensiq 18 mg/0.45 mL, Strensiq 28 mg/0.7 mL, or
+Strensiq 40 mg/mL vials
+-OR-
+(2) Both of the following:
+a. Patient is prescribed Strensiq 80 mg/0.8 mL vial
+b. Patient’s weight is greater than or equal to 40 kg
+Authorization will be issued for 6 months.
+*Results of prior genetic testing can be submitted as confirmation of diagnosis of HPP,
+however please note that the provider should confirm coverage status of any new
+genetic testing under the patient’s UnitedHealthcare plan prior to ordering.
+© 2024 UnitedHealthcare Services, Inc.
+2
+B. Reauthorization
+1. Strensiq will be approved based on all of the following criteria:
+a. Documentation of positive clinical response to Strensiq therapy (e.g., improvement in
+clinical symptoms, improvement in Radiographic Global Impression of Change)3,4
+-AND-
+b. Clinically relevant decrease from baseline in tissue non-specific alkaline
+phosphatase (TNSALP) substrate (e.g., serum pyridoxal 5’-phosphate [PLP] level,
+serum or urine phosphoethanolamine [PEA] level, urinary inorganic pyrophosphate
+[PPi level])
+-AND-
+c. Prescribed by one of the following:
+(1) Endocrinologist
+(2) A specialist experienced in the treatment of metabolic bone diseases
+-AND-
+d. One of the following:
+(1) Both of the following:
+a. Diagnosis of perinatal/infantile-onset hypophosphatasia
+b. Request does not exceed a maximum supply limit of 9 mg/kg/week
+-OR-
+(2) Both of the following:
+a. Diagnosis of juvenile-onset hypophosphatasia
+b. Request does not exceed a maximum supply limit of 6 mg/kg/week
+-AND-
+e. One of the following:
+(1) Patient is prescribed Strensiq 18 mg/0.45 mL, Strensiq 28 mg/0.7 mL, or
+Strensiq 40 mg/mL vials
+-OR-
+(2) Both of the following:
+a. Patient is prescribed Strensiq 80 mg/0.8 mL vials
+© 2024 UnitedHealthcare Services, Inc.
+3
+b. Patient’s weight is greater than or equal to 40 kg
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Strensiq [package insert]. Boston, MA: Alexion Pharmaceuticals, Inc.; July 2024.
+2. Choida V, Bubbear JS. Update on the management of hypophosphatasia. Ther Adv
+Musculoskelet Dis. 2019;11:1759720X19863997.
+Update on the management of hypophosphatasia - PMC (nih.gov)
+3. Michigami T, Ohata Y, Fujiwara M, et al. Clinical Practice Guidelines for Hypophosphatasia.
+Clin Pediatr Endocrinol. 2020;29(1):9-24.
+Clinical Practice Guidelines for Hypophosphatasia* - PMC (nih.gov)
+4. Bangura A, Wright L, Shuler T. Hypophosphatasia: Current Literature for Pathophysiology,
+Clinical Manifestations, Diagnosis, and Treatment. Cureus. 2020;12(6):e8594.
+Hypophosphatasia: Current Literature for Pathophysiology, Clinical Manifestations, Diagnosis,
+and Treatment - PMC (nih.gov)
+Program Prior Authorization/Medical Necessity – Strensiq (asfotase alfa)
+Change Control
+11/2017 New program.
+5/2019 Annual review. Updated references.
+5/2020 Annual review with no changes to coverage criteria. Updated reference.
+5/2021 Annual review. No changes to coverage criteria. Updated references.
+6/2021 Updated language to coverage of maximum supply limit.
+6/2022 Annual review. Added criterion for clinical response to reauthorization
+coverage criteria per prescribing information. Updated references.
+6/2023 Annual review with no changes to criteria. Updated references.
+10/2023 Annual review with no changes to criteria except removal of “routine
+audit” language.
+10/2024 Annual review with no changes to clinical coverage criteria. Updated
+references.
+© 2024 UnitedHealthcare Services, Inc.
+4

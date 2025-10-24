@@ -1,0 +1,153 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Dermatology − Hyftor Prior Authorization Policy
+• Hyftor® (sirolimus 0.2% topical gel − Nobelpharma)
+REVIEW DATE: 06/05/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Hyftor, a topical mammalian target of rapamycin inhibitor immunosuppressant, is
+indicated for the treatment of facial angiofibroma associated with tuberous
+sclerosis in patients ≥ 6 years of age.1
+Disease Overview
+Tuberous sclerosis complex is an autosomal dominant genetic disorder caused by
+mutations in two genes, tuberous sclerosis 1 and tuberous sclerosis 2.2-4 The
+incidence rate is approximately one in 6,000 to 10,000 births. It is characterized by
+non-cancerous (benign) tumors that grow in the brain, as well as in other vital organs
+such as the kidneys, heart, eyes, lungs, and skin. It can also impact the central
+nervous system causing seizures, impaired intellectual development, autism, and
+behavioral issues. The disease has great variability but can occur when patients are
+very young (around 1 year of age). Most patients (up to 80%) experience various
+skin conditions due to the disease such as angiofibromas, hypomelanotic macules,
+and cephalic plaques. Angiofibromas in the face usually appear in young children
+and gradually proliferate thereafter. This manifestation can be serious as well as
+disfiguring.
+Clinical Efficacy
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Dermatology ( Hyftor Prior Authorization Policy
+The efficacy of Hyftor for its approved use was evaluated in one Phase III,
+randomized, double-blind, vehicle-controlled, multicenter pivotal study conducted in
+Japan involving 62 patients who were 6 years of age and older.1,2 The trial enrolled
+patients with tuberous sclerosis complex who had three or more facial angiofibromas
+that were at least 2 mm in diameter with redness present in each. Patients also had
+a definitive diagnosis of tuberous sclerosis complex. Use of Hyftor reduced the lesion
+size and redness of the facial angiofibromas after 12 weeks of use compared with
+vehicle.1,2 The assessment at 4 weeks after discontinuation of Hyftor suggests that
+continuation of therapy is required for benefit.2 It is recommended that if symptoms
+do not improve within 12 weeks of Hyftor treatment, the need for continuing Hyftor
+should be reevalauted.1
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Hyftor. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Hyftor as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Hyftor to be prescribed by or in consultation with a physician who specializes in the
+condition being treated.
+• Hyftor® (sirolimus 0.2% topical gel ( Nobelpharma)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Facial Angiofibroma Associated with Tuberous Sclerosis. Approve for the
+duration noted below if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 3 months if the patient meets ALL of the following
+(i, ii, iii, and iv):
+i. Patient is ≥ 6 years of age; AND
+ii. Patient has a definitive diagnosis of tuberous sclerosis complex by meeting
+ONE of the following (a or b):
+a) There is identification of a pathogenic variant in the tuberous sclerosis
+complex 1 (TSC1) gene or tuberous sclerosis complex 2 (TSC2) gene by
+genetic testing; OR
+b) According to the prescriber, clinical diagnostic criteria suggest a
+definitive diagnosis of tuberous sclerosis complex by meeting either two
+major features or one major feature with two minor features; AND
+Note: Major feature criteria involve angiofibroma (three or more) or
+fibrous cephalic plaque; angiomyolipomas (two or more); cardiac
+rhabdomyoma; hypomelanotic macules (three or more; at least 5 mm
+in diameter); lymphangiomyomatosis; multiple cortical tubers and/or
+radial migration lines; multiple retinal hamartomas; Shagreen patch;
+3 Pages - Cigna National Formulary Coverage - Policy:Dermatology ( Hyftor Prior Authorization Policy
+subependymal giant cell astrocytoma; subependymal nodule (two or
+more); or ungula fibromas (two or more). Minor feature criteria involve
+“confetti” skin lesions; dental enamel pits (three or more); intraoral
+fibromas (two or more); multiple renal cysts; nonrenal hamartomas;
+retinal achromic patch; and sclerotic bone lesions.
+iii. Patient has three or more facial angiofibromas that are at least 2 mm in
+diameter with redness in each; AND
+iv. The medication is prescribed by or in consultation with a dermatologist or
+a physician who specializes in the management of patients with tuberous
+sclerosis complex; OR
+B) Patient Currently Receiving Hyftor. Approve for 1 year if the patient meets
+ALL of the following (i, ii, iii, and iv):
+i. Patient is ≥ 6 years of age; AND
+ii. Patient has a definitive diagnosis of tuberous sclerosis complex by meeting
+ONE of the following (a or b):
+a) There is identification of a pathogenic variant in the tuberous sclerosis
+complex 1 (TSC1) gene or tuberous sclerosis complex 2 (TSC2) gene by
+genetic testing; OR
+b) According to the prescriber, clinical diagnostic criteria suggest a
+definitive diagnosis of tuberous sclerosis complex by meeting either two
+major features or one major feature with two minor features; AND
+Note: Major feature criteria involve angiofibroma (three or more) or
+fibrous cephalic plaque; angiomyolipomas (two or more); cardiac
+rhabdomyoma; hypomelanotic macules (three or more; at least 5 mm
+in diameter); lymphangiomyomatosis; multiple cortical tubers and/or
+radial migration lines; multiple retinal hamartomas; Shagreen patch;
+subependymal giant cell astrocytoma; subependymal nodule (two or
+more); or ungula fibromas (two or more). Minor feature criteria involve
+“confetti” skin lesions; dental enamel pits (three or more); intraoral
+fibromas (two or more); multiple renal cysts; nonrenal hamartomas;
+retinal achromic patch; and sclerotic bone lesions.
+iii. Patient has responded to Hyftor as evidenced by a reduction in the size
+and/or redness of the facial angiofibromas, as determined by the
+prescriber; AND
+iv. The medication is prescribed by or in consultation with a dermatologist or
+a physician who specializes in the management of patients with tuberous
+sclerosis complex.
+CONDITIONS NOT COVERED
+• Hyftor® (sirolimus 0.2% topical gel ( Nobelpharma)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s); criteria will be updated as new published data are available)
+REFERENCES
+1. Hyftor® 0.2% topical gel [prescribing information]. Bethesda, MD: Nobelpharma; March 2022.
+3 Pages - Cigna National Formulary Coverage - Policy:Dermatology ( Hyftor Prior Authorization Policy
+2. Wataya-Kaneda M, Ohno Y, Fujita Y, et al. Sirolimus gel treatment vs. placebo for facial
+angiofibromas in patients with tuberous sclerosis complex. A randomized clinical trial. JAMA
+Dermatol. 2018;154(7):781-788.
+3. Krueger DA, Northrup H, on behalf of the International Tuberous Sclerosis Complex Consensus
+Group. Tuberous sclerosis complex surveillance and management: recommendations of the 2012
+international tuberous sclerosis complex consensus conference. Pediatric Neurol. 2013;49(4):255-
+265.
+4. Northrup H, Aronow ME, Bebin EM, et al, on behalf of the International Tuberous Sclerosis Complex
+Consensus Group. Updated international tuberous sclerosis complex diagnostic criteria and
+surveillance and management recommendations. Pediatric Neurol. 2021;123:50-66.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 05/24/2023
+Revision
+Annual No criteria changes. 06/05/2024
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2024 The Cigna
+Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Dermatology ( Hyftor Prior Authorization Policy

@@ -1,0 +1,138 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1308-6
+Program Prior Authorization/Notification
+Medication Ayvakit® (avapritinib)
+P&T Approval Date 2/2020, 2/2021, 9/2021, 9/2022, 7/2023, 7/2024
+Effective Date 10/1/2024
+1. Background:
+Ayvakit (avapritinib) is a kinase inhibitor indicated for the treatment of adults with unresectable or
+metastatic gastrointestinal stromal tumor (GIST) harboring a platelet-derived growth factor receptor
+alpha (PDGFRA) exon 18 mutation, including PDGFRA D842V mutations. Ayvakit is indicated for
+the treatment of adult patients with advanced systemic mastocytosis (AdvSM), including patients with
+aggressive systemic mastocytosis (ASM), systemic mastocytosis with an associated hematological
+neoplasm (SM-AHN), and mast cell leukemia (MCL). Ayvakit is not recommended for the treatment
+of patients with AdvSM with platelet counts of less than 50 x 109/L. Ayvakit is also indicated for the
+treatment of indolent systemic mastocytosis (ISM). Ayvakit is not recommended for the treatment of
+patients with ISM with platelet counts of less than 50 X 109/L.
+The National Comprehensive Cancer Network (NCCN) also recommends use as single agent therapy
+as continued treatment for limited progression of GIST, for unresectable, recurrent, or metastatic
+disease after failure on approved therapies. Additionally, NCCN recommends use for treatment of
+GIST with PDGFRA exon 18 mutations, including the PDGFRA D842V mutation, for disease that is
+unresectable, recurrent, metastatic, gross residual disease (R2 resection), or as treatment for resectable
+disease with significant morbidity that is insensitive to imatinib.
+The NCCN also recommends use of Ayvakit for treatment for myeloid/lymphoid neoplasms with
+eosinophilia and FIP1L1-PDGFRA rearrangement if PDGFRA D842V mutation is found which is
+resistant to imatinib.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of 19
+years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or under
+some circumstances. Some states also mandate usage of other Compendium references. Where such
+mandates apply, they supersede language in the benefit document or in the notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Ayvakit will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+1
+B. Gastrointestinal Stromal Tumor (GIST)
+1. Initial Authorization
+a. Ayvakit will be approved based on all of the following criteria:
+(1) Diagnosis of gastrointestinal stromal tumor (GIST)
+-AND-
+(2) One of the following:
+(a) Patient has unresectable, recurrent, or metastatic disease after failure on
+approved therapies (e.g., imatinib, sunitinib, dasatinib, regorafenib,
+ripretinib)
+-OR-
+(b) Both of the following:
+i. Disease is one of the following:
+• Unresectable
+• Resectable with significant morbidity
+• Metastatic
+• Recurrent
+• Limited progression
+• Gross residual disease (R2 resection)
+• Residual disease with significant morbidity
+-AND-
+ii. Presence of a platelet-derived growth factor receptor alpha (PDGFRA)
+exon mutation, including 18 D842V mutation
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Ayvakit will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Ayvakit
+therapy
+Authorization will be issued for 12 months.
+C. Myeloid/Lymphoid Neoplasms
+1. Initial Authorization
+a. Ayvakit will be approved based on all of the following criteria:
+© 2024 UnitedHealthcare Services, Inc.
+2
+(1) Diagnosis of myeloid/lymphoid neoplasms with eosinophilia
+-AND-
+(2) Presence of a FIP1L1-PDGFRA rearrangement
+-AND-
+(3) Presence of a PDGFRA D842V mutation
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Ayvakit will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Ayvakit
+therapy
+Authorization will be issued for 12 months.
+D. Systemic Mastocytosis
+1. Initial Authorization
+a. Ayvakit will be approved based on both of the following criteria:
+(1) Diagnosis of one of the following:
+(a) Advanced systemic mastocytosis
+(b) Aggressive systemic mastocytosis
+(c) Systemic mastocytosis with an associated hematologic neoplasm
+(d) Mast cell leukemia
+(e) Indolent systemic mastocytosis
+-AND-
+(2) Platelet count is greater than or equal to 50 x 109/L
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Ayvakit will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Ayvakit
+therapy
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+3
+E. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Ayvakit [package insert]. Cambridge, MA: Blueprint Medicines Corporation, May 2023.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+https://www.nccn.org/compendia-templates/compendia/nccn-compendia . Accessed on May
+29, 2024.
+Program Prior Authorization/Notification – Ayvakit (avapritinib)
+Change Control
+2/2020 New program.
+2/2021 Annual review. Updated criteria for GIST according to NCCN
+recommendations. Added criteria for Myeloid/Lymphoid neoplasms
+according to NCCN recommendations.
+9/2021 Added criteria for systemic mastocytosis according to label and NCCN
+recommendations.
+9/2022 Annual review. Updated GIST criteria per label and NCCN
+recommendations. Added state mandate footnote. Updated reference.
+7/2023 Annual review. Added criteria for indolent systemic mastocytosis
+according to label. Updated GIST criteria following resection per
+NCCN recommendations.
+7/2024 Annual review. Updated wording of systemic mastocytosis criteria per
+NCCN without change to clinical intent. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+4

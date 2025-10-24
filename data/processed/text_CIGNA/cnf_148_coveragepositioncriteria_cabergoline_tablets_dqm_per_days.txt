@@ -1,0 +1,137 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Cabergoline Drug Quantity Management Policy – Per Days
+• Cabergoline tablets – generic only
+REVIEW DATE: 07/03/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Cabergoline tablets are indicated for the treatment of hyperprolactinemic
+disorders, either idiopathic or due to pituitary adenomas.1
+Cabergoline has also been used off-label for the management of acromegaly,
+Parkinson’s disease, and Cushing’s syndrome.2-8
+Dosing
+The recommended dose of cabergoline for hyperprolactinemic disorder is 0.25 mg
+twice weekly.1 The dose may be increased by 0.25 mg twice weekly up to a
+maximum dose of 1 mg twice weekly (4 x 0.5 mg tablets/week). Dose adjustments
+should not occur more frequently than every 4 weeks. Some patients have
+required doses up to 11 mg/week to overcome resistance.2
+For acromegaly, cabergoline has been used at doses ranging from 0.3 mg/week to
+7 mg/week.3,4 For Parkinson’s disease, cabergoline has been used at doses up to
+20 mg/day5 For Cushing’s syndrome, cabergoline has been used at doses up to 7
+mg/week.8
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Cabergoline Drug Quantity Management Policy – Per
+Days
+Availability
+Cabergoline is available as 0.5 mg scored tablets in bottles containing 8 tablets.1
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of cabergoline. If the Drug Quantity Management rule
+is not met for the requested medication at the point of service, coverage will be
+determined by the Criteria below. All approvals are provided for 1 year in duration.
+Drug Quantity Limits
+Product Strength and Retail Home Delivery
+Form Maximum Quantity Maximum Quantity
+per 28 Days per 84 Days
+Cabergoline tablets 0.5 mg tablets 8 tablets* 24 tablets*
+* 8 tablets provide adequate quantity of medication for 4 weeks of therapy at retail or 12 weeks of
+therapy at home delivery at a dose of 0.5 mg twice weekly.
+Cabergoline Drug Quantity Management Policy – Per Days product(s)
+is(are) covered as medically necessary when the following criteria is(are)
+met. Any other exception is considered not medically necessary.
+CRITERIA
+1. If the patient has hyperprolactinemia, approve the requested quantity not to
+exceed 88 tablets per 28 days at retail or 264 tablets per 84 days at home
+delivery.
+Note: For hyperprolactinemic disorder, patients may require doses up to 11 mg
+per week to overcome resistance.2
+2. If the patient has acromegaly, approve the requested quantity not to exceed 56
+tablets per 28 days at retail or 168 tablets per 84 days at home delivery.
+Note: For acromegaly, cabergoline has been used at doses ranging from 0.3
+mg/week to 7 mg/week.3,4
+3. If the patient has Parkinson’s disease, approve the requested quantity not to
+exceed 1,120 tablets per 28 days at retail or 3,360 tablets per 84 days at home
+delivery at home delivery.
+Note: For Parkinson’s disease, cabergoline has been used at doses up to 20
+mg/day.5
+4. If the patient has Cushing’s syndrome, approve the requested quantity not to
+exceed 56 tablets per 28 days at retail or 168 tablets per 84 days at home
+delivery.
+Note: For Cushing’s syndrome, cabergoline has been used at doses up to 7
+mg/week.7
+4 Pages - Cigna National Formulary Coverage - Policy:Cabergoline Drug Quantity Management Policy – Per Days
+REFERENCES
+1. Cabergoline tablets [prescribing information]. Peapack, NJ: Greenstone; November 2022.
+2. Melmed S, Casanueva FF, Hoffman AR, et al. Diagnosis and treatment of hyperprolactinemia: an
+Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2011;96(2):273–288.
+Available at: https://www.endocrine.org/clinical-practice-guidelines/hyperprolactinemia.
+Accessed on June 20, 2024.
+3. Katznelson L, Laws ER, Melmed S, et al. Acromegaly: an Endocrine Society clinical practice
+guideline. J Clin Endorinol Metab. 2014;99(11)3933–3951. Available at:
+https://www.endocrine.org/clinical-practice-guidelines/acromegaly
+https://academic.oup.com/jcem/article/99/11/3933/2836347. Accessed on June 20, 2024.
+4. Sandret L, Maison P, Chanson P. Place of cabergoline in acromegaly: a meta-analysis. J Clin
+Endocrinol Metab. 2011;96(5):1327-1335.
+5. Pringsheim T, Day GS, Smith DB, et al. Dopaminergic therapy for motor symptoms in early
+Parkinson disease practice guideline. A report of the American Academy of Neurology
+subcommittee. Neurology. 2021;97(20):942-957. Available at:
+https://www.aan.com/Guidelines/home/GuidelineDetail/1043. Accessed on June 20, 2024.
+6. Odin, P, Oehlwein C, Stoarch A, et al. Efficacy and safety of high-dose cabergoline in Parkinson’s
+disease. Acta Neurol Scand. 2006;113(1):18-24.
+7. L. Niemen, B. Biller, J. Findling, et al. Treatment of Cushing’s Syndrome: An Endocrine Society
+Clinical Practice Guideline. J Clin Endocrinol Metab. 2015;100(8):2807–2831. Available at
+https://academic.oup.com/jcem/article/100/8/2807/2836065. Accessed June 20, 2024.
+8. Silber MH, Buchfuhrer MJ, Earley CJ, et al. The management of restless legs syndrome: an
+updated algorithm. Mayo Clin Proc. 2021;96(7):1921-1937.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Policy was updated to reflect the existing quantity limits when a 06/14/2023
+Revision product is obtained via home delivery.
+The following changes were made to the override criteria:
+• For a patient with acromegaly, override criteria were updated to
+approve the requested quantity not to exceed 56 tablets per 28
+days at retail or 168 tablets per 84 days at home delivery.
+Previously, this criterion approved the requested quantity for a 28-
+day supply at retail or an 84-day supply at home delivery.
+• For a patient with Parkinson’s disease, override criteria were
+updated to approve the requested quantity not to exceed 1,120
+tablets per 28 days at retail or 3,360 tablets per 84 days at home
+delivery. Previously, this criterion approved the requested quantity
+for a 28-day supply at retail or an 84-day supply at home delivery.
+• For a patient with restless legs syndrome, override criteria were
+updated to approve the requested quantity not to exceed 168
+tablets per 28 days at retail or 504 tablets per 84 days at home
+delivery. Previously, this criterion approved the requested quantity
+for a 28-day supply at retail or an 84-day supply at home delivery.
+• For a patient with Cushing’s syndrome, override criteria were
+updated to approve the requested quantity not to exceed 56
+tablets per 28 days at retail or 168 tablets per 84 days at home
+delivery. Previously, this criterion approved the requested quantity
+for a 28-day supply at retail or an 84-day supply at home delivery.
+Annual Override for an additional quantity of cabergoline 0.5 mg tablets for 07/03/2024
+Revision restless legs syndrome was removed.
+4 Pages - Cigna National Formulary Coverage - Policy:Cabergoline Drug Quantity Management Policy – Per Days
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. ©
+2024 The Cigna Group.
+4 Pages - Cigna National Formulary Coverage - Policy:Cabergoline Drug Quantity Management Policy – Per Days

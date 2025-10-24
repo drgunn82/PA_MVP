@@ -1,0 +1,276 @@
+STEP THERAPY POLICY
+POLICY: Beta Blocker Step Therapy Policy
+Products available generically
+• acebutolol capsules (generic only)
+• Tenormin® (atenolol tablets – AstraZeneca, generic)
+• betaxolol tablets (generic only)
+• bisoprolol tablets (generic only)
+• Coreg® (carvedilol tablets – Woodword, generic)
+• Coreg CR™ (carvedilol extended-release capsules – Woodword,
+generic)
+• labetalol tablets (generic only)
+• Lopressor® (metoprolol tartrate tablets – Novartis, Mylan, generic)
+• Toprol XL® (metoprolol succinate extended-release tablets – Aralez,
+generic)
+• Corgard® (nadolol tablets – King, generic)
+• pindolol tablets (generic only)
+• propranolol tablets (generic only)
+• Inderal® LA (propranolol extended-release capsules – Wyeth
+Ayerst, generic)
+• Betapace® (sotalol tablets – Covis, generic)
+• Betapace® AF (sotalol tablets – Covis, generic)
+• timolol tablets (generic only)
+• Tenoretic® (atenolol/chlorthalidone tablets – AstraZeneca, generic)
+• Lopressor® HCT (metoprolol/hydrochlorothiazide tablets – Novartis,
+generic)
+• propranolol/hydrochlorothiazide tablets (generic only)
+Products not available generically
+• bisoprolol fumarate 2.5 mg tablets (Brand) [TruPharma]
+• Bystolic™ (nebivolol tablets – Allergan)
+• labetalol 400 mg tablets (Brand) [Biocon Pharma]
+• Inderal XL® (propranolol extended-release capsules – Mist)
+• InnoPran XL® (propranolol extended-release capsules – Reliant)
+• Kapspargo™ Sprinkle (metoprolol succinate capsules extended-
+release – Ohm/Sun)
+• Metoprolol succinate/hydrochlorothiazide extended-release tablets
+– Solubiomix (brand product)
+REVIEW DATE: 06/18/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+Page 1 of 8 - Cigna National Formulary Coverage - Policy: Beta Blocker Step Therapy Policy
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Beta-blockers can be classified into four pharmacologic subgroups based on their
+effect on beta and alpha receptors: cardioselective beta-blockers, nonselective
+beta-blockers, combined alpha-beta blockers, and beta-blockers with intrinsic
+sympathomimetic activity (ISA).1-4 Cardioselective beta-blockers are those agents
+that preferentially block beta-1 receptors over beta-2 receptors. Non-selective
+beta-blockers block both the beta-1 and beta-2 receptors. Based on the
+mechanism of action, cardioselective beta-blockers may be safer than nonselective
+beta-blockers in patients with asthma, chronic obstructive pulmonary disease,
+peripheral arterial disease, and diabetes mellitus who require beta-blocker therapy.
+However, cardioselectivity appears to be dose-dependent and at higher doses,
+cardioselective agents may lose their selectivity. The dose at which
+cardioselectivity is lost varies from patient to patient. Combined alpha-beta
+blockers nonselectively block beta receptors as well as alpha receptors. Beta-
+blockers with ISA act as partial beta-receptor agonists and therefore, resting heart
+rate, cardiac output, and peripheral blood flow are not as reduced. Table 1
+classifies the beta-blockers by subgroup.
+Table 1. Beta-Blockers by Pharmacologic Subgroup.1-4
+Cardioselective Nonselective Combined alpha- Beta blockers
+beta-blockers beta-blockers beta blockers with ISA
+atenolol nadolol carvedilol acebutolol
+betaxolol propranolol carvedilol extended- penbutolol^
+bisoprolol propranolol extended- releaseº pindolol
+metoprolol tartrate release‡ labetalol
+metoprolol succinate XL timolol
+nebivolol+*†
+ISA – Intrinsic sympathomimetic activity; + May have vasodilatory properties; * In extensive
+metabolizers and at doses less than or equal to 10 mg nebivolol is preferentially beta selective. In poor
+1
+metabolizers and at higher doses, it is nonselective; † Available as Bystolic; ‡ Available as a generic and
+as InnoPran XL; º Available as Coreg CR; ^ Available as Levatol.
+8 Pages - Cigna National Formulary Coverage - Policy: Beta Blocker Step Therapy Policy
+All of the beta-blockers included in this policy are approved for the treatment of
+hypertension. Various reviews and guidelines address the role of beta-blockers in
+hypertension.1-8 Betaxolol, bisoprolol, labetalol, Bystolic™ (nebivolol tablets),
+Levatol® (penbutalol tablets), and pindolol are only indicated for the treatment of
+hypertension.1-9 The remaining beta-blockers (non-combination products) have at
+least one other indication. Such indications include angina pectoris, select
+arrhythmias, to treat and reduce cardiovascular (CV) mortality following a
+myocardial infarction (MI), to treat and reduce CV mortality in heart failure (HF),
+migraine prophylaxis, essential tremor, pheochromocytoma, and hypertrophic
+subaortic stenosis. All of the beta-blocker/diuretic combination products are
+indicated for the treatment of hypertension, although often not as initial therapy. It
+is notable that sotalol (Betapace, Betapace AF) is not indicated for use in
+hypertension but instead is used for the management of arrhythmias.3,4,10
+Specifically, Betapace/Betapace AF are indicated for the treatment of life-
+threatening ventricular arrhythmias as well as for the maintenance of normal sinus
+rhythm in patients with atrial fibrillation or flutter.10 Sotylize™ (sotalol
+hydrochloride oral solution) is not included in this program as a generic is not
+available.3,4,11 Also, Hemangeol™ (propranolol hydrochloride oral solution) is not
+included as this is indicated for the treatment of proliferating infantile hemangioma
+requiring systemic therapy.12
+Carvedilol, metoprolol succinate extended-release (XL) and Coreg CR™ (carvedilol
+extended-release capsules) are the only beta-blockers indicated in patients with
+HF14-16 with published data to support their use.17-20 Metoprolol succinate XL is
+indicated to reduce the risk of cardiovascular mortality and HF hospitalization in
+patients with HF.14 Carvedilol and Coreg CR are indicated for the treatment of mild
+to severe HF of ischemic or cardiomyopathic origin.15,16 In combination with
+angiotensin converting enzyme inhibitors, diuretics, and digitalis, both metoprolol
+succinate and carvedilol have been shown to decrease the rate of mortality and
+hospitalization. In addition, carvedilol and Coreg CR are indicated to reduce CV
+mortality in clinically stable patients who have survived the acute phase of an MI
+and have a left ventricular ejection fraction ≤ 40% with or without symptomatic HF.
+Data are available with bisoprolol in patients with HF.21
+Guidelines
+Beta blockers are mentioned in a variety of guidelines. Main guidelines are briefly
+summarized.
+• Heart Failure: In 2022, the American Heart Association (AHA), American
+College of Cardiology (ACC), and the Heart Failure Society of America
+published guidelines for the management of HF.22 The three beta-blockers
+proven to reduce mortality in patients with HF with reduced ejection fraction
+are bisoprolol, carvedilol, and sustained-release metoprolol succinate.
+Hospitalization can also be reduced with these agents.
+• Hypertension: The 2017 guidelines regarding the management of high
+blood pressure in adults by the ACC and the AHA prominently mention the
+benefits with beta blockers in selected patients.7
+• Chronic Coronary Disease: Guidelines for the management of patients
+with chronic coronary disease (CCD) from the AHA and the ACC (2023) state
+8 Pages - Cigna National Formulary Coverage - Policy: Beta Blocker Step Therapy Policy
+that in adults with CCD and hypertension (systolic blood pressure ≥ 130
+and/or diastolic blood pressure ≥ 80 mm Hg), in addition to
+nonpharmacological strategies, guideline-directed medication therapy with
+angiotensin-converting enzyme (ACE) inhibitors, angiotensin receptor
+blockers (ARB), or beta blockers are recommended as first-line therapy for
+compelling indications (e.g., recent MI or angina), with additional
+antihypertensive medications (e.g., dihydropyridine calcium channel blockers
+[CCB], long-acting thiazide diuretics, and/or mineralocorticoid receptor
+antagonists) added as needed to optimize blood pressure control.13 In
+patients with CCD and left ventricular ejection fraction (LVEF) ≤ 40% with or
+without previous MI, the use of beta-blocker therapy is recommended to
+reduce the risk of future major adverse CV events, including CV death. Also,
+in patients with CCD and LVEF < 50%, the use of sustained release
+metoprolol succinate, carvedilol, or bisoprolol with titration to target doses is
+recommended in preference to other beta blockers.
+POLICY STATEMENT
+The program is comprised of two rules: 1) Beta-Blocker Step Therapy rule (Step A)
+and 2) Sotalol Step Therapy rule (Step B). This program has been developed to
+encourage the use of a Step 1A product prior to a Step 2A Product and a Step 1B
+Product prior to the use of a Step 2B Product. If the Step Therapy rule is not met
+for the Step 2A or Step 2B Product at the point of service, coverage will be
+determined by the Step Therapy criteria below. All approvals are provided for 1
+year in duration.
+Beta-Blocker Step Therapy Rule
+Step 1A: generic beta-blockers (i.e., acebutolol, atenolol, betaxolol, bisoprolol,
+carvedilol, carvedilol extended-release, labetalol, metoprolol tartrate,
+nadolol, pindolol, propranolol, timolol, metoprolol succinate extended-
+release, propranolol extended-release), and generic beta-blocker
+combination products (i.e., atenolol/chlorthalidone,
+metoprolol/hydrochlorothiazide, propranolol/hydrochlorothiazide,)
+Step 2A: brand name beta-blockers (i.e., Bystolic, Tenormin, Coreg, Coreg CR,
+Lopressor, Toprol XL, Corgard, Inderal LA, InnoPran XL, Inderal XL) and
+brand name beta-blocker combination products (i.e., Tenoretic, Lopressor
+HCT, Metoprolol succinate/hydrochlorothiazide extended-release),
+Kapspargo Sprinkle, Labetalol 400 mg tablet (brand name product),
+Bisoprolol fumarate 2.5 mg tablet (brand name product)
+Sotalol Step Therapy Rule
+Step 1B: generic sotalol
+Step 2B: brand name Betapace, Betapace AF
+8 Pages - Cigna National Formulary Coverage - Policy: Beta Blocker Step Therapy Policy
+Beta Blocker Step Therapy Policy product(s) is(are) covered as medically
+necessary when the following step therapy criteria is(are) met. Any other
+exception is considered not medically necessary.
+CRITERIA
+Beta Blocker Step Therapy Rule
+1. If the patient has tried one Step 1A Product, approve a Step 2A Product.
+Note: Sotalol products do not count toward this requirement.
+2. Approve bisoprolol fumarate 2.5 mg tablets if the prescribed dose cannot be
+obtained with whole bisoprolol 5 mg or 10 mg tablets.
+3. Approve bisoprolol fumarate 2.5 mg tablets if the patient has bronchospastic
+disease.
+Sotalol Step Therapy Rule
+1. If the patient has tried one Step 1B Product, approve a Step 2B Product.
+2. If the strength of the requested Step 2B Product is not available generically,
+approve the Step 2B Product.
+REFERENCES
+1. MacLaughlin EJ, Saseen JJ. Hypertension. In: Dipiro JT, Talbert RL, Yee GC, et al, (Eds).
+Pharmacotherapy – A Pathophysiologic Approach. Eleventh Edition (11e). New York, NY: McGraw-
+Hill Education. Copyright 2019.
+2. Warmack TS, Estes MA, Heldenbrand S, Franks AM. Beta-adrenergic antagonists in hypertension:
+a review of the evidence. Ann Pharmacother. 2009;43(12):2031-2043.
+3. Ellison KE, Gandhi G. Optimising the use of β-adrenoceptor antagonists in coronary artery disease.
+Drugs. 2005;65(6):787-797.
+4. Facts and Comparisons® Online. Wolters Kluwer Health, Inc.; 2024. Available at
+http://efactsonline.com. Accessed on June 13, 2025. Search terms: beta-adrenergic blocking
+agents (beta-blockers).
+5. Aronow WS, Frishman WH. Contemporary drug treatment of hypertension: focus on recent
+guidelines. Drugs. 2018;78(5):567-576.
+6. Choi E, Pak G, Burket J. Beta blockers compared with other drug options for the treatment of
+hypertension. Am Fam Physician. 2018;93(3):online.
+7. 2017 ACC/AHA AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NM guideline for the prevention, detection,
+evaluation, and management of high blood pressure in adults: a report of the American College of
+Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. J Am Coll Cardiol.
+2018;71(19):2199-2269.
+8. The Medical Letter. Drugs for hypertension. Med Lett Drugs Ther. 2024;66(1703):81-88.
+9. Bystolic™ tablets [prescribing information]. Madison, NJ: Allergan/Mylan; August 2024.
+10. Betapace®/Betapace® AF tablets [prescribing information]. Zug, Switzerland: made for Covis
+Pharma; June 2023.
+11. Sotylize® oral solution [prescribing information]. Woburn, MA: Patheon/Azurity; January 2024.
+12. Hemangeol™ oral solution [prescribing information]. Parsippany, NJ: Pierre Fabre; June 2021.
+13. Virani SS, Newby LK, Arnold SV, et al. 2023 AHA/ACC/ACCP/ASPC/NLA/PCNA guideline for the
+management of patients with chronic coronary disease: a report of the American Heart
+8 Pages - Cigna National Formulary Coverage - Policy: Beta Blocker Step Therapy Policy
+Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines. J Am
+Coll Cardiol. 2023;82(9):833-955.
+14. Toprol-XL® tablets [prescribing information]. Lincolnshire, IL: Melinta; March 2023.
+15. Coreg® tablets [prescribing information]. Wixom, MI: Woodward; July 2023.
+16. Coreg phosphate extended-release capsules [prescribing information]. Wixom, MI: Woodward;
+February 2022.
+17. Hjalmarson A, Goldstein S, Fagerberg B, et al. Effects of controlled-release metoprolol on total
+mortality, hospitalizations, and well-being in patients with heart failure: The Metoprolol CR/XL
+Randomized Intervention Trial in Congestive Heart Failure (MERIT-HF). JAMA. 2000;283(10):1295-
+1302.
+18. Poole-Wilson P, Swedberg K, Cleland JGF, et al. Comparison of carvedilol and metoprolol on clinical
+outcomes in patients with chronic heart failure in the Carvedilol Or Metoprolol European Trials
+(COMET): randomized controlled trial. Lancet. 2003;362:7-13.
+19. Packer M, Coats AJS, Fowler MB, et al. Effect of carvedilol on survival in severe chronic heart failure.
+N Engl J Med. 2001;344(22):1651-1658.
+20. The CAPRICORN Investigators. Effect of carvedilol on outcome after myocardial infarction in patients
+with left-ventricular dysfunction: the CAPRICORN randomized trial. Lancet. 2001;357:1385-1390.
+21. CIBIS-II Investigators and Committees. The Cardiac Insufficiency Bisoprolol Study II (CIBIS-II): a
+randomized trial. Lancet. 1999;353:9-13.
+22. Heidenreich PA, Bizkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA guideline for the management of
+heart failure: a report of the American College of Cardiology/American Heart Association Joint
+Committee on Clinical Practice Guidelines. Circulation. 2022;145(18):e895-e1032.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 06/14/2023
+Revision
+Annual Byvalson was removed from Step 2a from the Beta Blocker Step 06/26/2024
+Revision Therapy as a beta blocker combination product as it is no longer
+available.
+Selected Labetalol 400 mg tablet (brand) was added to Step 2 of the Beta 01/08/2025
+Revision Blocker Step Therapy.
+Annual Bisoprolol/hydrochlorothiazide and 06/18/2025
+Revision nadolol/Bendroflumethiazide: Removed from Step 1A of the
+policy as they are no longer available.
+Ziac and Dutoprol: Removed from Step 2A of the policy as they
+are no longer available.
+Bisoprolol fumarate 2.5 mg tablets (Brand): Added to the
+policy as a Step 2A product with the following criteria: approve
+bisoprolol fumarate 2.5 mg tablets if the prescribed dose cannot be
+obtained with whole bisoprolol 5 mg or 10 mg tablets. A separate
+criterion was added to include approval if the patient has
+bronchospastic disease.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025
+The Cigna Group.
+8 Pages - Cigna National Formulary Coverage - Policy: Beta Blocker Step Therapy Policy

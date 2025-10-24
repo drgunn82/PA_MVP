@@ -1,0 +1,120 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2171-8
+Program Prior Authorization/Medical Necessity
+Medication Sunosi® (solriamfetol)
+P&T Approval Date 7/2019, 8/2019, 8/2020, 8/2021, 8/2022, 9/2022, 11/2023, 9/2024
+Effective Date 12/1/2024
+1. Background:
+Sunosi is a dopamine and norepinephrine reuptake inhibitor (DNRI) indicated to improve
+wakefulness in adult patients with excessive daytime sleepiness associated with narcolepsy or
+obstructive sleep apnea (OSA).
+Limitations of Use: Sunosi is not indicated to treat the underlying airway obstruction in OSA.
+Ensure that the underlying airway obstruction is treated (e.g., with continuous positive airway
+pressure (CPAP)) for at least one month prior to initiating Sunosi for excessive daytime
+sleepiness. Modalities to treat the underlying airway obstruction should be continued during
+treatment with Sunosi. Sunosi is not a substitute for these modalities.
+Members will be required to meet the coverage criteria below.
+2. Coverage Criteriaa:
+© 2024 UnitedHealthcare Services, Inc.
+1
+A. Narcolepsy
+1. Initial Authorization
+a. Sunosi will be approved based on all of the following criteria:
+(1) Diagnosis of narcolepsy as confirmed by sleep study (unless the prescriber provides
+justification confirming that a sleep study would not be feasible)
+–AND–
+(2) Symptoms of excessive daytime sleepiness (including but not limited to daily periods of
+irrepressible need to sleep or daytime lapses into sleep) are present.
+–AND–
+(3) History of failure, contraindication, or intolerance to both of the following:
+i. One of the following:
+1. Amphetamine based stimulant (e.g., amphetamine, dextroamphetamine)
+2. Methylphenidate based stimulant
+–AND–
+ii. One of the following:
+1. modafanil (Provigil)
+2. armodafanil (Nuvigil)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Sunosi will be approved for continuation of therapy based on the following criterion:
+(1) Reduction in symptoms of excessive daytime sleepiness associated with Sunosi therapy
+Authorization will be issued for 12 months.
+B. Obstructive Sleep Apnea
+1. Initial Authorization
+a. Sunosi will be approved based on all of the following criteria:
+(1) Diagnosis of obstructive sleep apnea defined by one of the following:
+i. Fifteen or more obstructive respiratory events per hour of sleep confirmed by a sleep
+© 2024 UnitedHealthcare Services, Inc.
+2
+study (unless the prescriber provides justification confirming that a sleep study would
+not be feasible)
+–OR–
+ii. Both of the following:
+1. Five or more obstructive respiratory events per hour of sleep confirmed by a
+sleep study (unless the prescriber provides justification confirming that a sleep
+study would not be feasible)
+–AND–
+2. One or more of the following signs/symptoms are present:
+(a) Daytime sleepiness
+(b) Nonrestorative sleep
+(c) Fatigue
+(d) Insomnia
+(e) Waking up with breath holding, gasping, or choking
+(f) Habitual snoring noted by bed partner or other observer
+(g) Observed apnea
+–AND–
+(2) Both of the following:
+i. Standard treatments for the underlying airway obstruction (e.g., continuous positive
+airway pressure [CPAP], bi-level positive airway pressure [BiPAP]) have been used
+for one month or longer
+–AND–
+ii. Patient is fully compliant with ongoing treatment(s) for the underlying airway
+obstruction
+–AND–
+(3) History of failure, contraindication, or intolerance to one of the following:
+i. armodafinil
+ii. modafinil
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Sunosi will be approved for continuation of therapy based on both the following criteria:
+© 2024 UnitedHealthcare Services, Inc.
+3
+(1) Reduction in symptoms of excessive daytime sleepiness associated with Sunosi therapy
+–AND–
+(2) Patient continues to be fully compliant with ongoing treatment(s) for the underlying
+airway obstruction (e.g. CPAP, BiPAP)
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit plan
+coverage may also impact coverage criteria. Other policies and utilization management programs may
+apply
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Sunosi [package insert]. New York, NY: Axsome Therapeutics, Inc; June 2023.
+2. American Academy of Sleep Medicine. International Classification of Sleep Disorders:
+Diagnostic and Coding Manual. 3rd ed. Darien, IL: American Academy of Sleep Medicine; 2014.
+3. Maski K, Trotti LM, Kotagal S, et al. Treatment of central disorders of hypersomnolence: an
+American 4. Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med.
+2021;17(9):1881–1893.
+4. Clinical guideline for the evaluation, management and long-term care of obstructive sleep apnea
+in adults. J Clin Sleep Med. 2009;5(3):263-276.
+Program Prior Authorization/Medical Necessity - Sunosi™ (solriamfetol)
+Change Control
+7/2019 New program
+8/2019 Changed from a trial of two previous medications to a trial of one in
+Obstructive Sleep Apnea section.
+8/2020 Annual review with no changes to clinical coverage criteria. Updated
+reference.
+8/2021 Annual review with no changes to clinical coverage criteria. Updated
+reference formatting.
+8/2022 Annual review with no changes to clinical coverage criteria. Updated
+references.
+9/2022 Updated references.
+11/2023 Annual review. Updated references.
+9/2024 Updated initial authorization to 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+4

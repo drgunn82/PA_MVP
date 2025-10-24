@@ -1,0 +1,158 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Infectious Disease – Ivermectin Tablets Prior Authorization Policy
+• Stromectol® (ivermectin tablets − Merck, generic)
+REVIEW DATE: 02/26/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Ivermectin tablets (Stromectol, generic), an anthelmintic, are indicated for the treatment of
+intestinal (i.e., non-disseminated) strongyloidiasis due to the nematode parasite
+Strongyloides stercoralis and for the treatment of onchocerciasis due to the nematode
+parasite Onchocerca volvulus.1 Ivermectin tablets do not have any activity against adult O.
+volvulus parasites and surgical excision of O. volvulus nodules is the recommended
+treatment.
+The prescribing information notes that ivermectin tablets are given as a single oral dose for
+these two indications.1 However, other sources note that ivermectin tablets should be given
+for 2 days for the treatment of strongyloidiasis.1-3
+Off-Label Uses
+Ivermectin has been used for many parasitic infections (off-label).2,3-6 The Centers for
+Disease Control and Prevention (CDC) notes ivermectin tablets as a treatment option for the
+following: ascariasis, gnathostomiasis, hookworm-related cutaneous larva migrans,
+pediculosis (pediculus humanus capitis, pediculus humanus corporis, and pediculosis pubis
+[due to Phthirus pubis]), scabies, trichuriasis, and Wucheria bancrofti infection (a main
+cause of lymphatic filariasis).7-15 There are data to support the use of ivermectin tablets for
+the treatment of enterobiasis, Demodex folliculorum, Mansonella ozzardi and M.
+streptocerca infections.6,16
+Page 1 of 6 - Cigna National Formulary Coverage - Policy: Infectious Disease – Ivermectin Tablets Prior
+Authorization Policy
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of ivermectin tablets.
+All approvals are provided for 1 month (30 days), which is an adequate duration of time for
+the patient to receive the required number of doses.
+• Stromectol® (ivermectin tablets (Merck, generic)
+is(are) covered as medically necessary when the following criteria is(are) met for
+FDA-approved indication(s) or other uses with supportive evidence (if applicable):
+FDA-Approved Indications
+1. Onchocerciasis Infection. Approve for one month.
+2. Strongyloidiasis. Approve for one month.
+Other Uses with Supportive Evidence
+3. Ascariasis. Approve for one month.
+4. Demodex folliculorum infection. Approve for one month.
+5. Enterobiasis (pinworm infection). Approve for one month.
+6. Gnathostomiasis. Approve for one month.
+7. Hookworm-related cutaneous larva migrans. Approve for one month.
+8. Mansonella ozzardi infection. Approve for one month.
+9. Mansonella streptocerca infection. Approve for one month.
+10. Pediculosis. Approve for one month if the patient meets ONE of the following (A, B, or
+C):
+A) Patient has infection caused by pediculus humanus capitis (head lice); OR
+B) Patient has infection caused by pediculus humanus corporis (body lice); OR
+C) Patient has pediculosis pubis caused by Phthirus pubis (pubic lice).
+11. Scabies. Approve for one month if the patient meets ONE of the following (A, B, C, D,
+or E):
+A) Patient has classic scabies; OR
+B) Patient has treatment-resistant scabies; OR
+C) Patient is unable to tolerate topical treatment; OR
+D) Patient has crusted scabies (i.e., Norwegian scabies); OR
+E) Patient is using ivermectin tablets for prevention and/or control of scabies.
+12. Trichuriasis. Approve for one month.
+13. Wucheria bancrofti infection. Approve for one month.
+3 Pages - Cigna National Formulary Coverage - Policy:Infectious Disease – Ivermectin Tablets Prior Authorization
+Policy
+CONDITIONS NOT COVERED
+• Stromectol® (ivermectin tablets (Merck, generic)
+is(are) considered experimental, investigational, or unproven for ANY other use(s)
+including the following (this list may not be all inclusive; criteria will be updated
+as new published data are available):
+1. Coronavirus disease 2019 (COVID-19). The Infectious Disease Society of America
+(IDSA) guidelines on the treatment of management of patients with COVID-19 (updated
+2022) reviewed studies that assessed the efficacy of oral ivermectin in the treatment of
+COVID-19.17 The IDSA reviewed data from several clinical trials and cited the following
+findings: oral ivermectin did not reduce mortality; failed to demonstrate a beneficial or
+detrimental effect on symptoms, hospitalization or viral clearance; and compared with
+standard of care, oral ivermectin did not result in differences in all-cause mortality,
+hospital length of stay, or the need for mechanical ventilation. The IDSA recommends
+against the use of ivermectin for the treatment of COVID-19, except in clinical trials.
+REFERENCES
+1. Stromectol® tablets [prescribing information]. Whitehouse Station, NJ: Merck; May
+2022.
+2. Clinical Pharmacology [database online]. Tampa, FL: Gold Standard, Inc.; 2025.
+Available at: https://www.clinicalkey.com/pharmacology/. Accessed on February 20,
+2025. Search term: ivermectin.
+3. Facts and Comparisons Online. Wolters Kluwer Health, Inc.; 2025. Available at:
+http://fco.factsandcomparisons.com/lco/action/home. Accessed on February 20, 2025.
+Search term: ivermectin.
+4. Centers for Disease Control and Prevention. About Onchocerciasis. Available at:
+https://www.cdc.gov/filarial-worms/about/onchocerciasis.html?CDC_AAref_Val=.
+Accessed on February 20, 2025.
+5. Centers for Disease Control and Prevention. Chapter 5. Travel-related infectious
+diseases. Available at: https://wwwnc.cdc.gov/travel/yellowbook/2024/table-of-
+contents. Accessed on February 20, 2025.
+6. Micromedex® (electronic version). IBM Watson Health, Greenwood Village, Colorado,
+USA. Available at: https://www.micromedexsolutions.com/. Accessed on February 20,
+2025. Search term: ivermectin.
+7. Centers for Disease Control and Prevention. About Ascariasis. Available at:
+https://www.cdc.gov/sth/about/ascariasis.html?CDC_AAref_Val=. Accessed on February
+20, 2025.
+8. Centers for Disease Control and Prevention. About Gnathostomiasis. Available at:
+https://www.cdc.gov/gnathostoma/about/?CDC_AAref_Val=. Accessed on February 20,
+2025.
+9. Centers for Disease Control and Prevention. About Zoonotic Hookworm. Available at:
+https://www.cdc.gov/zoonotic-hookworm/about/index.html?CDC_AAref_Val=. Accessed
+on February 20, 2025.
+10. Centers for Disease Control and Prevention. About Head Lice. Available at:
+https://www.cdc.gov/lice/about/head-lice.html?CDC_AAref_Val=. Accessed on February
+20, 2025.
+11. Centers for Disease Control and Prevention. Parasites – Lice. Available at:
+https://www.cdc.gov/lice/?CDC_AAref_Val= Accessed on February 20, 2025.
+3 Pages - Cigna National Formulary Coverage - Policy:Infectious Disease – Ivermectin Tablets Prior Authorization
+Policy
+12. Centers for Disease Control and Prevention. About Public “Crab” Lice. Available at:
+https://www.cdc.gov/lice/about/pubic-lice.html?CDC_AAref_Val=. Accessed on February
+20, 2025.
+13. Centers for Disease Control and Prevention. About Scabies. Available at:
+https://www.cdc.gov/scabies/about/?CDC_AAref_Val=. Accessed on February 20, 2025.
+14. Centers for Disease Control and Prevention. About Whipworms. Available at:
+https://www.cdc.gov/sth/about/whipworms.html?CDC_AAref_Val=. Accessed on
+February 20, 2025
+15. Centers for Disease Control and Prevention. About Lymphatic filariasis. Available at:
+https://www.cdc.gov/filarial-worms/about/lymphatic-filariasis.html?CDC_AAref_Val=.
+Accessed on February 20, 2025.
+16. Ta-Ting TH, Crainey JL, Post RJ, et al. Mansonellosis: current perspectives. Res Rep
+Trop Med. 2018; 9:9-24.
+17. Bhimraj A, Morgan RL, Nadig N, et al. IDSA guidelines on the treatment and
+management of patients with COVID-19. Clin Infect Dis. 2024;78(7): e250-e349.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 09/13/2023
+Revision
+Early Annual For all indications, the number of approvable doses was 02/28/2024
+Revision removed. All approval durations remain for one month.
+Annual No criteria changes. 02/26/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and
+services are provided exclusively by or through such operating subsidiaries, including Cigna
+Health and Life Insurance Company, Connecticut General Life Insurance Company,
+Evernorth Behavioral Health, Inc., Cigna Health Management, Inc., and HMO or service
+company subsidiaries of The Cigna Group. © 2025 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Infectious Disease – Ivermectin Tablets Prior Authorization
+Policy

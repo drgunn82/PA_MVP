@@ -1,0 +1,436 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2238-10
+Program Prior Authorization/Medical Necessity
+Medications *Xolair®(omalizumab)
+*This program applies to the prefilled syringe and prefilled autoinjector
+formulations for self-administered subcutaneous use
+P&T Approval Date 6/2021, 11/2021, 2/2022, 9/2022, 7/2023, 10/2023, 4/2024, 5/2024,
+6/2024, 4/2025
+Effective Date 7/1/2025
+1. Background:
+Xolair (omalizumab) is an anti-IgE antibody indicated for:
+• Moderate to severe persistent asthma in adults and pediatric patients 6 years of age and older
+with a positive skin test or in vitro reactivity to a perennial aeroallergen and symptoms that are
+inadequately controlled with inhaled corticosteroids
+• Chronic rhinosinusitis with nasal polyps (CRSwNP) in adult patients 18 years of age and older
+with inadequate response to nasal corticosteroids, as add-on maintenance treatment
+• IgE-mediated food allergy in adult and pediatric patients aged 1 year and older for the reduction
+of allergic reactions (Type I), including anaphylaxis, that may occur with accidental exposure
+to one or more foods. To be used in conjunction with food allergen avoidance.
+• Chronic spontaneous urticaria (CSU) in adults and adolescents 12 years of age and older who
+remain symptomatic despite H1 antihistamine treatment
+Limitations of Use:
+• Xolair is not indicated for acute bronchospasm or status asthmaticus.
+• Xolair is not indicated for the emergency treatment of allergic reactions, including anaphylaxis.
+• Xolair is not indicated for other forms of urticaria.
+2. Coverage Criteria:
+A. Asthma
+1. Initial Authorization
+a. Xolair will be approved based on one of the following criteria:
+(1) All of the following:
+(a) Patient has been established on therapy with Xolair for moderate to severe
+persistent asthma under an active UnitedHealthcare medical benefit prior
+authorization
+-AND-
+(b) Documentation of positive clinical response to Xolair therapy as demonstrated by
+at least one of the following:
+© 2025 UnitedHealthcare Services, Inc.
+1
+i. Reduction in the frequency of exacerbations
+ii. Decreased utilization of rescue medications
+iii. Increase in percent predicted FEV1 from pretreatment baseline
+iv. Reduction in severity or frequency of asthma-related symptoms (e.g.,
+wheezing, shortness of breath, coughing, etc.)
+-AND-
+(c) Xolair is being used in combination with an ICS-containing maintenance
+medication [e.g., Advair/AirDuo (fluticasone/salmeterol), Breo Ellipta (fluticasone
+furoate/vilanterol), Symbicort (budesonide/ formoterol), Trelegy Ellipta
+(fluticasone furoate/umeclidinium/vilanterol)].
+-AND-
+(d) Patient is not receiving Xolair in combination with any of the following:
+i. Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+ii. Anti-interleukin 5 therapy [e.g., Nucala (mepolizumab), Cinqair
+(resilizumab), Fasenra (benralizumab)]
+iii. Thymic stromal lymphopoietin (TSLP) inhibitor [e.g., Tezspire
+(tezepelumab)]
+-OR-
+(2) All of the following:
+(a) Diagnosis of moderate to severe asthma
+-AND-
+(b) Classification of asthma as uncontrolled or inadequately controlled as defined by
+at least one of the following:
+i. Poor symptom control (e.g., Asthma Control Questionnaire [ACQ] score
+consistently greater than 1.5 or Asthma Control Test [ACT] score
+consistently less than 20)
+ii. Two or more bursts of systemic corticosteroids for at least 3 days each in
+the previous 12 months
+iii. Asthma-related emergency treatment (e.g., emergency room visit, hospital
+admission, or unscheduled physician’s office visit for nebulizer or other
+urgent treatment)
+iv. Airflow limitation (e.g., after appropriate bronchodilator withhold forced
+expiratory volume in 1 second [FEV1] less than 80% predicted [in the
+face of reduced FEV1/forced vital capacity [FVC] defined as less than the
+lower limit of normal])
+v. Patient is currently dependent on oral corticosteroids for the treatment of
+asthma
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+2
+(c) Submission of medical records (e.g., chart notes, laboratory values, etc.)
+documenting a baseline (pre-omalizumab treatment) serum total IgE level greater
+than or equal to 30 IU/mL and less than or equal to 1300 IU/mL
+-AND-
+(d) Positive skin test or in vitro reactivity to a perennial aeroallergen
+-AND-
+(e) Xolair will be used in combination with one of the following:
+i. One maximally dosed (appropriately adjusted for age) combination
+inhaled corticosteroid (ICS)/long-acting beta agonist (LABA) [e.g.,
+2
+Advair/AirDuo Respiclick (fluticasone propionate/salmeterol), Symbicort
+(budesonide/formoterol), Breo Ellipta (fluticasone furoate/vilanterol)]
+-OR-
+ii. Combination therapy including both of the following:
+• One maximally dosed (appropriately adjusted for age) ICS product
+[e.g., ciclesonide (Alvesco), mometasone furoate (Asmanex),
+beclomethasone dipropionate (QVAR)]
+-AND-
+• One additional asthma controller medication [e.g., LABA - olodaterol
+(Striverdi) or indacaterol (Arcapta); leukotriene receptor antagonist –
+montelukast (Singulair); theophylline]
+-AND-
+(f) Patient is not receiving Xolair in combination with any of the following:
+i. Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+ii. Anti-interleukin 5 therapy [e.g., Nucala (mepolizumab), Cinqair
+(resilizumab), Fasenra (benralizumab)]
+iii. Thymic stromal lymphopoietin (TSLP) inhibitor [e.g., Tezspire
+(tezepelumab)]
+-AND-
+(g) Prescribed by one of the following:
+i. Allergist
+ii. Immunologist
+iii. Pulmonologist
+© 2025 UnitedHealthcare Services, Inc.
+3
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Xolair will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Xolair therapy as demonstrated by at
+least one of the following:
+(a) Reduction in the frequency of exacerbations
+(b) Decreased utilization of rescue medications
+(c) Increase in percent predicted FEV1 from pretreatment baseline
+(d) Reduction in severity or frequency of asthma-related symptoms (e.g., wheezing,
+shortness of breath, coughing, etc.)
+-AND-
+(2) Xolair is being used in combination with an ICS-containing maintenance medication
+[e.g., Advair/AirDuo (fluticasone/salmeterol), Breo Ellipta (fluticasone
+furoate/vilanterol), Symbicort (budesonide/ formoterol), Trelegy Ellipta (fluticasone
+furoate/umeclidinium/vilanterol)].
+-AND-
+(3) Patient is not receiving Xolair in combination with any of the following:
+(a) Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+(b) Anti-interleukin 5 therapy [e.g., Nucala (mepolizumab), Cinqair (resilizumab),
+Fasenra (benralizumab)]
+(c) Thymic stromal lymphopoietin (TSLP) inhibitor [e.g., Tezspire (tezepelumab)]
+Authorization will be issued for 12 months.
+B. Chronic Urticaria
+1. Initial Authorization
+a. Xolair will be approved based on one of the following criteria:
+(1) All of the following:
+(a) Patient has been established on therapy with Xolair for chronic urticaria under an
+active medical benefit UnitedHealthcare prior authorization
+-AND-
+(b) Documentation of positive clinical response to Xolair therapy (e.g., reduction in
+exacerbations, itch severity, hives)
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+4
+(c) Patient is not receiving Xolair in combination with any of the following:
+i. Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+ii. Anti-interleukin 5 therapy [e.g., Nucala (mepolizumab), Cinqair
+(resilizumab), Fasenra (benralizumab)]
+iii. Thymic stromal lymphopoietin (TSLP) inhibitor [e.g., Tezspire
+(tezepelumab)]
+-OR-
+(2) All of the following:
+(a) Diagnosis of chronic urticaria
+-AND-
+(b) One of the following:
+i. Patient remains symptomatic despite at least a 2-week trial of, or history of
+contraindication or intolerance to, two H1-antihistamines [e.g., Allegra
+(fexofenadine), Benadryl (diphenhydramine), Claritin (loratadine)]^
+-OR-
+ii. Patient remains symptomatic despite at least a 2-week trial of, or history of
+contraindication or intolerance to both of the following taken in
+combination^:
+• A second generation H1-antihistamine [e.g., Allegra (fexofenadine),
+Claritin (loratadine), Zyrtec (cetirizine)]
+-AND-
+• One of the following:
+ Different second generation H1-antihistamine [e.g., Allegra
+(fexofenadine), Claritin (loratadine), Zyrtec (cetirizine)]
+ First generation H1-antihistamine[e.g., Benadryl
+(diphenhydramine), Chlor-Trimeton (chlorpheniramine), Vistaril
+(hydroxyzine)]
+ H2-antihistamine [e.g., Pepcid (famotidine), Tagamet HB
+(cimetidine), Zantac (ranitidine)]
+ Leukotriene modifier [e.g., Singulair (montelukast)]
+-AND-
+(c) Patient is not receiving Xolair in combination with any of the following:
+i. Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+© 2025 UnitedHealthcare Services, Inc.
+5
+ii. Anti-interleukin 5 therapy [e.g., Nucala (mepolizumab), Cinqair
+(resilizumab), Fasenra (benralizumab)]
+iii. Thymic stromal lymphopoietin (TSLP) inhibitor [e.g., Tezspire
+(tezepelumab)]
+-AND-
+(d) Prescribed by one of the following:
+i. Allergist
+ii. Dermatologist
+iii. Immunologist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Xolair will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Xolair therapy (e.g., reduction in
+exacerbations, itch severity, hives)
+-AND-
+(2) Patient is not receiving Xolair in combination with any of the following:
+(a) Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+(b) Anti-interleukin 5 therapy [e.g., Nucala (mepolizumab), Cinqair (resilizumab),
+Fasenra (benralizumab)]
+(c) Thymic stromal lymphopoietin (TSLP) inhibitor [e.g., Tezspire (tezepelumab)]
+Authorization will be issued for 12 months.
+C. Nasal Polyps
+1. Initial Authorization
+a. Xolair will be approved based on one of the following criteria:
+(1) All of the following:
+(a) Patient has been established on therapy with Xolair for nasal polyps under an
+active UnitedHealthcare medical benefit prior authorization
+-AND-
+(b) Documentation of positive clinical response to Xolair therapy
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+6
+(c) Patient will continue to receive Xolair as add-on maintenance therapy in
+combination with intranasal corticosteroids (e.g., fluticasone, mometasone,
+triamcinolone)
+-AND-
+(d) Patient is not receiving Xolair in combination with any of the following:
+i. Anti-interleukin-5 therapy [e.g., Cinqair (resilizumab), Fasenra
+(benralizumab), Nucala (mepolizumab)]
+ii. Anti-interleukin-4 therapy [e.g., Dupixent (dupilumab)]
+iii. Thymic stromal lymphopoietin (TSLP) inhibitor [e.g., Tezspire
+(tezepelumab)]
+-OR-
+(2) All of the following:
+(a) Diagnosis of nasal polyps
+-AND-
+(b) Two or more of the following symptoms for longer than 12 weeks duration:
+i. Nasal mucopurulent discharge
+ii. Nasal obstruction, blockage, or congestion
+iii. Facial pain, pressure, and/or fullness
+iv. Reduction or loss of sense of smell
+-AND-
+(c) One of the following findings using nasal endoscopy and/or sinus computed
+tomography (CT):
+i. Purulent mucus or edema in the middle meatus or ethmoid regions
+ii. Polyps in the nasal cavity or the middle meatus
+iii. Radiographic imaging demonstrating mucosal thickening or partial or
+complete opacification of paranasal sinuses
+-AND-
+(d) One of the following:
+i. Patient has been unable to obtain symptom relief after trial of both of the
+following:
+• Intranasal corticosteroids (e.g., fluticasone, mometasone,
+triamcinolone) ^
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+7
+• One other therapy used in the management of nasal polyps [i.e., nasal
+saline irrigations. antileukotriene agents (e.g., montelukast,
+zafirlukast, zileuton)]
+-OR-
+ii. Patient has required systemic corticosteroids (e.g., prednisone,
+methylprednisolone) for nasal polyps in the previous 2 years
+-OR-
+iii. Patient has required prior sinus surgery
+-AND-
+(e) Patient will receive Xolair as add-on maintenance therapy in combination with
+intranasal corticosteroids (e.g., fluticasone, mometasone, triamcinolone).
+-AND-
+(f) Patient is not receiving Xolair in combination with any of the following:
+i. Anti-interleukin-5 therapy [e.g., Cinqair (resilizumab), Fasenra
+(benralizumab), Nucala (mepolizumab)]
+ii. Anti-interleukin-4 therapy [e.g., Dupixent (dupilumab)]
+iii. Thymic stromal lymphopoietin (TSLP) inhibitor [e.g., Tezspire
+(tezepelumab)]
+-AND-
+(g) Prescribed by one of the following:
+i. Allergist
+ii. Immunologist
+iii. Otolaryngologist
+iv. Pulmonologist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Xolair will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Xolair therapy
+-AND-
+(2) Patient will continue to receive Xolair as add-on maintenance therapy in combination
+with intranasal corticosteroids (e.g., fluticasone, mometasone, triamcinolone).
+© 2025 UnitedHealthcare Services, Inc.
+8
+-AND-
+(3) Patient is not receiving Xolair in combination with any of the following:
+(a) Anti-interleukin-5 therapy [e.g., Cinqair (resilizumab), Fasenra (benralizumab),
+Nucala (mepolizumab)]
+(b) Anti-interleukin-4 therapy [e.g., Dupixent (dupilumab)]
+(c) Thymic stromal lymphopoietin (TSLP) inhibitor [e.g., Tezspire (tezepelumab)]
+Authorization will be issued for 12 months.
+D. IgE-Mediated Food Allergy
+1. Initial Authorization
+a. Xolair will be approved based on one of the following criteria:
+(1) All of the following:
+(a) Both of the following:
+i. Patient has been established on therapy with Xolair for IgE-mediated food
+allergy under an active UnitedHealthcare medical benefit prior
+authorization
+-AND-
+ii. Documentation of positive clinical response to Xolair therapy (e.g.,
+reduction in type I allergic reactions)
+-AND-
+(b) Xolair will be used in conjunction with food allergen avoidance
+-AND-
+(c) Patient has access to epinephrine
+-AND-
+(d) Patient is not receiving Xolair in combination with any of the following:
+i. Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+ii. Anti-interleukin 5 therapy [e.g., Nucala (mepolizumab), Cinqair
+(resilizumab), Fasenra (benralizumab)]
+iii. Thymic stromal lymphopoietin (TSLP) inhibitor [e.g., Tezspire
+(tezepelumab)]
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+9
+(e) Prescribed by an allergist or immunologist
+-OR-
+(2) All of the following:
+(a) Diagnosis of IgE-mediated food allergy to one or more foods
+-AND-
+(b) Patient is aged ≥ 1 year
+-AND-
+(c) IgE-mediated food allergy to specific food(s) has been confirmed by both of the
+following:
+i. History of type I allergic reactions (e.g., nausea, vomiting, cramping,
+diarrhea, flushing, pruritus, urticaria, swelling of the lips, face or throat,
+wheezing, lightheadedness, syncope)
+-AND-
+ii. One of the following:
+• Food specific skin prick testing (SPT)
+• IgE antibody in vitro testing
+• Oral food challenge (OFC)
+-AND-
+(d) Xolair will be used in conjunction with food allergen avoidance
+-AND-
+(e) Patient has access to epinephrine
+-AND-
+(f) Patient is not receiving Xolair in combination with any of the following:
+i. Anti-interleukin 4 therapy [e.g., Dupixent (dupliumab)]
+ii. Anti-interleukin 5 therapy [e.g., Nucala (mepolizumab), Cinqair
+(resilizumab), Fasenra (benralizumab)]
+iii. Thymic stromal lymphopoietin (TSLP) inhibitor [e.g., Tezspire
+(tezepelumab)]
+-AND-
+(g) Prescribed by an allergist or immunologist
+© 2025 UnitedHealthcare Services, Inc.
+10
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Xolair will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Xolair therapy (e.g., reduction in type I
+allergic reactions)
+-AND-
+(2) Xolair will be used in conjunction with food allergen avoidance
+-AND-
+(3) Patient has access to epinephrine
+-AND-
+(4) Patient is not receiving Xolair in combination with any of the following:
+(a) Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+(b) Anti-interleukin 5 therapy [e.g., Nucala (mepolizumab), Cinqair (resilizumab),
+Fasenra (benralizumab)]
+(c) Thymic stromal lymphopoietin (TSLP) inhibitor [e.g., Tezspire (tezepelumab)]
+-AND-
+(5) Prescribed by an allergist or immunologist
+Authorization will be issued for 12 months.
+^Tried/failed alternative(s) are supported by FDA labeling.
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim
+logic. Use of automated approval and re-approval processes varies by program and/or
+therapeutic class
+• Supply limitations may be in place
+4. References:
+1. Xolair® [package insert]. South San Francisco, CA: Genentech USA, Inc.; February 2024.
+2. Global Initiative for Asthma (GINA). Global strategy for asthma management and prevention,
+2023. Accessed June 8, 2023.
+3. Bernstein JA, Lang DM, Khan DA, et al. Joint Task Force on Practice Parameters (JTFPP),
+representing the American Academy of Allergy, Asthma & Immunology (AAAAI); the
+American College of Allergy, Asthma & Immunology (ACAAI); and the Joint Council of
+© 2025 UnitedHealthcare Services, Inc.
+11
+Allergy, Asthma & Immunology. Practice parameter: The diagnosis and management of acute
+and chronic urticaria: 2014 update. J Allerg Clin Immunol. 2014; 133(5):1270-1277.
+4. Tsabouri S, Tseretopoulou X, Priftis K, et al. Omalizumab for the treatment of inadequately
+controlled allergic rhinitis: a systematic review and meta-analysis of randomized clinical trials.
+J Allergy Clin Immunol Pract. 2014; 2(3):332-40.
+5. Gevaert P, Omachi TA, Corren J, et al. Efficacy and safety of omalizumab in nasal polyposis: 2
+randomized phase 3 trials. J Allergy Clin Immunol. 2020; 146(3):595-605.
+6. Holguin F, Cardet JC, Chung KF, Diver S, Ferreira DS, Fitzpatrick A, Gaga M, Kellermeyer L,
+Khurana S, Knight S, McDonald VM, Morgan RL, Ortega VE, Rigau D, Subbarao P, Tonia T,
+Adcock IM, Bleecker ER, Brightling C, Boulet LP, Cabana M, Castro M, Chanez P, Custovic
+A, Djukanovic R, Frey U, Frankemölle B, Gibson P, Hamerlijnck D, Jarjour N, Konno S, Shen
+H, Vitary C, Bush A. Management of severe asthma: a European Respiratory Society/American
+Thoracic Society guideline. Eur Respir J. 2020 Jan 2;55(1):1900588. doi:
+10.1183/13993003.00588-2019. PMID: 31558662
+7. Rank MA, Chu DK, Bognanni A, et al. The Joint Task Force on Practice Parameters GRADE
+guidelines for the medical management of chronic rhinosinusitis with nasal polyposis. J Allergy
+Clin Immunol. 2023;151(2):386-398. doi:10.1016/j.jaci.2022.10.026
+8. Wood RA, Togias A, Sicherer SH, et al. Omalizumab for the Treatment of Multiple Food
+Allergies. N Engl J Med. Published online February 25, 2024. doi:10.1056/NEJMoa2312382
+9. Anvari S, Miller J, Yeh CY, Davis CM. IgE-Mediated Food Allergy. Clin Rev Allergy
+Immunol. 2019;57(2):244-260. doi:10.1007/s12016-018-8710-3
+Program Prior Authorization/Medical Necessity – Xolair (omalizumab)
+Change Control
+6/2021 New program.
+11/2021 Added coverage criteria for patients established on therapy under
+UnitedHealthcare medical benefit. Updated prescriber requirement for
+initial authorization and removed prescriber requirement for
+reauthorization.
+2/2022 Added Tezspire to list of agents not to be used in combination with
+Xolair for all indications. Added a requirement that Xolair cannot be
+used in combination with a similar agent to the chronic urticaria criteria.
+Updated coverage criteria for CRSwNP. Updated references. Added
+footnote to support FDA labeled first line requirements.
+9/2022 Updated coverage criteria for nasal polyps to more closely align with
+label which does not specify laterality of nasal polyps and includes
+inadequate response to intranasal corticosteroids. Updated references.
+7/2023 Updated coverage criteria for severe asthma to align with GINA &
+ERS/ATS guidelines. Added/updated examples of ICS-containing
+maintenance medications and removed coverage for patients currently
+dependent on maintenance therapy with oral corticosteroids. Updated
+references.
+10/2023 Annual review. Removed prescriber requirement for initial
+authorizations for patients established on therapy under UHC medical
+prior authorization. Added requirement patient is not receiving Xolair
+with other similar treatments for chronic urticaria reauthorization.
+4/2024 Added criteria for new indication, IgE-mediated food allergy. Updated
+background and references.
+© 2025 UnitedHealthcare Services, Inc.
+12
+5/2024 Updated criteria for IgE-mediated food allergy.
+6/2024 Expanded coverage of Xolair for IgE-mediated food allergy to all foods.
+Updated references.
+4/2025 Annual review. No changes to coverage criteria.
+© 2025 UnitedHealthcare Services, Inc.
+13

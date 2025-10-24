@@ -1,0 +1,76 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1155-11
+Program Prior Authorization/Notification
+Medication Multaq® (dronedarone)
+P&T Approval Date 4/2015, 3/2016, 6/2016, 6/2017, 6/2018, 6/2019, 6/2020, 7/2021, 9/2022,
+10/2023, 10/2024
+Effective Date 1/1/2025
+1. Background:
+Multaq is an antiarrhythmic drug indicated to reduce the risk of hospitalization for atrial
+fibrillation in patients in sinus rhythm with a history of paroxysmal or persistent atrial fibrillation.
+Multaq carries a black box warning for increased risk of death, stroke, and heart failure in patients
+with decompensated heart failure or permanent atrial fibrillation. It is contraindicated in patients
+with symptomatic heart failure with recent decompensation requiring hospitalization or NYHA
+Class IV heart failure, as Multaq doubles the risk of death in these patients. Multaq is also
+contraindicated in patients in atrial fibrillation who will not or cannot be cardioverted into normal
+sinus rhythm. In patients with permanent atrial fibrillation, Multaq doubles the risk of death,
+stroke and hospitalization for heart failure.
+Patients currently on Multaq therapy will be allowed to remain on therapy.
+2. Coverage Criteriaa:
+A. Multaq will be approved based on one of the following criteria:
+1. All of the following criteria:
+a. Diagnosis of a history of one of the following:
+(1) Paroxysmal atrial fibrillation (AF)
+(2) Persistent AF defined as AF less than 6 months duration
+-AND-
+b. One of the following:
+(1) Patient is in sinus rhythm
+(2) Patient is planned to undergo cardioversion to sinus rhythm
+-AND-
+c. Patient has none of the following:
+(1) NYHA Class IV heart failure
+(2) Symptomatic heart failure with recent decompensation requiring hospitalization
+© 2024 UnitedHealthcare Services, Inc.
+1
+-OR-
+2. For continuation of current therapy
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit plan
+coverage may also impact coverage criteria. Other policies and utilization management programs may
+apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+4. References:
+1. Multaq [package insert]. Bridgewater, NJ: Sanofi-Aventis U.S LLC; October 2023.
+2. American College of Cardiology. 2014 AHA/ACC/HRS guideline for the management of patients
+with atrial fibrillation: a report of the American College of Cardiology/American Heart
+Association Task Force on practice guidelines and the Heart Rhythm Society. Circulation 2014;
+130:e199.
+3. American College of Cardiology. 2019 AHA/ACC/HRS Focused Update of the 2014
+AHA/ACC/HRS Guideline for the Management of Patients With Atrial Fibrillation: A Report of
+the American College of Cardiology/American Heart Association Task Force on Clinical Practice
+Guidelines and the Heart Rhythm Society. J Am CollCardiol. 2019 Jul 9;74(1):104-132.
+4. American College of Cardiology. 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and
+Management of Atrial Fibrillation: A Report of the American College of Cardiology/American
+Heart Association Joint Committee on Clinical Practice Guidelines. Volume 149, Issue 1, 2
+January 2024; e1-e156.
+Program Prior Authorization/Notification - Multaq
+Change Control
+Date Change
+4/2015 New program
+3/2016 Annual review with no changes.
+6/2016 Updated to clarify that patients already on therapy are allowed to continue
+prior therapy.
+6/2017 Annual review. Updated reference.
+6/2018 Annual review. Updated reference.
+6/2019 Annual review with no changes.
+6/2020 Annual review with no changes.
+7/2021 Updated references.
+9/2022 Annual review. Updated references, added state mandate footnote.
+10/2023 Annual review. No changes.
+10/2024 Annual review. Updated reference.
+© 2024 UnitedHealthcare Services, Inc.
+2

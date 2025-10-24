@@ -1,0 +1,388 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2334-5
+Program Prior Authorization/Medical Necessity
+Medication Bimzelx® (bimekizumab-bkzx)
+P&T Approval Date 4/2024, 6/2024, 10/2024, 1/2025, 4/2025
+Effective Date 6/1/2025
+1. Background:
+Bimzelx (bimekizumab-bkzx) is a humanized interleukin-17A and F antagonist indicated for
+the treatment of moderate to severe plaque psoriasis in adults who are candidates for systemic
+therapy or phototherapy, adults with active psoriatic arthritis, adults with active non-
+radiographic axial spondyloarthritis with objective signs of inflammation adults with active
+ankylosing spondylitis, and adults with moderate to severe hidradenitis suppurativa.
+2. Coverage Criteriaa:
+A. Plaque Psoriasis (PsO)
+1. Initial Authorization
+a. Bimzelx will be approved based on the following criterion:
+(1) Diagnosis of moderate to severe plaque psoriasis
+-AND-
+(2) One of the following:
+(a) All of the following:
+i. Greater than or equal to 3% body surface area involvement,
+palmoplantar, facial, genital involvement, or severe scalp psoriasis
+-AND-
+ii. History of failure to one of the following topical therapies, unless
+contraindicated or clinically significant adverse effects are experienced
+(document drug, date, and duration of trial):
+• Corticosteroids (e.g., betamethasone, clobetasol, desonide)
+• Vitamin D analogs (e.g., calcitriol, calcipotriene)
+• Tazarotene
+• Calcineurin inhibitors (e.g., tacrolimus, pimecrolimus)
+• Anthralin
+• Coal tar
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+1
+iii. History of failure to a 3 month trial of methotrexate at the maximally
+indicated dose, unless contraindicated or clinically significant adverse
+effects are experienced (document date and duration of trial)b
+-OR-
+(b) Patient has been previously treated with a targeted immunomodulator FDA-
+approved for the treatment of plaque psoriasis as documented by claims
+history or submission of medical records (document drug, date, and duration
+of therapy) [e.g., Enbrel (etanercept), Cimzia (certolizumab), adalimumab,
+Orencia (abatacept), ustekinumab, Skyrizi (risankizumab), Tremfya
+(guselkumab), Cosentyx (secukinumab), Taltz (ixekizumab), Siliq
+(brodalumab), Ilumya (tildrakizumab), Otezla (apremilast)]
+-AND-
+(3) One of the following:
+(a) History of failure, contraindication, or intolerance to two of the
+following (document drug, date, and duration of trial):
+i. One of the preferred adalimumab productsc
+ii. Cimzia (certolizumab)
+iii. Cosentyx (secukinumab)
+iv. Enbrel (etanercept)
+v. Skyrizi (risankizumab)
+vi. Sotyktu (deucravacitinib)
+vii. One of the preferred ustekinumab productsc
+viii. Tremfya (guselkumab)
+-OR-
+(b) Both of the following:
+i. Patient is currently on Bimzelx therapy as documented by claims history
+or submission of medical records (Document date and duration of
+therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from a UCB sponsored
+program (e.g., sample card which can be redeemed at a pharmacy for a
+free supply of medication) as a means to establish as a current user of
+Bimzelx*
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+2
+(4) Patient is not receiving Bimzelx in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, ustekinumab,
+Skyrizi (risankizumab), Tremfya (guselkumab), Cosentyx (secukinumab),
+Taltz (ixekizumab), Siliq (brodalumab), Ilumya (tildrakizumab), Xeljanz
+(tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib), Otezla
+(apremilast)]
+-AND-
+(5) Prescribed by or in consultation with a dermatologist
+* Patients requesting initial authorization who were established on therapy via the
+receipt of a manufacturer supplied sample at no cost in the prescriber’s office or any
+form of assistance from a UCB sponsored program shall be required to meet initial
+authorization criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Bimzelx will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Bimzelx therapy
+-AND-
+(2) Patient is not receiving Bimzelx in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, ustekinumab,
+Skyrizi (risankizumab), Tremfya (guselkumab), Cosentyx (secukinumab),
+Taltz (ixekizumab), Siliq (brodalumab), Ilumya (tildrakizumab), Xeljanz
+(tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib), Otezla
+(apremilast)]
+Authorization will be issued for 12 months.
+B. Psoriatic Arthritis (PsA)
+1. Initial Authorization
+a. Bimzelx will be approved based on the following criteria:
+(1) Diagnosis of active psoriatic arthritis
+-AND-
+(2) One of the following:
+© 2025 UnitedHealthcare Services, Inc.
+3
+(a) History of failure to a 3 month trial of methotrexate at maximally indicated
+dose, unless contraindicated or clinically significant adverse effects are
+experienced (document date and duration of trial)b
+-OR-
+(b) Patient has been previously treated with a targeted immunomodulator FDA-
+approved for the treatment of psoriatic arthritis as documented by claims
+history or submission of medical records (Document drug, date, and
+duration of therapy) [e.g., Cimzia (certolizumab), Cosentyx (secukinumab),
+adalimumab, Simponi (golimumab), ustekinumab, Tremfya (guselkumab),
+Xeljanz/Xeljanz XR (tofacitinib), Otezla (apremilast), Skyrizi
+(risankizumab), Rinvoq (upadacitinib), Enbrel (etanercept)]
+-AND-
+(3) One of the following:
+(a) History of failure, contraindication, or intolerance to two of the following
+preferred products (document drug, date, and duration of trial):
+i. One of the preferred adalimumab productsc
+ii. Cimzia (certolizumab)
+iii. Cosentyx (secukinumab)
+iv. Enbrel (etanercept)
+v. Rinvoq (upadacitinib)
+vi. Simponi (golimumab)
+vii. Skyrizi (risankizumab)
+viii. One of the preferred ustekinumab productsc
+ix. Tremfya (guselkumab)
+x. Xeljanz/Xeljanz XR (tofacitinib)
+-OR-
+(b) Both of the following:
+i. Patient is currently on Bimzelx therapy as documented by claims history
+or submission of medical records (Document date and duration of
+therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from a UCB sponsored
+program (e.g., sample card which can be redeemed at a pharmacy for a
+free supply of medication) as a means to establish as a current user of
+Bimzelx*
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+4
+(4) Patient is not receiving Bimzelx in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab), Simponi
+(golimumab), Orencia (abatacept), adalimumab, ustekinumab, Skyrizi
+(risankizumab), Tremfya (guselkumab), Cosentyx (secukinumab), Xeljanz
+(tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib), Otezla (apremilast)]
+-AND-
+(5) Prescribed by or in consultation with one of the following:
+(a) Rheumatologist
+(b) Dermatologist
+* Patients requesting initial authorization who were established on therapy via the
+receipt of a manufacturer supplied sample at no cost in the prescriber’s office or any
+form of assistance from a UCB sponsored program shall be required to meet initial
+authorization criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Bimzelx will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Bimzelx therapy
+-AND-
+(2) Patient is not receiving Bimzelx in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), ustekinumab, Skyrizi
+(risankizumab), Tremfya (guselkumab), Cosentyx (secukinumab), Taltz
+(ixekizumab), Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq
+(upadacitinib), Otezla (apremilast)]
+Authorization will be issued for 12 months.
+C. Ankylosing Spondylitis (AS)
+1. Initial Authorization
+a. Bimzelx will be approved based on the following criteria:
+(1) Diagnosis of active ankylosing spondylitis
+-AND-
+(2) One of the following:
+© 2025 UnitedHealthcare Services, Inc.
+5
+(a) History of failure to two NSAIDs (e.g., ibuprofen, naproxen) at
+maximally indicated doses, each used for at least 4 weeks, unless
+contraindicated or clinically significant adverse effects are experienced
+(document drug, date, and duration of trials)
+-OR-
+(b) Patient has been previously treated with a targeted immunomodulator
+FDA-approved for the treatment of ankylosing spondylitis as documented
+by claims history or submission of medical records (Document drug,
+date, and duration of therapy) [e.g., adalimumab, Simponi (golimumab),
+Rinvoq (upadacitinib), Xeljanz/Xeljanz XR (tofacitinib), Enbrel
+(etanercept)].
+-AND-
+(3) One of the following:
+(a) History of failure, contraindication, or intolerance to two of the following
+preferred products (document drug, date, and duration of trial):
+i. One of the preferred adalimumab productsc
+ii. Cimzia (certolizumab)
+iii. Cosentyx (secukinumab)
+iv. Enbrel (etanercept)
+v. Rinvoq (upadacitinib)
+vi. Simponi (golimumab)
+vii. Xeljanz/Xeljanz XR (tofacitinib)
+-OR-
+(b) Both of the following:
+i. Patient is currently on Bimzelx therapy as documented by claims history
+or submission of medical records (Document date and duration of
+therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from a UCB sponsored
+program (e.g., sample card which can be redeemed at a pharmacy for a
+free supply of medication) as a means to establish as a current user of
+Bimzelx*
+-AND-
+(4) Patient is not receiving Bimzelx in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab), Cosentyx
+© 2025 UnitedHealthcare Services, Inc.
+6
+(secukinumab), Simponi (golimumab), Orencia (abatacept), adalimumab,
+Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib)]
+-AND-
+(5) Prescribed by or in consultation with a rheumatologist
+* Patients requesting initial authorization who were established on therapy via the
+receipt of a manufacturer supplied sample at no cost in the prescriber’s office or any
+form of assistance from a UCB sponsored program shall be required to meet initial
+authorization criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Bimzelx will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Bimzelx therapy
+-AND-
+(1) Patient is not receiving Bimzelx in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Simponi (golimumab),
+Orencia (abatacept), adalimumab, Xeljanz (tofacitinib), Olumiant
+(baricitinib), Rinvoq (upadacitinib)]
+Authorization will be issued for 12 months.
+D. Non-radiographic Axial Spondyloarthritis
+1. Initial Authorization
+a. Bimzelx will be approved based on the following criteria:
+(1) Diagnosis of active non-radiographic axial spondyloarthritis
+-AND-
+(2) One of the following:
+(a) History of failure to two NSAIDs (e.g., ibuprofen, naproxen) at maximally
+indicated doses, each used for at least 4 weeks, unless contraindicated or
+clinically significant adverse effects are experienced (document drug, date,
+and duration of trials)
+-OR-
+(b) Patient has been previously treated with a targeted immunomodulator FDA-
+approved for the treatment of non-radiographic axial spondyloarthritis as
+© 2025 UnitedHealthcare Services, Inc.
+7
+documented by claims history or submission of medical records (Document
+drug, date, and duration of therapy) [e.g. Cimzia (certolizumab), Cosentyx
+(secukinumab), Rinvoq (upadacitinib)].
+-AND-
+(3) One of the following:
+(a) History of failure, contraindication, or intolerance to two of the following
+preferred products (document drug, date, and duration of trial):
+i. Cimzia (certolizumab)
+ii. Cosentyx (secukinumab)
+iii. Rinvoq (upadacitinib)
+-OR-
+(b) Both of the following:
+i. Patient is currently on Bimzelx therapy as documented by claims history
+or submission of medical records (Document date and duration of
+therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from a UCB sponsored
+program (e.g., sample card which can be redeemed at a pharmacy for a
+free supply of medication) as a means to establish as a current user of
+Bimzelx*
+-AND-
+(4) Patient is not receiving Bimzelx in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab), Cosentyx
+(secukinumab), Simponi (golimumab), Orencia (abatacept), adalimumab,
+Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq (upadacitinib)]
+-AND-
+(5) Prescribed by or in consultation with a rheumatologist
+* Patients requesting initial authorization who were established on therapy via the
+receipt of a manufacturer supplied sample at no cost in the prescriber’s office or any
+form of assistance from a UCB sponsored program shall be required to meet initial
+authorization criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+© 2025 UnitedHealthcare Services, Inc.
+8
+a. Bimzelx will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Bimzelx therapy
+-AND-
+(1) Patient is not receiving Bimzelx in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Simponi (golimumab),
+Orencia (abatacept), adalimumab, Xeljanz (tofacitinib), Olumiant
+(baricitinib), Rinvoq (upadacitinib)]
+Authorization will be issued for 12 months.
+E. Hidradenitis Suppurativa (HS)
+1. Initial Authorization
+a. Bimzelx will be approved based on all of the following criteria:
+(1) Diagnosis of moderate to severe hidradenitis suppurativa (i.e., Hurley Stage
+II or III)
+-AND-
+(2) One of the following:
+(a) Both of the following:
+i. History of failure to at least one oral antibiotic (e.g., doxycycline,
+clindamycin, rifampin) at maximally indicated doses, unless
+contraindicated or clinically significant adverse effects are
+experienced (document drug, date, and duration of trial)
+-AND-
+ii. History of failure, contraindication, or intolerance to both of the
+following preferred products (document drug, date, and duration of
+trial):
+• One of the preferred adalimumab productsc
+• Cosentyx (secukinumab)
+-OR-
+(b) Both of the following:
+i. Patient is currently on Bimzelx therapy as documented by claims history
+or submission of medical records (Document date and duration of
+therapy):
+© 2025 UnitedHealthcare Services, Inc.
+9
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from a UCB sponsored
+program (e.g., sample card which can be redeemed at a pharmacy for a
+free supply of medication) as a means to establish as a current user of
+Bimzelx*
+-AND-
+(3) Patient is not receiving Bimzelx in combination with another targeted
+immunomodulator [e.g., adalimumab, Cimzia (certolizumab), Cosentyx
+(secukinumab), Enbrel (etanercept), Olumiant (baricitinib), Orencia (abatacept),
+Simponi (golimumab), Rinvoq (upadacitinib), Xeljanz (tofacitinib)]
+-AND-
+(4) Prescribed by or in consultation with a dermatologist
+* Patients requesting initial authorization who were established on therapy via the
+receipt of a manufacturer supplied sample at no cost in the prescriber’s office or any
+form of assistance from a UCB sponsored program shall be required to meet initial
+authorization criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Bimzelx will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Bimzelx therapy.
+-AND-
+(2) Patient is not receiving Bimzelx in combination with another targeted
+immunomodulator [e.g., adalimumab, Cimzia (certolizumab), Cosentyx
+(secukinumab), Enbrel (etanercept), Olumiant (baricitinib), Orencia
+(abatacept), Simponi (golimumab), Rinvoq (upadacitinib), Xeljanz
+(tofacitinib)]
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+b For Connecticut, Kentucky and Mississippi business only a 30-day trial will be required.
+c For a list of preferred products please reference drug coverage tools.
+© 2025 UnitedHealthcare Services, Inc.
+10
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. Reference:
+1. Bimzelx [package insert]. Smyrna, GA: UCB, Inc.; November 2024
+2. Nast A, et al; European S3-Guidelines on the systemic treatment of psoriasis vulgaris – update
+2015 – short version – EFF in cooperation with EADV and IPC, J Eur Acad Derm Venereol
+2015;29:2277-94.
+3. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management
+and treatment of psoriasis with biologics. J Am Acad Dermatol. 2019;80:1029-72.
+Program Prior Authorization/Medical Necessity - Bimzelx (bimekizumab-bkzx)
+Change Control
+4/2024 New program
+6/2024 Added requirement for medical record submission for all authorization
+criteria. Updated trial/failure criteria for Cosentyx. Removed
+reauthorization criteria.
+10/2024 Updated step requirement noting Adalimumab-adaz (unbranded
+Hyrimoz), Amjevita for Nuvaila, and Humira as preferred adalimumab
+products with no change to clinical intent. Removed preferred
+adalimumab footnote. Added Sotyktu as step therapy agent for PsO.
+Changed number of step requirement to two and added continutation of
+care if already on Bimzelx. Removed notation of exclusion. Added
+coverage criteria for PsA, AS, and nr-axSpA. Updated background and
+reference.
+1/2025 Added criteria for hidradenitis suppurativa. Updated background and
+reference.
+4/2025 Removed examples for adalimumab in step therapy. Changed Stelara
+step therapy to “One of the preferred ustekinumab productsc”. Changed
+Stelara example to Ustekinumab. Added the footnote “For a list of
+preferred products please reference drug coverage tools.”
+© 2025 UnitedHealthcare Services, Inc.
+11

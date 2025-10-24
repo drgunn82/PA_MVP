@@ -1,0 +1,173 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Inpefa Prior Authorization Policy
+• Inpefa™ (sotagliflozin tablets − Lexicon)
+REVIEW DATE: 07/10/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Inpefa, a sodium glucose co-transporter-2 (SGLT-2) inhibitor, is indicated to reduce
+the risk of cardiovascular (CV) death, hospitalization for heart failure (HHF),
+and urgent heart failure visit in adults with1:
+• Heart failure; OR
+• Type 2 diabetes mellitus, chronic kidney disease (CKD), and other CV risk
+factors.
+Unlike other SGLT-2 inhibitors, Inpefa is not indicated for glycemic control.
+Guidelines
+The pivotal data with Inpefa are mentioned in many available guidelines. SGLT-2
+inhibitors are recommended as first-line treatment for heart failure in the American
+Heart Association/American College of Cardiology (ACC)/Heart Failure Society of
+America joint guideline for the management of heart failure (2022).2 The pivotal trial
+with Inpefa in patients with heart failure is noted to extend the benefits of SGLT-2
+inhibitors to patients with diabetes and acutely decompensated heart failure.5
+A 2023 ACC expert consensus statement notes the benefit of SGLT-2 inhibitors as
+part of guideline-directed medical therapy in patients with heart failure with
+Page 1 of 5 - Cigna National Formulary Coverage - Policy:Inpefa Prior Authorization Policy
+preserved ejection fraction (HFpEF).8 According to the ACC expert consensus
+statement, SGLT-2 inhibitors (dapagliflozin, Jardiance™ [empagliflozin tablets])
+should be initiated in all individuals with HFpEF who are stable during hospitalization
+and have no contraindications. The pivotal heart failure trial with Inpefa is
+mentioned, and it is noted that Inpefa treatment resulted in a significantly lower total
+number of deaths from CV causes, HHF, and urgent visits for heart failure than
+placebo, regardless of left ventricular ejection fraction.
+A 2023 focused update of the 2021 European Society of Cardiology guidelines for the
+diagnosis and treatment of acute and chronic heart failure recommends an SGLT-2
+inhibitor (dapagliflozin, Jardiance) in patients with symptomatic heart failure with
+moderately-reduced ejection fraction (HFmrEF) or HFpEF to reduce the risk of HHF
+or CV death (Class I, Level A).10 In patients hospitalized for acute heart failure, an
+intensive strategy of initiation and rapid up-titration of evidence-based treatment
+(including, but not limited to dapagliflozin or Jardiance) before discharge and during
+frequent and careful follow-up visits in the first 6 weeks following HHF is
+recommended to reduce the risk of HHF or death (Class I, Level B). In patients with
+type 2 diabetes and CKD, SGLT-2 inhibitors (dapagliflozin or Jardiance) are
+recommended to reduce the risk of HHF or CV death (Class I, Level A).
+The 2024 ACC expert consensus decision pathway for heart failure with reduced
+ejection fraction (HFrEF) recommends SGLT inhibitors (dapagliflozin, Inpefa, and
+Jardiance) as a core therapy in the “four pillars” of medical care for HFrEF.11
+The Kidney Diseases: Improving Global Outcomes (KDIGO) clinical practice guideline
+for diabetes management in CKD (2022) and the American Diabetes Association
+(ADA)/KDIGO diabetes management in CKD consensus report (2022) recommend an
+SGLT-2 with proven kidney or CV benefit for patients with type 2 diabetes, CKD, and
+estimated glomerular filtration rate (eGFR) ≥ 20 mL/min/1.73 m2.4,6 SGLT-2
+inhibitors are recommended independent of hemoglobin A (HbA ) or the need for
+1c 1c
+additional glucose lowering. This recommendation is based on strong evidence that
+SGLT-2 inhibitors reduce CKD progression, heart failure, and atherosclerotic CV
+disease (ASCVD) risk in patients with type 2 diabetes and CKD. Results from pivotal
+trials with Inpefa are briefly mentioned.
+The ADA standards of care (2024) recommend an SGLT-2 inhibitor or glucagon-like
+peptide-1 (GLP-1) agonist with demonstrated CV disease benefit as part of the
+glucose lowering regimen and comprehensive CV risk reduction strategy,
+independent of HbA in patients with established CV disease or indicators of high CV
+1c
+risk, established kidney disease, or heart failure.3 The data with Inpefa from its
+pivotal trials (SCORED and SOLOIST-WHF) are mentioned and it is noted that both
+trials were terminated early due to a loss of funding. Of note, the standards state
+that the early termination of SOLOIST-WHF limited the ability to determine the effects
+of Inpefa in HFpEF specifically. An ADA and European Association for the Study of
+Diabetes consensus statement on the management of type 2 diabetes (2022) is
+reflected in the ADA standards of care.9
+3 Pages - Cigna National Formulary Coverage - Policy:Inpefa Prior Authorization Policy
+The American Association of Clinical Endocrinology (AACE) comprehensive type 2
+diabetes management algorithm (2023) builds on the 2022 AACE diabetes clinical
+practice guideline.5,7 SGLT-2 inhibitors with ‘proven benefit’ are an alternative to
+GLP-1 agonists to reduce the risk of major adverse CV events or CV death in patients
+with type 2 diabetes and established CV disease. For patients with type 2 diabetes
+and established ASCVD or at high risk for ASCVD, the use of an SGLT-2 inhibitor
+reduces the risk of HHF and in patients with heart failure and/or CKD, SGLT-2
+inhibitors should be used as first-line therapy. SGLT-2 inhibitors are recommended
+in patients with type 2 diabetes and heart failure regardless of glycemic goal or other
+antihyperglycemic treatments. There are robust data for the benefit of SGLT-2
+inhibitors to reduce adverse renal outcomes. Use of an SGLT-2 inhibitor with ‘proven
+benefits’ is recommended as initial therapy to reduce the progression of diabetic
+kidney disease and CV disease risk for patients with type 2 diabetes and diabetic
+kidney disease with eGFR ≥ 25 mL/min/1.73 m2 or ≥ 20 mL/min/1.73 m2 if heart
+failure is also present.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Inpefa. All
+approvals are provided for the duration noted below.
+• Inpefa™ (sotagliflozin tablets ( Lexicon)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication(s)
+1. Heart Failure, To Reduce the Risk of Cardiovascular Death,
+Hospitalization for Heart Failure, and Urgent Heart Failure Visit. Approve
+for 1 year if the patient is ≥ 18 years of age.
+2. Type 2 Diabetes, To Reduce The Risk of Cardiovascular Death,
+Hospitalization for Heart Failure, and Urgent Heart Failure Visit. Approve
+for 1 year if the patient meets ALL of the following (A, B, and C):
+A) Patient is ≥ 18 years of age; AND
+B) Patient has chronic kidney disease; AND
+C) Patient has one or more cardiovascular risk factor(s), according to the
+prescriber.
+Note: Patients with heart failure should be reviewed under criteria for Heart
+Failure.
+CONDITIONS NOT COVERED
+Inpefa™ (sotagliflozin tablets ( Lexicon)
+3 Pages - Cigna National Formulary Coverage - Policy:Inpefa Prior Authorization Policy
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria will
+be updated as new published data are available):
+1. Type 1 Diabetes. Inpefa is not approved for glycemic control. Note: Patients
+with heart failure should be reviewed under criteria for Heart Failure.
+REFERENCES
+1. Inpefa™ tablets [prescribing information]. Lexicon; The Woodlands, TX: May 2023.
+2. Heidenreich PA, Bozkurt B, Aguilar D et al. 2022 American Heart Association/American College of
+Cardiology/Heart Failure Society of America (AHA/ACC/HFSA) guideline for the management of
+heart failure: a report of the American College of Cardiology/American Heart Association Joint
+Committee on Clinical Practice Guidelines. J Card Fail. 2022;28:e1-e167.
+3. American Diabetes Association – Standards of Care in Diabetes – 2024. Diabetes Care.
+2024;47(Suppl 1):S1-S321.
+4. Kidney Disease: Improving Global Outcomes (KDIGO) Diabetes Work Group: Rossing P, Muiza
+Caramori M, Chan JCN, et al. KDIGO 2022 clinical practice guideline for diabetes management in
+chronic kidney disease. Kidney Int. 2022;102(5S):S1-S127.
+5. Blonde L, Umpierrez GE, Reddy SS, et al. American Association of Clinical Endocrinology clinical
+practice guideline: developing a diabetes mellitus comprehensive care plan – 2022 update. Endocr
+Pract. 2022;18:923-1049.
+6. Boer IH, Khunti K, Sadusky T, et al. Diabetes management in chronic kidney disease: a consensus
+report by the American Diabetes Association (ADA) and Kidney Disease: Improving Global
+Outcomes (KDIGO). Kidney International. 2022;102:974-989.
+7. Samson SL, Vellanki P, Blonde L, et al. American Association of Clinical Endocrinology consensus
+statement: comprehensive type 2 diabetes management algorithm – 2023 update. Endocr Pract.
+2023;29:305-340.
+8. Kittleson MM, Panjrath GS, Amancherla K, et al. 2023 ACC expert consensus decision pathway on
+management of heart failure with preserved ejection fraction. JACC. 2023;81(18):1835-1878.
+9. Davies MJ, Aroda VR, Collins BS, et al. Management of hyperglycemia in type 2 diabetes, 2022. A
+consensus report by the American Diabetes Association (ADA) and the European Association for the
+Study of Diabetes (EASD). Diabetes Care. 2022;45:2753-2786.
+10. McDonagh TA, Metra M, Adamo M, et al; and the ESC Scientific Document Group. 2023 focused
+update of the 2021 ESC guidelines for the diagnosis and treatment of acute and chronic heart failure.
+Eur Heart J. 2023;44(37):3627-3639.
+11. American College of Cardiology Solution Set Oversight Committee. 2024 ACC expert consensus
+decision pathway for treatment of heart failure with reduced ejection fraction. JACC. 2024;85(15):
+1444-1488
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 06/14/2023
+Annual No criteria changes. 07/10/2024
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2024 The Cigna
+Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Inpefa Prior Authorization Policy

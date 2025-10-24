@@ -1,0 +1,62 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1444-2
+Program Prior Authorization/Notification
+Medication Voydeya™ (danicopan)
+P&T Approval Date 5/2024, 5/2025
+Effective Date 8/1/2025
+1. Background:
+Voydeya (danicopan) is a complement factor D inhibitor indicated as add-on therapy to
+Ultomiris (ravulizumab) or eculizumab for the treatment of extravascular hemolysis (EVH) in
+adults with paroxysmal nocturnal hemoglobinuria (PNH).1
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Voydeya will be approved based on all of the following criteria:
+a. Diagnosis of paroxysmal nocturnal hemoglobinuria (PNH)
+-AND-
+b. Patient is currently receiving complement protein C5 inhibitor eculizumab or
+Ultomiris (ravulizumab)
+-AND-
+c. Patient is experiencing extravascular hemolysis (EVH) while on complement protein
+C5 inhibitor eculizumab or Ultomiris (ravulizumab)
+-AND-
+d. Patient will continue to receive complement protein C5 inhibitor eculizumab or
+Ultomiris (ravulizumab)
+-AND-
+e. Patient is not receiving Voydeya in combination with a complement protein C3
+inhibitor [e.g., Empaveli (Pegcetacoplan)] or a complement factor B inhibitor [e.g.,
+Fabhalta (iptacopan)] used for the treatment of PNH
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Voydeya will be approved based on all of the following criteria:
+© 2025 UnitedHealthcare Services Inc.
+1
+a. Documentation of positive clinical response to Voydeya therapy [e.g., decrease in
+extravascular hemolysis (EVH), increased or stabilization of hemoglobin levels,
+reduction in transfusions, improvement in hemolysis, etc.]
+-AND-
+b. Patient continues to receive Voydeya in combination with complement protein C5
+inhibitor eculizumab or Ultomiris (ravulizumab) for PNH
+-AND-
+c. Patient is not receiving Voydeya in combination with a complement protein C3
+inhibitor [e.g., Empaveli (Pegcetacoplan)] or a complement factor B inhibitor [e.g.,
+Fabhalta (iptacopan)] used for the treatment of PNH
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may also be in place.
+4. References:
+1. Vodeya [package insert]. Boston, Massachusetts: Alexion Pharmaceuticals, Inc.; March 2024.
+Program Prior Authorization/Notification - VoydeyaTM (danicopan)
+Change Control
+5/2024 New program
+5/2025 Annual review. Updated list of C5 inhibitors by removing trade name of
+Soliris from eculizumab.
+© 2025 UnitedHealthcare Services Inc.
+2

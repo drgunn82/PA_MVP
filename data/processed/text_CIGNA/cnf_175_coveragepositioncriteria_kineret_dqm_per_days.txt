@@ -1,0 +1,254 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Inflammatory Conditions – Kineret Drug Quantity Management Policy –
+Per Days
+• Kineret® (anakinra subcutaneous injection – Biovitrim)
+REVIEW DATE: 02/05/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Indication
+Kineret, an interleukin-1 (IL-1) receptor antagonist, indicated for the following
+uses:1
+• Cryopyrin-associated periodic syndromes (CAPS) for treatment of
+neonatal-onset multisystem inflammatory disease (NOMID).
+• Deficiency of interleukin-1 receptor antagonist (DIRA).
+• Rheumatoid arthritis, to reduce the signs and symptoms and slow the
+progression of structural damage in adults with moderately to severely active
+disease who have failed one or more disease-modifying antirheumatic drugs
+(DMARDs) given ± DMARDs other than tumor necrosis factor inhibitors
+(TNFis).
+Dosing
+Kineret is administered by subcutaneous (SC) injection.1 A new syringe must be
+used for each dose. The graduated syringes allow for partial doses between 20 mg
+and 100 mg to be given. Any unused portion after each dose should be discarded.
+Regardless of indication, consider administration of the prescribed dose every other
+Page 1 of 6 - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Kineret Drug Quantity
+Management Policy – Per Days
+day for patients who have severe renal insufficiency or end stage renal disease
+(defined as creatinine clearance < 30 mL/min, as estimated from serum creatinine
+levels).
+• CAPS: 1 to 2 mg per kg once daily (QD) for patients with NOMID. The dose
+may be individually adjusted to a maximum of 8 mg per kg daily to control
+active inflammation. Adjust doses in 0.5 to 1 mg per kg increments. QD
+dosing is generally recommended, but dose may be split into twice daily
+administration.
+• DIRA: 1 to 2 mg per kg QD. The dose may be individually adjusted to a
+maximum of 8 mg per kg QD to control active inflammation. Adjust doses in
+0.5 to 1 mg per kg increments.
+• Rheumatoid arthritis: 100 mg QD at approximately the same time every
+day. Higher doses did not result in a higher response.
+Off-Label Use
+In addition to the FDA-approved uses, guidelines support the use of Kineret for the
+treatment of systemic juvenile idiopathic arthritis (SJIA) and Still’s disease.2-9
+Dosing of Kineret for the treatment of SJIA and Still’s disease varies based on
+reference, but guidelines support a dose of 4 mg per kg per day. However, higher
+doses may be needed. Kineret has also been granted Emergency Use Authorization
+for treatment of Coronavirus disease 2019 (COVID-19) in hospitalized adults with
+positive viral testing with pneumonia requiring supplemental oxygen (low- or high-
+flow oxygen) who are at risk of progressing to severe respiratory failure and likely
+to have an elevated plasma soluble urokinase plasminogen activator receptor
+(suPAR).10 The FDA recommends a dose of 100 mg SC QD for 10 days. In patients
+with a creatinine clearance < 30 mL consider a dose of 100 mg SC every other day
+for 5 total doses over 10 days.
+Availability
+Kineret is available as a 100 mg/0.67 mL prefilled syringes.1
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of Kineret and to manage potential premature dose
+escalation. If the Drug Quantity Management rule is not met for the requested
+medication at the point of service, coverage will be determined by the Criteria
+below. All approvals are provided for 1 year in duration, unless otherwise noted
+below.
+Drug Quantity Limit
+Product Strength and Form Retail Home Delivery
+Maximum Maximum
+Quantity Quantity
+per 28 Days per 84 Days
+Kineret® 100 mg/0.67 mL prefilled 28 syringes 84 syringes
+(anakinra subcutaneous syringe
+injection)
+6 Pages - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Kineret Drug Quantity
+Management Policy – Per Days
+Inflammatory Conditions – Kineret Drug Quantity Management Policy – Per
+Days product(s) is(are) covered as medically necessary when the following
+criteria is(are) met. Any other exception is considered not medically
+necessary.
+CRITERIA
+1. If the patient has cryopyrin-associated periodic syndromes (CAPS) or deficiency
+of interleukin-1 receptor antagonist (DIRA), approve a quantity sufficient to
+allow for a dose of up to 8 mg per kg per day for 28 days at retail or for 84 days
+at home delivery.
+Note: CAPS encompasses three rare genetic syndromes: familial cold
+autoinflammatory syndrome (FCAS), Muckle-Wells syndrome (MWS), and
+neonatal-onset multisystem inflammatory disease (NOMID) or chronic infantile
+neurological cutaneous and articular syndrome (CINCA). Refer to the table
+below for the maximum quantities that may be approved based on the patient’s
+weight. When the patient is in between two weights provided, use the higher
+weight to ensure an adequate quantity is approved.
+Table 1. Kineret Syringe Approval Quantity for CAPS or DIRA.
+Patient Maximum Dose per # of Approve the requested quantity, not to
+Weight Day syringes exceed the following number of syringes
+(8 mg/kg/day) per day Retail Home Delivery
+≤ 10 kg ≤ 80 mg 1 No override needed. Base limits provide a
+quantity sufficient.
+15 kg 120 mg 2 56 syringes per 28 168 syringes per 84
+days days
+20 kg 160 mg 2 56 syringes per 28 168 syringes per 84
+days days
+25 kg 200 mg 2 56 syringes per 28 168 syringes per 84
+days days
+30 kg 240 mg 3 84 syringes per 28 252 syringes per 84
+days days
+35 kg 280 mg 3 84 syringes per 28 252 syringes per 84
+days days
+40 kg 320 mg 4 112 syringes per 28 336 syringes per 84
+days days
+45 kg 360 mg 4 112 syringes per 28 336 syringes per 84
+days days
+50 kg 400 mg 4 112 syringes per 28 336 syringes per 84
+days days
+55 kg 440 mg 5 140 syringes per 28 420 syringes per 84
+days days
+60 kg 480 mg 5 140 syringes per 28 420 syringes per 84
+days days
+65 kg 520 mg 6 168 syringes per 28 504 syringes per 84
+days days
+70 kg 560 mg 6 168 syringes per 28 504 syringes per 84
+days days
+75 kg 600 mg 6 168 syringes per 28 504 syringes per 84
+days days
+80 kg 640 mg 7 196 syringes per 28 588 syringes per 84
+days days
+6 Pages - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Kineret Drug Quantity
+Management Policy – Per Days
+85 kg 680 mg 7 196 syringes per 28 588 syringes per 84
+days days
+90 kg 720 mg 8 224 syringes per 28 672 syringes per 84
+days days
+95 kg 760 mg 8 224 syringes per 28 672 syringes per 84
+days days
+100 kg 800 mg 8 224 syringes per 28 672 syringes per 84
+days days
+> 100 Consult Utilization Management Pharmacist to assist with quantity calculation.
+kg
+CAPS – Cryopyrin-associated periodic syndromes; DIRA – Deficiency of interleukin-1 receptor
+antagonist.
+2. If the patient has systemic juvenile idiopathic arthritis (SJIA) or Still’s disease,
+approve a quantity sufficient to allow for a dose of up to 4 mg per kg per day for
+28 days at retail or for 84 days at home delivery.
+Note: Refer to the table below for the maximum quantities approved based on
+the patient’s weight. When the patient is in between two weights provided, use
+the higher weight to ensure an adequate quantity is approved.
+Table 2. Kineret Syringe Approval Quantity for SJIA or Still’s Disease.
+Patient Maximum Dose per # of Approve the requested quantity, not to
+Weight Day syringes exceed the following number of syringes
+(4 mg/kg/day) per day Retail Home Delivery
+≤ 25 kg ≤ 100 mg 1 No override needed. Base limits provide a
+quantity sufficient.
+30 kg 120 mg 2 56 syringes per 28 168 syringes per 84
+days days
+35 kg 140 mg 2 56 syringes per 28 168 syringes per 84
+days days
+40 kg 160 mg 2 56 syringes per 28 168 syringes per 84
+days days
+45 kg 180 mg 2 56 syringes per 28 168 syringes per 84
+days days
+50 kg 200 mg 2 56 syringes per 28 168 syringes per 84
+days days
+55 kg 220 mg 3 84 syringes per 28 252 syringes per 84
+days days
+60 kg 240 mg 3 84 syringes per 28 252 syringes per 84
+days days
+65 kg 260 mg 3 84 syringes per 28 252 syringes per 84
+days days
+70 kg 280 mg 3 84 syringes per 28 252 syringes per 84
+days days
+75 kg 300 mg 3 84 syringes per 28 252 syringes per 84
+days days
+80 kg 320 mg 4 112 syringes per 28 336 syringes per 84
+days days
+85 kg 340 mg 4 112 syringes per 28 336 syringes per 84
+days days
+90 kg 360 mg 4 112 syringes per 28 336 syringes per 84
+days days
+95 kg 380 mg 4 112 syringes per 28 336 syringes per 84
+days days
+6 Pages - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Kineret Drug Quantity
+Management Policy – Per Days
+100 kg 400 mg 4 112 syringes per 28 336 syringes per 84
+days days
+> 100 Consult Utilization Management Pharmacist to assist with quantity calculation.
+kg
+SJIA - Systemic juvenile idiopathic arthritis.
+REFERENCES
+1. Kineret subcutaneous injection [prescribing information]. Stockholm, Sweden: Biovitrum;
+September 2024.
+2. Boom V, Anton J, Lahdenne P, et al. Evidence-based diagnosis and treatment of macrophage
+activation syndrome in systemic juvenile idiopathic arthritis. Pediatr Rheumatol Online J.
+2015;13(1):55.
+3. Riera E, Olivé A, Narváez J, et al. Adult onset Still's disease: review of 41 cases. Clin Exp
+Rheumatol. 2011;29(2):331-336.
+4. Lequerré T, Quartier P, Rosellini D, et al. Interleukin-1 receptor antagonist (anakinra) treatment
+in patients with systemic-onset juvenile idiopathic arthritis or adult onset Still's disease.
+Preliminary experience in France. Ann Rheum Dis. 2008;67:302-308.
+5. Fitzgerald AA, Leclercq SA, Yan A, et al. Rapid responses to anakinra in patients with refractory
+adult-onset Still's disease. Arthritis Rheum. 2005;52:1794-1803.
+6. Kötter I, Wacker A, Koch S, et al. Anakinra in patients with treatment-resistant adult-onset Still's
+disease: Four case reports with serial cytokine measurements and a review of the literature.
+Semin Arthritis Rheum. 2007;37:189-197.
+7. Kalliolias GD, Georgiou PE, Antonopoulos IA, et al. Anakinra treatment in patients with adult-
+onset Still's disease is fast, effective, safe and steroid sparing: experience from an uncontrolled
+trial. Ann Rheum Dis. 2007;66:842-843.
+8. Giampietro C, Ridene M, Lequerre T, et al. Anakinra in adult-onset Still's disease: long-term
+treatment in patients resistant to conventional therapy. Arthritis Care Res (Hoboken).
+2013;65(5):822-826.
+9. Ortiz-Sanjuán F1, Blanco R, Riancho-Zarrabeitia L, et al. Efficacy of anakinra in refractory adult-
+onset Still's disease: multicenter study of 41 patients and literature review. Medicine (Baltimore).
+2015;94(39):e1554.
+10. US Food and Drug Administration. Fact Sheet for Healthcare Providers: Emergency Use
+Authorization for Kineret. November 2022. Available at:
+https://www.fda.gov/media/163075/download. Accessed on January 27, 2025.
+History
+Type of Summary of Changes Review
+Revision Date
+Annual Policy was updated to reflect the existing quantity limits when a 01/04/2023
+Revision product is obtained via home delivery.
+Kineret 100 mg/0.67 mL prefilled syringe: New override criteria
+added to approve for a quantity sufficient for up to 4 mg per kg per
+day for 28 days at retail or 84 days at home delivery for a patient
+with systemic juvenile idiopathic arthritis or Still’s Disease.
+Annual No criteria changes. 01/04/2024
+Revision
+Annual Kineret 100 mg/0.67 mL prefilled syringe: Criteria Note updated 02/05/2025
+Revision to add “Refer to the table for the maximum quantities that may be
+approved based on the patient’s weight. When the patient is in
+between two weights provided, use the higher weight to ensure an
+adequate quantity is approved.” Tables were added to indicate the
+appropriate approval quantity based on the patient’s weight.
+6 Pages - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Kineret Drug Quantity
+Management Policy – Per Days
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. ©
+2025 The Cigna Group.
+6 Pages - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Kineret Drug Quantity
+Management Policy – Per Days

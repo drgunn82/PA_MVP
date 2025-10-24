@@ -1,0 +1,188 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Antifungals – Cresemba (Oral) Prior Authorization Policy
+• Cresemba® (isavuconazonium sulfate capsules − Astellas)
+REVIEW DATE: 07/16/2025; selected revision 08/06/2025
+•
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Cresemba, an azole antifungal, is indicated in adults and pediatric patients ≥ 6
+years of age who weigh ≥ 16 kg for the following uses:1
+• Invasive aspergillosis.
+• Invasive mucormycosis.
+Cresemba is also available for use as an intravenous (IV) infusion.1 Switching
+between the IV and oral formulation is acceptable as the two formulations are
+bioequivalent. A loading dose is not required when switching between formulations.
+Patients are typically transitioned from the IV formulation to the oral formulation
+while in the hospital or upon discharge. In the pivotal study involving patients with
+invasive aspergillosis, patients were initiated on IV Cresemba before transitioning to
+oral Cresemba therapy. The mean treatment duration was 47 days, of which
+patients received IV Cresemba for 8 to 9 days.
+Page 1 of 5 - Cigna National Formulary Coverage - Policy: Antifungals – Cresemba (Oral) Prior Authorization
+Policy
+Guidelines/Recommendations
+The Infectious Diseases Society of America (IDSA) [2016] recommends Cresemba
+as a treatment option for invasive aspergillosis and different invasive syndromes of
+Aspergillus (e.g., invasive pulmonary aspergillosis, invasive sinus aspergillosis,
+aspergillosis of the central nervous system).2 Treatment of invasive aspergillosis
+should be continued for a minimum of 6 to 12 weeks, depending on the degree and
+duration of immunosuppression, site of disease, and evidence of disease
+improvement.
+The global guideline for the diagnosis and management of mucormycosis (2019)
+recommends Cresemba as a treatment option with moderate strength. The duration
+of therapy to treat mucormycosis is unknown, but in general weeks to month of
+therapy are required.5 In an open-label, non-comparative study that included a
+subset of patients with invasive mucormycosis, patients were treated with either IV
+or oral Cresemba. The median duration of Cresemba therapy was 102 days for
+patients classified as primary, 33 days for refractory, and 85 days for intolerant.1
+Other Uses with Supportive Evidence
+The National Comprehensive Cancer Network (NCCN) Guidelines for Prevention and
+Treatment of Cancer-Related Infections (version 1.2025 – June 20, 2025) note that
+use of Cresemba may be considered for patients who have invasive or refractory
+aspergillosis or mucormycosis or who have intolerance to amphotericin B
+formulations.3 NCCN also notes Cresemba as a treatment option for the prevention
+of fungal infections in patients with significant graft-versus-host disease (GVHD)
+[especially grade 3/4] who are receiving immunosuppressive therapy; treatment
+should continue until resolution of significant GVHD. Cresemba is also a treatment
+option for these groups of patients with neutropenia: patients with myelodysplastic
+syndrome, patients with acute myeloid leukemia, and patients who are allogeneic
+hematopoietic cell transplant recipients; treatment should continue until resolution
+of neutropenia.
+The guidelines for prevention and treatment of opportunistic infections in adults and
+adolescents with human immunodeficiency virus (HIV) infections (last updated April
+2025) note Cresemba as a treatment option for patients with HIV and esophageal
+candidiasis.4 Cresemba is also an option for patients with HIV and
+coccidioidomycosis.
+The global guideline for the diagnosis and management of cryptococcosis (2024)
+note Cresemba as an alternative treatment option for patients with cryptococcal
+meningitis.6 This is a moderate strength recommendation as Cresemba and other
+triazole drugs have not been formally studied in cryptococcosis.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Cresemba
+capsules. All approvals are provided for the duration noted below. In cases where
+the approval is authorized in months, 1 month is equal to 30 days.
+Page 2 of 5 - Cigna National Formulary Coverage - Policy: Antifungals – Cresemba (Oral) Prior Authorization
+Policy
+• Cresemba® (isavuconazonium sulfate capsules - Astellas)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Aspergillus Infection – Treatment. Approve for 6 months.
+2. Mucormycosis – Treatment. Approve for 6 months.
+Other Uses with Supportive Evidence
+3. Esophageal Candidiasis in a Patient with Human Immunodeficiency
+Virus Infection – Treatment. Approve for 3 months.
+4. Fungal Infection (Systemic) in a Patient with Human Immunodeficiency
+Virus Infection – Treatment. Approve for 3 months.
+5. Fungal Infection (Systemic) in a Patient With Cancer and Neutropenia –
+Prophylaxis. Approve for 6 months.
+Note: Examples of cancers predisposing neutropenic patients to risk of fungal
+infections include: myelodysplastic syndrome, acute myeloid leukemia, patients
+post-allogeneic hematopoietic cell transplant.
+6. Fungal Infection (Systemic) in a Patient with Graft-versus-Host Disease
+– Prophylaxis. Approve for 6 months.
+7. Coccidioidomycosis in a Patient with Human Immunodeficiency Virus
+Infection – Treatment. Approve for 6 months.
+8. Cryptococcal Meningitis – Treatment. Approve for 12 months.
+9. Fungal Infection (Systemic) That Is Susceptible to Cresemba –
+Treatment. Approve for 3 months.
+10. Patient is Currently Receiving Cresemba. Approve for 3 months to
+complete the course of therapy.
+CONDITIONS NOT COVERED
+• Cresemba® (isavuconazonium sulfate capsules - Astellas)
+Page 3 of 5 - Cigna National Formulary Coverage - Policy: Antifungals – Cresemba (Oral) Prior Authorization
+Policy
+is(are) considered not medically necessary for ANY other use(s); criteria
+will be updated as new published data are available.
+REFERENCES
+1. Cresemba® capsules [prescribing information]. Northbrook, IL: Astellas Pharma; April 2025
+2. Patterson TF, Thompson GR, Denning DW, et al. Practice guidelines for the diagnosis and
+management of aspergillosis: 2016 update by the Infectious Diseases Society of America. Clin
+Infect Dis. 2016;63(4):e1-e60.
+3. The NCCN Prevention and Treatment of Cancer-Related Infections Clinical Practice Guidelines in
+Oncology (version 1.2025 – June 20, 2025). ©2025 National Comprehensive Cancer Network.
+Available at: http://www.nccn.org. Accessed on July 1, 2025.
+4. Panel on Opportunistic Infections in HIV-Infected Adults and Adolescents. Guidelines for the
+prevention and treatment of opportunistic infections in HIV-infected adults and adolescents:
+recommendations from the Centers for Disease Control and Prevention, the National Institutes of
+Health, and the HIV Medicine Association of the Infectious Diseases Society of America. Available
+at: https://clinicalinfo.hiv.gov/sites/default/files/guidelines/documents/adult-adolescent-
+oi/guidelines-adult-adolescent-oi.pdf. Last updated April 23, 2025. Accessed on July 1, 2025.
+Cornely OA, Izquierdo AA, Arenz D, et al. Global guideline for the diagnosis and management of
+mucormycosis: an initiative of the European confederation of medical mycology in cooperation
+with the mycoses study group education and research consortium. Lancet Infect Dis.
+2019;19(12): e405-421.
+5. Chang CC, Harrison TS, Bicanic TA, et al. Global guideline for the diagnosis and management of
+cryptococcosis: an initiative of the ECMM and ISAHM in cooperation with the ASM. Lancet Infect
+Dis. 2024;24(8): e485.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Fungal Infection (Systemic) in a Patient with Graft-versus- 07/26/2023
+Revision Host Disease – Prophylaxis: This condition of approval was
+added to the policy.
+Fungal Infection (Systemic) in a Patient with Cancer and
+Neutropenia – Prophylaxis: This indication was previously
+worded as “Fungal Infection (Systemic) in a Patient At Risk of
+Neutropenia – Prophylaxis” and was revised to align with NCCN.
+Examples of cancers predisposing neutropenic patients to risk of
+fungal infections were added as a Note.
+Update Added the new indication of adults and pediatric patients ≥ 6 years 01/10/2024
+of age who weigh ≥ 16 kg. No criteria changes.
+Annual No criteria changes. 07/31/2024
+Revision
+Annual Aspergillus Infection – Treatment: The duration of approval 07/16/2025
+Revision was changed to 6 months. Previously it was 3 months.
+Mucormycosis – Treatment: The duration of approval was
+changed to 6 months. Previously it was 3 months.
+Esophageal Candidiasis (Systemic) in a Patient with Human
+Immunodeficiency Virus: Updated to as written. Previously this
+condition of approval was titled “Candidiasis (Systemic) in a Patient
+with Human Immunodeficiency Virus.”
+Coccidioidomycosis in a Patient with Human
+Immunodeficiency Virus – Treatment: New condition of
+approval was added to Other Uses with Supportive Evidence.
+Cryptococcal Meningitis – Treatment: New condition of approval
+was added to Other Uses with Supportive Evidence.
+Page 4 of 5 - Cigna National Formulary Coverage - Policy: Antifungals – Cresemba (Oral) Prior Authorization
+Policy
+Selected Esophageal Candidiasis in a Patient with Human 08/06/2025
+Revision Immunodeficiency Virus: Updated to as written. Previously this
+condition of approval was titled “Esophageal Candidiasis (Systemic)
+in a Patient with Human Immunodeficiency Virus.”
+Fungal Infection (Systemic) in a Patient with Human
+Immunodeficiency Virus: New condition of approval was added
+to the Other Uses with Supportive Evidence.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 5 of 5 - Cigna National Formulary Coverage - Policy: Antifungals – Cresemba (Oral) Prior Authorization
+Policy

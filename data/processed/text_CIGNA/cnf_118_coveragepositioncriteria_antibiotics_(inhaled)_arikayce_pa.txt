@@ -1,0 +1,229 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Antibiotics (Inhaled) – Arikayce Prior Authorization Policy
+• Arikayce® (amikacin liposome suspension for oral inhalation –
+Insmed)
+REVIEW DATE: 10/23/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Arikayce is indicated for the treatment of Mycobacterium avium complex (MAC)
+lung disease, in adults who have limited or no alternative treatment options, as part
+of a combination antibacterial regimen in patients who do not achieve negative
+sputum cultures after at least 6 consecutive months of a background multidrug
+regimen (MDR) therapy.1 As only limited clinical safety and efficacy data are
+available, reserve Arikayce for adults with limited or no other treatment options.
+This indication was approved under accelerated approval based on achieving sputum
+culture conversion (defined as three consecutive negative monthly sputum cultures)
+by Month 6.1
+Limitation of Use: Arikayce has only been studied in patients with refractory MAC
+lung disease defined as not achieving culture negativity after at least 6 months of
+background MDR treatment.1 Arikayce is not recommended in patients with non-
+refractory MAC lung disease.
+Efficacy
+Page 1 of 5 - Cigna National Formulary Coverage - Policy:Antibiotics (Inhaled) – Arikayce Prior Authorization Policy
+The efficacy of Arikayce was established in one open-label, randomized (2:1), multi-
+center trial in patients with refractory MAC lung disease as confirmed by at least 2
+sputum culture results (n = 336).7 Patients were considered to have refractory MAC
+lung disease if they did not achieve negative sputum cultures after a minimum
+duration of 6 consecutive months of background regimen therapy that was either
+ongoing or stopped ≤ 12 months before the screening visit. The surrogate efficacy
+endpoint was based on achieving culture conversion (3 consecutive monthly negative
+sputum cultures) by Month 6. Patients who achieved culture conversion by Month 6
+were continued on Arikayce plus background multidrug regimen or background
+multidrug regimen alone based on their randomization for a total of 12 months after
+the first negative sputum culture. At baseline, 329 patients were on a multidrug
+background regimen that included a macrolide (93.3%), a rifamycin (86.3%), or
+ethambutol (81.4%). The proportion of patients achieving culture conversion by
+Month 6 was significantly greater with Arikayce plus background multidrug regimen
+vs. background multidrug regimen alone (29% vs. 8.9%, respectively; P < 0.0001).
+Among patients who achieved culture conversion by Month 6, 55.4% of patients in
+the Arikayce group vs. no patients in the background multidrug regimen only group
+had sustained and durable conversion (P = 0.0017).8 Relapse rates through 3
+months after treatment were 9.2% in the Arikayce group vs. 30.0% in the
+background therapy only group.
+Guidelines
+The American Thoracic Society, the European Respiratory Society, the European
+Society of Clinical Microbiology and Infectious Disease, and the Infectious Disease
+Society of America developed clinical practice guidelines for the treatment of
+nontuberculous mycobacterial (NTM) pulmonary disease (2020).2 Treatment
+recommendations for MAC lung disease are based on disease severity and previous
+therapies received and almost all are three drug regimens. Typical regimens involve
+azithromycin or clarithromycin; ethambutol; and rifampin. For select patients, a two-
+drug regimen consisting of azithromycin or clarithromycin plus ethambutol daily is
+acceptable. Liposomal amikacin is not recommended for the initial treatment of MAC
+pulmonary disease. The guidelines recommend the addition of liposomal amikacin to
+guideline-based therapy in patients with MAC pulmonary disease who have failed
+treatment (failure to convert sputum culture) after ≥ 6 months of treatment with
+guideline-based therapy. Patients should be treated for ≥12 months after culture
+conversion. The breakpoint for resistance to amikacin is ≥ 64 mcg/mL for parenteral
+amikacin and ≥ 128 mcg/mL for amikacin liposome inhalation suspension, and finding
+these MICs would lead to cessation of therapy. In patients with MAC pulmonary
+disease, guidelines suggest susceptibility-based treatment for macrolides and
+amikacin over empiric therapy (conditional recommendation, very low certainty in
+estimates of effect).
+The US Cystic Fibrosis Foundation and the European Cystic Fibrosis Society (2016
+version) developed consensus recommendations on the treatment of NTM lung
+disease in which nebulized amikacin is listed as a treatment option for MAC and M.
+abscessus lung disease in cystic fibrosis (CF) patients.3 The guidelines recommend
+that inhaled amikacin be used in conjunction with other NTM antibiotics.
+5 Pages - Cigna National Formulary Coverage - Policy:Antibiotics (Inhaled) – Arikayce Prior Authorization Policy
+Other Uses with Supportive Evidence
+The efficacy of Arikayce in the treatment of Pseudomonas aeruginosa infection in
+patients with CF has been assessed in three studies.4 In a Phase III, randomized,
+open-label, non-inferiority study, patients with CF were randomized to Arikayce 590
+mg once daily (QD) or tobramycin inhalation solution (TIS) 300 mg twice daily (n =
+302). Patients received three cycles of treatment which consisted of 28 days on
+treatment followed by 28 days off treatment. The primary endpoint of the study was
+the relative change from baseline to the end of the 24-week study in forced expiratory
+volume in 1 second (FEV ). FEV improvement at Day 168 with Arikayce was non-
+1 1
+inferior to TIS (mean difference -1.31%). More patients receiving Arikayce
+experienced pulmonary exacerbations compared with TIS; however, fewer patients
+required all-cause hospitalization. Change in CF Questionnaire Revised was similar
+between groups at the end of each treatment course. Mean reductions in P.
+aeruginosa log CFU was similar for Arikayce and TIS at Day 28 and at Day 140.
+10
+A pooled report included 24 patients with CF and chronic P. aeruginosa infection from
+two Phase Ib/IIa pharmacokinetic/pharmacodynamic studies.5 Patients received
+liposomal amikacin 500 mg QD by inhalation for 14 days. Statistically significant
+changes from baseline to Days 7 and 14 were seen in FEV , FEV % predicted, and
+1 1
+forced expiratory flow between 25% and 75% of forced vital capacity. Another report
+included pooled data from two dose-ranging studies (one Phase Ib/IIa and one Phase
+IIa) in patients with CF (n = 105) chronically infected with P. aeruginosa.6 Patients
+received 70-, 140-, 280- or 560-mg of liposomal amikacin or placebo QD for 28 days
+and were followed for an additional 28 days. In repeated-measures mixed-effect
+models, the 560 mg dose was associated with statistically significant improvements
+in FEV , and FEV % predicted and a reduction in log CFUs.
+1 1 10
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Arikayce. All
+approvals are provided for the duration noted below. In cases where the approval
+duration is authorized in months, 1 month is equal to 30 days. Because of the
+specialized skills required for evaluation and diagnosis of patients treated with
+Arikayce as well as the monitoring required for adverse events and long-term
+efficacy, initial approval requires Arikayce to be prescribed by or in consultation with
+a physician who specializes in the condition being treated.
+• Arikayce® (amikacin liposome suspension for oral inhalation –
+Insmed)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Mycobacterium avium Complex Lung Disease. Approve for the duration noted
+if the patient meets ONE of the following (A or B):
+5 Pages - Cigna National Formulary Coverage - Policy:Antibiotics (Inhaled) – Arikayce Prior Authorization Policy
+A) Initial Therapy. Approve for 1 year of the patient meets ALL of the following (i,
+ii, iii, iv, v, and vi):
+i. Patient is > 18 years of age; AND
+ii. Patient has completed ≥ 6 consecutive months of a background multidrug
+regimen; AND
+Note: A multidrug regimen typically includes a macrolide (azithromycin or
+clarithromycin), ethambutol, and a rifamycin (rifampin or rifabutin).
+iii. Patient has a positive sputum culture for Mycobacterium avium complex;
+AND
+Note: Any positive sputum culture taken after the patient has completed
+≥ 6 consecutive months of a background multidrug regimen fulfills this
+criterion.
+iv. The Mycobacterium avium complex isolate is susceptible to amikacin,
+according to the laboratory report; AND
+v. The medication will be used in conjunction with a background multidrug
+regimen; AND
+Note: A multidrug regimen typically includes a macrolide (azithromycin or
+clarithromycin), ethambutol, and a rifamycin (rifampin or rifabutin).
+vi. The medication is prescribed by a pulmonologist, infectious diseases
+physician, or a physician who specializes in the treatment of Mycobacterium
+avium complex lung infections.
+B) Patient is Currently Receiving Arikayce. Approve for the duration noted below
+if the patient meets BOTH of the following (i and ii):
+i. The medication will be used in conjunction with a background multidrug
+regimen; AND
+Note: A multidrug regimen typically includes a macrolide (azithromycin or
+clarithromycin), ethambutol, and a rifamycin (rifampin or rifabutin).
+ii. Patient meets ONE of the following (a or b):
+a) Approve for 1 year if patient has not achieved negative sputum cultures
+for Mycobacterium avium complex; OR
+b) Approve for 1 year (total) if patient has achieved negative sputum
+cultures for Mycobacterium avium complex for less than 12 months.
+Note: Approve enough Arikayce to complete 12 months of therapy
+following a negative sputum culture for Mycobacterium avium complex.
+Other Uses with Supportive Evidence
+2. Cystic Fibrosis. Approve for 1 year if the patient meets the following (A and B):
+A) Patient has Pseudomonas aeruginosa in culture of the airway (e.g., sputum
+culture, oropharyngeal culture, bronchoalveolar lavage culture); AND
+B) The medication is prescribed by or in consultation with a pulmonologist or a
+physician who specializes in the treatment of cystic fibrosis.
+CONDITIONS NOT COVERED
+• Arikayce® (amikacin liposome suspension for oral inhalation –
+Insmed)
+5 Pages - Cigna National Formulary Coverage - Policy:Antibiotics (Inhaled) – Arikayce Prior Authorization Policy
+is(are) considered experimental, investigational or unproven for ANY other
+use(s); criteria will be updated as new published data are available.
+REFERENCES
+1. Arikayce® suspension for oral inhalation [prescribing information]. Bridgewater, NJ: Insmed;
+February 2023.
+2. Daley CL, Iaccarino JM, Lange C, et al. Treatment of nontuberculous mycobacterial pulmonary
+disease: An official ATS/ERS/ESCMID/IDSA clinical practice guideline. Eur Respir J.
+2020;56:2000535.
+3. Floto RA, Olivier KN, Saiman L, et al. US Cystic Fibrosis Foundation and European Cystic Fibrosis
+Society consensus recommendations for the management of non-tuberculous mycobacteria in
+individuals with cystic fibrosis. Thorax. 2016;7:i1-i22.
+4. Bilton D, Pressler T, Fajac I, et al. Amikacin liposome inhalation suspension for chronic Pseudomonas
+aeruginosa infection in cystic fibrosis. J Cyst Fibros. 2020;19:284-291.
+5. Okusanya OO, Bhavnani SM, Hammel J, et al. Pharmacokinetic and pharmacodynamic evaluation of
+liposomal amikacin for inhalation in cystic fibrosis patients with chronic Pseudomonal infection.
+Antimicrob Agents Chemother. 2009;53:3847-3854.
+6. Okusanya OO, Bhavnani SM, Hammel JP, et al. Evaluation of the pharmacokinetics and
+pharmacodynamics of liposomal amikacin for inhalation in cystic fibrosis patients with chronic
+Pseudomonal infections using data from two Phase 2 clinical studies. Antimicrob Agents Chemother.
+2014;58:5005-5015.
+7. Griffith DE, Eagle G, Thomson R et al; for the CONVERT Study Group. Amikacin liposome inhalation
+suspension for treatment-refractory lung disease caused by Mycobacterium avium complex
+(CONVERT) a prospective, open-label, randomized study. Am J Respir Crit Care Med.
+2018;198(12):1559-1569.
+8. Griffith DE, Thomson R, Flume P et al; for the CONVERT Study Group. Amikacin liposome inhalation
+suspension for refractory Mycobacterium avium complex lung disease. Chest. 2021;160(3):831-
+842.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Mycobacterium avium Complex Lung Disease: The criterion 10/25/2023
+Revision requiring the patient to have a Mycobacterium avium complex
+isolate susceptible to amikacin with a minimum inhibitor
+concentration (MIC) of ≤ 64 mcg/mL was modified to remove the
+requirement for the MIC value < 64 mcg/mL. The criterion now
+requires that the patient has a Mycobacterium avium complex
+isolate susceptible to amikacin, according to the laboratory report.
+Annual Mycobacterium avium Complex Lung Disease: A note was 10/23/2024
+Revision added to the criterion that the patient has a positive sputum culture
+for Mycobacterium avium complex to clarify that any positive
+sputum culture taken after the patient has completed > 6
+consecutive months of a background multidrug regimen fulfills this
+criterion.. Criteria that required the sputum culture was collected
+within the past 3 months AND was collected AFTER the patient had
+completed ≥ 6 consecutive months of a background multidrug
+regimen, was removed.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2024 The Cigna
+Group.
+5 Pages - Cigna National Formulary Coverage - Policy:Antibiotics (Inhaled) – Arikayce Prior Authorization Policy

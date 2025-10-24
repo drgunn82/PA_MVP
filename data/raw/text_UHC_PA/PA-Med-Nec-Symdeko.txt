@@ -1,0 +1,112 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2139-10
+Program Prior Authorization/Medical Necessity
+Medication Symdeko® (tezacaftor/ivacaftor)
+P&T Approval Date 2/2018, 2/2019, 8/2019, 8/2020, 8/2021, 8/2022, 6/2023, 6/2024, 6/2025
+Effective Date 9/1/2025
+1. Background:
+Symdeko is a combination of tezacaftor and ivacaftor, indicated for the treatment of patients
+with cystic fibrosis (CF) age 6 years and older who are homozygous for the F508del mutation
+or who have at least one mutation in the cystic fibrosis transmembrane conductance regulator
+(CFTR) gene that is responsive to tezacaftor/ivacaftor based on in vitro data and/or clinical
+evidence.
+If the patient’s genotype is unknown, an FDA-cleared CF mutation test should be used to detect
+the presence of a CFTR mutation followed by verification with bi-directional sequencing when
+recommended by the mutation test instructions for use.
+Members will be required to meet the coverage criteria below.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Symdeko will be approved based upon all of the following criteria:
+a. Diagnosis of cystic fibrosis (CF)
+-AND-
+b. Submission of laboratory results documenting one of the following:
+(1) The patient is homozygous for the F508del mutation in the CFTR gene.
+-OR-
+(2) The patient has at least one of the following mutations in the CFTR gene that is
+responsive to Symdeko^:
+^List of CFTR gene mutations responsive to Symdeko. A complete up to date list of responsive
+mutations can be referenced in the Symdeko Prescribing Information.
+546insCTA E92K G576A L346P R117G S589N
+711+3A→G E116K G576A; L967S R117H S737F
+* R668C †
+© 2025 UnitedHealthcare Services, Inc.
+1
+2789+5G→ E193K G622D L997F R117L S912L
+A*
+3272- E403D G970D L1324P R117P S945L *
+26A→G*
+3849+10kbC E588V G1069R L1335P R170H S977F*
+→T *
+A120T E822K G1244E L1480P R258G S1159F
+A234D E831X G1249R M152V R334L S1159P
+A349V F191V G1349D M265R R334Q S1251N
+A455E * F311del H939R M952I R347H * S1255P
+A554E F311L H1054D M952T R347L T338I
+A1006E F508C H1375P P5L R347P T1036N
+A1067T F508C; I148T P67L * R352Q * T1053I
+S1251N †
+D110E F508del ‡ I175V P205S R352W V201M
+D110H * F575Y I336K Q98R R553Q V232D
+D192G F1016S I601F Q237E R668C V562I
+D443Y F1052V I618T Q237H R751L V754M
+D443Y; F1074L I807M Q359R R792G V1153E
+G576A;
+R668C †
+D579G * F1099L I980K Q1291R R933G V1240G
+D614G G126D I1027T R31L R1066H V1293G
+D836Y G178E I1139V R74Q R1070Q W1282R
+D924N G178R I1269N R74W R1070W * Y109N
+D979V G194R I1366N R74W; R1162L Y161S
+D1270N †
+D1152H * G194V K1060T R74W; R1283M Y1014C
+V201M †
+© 2025 UnitedHealthcare Services, Inc.
+2
+D1270N G314E L15P R74W; R1283S Y1032C
+V201M;
+D1270N †
+E56K G551D L206W * R75Q S549N
+E60K G551S L320V R117C * S549R
+* Clinical data for these mutations in Clinical Studies.
+† Complex/compound mutations where a single allele of the CFTR gene has multiple mutations;
+these exist independent of the presence of mutations on the other allele.
+-AND-
+c. Prescribed by or in consultation with a provider who specializes in the treatment of CF
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Symdeko will be approved based on the following criterion:
+a. Documentation of positive clinical response to Symdeko therapy (e.g., improved lung
+function, stable lung function)
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Symdeko [Package Insert]. Boston, MA: Vertex Pharmaceuticals, Inc.; August 2023.
+Program Prior Authorization/Medical Necessity – Symdeko (tezacaftor/ivacaftor)
+Change Control
+2/2018 New program
+3/2018 Administrative change to correct typo.
+2/2019 Annual review. No changes to coverage criteria.
+© 2025 UnitedHealthcare Services, Inc.
+3
+8/2019 Updated coverage criteria according to label. Updated background and
+reference.
+8/2020 Annual review with no changes to coverage criteria. Updated reference.
+8/2021 Annual review. Updated with most recent approved mutation table.
+Decreased re-authorization to 12 months. Updated reference.
+8/2022 Annual review. Removed age criteria. Updated reference.
+6/2023 Updated prescriber requirement and simplified reauthorization criteria.
+6/2024 Annual review. Updated initial authorization approval duration to 12
+months. Simplified reauthorization criteria. Updated reference.
+6/2025 Annual review. No changes to coverage criteria. Added notation in the
+CFTR gene mutations table.
+© 2025 UnitedHealthcare Services, Inc.
+4

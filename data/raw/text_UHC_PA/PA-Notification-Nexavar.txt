@@ -1,0 +1,289 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1067-13
+Program Prior Authorization/Notification
+Medication Nexavar® (sorafenib tosylate)
+P&T Approval Date 8/2008, 6/2009, 6/2010, 9/2010, 12/2010, 7/2011, 8/2012, 7/2013,
+8/2014, 8/2015, 8/2016, 7/2017, 7/2018, 9/2019, 9/2020, 9/2021,
+9/2022, 9/2023, 9/2024
+Effective Date 12/1/2024
+1. Background:
+Nexavar® (sorafenib tosylate) is a kinase inhibitor indicated for the treatment of unresectable
+hepatocellular carcinoma, advanced renal cell carcinoma and locally recurrent or metastatic,
+progressive, differentiated thyroid carcinoma refractory to radioactive iodine treatment.
+The National Comprehensive Cancer Network also recommends the use of Nexavar for the
+treatment of gastrointestinal stromal tumor (GIST), chordoma, osteosarcoma, acute myeloid
+leukemia (AML), soft tissue sarcoma, salivary gland tumors, ovarian/fallopian tube
+cancer/primary peritoneal cancer, and myeloid/lymphoid neoplasms with tyrosine kinase gene
+fusions.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Nexavar will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Renal Cell Carcinoma (RCC)
+1. Initial Authorization
+a. Nexavar will be approved based on both of the following criteria:
+(1) Diagnosis of renal cell carcinoma (RCC)
+© 2024 UnitedHealthcare Services, Inc.
+1
+-AND-
+(2) One of the following:
+(a) Disease has relapsed
+-OR-
+(b) Both of the following:
+i. Medically or surgically unresectable tumor
+ii. Diagnosis of Stage IV disease
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Nexavar will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Nexavar
+therapy
+Authorization will be issued for 12 months.
+C. Hepatocellular Carcinoma
+1. Initial Authorization
+a. Nexavar will be approved based on both of the following criteria:
+(1) Diagnosis of hepatocellular carcinoma
+-AND-
+(2) One of the following:
+(a) Patient has metastatic disease
+-OR-
+(b) Patient has extensive liver tumor burden
+-OR-
+(c) Patient is inoperable by performance status or comorbidity (local
+disease or local disease with minimal extrahepatic disease only)
+-OR-
+(d) Both of the following:
+© 2024 UnitedHealthcare Services, Inc.
+2
+i. Patient is not a transplant candidate
+ii. Disease is unresectable
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Nexavar will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Nexavar
+therapy
+Authorization will be issued for 12 months.
+D. Thyroid Cancer
+1. Initial Authorization
+a. Nexavar will be approved based on one of the following criteria:
+(1) All of the following:
+(a) Diagnosis of one of the following:
+i. Follicular carcinoma
+ii. Oncocytic carcinoma
+iii. Papillary carcinoma
+-AND-
+(b) One of the following:
+i. Unresectable recurrent disease
+ii. Persistent locoregional disease
+iii. Metastatic disease
+-AND-
+(c) One of the following:
+i. Patient has symptomatic disease
+ii. Patient has progressive disease
+-AND-
+(d) Disease is refractory to radioactive iodine treatment
+-OR-
+© 2024 UnitedHealthcare Services, Inc.
+3
+(2) All of the following:
+(a) Diagnosis of medullary thyroid carcinoma
+-AND-
+(b) One of the following:
+i. Disease is progressive
+ii. Disease is symptomatic with distant metastases
+-AND-
+(c) History of failure, contraindication, or intolerance to one of the
+following:
+i. Caprelsa (vandetanib)
+ii. Cometriq (cabozantinib)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Nexavar will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Nexavar
+therapy
+Authorization will be issued for 12 months.
+E. Soft Tissue Sarcoma
+1. Initial Authorization
+a. Nexavar will be approved based on one of the following criteria:
+(1) Diagnosis of angiosarcoma
+-OR-
+(2) Diagnosis of desmoid tumors / aggressive fibromatosis
+-OR-
+(3) Both of the following:
+(a) Diagnosis of progressive gastrointestinal stromal tumors (GIST)
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+4
+(b) History of failure, contraindication, or intolerance to one of the following:
+i. Gleevec (imatinib)
+ii. Sutent (sunitinib)
+iii. Stivarga (regorafenig)
+iv. Qinlock (ripretinib)
+-OR-
+(4) Diagnosis of solitary fibrous tumor/hemangiopericytoma
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Nexavar will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Nexavar
+therapy
+Authorization will be issued for 12 months.
+F. Bone Cancer
+1. Initial Authorization
+a. Nexavar will be approved based on the following criteria:
+(1) Both of the following:
+(a) Diagnosis of chordoma
+-AND-
+(b) Disease is recurrent
+-OR-
+(2) Both of the following
+(a) One of the following:
+i. Diagnosis of osteosarcoma
+ii. Diagnosis of dedifferentiated chondrosarcoma
+ii. Diagnosis of high-grade undifferentiated pleomorphic sarcoma (UPS)
+-AND-
+(b) Not used as first-line therapy
+© 2024 UnitedHealthcare Services, Inc.
+5
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Nexavar will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Nexavar
+therapy
+Authorization will be issued for 12 months.
+G. Acute Myeloid Leukemia
+1. Initial Authorization
+a. Nexavar will be approved based on all of the following criteria:
+(1) Diagnosis of acute myeloid leukemia (AML)
+-AND-
+(2) Patient has FLT3-ITD mutation-positive disease
+-AND-
+(3) One of the following:
+(a) Patient has relapsed disease
+(b) Patient has refractory disease
+-AND-
+(4) Used in combination with one of the following:
+(a) Vidaza (azacitidine)
+(b) Dacogen (decitabine)
+-AND-
+(5) Patient is unable to tolerate more aggressive treatment regimens
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Nexavar will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Nexavar
+therapy
+© 2024 UnitedHealthcare Services, Inc.
+6
+Authorization will be issued for 12 months.
+H. Ovarian Cancer
+1. Initial Authorization
+a. Nexavar will be approved based on all of the following criteria:
+(1) Diagnosis of one of the following:
+(a) Ovarian cancer
+(b) Fallopian tube cancer
+(c) Primary peritoneal cancer
+-AND-
+(2) One of the following:
+(a) Patient has persistent disease
+(b) Patient has recurrent disease
+-AND-
+(3) Disease is platinum-resistant
+-AND-
+(4) Used in combination with topotecan
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Nexavar will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Nexavar
+therapy
+Authorization will be issued for 12 months.
+I. Salivary Gland Tumor
+1. Initial Authorization
+a. Nexavar will be approved based on all of the following criteria:
+(1) Diagnosis of salivary gland tumor
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+7
+(2) Disease is one of the following:
+(a) Recurrent and unresectable
+(b) Metastatic
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Nexavar will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Nexavar
+therapy
+Authorization will be issued for 12 months.
+J. Myeloid/Lymphoid Neoplasms
+1. Initial Authorization
+a. Nexavar will be approved based on all of the following criteria:
+(1) Diagnosis of myeloid/lymphoid neoplasm with eosinophilia and FLT3
+rearrangement
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Nexavar will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Nexavar
+therapy
+Authorization will be issued for 12 months.
+K. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B.
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+© 2024 UnitedHealthcare Services, Inc.
+8
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim
+logic. Use of automated approval and re-approval processes varies by program and/or
+therapeutic class.
+• Supply limit may be in place.
+4. References:
+1. Nexavar [package insert]. Wayne, NJ: Bayer HealthCare Pharmaceuticals Inc.; August 2023.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+www.nccn.org . Accessed July 28, 2024.
+Program Prior Authorization/Notification - Nexavar (sorafenib tosylate)
+Change Control
+8/2014 Annual review with changes to Coverage Criteria for hepatocellular
+carcinoma, GIST and Thyroid Cancer. Updated formatting, Background
+and References.
+9/2014 Administrative change - Tried/Failed exemption for State of New Jersey
+removed.
+8/2015 Annual review. Updated thyroid cancer and osteosarcoma criteria.
+Moved GIST criteria under soft tissue sarcoma. Added AML criteria.
+Increased authorization and reauthorization from 6 months to 12
+months for all indications. Updated background and references.
+7/2016 Annual review. Revised criteria for renal cell cancer. Updated
+references.
+7/2017 Annual review. Updated background and criteria for the following
+bone cancers; chordoma, dedifferentiated chondorosarcoma, and high-
+grade undifferentiated pleomorphic sarcoma (UPS) per NCCN
+guidelines. Updated references.
+7/2018 Annual review. Updated background and added criteria for solitary
+fibrous tumor/hemangiopericytoma. Updated references.
+9/2019 Annual review. Updated background and added criteria for platinum-
+resistant ovarian cancer. Updated references. Added general NCCN
+recommended review criteria.
+9/2020 Annual review with no changes to clinical coverage criteria. Updated
+references.
+9/2021 Annual review with no changes to coverage criteria. Updated
+references.
+9/2022 Annual review. Added criteria for salivary gland tumors and
+myeloid/lymphoid neoplasms. Added state mandate disclaimer and
+updated references.
+9/2023 Replaced Hürthle cell with Oncocytic within Thyroid Cancer coverage
+criteria. Added Qinlock to NCCN recommended first-line therapies for
+© 2024 UnitedHealthcare Services, Inc.
+9
+GIST. Updated background and references.
+9/2024 Annual review with no changes. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+10

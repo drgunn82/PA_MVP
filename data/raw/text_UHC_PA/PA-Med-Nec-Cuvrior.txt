@@ -1,0 +1,65 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2325-2
+Program Prior Authorization/Medical Necessity
+Medication Cuvrior™ (trientine tetrahydrochloride)*
+P&T Approval Date 2/2024, 2/2025
+Effective Date 5/1/2025
+1. Background:
+Cuvrior (trientine tetrahydrochloride) is a copper chelator indicated for the treatment of adult
+patients with Wilson’s disease who are de-coppered and tolerant to penicillamine. Chelating
+agents (e.g., pencillamine, trientine hydrochloride) are well-established as the standard treatment
+of Wilson’s disease. Cuvrior (trientine tetrahydrochloride) has only been studied for maintenance
+treatment in patients with Wilson’s disease who are pencillamine tolerant.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Cuvrior* will be approved based upon all of the following criteria:
+a. Diagnosis of Wilson’s disease
+-AND-
+b. Patient is de-coppered [i.e., serum non-ceruloplasmin copper (NCC) level ≥ 25 and ≤
+150 mcg/L]
+-AND-
+c. Patient is tolerant to penicillamine
+-AND-
+d. Patient will discontinue penicillamine before starting therapy with Cuvrior
+-AND-
+e. History of intolerance, failure or contraindication to trientine hydrochloride
+-AND-
+f. Prescribed by a hepatologist.
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services, Inc.
+1
+B. Reauthorization
+1. Cuvrior will be approved based on both the following criteria:
+a. Documentation of positive clinical response to Cuvrior therapy (e.g., increased 24-hour
+urinary copper excretion from baseline, normalization of serum free copper, prevention
+of or improvement in symptoms)
+-AND-
+b. Prescribed by a hepatologist.
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+*Cuvrior is typically excluded from coverage. Tried/Failed criteria may be in place. Please refer to plan
+specifics to determine exclusion status.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. Reference:
+1. Cuvrior [package insert]. Chicago, IL: Orphalan; April 2022.
+2. Trientine hydrochloride [package insert]. Parsippany, NJ: Teva Pharmaceuticals; January 2022.
+3. Schilsky ML, Roberts EA, Bronstein JM, et al. A multidisciplinary approach to the diagnosis and
+management of Wilson disease: 2022 Practice Guidance on Wilson disease from the American
+Association for the Study of Liver Diseases. Hepatology. Published online December 7, 2022.
+4. Saroli Palumbo C, Schilsky ML. Clinical practice guidelines in Wilson disease. Ann Transl Med.
+2019;7(Suppl 2):S65.
+Program Prior Authorization/Medical Necessity - Cuvrior (trientine
+tetrahydrochloride)
+Change Control
+2/2024 New program.
+2/2025 Annual review with no changes to coverage criteria. Updated background
+and references.
+© 2025 UnitedHealthcare Services, Inc.
+2

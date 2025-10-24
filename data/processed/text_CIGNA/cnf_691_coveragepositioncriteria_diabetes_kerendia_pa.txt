@@ -1,0 +1,301 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Non-Steroidal Mineralocorticoid Receptor Antagonist – Kerendia Prior
+Authorization Policy
+• Kerendia® (finerenone tablets – Bayer)
+REVIEW DATE: 07/30/2025; selected revision 08/13/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Kerendia, a non-steroidal mineralocorticoid receptor antagonist (nsMRA), is indicated
+to reduce the risk of:1
+• Sustained estimated glomerular filtration rate (eGFR) decline, end-stage
+kidney disease, cardiovascular (CV) death, non-fatal myocardial infarction, and
+hospitalization for heart failure (HF) in adults with chronic kidney disease
+(CKD) associated with type 2 diabetes; and
+• CV death, hospitalization for HF, and urgent HF visits in adults with HF with
+left ventricular ejection fraction (LVEF) ≥ 40%.
+Per the prescribing information, do not initiate treatment with Kerendia if serum
+potassium is > 5.0 mEq/L.1 Additionally, initiation of Kerendia is not recommended
+in patients with eGFR < 25 mL/min/1.73 m2. Kerendia labeling includes a Warning
+Page 1 of 7 - Cigna National Formulary Coverage - Policy:Non-Steroidal Mineralocorticoid Receptor Antagonist –
+Kerendia Prior Authorization Policy
+regarding hyperkalemia and notes that the risk increases with decreasing kidney
+function. Monitoring of serum potassium and eGFR is recommended.
+Clinical Efficacy
+FIDELIO-DKD (n = 5,734) and FIGARO-DKD (n = 7,352), two published Phase III,
+placebo-controlled trials, assessed the efficacy of Kerendia in adults with diabetic
+kidney disease.2,8 All patients were required to be treated with an angiotensin
+converting enzyme (ACE) inhibitor or angiotensin receptor blocker (ARB) at the
+maximum tolerated labeled dose for ≥ 4 weeks prior to the run-in visit. Additionally,
+patients were required to have a urinary albumin-to-creatinine ratio of ≥ 30 mg/g,
+in addition to other renal entry criteria. FINEARTS-HF, a published Phase III, placebo-
+controlled, event-driven trial evaluated Kerendia in adults with HF (New York Heart
+Association Class II to IV) with LVEF ≥ 40% (n = 6,001).12 Patients continued their
+HF medications; approximately 14% of patients were taking a sodium glucose co-
+transporter-2 (SGLT-2) inhibitor at baseline.
+Guidelines
+Diabetes and CKD
+The American Diabetes Association (ADA) Standards of Care (2025) recommend
+Kerendia for patients with type 2 diabetes and CKD with albuminuria who are
+receiving maximum tolerated doses of ACE inhibitors or ARBs, to improve CV
+outcomes and reduce the risk of CKD progression.3 In individuals with type 2 diabetes
+and CKD, Kerendia is recommended to reduce the risk of hospitalization for HF.
+Additionally, in the section regarding CKD , it is noted that in patients with type 2
+diabetes and CKD, use of an SGLT-2 inhibitor with demonstrated benefit (if eGFR is
+≥ 20 mL/min/1.73 m2) or a glucagon-like peptide-1 agonist with demonstrated
+benefit is recommended to reduce CKD progression and CV events. Kerendia (if eGFR
+is ≥ 25 mL/min/1.73 m2) is recommended to reduce CV events and CKD progression
+in patients with CKD and albuminuria.
+The Kidney Disease: Improving Global Outcomes (KDIGO) Clinical Practice Guideline
+for Diabetes Management in CKD (2022) suggests use of Kerendia in patients with
+type 2 diabetes with eGFR ≥ 25 mL/min/1.73 m2, normal serum potassium, and
+albuminuria (≥ 30 mg/g) despite maximal tolerated doses of a renin-angiotensin-
+aldosterone system (RAAS) inhibitor.4 The addition of a mineralocorticoid receptor
+antagonist (MRA) to current standard of care, including ACE inhibitor or ARB, has
+been proven to reduce albuminuria in patients with diabetes and CKD. Kerendia
+reduces albuminuria and the risk of kidney and CV outcomes. The guideline also notes
+that Kerendia is most appropriate for patients with type 2 diabetes who are at high
+risk of CKD progression and CV events, because Kerendia can be added to an
+ACE/ARB and an SGLT-2 inhibitor for the treatment of type 2 diabetes and CKD.
+A consensus report from the ADA/KDIGO (2022) for diabetes management in CKD
+states that Kerendia is recommended for patients with type 2 diabetes, eGFR ≥ 25
+mL/min/1.73 m2, normal serum potassium concentration, and albuminuria
+(albumin:reatinine ratio ≥ 30 g/g) despite a maximum tolerated dose of RAAS
+inhibitor therapy.10
+7 Pages - Cigna National Formulary Coverage - Policy:Non-Steroidal Mineralocorticoid Receptor Antagonist –
+Kerendia Prior Authorization Policy
+The KDIGO Clinical Practice Guideline for the Evaluation and Management of CKD
+(2024) reaffirms the statements in the KDIGO 2022 Clinical Practice Guideline for
+Diabetes Management in CKD.4,13 In addition, the following points are made
+regarding Kerendia in patients with type 2 diabetes and CKD: Kerendia is most
+appropriate for those who are at high risk of CKD progression and CV events with
+persistent albuminuria despite other standard-of-care therapies; and Kerendia may
+be added to a RAAS inhibitor and an SGLT-2 inhibitor for the treatment of type 2
+diabetes and CKD.
+Heart Failure
+The FINEARTS-HF trial data for Kerendia in HF have not yet been incorporated into
+current HF guidelines. However, guidelines recognize that Kerendia has demonstrated
+benefit in reducing HF outcomes in patients with type 2 diabetes and CKD.
+Two SGLT-2 inhibitors (Farxiga® [dapagliflozin tablets, authorized generic] and
+Jardiance® [empagliflozin tablets]) have demonstrated a significant reduction in the
+composite of CV death and hospitalization for HF among patients with HF with LVEF
+> 40% (encompassing HF with preserved ejection fraction [HFpEF] and HF with mildly
+reduced ejection fraction [HFmrEF]). Both agents are recommended for all patients
+with HFpEF and HFmrEF.6,9,11 Inpefa® (sotagliflozin tablets), an SGLT-2 and sodium
+glucose co-transporter-1 inhibitor, is indicated to reduce the risk of CV death,
+hospitalization for HF, and urgent HF visits in adults with HF14; however, the agent
+has not been incorporated into recommendations for HFpEF or HFmrEF.6,9,11 Current
+guidelines recommend dapagliflozin or Jardiance for all patients with HFpEF or
+HFmrEF, unless contraindicated. The most current recommendations are
+summarized below.
+The American College of Cardiology (ACC) Expert Consensus Decision Pathway for
+HFpEF (2023) recommends dapagliflozin or Jardiance for all patients with HFpEF to
+reduce CV death and hospitalization for HF as well as improve health status unless
+contraindicated.9 In patients with LVEF < 55% to 60%, use of an MRA, angiotensin
+neprilysin inhibitor (ARNI), or ARB (when an ARNI is not feasible) may be considered
+(ACE inhibitors are not a reasonable alternative).
+A 2023 Focused Update of the 2021 European Society of Cardiology (ESC) Guidelines
+for the Diagnosis and Treatment of Acute and Chronic HF (developed by the Task
+Force for the Diagnosis and Treatment of Acute and Chronic HF of the ESC with the
+special contribution of the HF Association of the ESC) recommends dapagliflozin or
+Jardiance to reduce the risk of hospitalization for HF or CV death in patients with
+HFmrEF or HFpEF.11 In addition, the management of both HFmrEF or HFpEF includes
+diuretics for symptom management. Additional therapies for HFmrEF may include an
+ACE inhibitor/ARNI/ARB, MRA, and/or a beta-blocker. Patients with HFpEF may be
+additionally managed with agents aimed at treating the cause(s) of HFpEF as well as
+CV and non-CV comorbidities.
+The ACC/American Heart Association/HF Society of America Guidelines for the
+Management of HF (2022) note that SGLT-2 inhibitors are beneficial to decrease
+hospitalization for HF and CV mortality in patients with HFpEF.9 MRA, ARB, and/or
+7 Pages - Cigna National Formulary Coverage - Policy:Non-Steroidal Mineralocorticoid Receptor Antagonist –
+Kerendia Prior Authorization Policy
+ARNI may be considered to decrease hospitalization in selected patients, especially
+those with LVEF < 50%.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Kerendia. All
+approvals are provided for the duration noted below.
+• Kerendia® (finerenone tablets – Bayer)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Chronic Kidney Disease in a Patient with Type 2 Diabetes. Approve for 1
+year if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve if the patient meets ALL of the following (i, ii, iii, and
+iv):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has a diagnosis of type 2 diabetes; AND
+iii. Patient meets ONE of the following (a or b):
+a) Patient is currently receiving a maximally tolerated labeled dosage of an
+angiotensin converting enzyme (ACE) inhibitor or angiotensin receptor
+blocker (ARB); OR
+b) According to the prescriber, the patient has a contraindication or has
+experienced significant intolerance to ACE inhibitor and ARB therapy;
+AND
+iv. At baseline (prior to the initiation of Kerendia), patient meets ALL of the
+following (a, b, and c):
+a) Estimated glomerular filtration rate ≥ 25 mL/min/1.73 m2; AND
+b) Urine albumin-to-creatinine ratio ≥ 30 mg/g; AND
+c) Serum potassium level ≤ 5.0 mEq/L; OR
+B) Patient is Currently Receiving Kerendia. Approve if the patient meets ALL of
+the following (i, ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has a diagnosis of type 2 diabetes; AND
+iii. Patient meets ONE of the following (a or b):
+a) Patient is currently receiving a maximally tolerated labeled dosage of an
+angiotensin converting enzyme (ACE) inhibitor or angiotensin receptor
+blocker (ARB); OR
+b) According to the prescriber, the patient has a contraindication or has
+experienced significant intolerance to ACE inhibitor and ARB therapy.
+2. Heart Failure. Approve for 1 year if the patient meets ONE of the following (A
+or B):
+7 Pages - Cigna National Formulary Coverage - Policy:Non-Steroidal Mineralocorticoid Receptor Antagonist –
+Kerendia Prior Authorization Policy
+A) Initial Therapy: Approve if the patient meets ALL of the following (i, ii, iii, and
+iv):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has left ventricular ejection fraction ≥ 40%; AND
+iii. Patient meets ONE of the following (a or b):
+a) Patient has tried or is currently receiving ONE of the following sodium
+glucose co-transporter-2 (SGLT-2) inhibitors [(1), (2), or (3)]:
+(1) Farxiga (dapagliflozin tablets, authorized generic); OR
+(2) Inpefa (sotagliflozin tablets); OR
+(3) Jardiance (empagliflozin tablets); OR
+b) According to the prescriber, the patient has a contraindication or has
+experienced significant intolerance to SGLT-2 inhibitor therapy; AND
+iv. At baseline (prior to the initiation of Kerendia), patient meets BOTH of the
+following (a and b):
+a) Estimated glomerular filtration rate ≥ 25 mL/min/1.73 m2; AND
+b) Serum potassium level ≤ 5.0 mEq/L; OR
+B) Patient is Currently Receiving Kerendia. Approve if the patient meets ALL of
+the following (i, ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has left ventricular ejection fraction ≥ 40%; AND
+iii. Patient meets ONE of the following (a or b):
+a) Patient has tried or is currently receiving ONE of the following sodium
+glucose co-transporter-2 (SGLT-2) inhibitors [(1), (2), or (3)]:
+(1) Farxiga (dapagliflozin tablets, authorized generic); OR
+(2) Inpefa (sotagliflozin tablets); OR
+(3) Jardiance (empagliflozin tablets); OR
+b) According to the prescriber, the patient has a contraindication or has
+experienced significant intolerance to SGLT-2 inhibitor therapy.
+CONDITIONS NOT COVERED
+• Kerendia® (finerenone tablets – Bayer)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Hypertension (Treatment). Kerendia has not been evaluated for use in
+essential hypertension and is not mentioned in the American College of
+Cardiology/American Heart Association hypertension guidelines (2017).7
+Spironolactone and eplerenone are cited as secondary agents for management of
+hypertension and are noted to be common add-on therapies for resistant
+hypertension. Primary agents include thiazide diuretics, angiotensin converting
+enzyme inhibitors, angiotensin receptor blockers, and calcium channel blockers.
+Note: For a patient with concomitant chronic kidney disease associated with type
+2 diabetes and hypertension, refer to FDA-Approved Indication.
+7 Pages - Cigna National Formulary Coverage - Policy:Non-Steroidal Mineralocorticoid Receptor Antagonist –
+Kerendia Prior Authorization Policy
+2. Concomitant Use with Spironolactone or Eplerenone. Spironolactone and
+eplerenone are steroidal mineralocorticoid receptor antagonists. Based on their
+mechanism of action, an increase in adverse events (e.g., hyperkalemia) would
+be expected if used concomitantly with Kerendia. Concomitant spironolactone or
+eplerenone use with Kerendia was not permitted in clinical trials.1,5,8,12
+REFERENCES
+1. Kerendia® tablets [prescribing information]. Whippany, NJ: Bayer; July 2025.
+2. Bakris GL, Agarwal R, Anker SD, et al; FIDELIO-DKD Investigators. Effect of finerenone on chronic
+kidney disease outcomes in type 2 diabetes. N Engl J Med. 2020;383(23):2219-2229.
+3. American Diabetes Association. Standards of care in diabetes – 2025. Diabetes Care.
+2025;48(Suppl 1):S1-S352.
+4. Kidney Disease: Improving Global Outcomes (KDIGO) Diabetes Work Group: Rossing P, Muiza
+Caramori M, Chan JCN, et al. KDIGO 2022 clinical practice guideline for diabetes management in
+chronic kidney disease. Kidney Int. 2022;102(5S):S1-S127.
+5. Filippatos G, Anker SD, Böhm M, et al. A randomized controlled study of finerenone vs. eplerenone
+in patients with worsening chronic heart failure and diabetes mellitus and/or chronic kidney disease.
+Eur Heart J. 201614;37(27):2105-14.
+6. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management of
+Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint
+Committee on Clinical Practice Guidelines. Circulation. 2022;145(18):e895-e1032.
+7. Whelton PK, Carey RM, Aronow WS, et al. 2017
+ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA guideline for the prevention,
+detection, evaluation, and management of high blood pressure in adults: a report of the American
+College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.
+Hypertension. 2018;71(6):e13-e115.
+8. Pitt B, Filippatos G, Agarwal R, et al; FIGARO-DKD Investigators. Cardiovascular events with
+finerenone in kidney disease and type 2 diabetes. N Engl J Med. 2021385(24):2252-2263.
+9. Kittleson MM, Panjrath GS, Amancherla K, et al. 2023 ACC expert consensus decision pathway on
+management of heart failure with preserved ejection fraction. J Am Coll Cardiol. 2023;81(18):1835-
+1878.
+10. Boer IH, Khunti K, Sadusky T, et al. Diabetes management in chronic kidney disease: a consensus
+report by the American Diabetes Association (ADA) and Kidney Disease: Improving Global
+Outcomes (KDIGO). Kidney Int. 2022;102:974-989.
+11. McDonagh TA, Metra M, Adamo M, et al; European Society of Cardiology (ESC) Scientific Document
+Group. 2023 focused update of the 2021 ESC guidelines for the diagnosis and treatment of acute
+and chronic heart failure. Eur Heart J. 2023;44(37):3627-3639.
+12. Solomon SD, McMurray JJV, Vaduganathan M, et al; for the FINEHEARTS-HF Committees and
+Investigators. Finerenone in heart failure with mildly reduced or preserved ejection fraction. N Engl
+J Med. 2024;391(16):1475-1485.
+13. Kidney Diseases: Improving Global Outcomes (KDIGO). KDIGO 2024 clinical practice guideline for
+the evaluation and management of chronic kidney disease. Kidney Int. 2024;105(4S):S117-S314.
+14. Inpefa® tablets [prescribing information]. The Woodlands, TX: Lexicon; January 2024.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 08/02/20223
+Revision
+Annual No criteria changes. 08/07/2024
+Revision
+7 Pages - Cigna National Formulary Coverage - Policy:Non-Steroidal Mineralocorticoid Receptor Antagonist –
+Kerendia Prior Authorization Policy
+Early Annual The policy name was changed to Non-Steroidal Mineralocorticoid 07/30/2025
+Revision Receptor Antagonist – Kerendia PA Policy, previously Diabetes –
+Kerendia PA Policy.
+Chronic Kidney Disease in a Patient with Type 2 Diabetes. This
+condition was updated, previously “Diabetic Kidney Disease.” Initial
+Therapy and Patient is Currently Receiving Kerendia. The following
+criterion was modified to add “or significant intolerance”: According
+to the prescriber, the patient has a contraindication or significant
+intolerance to angiotensin converting enzyme or angiotensin receptor
+blocker therapy.
+Heart Failure. This condition and criteria for approval were added
+to the policy.
+Condition Not Recommended for Approval – Heart Failure
+(Treatment). This condition was removed from this section and
+added to the FDA-Approved Indication section.
+Selected Heart Failure. Initial Therapy and Patient is Currently Receiving 08/13/2025
+Revision Kerendia. The following criterion was updated to add “or is currently
+receiving”: added: Patient has tried or is currently receiving ONE of
+the following sodium glucose co-transporter-2 (SGLT-2) inhibitors:
+Farxiga (dapagliflozin tablets, authorized generic), Inpefa
+(sotagliflozin tablets), or Jardiance (empagliflozin tablets).
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+7 Pages - Cigna National Formulary Coverage - Policy:Non-Steroidal Mineralocorticoid Receptor Antagonist –
+Kerendia Prior Authorization Policy

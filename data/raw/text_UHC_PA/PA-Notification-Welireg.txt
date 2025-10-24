@@ -1,0 +1,94 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1370-5
+Program Prior Authorization/Notification
+Medication Welireg™ (belzutifan)
+P&T Approval Date 10/2021, 10/2022, 10/2023, 2/2024, 7/2024
+Effective Date 10/1/2024
+1. Background:
+Welireg™ (belzutifan) is a hypoxia-inducible factor inhibitor indicated for treatment of adult
+patients with von Hippel-Lindau (VHL) disease who require therapy for associated renal cell
+carcinoma (RCC), central nervous system (CNS) hemangioblastomas, or pancreatic
+neuroendocrine tumors (pNET), not requiring immediate surgery. Welireg is also indicated for
+the treatment of adult patients with advanced renal cell carcinoma (RCC) following a
+programmed death receptor-1 (PD-1) or programmed death-ligand 1 (PD-L1) inhibitor and a
+vascular endothelial growth factor tyrosine kinase inhibitor (VEGF-TKI).
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Welireg will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Von Hippel-Lindau (VHL) Disease
+1. Initial Authorization
+a. Welireg will be approved based on all the following criteria:
+(1) Diagnosis of von Hippel-Lindau (VHL) disease
+-AND-
+(2) Patient requires therapy for one of the following:
+© 2024 UnitedHealthcare Services, Inc.
+1
+(a) Renal cell carcinoma (RCC)
+(b) Central nervous system (CNS) hemangioblastoma
+(c) Pancreatic neuroendocrine tumor (pNET)
+-AND-
+(3) Patient does not require immediate surgery
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Welireg will be approved based on the following criterion:
+(1) Patient does not show evidence of disease progression while on Welireg.
+Authorization will be issued for 12 months.
+C. Advanced Renal Cell Carcinoma
+1. Initial Authorization
+a. Welireg will be approved based on all the following criteria:
+(1) Diagnosis of advanced renal cell carcinoma (RCC)
+-AND-
+(2) Disease has progressed after treatment with both of the following:
+(a) Programmed death receptor 1 (PD-1) or programmed death ligand 1 (PD-
+L1) checkpoint inhibitor [e.g.,Keytruda (pembrolizumab), Opdivo
+(nivolumab)]
+-AND-
+(b) Vascular endothelial growth factor tyrosine kinase inhibitor (VEGF-TKI)
+[e.g., Cabometyx (cabozantinib), Inlyta (axitinib), Lenvima (lenvatinitb)]
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Welireg will be approved based on the following criterion:
+(1) Patient does not show evidence of disease progression while on Welireg.
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+2
+D. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Welireg [package insert]. Rathway, NJ: Merck & Co., Inc.; December 2023.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+www.nccn.org. Accessed May 31, 2024.
+Program Prior Authorization/Notification – Welireg (belzutifan)
+Change Control
+10/2021 New program
+10/2022 Annual review with no changes to clinical coverage criteria. Added
+state mandate footnote. Updated references.
+10/2023 Annual review with no changes to coverage criteria. Updated
+references.
+2/2024 Added criteria for advanced renal cell carcinoma. Updated background
+and references.
+7/2024 Updated examples of PD-L1 checkpoint inhibitors and VEGF-TKIs
+within advanced RCC criteria.
+© 2024 UnitedHealthcare Services, Inc.
+3

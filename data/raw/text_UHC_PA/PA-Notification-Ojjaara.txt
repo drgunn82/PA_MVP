@@ -1,0 +1,92 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1419-2
+Program Prior Authorization/Notification
+Medication Ojjaara™ (momelotinib)
+P&T Approval Date 11/2023, 11/2024
+Effective Date 2/15/2025
+1. Background:
+Ojjaara (momelotinib) is a kinase inhibitor indicated for the treatment of intermediate or
+high-risk myelofibrosis (MF), including primary MF or secondary MF [postpolycythemia vera
+(PV) and post-essential thrombocythemia (ET)] with anemia. The National Cancer
+Comprehensive Network (NCCN) also recommends Ojjaara for the treatment of lower-risk and
+higher-risk myelofibrosis, and accelerated/blast phase myeloproliferative neoplasms.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age
+of 19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Ojjaara will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Myeloproliferative Neoplasms
+1. Initial Authorization
+a. Ojjaara will be approved based on one of the following criteria:
+(1) Diagnosis of symptomatic lower-risk myelofibrosis
+-OR-
+(2) All of the following:
+(a) Diagnosis of higher-risk myelofibrosis
+© 2024 UnitedHealthcare Services, Inc.
+1
+-AND-
+(b) Presence of symptomatic splenomegaly and/or constitutional symptoms
+-AND-
+(c) One of the following:
+i. Used as continued therapy near the start of conditioning therapy in a
+transplant candidate
+ii. Patient is not a transplant candidate or transplant not currently feasible
+-OR-
+(3) Diagnosis of myelofibrosis-associated anemia
+-OR-
+(4) Both of the following:
+(a) Diagnosis of accelerated/blast phase myeloproliferative neoplasm
+-AND-
+(b) One of the following:
+i. Used for the improvement of splenomegaly or other disease-related
+symptoms
+ii. Continued treatment as a single agent near to the start of conditioning
+therapy in transplant candidates for the improvement of splenomegaly
+and other disease-related symptoms
+Authorization will be issued for 6 months.
+2. Reauthorization
+a. Ojjaara will be approved based on one the following criteria:
+(1) Documentation that patient has evidence of symptom improvement or reduction
+in spleen volume while on Ojjaara
+Authorization will be issued for 6 months.
+-OR-
+(2) Documentation does not provide evidence of symptom improvement or
+reduction in spleen volume while on Ojjaara, allow for dose titration with
+© 2024 UnitedHealthcare Services, Inc.
+2
+discontinuation of therapy
+Authorization will be issued for 2 months.
+C. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by
+program and/or therapeutic class.
+• Supply limit may be in place.
+4. References:
+1. Ojjaara [package insert]. Durham, NC: GlaxoSmithKline; September 2023.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+https://www.nccn.org/professionals/drug_compendium/content/ Accessed October 11,
+2024.
+Program Prior Authorization/Notification – Ojjaara™ (momelotinib)
+Change Control
+11/2023 New program.
+11/2024 Annual review. Modified title of myelofibrosis to myeloproliferative
+neoplasms and updated coverage criteria based on NCCN guidelines.
+© 2024 UnitedHealthcare Services, Inc.
+3

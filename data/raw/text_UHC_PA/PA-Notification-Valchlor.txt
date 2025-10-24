@@ -1,0 +1,101 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1123-13
+Program Prior Authorization/Notification
+Medication Valchlor® gel for topical use (mechlorethamine)
+P&T Approval Date 4/2014, 11/2014, 11/2015, 9/2016, 9/2017, 9/2018, 9/2019, 9/2020,
+10/2021, 10/2022, 10/2023, 10/2024
+Effective Date 1/1/2025
+1. Background:
+Valchlor gel for topical use (mechlorethamine) is an alkylating drug indicated for the topical
+treatment of Stage IA and IB mycosis fungoides-type cutaneous T-cell lymphoma in patients
+who have received prior skin-directed therapy.1 The National Cancer Comprehensive Network
+(NCCN) recommends use of topical mechlorethamine in T-cell leukemia/lymphoma, primary
+cutaneous B-cell lymphoma, primary cutaneous CD30+ T-cell lymphoproliferative disorders,
+and Langerhans Cell Histiocytosis (LCH).2
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Valchlor will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Primary Cutaneous Lymphomas
+1. Initial Authorization
+a. Valchlor will be approved based on the following criteria:
+(1) Diagnosis of one of the following:
+(a) Chronic or smoldering T-cell leukemia/lymphoma
+(b) Primary cutaneous marginal zone or follicle center B-cell lymphoma
+(c) Lymphomatoid papulosis (LyP) with extensive lesions
+(d) Mycosis fungoides (MF)/Sezary syndrome (SS)
+© 2024 UnitedHealthcare Services, Inc.
+1
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Valchlor will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Valchlor
+Authorization will be issued for 12 months.
+C. Histiocytic Neoplasms
+1. Initial Authorization
+a. Valchlor will be approved based on both of the following criteria:
+(1) Diagnosis of Langerhans Cell Histiocytosis (LCH)
+-AND–
+(2) Skin disease is unifocal and isolated
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Valchlor will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Valchlor
+Authorization will be issued for 12 months.
+D. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+© 2024 UnitedHealthcare Services, Inc.
+2
+and/or claim logic. Use of automated approval and re-approval processes varies by
+program.
+• Supply limits may be in place.
+4. References:
+1. Valchlor [package insert]. South San Francisco, CA: Actelion Pharmaceuticals US, Inc.;
+January 2020.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+https://www.nccn.org/compendia-templates/compendia/drugs-and-biologics-compendia.
+Accessed September 11, 2024.
+Program Prior Authorization/Notification - Valchlor gel for topical use
+(mechlorethamine)
+Change Control
+4/2014 New criteria.
+9/2014 Administrative change - Tried/Failed exemption for State of New Jersey
+removed.
+11/2014 Annual review. Updated references.
+11/2015 Annual review. Added additional NHL indications to coverage criteria
+and updated MF/SS criteria. Updated background & references.
+9/2016 Annual review. Updated references.
+9/2017 Annual review. Updated criteria for mycosis fungoides/sezary
+syndrome. Updated references.
+9/2018 Annual review. Updated criteria based on NCCN Compendium.
+Updated references.
+9/2019 Annual review. Renamed NHL to Primary Cutaneous Lymphomas.
+Revised coverage rationale based on NCCN Compendium. Updated
+references. Added general NCCN recommended review criteria.
+9/2020 Annual review. No changes to coverage criteria.
+10/2021 Annual review. Added coverage rationale for LCH according to NCCN
+Compendium. Updated references.
+10/2022 Annual review. No changes to coverage criteria. Added state mandate.
+Updated references.
+10/2023 Annual review. No changes to coverage criteria. Updated references.
+10/2024 Annual review. No changes to coverage criteria. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+3

@@ -1,0 +1,115 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1322-5
+Program Prior Authorization/Notification
+Medication Koselugo™ (selumetinib)
+P&T Approval Date 8/2020, 8/2021, 8/2022, 9/2023, 9/2024
+Effective Date 12/1/2024
+1. Background:
+Koselugo is a kinase inhibitor indicated for the treatment of pediatric patients 2 years of age and
+older with neurofibromatosis type 1 (NF1) who have symptomatic, inoperable plexiform
+neurofibromas (PN).
+The National Comprehensive Cancer Network (NCCN) recommends Koselugo therapy in patients
+as a single-agent treatment for recurrent or progressive NF-1 mutated glioma, or recurrent or
+progressive circumscribed glioma with BRAF fusion or BRAF V600E activating mutation. NCCN
+also recommends Koselugo therapy in patients with Langerhans cell histiocytic neoplasms that are
+mitogen-activated protein (MAP) kinase pathway mutation positive or when there is no detectable
+mutation or testing available.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age
+of 19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Koselugo will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Neurofibromatosis Type 1
+1. Initial Authorization
+a. Koselugo will be approved based on both of the following:
+(1) Diagnosis of neurofibromatosis type 1
+© 2024 UnitedHealthcare Services, Inc.
+1
+-AND-
+(2) Patient has plexiform neurofibromas that are both of the following:
+(a) Inoperable
+(b) Causing significant morbidity (e.g., disfigurement, motor dysfunction, pain,
+airway dysfunction, visual impairment, bladder/bowel dysfunction)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Koselugo will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Koselugo
+therapy
+Authorization will be issued for 12 months.
+C. Glioma
+1. Initial Authorization
+a. Koselugo will be approved based on all of the following:
+(1) One of the following:
+(a) Circumscribed glioma with presence of BRAF fusion or BRAF V600E
+activating mutations
+(b) NF-1 mutated glioma
+-AND-
+(2) Disease is recurrent or progressive
+-AND-
+(3) Used as monotherapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Koselugo will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Koselugo
+therapy
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+2
+D. Langerhans Cell Histiocytosis
+1. Initial Authorization
+a. Koselugo will be approved based on all of the following:
+(1) Diagnosis of Langerhans cell histiocytosis
+-AND-
+(2) One of the following:
+(a) Presence of MAP kinase pathway mutation
+(b) No detectable mutation
+(c) Genetic testing not available
+-AND-
+(3) Used as monotherapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Koselugo will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Koselugo
+therapy
+Authorization will be issued for 12 months.
+E. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+© 2024 UnitedHealthcare Services, Inc.
+3
+• Supply limits may be in place.
+4. References:
+1. Koselugo [package insert]. Wilmington, DE: AstraZeneca Pharmaceuticals LP; January 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+www.nccn.org. Accessed July 30, 2024.
+Program Prior Authorization/Notification – Koselugo™ (selumetinib)
+Change Control
+8/2020 New program.
+8/2021 Annual review. Added coverage criteria for pilocytic astrocytoma per
+NCCN guidelines. Updated background and references.
+8/2022 Annual review. Added coverage criteria for Langerhans cell
+histiocytosis per NCCN guidelines. Updated background and
+references. Added state mandate footnote.
+9/2023 Annual review. Removed criteria for pilocytic astrocytoma. Added
+criteria for glioma. Updated reference.
+9/2024 Annual review. No changes to clinical criteria. Updated reference.
+© 2024 UnitedHealthcare Services, Inc.
+4

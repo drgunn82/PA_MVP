@@ -1,0 +1,101 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Fabry Disease – Galafold Prior Authorization Policy
+• Galafold® (migalastat capsules – Amicus Therapeutics)
+REVIEW DATE: 11/06/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Galafold, an oral alpha-galactosidase A (α-Gal) pharmacological chaperone, is
+indicated for the treatment of Fabry disease in adults with an amenable
+galactosidase alpha gene (GLA) variant based on in vitro assay data.1
+Disease Overview
+Fabry disease is a rare inherited X-linked lysosomal storage disorder.2-4 Absent or
+significantly reduced α-Gal activity leads to the accumulation of
+globotriaosylceramide (GL-3) in a wide variety of cells throughout the body. The
+accumulation of GL-3 leads to progressive multisystem disease, primarily impacting
+the kidney, heart, and nervous system.3,4 Life expectancy in patients with Fabry
+disease is reduced; median survival is typically 50 to 55 years in men and 70 years
+in women.2
+Currently, there have been more than 800 mutations to the gene encoding α-Gal
+identified.5 About 60% are missense mutations resulting in single amino acid
+substitutions. Some of these mutated enzymes have activity levels similar to normal
+α-Gal; however, they have been found to be unstable and are retained in the
+endoplasmic reticulum.
+Page 1 of 3 - Cigna National Formulary Coverage - Policy:Fabry Disease – Galafold Prior Authorization Policy
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Galafold. All
+approvals are provided for the duration noted below. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Galafold as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Galafold to be prescribed by or in consultation with a physician who specializes in the
+condition being treated.
+• Galafold® (migalastat capsules – Amicus Therapeutics)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Fabry Disease. Approve for 1 year if the patient meets ALL of the following (A,
+B, and C):
+A) Patient is ≥ 18 years of age; AND
+B) Patient has an amenable galactosidase alpha gene (GLA) variant based on in
+vitro assay data; AND
+C) The medication is prescribed by or in consultation with a geneticist,
+nephrologist, or a physician who specializes in the treatment of Fabry disease.
+CONDITIONS NOT COVERED
+• Galafold® (migalastat capsules – Amicus Therapeutics)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria will
+be updated as new published data are available):
+1. Concurrent Use with Fabrazyme (agalsidase beta intravenous infusion).
+One small study (n = 23) assessed a single dose of Galafold (150 mg or 450 mg)
+used concurrently with Fabrazyme or agalsidase alpha. While a single dose of
+Galafold significantly increased α-Gal activity, the long-term safety and efficacy
+of concurrent use of Galafold and Fabrazyme has not been established.6 Galafold
+is not FDA approved for concurrent use with Fabrazyme.
+2. Concurrent Use with Elfabrio (pegunigalsidase alfa intravenous infusion).
+Galafold has not been evaluated for use in combination with Elfabrio. It is not FDA
+approved for concurrent use with enzyme replacement therapy.
+REFERENCES
+1. Galafold® capsules [prescribing information]. Cranbury, NJ: Amicus Therapeutics; June 2023.
+2. Schiffmann R. Fabry Disease. Handb Clin Neurol. 2015;132:231-248.
+3 Pages - Cigna National Formulary Coverage - Policy:Fabry Disease – Galafold Prior Authorization Policy
+3. Arends M, Wanner C, Hughes D, et al. Characterization of Classical and Nonclassical Fabry Disease:
+A Multinational Study. J Am Soc Nephrol. 2017;28:1631-1641.
+4. Laney DA, Bennett RL, Clarke V, et al. Fabry Disease Practice Guidelines: Recommendations of the
+National Society of Genetic Counselors. J Genet Counsel. 2013;22:555-564.
+5. Benjamin ER, Della Valle MC, Wu X, et al. The Validation of Pharmacogenetics for the Identification
+of Fabry Patients to be Treated with Migalastat. Genet Med. 2017;19:430-438.
+6. Warnock DG, Bichet DG, Holida M, et al. Oral Migalastat HCl Leads to Greater Systemic Exposure
+and Tissue Levels of Active α-Galactosidase A in Fabry Patients when Co-Administered with Infused
+Agalsidase. PLoS ONE. 2015;10: e0134341.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Annual Added concurrent use with Elfabrio as a condition not 11/15/2023
+Revision recommended for approval.
+Annual No criteria changes. 11/06/2024
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2024 The Cigna
+Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Fabry Disease – Galafold Prior Authorization Policy

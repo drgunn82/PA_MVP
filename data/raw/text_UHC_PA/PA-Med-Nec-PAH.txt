@@ -1,0 +1,326 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2020-21
+Program Prior Authorization/Medical Necessity – PAH Agents
+Medication Adempas® (riociguat), Letairis®* (ambrisentan), Liqrev® (sildenafil)
+oral suspension*, Opsumit® (macitentan), Opsynvi®
+(macitentan/tadalafil)*, Orenitram™ (treprostinil), Revatio® (sildenafil
+citrate) oral powder for suspension*, Tadliq® oral suspension (tadalafil),
+Tracleer® (bosentan), Tyvaso® (treprostinil), Tyvaso DPI™
+(treprostinil), Uptravi® (selexipag), Ventavis® (iloprost)
+Note: These criteria only apply to the oral suspension formulations of
+sildenafil citrate. The intravenous (IV) formulation is not self-
+administered and is therefore not covered under the pharmacy benefit.
+P&T Approval Date 4/2014, 12/2014, 5/2015, 1/2016, 2/2016, 12/2016, 9/2017, 11/2017,
+11/2018, 11/2019, 11/2020, 6/2021, 6/2022, 10/2022, 12/2022, 3/2023,
+2/2024, 8/2024, 11/2024
+Effective Date 2/1/2025
+1. Background:
+Pulmonary arterial hypertension (PAH) is often a progressive disease characterized by elevated
+pressure in the vessels that carry blood between the heart and the lungs. This results in ventricular
+dysfunction, reduced exercise capacity, the potential for right sided heart failure, and even death.
+Several mechanisms have been identified in the pathogenesis of PAH, leading to the development of
+five classes of medications to treat the disorder; endothelin receptor antagonists (ERAs),
+phosphodiesterase-5 (PDE-5) inhibitors, prostacyclin analogs, soluble guanylate cyclase (sGC)
+stimulators, and an activin signaling ligand.
+Letairis* (ambrisentan), Tracleer (bosentan), and Opsumit (macitentan) are oral endothelin receptor
+antagonists (ERAs). Letairis is indicated for the treatment of PAH (WHO Group 1) to improve
+exercise ability and delay clinical worsening. It is also indicated in combination with tadalafil to
+reduce the risk of disease progression and hospitalization for worsening PAH, and to improve
+exercise ability.2 Tracleer is indicated for the treatment of PAH (WHO Group 1) to improve exercise
+ability and to decrease clinical worsening in adult patients, and improve pulmonary vascular
+resistance, which is expected to result in an improvement in exercise ability in pediatric patients
+aged 3 years and older.3 Opsumit is indicated for the treatment of PAH (WHO Group 1) to reduce
+the risks of disease progression and hospitalization for PAH. 8
+Revatio* (sildenafil), Liqrev* (sildenafil), and Tadliq (tadalafil) are oral PDE-5 inhibitors. Revatio*
+is indicated in pediatric patients 1 to 17 years old for the treatment of PAH (WHO Group 1) to
+improve exercise ability and, in pediatric patients too young to perform standardized exercise
+testing, pulmonary hemodynamics thought to underly improvements in exercise.4 Revatio* and
+Liqrev are indicated in adult patients for the treatment of PAH (WHO Group 1) to improve exercise
+ability and delay clinical worsening.4,17 Tadliq is indicated for the treatment of PAH (WHO Group 1)
+to improve exercise ability. 5, 15-16
+© 2024 UnitedHealthcare Services, Inc.
+1
+Ventavis (iloprost), Tyvaso (treprostinil), and Tyvaso DPI (treprostinil) are prostacyclin analogs.
+Ventavis is administered as an inhalation solution, Tyvaso is administered as an inhalation solution,
+and Tyvaso DPI is administered as a dry powder inhaler. Ventavis is indicated for the treatment of
+PAH (WHO Group 1) to improve a composite endpoint consisting of exercise tolerance, symptoms
+(NYHA Class), and lack of deterioration. 6 Tyvaso and Tyvaso DPI are indicated for the treatment of
+PAH (WHO Group 1) to improve exercise ability. Tyvaso and Tyvaso DPI are also indicated for the
+treatment of pulmonary hypertension associated with interstitial lung disease (WHO Group 3) to
+improve exercise ability.7,13,14
+Orenitram (treprostinil) is an orally administered prostacyclin analog indicated for the treatment of
+PAH (WHO Group 1) to delay disease progression and to improve exercise capacity. 9
+Adempas (riociguat) is a soluble guanylate cyclase (sGC) stimulator indicated for the treatment of
+adults with PAH (WHO Group 1) to improve exercise capacity, improve WHO functional class and
+to delay clinical worsening. Adempas is also indicated for the treatment of adults with
+persistent/recurrent chronic thromboembolic pulmonary hypertension (CTEPH) (WHO Group 4)
+after surgical treatment or inoperable CTEPH to improve exercise capacity and WHO functional
+class.10
+Uptravi (selexipag) is a prostacyclin receptor agonist indicated for the treatment of PAH (WHO
+Group 1) to delay disease progression and reduce the risk of hospitalization for PAH.12
+Opsynvi* (macitentan/tadalafil) is a combination of macitentan, an endothelin receptor antagonist
+(ERA), and tadalafil, a phosphodiesterase 5 (PDE5) inhibitor, indicated for chronic treatment of
+pulmonary arterial hypertension (PAH, WHO Group I) in adult patients of WHO functional class
+(FC) II-III.18
+Members currently on therapy for the above indications will be approved for initial authorization.
+2. Coverage Criteriaa:
+A. Pulmonary Arterial Hypertension
+1. Initial Authorization
+a. Adempas, Letairis*, Opsumit, Opsynvi*, Tracleer, Tyvaso, Tyvaso DPI, or
+Ventavis will be approved based on one of the following criteria:
+(1) All of the following:
+(a) Pulmonary arterial hypertension is symptomatic
+(b) Diagnosis of pulmonary arterial hypertension that is confirmed by right
+heart catheterization
+(c) The medication is prescribed by or in consultation with a cardiologist,
+pulmonologist, or rheumatologist.
+-OR-
+(2) Both of the following:
+© 2024 UnitedHealthcare Services, Inc.
+2
+(a) Patient is currently on any therapy for the diagnosis of pulmonary arterial
+hypertension
+(b) The medication is prescribed by or in consultation with a cardiologist,
+pulmonologist, or rheumatologist.
+Authorization will be issued for 12 months.
+b. Revatio* oral powder for suspension, Liqrev oral suspension*, or Tadliq
+oral suspension will be approved based on all of the following criteria:
+(1) One of the following:
+(a) All of the following:
+ii. Pulmonary arterial hypertension is symptomatic
+iii. Diagnosis of pulmonary arterial hypertension that is confirmed by right
+heart catheterization
+-OR-
+(b) Patient is currently on any therapy for the diagnosis of pulmonary arterial
+hypertension
+-AND-
+(2) Patient is unable to ingest a solid dosage form (e.g., an oral tablet or capsule)
+due to one of the following:
+(a) age
+(b) oral-motor difficulties
+(c) dysphagia
+-AND-
+(3) Prescribed by or in consultation with a cardiologist, pulmonologist, or
+rheumatologist
+Authorization will be issued for 12 months.
+c. Orenitram or Uptravi will be approved based on one of the following criteria:
+(1) All of the following:
+(a) As continuation of therapy
+-AND-
+(b) Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from the manufacturer
+sponsored support program (e.g., sample card which can be redeemed at a
+© 2024 UnitedHealthcare Services, Inc.
+3
+pharmacy for a free supply of medication) as a means to establish as a
+current user of Orenitram or Uptravi
+-AND-
+(c) Patient is not taking Orenitram or Uptravi in combination with a
+prostanoid/prostacyclin analogue (e.g., epoprostenol, iloprost, treprostinil)
+-AND-
+(d) Prescribed by or in consultation with a cardiologist, pulmonologist, or
+rheumatologist
+–OR-
+(2) All of the following:
+(a) One of the following:
+(i) Both of the following:
+(a) Pulmonary arterial hypertension is symptomatic
+(b) Diagnosis of pulmonary arterial hypertension that is confirmed by
+right heart catheterization
+-OR-
+(ii) Patient is currently on any therapy for the diagnosis of pulmonary
+arterial hypertension
+-AND-
+(b) History of failure, contraindication, or intolerance to both of the
+following:a
+(i) One of the following:
+(a) A PDE-5 inhibitor [e.g., sildenafil citrate (generic Revatio), tadalafil
+(generic Adcirca)]
+(b) Adempas
+-AND-
+(ii) An ERA [e.g., ambrisentan (generic Letairis*), Opsumit, or bosentan
+(generic Tracleer)]
+-AND-
+(c) Patient is not taking Orenitram or Uptravi in combination with a
+prostanoid/prostacyclin analogue (e.g., epoprostenol, iloprost, treprostinil)
+© 2024 UnitedHealthcare Services, Inc.
+4
+-AND-
+(d) Prescribed by or in consultation with a cardiologist, pulmonologist or
+rheumatologist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Adempas, Opsumit, Opsynvi*, Letairis*, Tracleer, Tyvaso, Tyvaso DPI, or
+Ventavis will be approved based on the following criterion:
+(1) Documentation the patient is receiving clinical benefit to Adempas, Opsumit,
+Opsynvi*, Letairis*, Tracleer, Tyvaso, Tyvaso DPI, or Ventavis therapy.
+b. Revatio* oral powder for suspension, Liqrev oral suspension*, or Tadliq oral
+suspension will be approved based on both of the following criteria:
+(1) Documentation the patient is receiving clinical benefit to Revatio* oral powder
+for suspension, Liqrev oral suspension*, or Tadliq oral suspension therapy.
+-AND-
+(2) Patient remains unable to ingest a solid dosage form (e.g., an oral tablet) due to
+one of the following:
+(a) age
+(b) oral-motor difficulties
+(c) dysphagia
+Authorization will be issued for 12 months.
+c. Orenitram or Uptravi will be approved based on both of the following
+criteria:
+(1) Documentation the patient is receiving clinical benefit to Orenitram or
+Uptravi therapy.
+-AND-
+(2) Patient is not taking Orenitram or Uptravi in combination with a
+prostanoid/prostacyclin analogue (e.g., epoprostenol, iloprost, treprostinil)
+Authorization will be issued for 12 months.
+B. Chronic Thromboembolic Pulmonary Hypertension (CTEPH)
+1. Initial Authorization
+© 2024 UnitedHealthcare Services, Inc.
+5
+a. Adempas will be approved based on one of the following criteria:
+(1) All of the following:
+(a) Diagnosis of inoperable or persistent/recurrent chronic thromboembolic
+pulmonary hypertension (CTEPH)
+-AND-
+(b) CTEPH is symptomatic
+-AND-
+(c) Prescribed by or in consultation with a cardiologist, pulmonologist, or
+rheumatologist
+-OR-
+(2) Both of the following:
+(a) Patient is currently on any therapy for the diagnosis of CTEPH
+-AND-
+(b) Prescribed by or in consultation with a cardiologist, pulmonologist, or
+rheumatologist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Adempas will be approved based on the following criterion:
+(1) Documentation the patient is receiving clinical benefit to Adempas therapy.
+Authorization will be issued for 12months.
+C. Pulmonary Hypertension Associated with Interstitial Lung Disease
+1. Initial Authorization
+a. Tyvaso or Tyvaso DPI will be approved based on all of the following criteria:
+(1) All of the following13:
+(a) Diagnosis of pulmonary hypertension associated with interstitial lung
+disease (WHO group 3) confirmed by right heart catheterization
+© 2024 UnitedHealthcare Services, Inc.
+6
+(b) Interstitial lung disease is diagnosed based on evidence of diffuse
+parenchymal lung disease on computed tomography of the chest
+(c) Pulmonary hypertension is symptomatic
+-AND-
+(2) Prescribed by or in consultation with a cardiologist, pulmonologist, or
+rheumatologist.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tyvaso or Tyvaso DPI will be approved based on the following criterion:
+(1) Documentation of positive clinical response to Tyvaso or Tyvaso DPI therapy
+(e.g., improved exercise ability)
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+*Brand Letairis, Liqrev oral suspension, Opsynvi, and Revatio oral powder for suspension are
+typically excluded from coverage. Tried/Failed criteria may be in place. Please refer to plan specifics
+to determine exclusion status.
+Additional Information regarding the endothelin receptor antagonists (Letairis*, Opsumit,
+Opsynvi*, and Tracleer): These agents should be used with caution in patients with liver disease.
+Use is not recommended in moderate to severe hepatic impairment. Tracleer product labeling
+includes a black box warning regarding the risk of liver injury. Prescribers are cautioned to consider
+whether benefits of use offset the risk of liver injury in WHO Class II patients. Early liver injury
+may preclude future use as disease progresses. 3
+Additional Information regarding the oral PDE-5 inhibitors (Liqrev*, Opsynvi*, Revatio
+powder for oral suspension*, and Tadliq): Administration of the oral PDE-5 inhibitors to patients
+taking any form of organic nitrate, either regularly or intermittently, is contraindicated.4,5, 13,14 In
+addition, the concomitant administration of oral PDE-5 inhibitors with Adempas is contraindicated.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim
+logic. Use of automated approval and re-approval processes varies by program and/or
+therapeutic class.
+• Supply limitations may be in place.
+© 2024 UnitedHealthcare Services, Inc.
+7
+4. References:
+1. Pugh ME, Hemnes AR, Robbins IM. Combination therapy in pulmonary arterial hypertension.
+Clin Chest Med. 2013 Dec ;34(4) :841-55.
+2. Letairis [package insert]. Foster City, CA : Gilead Sciences, Inc; August 2019.
+3. Tracleer [package insert]. South San Francisco, CA: Actelion Pharmaceuticals US, Inc.; July
+2022.
+4. Revatio [package insert]. New York, NY: Pfizer Labs; January 2023.
+5. Ventavis [package insert]. Titusville, NJ: Actelion Pharmaceuticals US, Inc.; March 2022.
+6. Tyvaso [package insert]. Research Triangle Park, NC: United Therapeutics Corp.; May 2022.
+7. Opsumit [package insert]. South San Francisco, CA: Actelion Pharmaceuticals US Inc.; June
+2023.
+8. Orenitram [package insert]. Research Triangle Park, NC: United Therapeutics Corp.; August
+2023.
+9. Adempas [package insert]. Whippany, NJ: Bayer HealthCare Pharmaceuticals Inc.; September
+2021.
+10. Taichman D, Ornelas J, Chung L, et al. Pharmacologic Therapy for Pulmonary Arterial
+Hypertension in Adults. CHEST 2014;146(2):449-475.
+11. Uptravi [package insert]. South San Francisco, CA: Actelion Pharmaceuticals US, Inc; July
+2022.
+12. Waxman, A., Restrepo-Jaramillo, R., et al. Inhaled Treprostinil in Pulmonary Hypertension
+Due to Interstitial Lung Disease. N Engl J Med. 2021 Jan 28;384(4):325-334.
+13. Tyvaso DPI [package insert]. Research Triangle Park, NC: United Therapeutics Corp.; June
+2023.
+14. Tadliq [package insert]. Farmville, NC: CMP Pharma, Inc.; October 2023.
+15. Liqrev [package insert]. Farmville, NC: CMP Pharma, Inc.; April 2023.
+16. Opsynvi [package insert]. Titusville, NJ: Actelion Pharmaceuticals US Inc.; March 2024.
+17. Humbert, M, Kovacs G, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of
+pulmonary hypertension. European Respiratory Journal Jan 2022, 2200879
+Program Prior Authorization/Medical Necessity – PAH Agents
+Change Control
+4/2014 New program.
+12/2014 Added new step requirement for Adcirca, Adempas and Orenitram.
+Added in criteria for Revatio solution
+5/2015 Removed the diagnosis of PAH since we have changed it to Submission
+of medical records documenting diagnosis of pulmonary arterial
+hypertension that is confirmed by right heart catheterization.
+Removed step for Adcirca and Adempas. Removed Tyvaso from
+Orenitram step. Added Adempas as an alternative to the PDE5 I for the
+Orenitram step. Decreased Orenitram initial authorization period to 6
+months. Decreased Orenitram reauthorization period to 12 months.
+For reauthorization criteria changed to “Documentation the patient
+is receiving clinical benefit to therapy.”
+1/2016 Added Uptravi to the criteria requiring patients to try PDE5/Adempas
+and an ERA prior to obtaining Uptravi.
+Changed authorization periods to 12 months due to new regulation and
+to be consistent with all of the agents.
+2/2016 Updated prescriber requirement
+© 2024 UnitedHealthcare Services, Inc.
+8
+7/2016 Added Indiana and West Virginia coverage information.
+11/2016 Added California coverage information.
+12/2016 Updated background and references.
+9/2017 Annual review. Removed medical records requirements and updated
+sample pack language. Updated references. State mandate reference
+language updated.
+11/2017 Removal of authorization criteria for sildenafil tablets as tablet
+formulation will no longer require prior authorization.
+11/2018 Annual review. Added Adcirca brand tablets to exclusion. Updated
+background and references.
+11/2019 Annual review. Updated references.
+11/2020 Annual review. Updated background information with no change to
+clinical criteria. References updated.
+6/2021 Added coverage criteria for additional Tyvaso indication. Updated
+background and references.
+6/2022 Changed Revatio solution to suspension. Added Revatio suspension and
+Letairis brand tablets to exclusion. Added additional Letairis indication
+to background. Added generic names to Orenitram/Uptravi step.
+Updated references.
+10/2022 Added coverage criteria for Tyvaso DPI formulation and Alyq per
+prescribing information. Updated background and references.
+12/2022 Added Tadliq oral suspension for PAH. Updated background and
+references.
+3/2023 Updated background with Revatio’s expanded indication in pediatric
+patients with no change in coverage criteria. Updated references.
+2/2024 Annual review. Added Liqrev oral suspension for PAH and updated
+exclusion footnote. Updated background and references.
+8/2024 Added coverage criteria for Opsynvi tablets for PAH. Added Opsynvi
+to additional information section. Updated background and references.
+11/2024 Removed Adcirca and Alyq from policy. Added Opsynvi to the list of
+products that are typically excluded from coverage. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+9

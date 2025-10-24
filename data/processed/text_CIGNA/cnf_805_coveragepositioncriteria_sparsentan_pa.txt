@@ -1,0 +1,201 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Nephrology – Filspari Prior Authorization Policy
+• Filspari™ (sparsentan tablets − Travere)
+REVIEW DATE: 02/26/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Filspari, an endothelin and angiotensin II receptor antagonist, is indicated to slow
+kidney function decline in adults with primary immunoglobulin A nephropathy
+(IgAN) who are at risk of rapid disease progression.1
+Filspari is contraindicated for use with renin-angiotensin-aldosterone system (RAAS)
+inhibitors, endothelin receptor antagonists (ERAs), or aliskiren.1 RAAS inhibitors,
+ERAs, and/or aliskiren must be discontinued prior to initiation of Filspari.
+Clinical Efficacy
+The efficacy of Filspari is being assessed in an ongoing Phase III trial in adults with
+biopsy-proven IgAN, proteinuria ≥ 1.0 g/day at screening, and estimated glomerular
+filtration rate (eGFR) ≥ 30 mL/min/1.73 m2 (PROTECT, n = 404).2 Additionally
+patients were receiving the maximum tolerated dose (at least one-half of the
+maximum labeled dose) of an angiotensin converting enzyme inhibitor (ACEi) or
+angiotensin receptor blocker (ARB) for ≥ 12 weeks prior to study entry and had blood
+pressure of ≤ 150/100 mmHg (managed according to standard of care). Patients
+with use of immunosuppressive medications (including corticosteroids for > 2 weeks
+within 3 months of screening), chronic kidney disease (CKD) in addition to IgAN, or
+Page 1 of 5 - Cigna National Formulary Coverage - Policy:Nephrology – Filspari Prior Authorization Policy
+IgAN secondary to other conditions were excluded. Per study protocol, patients
+discontinued their ACEi or ARB 1 day prior to the start of Filspari.2
+The primary efficacy endpoint was the change from baseline in urine protein-to-
+creatinine ratio (based on 24-hour urine sample) at Week 36.2 The primary analysis
+was based on an interim data cutoff of August 1, 2021. At Week 36, the primary
+endpoint was significantly greater with Filspari vs. irbesartan in the interim analysis
+set (comprised of the first 281 patients randomized in the study, including 2 patients
+who were not treated); the geometric least squares mean percent change in UPCR
+from baseline was -45% vs. -15%, respectively. This resulted in a statistically
+significant relative reduction from baseline in UPCR for the Filspari vs. irbesartan
+group (geometric mean ratio 0.7; 95% confidence interval [CI]: 0.6, 0.8; P <
+0.0001), corresponding to a 35% relative reduction with Filspari. Supportive
+secondary endpoints for changes in UPCR from baseline to Week 94 and urine
+albumin-to-creatinine ratio (UACR) from baseline to Weeks 36 and 94, were
+significantly greater with Filspari. A confirmed 40% reduction in eGFR, end-stage
+kidney disease, or death was reported in a smaller proportion of patients treated with
+Filspari (3.5%) vs. irbesartan (6.4%) [P = not estimable].
+Several exploratory endpoints also favored Filspari over irbesartan. At the interim
+analysis (Week 36), the proportion of patients in the Filspari group who achieved
+partial proteinuria remission (< 1 g/day) was significantly higher with Filspari vs.
+irbesartan (55% vs. 24%, respectively) and numerically more patients in the Filspari
+vs. irbesartan group (11% vs. 4%, respectively) achieved complete proteinuria
+remission (< 0.3 g/day) at Week 36.
+Following the 36 week randomized, treatment period, patients were followed until
+the patient reached Week 110.5 The significant reduction in proteinuria at Week 36
+was maintained through Week 110. The UPCR at Week 110 was 40% lower in the
+Filspari group compared to the irbesartan group (-42·8% with Filspari versus -4·4%
+with irbesartan). Filspari also reduced the rate of decline in kidney function from
+baseline to Week 110 when compared with irbesartan (-3.0 mL/min/1.73 m2 per year
+for Filspari vs. 4.2 mL/min/1.73 m2 per year for irbesartan) with a corresponding
+treatment effect of 1.2 mL/min/1.73 m2 per year (P = 0.0168).
+Guidelines
+Kidney Diseases: Improving Global Outcomes (KDIGO) clinical practice guidelines
+for the management of IgAN and immunoglobulin A vasculitis (2024) recommend
+Filspari for patients who are at risk of progressive kidney function loss with IgAN.3
+Therapeutic strategies that minimize or avoid systemic glucocorticoid exposure are
+considered areas of priority for future research to improve the treatment and
+outcomes of patients with IgAN.
+Following biopsy-confirmed diagnosis of IgAN, the guidelines recommend assessment
+of disease progression.3 The primary focus of IgAN treatment should include multiple
+modalities such as RAAS blockage (maximum dose or maximum tolerated dose),
+blood pressure control, cardiovascular risk minimization, and adherence to lifestyle
+advice (i.e., dietary counseling, smoking cessation, weight control, and exercise as
+5 Pages - Cigna National Formulary Coverage - Policy:Nephrology – Filspari Prior Authorization Policy
+appropriate). RAAS blockade (with either an ACEi or ARB) is recommended regardless
+of hypertension if a patient has proteinuria > 0.5 g/day (500 mg/day). There are no
+data to suggest that dual blockade with an ACEi and ARB is superior to single
+blockade. In patients who remain at high risk of progressive CKD despite maximal
+supportive care, a 6-month course of glucocorticoid therapy should be considered.
+Safety
+Filspari has a Black Box Warning and Risk Evaluation and Mitigation Strategy (REMS)
+program around hepatotoxicity and embryo-fetal toxicity.1,4 The three objectives of
+the REMS are to monitor for elevations in liver enzymes in patients exposed to
+Filspari, ensure that patients who can become pregnant are not pregnant before
+initiating Filspari, and to minimize exposure in patients who may become pregnant
+while taking Filspari.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Filspari. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Filspari as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Filspari to be prescribed by or in consultation with a physician who specializes in the
+condition being treated.
+• Filspari™ (sparsentan tablets (Travere)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Primary Immunoglobulin A Nephropathy. Approve for 1 year if the patient
+meets ONE of the following (A or B):
+A) Initial Therapy. Approve if the patient meets ALL of the following (i, ii, iii, iv,
+v, vi, and vii):
+i. Patient is ≥ 18 years of age; AND
+ii. The diagnosis has been confirmed by biopsy; AND
+iii. Patient is at high risk of disease progression, defined by meeting BOTH of
+the following (a and b):
+a) Patient meets ONE of the following [(1) or (2)]:
+(1) Proteinuria ≥ 0.5 g/day; OR
+(2) Urine protein-to-creatinine ratio ≥ 0.8 g/g; AND
+b) Patient has received the maximum or maximally tolerated dose of ONE
+of the following for ≥ 12 weeks prior to starting Filspari [(1) or (2)]:
+(1) Angiotensin converting enzyme inhibitor; OR
+(2) Angiotensin receptor blocker; AND
+5 Pages - Cigna National Formulary Coverage - Policy:Nephrology – Filspari Prior Authorization Policy
+iv. Patient has received ≥ 3 months of optimized supportive care, including
+blood pressure management, lifestyle modification, and cardiovascular risk
+modification, according to the prescriber; AND
+v. Patient has an estimated glomerular filtration rate ≥ 30 mL/min/1.73 m2;
+AND
+vi. The medication will not be used in combination with any renin-angiotensin-
+aldosterone antagonists (e.g., angiotensin converting enzyme inhibitors or
+angiotensin receptor blockers), endothelin receptor antagonists, or
+aliskiren; AND
+Note: Examples of angiotensin converting enzyme inhibitors include but
+are not limited to lisinopril, fosinopril, enalapril, benazepril. Examples of
+angiotensin receptor blockers include but are not limited to irbesartan,
+losartan, candesartan, valsartan.
+vii. The medication is prescribed by or on consultation with a nephrologist;
+OR
+B) Patient is Currently Receiving Filspari. Approve if the patient meets ALL of the
+following (i, ii, iii, iv, v, and vi):
+i. Patient is ≥ 18 years of age; AND
+ii. The diagnosis has been confirmed by biopsy; AND
+iii. Patient has had a response to Filspari, according to the prescriber; AND
+Note: Examples of a response are a reduction in urine protein-to-creatinine
+ratio from baseline, reduction in proteinuria from baseline.
+iv. Patient has an estimated glomerular filtration rate ≥ 30 mL/min/1.73 m2;
+AND
+v. The medication is not being used in combination with any renin-
+angiotensin-aldosterone antagonists (e.g., angiotensin converting enzyme
+inhibitors or angiotensin receptor blockers), endothelin receptor
+antagonists, or aliskiren; AND
+Note: Examples of angiotensin converting enzyme inhibitors include but
+are not limited to lisinopril, fosinopril, enalapril, benazepril. Examples of
+angiotensin receptor blockers include but are not limited to irbesartan,
+losartan, candesartan, valsartan.
+vi. The medication is prescribed by or on consultation with a nephrologist.
+CONDITIONS NOT COVERED
+• Filspari™ (sparsentan tablets (Travere)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s); criteria will be updated as new published data are available.
+REFERENCES
+1. Filspari™ tablets [prescribing information]. San Diego, CA: Travere; September 2024.
+2. Sparsentan for Primary IgAN, Formulary Dossier. Version 4.1 Travere. February 18, 2023
+3. Kidney Diseases: Improving Global Outcomes (KDIGO) 2024 clinical practice guidelines for the
+management of immunoglobulin A nephropathy (IgAN) and immunoglobulin A vasculitis (IgAV).
+Draft published online ahead of print. Available at: https://kdigo.org/wp-
+5 Pages - Cigna National Formulary Coverage - Policy:Nephrology – Filspari Prior Authorization Policy
+content/uploads/2024/08/KDIGO-2024-IgAN-IgAV-Guideline-Public-Review-Draft.pdf. Accessed on
+February 20, 2025.
+4. The Filspari™ REMS (Risk Evaluation and Mitigation Strategy). Available at:
+https://filsparirems.com/#Main. Accessed on: February 20, 2025.
+5. Rovin BH, Barratt J, Heerspink HJL, et al. Efficacy and safety of sparsentan versus irbesartan in
+patients with IgA nephropathy (PROTECT): 2-year results from a randomised, active-controlled,
+phase 3 trial. Lancet. 2023;402(10417):2077-2090.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 02/22/2023
+Annual No criteria changes. 02/28/2024
+Revision
+Selected Primary Immunoglobulin A Nephropathy: The criterion requiring 10/02/2024
+Revision that the patient is at high risk of disease progression, defined by ONE
+of the following: urine-to-protein-creatinine ratio ≥ 1.5 g/g OR
+proteinuria ≥ 1 g/day was revised to require that the patient is at high
+risk of disease progression, defined by urine-to-protein-creatinine
+ratio ≥ 0.8 g/g OR proteinuria ≥ 0.5 g/day.
+The approval duration was changed to 1 year for initial and
+continuation therapy (previously the approval duration was 9 months
+for initial and 1 year for continuation therapy).
+Annual No criteria changes. 02/26/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2025 The Cigna
+Group.
+5 Pages - Cigna National Formulary Coverage - Policy:Nephrology – Filspari Prior Authorization Policy

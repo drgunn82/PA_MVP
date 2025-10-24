@@ -1,0 +1,257 @@
+STEP THERAPY POLICY
+POLICY: Diabetes – Sodium Glucose Co-Transporter-2 and Dipeptidyl
+Peptidase-4 Inhibitors Step Therapy Policy
+• Glyxambi® (empagliflozin and linagliptin tablets – Boehringer
+Ingelheim)
+• Qtern® (dapagliflozin and saxagliptin tablets – AstraZeneca)
+• Steglujan® (ertugliflozin and sitagliptin tablets – Merck)
+• Trijardy® XR (empagliflozin, linagliptin, and metformin extended-
+release tablets – Boehringer Ingelheim)
+REVIEW DATE: 05/14/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Glyxambi, Qtern, Steglujan, and Trijardy XR are sodium glucose co-transporter-2
+inhibitor (SGLT-2) and dipeptidyl peptidase-4 (DPP-4) inhibitor combination
+products indicated as an adjunct to diet and exercise to improve glycemic control in
+adults with type 2 diabetes mellitus; Trijardy XR also contains metformin.1-4
+Various single-entity SGLT-2 inhibitors and DPP-4 inhibitors are available. In
+addition to their indications for type 2 diabetes, Jardiance® (empagliflozin tablets),
+Invokana® (canagliflozin tablets), and dapagliflozin (Farxiga®, authorized generic)
+possess indications related to cardiovascular, renal, and/or heart failure benefits.
+Page 1 of 6 - Cigna National Formulary Coverage - Policy: Diabetes – Sodium Glucose Co-Transporter-2 and
+Dipeptidyl Peptidase-4 Inhibitors Step Therapy Policy
+Efficacy of the SGLT-2/DPP-4 inhibitor combination products has not been
+established in these settings. Refer to Table 1 for a summary of the available
+products containing SGLT-2 and/or DPP-4 inhibitors.
+Table 1. SGLT-2 and DPP-4 inhibitor-containing combination products.
+SGLT-2 Component DPP-4 Inhibitor Metformin
+Component
+CANA DAPA EMPA ERTU ALO LINA SAXA SITA
+DPP-4 inhibitor and metformin
+Janumet X X
+Janumet XR X X
+Jentadueto X X
+Jentadueto XR X X
+Kazano, authorized X X
+generic*
+Kombiglyze XR X X
+(saxagliptin/metformi
+n XR, generic)
+Zituvimet X X
+(sitagliptin/metformin,
+authorized generic)
+Zituvimet XR X X
+(sitagliptin/metformin
+XR)
+DPP-4 inhibitor and other
+Oseni (alogliptin/ X
+pioglitazone,
+authorized generic)
+Table 1 (continued). SGLT-2 and DPP-4 inhibitor-containing combination products.
+SGLT-2 Component DPP-4 Inhibitor Component Metformin
+CANA DAPA EMPA ERTU ALO LINA SAXA SITA
+SGLT-2 inhibitor and metformin
+Invokamet X X
+Invokamet XR X X
+Segluromet X X
+Synjardy X X
+Synjardy XR X X
+Xigduo XR, X X
+authorized
+generic
+SGLT-2 inhibitor and DPP-4 inhibitor
+Glyxambi X X
+Qtern X X
+Steglujan X X
+Trijardy XR X X X
+SGLT-2 – Sodium glucose co-transporter-2; DPP-4 – Dipeptidyl peptidase-4; CANA – canagliflozin; DAPA
+– dapagliflozin; EMPA – empagliflozin; ERTU – ertugliflozin; ALO – alogliptin; LINA – linagliptin; SAXA –
+saxagliptin; SITA – sitagliptin; XR – extended-release; * alogliptin/metformin is available as the
+authorized generic to Kazano and as a branded product (no trade name).
+GUIDELINES
+The American Diabetes Association Standards of Care (2025) note that therapy for
+patients with type 2 diabetes depends on comorbidities, patient-centered treatment
+factors, and management needs..5 The SGLT-2 inhibitors (with demonstrated
+6 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Sodium Glucose Co-Transporter-2 and
+Dipeptidyl Peptidase-4 Inhibitors Step Therapy Policy
+benefit) are recommended as initial therapy when pertinent comorbidities are
+present (atherosclerotic CV disease, or high CV risk, CKD, and heart failure),
+independent of metformin use. In pediatric patients with type 2 diabetes,
+metformin is the initial treatment of choice if HbA is < 8.5%; if glycemic goals are
+1c
+no longer met, Jardiance may be considered in children ≥ 10 years of age (the
+updated cage indications for dapagliflozin and Invokana are not addressed). DPP-4
+inhibitors do not carry indications for cardiorenal benefit and have lower glycemic
+efficacy than metformin.
+Because type 2 diabetes is a progressive disease, maintenance of glycemic goals
+often requires combination therapy. Traditional recommendations have called for
+the use of stepwise addition of medications to metformin to maintain glycemic
+goals. Metformin is contraindicated in patients with severe renal impairment
+(estimated glomerular filtration rate [eGFR] < 30 mL/min/1.73 m2) and in patients
+with acute or chronic metabolic acidosis, including diabetic ketoacidosis, with or
+without coma.6
+Initial combination therapy should be considered in people presenting with HbA
+1c
+levels 1.5% to 2.0% above their individualized goal. Incorporation of high-
+glycemic-efficacy therapies or therapies for cardiorenal risk reduction (e.g.,
+glucagon-like peptide-1 agonists, dual GLP-1/GIP agonists, and SGLT-2 inhibitors)
+may reduce the need for agents that increase the risks of hypoglycemia and weight
+gain or are less well tolerated.
+POLICY STATEMENT
+This program has been developed to encourage the use of a Step 1 Product prior to
+the use of a Step 2 Product. If the Step Therapy rule is not met for a Step 2
+Product at the point of service, coverage will be determined by the Step Therapy
+criteria below. All approvals are provided for 1 year in duration.
+• One Step 1 Product; OR
+• One of the following metformin-containing products: Glumetza ER, Riomet,
+metformin oral solution, metformin extended-release (generics to Fortamet
+ER and Glumetza ER), glyburide/metformin, glipizide/metformin, Actoplus
+Met, pioglitazone/metformin, Janumet, Janumet XR, sitagliptin/metformin
+(authorized generic to Zituvimet), Zituvimet, Zituvimet XR, Kombiglyze XR,
+saxagliptin/metformin extended-release, Jentadueto, Jentadueto XR, Kazano,
+aloglitpin/metformin, Synjardy, Synjardy XR, Xigduo XR,
+dapagliflozin/metformin extended-release, Invokamet, Invokamet XR,
+Segluromet; OR
+• One of the following DPP-4 inhibitor products: Januvia, Nesina, alogliptin,
+Onglyza, saxagliptin, Tradjenta, Oseni, alogliptin/pioglitazone, Zituvio,
+sitagliptin (authorized generic to Zituvio); OR
+• One SGLT-2 inhibitor (Brenzavvy, bexagliflozin, Farxiga, dapagliflozin
+[authorized generic to Farxiga], Invokana, Jardiance, Steglatro).
+6 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Sodium Glucose Co-Transporter-2 and
+Dipeptidyl Peptidase-4 Inhibitors Step Therapy Policy
+Step 1: generic metformin, generic metformin extended-release (generic to
+Glucophage XR only)
+Step 2: Glyxambi, Qtern, Steglujan, Trijardy XR
+Diabetes – Sodium Glucose Co-Transporter-2 and Dipeptidyl Peptidase-4
+Inhibitors Step Therapy Policy product(s) is(are) covered as medically
+necessary when the following step therapy criteria is(are) met. Any other
+exception is considered not medically necessary.
+CRITERIA
+1. If the patient has tried one Step 1 Product, approve a Step 2 Product.
+Note: A trial of one of the following metformin-containing products also satisfies
+the requirement: Glucophage (obsolete), Glucophage XR (obsolete), Glumetza
+ER, Fortamet ER (obsolete), Riomet, metformin oral solution, Riomet ER
+(obsolete), metformin extended-release (generics to Fortamet ER and Glumetza
+ER), glyburide/metformin, glipizide/metformin, Actoplus Met,
+pioglitazone/metformin, Actoplus Met XR (obsolete), Janumet, Janumet XR,
+Zituvimet, sitagliptin/metformin (authorized generic to Zituvimet), Zituvimet XR,
+repaglinide/metformin (obsolete), Kombiglyze XR, saxagliptin/metformin
+extended-release, Jentadueto, Jentadueto XR, Kazano, aloglitpin/metformin ,
+Synjardy, Synjardy XR, Xigduo XR, dapagliflozin/metformin extended-release,
+Invokamet, Invokamet XR, Segluromet.
+2. If the patient has tried a DPP-4 inhibitor, a DPP-4 inhibitor-containing product,
+OR an SGLT-2 inhibitor, other than Glyxambi, Qtern, Steglujan, or Trijardy XR,
+approve a Step 2 Product.
+Note: Examples of DPP-4 inhibitors include but are not limited to Januvia,
+Nesina, alogliptin, Onglyza, saxagliptin, Tradjenta, Zituvio, and sitagliptin
+(authorized generic to Zituvio). Examples of DPP-4 inhibitor-containing products
+include but are not limited to Oseni and alogliptin/pioglitazone. Examples of
+SGLT-2 inhibitors include but are not limited to Brenzavvy, bexagliflozin,
+Farxiga, dapagliflozin, Invokana, Jardiance, Steglatro.
+3. If the patient has a contraindication to metformin, according to the prescriber,
+approve Glyxambi, Qtern, or Steglujan.
+Note: Examples of contraindications to metformin include acute or chronic
+metabolic acidosis, including diabetic ketoacidosis.
+REFERENCES
+1. Glyxambi tablets [prescribing information]. Ridgefield, CT: Boehringer Ingelheim; October 2023.
+2. Qtern® tablets [prescribing information]. Wilmington, DE: AstraZeneca; September 2023.
+3. Steglujan® tablets [prescribing information]. Whitehouse Station, NJ: Merck; December 2024.
+6 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Sodium Glucose Co-Transporter-2 and
+Dipeptidyl Peptidase-4 Inhibitors Step Therapy Policy
+4. Trijardy® XR tablets [prescribing information]. Ridgefield, CT: Boehringer Ingelheim; October
+2023.
+5. American Diabetes Association. Standards of care in diabetes – 2025. Diabetes Care.
+2025;48(Suppl 1):S1-S359.
+6. .Metformin tablets [prescribing information]. Raleigh, NC: Indicus; June 2020.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Automation: The following products were removed from the 05/03/2023
+Revision automation (obsolete): Glucophage, Glucophage XR,
+repaglinide/metformin, Actoplus Met XR. Glumetza and Fortamet
+were clarified to be Glumetza ER and Fortamet ER.
+Criteria: For a patient requesting a Step 2 product, the note was
+updated to reflect that Glucophage, Glucophage XR,
+repaglinide/metformin, and Actoplus Met XR are obsolete (these still
+count towards a trial of a Step 1 product). Additionally, Glumetza and
+Fortamet were clarified to be Glumetza ER and Fortamet ER.
+For a patient who has tried a DPP-4 inhibitor, a DPP-4 inhibitor-
+containing product, or an SGLT-2 inhibitor, examples of these products
+were moved to a note.
+Selected Automation: Brenzavvy was added to automation for one sodium 09/13/2023
+Revision glucose co-transporter-2 inhibitor, saxagliptin (generic for Onglyza)
+was added to automation for one dipeptidyl peptidase-4 inhibitor, and
+saxagliptin/metformin extended-release (generic to Kombiglyze XR)
+was added to automation for one metformin-containing product.
+Selected Automation: Zituvio was added to automation for one dipeptidyl 02/07/2023
+Revision peptidase-4 (DPP-4) inhibitor.
+Selected Automation: dapagliflozin/metformin extended-release (authorized 02/21/2024
+Revision generic to Xigduo XR) was added to automation for one metformin-
+containing product. Dapagliflozin (authorized generic to Farxiga) was
+added to automation for one sodium-glucose co-transporter-2 (SGLT-
+2) inhibitor product.
+Annual Automation: Fortamet ER was removed from the list of metformin- 05/22/2024
+Revision containing products (obsolete). Sitagliptin (authorized generic to
+Zituvio) was added to the list of DPP-4 inhibitor products.
+Criteria: For a patient requesting a Step 2 product, the note was
+updated to reflect that Fortamet ER is obsolete (this still counts
+towards a trial of a Step 1 product). For a patient that has tried a
+DPP-4 inhibitor, a DPP-4 inhibitor-containing product, or an SGLT-2
+inhibitor, other than Glyxambi, Qtern, Steglujan, or Trijardy XR, the
+note was updated to add sitagliptin (authorized generic to Zituvio).
+Selected Automation: Sitagliptin/metformin (authorized generic) was added 08/07/2024
+Revision to automation for one metformin-containing product.
+Criteria: For a patient requesting a Step 2 product, the note was
+updated to add sitagliptin/metformin (authorized generic) to the list of
+metformin-containing products.
+Selected Automation: Zituvimet and Zituvimet XR were added to automation 11/20/2024
+Revision for one metformin-containing product.
+Criteria: For a patient requesting a Step 2 product, the note was
+updated to add Zituvimet and Zituvimet XR to the list of metformin-
+containing products.
+Annual Automation: Riomet ER was removed from the list of metformin- 05/14/2025
+Revision containing product (obsolete > 3 years). Bexagliflozin was added to
+automation for one sodium glucose co-transporter-2 (SGLT-2)
+inhibitor.
+6 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Sodium Glucose Co-Transporter-2 and
+Dipeptidyl Peptidase-4 Inhibitors Step Therapy Policy
+Criteria: For a patient requesting a Step 2 product, the note listing
+metformin-containing products was updated to reflect that Riomet ER
+is obsolete (this still counts towards a trial of a Step 1 product).
+For a patient requesting a Step 2 product that has tried a dipeptidyl
+peptidase-4 (DPP-4) inhibitor, a DPP-4 inhibitor-containing product,
+OR an SGLT-2 inhibitor, other than Glyxambi, Qtern, Steglujan, or
+Trijardy XR, the note was updated to add bexagliflozin as an example
+of an SGLT-2 inhibitor.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+6 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Sodium Glucose Co-Transporter-2 and
+Dipeptidyl Peptidase-4 Inhibitors Step Therapy Policy

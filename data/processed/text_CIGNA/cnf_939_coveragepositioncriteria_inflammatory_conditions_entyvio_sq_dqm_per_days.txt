@@ -1,0 +1,121 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Inflammatory Conditions – Entyvio Subcutaneous Drug Quantity
+Management Policy – Per Days
+• Entyvio® (vedolizumab subcutaneous injection – Takeda)
+REVIEW DATE: 08/27/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Entyvio subcutaneous (SC), an integrin receptor antagonist, is indicated for
+treatment of the following uses:1
+• Crohn’s disease, in adults with moderately to severely active disease.
+• Ulcerative colitis, in adults with moderately to severely active disease.
+Dosing
+Therapy begins with Entyvio 300 mg IV at Weeks 0, 2, and 6, followed by every 8
+weeks thereafter.1 Alternatively, at Week 6, or at any scheduled Entyvio IV
+infusion in patients with a clinical response or remission, therapy can be switched to
+Entyvio SC. The recommended maintenance dose of Entyvio SC is 108 mg SC once
+every 2 weeks (Q2W).
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Entyvio Subcutaneous Drug
+Quantity Management Policy – Per Days
+Dose Escalation in Crohn’s Disease and Ulcerative Colitis
+There are data to support dose escalation of Entyvio SC from Q2W to once weekly
+(QW) in patients with inflammatory bowel disease who do not achieve remission
+with the Q2W dosing.2 In VISIBLE OLE, an open-label extension study that enrolled
+patients from the pivotal studies of Entyvio, VISIBLE-1 (ulcerative colitis study) and
+VISIBLE-2 (Crohn’s disease study), patients experiencing treatment failure with
+Entyvio SC Q2W could escalate to QW dosing. Treatment failure was defined as
+disease worsening, need for rescue medications, or need for surgical intervention.
+The VISIBLE OLE analysis included patients with ulcerative colitis (n = 231) or
+Crohn’s disease (n = 344) who completed 52 weeks of treatment with Entyvio SC
+Q2W or placebo in VISIBLE-1 or 2 and patients without a clinical response at Week
+6 in VISIBLE-1 or 2 but who responded at Week 14 to Entyvio IV. Analysis did not
+include patients that stopped VISIBLE-1 or 2 early due to treatment failure and
+subsequently enrolled in the OLE with QW dosing.
+• Among patients with ulcerative colitis who escalated to QW dosing during the
+OLE (n = 63), 22.2% and 38.1% achieved clinical remission and response,
+respectively, by Week 8 after transitioning to QW dosing. This was fairly
+consistent through Week 48, and then steadily decreased through Week 168.
+• Among patients with Crohn’s disease who escalated to QW dosing during the
+OLE (n = 101), 38.6% and 53.5% achieved clinical remission and response,
+respectively, by Week 8 after transitioning to QW. This steadily decreased
+through Week 168.
+Availability
+Entyvio is available as a 108 mg/0.68 mL prefilled pens.1 Entyvio is also available
+as a 300 mg vial for intravenous (IV). The IV product is not targeted in this policy.
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of Entyvio SC, and to manage potential premature dose
+escalation. If the Drug Quantity Management rule is not met at the point of service,
+coverage will be determined by the Criteria below. All approvals are provided for 1
+year in duration, unless otherwise noted below.
+Drug Quantity Limits
+Product Strength and Form Retail Home
+Maximum Delivery
+Quantity Maximum
+Limit Quantity
+Limit
+Entyvio® 108 mg/0.68 mL prefilled pen 2 pens per 28 6 pens per 84
+(vedolizumab SC days days
+injection)
+SC – Subcutaneous.
+4 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Entyvio Subcutaneous Drug
+Quantity Management Policy – Per Days
+EXCEPTIONS TO THE QUANTITY LIMITS LISTED ABOVE ARE COVERED AS MEDICALLY
+NECESSARY WHEN THE FOLLOWING CRITERIA ARE MET. ANY OTHER EXCEPTION IS
+CONSIDERED NOT MEDICALLY NECESSARY.
+CRITERIA
+1. Approve 4 pens per 28 days at retail or 12 pens per 84 days at home delivery if
+the patient meets ALL of the following (A, B, and C):
+A) Entyvio is being used to treat Crohn’s disease or ulcerative colitis; AND
+B) Patient has received Entyvio 108 mg subcutaneous (SC) once every 2 weeks
+for 14 weeks or longer; AND
+C) According to the prescriber, the patient has continued evidence of
+inflammation based on one or more of the following: elevated C-reactive
+protein, elevated erythrocyte sedimentation rate, elevated fecal calprotectin,
+or signs of inflammation on endoscopic evaluation.
+2. Approve 4 pens per 28 days at retail or 12 pens per 84 days at home delivery if
+the patient meets BOTH of the following (A and B):
+A) Entyvio is being used to treat Crohn’s disease or ulcerative colitis; AND
+B) Patient has been receiving Entyvio 108 mg subcutaneous (SC) once weekly.
+REFERENCES
+1. Entyvio subcutaneous injection [prescribing information]. Deerfield, IL: Takeda; May 2024
+2. Loftus EV, Jones S, Velazco N, et al. Persistence of treatment effect in patients with ulcerative colitis
+and Crohn’s disease: long-term results from the VISIBLE OLE study [poster Su1859]. Presented
+at: the 2025 Digestive Disease Week; San Diego, CA; May 3-7, 2025.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy New Policy was created to provide overrides to existing quantity limits. 08/27/2025
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025
+The Cigna Group.
+4 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Entyvio Subcutaneous Drug
+Quantity Management Policy – Per Days

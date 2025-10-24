@@ -1,0 +1,98 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2091-12
+Program Prior Authorization/Medical Necessity
+Medication Ocaliva® (obeticholic acid)
+P&T Approval Date 5/2016, 6/2016, 6/2017, 6/2018, 6/2019, 6/2020, 11/2021, 6/2022,
+6/2023, 6/2024, 12/2024
+Effective Date 3/1/2025
+1. Background:
+Ocaliva (obeticholic acid), a farnesoid X receptor (FXR) agonist, is indicated for the treatment of
+primary biliary cholangitis (PBC), without cirrhosis or with compensated cirrhosis without
+evidence of portal hypertension, in combination with ursodeoxycholic acid (UDCA) in adults
+with an inadequate response to UDCA, or as monotherapy in adults unable to tolerate UDCA.
+This indication is approved under accelerated approval based on a reduction in alkaline
+phosphatase (ALP). An improvement in survival or disease-related symptoms has not been
+established. Continued approval for this indication may be contingent upon verification and
+description of clinical benefit in confirmatory trials.1
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Ocaliva will be approved based on all of the following criteria:
+a. Diagnosis of primary biliary cholangitis
+-AND-
+b. One of the following:
+(1) Patient does not have cirrhosis
+-OR-
+(2) Patient has compensated cirrhosis without evidence of portal hypertension
+-AND-
+c. One of the following^:
+(1) Both of the following:
+(a) Used in combination with ursodeoxycholic acid (e.g., Urso, ursodiol)
+(b) Patient has failed to achieve an alkaline phosphatase (ALP) level of less than
+1.67 times the upper limit of normal after at least 12 consecutive months of
+treatment with ursodeoxycholic acid (e.g., Urso, ursodiol)
+© 2024 UnitedHealthcare Services Inc.
+1
+-OR-
+(2) History of contraindication or intolerance to ursodeoxycholic acid (e.g., Urso,
+ursodiol)
+-AND-
+d. Patient is not receiving Ocaliva in combination with Iqirvo (elafibranor) or Livdelzi
+(seladelpar)
+-AND-
+e. Prescribed by one of the following:
+(1) Hepatologist
+(2) Gastroenterologist
+Initial authorization will be issued for 12 months
+B. Reauthorization
+1. Ocaliva will be approved based on all the following criteria:
+a. Submission of medical records (e.g., laboratory values) documenting a reduction in
+ALP level from pre-treatment baseline (i.e., prior to Ocaliva therapy)
+-AND-
+b. One of the following:
+(1) Patient does not have cirrhosis
+-OR-
+(2) Patient has compensated cirrhosis without evidence of portal hypertension
+-AND-
+c. Patient is not receiving Ocaliva in combination with Iqirvo (elafibranor) or Livdelzi
+(seladelpar)
+-AND-
+d. Prescribed by one of the following:
+(1) Hepatologist
+(2) Gastroenterologist
+Reauthorization will be issued for 12 months
+© 2024 UnitedHealthcare Services Inc.
+2
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+^Tried/failed alternative(s) are supported by FDA labeling.
+3. Additional Clinical Rules:
+• Supply limits may be in place.
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+4. References:
+1. Ocaliva [package insert]. Morristown, NJ: Intercept Pharmaceuticals, Inc.; May 2022.
+Program Prior Authorization/Medical Necessity – Ocaliva (obeticholic acid)
+Change Control
+Date Change
+5/2016 New program.
+6/2016 Changed clinical criteria based on FDA approved label.
+7/2016 Added Indiana and West Virginia coverage information.
+11/2016 Administrative change. Added California coverage information.
+6/2017 Annual review. Added prescriber requirement to reauthorization
+criteria. State mandate reference language updated.
+6/2018 Annual review. Updated references.
+6/2019 Annual review with no changes.
+6/2020 Annual review with no changes.
+11/2021 No changes to coverage criteria.
+6/2022 Changed clinical criteria based on changes to prescribing information.
+Revised order of listing of two criteria to better align with prescribing
+information. Added footnote that tried/failed alternative(s) are
+supported by FDA labeling. Background and reference updated.
+6/2023 Annual review with no changes to coverage criteria. Updated reference.
+6/2024 Annual review. Updated initial authorization to 12 months.
+12/2024 Added not receiving in combination language to criteria.
+© 2024 UnitedHealthcare Services Inc.
+3

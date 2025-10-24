@@ -1,0 +1,74 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1048-15
+Program Prior Authorization/Notification
+Medications Besremi® (ropeginterferon alfa-2b-njft)
+P&T Approval Date 2/2004, 7/2007, 4/2009, 12/2009, 9/2010, 9/2011, 8/2012, 11/2012,
+4/2013, 2/2014, 4/2014, 5/2015, 11/2016, 11/2017, 11/2018, 11/2019,
+11/2020, 11/2021, 1/2022, 10/2022, 10/2023, 10/2024
+Effective Date 1/1/2025
+1. Background:
+Besremi (ropeginterferon alfa-2b-njft) is an interferon alfa-2b indicated for the treatment of
+adults with polycythemia vera.2
+2. Coverage Criteriaa:
+A. Polycythemia Vera
+1. Besremi will be approved based upon the following criterion:
+a. Diagnosis of polycythemia vera
+Authorization will be issued for 12 months.
+B. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category
+of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits and/or Step Therapy may be in place.
+© 2024 UnitedHealthcare Services, Inc.
+1
+4. References:
+1. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Accessed
+September 6, 2024 at https://www.nccn.org/compendia-templates/compendia/nccn-
+compendia
+2. Besremi [package insert]. Burlington, MA: PharmaEssentia; April 2024.
+Program Prior Authorization/Notification - Besremi
+Change Control
+4/2014 For Pegasys and Peg-Intron, added patients with chronic hepatitis C
+genotype 3 as a patient population that may receive Sovaldi triple
+therapy.
+2/2014 Removed all age criteria. Added criteria for triple therapy regimen
+including Olysio. Added criteria for triple therapy regimen including
+Sovaldi. Added criteria for giant cell tumor of the bone.
+5/2015 Revised criteria for treatment of hepatitis C given market removal of
+Incivek, Infergen and pending removal of Victrelis. Criteria now
+reflects the shift in treatment of hepatitis C to non-interferon based
+therapies.
+6/2015 Administrative change. Documented approval period for Pegasys
+“other indications”
+11/2016 Annual review. Consolidation of hepatitis B and C criteria. Updated
+off-label NCCN recommendations for use. Updated references.
+11/2017 Annual review. Updated off-label NCCN recommendations for use.
+Removed CML (Intron A, Pegasys, Pegintron) and systemic light chain
+amyloidosis (Intron A) indications as no longer rec by NCCN. Updated
+references.
+11/2018 Annual review. Updated background and criteria to include NCCN
+recommended use for systemic mastocytosis. Updated references.
+11/2019 Annual review. Added general NCCN recommendations for use
+criteria. Updated references.
+11/2020 Annual review. Updated background and criteria to include NCCN
+recommendations. Updated references.
+11/2021 Annual review. Removed discontinued products, PegIntron and
+Sylatron. Updated background and criteria to align with label and
+NCCN guidelines. Updated references.
+1/2022 Added criteria for Besremi. Updated references.
+10/2022 Removed Intron A and Pegasys from program, including updates to
+background, criteria, and references. Added state mandate.
+10/2023 Annual review without changes to criteria. Updated references.
+10/2024 Annual review without changes to criteria. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+2

@@ -1,0 +1,96 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2059-13
+Program Prior Authorization/Medical Necessity Buprenorphine/Naloxone Products
+Medication Suboxone® * (Brand Only)
+P&T Approval Date 7/2015, 10/2016, 3/2017, 9/2017, 9/2018, 7/2019, 7/2020, 11/2020,
+11/2021, 1/2023, 2/2024, 4/2025
+Effective Date 7/1/2025
+1. Background
+Suboxone* contains buprenorphine, a narcotic and naloxone, an opiate antagonist.
+Buprenorphine, like other opioids, has the potential for being abused. Naloxone is used to guard
+against misuse by blocking the effects of opiates if the drug is manipulated for injection.
+This program requires a member to meet treatment criteria prior to the coverage of
+buprenorphine/naloxone combination products. It also requires the member to try the preferred
+combination product buprenorphine/naloxone (generic Suboxone) or Zubsolv prior to receiving
+coverage for Suboxone *.
+2. Coverage Criteriaa, b:
+A. Initial Authorization
+1. Suboxone* (Brand Only) will be approved based on both of the following criteria:
+a. The patient is being treated for opioid dependencec
+-AND-
+b. Both of the following:
+i. One of the following:
+(a) Submission of medical records (e.g., chart notes) documenting an inadequate
+response to a minimum 30-day trial of Zubsolv. (30-day trial must be completed
+prior to Prior Authorization/Medical Necessity request.)
+(b) Submission of medical records (e.g., chart notes) documenting the member has
+experienced adverse effects or has a contraindication to Zubsolv, including the
+manifestation of the adverse reaction or reason for contraindication
+-AND-
+ii. One of the following:
+(a) Submission of medical records (e.g., chart notes) documenting an inadequate
+response to a minimum 30-day trial of buprenorphine/naloxone (generic
+Suboxone). (30-day trial must be completed prior to Prior Authorization/Medical
+© 2025 UnitedHealthcare Services, Inc.
+1
+Necessity request.)
+(b) Submission of medical records (e.g., chart notes) documenting the member has
+experienced adverse effects or has a contraindication to generic
+buprenorphine/naloxone (generic Suboxone) including the manifestation of the
+adverse reaction or reason for contraindication
+Authorization will be issued for 12 months.
+B. Reauthorization:
+1. Suboxone* (Brand Only) will be approved based on the following criterion:
+a. Documentation of positive clinical responsec
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+b Review not required for plans sitused in the state of Illinois.
+c Plans sitused in Nevada are not subject to clinical criteria. Only step therapy may be required.
+3. Additional Clinical Rules:
+• Supply limits may be in place.
+• Suboxone (Brand Only) is typically excluded from coverage. Tried/Failed criteria may be in
+place. Please refer to plan specifics to determine exclusion status.
+Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+4. References:
+1. Suboxone [package insert]. Richmond, VA: Indivior Inc.; December 2023.
+2. Zubsolv [package insert]. Morristown, NJ: Orexo US, Inc.; December 2023.
+3. The ASAM National Practice Guideline for the Treatment of Opioid Use Disorder: 2020 Focused
+Update [published correction appears in J Addict Med. 2020 May/Jun;14(3):267]. J Addict Med.
+2020;14(2S Suppl 1):1-91. doi:10.1097/ADM.0000000000000633
+Program Prior Authorization/Medical Necessity – Buprenorphine/Naloxone
+Products
+Change Control
+Date Change
+7/2015 New Program
+10/2016 Annual update. Decreased reauthorization period from 24 months to 12
+months. Updated references.
+3/2017 Administrative update. Removed requirement for medical record
+submission to verify opioid dependence diagnosis. Updated references.
+9/2017 Changed reference from intolerance to adverse reaction to Zubsolv.
+© 2025 UnitedHealthcare Services, Inc.
+2
+Removed DEA waiver requirement.
+9/2018 Annual review. Removed reference to brand Suboxone tablets (brand
+no longer available). Updated references.
+7/2019 Removed generic Suboxone and buprenorphine/naloxone tablets from
+medications covered by criteria. Added criteria for DATA2000
+prescriber.
+7/2020 Annual review. Updated references. Clarified timing of 30 day trial.
+11/2020 Removed criteria for DATA2000 prescriber. Removed pain
+management confirmation. Updated medical records requirement.
+11/2021 Annual review. Updated references.
+1/2022 Administrative change. Illinois footnote added. Criteria retired 1/2019
+for Illinois.
+1/2023 Updated background to include additional qualified practitioners that
+may prescribe buprenorphine for the treatment of opioid use disorder.
+Updated references.
+2/2024 Removed Bunavail from program, it is off the market. Added Nevada
+mandate. Updated references.
+4/2025 Annual review. Updated background and references.
+© 2025 UnitedHealthcare Services, Inc.
+3

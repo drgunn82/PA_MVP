@@ -1,0 +1,230 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Bone Modifiers – Tymlos Prior Authorization Policy
+• Tymlos® (abaloparatide subcutaneous injection – Radius)
+REVIEW DATE: 10/23/2024
+INSTRUCTIONS FOR USE
+The following Coverage Policy applies to health benefit plans administered by Cigna Companies. Certain Cigna
+Companies and/or lines of business only provide utilization review services to clients and do not make coverage
+determinations. References to standard benefit plan language and coverage determinations do not apply to those
+clients. Coverage Policies are intended to provide guidance in interpreting certain standard benefit plans administered
+by Cigna Companies. Please note, the terms of a customer's particular benefit plan document [Group Service
+Agreement, Evidence of Coverage, Certificate of Coverage, Summary Plan Description (SPD) or similar plan
+document] may differ significantly from the standard benefit plans upon which these Coverage Policies are based.
+For example, a customer's benefit plan document may contain a specific exclusion related to a topic addressed in a
+Coverage Policy. In the event of a conflict, a customer's benefit plan document always supersedes the information in
+the Coverage Policies. In the absence of a controlling federal or state coverage mandate, benefits are ultimately
+determined by the terms of the applicable benefit plan document. Coverage determinations in each specific instance
+require consideration of 1) the terms of the applicable benefit plan document in effect on the date of service; 2) any
+applicable laws/regulations; 3) any relevant collateral source materials including Coverage Policies and; 4) the
+specific facts of the particular situation. Each coverage request should be reviewed on its own merits. Medical
+directors are expected to exercise clinical judgment and have discretion in making individual coverage
+determinations. Coverage Policies relate exclusively to the administration of health benefit plans. Coverage Policies
+are not recommendations for treatment and should never be used as treatment guidelines. In certain markets,
+delegated vendor guidelines may be used to support medical necessity and other coverage determinations.
+Cigna National Formulary Coverage:
+Overview
+Tymlos, a human parathyroid hormone related peptide analog, is indicated for the following
+uses:1
+• Osteoporosis, treatment of postmenopausal women, at high risk for fracture.
+• Osteoporosis, treatment to increase bone density in men, at high risk for
+fracture.
+Patients at high risk for fracture are defined as those with a history of osteoporotic fracture,
+have multiple risk factors for fracture, or have failed or are intolerant to other osteoporosis
+therapy.
+Guidelines
+Guidelines for osteoporosis in postmenopausal women from the Endocrine Society (2019)2
+as well as from the American Association of Clinical Endocrinologists and the American
+College of Endocrinology (2020)3 discuss Tymlos. In general, Tymlos is one of several
+alternatives recommended in patients who are at high risk of fracture or in those unable to
+utilize oral bisphosphonate therapy. The Bone Health and Osteoporosis clinician guide to
+prevent and treat osteoporosis (2022) cites robust reductions in vertebral and non-vertebral
+fractures with Tymlos therapy in postmenopausal women with osteoporosis.4
+Safety
+Page 1 of 6 - Cigna National Formulary Coverage - Policy:Bone Modifiers – Tymlos Prior Authorization Policy
+The prescribing information for Tymlos states that the safety and efficacy of Tymlos have
+not been evaluated beyond 2 years of therapy. Use of the medication for more than 2 year
+during a patient’s lifetime is not recommended. There are limited data evaluating the risk
+of osteosarcoma beyond 2 years of Tymlos and/or use of a parathyroid hormone analog.
+Avoid use of Tymlos in patients who are at increased baseline risk of osteosarcoma (e.g.,
+open epiphyses [pediatric and young adult patients], those with metabolic bone disease,
+patients with bone metastases or a history of skeletal malignancies).
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Tymlos. All
+approvals are provided for the duration noted below. In the approval indication, as
+appropriate, an asterisk (*) is noted next to the specified gender. In this context, the
+specified gender is defined as follows: men are defined as individuals with the biological
+traits of a man, regardless of the individual’s gender identity or gender expression.
+• Tymlos® (abaloparatide subcutaneous injection – Radius)
+is(are) covered as medically necessary when the following criteria is(are) met for
+FDA-approved indication(s) or other uses with supportive evidence (if applicable):
+FDA-Approved Indications
+1. Osteoporosis Treatment for a Postmenopausal Patient. Approve for up to 2 years
+(total) during a patient’s lifetime if the patient meets BOTH of the following (A and B):
+Note: For example, a patient who has already received 3 months of treatment with
+Tymlos should be approved for a duration of 21 months. This allows for completion of a
+maximum of 2 years of therapy during the patient’s lifetime.
+A) Patient meets ONE of the following (i, ii, or iii):
+i. Patient has had a T-score (current or at any time in the past) at or below -2.5 at
+the lumbar spine, femoral neck, total hip and/or 33% (one-third) radius (wrist);
+OR
+ii. Patient has had an osteoporotic fracture or a fragility fracture; OR
+iii. The patient meets BOTH of the following (a and b):
+a) Patient has low bone mass; AND
+Note: An example of low bone mass includes a T-score (current or at any
+time in the past) between -1.0 and -2.5 at the lumbar spine, femoral neck,
+total hip, and/or 33% (one-third) radius (wrist).
+b) According to the prescriber, patient is at high risk for fracture; AND
+B) Patient meets ONE of the following (i, ii, iii, or iv):
+i. Patient has tried ibandronate intravenous injection (Boniva) or zoledronic acid
+intravenous infusion (Reclast); OR
+ii. Patient has tried at least one oral bisphosphonate or oral bisphosphonate-
+containing product and meets ONE of the following (a or b):
+Note: Examples of oral bisphosphonate products include Fosamax (alendronate
+tablets and oral solution), Fosamax Plus D (alendronate/cholecalciferol tablets),
+Actonel (risedronate tablets), Atelvia (risedronate delayed-release tablets), and
+Boniva (ibandronate tablets).
+a) According to the prescriber, patient has experienced inadequate efficacy to
+oral bisphosphonate therapy after a trial duration of 12 months; OR
+Note: Examples of inadequate efficacy are ongoing and significant loss of
+bone mineral density (BMD), lack or a BMD increase, and/or an osteoporotic
+fracture or a fragility fracture.
+5 Pages - Cigna National Formulary Coverage - Policy:Bone Modifiers – Tymlos Prior Authorization Policy
+b) Patient has experienced significant intolerance to an oral bisphosphonate; OR
+Note: Examples of significant intolerance include severe gastrointestinal
+related adverse events and/or severe musculoskeletal related adverse events.
+iii. Patient cannot take an oral bisphosphonate due to ONE of the following (a, b, or
+c):
+a) Patient cannot swallow or has difficulty swallowing; OR
+b) Patient cannot remain in an upright position post oral bisphosphonate
+administration; OR
+c) Patient has a pre-existing gastrointestinal medical condition; OR
+Note: Examples of pre-existing gastrointestinal medical conditions include
+esophageal lesions, esophageal ulcers, or abnormalities of the esophagus that
+delay esophageal emptying (stricture, achalasia).
+iv. Patient meets ONE of the following (a or b):
+a) According to the prescriber, the patient has severe renal impairment or
+chronic kidney disease; OR
+Note: An example of severe renal impairment is a creatinine clearance < 35
+mL/minute.
+b) Patient has had an osteoporotic fracture or a fragility fracture.
+2. Osteoporosis Treatment for Men*. Approve for up to 2 years (total) during a
+patient’s lifetime if the patient meets BOTH of the following (A and B):
+Note: For example, a patient who has already received 3 months of treatment with
+Tymlos should be approved for a duration of 21 months. This allows for completion of a
+maximum of 2 years of therapy during the patient’s lifetime.
+A) Patient meets ONE of the following (i, ii, or iii):
+i. Patient has had a T-score (current or at any time in the past) at or below -2.5 at
+the lumbar spine, femoral neck, total hip and/or 33% (one-third) radius (wrist);
+OR
+ii. Patient has had an osteoporotic fracture or a fragility fracture; OR
+iii. The patient meets BOTH of the following (a and b):
+a) Patient has low bone mass; AND
+Note: An example of low bone mass includes a T-score (current or at any
+time in the past) between -1.0 and -2.5 at the lumbar spine, femoral neck,
+total hip, and/or 33% (one-third) radius (wrist).
+b) According to the prescriber, patient is at high risk for fracture; AND
+B) Patient meets ONE of the following (i, ii, iii, or iv):
+i. Patient has tried zoledronic acid intravenous infusion (Reclast); OR
+ii. Patient has tried at least one oral bisphosphonate or oral bisphosphonate-
+containing product and meets ONE of the following (a or b):
+Note: Examples of oral bisphosphonate products include Fosamax (alendronate
+tablets and oral solution), Fosamax Plus D (alendronate/cholecalciferol tablets),
+Actonel (risedronate tablets), Atelvia (risedronate delayed-release tablets), and
+Boniva (ibandronate tablets).
+a) According to the prescriber, patient has experienced inadequate efficacy to oral
+bisphosphonate therapy after a trial duration of 12 months; OR
+Note: Examples of an inadequate efficacy are ongoing and significant loss of
+bone mineral density (BMD), lack or a BMD increase, and/or an osteoporotic
+fracture or a fragility fracture.
+b) Patient has experienced significant intolerance to an oral bisphosphonate; OR
+Note: Examples of significant intolerance include severe gastrointestinal
+related adverse events and/or severe musculoskeletal related adverse
+events.
+5 Pages - Cigna National Formulary Coverage - Policy:Bone Modifiers – Tymlos Prior Authorization Policy
+iii. Patient cannot take an oral bisphosphonate due to ONE of the following (a, b, or
+c):
+a) Patient cannot swallow or has difficulty swallowing; OR
+b) Patient cannot remain in an upright position post oral bisphosphonate
+administration; OR
+c) Patient has a pre-existing gastrointestinal medical condition; OR
+Note: Examples of pre-existing gastrointestinal medical conditions include
+esophageal lesions, esophageal ulcers, or abnormalities of the esophagus that
+delay esophageal emptying (stricture, achalasia).
+iv. Patient meets ONE of the following (a or b):
+a) According to the prescriber, the patient has severe renal impairment or
+chronic kidney disease; OR
+Note: An example of severe renal impairment is a creatinine clearance < 35
+mL/minute.
+b) Patient has had an osteoporotic fracture or a fragility fracture.
+CONDITIONS NOT COVERED
+• Tymlos® (abaloparatide subcutaneous injection – Radius)
+is(are) considered experimental, investigational or unproven for ANY other use(s)
+including the following (this list may not be all inclusive; criteria will be updated
+as new published data are available):
+1. Concurrent Use with Other Medications for Osteoporosis.
+Note: Examples of medications for osteoporosis that Tymlos should not be given with
+include Prolia (denosumab subcutaneous injection), oral bisphosphonates (alendronate,
+risedronate, ibandronate), intravenous bisphosphonates (zoledronic acid intravenous
+infusion [Reclast], ibandronate intravenous injection), calcitonin nasal spray
+(Miacalcin/Fortical), teriparatide subcutaneous injection (Forteo), and Evenity
+(romosozumab-aqqg subcutaneous injection). However, this does NOT exclude use of
+calcium and/or vitamin D supplements in combination with Tymlos.
+2. Osteoporosis Prevention. Tymlos has not been studied in this patient population.
+The benefits and risks of building bone with Tymlos in a condition in which substantial
+bone loss has not occurred have not been investigated.1
+3. Coverage is not recommended for circumstances not listed in the Recommended
+Authorization Criteria. Criteria will be updated as new published data are available.
+REFERENCES
+1. Tymlos® subcutaneous injection [prescribing information]. Boston, MA: Radius;
+December 2023.
+2. Eastell R, Rosen CJ, Black DM, et al. Pharmacological management of osteoporosis in
+postmenopausal women: an Endocrine Society clinical practice guideline. J Clin
+Endocrinol Metab. 2019;104(5):1595-1622.
+3. Camacho PM, Petak SM, Binkley N, et al. American Association of Clinical
+Endocrinologists and American College of Endocrinology clinical practice guidelines for
+the diagnosis and treatment of postmenopausal osteoporosis-2020 update. Endocrin
+Pract. 2020;26(Suppl 1):1-46.
+4. LeBoff MS, GreenspanSL, Insogna KL, et al. The clinician’s guide to prevention and
+treatment of osteoporosis. Osteoporosis Int. 2022;33(10):2049-2102.
+5 Pages - Cigna National Formulary Coverage - Policy:Bone Modifiers – Tymlos Prior Authorization Policy
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual To comply with standard wording, the phrase “as determined 09/27/2023
+Revision by the prescriber” was replaced with “according to the
+prescriber”. In addition, the following changes were made:
+Osteoporosis – Treatment for Men: The exception that the
+patient has had an osteoporotic fracture or a fragility fracture
+while receiving oral bisphosphonate therapy was removed.
+Instead, this exception was incorporated into a Note that lists
+osteoporotic fracture or a fragility fracture as an example of
+inadequate efficacy or significant intolerance to a trial of an oral
+bisphosphonate or an oral bisphosphonate-containing product.
+Femoral fracture was removed as an example of significant
+intolerance to an oral bisphosphonate.
+Osteoporosis – Treatment for a Postmenopausal Patient:
+The exception that the patient has had an osteoporotic fracture
+or a fragility fracture while receiving oral bisphosphonate
+therapy was removed. Instead, this exception was
+incorporated into a Note that lists osteoporotic fracture or a
+fragility fracture as an example of inadequate efficacy or
+significant intolerance to a trial of an oral bisphosphonate or an
+oral bisphosphonate-containing product. Femoral fracture was
+removed as an example of significant intolerance to an oral
+bisphosphonate.
+Annual Osteoporosis Treatment for a Postmenopausal Patient: 10/23/2024
+Revision The exception to the requirement for a trial of a bisphosphonate
+due to severe renal impairment or chronic kidney disease were
+revised. The criteria are now combined and the phrase
+“according to the prescriber” was added.
+Osteoporosis Treatment for Men: The exception to the
+requirement for a trial of a bisphosphonate due to severe renal
+impairment or chronic kidney disease were revised. The criteria
+are now combined and the phrase “according to the prescriber”
+was added.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and
+services are provided exclusively by or through such operating subsidiaries, including Cigna
+Health and Life Insurance Company, Connecticut General Life Insurance Company, Evernorth
+Behavioral Health, Inc., Cigna Health Management, Inc., and HMO or service company
+subsidiaries of The Cigna Group. © 2024 The Cigna Group.
+5 Pages - Cigna National Formulary Coverage - Policy:Bone Modifiers – Tymlos Prior Authorization Policy

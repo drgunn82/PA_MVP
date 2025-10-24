@@ -1,0 +1,87 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1271-7
+Program Prior Authorization/Notification
+Medication Vitrakvi® (larotrectinib)
+P&T Approval Date 1/2019, 1/2020, 1/2021, 1/2022, 1/2023, 1/2024, 1/2025
+Effective Date 4/1/2025
+1. Background:
+Vitrakvi® (larotrectinib) is a kinase inhibitor indicated for the treatment of adult and pediatric
+patients with solid tumors that:
+• have a neurotrophic receptor tyrosine kinase (NTRK) gene fusion without a known acquired
+resistance mutation,
+• are metastatic or where surgical resection is likely to result in severe morbidity, and
+• have no satisfactory alternative treatments or that have progressed following treatment.
+This indication is approved under accelerated approval based on overall response rate and
+duration of response. Continued approval for this indication may be contingent upon verification
+and description of clinical benefit in confirmatory trials.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Vitrakvi will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Solid Tumors
+1. Initial Authorization
+a. Vitrakvi will be approved based on all of the following criteria:
+(1) Presence of a solid tumor
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+1
+(2) Disease is positive for neurotrophic receptor tyrosine kinase (NTRK) gene fusion
+(e.g. ETV6-NTRK3, TPM3-NTRK1, LMNA-NTRK1, etc.)
+-AND-
+(3) Disease is without a known acquired resistance mutation (e.g., TRKA G595R,
+G623R, G696A, F617L.).
+-AND-
+(4) Disease is one of the following:
+(a) Metastatic
+(b) Unresectable
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Vitrakvi will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Vitrakvi therapy
+Authorization will be issued for 12 months.
+C. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category of
+Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Vitrakvi [package insert]. Bayer HealthCare Pharmaceuticals Inc.: Whippany, NJ; November
+2023.
+© 2025 UnitedHealthcare Services, Inc.
+2
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org/professionals/drug_compendium/content/contents.asp. Accessed November
+27, 2024.
+Program Prior Authorization/Notification - Vitrakvi® (larotrectinib)
+Change Control
+1/2019 New program.
+1/2020 Annual review. Added general NCCN recommendations for use criteria.
+Updated references.
+1/2021 Annual review. Removed listed solid tumor examples since list was not all
+inclusive. No change to coverage criteria. Updated references.
+1/2022 Annual review with no change to clinical criteria. Updated resistant
+mutation examples to reflect package insert. Updated references.
+1/2023 Annual review. Removed criteria requiring previous treatment progression
+or no alternative therapy based on first line recommendations per NCCN
+for certain cancers. Added state mandate footnote. Updated reference.
+1/2024 Annual review with no changes to clinical criteria. Updated references.
+1/2025 Annual review with no changes to clinical criteria. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+3

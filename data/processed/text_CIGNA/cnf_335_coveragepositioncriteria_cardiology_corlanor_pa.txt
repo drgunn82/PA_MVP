@@ -1,0 +1,209 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Cardiology – Ivabradine Prior Authorization Policy
+• Corlanor® (ivabradine tablets and oral solution − Amgen, generic
+[tablets only])
+REVIEW DATE: 08/13/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Ivabradine, a hyperpolarization-activated cyclic nucleotide-gated channel blocker, is
+indicated for the following uses:1
+• Heart failure, in adults, to reduce the risk of hospitalization for worsening of
+the disease in those with stable, symptomatic chronic heart failure with left
+ventricular ejection fraction (LVEF) ≤ 35%, who are in sinus rhythm with a
+resting heart rate ≥ 70 beats per minute (bpm) and either are receiving
+maximally tolerated doses of beta blockers or have a contraindication to beta
+blocker use.
+• Heart failure, in pediatric patients ≥ 6 months and older, for treatment
+of stable symptomatic disease due to dilated cardiomyopathy, among those
+who are in sinus rhythm with an elevated heart rate.
+Page 1 of 5: Cigna National Formulary Coverage - Policy: Cardiology - Ivabradine Prior
+Authorization Policy
+Data are available with ivabradine that note improvement in symptoms and increased
+exercise performance in patients with inappropriate sinus tachycardia, defined as a
+sinus heart rate > 100 bpm at rest (with a mean 24-hour heart rate > 90 bpm not
+due to primary causes) which is generally associated with distressing symptoms such
+as palpitations, weakness, dizziness, and syncope.2-9 Beta blockers have also been
+used for this condition. Limited data are available for other treatments that have
+been used and/or effectiveness have not been established (e.g., beta blockers,
+fludrocortisone, volume expansion, clonidine, and erythropoietin).
+Guidelines
+A few guidelines have recommendations that involve ivabradine.
+• Heart Failure: The American Heart Association/American College of
+Cardiology/Heart Failure Society of America published guidelines in 2022 for
+the management of heart failure.10 For patients with symptomatic (New York
+Heart Association Class II to III) stable chronic heart failure with reduced
+ejection fraction (LVEF ≤ 35%) who are receiving guideline-directed medical
+therapy, including a beta blocker at maximum tolerated dose, and who are in
+sinus rhythm with a heart rate of ≥ 70 bpm at rest, ivabradine can be beneficial
+to reduce heart failure hospitalizations and cardiovascular death.
+• Inappropriate Sinus Tachycardia: The 2015 Heart Rhythm Society Expert
+Consensus Statement on the diagnosis and treatment of postural orthostatic
+tachycardia syndrome, inappropriate sinus tachycardia, and vasovagal
+syncope state that ivabradine can be useful for treating patients with
+inappropriate sinus tachycardia.2 Additionally, the 2015 American College of
+Cardiology, American Heart Association Task Force on Clinical Practice
+Guidelines, and the Heart Rhythm Society also state that ivabradine is
+reasonable for ongoing management in patients with symptomatic
+inappropriate sinus tachycardia (class IIa recommendation).3 Beta blockers
+may be considered for ongoing management in patients with symptomatic
+inappropriate sinus tachycardia (class IIb recommendation). Also, the
+guidelines state that the combination of beta blockers and ivabradine may be
+considered for the ongoing management of patients with inappropriate sinus
+tachycardia (class IIb recommendation).
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of ivabradine.
+All approvals are provided for the duration noted below. Because of the specialized
+skills required for evaluation and diagnosis of patients treated with ivabradine as well
+as the monitoring required for adverse events and long-term efficacy, approval
+requires ivabradine to be prescribed by or in consultation with a physician who
+specializes in the condition being treated.
+• Corlanor® (ivabradine tablets and oral solution - Amgen, generic
+[tablets only])
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+Page 2 of 5: Cigna National Formulary Coverage - Policy: Cardiology - Ivabradine Prior
+Authorization Policy
+FDA-Approved Indications
+1. Heart Failure. Approve for 1 year if the patient meets ALL of the following (A,
+B, C, D, and E):
+A) Patient is ≥ 18 years of age; AND
+B) Patient has a left ventricular ejection fraction (LVEF) ≤ 35% currently or prior
+to initiation of ivabradine therapy; AND
+C) Patient is in normal sinus rhythm or sinus tachycardia with a resting heart rate
+of ≥ 70 beats per minute; AND
+D) Patient meets ONE of the following (i or ii):
+i. Patient has tried or is currently receiving one beta blocker for heart failure
+treatment; OR
+Note: Examples of beta blockers are metoprolol succinate sustained-
+release, carvedilol, bisoprolol, and Coreg CR (carvedilol extended-release
+capsules).
+ii. Patient has a contraindication to use of beta blocker therapy; AND
+Note: Examples of contraindications to the use of beta blockers are
+bronchospastic disease such as chronic obstructive pulmonary disease and
+asthma, severe hypotension or bradycardia.
+E) The medication is prescribed by or in consultation with a cardiologist.
+2. Heart Failure due to Dilated Cardiomyopathy in Pediatric Patients.
+Approve for 1 year if the patient meets BOTH of the following (A and B):
+A) Patient is < 18 years of age; AND
+B) The medication is prescribed by or in consultation with a cardiologist.
+Other Uses with Supportive Evidence
+3. Inappropriate Sinus Tachycardia. Approve for 1 year if the patient meets
+BOTH of the following (A and B):
+A) Patient meets ONE of the following (i or ii):
+i. Patient has tried or is currently receiving one beta blocker for inappropriate
+sinus tachycardia; OR
+Note: Examples of beta blockers are metoprolol and bisoprolol.
+ii. Patient has a contraindication to use of beta blocker therapy; AND
+Note: Examples of contraindications to the use of beta blockers are
+bronchospastic disease such as chronic obstructive pulmonary disease and
+asthma, severe hypotension or bradycardia.
+B) The medication is prescribed by or in consultation with a cardiologist.
+Page 3 of 5: Cigna National Formulary Coverage - Policy: Cardiology - Ivabradine Prior
+Authorization Policy
+CONDITIONS NOT COVERED
+• Corlanor® (ivabradine tablets and oral solution - Amgen, generic
+[tablets only])
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Stable Angina Pectoris, in Patients Without Chronic Heart Failure.
+Ivabradine has been studied as a treatment for stable angina pectoris but further
+data are needed.11-13 The 2023 American Heart Association/American College of
+Cardiology guidelines for chronic coronary disease (CCD) state that in patients
+with CCD and normal left ventricular function, the addition of ivabradine to
+standard anti-anginal therapy is potentially harmful.14
+REFERENCES
+1. Corlanor® tablets and oral solution [prescribing information]. Thousand Oaks: CA; Amgen; August
+2021.
+2. Sheldon RS, Grubb BP, Olshansky B, et al. 2015 Heart Rhythm Society Expert Consensus statement
+on the diagnosis and treatment of postural tachycardia syndrome, inappropriate sinus tachycardia,
+and vasovagal syncope. Heart Rhythm. 2015;12(6):e41-e63.
+3. Page RL, Caldwell MA, Calkins H, et al. 2015 ACC/AHA/HRS guideline for the management of adult
+patients with supraventricular tachycardia. A report of the American College of Cardiology/American
+Heart Association Task Force on clinical practice guidelines, and the Heart Rhythm Society.
+Circulation. 2016;133:e506-e574.
+4. Abed HS, Fulcher J, Kilborn NJ, Keech AC. Inappropriate sinus tachycardia: focus on ivabradine.
+Intern Med J. 2016;46(8):875-883.
+5. Oliphant CS, Owens RE, Bolorunduro OB, Jha SK. Ivabradine: a review of labeled and off-label
+uses. Am J Cardiovasc Drugs. 2016;16:337-347.
+6. Ruzieh M, Moustafa A, Sabbagh E, et al. Challenges in treatment of inappropriate sinus tachycardia.
+Curr Cardiol Rev. 2018;14:42-44.
+7. Mathew ST, Po SS, Thadani U. Inappropriate sinus tachycardia – symptoms and heart rate reduction
+with ivabradine: a pooled analysis of prospective studies. Heart Rhythm. 2018;15:240-247.
+8. Koruth JS, Lala A, Pinne S, et al. The clinical use of ivabradine. J Am Coll Cardiol.
+2017;70(14):1777-1784.
+9. Bonnet D, Berger F, Jokinen E, et al. Ivabradine in children with dilated cardiomyopathy and
+symptomatic chronic heart failure. J Am Coll Cardiol. 2017;70:1262-1272.
+10. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA guideline for the management of
+heart failure: a report of the American College of Cardiology/American Heart Association Joint
+Committee on Clinical Practice Guidelines. Circulation. 2022;145(18):e895-e1032.
+11. Werdan K, Ebelt H, Nuding S, et al. Ivabradine in combination with beta-blocker improves
+symptoms and quality of life in patients with stable angina pectoris: results from the ADDITIONS
+study. Clin Res Cardiol. 2012;101(5):365-373.
+12. Perings S, Stockl G, Kelm M, et al, on behalf of the RESPONSIVE study investigators. Effectiveness
+and tolerability of ivabradine with or without concomitant beta-blocker therapy in patients with
+chronic stable angina in routine clinical practice. Adv Ther. 2016;33:1550-1564.
+13. Glezer M, Vasyuk Y, Karpov Y. Efficacy of ivabradine in combination with beta-blockers versus
+uptitration of beta-blockers in patients with stable angina (CONTROL-2 Study). Adv Ther.
+2018;35:341-352.
+14. Virani SS, Newby LK, Arnold SV, et al. 2023 AHA/ACC/ACCP/ASPC/NLA/PCNA guideline for the
+management of patients with chronic coronary disease: a report of the American Heart
+Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines. J Am
+Coll Cardiol. 2023;82(9):833-955.
+Page 4 of 5: Cigna National Formulary Coverage - Policy: Cardiology - Ivabradine Prior
+Authorization Policy
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 06/14/2023
+Revision
+Annual No criteria changes. 06/19/2024
+Revision
+Selected The name of the policy was changed from Cardiology – Corlanor to 07/24/2024
+Revision Cardiology – Ivabradine and it was noted that generic tablets are
+available.
+Heart Failure: For the criterion that the patient has a left ventricular
+ejection fraction ≤ 35% prior to initiation of Corlanor therapy,
+“Corlanor” was changed to “ivabradine”.
+Early Annual Inappropriate Sinus Tachycardia: Criteria were added that the 08/14/2024
+Revision patient has tried or is currently receiving one beta blocker for
+inappropriate sinus tachycardia or the patient has a contraindication
+to use of beta blocker therapy. Examples of beta blockers are listed
+in a Note, as well as examples that are contraindications to use of
+beta blockers.
+Annual No criteria changes. 08/13/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 5 of 5: Cigna National Formulary Coverage - Policy: Cardiology - Ivabradine Prior
+Authorization Policy

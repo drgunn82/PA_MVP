@@ -1,0 +1,61 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1380-5
+Program Prior Authorization/Notification
+Medication Adbry™ (tralokinumab-ldrm)
+P&T Approval Date 2/2022, 2/2023, 3/2023, 3/2023, 4/2025
+Effective Date 7/1/2025
+1. Background:
+Adbry (tralokinumab-ldrm) is an interleukin-13 antagonist indicated for the treatment of
+moderate to severe atopic dermatitis in patients aged 12 years and older whose disease is not
+adequately controlled with topical prescription therapies or when those therapies are not
+advisable. Adbry can be used with or without topical corticosteroids.
+2. Coverage Criteriaa:
+A. Atopic Dermatitis
+1. Initial Authorization
+a. Adbry will be approved based on all of the following criteria:
+(1) Diagnosis of moderate to severe chronic atopic dermatitis
+-AND-
+(2) History of failure, contraindication, or intolerance to topical therapies
+-AND-
+(3) Patient is not receiving Adbry in combination with either of the following:
+(a) Biologic immunomodulator [e.g., Dupixent (dupilumab), Ebglyss
+(lebrikizumab-lbkz), Nemluvio (nemolizumab-ilto)]
+(b) Janus kinase inhibitor [e.g., Cibinqo (abrocitinib), Opzelura (topical
+ruxolitinib), Rinvoq (upadacitinib), Xeljanz/XR (tofacitinib)]
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Adbry will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Adbry therapy
+-AND-
+(2) Patient is not receiving Adbry in combination with either of the following:
+© 2025 UnitedHealthcare Services, Inc.
+1
+(a) Biologic immunomodulator [e.g., Dupixent (dupilumab), Ebglyss
+(lebrikizumab-lbkz), Nemluvio (nemolizumab-ilto)]
+(b) Janus kinase inhibitor [e.g., Cibinqo (abrocitinib), Opzelura (topical
+ruxolitinib), Rinvoq (upadacitinib), Xeljanz/XR (tofacitinib)]
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim
+logic. Use of automated approval and re-approval processes varies by program and/or
+therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Adbry [package insert]. Madison, NJ: Leo Pharma Inc.; June 2024.
+Program Prior Authorization/Notification - Adbry (tralokinumab-ldrm)
+Change Control
+2/2022 New program.
+2/2023 Annual review with no changes to coverage criteria. Added state
+mandate footnote and updated reference.
+3/2023 Updated not used in combination criteria.
+3/2024 Annual review. Removed age requirement from criteria. Updated
+background and reference.
+4/2025 Annual review with no changes to coverage criteria. Updated examples
+with no change to clinical intent. Updated reference.
+© 2025 UnitedHealthcare Services, Inc.
+2

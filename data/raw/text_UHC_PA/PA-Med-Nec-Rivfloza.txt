@@ -1,0 +1,114 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2336-4
+Program Prior Authorization/Medical Necessity
+Medication Rivfloza™ (nedosiran)
+P&T Approval Date 3/2024, 4/2024, 5/2024, 5/5025
+Effective Date 8/1/2025
+1. Background:
+Rivfloza™ (nedosiran) is an LDHA-directed small interfering RNA indicated to lower urinary
+oxalate levels in children 2 years of age and older and adults with primary hyperoxaluria type
+1 (PH1) and relatively preserved kidney function, e.g., eGFR ≥ 30 mL/min/1.73 m2.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Rivfloza will be approved based on one of the following criteria:
+a. All of the following:
+(1) Patient has been established on therapy with Rivfloza under an active
+UnitedHealthcare medical benefit prior authorization for the treatment of
+primary hyperoxaluria type 1 (PH1)
+-AND-
+(2) Submission of medical records (e.g., chart notes, laboratory values)
+documenting a positive clinical response to therapy from pre-treatment baseline
+(e.g., decreased urinary oxalate concentrations, decreased urinary oxalate:
+creatinine ratio, decreased plasma oxalate concentrations)
+-AND-
+(3) Patient has not received a liver transplant
+-AND-
+(4) Patient has relatively preserved kidney function (e.g., eGFR ≥ 30 mL/min/1.73
+m2)
+-AND-
+(5) Patient is not receiving Rivfloza in combination with Oxlumo (lumasiran)
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+1
+(6) Prescribed by, or in consultation with, a specialist (e.g., geneticist, nephrologist,
+urologist) with expertise in the treatment of PH1
+-OR-
+b. All of the following:
+(1) Diagnosis of primary hyperoxaluria type 1 (PH1)
+-AND-
+(2) Confirmation of diagnosis based on both of the following:
+(a) Metabolic testing demonstrating one of the following:
+i. Increased urinary oxalate excretion (e.g. greater than 1 mmol/1.73 m2
+per day [90 mg/1.73 m2 per day], increased urinary oxalate: creatinine
+ratio relative to normative values for age)
+-OR-
+ii. Increased plasma oxalate and glyoxylate concentrations
+-AND-
+(b) Genetic testing has confirmed a mutation in the alanine: glyoxylate
+aminotransferase (AGT or AGXT) gene
+-AND-
+(3) Patient has not received a liver transplant
+-AND-
+(4) Patient is at least 2 years of age and older
+-AND-
+(5) Patient has relatively preserved kidney function (e.g., eGFR ≥ 30 mL/min/1.73
+m2)
+-AND-
+(6) Patient is not receiving Rivfloza in combination with Oxlumo (lumasiran)
+-AND-
+(7) Prescribed by, or in consultation with, a specialist (e.g., geneticist, nephrologist,
+© 2025 UnitedHealthcare Services, Inc.
+2
+urologist) with expertise in the treatment of PH1
+Authorization will be issued for 12 months
+B. Reauthorization
+1. Rivfloza will be approved based on all of the following criteria:
+a. Submission of medical records (e.g., chart notes, laboratory values) documenting a
+positive clinical response to therapy from pre-treatment baseline (e.g., decreased
+urinary oxalate concentrations, decreased urinary oxalate: creatinine ratio, decreased
+plasma oxalate concentrations)
+-AND-
+b. Patient has not received a liver transplant
+-AND-
+c. Patient has relatively preserved kidney function (e.g., eGFR ≥ 30 mL/min/1.73 m2)
+-AND-
+d. Patient is not receiving Rivfloza in combination with Oxlumo (lumasiran)
+-AND-
+e. Prescribed by, or in consultation with, a specialist (e.g., geneticist, nephrologist,
+urologist) with expertise in the treatment of PH1
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-
+10) and/or claim logic. Use of automated approval and re-approval processes varies by
+program and/or therapeutic class.
+4. References:
+1. Rivfloza [package insert]. Plainsboro, NJ: Novo Nordisk, Inc.; March 2025.
+2. Baum MA, Langman C, Cochat P, et al. PHYOX2: a pivotal randomized study of
+nedosiran in primary hyperoxaluria type 1 or 2. Kidney Int. 2023;103(1):207-217.
+doi:10.1016/j.kint.2022.07.025
+© 2025 UnitedHealthcare Services, Inc.
+3
+3. Long term extension study in patients with primary hyperoxaluria (PHYOX3).
+ClinicalTrials.gov website Study Details | Long Term Extension Study in Patients With
+Primary Hyperoxaluria | ClinicalTrials.gov Accessed March 31, 2025.
+4. Cochat P, Hulton SA, Acquaviva C, et al. Primary Hyperoxaluria Type 1: Indications For
+Screening And Guidance For Diagnosis And Treatment. Nephrol Dial Transplant 2012;
+27:1729.
+5. Niaudet P. Primary Hyperoxaluria. In: UpToDate, Mattoo TK, Kim MS, (Ed), UpToDate,
+Waltham, MA, 2025.
+Program Prior Authorization/Medical Necessity - Rivfloza (nedosiran)
+Change Control
+3/2024 New program
+4/2024 Removed footnote that program applies to PFS formulation only.
+Specified “medical benefit” for prior UHC PA bypass.
+5/2024 Removed step through Oxlumo.
+5/2025 Annual review. Removed background information on Oxlumo. Updated
+background and coverage criteria to lower the age limit to 2 years of
+age and older due to updated indication.
+© 2025 UnitedHealthcare Services, Inc.
+4

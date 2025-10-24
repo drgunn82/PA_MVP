@@ -1,0 +1,74 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2265-4
+Program Prior Authorization/Medical Necessity
+Medication Tavneos® (avacopan)
+P&T Approval Date 1/2022, 1/2023, 1/2024, 1/2025
+Effective Date 4/1/2025
+1. Background:
+Tavneos (avacopan) is a complement 5a receptor (C5aR) antagonist indicated as an
+adjunctive treatment of adult patients with severe active anti-neutrophil cytoplasmic
+autoantibody (ANCA)-associated vasculitis (granulomatosis with polyangiitis [GPA] and
+microscopic polyangiitis [MPA]) in combination with standard therapy including
+glucocorticoids. Tavneos does not eliminate glucocorticoid use.
+2. Coverage Criteria a:
+A. Anti-Neutrophil Cytoplasmic Autoantibody (ANCA) - Associated Vasculitis
+1. Initial Authorization
+a. Tavneos will be approved based on all of the following criteria:
+(1) Diagnosis of severe active ANCA-associated vasculitis
+-AND-
+(2) Submission of medical records (e.g., chart notes, laboratory values, etc.)
+documenting the disease is one of the following types:
+(a) Granulomatosis with polyangiitis (GPA)
+(b) Microscopic polyangiitis (MPA)
+-AND-
+(3) Patient is being treated with an initial immunosuppressive regimen to induce
+remission (i.e., rituximab, cyclophosphamide)
+-AND-
+(4) Tavneos is being prescribed as adjunctive treatment in combination with standard
+therapy (e.g. prednisone, azathioprine, mycophenolate, methotrexate, rituximab,
+cyclophosphamide)
+-AND-
+(5) Prescribed by one of the following:
+© 2025 UnitedHealthcare Services, Inc.
+1
+(a) Rheumatologist
+(b) Nephrologist
+(c) Pulmonologist
+(d) Vascular Medicine Specialist
+Authorization will be issued for 6 months.
+2. Reauthorization
+a. Tavneos will be approved based on all of the following criteria:
+(1) Patient does not show evidence of progressive disease while on Tavneos therapy
+-AND-
+(2) Tavneos is being prescribed as adjunctive treatment in combination with standard
+therapy (e.g. prednisone, azathioprine, mycophenolate, methotrexate, rituximab,
+cyclophosphamide)
+-AND-
+(3) Prescribed by or in consultation with one of the following:
+(a) Rheumatologist
+(b) Nephrologist
+(c) Pulmonologist
+(d) Vascular Medicine Specialist
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-
+10) and/or claim logic. Use of automated approval and re-approval processes varies by
+program and/or therapeutic class.
+• Supply limits may be in place.
+© 2025 UnitedHealthcare Services, Inc.
+2
+4. References:
+1. Tavneos [package insert]. Cincinnati, OH: Thermo Fisher Scientific; June 2024.
+Program Prior Authorization/Medical Necessity - Tavneos® (avacopan)
+Change Control
+1/2022 New program
+1/2023 Annual review with no change to coverage criteria.
+1/2024 Annual review with no changes.
+1/2025 Annual review with no changes to coverage criteria. Updated reference.
+© 2025 UnitedHealthcare Services, Inc.
+3

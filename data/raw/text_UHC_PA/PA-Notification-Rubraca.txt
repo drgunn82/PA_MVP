@@ -1,0 +1,162 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1208-10
+Program Prior Authorization/Notification
+Medication Rubraca® (rucaparib)
+P&T Approval Date 2/2017, 2/2018, 9/2018, 9/2019, 6/2020, 6/2021, 6/2022, 4/2023,
+4/2024, 4/2025
+Effective Date 7/1/2025
+1. Background:
+Rubraca (rucaparib) is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated for the
+maintenance treatment of adult patients with a deleterious BRCA mutation (germline and/or
+somatic)-associated recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who
+are in a complete or partial response to platinum-based chemotherapy.
+Rubraca is also indicated for the treatment of adult patients with deleterious BRCA mutation
+(germline and/or somatic)-associated metastatic castration-resistant prostate cancer (mCRPC) who
+have been treated with androgen receptor-directed therapy and a taxane-based chemotherapy. This
+indication is approved under accelerated approval based on objective response rate and duration of
+response. Continued approval for this indication may be contingent upon verification and
+description of clinical benefit in confirmatory trials.
+The National Comprehensive Cancer Network (NCCN) recommends Rubraca for castration-
+resistant distant metastatic prostate cancer for patients who have a pathogenic BRCA1 or BRCA2
+mutation (germline and/or somatic) and have been treated with androgen receptor-directed
+therapy. The NCCN also recommends Rubraca as second-line therapy that may be considered for
+BRCA altered uterine leiomyosarcoma (uLMS). The NCCN also recommends Rubraca as
+maintenance therapy for metastatic pancreatic adenocarcinoma in patients with germline or
+somatic BRCA1/2 or PALB2 mutations if good performance status (ECOG 0-1) and no disease
+progression (after at least 4-6 months of chemotherapy, assuming acceptable tolerance) following
+the most recent platinum-based chemotherapy.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the notification
+criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Rubraca will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+© 2025 UnitedHealthcare Services, Inc.
+1
+Authorization will be issued for 12 months.
+B. Ovarian Cancer
+1. Initial Authorization
+a. Rubraca will be approved based on all of the following criteria:
+(1) Diagnosis of one of the following:
+(a) Epithelial ovarian cancer
+(b) Fallopian tube cancer
+(c) Primary peritoneal cancer
+-AND-
+(2) Both of the following:
+(a) Cancer has a deleterious BRCA mutation
+-AND-
+(b) To be used as maintenance therapy in individuals who are in complete or
+partial response to platinum-based chemotherapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Rubraca will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Rubraca therapy
+Authorization will be issued for 12 months.
+C. Prostate Cancer
+1. Initial Authorization
+a. Rubraca will be approved based on all of the following criteria:
+(1) Diagnosis of metastatic, castration-resistant prostate cancer
+-AND-
+(2) Cancer has a deleterious BRCA mutation
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+2
+(3) History of failure, contraindication, or intolerance to androgen receptor-directed
+therapy (e.g., Zytiga (abiraterone), Xtandi (enzalutamide), Erleada
+(apalutamide))
+-AND-
+(4) One of the following:
+(a) Used in combination with a gonadotropin-releasing hormone (GnRH)
+analog [e.g., Lupron (leuprolide), Zoladex (goserelin), Trelstar (triptorelin),
+Vantas (histrelin), Firmagon (degarelix)]
+-OR-
+(b) Patient has had bilateral orchiectomy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Rubraca will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Rubraca therapy
+Authorization will be issued for 12 months.
+D. Uterine Cancer
+1. Initial Authorization
+a. Rubraca will be approved based on the following criteria:
+(1) Both of the following:
+(a) Diagnosis of BRCA altered uterine leiomyosarcoma (uLMS)
+-AND-
+(b) Disease has progressed following prior treatment with one of the following:
+i. gemcitabine plus docetaxel
+ii. doxorubicin
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Rubraca will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Rubraca therapy
+© 2025 UnitedHealthcare Services, Inc.
+3
+Authorization will be issued for 12 months.
+E. Pancreatic Cancer
+1. Initial Authorization
+a. Rubraca will be approved based on all of the following criteria:
+(1) Diagnosis of pancreatic adenocarcinoma
+-AND-
+(2) Disease is metastatic
+-AND-
+(3) Presence of one of the following:
+(a) Deleterious or suspected deleterious germline or somatic BRCA1/2 mutation
+(b) Deleterious or suspected deleterious germline or somatic PALB2 mutation
+-AND-
+(4) Disease has not progressed while receiving at least 16 weeks of a first-line
+platinum-based chemotherapy regimen
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Rubraca will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Rubraca therapy
+Authorization will be issued for 12 months.
+F. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+© 2025 UnitedHealthcare Services, Inc.
+4
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim
+logic. Use of automated approval and re-approval processes varies by program and/or
+therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Rubraca [package insert]. Vienna, Austria: pharma&; June 2023.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org/professionals/drug_compendium/content/contents.asp. Accessed March
+12, 2025.
+Program Prior Authorization/Notification – Rubraca (rucaparib)
+Change Control
+2/2017 New program for Rubraca approved by FDA on 12/19/2016.
+2/2018 Annual review. Updated references.
+9/2018 Revised coverage criteria. Updated background and references.
+9/2019 Annual review. Updated background. No changes to coverage criteria.
+Added general NCCN recommended review criteria.
+6/2020 Added review criteria for prostate cancer. Updated background and
+references.
+6/2021 Annual review. No changes to criteria. Updated references.
+6/2022 Annual review. Updated background and criteria to include indications
+for uterine cancer and pancreatic cancer per NCCN guidelines. Updated
+references.
+4/2023 Updated criteria for maintenance treatment of recurrent ovarian cancer
+indication to limit to patients with a deleterious BRCA mutation per
+prescribing information. Updated background, added state mandate, and
+updated references.
+4/2024 Annual review with no changes to criteria. Updated references.
+4/2025 Annual review. Updated background and criteria to remove requirement
+for taxane-based chemotherapy for prostate cancer per NCCN. Updated
+references.
+© 2025 UnitedHealthcare Services, Inc.
+5

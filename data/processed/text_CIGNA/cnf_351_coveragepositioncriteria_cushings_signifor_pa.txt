@@ -1,0 +1,140 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Cushing’s − Signifor Prior Authorization Policy
+• Signifor™ (pasireotide subcutaneous injection − Novartis)
+REVIEW DATE: 04/09/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Signifor, a somatostatin analog, is indicated for the treatment of Cushing’s disease
+in adults for whom pituitary surgery is not an option or has not been curative.1
+Disease Overview
+Cushing's syndrome refers to the general state of excessive levels of cortisol
+(hypercortisolism) in the blood.2,3 Hypercortisolism can occur for reasons that are
+either endogenous or exogenous in nature (e.g., Cushing’s disease, cortisol-
+containing medications, adrenal gland tumor, certain cancers). Cushing’s disease
+(hypercortisolism caused by pituitary adenomas) is the most common type of
+adrenocorticotropic hormone (ACTH)-dependent Cushing’s syndrome. Treatment for
+Cushing’s syndrome requires a multi-modal approach. The goals of treatment are
+normalization of cortisol excess, long-term disease control, avoidance of recurrence,
+and reversal of clinical features.4
+Page 1 of 4: Cigna National Formulary Coverage - Policy: Cushing’s (Signifor Prior Authorization Policy)
+Guidelines
+The Endocrine Society published clinical practice guidelines (2015) for the treatment
+of Cushing’s syndrome.5 First-line treatment involves resection of the tumor, unless
+surgery is not possible or is unlikely to meaningfully reduce excess glucocorticoid
+levels. In patients with ACTH-dependent Cushing’s syndrome who underwent non-
+curative surgery or for whom surgery was not possible, the guidelines advocate
+several second-line therapies (e.g., repeat transsphenoidal surgery, radiotherapy,
+medical therapy, and bilateral adrenalectomy). For Cushing’s disease, the guidelines
+recommend medical therapies as second-line options after transsphenoidal surgery:
+steroidogenesis inhibitors (ketoconazole tablets, Metopirone® [metyrapone
+capsules], Lysodren® [mitotane tablets], etomidate injection) in patients either with
+or without radiotherapy/radiosurgery; pituitary-directed medical treatments
+(cabergoline tablets, Signifor) in patients who are not surgical candidates or who
+have persistent disease; and mifepristone tablets (Korlym®, generic) in patients with
+diabetes or glucose intolerance who are not surgical candidates or who have
+persistent disease after transsphenoidal surgery.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Signifor. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Signifor as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Signifor to be prescribed by or in consultation with a physician who specializes in the
+condition being treated.
+• Signifor™ (pasireotide subcutaneous injection - Novartis)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Cushing’s Disease. Approve for the duration noted below if the patient meets
+ONE of the following criteria (A or B):
+A) Initial Therapy. Approve for 4 months if the patient meets ALL of the following
+(i, ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. According to the prescriber, the patient is not a candidate for surgery or
+surgery has not been curative; AND
+Note: For patients with endogenous Cushing’s syndrome awaiting surgery
+or therapeutic response after radiotherapy, see Other Uses with Supportive
+Evidence.
+iii. The medication is prescribed by or in consultation with an endocrinologist
+or a physician who specializes in the treatment of Cushing’s syndrome.
+Page 2 of 4: Cigna National Formulary Coverage - Policy: Cushing’s (Signifor Prior Authorization Policy)
+B) Patient is Currently Receiving Signifor/Signifor LAR. Approve for 1 year if the
+patient has had a response, as determined by the prescriber; and patient is
+continuing therapy to maintain response.
+Other Uses with Supportive Evidence
+2. Endogenous Cushing’s Syndrome. Approve for 1 year if the patient meets ALL
+of the following (A, B, and C):
+A) Patient is ≥ 18 years of age; AND
+B) Patient meets ONE of the following (i, ii, or iii):
+i. According to the prescriber, the patient is not a candidate for surgery or
+surgery has not been curative; OR
+ii. Patient is awaiting surgery for endogenous Cushing’s syndrome; OR
+iii. Patient is awaiting therapeutic response after radiotherapy for endogenous
+Cushing’s syndrome; AND
+C) The medication is prescribed by or in consultation with an endocrinologist or a
+physician who specializes in the treatment of Cushing’s syndrome.
+CONDITIONS NOT COVERED
+• Signifor™ (pasireotide subcutaneous injection - Novartis)
+is(are) considered not medically necessary for ANY other use(s); criteria will
+be updated as new published data are available.
+REFERENCES
+1. Signifor® subcutaneous injection [prescribing information]. Lebanon, NJ: Recordati Rare Diseases;
+July 2024.
+2. Sharma ST, Nieman LK, Feelders RA. Cushing's syndrome: epidemiology and developments in
+disease management. Clin Epidemiol. 2015;7:281–293.
+3. Tritos NA, Biller BM. Advances in medical therapies for Cushing's syndrome. Discov Med.
+2012;13(69):171-179.
+4. Biller BMK, Grossman AB, Stewart PM, et al. Treatment of adrenocorticotropin-dependent Cushing’s
+syndrome: A consensus statement. J Clin Endocrinol Metab. 2008;93:2454-2462.
+5. Nieman LK, Biller BM, Findling JW. Treatment of Cushing’s Syndrome: An Endocrine Society Clinical
+Practice Guideline. J Clin Endocrinol Metab. 2015;100(8):2807-2831.
+Page 3 of 4: Cigna National Formulary Coverage - Policy: Cushing’s (Signifor Prior Authorization Policy)
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 06/14/2023
+Revision
+Early Annual Endogenous Cushing’s Syndrome: This condition and criteria for 04/19/2024
+Revision approval were added under Other Uses with Supportive Evidence.
+Endogenous Cushing’s Syndrome – Patient Awaiting Surgery:
+This condition was removed from the policy and is now addressed
+under Endogenous Cushing’s Syndrome.
+Endogenous Cushing’s Syndrome – Patient Awaiting
+Therapeutic Response After Radiotherapy: This condition was
+removed from the policy and is now addressed under Endogenous
+Cushing’s Syndrome.
+Annual No criteria changes. 04/09/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2025 The Cigna
+Group.
+Page 4 of 4: Cigna National Formulary Coverage - Policy: Cushing’s (Signifor Prior Authorization Policy)

@@ -1,0 +1,6 @@
+streamlit
+chromadb
+openai
+pandas
+duckdb
+tiktoken

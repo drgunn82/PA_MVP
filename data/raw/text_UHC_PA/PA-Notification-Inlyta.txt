@@ -1,0 +1,149 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1046-13
+Program Prior Authorization/Notification
+Medication Inlyta® (axitinib)
+P&T Approval Date 4/2012, 8/2012, 7/2013, 8/2014, 8/2015, 7/2016, 7/2017, 7/2018,
+9/2019, 9/2020, 9/2021, 9/2022, 9/2023, 9/2024
+Effective Date 11/17/2024
+1. Background:
+Inlyta (axitinib) is a kinase inhibitor indicated for the treatment of advanced renal cell
+carcinoma (RCC) after failure of one prior systemic therapy. It is also indicated in
+combination with either avelumab or pembrolizumab for the first-line treatment of patients
+with advanced RCC. The NCCN (National Comprehensive Cancer Network) recommends the
+use of Inlyta for treatment of unresectable, metastatic, or recurrent salivary gland tumors and
+follicular, oncocytic, and papillary carcinomas. The NCCN also recommends Inlyta as
+preferred therapy in combination with pembrolizumab for treatment of alveolar soft part
+sarcoma (ASPS) and as first-line treatment of relapsed or stage IV renal cell carcinoma.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age
+of 19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Inlyta will be approved based on the following criterion:
+(1) Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Renal Cell Carcinoma
+1. Initial Authorization
+a. Inlyta will be approved based on one of the following criteria:
+(1) Both of the following:
+(a) Diagnosis of advanced renal cell carcinoma
+© 2024 UnitedHealthcare Services, Inc.
+1
+-AND-
+(b) One of the following:
+i. Patient has failed one prior systemic therapy
+-OR-
+ii. Inlyta will be used in combination with Bavencio (avelumab) or
+Keytruda (pembrolizumab)
+-OR-
+(2) Diagnosis of relapsed or stage IV renal cell carcinoma
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Inlyta will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Inlyta therapy
+Authorization will be issued for 12 months.
+C. Thyroid Carcinoma
+1. Initial Authorization
+a. Inlyta will be approved based on all of the following criteria:
+(1) One of the following diagnosis:
+(a) Follicular Carcinoma
+(b) Oncocytic Carcinoma
+(c) Papillary Carcinoma
+-AND-
+(2) Disease is one of the following:
+(a) Recurrent and unresectable
+(b) Persistent
+(c) Metastatic
+-AND-
+(3) Not amenable to radioactive iodine (RAI) treatment
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+2
+2. Reauthorization
+a. Inlyta will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Inlyta therapy
+Authorization will be issued for 12 months.
+D. Salivary Gland Tumor
+1. Initial Authorization
+a. Inlyta will be approved based on both of the following criteria:
+(1) Diagnosis of salivary gland tumor
+-AND-
+(2) Disease is one of the following:
+(a) Recurrent
+(b) Unresectable
+(c) Metastatic
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Inlyta will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Inlyta therapy
+Authorization will be issued for 12 months.
+E. Soft Tissue Sarcoma
+1. Initial Authorization
+a. Inlyta will be approved based on both of the following criteria:
+(1) Diagnosis of alveolar soft part sarcoma (ASPS)
+-AND-
+(2) Inlyta will be used in combination with Keytruda (pembrolizumab)
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+3
+2. Reauthorization
+a. Inlyta will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Inlyta therapy
+Authorization will be issued for 12 months.
+F. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+3. References:
+1. Inlyta [package insert]. New York, NY: Pfizer, Inc.; July 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+https://www.nccn.org/professionals/drug_compendium/content/. Accessed July 30, 2024.
+Program Prior Authorization/Notification - Inlyta (axitinib)
+Change Control
+8/2014 Annual review. Added coverage for non-clear cell kidney cancer,
+updated formatting, Background and References.
+9/2014 Administrative change - Tried/Failed exemption for State of New Jersey
+removed.
+8/2015 Annual review. Added new coverage criteria for follicular, Hürthle cell
+and papillary carcinomas per NCCN. Increased authorization and
+reauthorization from 7 months to 12 months. Updated background and
+references.
+7/2016 Annual review. Revised criteria for advanced renal cell carcinoma.
+Updated references.
+7/2017 Annual review with no change to criteria. Updated reference.
+© 2024 UnitedHealthcare Services, Inc.
+4
+7/2018 Annual review with no change to criteria. Updated reference.
+9/2019 Updated background and criteria aligning with NCCN recommended
+first-line use in stage IV renal cell cancer. Added general NCCN
+recommended review criteria.
+9/2020 Updated background without change to clinical intent. Updated
+references.
+9/2021 Annual review with no changes to coverage criteria. Updated
+references.
+9/2022 Annual review. Added criteria for NCCN recommended use in salivary
+gland tumors and alveolar soft part sarcoma (ASPS). Revised criteria
+for renal cell carcinoma and thyroid carcinoma to align with label and
+NCCN recommendations. Added state mandate disclaimer and updated
+references.
+9/2023 Annual review. Changed Hürthle cell naming convention to oncocytic
+carcinoma per NCCN standards. Updated references.
+9/2024 Annual review. Updated criteria for renal cell carcinoma per NCCN
+guidelines. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+5

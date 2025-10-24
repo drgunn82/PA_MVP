@@ -1,0 +1,130 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1174-11
+Program Prior Authorization/Notification
+Medication Tagrisso® (osimertinib)
+P&T Approval Date 1/2016, 12/2016, 11/2017, 11/2018, 11/2019, 11/2020, 11/2021,
+11/2022, 11/2023, 11/2024, 6/2025
+Effective Date 9/1/2025
+1. Background:
+Tagrisso (osimertinib) is a kinase inhibitor indicated for first-line treatment of patients with
+metastatic non-small cell lung cancer (NSCLC) whose tumors have epidermal growth factor
+receptor (EGFR) exon 19 deletions or exon 21 L858R mutations, and patients with metastatic
+EGFR T790M mutation-positive NSCLC, whose disease has progressed on or after EGFR
+tyrosine kinase inhibitor (TKI) therapy. Tagrisso is also indicated for adjuvant therapy after
+tumor resection in adults with NSCLC whose tumors have EGFR exon 19 deletions or exon 21
+L858R mutations, and for the treatment of adult patients with locally advanced, unresectable
+(stage III) non-small cell lung cancer (NSCLC) whose disease has not progressed during or
+following concurrent or sequential platinum-based chemoradiation therapy and whose tumors
+have epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 L858R
+mutations. The National Cancer Comprehensive Network (NCCN) recommends the use of
+Tagrisso for the treatment for limited and extensive brain metastases in EGFR mutation-
+positive NSCLC. NCCN also recommends Tagrisso for use in leptomeningeal metastases from
+NSCLC that is EGFR mutation-positive.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age
+of 19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Tagrisso will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Central Nervous System (CNS) Cancer
+1. Initial Authorization
+© 2025 UnitedHealthcare Services, Inc.
+1
+a. Tagrisso will be approved based on one of the following criteria:
+(1) Diagnosis of brain metastases from EGFR mutation-positive NSCLC
+-OR-
+(2) Diagnosis of leptomeningeal metastases from EGFR mutation-positive NSCLC
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tagrisso will be approved based on the following criterion:
+(1) Documentation of positive clinical response to Tagrisso therapy
+Authorization will be issued for 12 months.
+C. Non-Small Cell Lung Cancer (NSCLC)
+1. Initial Authorization
+a. Tagrisso will be approved based on all of the following criteria:
+(1) Diagnosis of non-small cell lung cancer (NSCLC)
+-AND-
+(2) Disease is positive for at least one of the following EGFR mutations:
+(a) Exon 19
+(b) Exon 21 L858R
+(c) S768I
+(d) L861Q
+(e) G719X
+(f) T790M
+-AND-
+(3) One of the following:
+(a) All of the following:
+i. Disease is stage IB, II, IIIA, or IIIB (T3, N2)
+ii. Patient has undergone complete resection
+iii. Patient has received previous adjuvant chemotherapy or ineligible to
+receive platinum-based chemotherapy
+-OR-
+© 2025 UnitedHealthcare Services, Inc.
+2
+(b) All of the following:
+i. Disease is stage II-III
+ii. Disease is locally advanced or unresectable
+iii. No disease progression during or following concurrent or sequential
+chemoradiation
+-OR-
+(c) Disease is recurrent, advanced, or metastatic
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tagrisso will be approved based on the following criterion:
+(1) Documentation of positive clinical response to Tagrisso therapy
+Authorization will be issued for 12 months.
+D. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Tagrisso [package insert]. AstraZeneca Pharmaceuticals LP: Wilmington, DE; September
+2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org. Accessed September 21, 2024.
+© 2025 UnitedHealthcare Services, Inc.
+3
+Program Prior Authorization/Notification – Tagrisso (osimertinib)
+Change Control
+1/2016 New program.
+12/2016 Annual review. Added Iressa (gefitinib) to examples of TKI therapy,
+with no significant changes to clinical criteria. Updated references.
+11/2017 Annual review. Update background and references. Added coverage
+criteria for CNS cancer. Revised coverage criteria for NSCLC.
+11/2018 Annual review. Updated coverage rationale. Updated background and
+references.
+11/2019 Annual review. Updated coverage rationale. Added NCCN
+recommended regimens criteria. Updated references.
+11/2020 Annual review. Updated coverage rationale according to NCCN
+guidelines. Updated background and references.
+11/2021 Annual review. Updated coverage rationale for new treatment
+indication. Updated background and references.
+11/2022 Annual review. Added EGFR S768I, L861Q, and G719X mutation
+positive tumors as examples under coverage criteria for non-small cell
+lung cancer per NCCN guidelines. Updated background, added state
+mandate, and updated references.
+11/2023 Annual review. Updated background. Updated NSCLC criteria per
+FDA label. Updated CNS cancers per NCCN recommendation. Updated
+references.
+11/2024 Annual review. Updated coverage criteria for central nervous system
+cancers and non-small cell lung cancers. Updated references.
+6/2025 Updated misspelled EGFR mutation type in non-small cell lung cancer.
+© 2025 UnitedHealthcare Services, Inc.
+4

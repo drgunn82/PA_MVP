@@ -1,0 +1,155 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2126-15
+Program Prior Authorization/Medical Necessity
+Medication Siliq (brodalumab)*
+*Siliq is excluded from coverage for the majority of our benefits
+P&T Approval Date 5/2017, 2/2018, 2/2019, 9/2019, 5/2020, 5/2021, 6/2021, 12/2021,
+5/2022, 11/2022, 1/2023, 4/2023, 7/2023, 10/2024, 4/2025
+Effective Date 6/1/2025
+1. Background:
+Siliq (brodalumab) is a human interleukin-17 receptor A (IL-17RA) antagonist indicated
+for the treatment of moderate to severe plaque psoriasis in adult patients who are candidates
+for systemic therapy or phototherapy and have failed to respond or have lost response to
+other systemic therapies.
+2. Coverage Criteriaa:
+A. Plaque Psoriasis
+a. Siliq will be approved based on the following criteria:
+(1) Submission of medical records (e.g., chart notes, laboratory values, prescription
+claims history) documenting all of the following:
+(a) Diagnosis of chronic moderate to severe plaque psoriasis
+-AND-
+(b) One of the following:
+i. All of the following:
+1. Greater than or equal to 3% body surface area involvement,
+palmoplantar, facial, genital involvement, or severe scalp psoriasis
+-AND-
+2. History of failure to one of the following topical therapies, unless
+contraindicated or clinically significant adverse effects are
+experienced (document drug, date, and duration of trial):
+ Corticosteroids (e.g., betamethasone, clobetasol, desonide)
+ Vitamin D analogs (e.g., calcitriol, calcipotriene)
+ Tazarotene
+ Calcineurin inhibitors (e.g., tacrolimus, pimecrolimus)
+ Anthralin
+© 2025 UnitedHealthcare Services Inc.
+1
+ Coal tar
+-AND-
+3. History of failure to a 3 month trial of methotrexate at maximally
+indicated dose, unless contraindicated or clinically significant adverse
+effects are experienced (document drug, date, and duration of trial)b^
+-OR-
+ii. Patient has been previously treated with a targeted immunomodulator
+FDA-approved for the treatment of plaque psoriasis as documented by
+claims history or submission of medical records (Document drug, date,
+and duration of therapy) [e.g., Cimzia (certolizumab), adalimumab, Otezla
+(apremilast), Skyrizi (risankizumab), ustekinumab, Tremfya
+(guselkumab), Enbrel (etanercept)].
+-AND-
+(c) History of failure, contraindication, or intolerance to three of the following
+preferred products (document drug, date, and duration of trial):^
+i. One of the preferred adalimumab productsc
+ii. Cimzia (certolizumab)
+iii. Cosentyx (secukinumab)
+iv. Enbrel (etanercept)
+v. Skyrizi (risankizumab)
+vi. Sotyktu (deucravacitinib)
+vii. One of the preferred ustekinumab productsc
+viii. Tremfya (guselkumab)
+-AND-
+(d) Patient is not receiving Siliq in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab), Simponi
+(golimumab), Orencia (abatacept), adalimumab, ustekinumab, Skyrizi
+(risankizumab), Tremfya (guselkumab), Cosentyx (secukinumab), Taltz
+(ixekizumab), Ilumya (tildrakizumab), Xeljanz (tofacitinib), Olumiant
+(baricitinib), Rinvoq (upadacitinib), Otezla (apremilast)]
+-AND-
+(e) Prescribed by or in consultation with a dermatologist
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+b For Connecticut, Kentucky and Mississippi business only a 30-day trial will be required.
+© 2025 UnitedHealthcare Services Inc.
+2
+c For a list of preferred products please reference drug coverage tools.
+^Tried/failed alternative(s) are supported by FDA labeling.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• *Siliq is excluded from coverage for the majority of our benefits
+• Supply limits may be in place.
+4. References:
+1. Siliq [package insert]. Bridgewater, NJ: Bausch Health US, LLC; April 2020.
+2. Menter A, Gottlieb A, Feldman SR, et al. Guidelines of care for the management of psoriasis
+and psoriatic arthritis: Section 1. Overview of psoriasis and guidelines of care for the
+treatment of psoriasis with biologics. J Am Acad Dermatol 2008; 58(5):826-50.
+3. Gottlieb A, Korman NJ, Gordon KB, et al. Guidelines of care for the management of
+psoriasis and psoriatic arthritis. Psoriatic arthritis: Overview and guidelines of care for
+treatment with an emphasis on the biologics. J Am Acad Dermatol 2008;58(5):851-64.
+4. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis
+and psoriatic arthritis. Section 3. Guidelines of care for the management and treatment of
+psoriasis with topical therapies. J Am Acad Dermatol 2009;60(4):643-59.
+5. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis
+and psoriatic arthritis. Guidelines of care for the treatment of psoriasis with phototherapy and
+photochemotherapy. J Am Acad Dermatol 2010;62(1):114-35.
+6. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis
+and psoriatic arthritis. Guidelines of care for the management and treatment of psoriasis with
+traditional systemic agents. J Am Acad Dermatol 2009;61(3):451-85.
+7. Menter A, Korman NJ, Elmets CA,Feldman SR, Gelfand JM, Gordon KB, Guidelines of care
+for the management of psoriasis and psoriatic arthritis: section 6. Guidelines of care for the
+treatment of psoriasis and psoriatic arthritis: case-based presentations and evidence-based
+conclusions. J Am Acad Dermatol. 2011 Jul;65(1):137-74.
+8. Nast A, et al; European S3-Guidelines on the systemic treatment of psoriasis vulgaris –
+update 2015 – short version – EFF in cooperation with EADV and IPC, J Eur Acad Derm
+Venereol 2015;29:2277-94.
+9. Menter A, Strober BE, Kaplan DH et al. Joint AAD-NPF guidelines of care for the
+management and treatment of psoriasis with biologics. J Am Acad Dermatol. 2019:80:1029-
+72.
+Program Prior Authorization/Medical Necessity-Siliq (brodalumab)
+Change Control
+Date Change
+5/2017 New Program.
+2/2018 Updated criteria, adding Tremfya as an additional preferred agent for
+plaque psoriasis.
+2/2019 Annual review. Added manufacturer assistance program information.
+Updated background. Addition of Cimzia as preferred agent.
+© 2025 UnitedHealthcare Services Inc.
+3
+9/2019 Updated criteria adding Skyrizi as preferred medication. Added
+coverage exclusion statement. Updated references.
+5/2020 Updated formatting without change to clinical intent.
+5/2021 Annual review. Removed drug documentation where only one drug is
+required. Updated references.
+6/2021 Added coverage criteria for patients previously treated with a biologic
+DMARD.
+12/2021 Updated the following with no change to clinical intent: updated
+conventional DMARD bypass language for psoriasis, removed
+“biologic” from required preferred product criteria language and
+updated CT/KY footnote.
+5/2022 Updated with Tried/failed alternative(s) are supported by FDA labeling
+footnote. Added Mississippi to state mandate.
+11/2022 Added Enbrel as a preferred product step option. Added Enbrel as an
+example where appropriate.
+1/2023 Updated step therapy requirements to Humira or Amjevita. Updated
+listed examples from Humira to adalimumab.
+4/2023 Updated step therapy requirement from Humira or Amjevita to one of
+the preferred adalimumab products and added the footnote “For a list of
+preferred adalimumab products please reference drug coverage tools.”
+7/2023 Updated not receiving in combination language to targeted
+immunomodulator and updated examples.
+10/2024 Updated step requirement noting Adalimumab-adaz (unbranded
+Hyrimoz), Amjevita for Nuvaila, and Humira as preferred adalimumab
+products with no change to clinical intent. Removed preferred
+adalimumab footnote. Added Sotyktu as step therapy agent. Moved
+Cosentyx to preferred step agent and changed step to three agents.
+Updated state mandate footnote.
+4/2025 Removed examples for adalimumab in step therapy. Changed Stelara
+step therapy to “One of the preferred ustekinumab productsc”. Changed
+Stelara example to Ustekinumab. Added the footnote “For a list of
+preferred products please reference drug coverage tools.”
+© 2025 UnitedHealthcare Services Inc.
+4

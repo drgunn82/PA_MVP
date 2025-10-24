@@ -1,0 +1,185 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1108-13
+Program Prior Authorization/Notification
+Medication Thalomid® (thalidomide)
+P&T Approval Date 12/8/2009, 9/2010, 12/2010, 9/2011, 8/2012, 7/2013, 5/2014, 5/2015,
+5/2016, 5/2017, 5/2018, 5/2019, 5/2020, 5/2021, 5/2022, 5/2023,
+5/2024, 5/2025
+Effective Date 8/1/2025
+1. Background:
+Thalomid (thalidomide) is a synthetic glutamic acid derivative indicated for the treatment of
+patients with newly diagnosed multiple myeloma (MM) in combination with dexamethasone. It
+is also indicated for the acute treatment of cutaneous manifestations of moderate to severe
+erythema nodosum leprosum (ENL) and as maintenance therapy for prevention and suppression
+of the cutaneous manifestations of ENL recurrence. It is not indicated as monotherapy for such
+ENL treatment in the presence of moderate to severe neuritis.1
+The National Cancer Comprehensive Network (NCCN) also recommends the use of Thalomid for
+treatment of histiocytic neoplasms – Langerhans cell histiocytosis and Rosai-Dorman disease,
+Castleman disease, pediatric medulloblastoma, and kaposi sarcoma.2
+Because of the risk of serious malformations if given during pregnancy, the manufacturer has an
+extensive risk management program requiring registration by patients, prescribers and dispensing
+pharmacies. Additional information about the Thalomid Risk Evaluation and Mitigation Strategy
+(REMS) [Thalomid REMS®] program may be found at http://www.thalomidrems.com/.3
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of 19
+years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or under
+some circumstances. Some states also mandate usage of other Compendium references. Where such
+mandates apply, they supersede language in the benefit document or in the notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Thalomid will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Multiple Myeloma
+1. Initial Authorization
+a. Thalomid will be approved based on the following criterion:
+© 2025 UnitedHealthcare Services, Inc.
+1
+(1) Diagnosis of multiple myeloma
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Thalomid will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Thalomid therapy
+Authorization will be issued for 12 months.
+C. Erythema Nodosum Leprosum (ENL)
+1. Initial Authorization
+a. Thalomid will be approved based on both of the following criteria:
+(1) Diagnosis of moderate to severe erythema nodosum leprosum (ENL)
+-AND-
+(2) One of the following:
+(a) Used for acute treatment
+-OR-
+(b) Used as maintenance therapy for prevention and suppression of cutaneous
+manifestations of ENL recurrence
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Thalomid will be approved based on the following criterion:
+(1) Documentation of positive clinical response to Thalomid therapy
+Authorization will be issued for 12 months.
+D. Castleman Disease
+1. Initial Authorization
+a. Thalomid will be approved based on both of the following criteria:
+(1) Diagnosis of Castleman Disease (CD)
+© 2025 UnitedHealthcare Services, Inc.
+2
+-AND-
+(2) One of the following:
+(a) Not used as first line therapy
+-OR-
+(b) All of the following:
+i. Therapy is for active idiopathic multicentric CD with no evidence of
+organ failure
+ii. Used in combination with cyclophosphamide and prednisone
+iii. Patient is human immunodeficiency virus (HIV)-negative
+iv. Patient is human herpesvirus-8 (HHV8)-negative
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Thalomid will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Thalomid therapy
+Authorization will be issued for 12 months.
+E. Kaposi Sarcoma
+1. Initial Authorization
+a. Thalomid will be approved based on all of the following criteria:
+(1) One of the following:
+(a) Diagnosis of HIV-negative Kaposi Sarcoma
+-OR-
+(b) Both of the following:
+i. Diagnosis of AIDS-related Kaposi Sarcoma
+-AND-
+ii. Patient is currently being treated with antiretroviral therapy (ART)
+-AND-
+(2) Not used as first line therapy
+© 2025 UnitedHealthcare Services, Inc.
+3
+-AND-
+(3) Patient has immune reconstitution inflammatory syndrome (IRIS)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Thalomid will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Thalomid therapy
+Authorization will be issued for 12 months.
+F. Histiocytic Neoplasms
+1. Initial Authorization
+a. Thalomid will be approved based on one of the following:
+(1) Diagnosis of Langerhans cell histiocytosis
+-OR-
+(2) Diagnosis of Rosai-Dorfman Disease
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Thalomid will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Thalomid therapy
+Authorization will be issued for 12 months.
+G. Pediatric Central Nervous System Cancer
+1. Initial Authorization
+a. Thalomid will be approved based on both of the following:
+(1) Diagnosis of pediatric medulloblastoma
+-AND-
+(2) Disease is recurrent or progressive
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services, Inc.
+4
+2. Reauthorization
+a. Thalomid will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Thalomid therapy
+Authorization will be issued for 12 months.
+H. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category
+of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Thalomid [package insert]. Princeton, NJ: Bristol-Myers Squibb Company; December 2022.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+www.nccn.org. Accessed April 10, 2025.
+3. Thalomid REMS®. Available at http://www.thalomidrems.com/. Accessed April 10, 2025.
+Program Prior Authorization/Notification – Thalomid (thalidomide)
+Change Control
+5/2014 Annual review with no change to clinical coverage.
+5/2015 Added smoldering myeloma and expanded ENL. Removed mantle cell
+lymphoma, AIDS- related Karposi sarcoma; AIDS-related wasting,
+GVHD, Crohn’s disease, glioblastoma multiforme, erosive lichen
+planus, MDS, Behçet’s disease, and ulcers in HIV-infected patients.
+Updated background and references.
+5/2016 Annual review. Broke out systemic light chain amyloidosis. Added
+criteria for Castleman’s disease. Updated background and references.
+5/2017 Annual review. Changed member to patient. Removed progressive
+solitary plasmacytoma and smoldering myeloma. Added coverage
+criteria for MF-associated anemia per NCCN guidelines. Updated
+background and references.
+© 2025 UnitedHealthcare Services, Inc.
+5
+5/2018 Annual review. Added coverage criteria for AIDS related Kaposi
+Sarcoma, removed systemic light chain amyloidosis and Waldenstrom
+macroglobulinemia per NCCN guidelines. Updated background and
+references.
+5/2019 Annual review. Minor changes to indication naming to align with
+NCCN guidelines, with no changes to clinical intent. Updated
+background and references.
+5/2020 Annual review. No changes to coverage criteria. Updated references.
+5/2021 Annual review. Added non-HIV Kaposi Sarcoma and histiocytic
+neoplasms criteria according to NCCN guidelines. Updated references.
+5/2022 Annual review. Removed off-label criteria, aphthous stomatitis or ulcer,
+pyoderma gangrenosum, and cutaneous manifestations systemic lupus
+erythematosus. Updated B-cell lymphoma and Kaposi sarcoma criteria
+per NCCN guidance. Updated background and references.
+5/2023 Annual review with no changes to coverage criteria. Updated
+background and references. Added state mandate footnote.
+5/2024 Annual review. Removed criteria for myelofibrosis-associated anemia
+and updated background based on NCCN recommendations. Renamed
+section D from b-cell lymphoma to castleman disease. Updated criteria
+for Kaposi sarcoma per NCCN guidance. Updated references.
+5/2025 Annual review. Added criteria for pediatric central nervous system
+cancers based on NCCN recommendations. Updated background and
+references.
+© 2025 UnitedHealthcare Services, Inc.
+6

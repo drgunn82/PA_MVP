@@ -1,0 +1,123 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Graft-Versus-Host Disease – Rezurock Prior Authorization Policy
+• Rezurock® (belumosudil tablets − Kadmon)
+REVIEW DATE: 05/07/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Rezurock, a kinase inhibitor, is indicated for the treatment of chronic graft-versus-
+host disease (GVHD) in patients ≥ 12 years of age after failure of at least two prior
+lines of systemic therapy.1
+Guidelines
+Rezurock has been addressed in the National Comprehensive Cancer Network
+Hematopoietic Cell Transplantation guidelines (version 1.2025 – February 28, 2025).
+Options for first-line therapy for chronic GVHD including restarting, continuing, or
+escalating the original immunosuppressive agent(s) and/or administering systemic
+corticosteroids (0.5 to 1 mg/kg day of methylprednisolone or prednisone dose
+equivalent). Among the agents FDA-approved for use in chronic GVHD, Jakafi®
+(ruxolitinib tablets) is the only agent given a category 1 recommendation for chronic
+GVHD. Rezurock, Niktimvo™ (axatilimab-csfr intravenous infusion), and Imbruvica®
+(ibrutinib tablets, capsules, and oral suspension) each have a category 2A
+Page 1 of 3 - Cigna National Formulary Coverage - Policy:Graft-Versus-Host Disease – Rezurock Prior Authorization
+Policy
+recommendation. The guidelines cite that each of these FDA-approved agents should
+be used following failure of one or two lines of systemic therapy (depending on the
+agent). Other medication alternatives include Orencia® (abatacept intravenous [IV]
+infusion and subcutaneous [SC] injection), Lemtrada® (alemtuzumab IV infusion),
+calcineurin inhibitors (e.g., tacrolimus, cyclosporine), Enbrel® (etanercept SC
+injection), extracorporeal photopheresis, hydroxychloroquine, imatinib, Proleukin®
+(aldesleukin IV infusion and SC injection), low-dose methotrexate, mammalian target
+of rapamycin inhibitors (e.g., sirolimus), mycophenolate mofetil, pentostatin, and
+rituximab.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Rezurock. All
+approvals are provided for the duration noted below.
+• Rezurock® (belumosudil tablets - Kadmon)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Graft-Versus-Host Disease. Approve for 1 year if the patient meets ONE of the
+following (A or B):
+A) Initial Therapy. Approve if the patient meets ALL of the following (i, ii, and iii):
+i. Patient is ≥ 12 years of age; AND
+ii. Patient has chronic graft-versus-host disease; AND
+iii. Patient has tried at least two systemic medications for chronic graft-versus-
+host disease; OR
+Note: Examples of systemic medications include Jakafi (ruxolitinib tablets),
+Niktimvo (axatilimab-csfr intravenous infusion), Imbruvica (ibrutinib
+capsules, tablets, or oral solution), imatinib, hydroxychloroquine,
+methotrexate, rituximab, pentostatin, interleukin-2 (e.g., Proleukin
+[aldesleukin intravenous infusion]), methylprednisolone, cyclosporine,
+tacrolimus, sirolimus, an etanercept product, and mycophenolate mofetil.
+B) Patient Currently Receiving Rezurock. Approve if according to the prescriber,
+the patient demonstrates a beneficial clinical response.
+Note: Examples of a beneficial response include a reduction in corticosteroid
+dose, disease stabilization, and/or symptomatic improvement.
+CONDITIONS NOT COVERED
+• Rezurock® (belumosudil tablets - Kadmon)
+is(are) considered not medically necessary for ANY other use(s); criteria will
+be updated as new published data are available.
+Page 2 of 3 - Cigna National Formulary Coverage - Policy:Graft-Versus-Host Disease – Rezurock Prior Authorization
+Policy
+REFERENCES
+1. Rezurock® tablets [prescribing information]. Bridgewater, NJ: Kadmon; January 2024.
+2. The NCCN Hematopoietic Cell Transplantation Clinical Practice Guidelines in Oncology (version
+1.2025 – February 28, 2025). © 2025 National Comprehensive Cancer Network. Available at:
+http://www.ncc.org. Accessed on March 19, 2025.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 08/16/2023
+Revision
+Annual No criteria changes. 08/21/2024
+Revision
+Early Annual The header was changed from “Immunosuppressive Agents” to “Graft- 05/07/2025
+Revision Versus-Host Disease”.
+Graft-Versus-Host Disease: The criteria were divided into “Initial
+Therapy” and “Patient Currently Receiving Rezurock”. For initial
+therapy, for the requirement that a patient tried two systemic
+treatments, the descriptor “conventional” was removed and the word
+“therapies” was changed to “medications”. Also, the Note that cites
+examples of systemic medications for chronic graft-versus-host
+disease was updated to add the following: Jakafi (ruxolitinib tablets),
+Niktimvo (axatilimab-csfr intravenous infusion), hydroxychloroquine,
+methotrexate, rituximab, pentostatin, interleukin-2 (e.g., Proleukin
+[aldesleukin intravenous infusion]), and an etanercept product. For a
+patient currently receiving Rezurock, an approval is given if according
+to the prescriber, the patient demonstrates a beneficial clinical
+response. A Note was added that a beneficial response can include a
+reduction in corticosteroid dose, disease stabilization, and/or
+symptomatic improvement.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 3 of 3 - Cigna National Formulary Coverage - Policy:Graft-Versus-Host Disease – Rezurock Prior Authorization
+Policy

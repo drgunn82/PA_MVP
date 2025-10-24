@@ -1,0 +1,56 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1265-6
+Program Prior Authorization/Notification
+Medication Tegsedi® (inotersen)
+P&T Approval Date 11/2018, 11/2020, 11/2021, 11/2022, 11/2023, 11/2024
+Effective Date 2/1/2025
+1. Background:
+Tegsedi (inotersen) is a transthyretin-directed antisense oligonucleotide indicated for treatment
+of the polyneuropathy of hereditary transthyretin-mediated amyloidosis in adults.
+2. Coverage Criteriaa:
+A. Hereditary transthyretin-mediated (hATTR) amyloidosis with polyneuropathy
+1. Initial Authorization
+a. Tegsedi will be approved based on all of the following criteria:
+(1) Diagnosis of hATTR amyloidosis with polyneuropathy
+-AND-
+(2) Patient has a pathogenic TTR mutation (e.g., V30M)
+-AND-
+(3) Patient is not receiving Tegsedi in combination with either of the following:
+(a) Oligonucleotide agents [e.g., Onpattro (patisiran), Amvuttra (vutrisiran)]
+(b) Tafamidis (e.g., Vyndaqel, Vyndamax)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tegsedi will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Tegsedi therapy
+-AND-
+(2) Patient is not receiving Tegsedi in combination with either of the following:
+(a) Oligonucleotide agents [e.g., Onpattro (patisiran), Amvuttra (vutrisiran)]
+(b) Tafamidis (e.g., Vyndaqel, Vyndamax)
+© 2024 UnitedHealthcare Services, Inc.
+1
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Tegsedi [package insert]. Boston, MA: Akcea Therapeutics, Inc.; January 2024.
+Program Prior Authorization/Notification – Tegsedi® (inotersen)
+Change Control
+11/2018 New program.
+11/2020 Annual review. Added examples of tafamidis products but no change to
+clinical intent. Updated reference.
+11/2021 Annual review with no changes to clinical criteria. Reference updated.
+11/2022 Annual review. Added Amvuttra (vutrisiran) as an example of not to be
+used in combination with no change in clinical intent. Added state
+mandate footnote. Updated reference.
+11/2023 Annual review with no change to coverage criteria.
+11/2024 Annual review with no change to coverage criteria.
+© 2024 UnitedHealthcare Services, Inc.
+2

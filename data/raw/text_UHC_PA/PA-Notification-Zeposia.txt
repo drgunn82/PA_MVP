@@ -1,0 +1,64 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1375-4
+Program Prior Authorization/Notification
+Medication Zeposia® (ozanimod)
+P&T Approval Date 12/2021, 12/2022, 12/2023, 12/2024
+Effective Date 3/1/2025
+1. Background:
+Zeposia® (ozanimod) is a sphingosine 1-phosphate receptor modulator indicated for the
+treatment of relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome,
+relapsing-remitting disease, and active secondary progressive disease, in adults and moderately
+to severely active ulcerative colitis (UC) in adults.
+2. Coverage Criteriaa:
+A. Multiple Sclerosis
+1. Authorization
+a. Zeposia will be approved based on the following criterion:
+(1) Diagnosis of multiple sclerosis (MS)
+Authorization will be issued for 12 months.
+B. Ulcerative Colitis
+1. Initial Authorization
+a. Zeposia will be approved based on both of the following criteria:
+(1) Diagnosis of moderately to severely active ulcerative colitis
+-AND-
+(2) Patient is not receiving Zeposia in combination with a targeted
+immunomodulator [e.g., adalimumab, Cimzia (certolizumab), Enbrel
+(etanercept), Entyvio (vedolizumab), Omvoh (mirikizumab-mrkz),
+Olumiant (baricitinib), Orencia (abatacept), Rinvoq (upadacitinib),
+Simponi (golimumab), Skyrizi (risankizumab), Stelara (ustekinumab),
+Tremfya (guselkumab), Xeljanz (tofacitinib)]
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Zeposia will be approved based on both of the following criteria:
+© 2024 UnitedHealthcare Services, Inc.
+1
+(1) Documentation of positive clinical response to Zeposia therapy
+-AND-
+(2) Patient is not receiving Zeposia in combination with a targeted
+immunomodulator [e.g., adalimumab, Cimzia (certolizumab), Enbrel
+(etanercept), Entyvio (vedolizumab), Omvoh (mirikizumab-mrkz), Olumiant
+(baricitinib), Orencia (abatacept), Rinvoq (upadacitinib), Simponi (golimumab),
+Skyrizi (risankizumab), Stelara (ustekinumab), Tremfya (guselkumab), Xeljanz
+(tofacitinib)]
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits and/or Step Therapy may be in place.
+4. References:
+1. Zeposia [package insert]. Summit, NJ: Celegene Corporation; August 2024.
+Program Prior Authorization/Notification – Zeposia (ozanimod)
+Change Control
+12/2021 New program.
+12/2022 Annual review. Added Rinvoq as JAK inhibitor example. Added state
+mandate footnote.
+12/2023 Annual review. Updated not to be used in combination drugs. Updated
+reference.
+12/2024 Annual review. No change to coverage criteria. Updated examples of
+not to be used in combination with no change to clinical intent.
+© 2024 UnitedHealthcare Services, Inc.
+2

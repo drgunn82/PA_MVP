@@ -1,0 +1,130 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Lofexidine Prior Authorization Policy
+• Lucemyra® (lofexidine tablets – US WorldMeds, generic)
+REVIEW DATE: 07/23/2025
+•
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Lofexidine, a central alpha-2 adrenergic agonist, is indicated for mitigation of
+opioid withdrawal symptoms to facilitate abrupt opioid discontinuation in
+adults.1
+Lofexidine is typically dosed four times daily during the period of peak withdrawal
+symptoms (generally the first 5 to 7 days following last use of opioid) with dosing
+guided by symptoms and adverse events.1 Lofexidine treatment may continue for
+up to 14 days with dosing guided by symptoms. Discontinue lofexidine with a
+gradual dose reduction over a 2- to 4-day period to mitigate lofexidine withdrawal
+symptoms.
+Disease Overview
+Page 1 of 3 - Cigna National Formulary Coverage - Policy: Lofexidine Prior Authorization Policy
+Opioid use disorder is a primary, chronic and relapsing central nervous system
+(CNS) disease of brain reward, motivation, memory, and related circuitry
+characterized by an individual pathologically pursuing reward and/or relief by
+substance use and other behaviors.2 Symptoms of opioid withdrawal usually begin
+two to three half-lives after the last opioid dose (6 to 12 hours for short half-life
+opioids such as heroin and morphine and 36 to 48 hours for long half-life opioids
+such as methadone).3 Following cessation of a short half-life opioid, symptoms
+reach peak intensity within 2 to 4 days, with most of the physical withdrawal signs
+no longer apparent after 7 to 14 days. The duration of withdrawal also varies with
+the half-life of the opioid used and the duration of use. While opioid withdrawal is
+rarely life-threatening, the combination of uncomfortable symptoms and intense
+craving makes completion of withdrawal difficult for most people.
+Guidelines
+The American Society of Addiction Medicine (ASAM) practice guideline for the
+treatment of opioid use disorder (2020) discusses two primary strategies for the
+management of opioid withdrawal.4 In one strategy, alpha-2 adrenergic agonists
+(i.e., clonidine, lofexidine) are used along with other non-narcotic medications to
+reduce withdrawal symptoms such as nausea, vomiting, diarrhea, cramps, and
+sweating. The use of non-opioid medications may be the only option available in
+some healthcare settings and may also assist the transition of patients to opioid
+antagonist medications (i.e., naltrexone) helping to prevent subsequent relapse.
+Comparative data are limited but lofexidine and clonidine appear to be similarly
+effective in the treatment of opioid withdrawal with hypotension occurring less
+frequently with lofexidine. While clonidine is not FDA-approved for the treatment of
+opioid withdrawal, it has been extensively used off-label for this purpose. Clonidine
+can be combined with other non-narcotic medications targeting specific opioid
+withdrawal symptoms. ASAM states that alpha-2 adrenergic agonists are safe and
+effective for management of opioid withdrawal. However, the guideline notes that
+methadone and buprenorphine are more effective in reducing the symptoms of
+opioid withdrawal, in retaining patients in withdrawal management, and in
+supporting the completion of withdrawal management.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of lofexidine.
+All approvals are provided for the duration noted below.
+• Lucemyra® (lofexidine tablets – US WorldMeds, generic)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Opioid Withdrawal Symptoms. Approve for 2 weeks (14 days) if the patient
+meets BOTH of the following (A and B):
+Page 2 of 3 - Cigna National Formulary Coverage - Policy: Lofexidine Prior Authorization Policy
+A) Lofexidine is being used to facilitate abrupt opioid discontinuation; AND
+B) Patient has a history of clonidine use (e.g., patches, tablets) and experienced
+unacceptable toxicity and/or inadequate efficacy.
+CONDITIONS NOT COVERED
+• Lucemyra® (lofexidine tablets – US WorldMeds, generic)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Cannabis Use Disorder (Cannabis Dependence). One published study has
+evaluated the safety and efficacy of dronabinol and lofexidine in treating
+cannabis dependence (n = 156).5 In this 11-week, placebo-controlled study,
+the combined intervention did not show efficacy as a treatment for cannabis use
+disorder.
+REFERENCES
+1. Lucemyra® tablets [prescribing information]. Louisville, KY: USWM; September 2020.
+2. National Institute on Drug Abuse. Opioids. Available at: Opioids | National Institute on Drug
+Abuse (NIDA). Last updated November 2024. Accessed on July 18, 2025.
+3. Srivastava AB, Mariani JJ, Levin FR. New directions in the treatment of opioid withdrawal. Lancet.
+2020;395(10241):1938-1948.
+4. Cunningham C, Edlund MJ, Fishman M, et al. The American Society of Addiction Medicine National
+Practice Guideline for the treatment of opioid use disorder. 2020 Focused Update. Available at:
+https://www.asam.org/Quality-Science/quality/2020-national-practice-guideline. Accessed on July
+17, 2025.
+5. Levin FR, Marjani JJ, Pavlicova M, et al. Dronabinol and lofexidine for cannabis use disorder: A
+randomized, double-blind, placebo-controlled trial. Drug Alcohol Depend. 2016;159:53-60.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Annual No criteria changes. 07/26/2023
+Revision
+Annual No criteria changes. 07/31/2024
+Revision
+Selected Generic lofexidine tablets: Generic lofexidine tablets rolled into 10/02/2024
+Revision the policy.
+Policy name: The policy name was changed from Lucemyra Prior
+Authorization Policy to Lofexidine Prior Authorization Policy.
+Annual No criteria changes. 07/23/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 3 of 3 - Cigna National Formulary Coverage - Policy: Lofexidine Prior Authorization Policy

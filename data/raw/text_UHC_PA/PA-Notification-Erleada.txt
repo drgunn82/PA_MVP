@@ -1,0 +1,88 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1244-8
+Program Prior Authorization/Notification
+Medication Erleada® (apalutamide)
+P&T Approval Date 5/2018, 5/2019, 11/2019, 11/2020, 11/2021, 11/2022, 11/2023, 11/2024
+Effective Date 2/1/2025
+1. Background:
+Erleada (apalutamide) is an androgen receptor inhibitor indicated for the treatment of patients with
+non-metastatic castration-resistant prostate cancer. It is also indicated for the treatment of
+metastatic castration-sensitive prostate cancer. Patients should also receive a gonadotropin-
+releasing hormone (GnRH) analog concurrently while taking Erleada or should have had bilateral
+orchiectomy.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the notification
+criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Erleada will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Prostate Cancer
+1. Initial Authorization
+a. Erleada will be approved based on all of the following criteria:
+(1) Diagnosis of prostate cancer
+-AND-
+(2) One of the following:
+(a) Both of the following:
+© 2024 UnitedHealthcare Services, Inc.
+1
+i. Disease is castration-resistant or recurrent
+-AND-
+ii. Disease is non-metastatic
+-OR-
+(b) Both of the following:
+i. Disease is castration-sensitive or naive
+-AND-
+ii. Disease is metastatic
+-AND-
+(3) One of the following:
+(a) Used in combination with a gonadotropin-releasing hormone (GnRH)
+analog [e.g., Lupron (leuprolide), Zoladex (goserelin), Trelstar (triptorelin),
+Vantas (histrelin), Firmagon (degarelix)]
+-OR-
+(b) Patient has had bilateral orchiectomy
+Authorization will be issued for 12 months.
+2. Reauthorization Criteria
+a. Erleada will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Erleada therapy
+Authorization will be issued for 12 months.
+C. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+© 2024 UnitedHealthcare Services, Inc.
+2
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Erleada [package insert]. Horsham, PA: Janssen Products LP; August 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at NCCN
+Drugs and Biologics Compendium®. Accessed October 8, 2024.
+Program Prior Authorization/Notification – Erleada (apalutamide)
+Change Control
+5/2018 New program
+5/2019 Annual review with no change to coverage criteria. Updated reference.
+11/2019 Updated background and criteria to include new labeled indication in
+metastatic castration-sensitive prostate cancer. Added general NCCN
+recommendations for use statement. Updated references.
+11/2020 Annual review. Minor formatting change. Updated references.
+11/2021 Annual review with no change to coverage criteria. Updated references.
+11/2022 Annual review with no changes to clinical coverage criteria. Updated
+reference and added state mandate footnote.
+11/2023 Annual review with no change to coverage criteria. Updated references.
+11/2024 Annual review with no change to coverage criteria. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+3

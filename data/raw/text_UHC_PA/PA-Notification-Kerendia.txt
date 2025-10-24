@@ -1,0 +1,67 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1376-4
+Program Prior Authorization/Notification
+Medication Kerendia® (finerenone)
+P&T Approval Date 12/2021, 12/2022, 1/2024, 10/2024
+Effective Date 2/1/2025
+1. Background:
+Kerendia (finerenone) is indicated to reduce the risk of sustained estimated glomerular filtration
+rate (eGFR) decline, end-stage kidney disease, cardiovascular death, non-fatal myocardial
+infarction, and hospitalization for heart failure in adult patients with chronic kidney disease
+(CKD) associated with type 2 diabetes (T2D).
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Kerendia will be approved based on all of the following criteria:
+a. Diagnosis of chronic kidney disease (CKD) associated with type 2 diabetes (T2D)
+-AND–
+b. Both of the following:
+1) Urinary albumin-to-creatinine ratio (UACR) of greater than or equal to 30 mg/g
+-AND-
+2) An eGFR of greater than or equal to 25 mL/min/1.73 m2
+-AND-
+c. Used to reduce the risk of any of the following:
+1) Sustained eGFR decline
+2) End-stage kidney disease
+3) Cardiovascular death
+4) Non-fatal myocardial infarction
+5) Hospitalization for heart failure
+Authorization will be issued for 12 months
+© 2024 UnitedHealthcare Services Inc.
+1
+B. Reauthorization
+1. Kerendia will be approved based on the following criterion:
+a. Documentation of positive clinical response to therapy
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits or Prior Authorization/Medical Necessity may be in place.
+4. References:
+1. Kerendia [package insert]. Whippany, NJ: Bayer HealthCare Pharmaceuticals Inc.
+September 2022.
+2. Bakris, GL, Agarwal R, Anker SD, Effect of Finerenone on Chronic Kidney Disease
+Outcomes in Type 2 Diabetes. NEJM. 2020; 383:2219-29.
+3. de Boer, IH, Khunti, K, Sadusky, T, et al. Diabetes Management in Chronic Kidney
+Disease: A Consensus Report by the American Diabetes Association (ADA) and Kidney
+Disease: Improving Global Outcomes (KDIGO). Diabetes Care 2022.
+4. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic
+Kidney Disease. Kidney International. 2024 (105): S114-314
+Program Prior Authorization/Notification – Kerendia
+Change Control
+Date Change
+12/2021 New program
+12/2022 Based on updated guidelines modified UACR to greater than or equal to
+30 mg/g and eGFR to greater than or equal to 25 mL/min/1.73 m2 for
+diagnosis of chronic kidney disease and updated policy to change the
+reduction risk criteria from all to any. Increased the initial authorization
+to 6 months. Updated references.
+1/2024 Annual review. Updated references.
+10/2024 Updated diagnosis language. Updated references.
+© 2024 UnitedHealthcare Services Inc.
+2

@@ -1,0 +1,79 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2235-4
+Program Prior Authorization/Medical Necessity – Digital Applications
+Medication EndeavorRx®, reSET, reSET-O®, Somryst
+P&T Approval Date 4/2021, 4/2022, 6/2023, 6/2024
+Effective Date 9/1/2024
+1. Background:
+The program is for prescription digital applications, including but not limited to EndeavorRx, reSET,
+reSET-O and Somryst.
+EndeavorRx is an FDA-cleared digital application intended to improve attention function as
+measured by computer-based testing in children ages 8 to 12 years old with primarily inattentive
+or combined-type Attention Deficit Hyperactivity Disorder (ADHD).
+reSET and reSET-O are FDA-cleared mobile applications that are pharmacy prescription-based
+cognitive behavioral therapy treatments for various substance use disorders. The applications are
+intended to increase retention of patients in outpatient treatment under the care of a health care
+professional by providing cognitive behavioral therapy.
+Somryst is an FDA-cleared digital application intended to provide neurobehavioral intervention
+in patients 22 years of age and older with chronic insomnia.
+A review of the current literature does not support Computer Based Treatment for Cognitive
+Behavioral Therapy (CBTCBT) for the treatment of ADHD, as an outpatient therapy to treat
+alcohol, cocaine, marijuana, and/or stimulant substance use disorders, or for the treatment of
+chronic insomnia.
+The studies available for review are limited due to the recent development of the technology.
+There is limited evidence showing CBTCBT effectiveness as an adjunct therapy when combined
+with clinical monitoring. Though short-term benefits have been seen, long-term efficacy of
+CBTCBT has not been determined. CBTCBT is considered unproven until additional studies are
+available.
+2. Coverage Criteria:
+A. Authorization
+1. Computer Based Treatment for Cognitive Behavioral Therapy (CBTCBT) such as
+EndeavorRx*, reSET*, reSET-O* and Somyrst* are unproven and not medically
+necessary.
+All requests for authorization will be denied by OptumRx. All requests for therapy
+must be submitted through the appeals process to the UnitedHealthcare Pharmacy
+appeals team for consideration.
+© 2024 UnitedHealthcare Services, Inc.
+1
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+*Digital Application devices are typically excluded from coverage.
+4. References:
+1. U.S. Food and Drug Administration. FDA clears mobile medical app to help those with opioid
+use disorder stay in recovery programs. Last updated 12/10/2018. Retrieved from
+https://www.fda.gov/news-events/press-announcements/fda-clears-mobile-medical-app-help-
+those-opioid-use-disorder-stay-recovery-programs. Accessed February 2022.
+2. U.S. Food and Drug Administration. FDA permits marketing of mobile medical application for
+substance use disorder. Last updated 9/14/2017. Retrieved from https://www.fda.gov/news-
+events/press-announcements/fda-permits-marketing-mobile-medical-application-substance-use-
+disorder. Accessed February 2022.
+3. U.S. Food and Drug Administration. March 2020 510(K) Clearances. Last updated 4/06/2020.
+https://www.fda.gov/medical-devices/510k-clearances/march-2020-510k-clearances. Accessed
+February 2022.
+4. Budney, A.J., et. al. (2015). Computer-assisted behavioral therapy and contingency management
+for cannabis use disorder. Psychology of Addictive Behaviors, 29(3): 501–511.
+5. Campbell, A.N.C., et al. (2014). Internet-delivered treatment for substance abuse: A multisite
+randomized controlled trial. American Journal of Psychiatry, 171:6.
+6. Carroll, K.M., et. al. (2014). Computer-assisted delivery of cognitive-behavioral therapy:
+Efficacy and durability of CBT4CBT among cocaine-dependent individuals maintained on
+methadone. American Journal of Psychiatry, 171(4): 436–444.
+7. Kiluk, B.D., et. al. (2017). Effect of computerized cognitive behavioral therapy on acquisition of
+coping skills among cocaine-dependent individuals enrolled in methadone maintenance. Journal
+of Substance Abuse Treatment, 82: 97-92.
+8. Kiluk, B.D., et al. (2018). Randomized clinical trial of computerized cognitive behavioral
+therapy and clinician-delivered CBT in comparison with standard outpatient treatment for
+substance use disorders: Primary within-treatment and follow-up outcomes. American Journal of
+Psychiatry, 175(9): 853–863.
+9. Sonuga-Barke, E., et. al. (2014). Computer-based cognitive training for ADHD: A review of the
+current evidence. Child Adolesc Psychiatric Clin N Am 23 (2014) 807–824.
+Program Prior Authorization/Medical Necessity- Digital Applications
+Change Control
+4/2021 New program.
+4/2022 Annual review. Updated references.
+6/2023 Annual review. Updated background.
+6/2024 Annual review with no changes.
+© 2024 UnitedHealthcare Services, Inc.
+2

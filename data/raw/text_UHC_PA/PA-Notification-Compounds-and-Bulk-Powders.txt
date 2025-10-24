@@ -1,0 +1,386 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1014-18
+Program Prior Authorization/Notification
+Medication Compounds and Bulk Powders
+P&T Approval Date 1/2012, 02/2013, 04/2013, 07/2013, 10/2013, 11/2013, 2/2014, 4/2014,
+10/2014, 4/2015, 7/2015, 4/2016, 10/2016, 10/2017, 10/2018, 10/2019,
+5/2020, 1/2021, 3/2022, 3/2023, 3/2024, 4/2025, 6/2025
+Effective Date 7/1/2025
+1. Background:
+Compounded medications can provide a unique route of delivery for certain patient-
+specific conditions and administration requirements. Compounded medications should
+be produced for a single individual and not produced on a large scale. A dollar threshold
+may be used to identify compounds which require Notification and must meet the criteria
+below in order to be covered. Drugs included in the compound must be a covered
+product.
+Claims for patients under the age of 6 will process automatically for First-Lansoprazole,
+First-Omeprazole, and Omeprazole + Syrspend SF compounding kits.
+2. Coverage Criteriaa:
+A. Authorization for compounds* and bulk powders will be approved based on all of
+the following criteria (includes bulk powders requested as a single ingredient such as
+bulk powder formulations of cholestyramine or nystatin when the powder
+formulation requested is not the commercially available FDA approved product):
+1. The requested drug component is a covered medication
+-AND-
+2. The requested drug component is to be administered for an FDA-approved
+indication
+-AND-
+3. If a drug included in the compound requires prior authorization and/or step
+therapy, all drug specific clinical criteria must also be met
+-AND-
+4. If the drug component is no longer available commercially it must not have been
+withdrawn for safety reasons
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+5. One of the following:
+a. A unique vehicle is required
+-OR-
+b. A unique dosage form is required for a commercially available product due
+to patient’s age, weight or inability to take a solid dosage form.
+-OR-
+c. A unique formulation is required for a commercially available product due to
+an allergy or intolerance to an inactive ingredient in the commercially
+available product
+-OR-
+d. There is a shortage of the commercially available product per the FDA Drug
+Shortage database or the ASHP Current Drug Shortages tracking log
+-AND-
+6. Coverage for compounds and bulk powders will NOT be approved for any of the
+following:
+a. Requested compound contains any of the following ingredients which are
+available as over-the-counter products:
+(1) Cetyl Myristoleate
+(2) Coenzyme Q10
+(3) Methylcobalamin
+(4) Hyaluronic Acid
+(5) Nicotinamide
+(6) Methyltetrahydrofolate
+(7) Ibuprofen
+(8) Lipoic acid
+(9) Beta Glucan
+(10) Ubiquinol
+(11) Chrysin
+(12) Glutathione
+(13) Lactobacillus
+(14) Vitamin E
+(15) Ascorbic Acid
+(16) Melatonin
+(17) Pyridoxal-5-Phosphate (Vitamin B6)
+(18) Loperamide
+(19) Dextromethorphan
+(20) Dehydroepiandrosterone
+(21) Pregnenolone
+(22) Biotin
+© 2025 UnitedHealthcare Services, Inc.
+(23) L-Glutamine
+(24) Serotonin
+(25) Aloe vera
+(26) Sodium butyrate
+(27) L-Isoleucine
+(28) Vitamin D3
+(29) Ginseng
+(30) Phosphatidylserine
+(31) Resveratrol
+(32) Methionine
+(33) Naproxen
+(34) Carnosine L
+(35) Arnica LG
+-OR-
+b. For topical compound preparations (e.g. creams, ointments, lotions or gels to
+be applied to the skin for transdermal, transcutaneous or any other topical
+route), requested compound contains any FDA approved ingredient that is
+not FDA approved for TOPICAL use, including but NOT LIMITED TO the
+following:
+(1) Ketamine
+(2) Gabapentin
+(3) Flurbiprofen (topical ophthalmic use not included)
+(4) Ketoprofen
+(5) Morphine
+(6) Nabumetone
+(7) Oxycodone
+(8) Cyclobenzaprine
+(9) Baclofen
+(10) Tramadol
+(11) Hydrocodone
+(12) Meloxicam
+(13) Amitriptyline
+(14) Pentoxifylline
+(15) Orphenadrine
+(16) Piroxicam
+(17) Levocetirizine
+(18) Amantadine
+(19) Oxytocin
+(20) Sumatriptan
+(21) Chorionic gonadotropin (human)
+(22) Clomipramine
+(23) Dexamethasone
+(24) Hydromorphone
+(25) Methadone
+(26) Papaverine
+(27) Mefenamic acid
+(28) Promethazine
+© 2025 UnitedHealthcare Services, Inc.
+(29) Succimer DMSA
+(30) Tizanidine
+(31) Apomorphine
+(32) Carbamazepine
+(33) Ketorolac
+(34) Dimercaptopropane-sulfonate
+(35) Dimercaptosuccinic acid
+(36) Duloxetine
+(37) Fluoxetine
+(38) Bromfenac (topical ophthalmic use not included)
+(39) Nepafenac (topical ophthalmic use not included)
+-OR-
+c. Requested compound contains topical fluticasone. Topical fluticasone will
+NOT be approved unless:
+(1) Topical fluticasone is intended to treat a dermatologic condition. Scar
+treatments are considered cosmetic and will not be covered (refer to
+criteria “e” below).
+-AND-
+(2) Patient has a contraindication to all commercially available topically
+fluticasone formulations
+-OR-
+d. Requested compound contains leuprolide when prescribed for off-label use
+(refer to leuprolide criteria)
+-OR-
+e. Requested compound is for cosmetic use or contains any of the following
+ingredients when used for cosmetic purposes:
+(1) Hydroquinone
+(2) Acetyl hexapeptide-8
+(3) Tocopheryl Acid Succinate
+(4) PracaSil TM-Plus
+(5) Chrysaderm Day Cream
+(6) Chrysaderm Night Cream
+(7) PCCA Spira-Wash
+(8) Lipopen Ultra
+(9) Versapro
+(10) Fluticasone
+(11) Mometasone
+(12) Halobetasol
+(13) Betamethasone
+(14) Clobetasol
+(15) Triamcinolone
+© 2025 UnitedHealthcare Services, Inc.
+(16) Minoxidil
+(17) Tretinoin
+(18) Dexamethasone
+(19) Spironolactone
+(20) Cycloserine
+(21) Tamoxifen
+(22) Sermorelin
+(23) Mederma Cream
+(24) PCCA Cosmetic HRT Base
+(25) Sanare Scar Therapy Cream
+(26) Scarcin Cream
+(27) Apothederm
+(28) Stera Cream
+(29) Copasil
+(30) Collagenase
+(31) Arbutin Alpha
+(32) Nourisil
+(33) Freedom Cepapro
+(34) Freedom Silomac Andydrous
+(35) Retinaldehyde
+(36) Apothederm
+-OR-
+f. Requested compound contains cholestyramine when prescribed for an off-
+label use. (FDA labeled uses include: hypercholesterolemia, coronary artery
+atherosclerosis, and pruritus associated with biliary obstruction)
+-OR-
+g. Requested compound contains nystatin when prescribed for an off-label use.
+-OR-
+h. Requested compound contains any of the following ingredients which are on
+the FDA’s Do Not Compound List:
+(1) 3,3′,4′,5-tetrachlorosalicylanilide
+(2) Adenosine phosphate
+(3) Adrenal cortex
+(4) Alatrofloxacin mesylate
+(5) Aminopyrine
+(6) Astemizole
+(7) Azaribine
+(8) Benoxaprofen
+(9) Bithionol
+(10) Camphorated oil
+(11) Carbetapentane citrate
+(12) Casein, iodinated
+(13) Cerivastatin sodium
+© 2025 UnitedHealthcare Services, Inc.
+(14) Chlormadinone acetate
+(15) Chloroform
+(16) Cisapride
+(17) Exfenfluramine hydrochloride
+(18) Diamthazole dihydrochloride
+(19) Dibromsalan
+(20) Dihydrostreptomycin sulfate
+(21) Dipyrone
+(22) Encainide hydrochloride
+(23) Etretinate
+(24) Fenfluramine hydrochloride
+(25) Flosequinan
+(26) Glycerol, iodinated
+(27) Grepafloxacin
+(28) Mepazine
+(29) Metabromsalan
+(30) Methapyrilene
+(31) Methopholine
+(32) Methoxyflurane
+(33) Mibefradil dihydrochloride
+(34) Nomifensine maleate
+(35) Novobiocin sodium
+(36) Oxyphenisatin acetate
+(37) Oxyphenisatin
+(38) Pemoline
+(39) Pergolide mesylate
+(40) Phenacetin
+(41) Phenformin hydrochloride
+(42) Phenylpropanolamine
+(43) Pipamazine
+(44) Potassium arsenite
+(45) Propoxyphene
+(46) Rapacuronium bromide
+(47) Rofecoxib
+(48) Sibutramine hydrochloride
+(49) Sparteine sulfate
+(50) Sulfadimethoxine
+(51) Sweet spirits of nitre
+(52) Tegaserod maleate
+(53) Temafloxacin hydrochloride
+(54) Terfenadine
+(55) Ticrynafen
+(56) Tribromsalan
+(57) Trichloroethane
+(58) Troglitazone
+(59) Trovafloxacin mesylate:
+(60) Urethane
+(61) Valdecoxib
+(62) Zomepirac sodium
+© 2025 UnitedHealthcare Services, Inc.
+Authorization will be issued for 12 months
+B. Authorization for the compounding kits First-Lansoprazole ,First-Omeprazole
+and Omeprazole + Syrspend SF will be approved based on all of the following
+criteria:
+1. The requested drug component in the compounding kit is to be administered for
+an FDA-approved indication
+-AND-
+2. One of the following:
+a. A unique dosage form is required for a covered commercially available
+product due to the patient’s age, weight or inability to take a solid dosage
+form.
+-OR-
+b. A unique formulation is required for a covered commercially available
+product due to an allergy or intolerance to an inactive ingredient in the
+commercially available product.
+Authorization will be issued for 12 months
+C. Authorization for compounded oral budesonide for the treatment of eosinophilic
+esophagitis will be approved based on the following criteria (all other indications
+refer to general criteria in Section A):
+1. Compounded oral budesonide is requested for the treatment of eosinophilic
+esophagitis
+Authorization will be issued for 12 months
+a For Kentucky, requests for therapeutic food, formulas, supplements, low-protein modified food
+products, vitamins, nutritional supplements and amino acid-based elemental medical formula
+for the treatment of inborn errors of metabolism, genetic conditions, mitochondrial disease,
+food protein allergies, food protein-induced enterocolitis syndrome, eosinophilic disorders, or
+short-bowel syndrome may be approved through review by UnitedHealthcare Pharmacy.
+Please note there is a plan year cap of twenty five thousand dollars ($25,000) for therapeutic
+foods, formulas and supplements, and a separate cap for each plan year of four thousand dollars
+($4,000) on low-protein modified foods. Each cap shall be subject to annual inflation
+adjustments based on the consumer price index.
+* For appeals only: An injectable product which is intended to be used for a route of
+administration typically covered on the pharmacy benefit (e.g. topical, intranasal, oral) will be
+considered a compound for the purposes of this clinical pharmacy program.
+3. Additional Clinical Rules:
+• Supply limits, Step Therapy and/or Prior Authorization may be in place.
+© 2025 UnitedHealthcare Services, Inc.
+4. References:
+1. Food and Drug Administration (2014, July 02). Additions and Modifications to the
+List of Drug Products That Have Been Withdrawn or Removed From the Market for
+Reasons of Safety and Effectiveness. Retrieved from
+https://www.federalregister.gov/d/2014-15371
+2. FDA Drug Shortages. Current and Resolved Drug Shortages and Discontinuations
+Reported to the FDA. Available at: https://www.fda.gov/drugs/drug-safety-and-
+availability/drug-shortages3. ASHP Current Drug Shortages. Available at:
+https://www.ashp.org/Drug-Shortages/Current-Shortages
+Program Prior Authorization/Notification - Compounds and Bulk Powders
+Change Control
+Date Change
+7/2013 Topical use section updated to include all medications that are not FDA
+approved for topical use. Reformatted to standard.
+10/2013 Added the following to the list of compound ingredients that are not
+covered: ibuprofen, lipoic acid, beta glucan, ubiquinol, chrysin,
+glutathione, lactobacillus, vitamin E, ascorbic acid, melatonin,
+meloxicam, amitriptyline, pentoxifylline, orphenadrine, piroxicam,
+acetyl hexapeptide-8, tocopheryl acid succinate, PracaSil TM-Plus,
+Chrysaderm Day Cream, Chrysaderm Night Cream, PCCA Spira-Wash
+and Lipopen Ultra.
+11/2013 Added criteria for topical fluticasone.
+2/2014 Added criteria for cholestyramine.
+4/2014 Added pyridoxal-5-phosphate (Vitamin B6) and loperamide to list of
+ingredients that will not be coverage as they are available OTC. Added
+levocetirizine, amantadine, oxytocin, sumatriptan and chorionic
+gonadotropin to list of ingredients that will not be covered for topical
+use. Added Versapro to list of ingredients that will not be covered for
+cosmetic use.
+10/2014 Added Dextromethorphan, Dehydroepiandrosterone, Pregnenolone,
+Biotin, L-Glutamine, Serotonin, Aloe vera, Sodium butyrate, L-
+Isoleucine and Vitamin D3 to the list of ingredients that will not be
+covered as they are available OTC. Added Clomipramine,
+Dexamethasone, Hydromorphone, Methadone, Papaverine, Mefenamic
+acid, Promethazine, Succimer DMSA, Tizanidine, Apomorphine,
+Carbamazepine, Ketorolac, Dimercaptopropane-sulfonate and
+Dimercaptosuccinic acid to the list of ingredients that will not be
+covered for topical use. Added Fluticasone, Mometasone, Halobetasol,
+Betamethasone, Clobetasol, Triamcinolone, Minoxidil, Tretinoin,
+Dexamethasone, Spironolactone, Cycloserine, Tamoxifen and
+Sermorelin to the list of ingredients that will not be covered for
+cosmetic use. Removed criterion that a similar commercially available
+product is not available.
+4/2015 Updated criteria to reflect that if any drug ingredient of the compound
+requires prior authorization and/or step therapy, that clinical criteria
+must also be met. Added ginseng, phosphatidylserine and resveratrol to
+© 2025 UnitedHealthcare Services, Inc.
+the ingredients that will not be covered as they are available OTC.
+Added Mederma Cream, PCCA Cosmetic HRT Base, Sanare Scar
+Therapy Cream, and Scarcin Cream to the ingredients that will not be
+covered for cosmetic use.
+7/2015 Added to the criteria ingredients that should not be compounded as they
+reside on the FDA’s Do Not Compound List. Clarified language
+around commercially available products.
+4/2016 Added criteria to allow for coverage when patient has an allergy to the
+commercially available product. Added methionine and naproxen to
+ingredients that will not be covered as they are available OTC. Added
+Apothederm to the list of ingredients that will not be covered for
+cosmetic use.
+10/2016 Removed language that a unique dosage form is required and the
+commercially available product is excluded. Added Kentucky state
+mandate language. Added carnosine L to the ingredients that will not
+be covered as they are available OTC. Added duloxetine and fluoxetine
+to the ingredients that will not be covered for topical use. Added Stera
+cream, Copasil, collagenase, arbutin alpha, and Nourisil to the list of
+ingredients that will not be covered for cosmetic use.
+10/2017 Added criteria for First-Lansoprazole and First-Omeprazole. Added
+Arnica LG to the ingredients that will not be covered as they are
+available OTC. Added bromfenac and nepafenac to the ingredients that
+will not be covered for topical use. Added Freedom Cepapro, Silomac
+Anhydrous, Retinaldehyde and Apothederm to the list of ingredients
+that will not be covered for cosmetic use.
+10/2018 Annual review. No changes.
+10/2019 Annual review. Clarified that bulk powders are included when not
+included in a compound. Added criteria for nystatin powder.
+5/2020 Updated to allow coverage of a compound when there is a shortage of
+the commercially available product. Clarified that compounds for
+cosmetic use will not be covered.
+1/2021 Added Omeprazole Syrspend + SF compounding kit to criteria.
+Removed note that First Omeprazole and First Lansoprazole are
+typically excluded from coverage.
+3/2022 Added note that injectable products intended for use with a route of
+administration typically covered under the pharmacy benefit may be
+reviewed with these criteria. Updated requirement that a unique vehicle
+is needed and removed specifically for a topical product.
+3/2023 Annual review. No changes.
+3/2024 Annual review. No changes.
+4/2025 Annual review. Updated references.
+6/2025 Oral budesonide added to criteria.
+© 2025 UnitedHealthcare Services, Inc.

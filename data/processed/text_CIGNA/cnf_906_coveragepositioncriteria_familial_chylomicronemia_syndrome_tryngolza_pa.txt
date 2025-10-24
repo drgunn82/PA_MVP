@@ -1,0 +1,229 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Familial Chylomicronemia Syndrome − Tryngolza Prior Authorization
+Policy
+• Tryngolza™ (olezarsen subcutaneous injection − Ionis)
+REVIEW DATE: 12/23/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Tryngolza, an apolipoprotein C-III (APO-III)-directed antisense oligonucleotide, is
+indicated as an adjunct to diet to reduce triglycerides in adults with familial
+chylomicronemia syndrome (FCS).1 It is recommended to maintain a low-fat diet
+(≤ 20 grams of fat per day) in conjunction with Tryngolza.
+Disease Overview
+FCS is an ultrarare, genetic form of severe hypertriglyceridemia that impacts 1 to
+10 per 1,000,000 persons in the US. Patients with FCS may have triglyceride levels
+in the thousands. Of note, normal triglyceride levels are < 150 mg/dL with levels
+above 500 mg/dL categorized as severe hypertriglyceridemia. In general, patients
+with FCS do not have adequate responses to triglyceride-lowering therapies (e.g.,
+fibrates, omega-3 fatty acids). The high triglyceride levels lead to symptoms such
+as severe abdominal pain, inflammation of the pancreas (acute pancreatitis), and
+fatty deposits in the skin. Lipemia retinalis may occur, a condition in which the
+retinal veins of the eyes appear milky. Patients may develop symptoms of FCS in
+infancy but may not have the disease be known until adulthood. FCS is caused by
+biallelic pathogenic variants in five known genes (i.e., lipoprotein lipase [LPL],
+glycosylphosphatidylinositol-anchored high-density lipoprotein [HDL]-binding
+Page 1 of 6 - Cigna National Formulary Coverage - Policy:Familial Chylomicronemia Syndrome ( Tryngolza Prior
+Authorization Policy
+protein 1 [GPIHBP1], apolipoprotein A-V [APOA5], apolipoprotein C-II [APOC2], or
+lipase maturation factor 1 [LMF1]).
+Clinical Efficacy
+The efficacy of Tryngolza was evaluated in a randomized, placebo-controlled,
+double-blind, Phase III trial in patients with genetically identified FCS.1,2 A fasting
+triglyceride level ≥ 880 mg/dL was required. At study entry, patients who received
+the FDA-approved dose of Tryngolza (n = 22) had baseline mean triglyceride levels
+of 2,613 mg/dL; the value for this parameter in patients who received placebo (n =
+23) was 2,585 mg/dL. Background medications were statins (27%), omega-3 fatty
+acids (42%), fibrates (49%), or other lipid-lowering therapies (13%). The
+difference between Tryngolza 80 mg and placebo in the percent change in fasting
+triglycerides from baseline to Month 6 was -42.5%.
+Guidelines
+Guidelines do not address Tryngolza. There are recommendations regarding the
+diagnosis and/or identification of FCS.3,4 An expert panel (2018) states the FCS is
+characterized by very high plasma triglyceride concentrations (> 885 mg/dL) in the
+untreated state.3 Patients with FCS experience physical complications including
+incapacitating abdominal pain, and severe recurrent acute pancreatitis. Other
+clinical symptoms include eruptive xanthomas, lipemia retinalis, and lower body
+weight. Neurologic symptoms may be present (e.g., irritability, memory problems,
+dementia). Pathogenic variants are also present in FCS-genes (i.e., LPL, GPIHBP1,
+APOA5, APOC2, or LMF1). An FSC score ≥ 10 is a strong predictor of the
+condition.3 Also, patients with a North America Familial Chylomicronemia
+Syndrome (NAFCS) score ≥ 45 are very likely to have classical FCS.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Tryngolza.
+Because of the specialized skills required for evaluation and diagnosis of patients
+treated with Tryngolza as well as the monitoring required for adverse events and
+long-term efficacy, initial approval requires Tryngolza to be prescribed by or in
+consultation with a physician who specializes in the condition being treated.
+Documentation: Documentation is required for use of Tryngolza as noted in the
+criteria as [documentation required]. Documentation may include, but is not
+limited to, chart notes, laboratory tests, medical test results, claims records,
+prescription receipts, and/or other information.
+• Tryngolza™ (olezarsen subcutaneous injection - Ionis)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+6 Pages - Cigna National Formulary Coverage - Policy:Familial Chylomicronemia Syndrome - Tryngolza Prior
+Authorization Policy
+1. Familial Chylomicronemia Syndrome. Approve for 1 year if the patient
+meets ALL of the following (A, B, C, D, and E):
+A) Patient is ≥ 18 years of age; AND
+B) Patient has a fasting triglyceride level ≥ 880 mg/dL [documentation
+required]; AND
+C) The patient has undergone genetic testing and meets ONE of the following (i
+or ii):
+i. Molecular genetic test results demonstrate biallelic pathogenic variants in
+at least one gene causing familial chylomicronemia syndrome
+[documentation required]; OR
+Note: Examples of genes causing Familial Chylomicronemia Syndrome
+include lipoprotein lipase (LPL), glycosylphosphatidylinositol-anchored
+high-density lipoprotein-binding protein 1 (GPIHBP1), apolipoprotein A-V
+(APOA5), apolipoprotein C-II (APOC2), or lipase maturation factor 1
+(LMF1).
+ii. Molecular genetic test results are inconclusive and the patient has ONE of
+the following (a, b, c, d, or e) [documentation required];
+a) Patient has a familial chylomicronemia syndrome score ≥ 10; OR
+b) Patient has a North American familial chylomicronemia syndrome score
+≥ 45; OR
+c) Patient has a history of pancreatitis; OR
+d) Patient has a history of eruptive xanthomas; OR
+e) Patient has a history of lipemia retinalis; AND
+D) The medication will be used concomitantly with a low-fat diet; AND
+E) Medication is prescribed by a cardiologist, an endocrinologist, or a physician
+who focuses in the treatment of disorders related to severe
+hypertriglyceridemia.
+CONDITIONS NOT COVERED
+• Tryngolza™ (olezarsen subcutaneous injection - Ionis)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria will
+be updated as new published data are available):
+1. Hypertriglyceridemia (in the absence of a confirmed diagnosis of
+familial chylomicronemia syndrome). A trial evaluated Tryngolza in patients
+with either moderate hypertriglyceridemia and elevated cardiovascular risk or
+with severe hypertriglyceridemia.5 However, Tryngolza is not FDA-approved for
+this use.1
+REFERENCES
+1. Tryngolza™ subcutaneous injection [prescribing information]. Carlsbad, CA: Ionis; December
+2024.
+6 Pages - Cigna National Formulary Coverage - Policy:Familial Chylomicronemia Syndrome - Tryngolza Prior
+Authorization Policy
+2. Stroes ESG, Alexander VJ, Karwatowska-Prokopczuk E, et al, for the Balance investigators.
+Olezarsen, acute pancreatitis, and familial chylomicronemia syndrome. N Engl J Med.
+2024;390(19):1781-1792.
+3. Moulin P, Dufour R, Averna M, et al. Identification and diagnosis of patients with familial
+chylomicronaemia syndrome (FCS): expert panel recommendations and proposal of an “FCS
+score”. Atherosclerosis. 2018;275:265-272.
+4. Hegele RA, Ahmad Z, Ashraf A, et al. Development and validation of clinical criteria to identify
+familial chylomicronemia syndrome (FCS) in North America. J Clin Lipidol. 2024 Nov 12. [Online
+ahead of print].
+5. Bergmark BA, Marston NA, Prohaska RA, et al, for the Bridge-TIMI73 investigators. Olesarsen for
+hypertriglyceridemia in patients at high cardiovascular risk. N Engl J Med. 2024;390(19):1770-
+1780.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 12/23/2024
+Appendix A. Familial Chylomicronemia Syndrome Score Diagnostic Criteria (for Patients with
+Fasting TGs > 885 mg/dL).3*
+Fasting TG levels > 885 mg/dL for three consecutive blood analyses (measured at least 1 month
+apart; presence of eruptive xanthoma may be used as a surrogate for high TG levels): +5
+• Fasting TG levels > 1,770 mg/dL at least once: +1
+Previous TG levels < 177 mg/dL: -5
+No secondary factor (i.e., alcohol, diabetes, metabolic syndrome, hypothyroidism, steroid therapy,
+and additional drugs; exceptions include pregnancy and ethinyl estradiol; if diagnosis is made during
+pregnancy, a second assessment is necessary to confirm diagnosis postpartum): +2
+History of pancreatitis: +1
+Unexplained recurrent abdominal pain: +1
+No history of familial combined hyperlipidemia: +1
+No response (TG decrease < 20%) to hypolipidemic treatment: +1
+Onset of symptoms age:
+• < 40 years: +1
+• < 20 years: +2
+• < 10 years: +3
+TG(s) – Triglyceride(s); * The FCS score is the sum of all items cited above and a score ≥ 10 suggests
+that FCS is very likely.
+6 Pages - Cigna National Formulary Coverage - Policy:Familial Chylomicronemia Syndrome - Tryngolza Prior
+Authorization Policy
+Appendix B. North American Familial Chylomicronemia Syndrome Score Diagnostic Criteria.4†
+Characteristics Categories and Definitions for Patient Scenarios
+Included in Patient
+Scenarios
+Patient Age • Adult: ≥ 20 years of age
+• Adolescent: ≥ 10 to 19 years of age
+• Child: ≥ 1 to 9 years of age
+• Infant: < 1 year of age
+Hypertriglyceridemia Defined as Hypertriglyceridemia ≥ 440 mg/dL, categorized into early vs.
+Onset late onset.
+• Early onset: In infancy or childhood
+• Later onset: In adolescence or adulthood
+Body Mass Index • ≥ 25.0 kg/m2 in adults or ≥ 85th percentile in children/adolescents
+• < 25 kg/m2 in adults or < 85th percentile in children/adolescents
+Abdominal Pain/ In all scenarios, panelists assumed symptoms were related to
+Pancreatitis chylomicronemia in a patient.
+• No history of abdominal pain or pancreatitis
+• Recurrent abdominal pain but no history of pancreatitis
+• History of pancreatitis (with or without abdominal pain)
+Secondary Factors Defined as factors that may contribute to the patient’s
+hypertriglyceridemia. For example, lifestyle factors (e.g., high alcohol
+intake, ultra-processed diet), clinical conditions (e.g., non-pancreatitis
+induced diabetes, HIV), medications (e.g., antidepressants, antiretrovirals).*
+• ≥ One secondary factor
+• No secondary factors
+Fasting TG Levels Defined fasting as routine fasting (e.g., 6 to 12 hours depending on patient
+age) prior to outpatient laboratory tests. Panelists assumed it did not
+include a scenario in which the patient had been fasting during a
+hospitalization for many days to control acute pancreatitis or in attempts to
+bring TG levels down. Panelists also assumed the patient was not yet
+complying with severe dietary fat restriction (< 20 g/day for adults, < 10%
+calories from fat for adolescents and children). We categorized the last
+three laboratory values for adults and on the last two laboratory values for
+children into two categories:
+• Not all severely elevated: one to two TG readings 440 to 880 mg/dL,
+remainder > 880 mg/dL.
+• All severely elevated: all TG readings > 880 mg/dL
+TG/TC Ratio Defined as the ratio of TG over TC, categorized into:
+• Normal/low: ≤ 8 mg/dL
+• High: > 8 mg/dL
+ApoB Reading ApoB laboratory value, categorized into:
+• Normal/high: ≥ 1 g/L
+• Low: < 1.0 g/L (100 mg/dL)
+Treatment Non- In all scenarios describing patients ≥10 years old, panelists assumed
+Response fibrates and high-dose omega-3 fatty acids did not produce a sustained
+response in TG levels even when the patient was compliant with therapy
+(i.e., TG levels do not decrease by 20% or more from these treatments and
+do not remain reduced).
+† This tool can be used to assist in the diagnosis of familial chylomicronemia syndrome. It should be
+utilized in patients ≥ 1 year of age with triglyceride (TG) levels ≥ 440 mg/dL. It may be useful in
+patients who have not been yet tested genetically for FCS, or in whom genetic testing was inconclusive.
+If patients ≥ 10 years of age, the tool should only be used for patients who are not responsive to fibrates
+and high-dose omega-3 fatty acids even when the patient is compliance with therapy; HIV – Human
+immunodeficiency virus; * A more comprehensive list of secondary factors are available; TG –
+Triglyceride; TC – Total cholesterol; ApoB – Apolipoprotein B.
+6 Pages - Cigna National Formulary Coverage - Policy:Familial Chylomicronemia Syndrome - Tryngolza Prior
+Authorization Policy
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2024 The Cigna
+Group.
+6 Pages - Cigna National Formulary Coverage - Policy:Familial Chylomicronemia Syndrome - Tryngolza Prior
+Authorization Policy

@@ -1,0 +1,108 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2074-11
+Program Prior Authorization/Medical Necessity
+Medication Addyi™ (flibanserin)
+P&T Approval Date 9/2015, 3/2016, 5/2016, 4/2017, 5/2018, 6/2019, 12/2019, 8/2021,
+9/2022, 11/2023, 11/2024
+Effective Date 2/1/2025
+1. Background:
+Addyi is indicated for the treatment of premenopausal women with acquired, generalized
+hypoactive sexual desire disorder (HSDD), as characterized by low sexual desire that causes
+marked distress or interpersonal difficulty and is not due to a co-existing medical or psychiatric
+condition, problems within the relationship, or the effects of a medication or other drug substance.
+Acquired HSDD refers to HSDD that develops in a patient who previously had no problems with
+sexual desire. Generalized HSDD refers to HSDD that occurs regardless of the type of stimulation,
+situation or partner. Addyi is not indicated for the treatment of HSDD in postmenopausal women
+or in men and is not indicated to enhance sexual performance.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Addyi will be approved based on all of the following criteria:
+a. Diagnosis of one of the following:
+(1) Acquired, generalized hypoactive sexual desire disorder (HSDD)
+-OR-
+(2) Female sexual interest/arousal disorder
+-AND-
+b. Symptoms of HSDD or female sexual interest/arousal disorder have persisted for at
+least 6 months
+-AND-
+c. Low sexual desire is NOT due to any of the following:
+(1) A co-existing medical or psychiatric condition
+(2) Problems within the relationship
+(3) The effects of a medication or other drug substance
+-AND-
+© 2024 UnitedHealthcare Services Inc.
+1
+d. Patient was female at birth
+-AND-
+e. Patient is premenopausal
+-AND-
+f. Patient does not have hepatic impairment (e.g., a Child-Pugh score of 6 points or
+greater)
+-AND-
+g. Patient is not concomitantly on moderate or strong CYP3A4 inhibitors (e.g.,
+ciprofloxacin, clarithromycin, diltiazem, fluconazole, itraconazole, ketoconazole,
+ritonavir, verapamil)
+Initial authorization will be issued for 3 months
+B. Reauthorization
+1. Addyi will be approved based on all of the following criteria:
+a. Documentation of positive clinical response to Addyi therapy
+-AND-
+b. Patient continues to be premenopausal
+-AND-
+c. Patient does not have hepatic impairment (e.g., a Child-Pugh score of 6 points or
+greater)
+-AND-
+d. Patient is not concomitantly on moderate or strong CYP3A4 inhibitors (e.g.,
+ciprofloxacin, clarithromycin, diltiazem, fluconazole, itraconazole, ketoconazole,
+ritonavir, verapamil)
+Reauthorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Supply limits may be in place
+© 2024 UnitedHealthcare Services Inc.
+2
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class
+4. References:
+1. Addyi [package insert]. Raleigh, NC: Sprout Pharmaceuticals, Inc; September 2021.
+2. Thorp J, Simon J, Dattani D, et al. Treatment of Hypoactive Sexual Desire Disorder in
+Premenopausal Women: Efficacy of Flibanserin in the DAISY Study. J Sex Med 2012;9:793–
+804.
+3. Katz M, DeRogatis LR, Ackerman R, et al. Efficacy of Flibanserin in Women with Hypoactive
+Sexual Desire Disorder: Results from the BEGONIA Trial. J Sex Med 2013;10:1807–1815.
+4. DeRogatis LR, Komer L, Katz M, et al. Treatment of Hypoactive Sexual Desire Disorder in
+Premenopausal Women: Efficacy of Flibanserin in the VIOLET Study. J Sex Med 2012;9:1074–
+1085.
+5. Sexual dysfunctions. In: Diagnostic and Statistical Manual of Mental Disorders, 5th ed.,
+American Psychiatric Association, Arlington, Virginia 2013.
+6. Overview of Sexual dysfunction in females: Management. UpToDate. Updated February 1, 2023.
+Last accessed October 4, 2024..
+7. Jasepers L, Feys, Frederik, Bramer, W, et al. Efficacy and Safety of Flibanserin for the
+Treatment of Hypoactive Sexual Desire Disorder in Women: A Systematic Review and Meta-
+analysis. JAMA Intern Med. 2016;176(4):453-462.
+Program Prior Authorization/Medical Necessity – Addyi
+Change Control
+Date Change
+9/2015 New program.
+3/2016 Addition of criteria that low sexual desire is not due to a co-existing
+condition, relationship problem, or the effects of a medication or drug
+substance. Changed reauthorization period from 6 to 12 months.
+5/2016 Addition of criteria that requires provider attestation of benefits
+outweighing risk, completion of the REMS Program Patient-Provider
+Agreement and accuracy of the information provided.
+4/2017 Minor formatting changes. Updated references.
+5/2018 Annual review. Updated references.
+6/2019 Annual review. Changed criteria that member is female to member was
+female at birth. Updated references.
+12/2019 Removed REMs and alcohol abstinence requirements due to updated
+labeling.
+8/2021 Updated references.
+9/2022 Annual review. Updated references. Added state mandate footnote.
+11/2023 Annual review. Updated references.
+11/2024 Annual review. Updated references.
+© 2024 UnitedHealthcare Services Inc.
+3

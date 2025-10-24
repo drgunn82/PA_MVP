@@ -1,0 +1,142 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Growth Disorders – Voxzogo Prior Authorization Policy
+• Voxzogo™ (vosoritide subcutaneous injection − BioMarin)
+REVIEW DATE: 11/20/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Voxzogo, a C type natriuretic peptide (CNP) analog, is indicated to increase linear growth
+in pediatric patients with achondroplasia with open epiphyses.1
+Disease Overview
+Achondroplasia is the most common form of disproportionate short stature in humans.2 It is
+a primary skeletal dysplasia caused by a mutation in the fibroblast growth factor receptor 3
+(FGFR3) gene; this mutation leads to impaired endochondral ossification. Achondroplasia
+occurs in approximately 1 in 20,000 to 30,000 live births.3 It occurs as a result of a
+spontaneous mutation in 80% of patients (i.e., both parents are of normal height).4 In the
+remaining 20% of patients, the mutation is inherited from a parent. Achondroplasia is
+characterized by short stature, long-bone shortening in the proximal upper and lower
+extremities, and macrocephaly. The diagnosis can be confirmed by molecular testing.5 In
+the pivotal trial for Voxzogo, achondroplasia was confirmed by genetic testing in all
+patients.2 Additionally, exclusion criteria included evidence of decreased growth velocity (<
+1.5 cm/year) or of growth plate closure through bilateral lower extremity X-rays.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Voxzogo. All
+approvals are provided for the duration noted below. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Voxzogo as well as the
+monitoring required for adverse events and long-term efficacy, approval requires Voxzogo
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Growth Disorders – Voxzogo Prior Authorization Policy
+to be prescribed by or in consultation with a physician who specializes in the condition being
+treated.
+• Voxzogo™ (vosoritide subcutaneous injection (BioMarin)
+is(are) covered as medically necessary when the following criteria is(are) met for
+FDA-approved indication(s) or other uses with supportive evidence (if applicable):
+FDA-Approved Indication
+1. Achondroplasia. Approve for 1 year if the patient meets ONE of the following (A or B):
+A) Initial Therapy or Patient Has Been on Voxzogo for < 1 Year. Approve if the patient
+meets ALL of the following (i, ii, iii, iv, v, and vi):
+i. Patient is < 18 years of age; AND
+ii. The diagnosis of achondroplasia has been confirmed by genetic testing with an
+identifiable mutation in the fibroblast growth factor receptor type 3 (FGFR3) gene;
+AND
+iii. Patient’s epiphyses are open; AND
+iv. Patient will not have limb-lengthening surgery during treatment with Voxzogo; AND
+v. The prescriber has confirmed the patient is able to drink approximately 240 to 300
+mL of fluid in the hour prior to Voxzogo administration; AND
+vi. The medication is prescribed by or in consultation with a pediatric endocrinologist.
+B) Patient Has Been Receiving Voxzogo for ≥ 1 Year. Approve if the patient meets ALL of
+the following (i, ii, iii, iv, v, vi, and vii):
+i. Patient is < 18 years of age; AND
+ii. The diagnosis of achondroplasia has been confirmed by genetic testing with an
+identifiable mutation in the fibroblast growth factor receptor type 3 (FGFR3) gene;
+AND
+iii. Patient’s epiphyses are open; AND
+iv. Patient will not have limb-lengthening surgery during treatment with Voxzogo;
+AND
+v. The prescriber has confirmed the patient is able to drink approximately 240 to 300
+mL of fluid in the hour prior to Voxzogo administration; AND
+vi. The medication is prescribed by or in consultation with a pediatric endocrinologist;
+AND
+vii. Patient’s most recent annualized growth velocity continues to be above their
+baseline annualized growth velocity value (i.e., before the patient started on
+Voxzogo).
+CONDITIONS NOT COVERED
+• Voxzogo™ (vosoritide subcutaneous injection (BioMarin)
+is(are) considered experimental, investigational, or unproven for ANY other use(s)
+including the following (this list may not be all inclusive; criteria will be updated
+as new published data are available):
+1. Hypochondroplasia, Thanatophoric Dysplasia, or other Short Stature Conditions
+other than Achondroplasia (e.g., Trisomy 21, Pseudoachondroplasia). Voxzogo is
+only indicated for patients with achondroplasia.1 There is a small, published Phase 2 trial
+showing some efficacy for children with hypochondroplasia.11 There is no evidence
+Voxzogo is effective for other short stature conditions.
+3 Pages - Cigna National Formulary Coverage - Policy:Growth Disorders – Voxzogo Prior Authorization Policy
+2. Concurrent Treatment with Growth Hormone (e.g., somatropin), Long-Acting
+Growth Hormone (e.g., Ngenla® [somatrogon-ghla], Skytrofa®
+[lonapegsomatropin], Sogroya® [somapacitan-beco]), or Insulin-like Growth
+Factor- 1 (IGF-1) [i.e., Increlex® {mecasermin}] Agents. Growth hormone agents
+and Increlex are NOT indicated to increase growth in patients with achondroplasia.6-10
+Additionally, there are no available studies demonstrating the safety or efficacy of
+concurrent use with Voxzogo.
+REFERENCES
+1. Voxzogo™ subcutaneous injection [prescribing information]. Novato, CA: BioMarin;
+November 2024.
+2. Once-daily, subcutaneous vosoritide therapy in children with achondroplasia: a
+randomised, double-blind, phase 3, placebo-controlled, multicentre trial. Lancet.
+2020;396(10252):684-692.
+3. National Organization for Rare Disorders (NORD). Achondroplasia Last updated
+November 17, 2023. Available at: Achondroplasia - NORD (National Organization for
+Rare Disorders) (rarediseases.org). Accessed on November 18, 2024.
+4. Achondroplasia: a comprehensive clinical disease. Orphanet J Rare Dis. 2019;14(1):1.
+5. Health supervision for people with achondroplasia. American Academy of Pediatrics.
+Pediatrics. 2020;145(6): e20201010.
+6. Norditropin® subcutaneous injection [prescribing information]. Plainsboro, NJ: Novo
+Nordisk; March 2020.
+7. Skytrofa™ subcutaneous injection [prescribing information]. Princeton, NJ: Ascendis
+Pharma; May 2024.
+8. Sogroya® subcutaneous injection [prescribing information]. Plainsboro, NJ: Novo
+Nordisk; April 2023.
+9. Ngenla® subcutaneous injection [prescribing information]. New York, NY: Pfizer; June
+2023.
+10. Increlex® subcutaneous injection [prescribing information]. Cambridge, MA: Ipsen;
+March 2024.
+11. Dauber A, Zhang A, Kanakatti Shankar R, et al. Vosoritide treatment for children with
+hypochondroplasia: a phase 2 trial. EClinicalMedicine. 2024; 71:102591.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Early Annual Achondroplasia (initial and continuation criteria), the 11/01/2023
+Revision following criteria were removed: 1) The lower age limit of ≥
+5 years of age; and 2) The criterion that there is evidence of
+an annualized growth velocity ≥ 1.5 cm/year.
+For Conditions Not Covered
+: Additional examples of long-acting growth hormone
+products were added to Concurrent Treatment with Growth
+Hormone, Long-Acting Growth Hormone, or Insulin-like
+Growth Factor-1 Agents.
+Annual No criteria changes. 11/20/2024
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and
+services are provided exclusively by or through such operating subsidiaries, including Cigna
+Health and Life Insurance Company, Connecticut General Life Insurance Company,
+3 Pages - Cigna National Formulary Coverage - Policy:Growth Disorders – Voxzogo Prior Authorization Policy
+Evernorth Behavioral Health, Inc., Cigna Health Management, Inc., and HMO or service
+company subsidiaries of The Cigna Group. © 2024 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Growth Disorders – Voxzogo Prior Authorization Policy

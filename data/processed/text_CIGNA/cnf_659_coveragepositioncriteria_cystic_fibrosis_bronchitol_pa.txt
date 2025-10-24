@@ -1,0 +1,113 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Cystic Fibrosis – Bronchitol Prior Authorization Policy
+• Bronchitol® (mannitol oral inhalation powder – Pharmaxis/Chiesi)
+REVIEW DATE: 02/05/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Bronchitol, a sugar alcohol, is indicated as add-on maintenance therapy to improve
+pulmonary function in patients ≥ 18 years of age with cystic fibrosis (CF).1
+Safety
+Bronchitol can cause bronchospasm, which can be severe in susceptible patients.1
+Therefore, Bronchitol is contraindicated in individuals who fail to pass the Bronchitol
+Tolerance Test. Prior to prescribing Bronchitol, the Bronchitol Tolerance Test must be
+administered and performed under the supervision of a healthcare practitioner who is able
+to manage acute bronchospasm, to identify patients who are suitable candidates for
+Bronchitol maintenance therapy. For patients who have passed the Bronchitol Tolerance
+Test, the recommended dosage of Bronchitol is 400 mg twice a day by oral inhalation (the
+contents of 10 capsules administered individually) via the inhaler. A short-acting
+bronchodilator should be administered by oral inhalation, 5 to 15 minutes before every dose
+of Bronchitol. Bronchitol should be taken once in the morning and once in the evening, with
+the later dose taken at least 2 to 3 hours before bedtime.
+Guidelines
+Bronchitol is not addressed in US guidelines for CF. Guidelines from the CF Foundation
+(2013) in the US strongly recommend chronic use of Pulmozyme® (dornase alfa inhalation
+solution) in patients ≥ 6 years of age with moderate to severe disease to improve lung
+function and quality of life and reduce exacerbations. Pulmozyme is also recommended for
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Cystic Fibrosis – Bronchitol Prior Authorization Policy
+chronic use in patients ≥ 6 years of age with asymptomatic or mild disease to improve lung
+function and reduce exacerbations. Chronic use of hypertonic saline is also recommended in
+individuals with CF who are ≥ 6 years of age to improve lung function and quality of life and
+reduce exacerbations. Standards for the care of patients with CF from the European CF
+Society (2024) recognize inhaled dry powder mannitol as an alternative to hypertonic saline
+in patients with CF; however, both agents are noted to irritate the airways and therefore
+initial tolerance testing is recommended often with the use of premedication with
+bronchodilators.6
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Bronchitol. All
+approvals are provided for the duration noted below. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Bronchitol as well as the
+monitoring required for adverse events and long-term efficacy, approval requires Bronchitol
+to be prescribed by or in consultation with a physician who specializes in the condition being
+treated.
+• Bronchitol® (mannitol oral inhalation powder – Pharmaxis/Chiesi)
+is(are) covered as medically necessary when the following criteria is(are) met for
+FDA-approved indication(s) or other uses with supportive evidence (if applicable):
+FDA-Approved Indication
+1. Cystic Fibrosis. Approve for 1 year if the patient meets ALL of the following (A, B, C, D,
+and E):
+A) Patient is ≥ 18 years of age; AND
+B) Patient has tried hypertonic saline; AND
+C) Patient has passed the Bronchitol Tolerance Test; AND
+D) Patient will pre-medicate with a short-acting bronchodilator; AND
+E) The medication is prescribed by or in consultation with a pulmonologist or a
+physician who specializes in the treatment of cystic fibrosis.
+CONDITIONS NOT COVERED
+• Bronchitol® (mannitol oral inhalation powder – Pharmaxis/Chiesi)
+is(are) considered experimental, investigational, or unproven for ANY other use(s)
+including the following (this list may not be all inclusive; criteria will be updated
+as new published data are available):
+1. Concomitant Use with Hypertonic Saline. Bronchitol has not been studied in
+combination with hypertonic saline.3-5
+REFERENCES
+1. Bronchitol® oral inhalation powder [prescribing information]. Frenchs Forest NSW,
+Australia/Cary, NC: Pharmaxis/Chiesi; October 2020.
+2. Mogayzel PJ, Naureckas ET, Robinson KA, et al. Pulmonary clinical practice guidelines
+committee. Cystic fibrosis pulmonary guidelines. Chronic medications for maintenance of
+lung health. Am J Respir Crit Care Med. 2013;187(7):680-689.
+2 Pages - Cigna National Formulary Coverage - Policy:Cystic Fibrosis – Bronchitol Prior Authorization Policy
+3. Flume P, Amelina E, Daines CL, et al. Efficacy and safety of inhaled dry-powder mannitol
+in adults with cystic fibrosis: An international, randomized controlled study. J Cyst
+Fibros. 2020;30(6):1003-1009.
+4. Bilton D, Robinson P, cooper P, et al; for the CF301 Study Investigators. Inhaled dry
+powder mannitol in cystic fibrosis: an efficacy and safety study. Eur Respir J. 2011;
+38:1071-1080.
+5. Aitken ML, Bellon G, De Boeck K, et al; for the CF302 Investigators. Long-term inhaled
+dry powder mannitol in cystic fibrosis. An international randomized study. Am J Respir
+Crit Care. 2012;185(6): 645-652.
+6. Burgel PR, Southern KW, Addy C, et al. Standards for the care of patients with cystic
+fibrosis (CF); recognizing and addressing CF health issues. J Cyst Fibros.
+2024;23(2):187-202.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 02/08/2023
+Revision
+Annual No criteria changes. 02/07/2024
+Revision
+Annual No criteria changes. 02/05/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and
+services are provided exclusively by or through such operating subsidiaries, including Cigna
+Health and Life Insurance Company, Connecticut General Life Insurance Company,
+Evernorth Behavioral Health, Inc., Cigna Health Management, Inc., and HMO or service
+company subsidiaries of The Cigna Group. © 2024 The Cigna Group.
+2 Pages - Cigna National Formulary Coverage - Policy:Cystic Fibrosis – Bronchitol Prior Authorization Policy

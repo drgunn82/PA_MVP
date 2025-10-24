@@ -1,0 +1,252 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER RX
+POLICY: Oncology (Oral – Anaplastic Lymphoma Kinase [ALK]-Positive Agent) –
+Xalkori Drug Quantity Management Policy – Per Rx
+• Xalkori® (crizotinib capsules and pellets − Pfizer)
+REVIEW DATE: 06/03/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Xalkori, an oral kinase inhibitor, is indicated for the following uses:1
+• Anaplastic large cell lymphoma (ALCL), treatment of relapsed or
+refractory, systemic ALCL that is anaplastic lymphoma kinase (ALK)-positive
+in pediatric patients ≥ 1 year of age and young adults.
+Limitation of Use: The safety and efficacy of Xalkori have not been
+established in older adults with relapsed or refractory, systemic ALK-positive
+ALCL.
+• Inflammatory myofibroblastic tumor (IMT), treatment of unresectable,
+recurrent, or refractory IMT that is ALK-positive in patients ≥ 1 year of age.
+• Non-small cell lung cancer (NSCLC), metastatic, whose tumors are ALK-
+positive or ROS proto-oncogene 1 (ROS1)-positive as detected by an FDA-
+approved test in adults.
+Page 1 of 6 - Cigna National Formulary Coverage - Policy:Oncology (Oral – Anaplastic Lymphoma Kinase [ALK]-
+Positive Agent) – Xalkori Drug Quantity Management Policy – Per Rx
+Dosing
+ALCL
+For pediatric patients ≥ 1 year of age and young adults with relapsed or refractory,
+systemic ALK-positive ALCL, the recommended dose is 280 mg/m2 twice daily (BID)
+until disease progression or unacceptable toxicity.1 Refer to Table 1 for dose based
+on body surface area (BSA). To manage adverse events (AEs), hepatic impairment,
+or renal impairment, dose reductions may be needed based on BSA (Table 2).
+IMT
+For IMT, the recommended dose in adults is 250 mg BID until disease progression
+or unacceptable toxicity.1 The dose in pediatric patients is 280 mg/m2 BID (Table
+1).
+Table 1. Recommended Xalkori Dosage for Patients with ALCL or Pediatric Patients with IMT.1
+BSA Recommended Xalkori Xalkori Pellets per Xalkori Capsules per
+Dosage to achieve 280 Dose Dose
+mg/m2
+0.38 to 0.46m2 120 mg BID 1 x 20 mg + 2 x 50 --
+mg
+0.47 to 0.51 m2 140 mg BID 2 x 20 mg + 2 x 50 --
+mg
+0.52 to 0.61 m2 150 mg BID 1 x 150 mg --
+0.62 to 0.80 m2 200 mg BID 1 x 50 mg + 1 x 150 --
+mg
+0.81 to 0.97 m2 250 mg BID 2 x 50 mg + 1 x 150 --
+mg
+0.98 to 1.16 m2 300 mg BID 2 x 150 mg --
+1.17 to 1.33 m2 350 mg BID 1 x 50 mg + 2 x 150 --
+mg
+1.34 to 1.51 m2 400 mg BID 2 x 50 mg + 2 x 150 2 x 200 mg
+mg
+1.52 – 1.69 m2 450 mg BID 3 x 150 mg 1 x 200 mg + 1 x 250
+mg
+1.7 m2 or greater 500 mg BID 1 x 50 mg + 3 x 150 2 x 250 mg
+mg
+ALCL – Anaplastic large cell lymphoma; IMT – Inflammatory myofibroblastic tumor; BSA – Body surface
+area; BID – Twice daily; * No more than 4 oral pellet shells are to be used for a single dose.
+Table 2. Recommended Xalkori Dosage Reductions* for Patients with ALCL or Pediatric
+Patients with IMT.1
+BSA First Dose Reduction Second Dose Reduction
+Dosage Dose Dosage Dose
+Form/Strength to Form/Strength
+Achieve to Achieve
+Recommended Recommended
+Dose Dose
+0.38 to 0.46m2 90 mg BID Pellets 70 mg BID Pellets
+2 x 20 mg + 1 x 50 1 x 20 mg + 1 x
+mg 50 mg
+0.47 to 0.51 m2 100 mg BID Pellets 80 mg BID Pellets
+2 x 50 mg 4 x 20 mg
+0.52 to 0.61 m2 120 mg BID Pellets 90 mg BID Pellets
+6 Pages - Cigna National Formulary Coverage - Policy:Oncology (Oral – Anaplastic Lymphoma Kinase [ALK]-
+Positive Agent) – Xalkori Drug Quantity Management Policy – Per Rx
+1 x 20 mg + 2 x 50 2 x 20 mg + 1 x
+mg 50 mg
+0.62 to 0.80 m2 150 mg BID Pellets 120 mg BID Pellets
+1 x 150 mg 1 x 20 mg + 2 x
+50 mg
+0.81 to 0.97 m2 200 mg BID Pellets 150 mg BID Pellets
+1 x 50 mg + 1 x 1 x 150 mg
+150 mg
+0.98 to 1.16 m2 220 mg BID Pellets 170 mg BID Pellets
+1 x 20 mg + 1 x 50 1 x 20 mg + 1 x
+mg + 1 x 150 mg 150 mg
+1.17 to 1.33 m2 250 mg BID Pellets 200 mg BID Pellets
+2 x 50 mg + 1 x 1 x 50 mg + 1 x
+150 mg 150 mg
+1.34 to 1.69 m2 250 mg BID Pellets 200 mg BID Pellets
+2 x 50 mg + 1 x 1 x 50 mg + 1 x
+150 mg 150 mg
+-OR- -OR-
+Capsules Capsules
+1 x 250 mg 1 x 200 mg
+1.7 m2 or greater 400 mg BID Pellets 250 mg BID Pellets
+2 x 50 mg + 2 x 2 x 50 mg + 1 x
+150 mg 150 mg
+-OR- -OR-
+Capsules Capsules
+2 x 200 mg 1 x 250 mg
+* Dose reductions to manage adverse events, hepatic impairment, renal impairment, or drug
+interactions; ALCL – Anaplastic large cell lymphoma; IMT – Inflammatory myofibroblastic tumor; BSA –
+Body surface area; BID – Twice daily; * No more than 4 oral pellet shells are to be used for a single
+dose.
+NSCLC
+For adults with ALK-positive or ROS1-positive metastatic NSCLC, the recommended
+dose of Xalkori is 250 mg BID until disease progression or unacceptable toxicity.1
+For adults who cannot swallow capsules, the recommended dose is 250 mg BID
+using 2 x 50 mg pellets and 1 x 150 mg pellet per dose. To manage AEs, hepatic
+impairment, renal impairment, or drug interactions, dose reductions to 200 mg BID
+or 250 mg once daily (QD) may be needed.
+Availability/Administration
+Xalkori is available as 200 mg and 250 mg capsules in bottles containing 60
+capsules each.1 Xalkori capsules should be swallowed whole.
+Xalkori is also available as 20 mg, 50 mg, and 150 mg oral pellets, supplied in
+bottles of 60 pellets each.1 Xalkori pellets should not be chewed or crushed. The
+pellets are supplied encapsulated in shells but should not be swallowed in the shell.
+The shell may be opened and the contents emptied directly into the patient’s
+mouth. Alternatively, the shell may be opened and emptied into an oral dosing aid
+(e.g., spoon, medicine cup) and then administered into the patient’s mouth via the
+aid. A sufficient amount of water should be given to ensure that all medication is
+swallowed immediately following administration of the Xalkori pellets.
+6 Pages - Cigna National Formulary Coverage - Policy:Oncology (Oral – Anaplastic Lymphoma Kinase [ALK]-
+Positive Agent) – Xalkori Drug Quantity Management Policy – Per Rx
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of Xalkori. If the Drug Quantity Management rule is
+not met for the requested medication at the point of service, coverage will be
+determined by the Criteria below. All approvals are provided for 1 year in duration.
+Drug Quantity Limits
+Product Strength Retail Home Delivery
+Maximum Quantity Maximum Quantity
+per Rx per Rx
+Xalkori® 200 mg capsules 60 capsules 180 capsules
+(crizotinib capsules) 250 mg capsules 60 capsules 180 capsules
+20 mg pellets 120 pellets 360 pellets
+50 mg pellets 120 pellets 360 pellets
+150 mg pellets 120 pellets 360 pellets
+EXCEPTIONS TO THE QUANTITY LIMITS LISTED ABOVE ARE COVERED AS MEDICALLY
+NECESSARY WHEN THE FOLLOWING CRITERIA ARE MET. ANY OTHER EXCEPTION IS
+CONSIDERED NOT MEDICALLY NECESSARY.
+CRITERIA
+Xalkori 200 mg capsules
+1. If the patient has anaplastic large cell lymphoma and has a body surface area ≥
+1.34 m2, approve the requested quantity, not to exceed 120 capsules per
+dispensing at retail or 360 capsules per dispensing at home delivery.
+2. If the patient is < 18 years of age, has inflammatory myofibroblastic tumor, and
+has a body surface area ≥ 1.34 m2, approve the requested quantity, not to
+exceed 120 capsules per dispensing at retail or 360 capsules per dispensing at
+home delivery.
+Xalkori 250 mg capsules
+1. If the patient has anaplastic large cell lymphoma and has a body surface area ≥
+1.70 m2, approve the requested quantity, not to exceed 120 capsules per
+dispensing at retail or 360 capsules per dispensing at home delivery.
+2. If the patient is < 18 years of age, has inflammatory myofibroblastic tumor, and
+has a body surface area ≥ 1.70 m2, approve the requested quantity, not to
+exceed 120 capsules per dispensing at retail or 360 capsules per dispensing at
+home delivery.
+Xalkori 20 mg pellets
+1. If the patient has anaplastic large cell lymphoma and requires a dose reduction
+to 80 mg twice daily, approve the requested quantity, not to exceed 240 pellets
+per dispensing at retail or 720 pellets per dispensing at home delivery.
+6 Pages - Cigna National Formulary Coverage - Policy:Oncology (Oral – Anaplastic Lymphoma Kinase [ALK]-
+Positive Agent) – Xalkori Drug Quantity Management Policy – Per Rx
+2. If the patient is < 18 years of age, has inflammatory myofibroblastic tumor, and
+requires a dose reduction to 80 mg twice daily, approve the requested quantity,
+not to exceed 240 pellets per dispensing at retail or 720 pellets per dispensing
+at home delivery.
+Xalkori 50 mg pellets
+No overrides recommended.
+Xalkori 150 mg pellets
+1. If the patient has anaplastic large cell lymphoma and has a body surface area ≥
+1.52 m2, approve the requested quantity, not to exceed 180 pellets per
+dispensing at retail or 540 pellets per dispensing at home delivery.
+2. If the patient is < 18 years of age, has inflammatory myofibroblastic tumor, and
+has a body surface area ≥ 1.52 m2, approve the requested quantity, not to
+exceed 180 pellets per dispensing at retail or 540 pellets per dispensing at home
+delivery.
+REFERENCES
+1. Xalkori® capsules [prescribing information]. New York, NY: Pfizer; September 2023.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Policy was updated to reflect the existing quantity limits when a product 05/24/2023
+Revision is obtained via home delivery.
+Xalkori 200 mg capsules: Override criteria were added to approve the
+requested quantity, not to exceed 120 capsules per dispensing at retail
+or 360 capsules per dispensing at home delivery, if the patient is < 18
+years of age, has inflammatory myofibroblastic tumor, and has a body
+surface area ≥ 1.17 m2.
+Xalkori 250 mg capsules: Override criteria were added to approve the
+requested quantity, not to exceed 120 capsules per dispensing at retail
+or 360 capsules per dispensing at home delivery, if the patient is < 18
+years of age, has inflammatory myofibroblastic tumor, and has a body
+surface area ≥ 1.70 m2.
+Annual Xalkori 200 mg capsules: Override criteria were updated to approve 06/05/2024
+Revision additional quantities if the patient has a body surface area ≥ 1.34 m2
+(along with other criteria). Previously, criteria required the patient to
+have a body surface area ≥ 1.17 m2.
+Xalkori 20 mg pellets: New quantity limits of 120 pellets per
+dispensing at retail and 360 pellets per dispensing at home delivery
+were added to the policy. Override criteria were added to approve the
+requested quantity, not to exceed 240 pellets per dispensing at retail or
+720 pellets per dispensing at home delivery if the patient requires a
+dose reduction to 80 mg twice daily and has either anaplastic large cell
+lymphoma or inflammatory myofibroblastic tumor (< 18 years of age).
+6 Pages - Cigna National Formulary Coverage - Policy:Oncology (Oral – Anaplastic Lymphoma Kinase [ALK]-
+Positive Agent) – Xalkori Drug Quantity Management Policy – Per Rx
+Xalkori 50 mg pellets: New quantity limits of 120 pellets per
+dispensing at retail and 360 pellets per dispensing at home delivery
+were added to the policy. No clinical override criteria apply.
+Xalkori 150 mg pellets: New quantity limits of 120 pellets per
+dispensing at retail and 360 pellets per dispensing at home delivery
+were added to the policy. Override criteria were added to approve the
+requested quantity, not to exceed 180 pellets per dispensing at retail or
+540 pellets per dispensing at home delivery if the patient has a body
+surface area ≥ 1.52 m2 and has either anaplastic large cell lymphoma
+or inflammatory myofibroblastic tumor (< 18 years of age).
+Annual The policy name was changed from “Oncology – Xalkori DQM Policy – 06/03/2025
+Revision Per Rx” to “Oncology (Oral – Anaplastic Lymphoma Kinase [ALK]-
+Positive Agent) – Xalkori DQM Policy – Per Rx”.
+No criteria changes.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+6 Pages - Cigna National Formulary Coverage - Policy:Oncology (Oral – Anaplastic Lymphoma Kinase [ALK]-
+Positive Agent) – Xalkori Drug Quantity Management Policy – Per Rx

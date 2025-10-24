@@ -1,0 +1,162 @@
+Cigna National Formulary Coverage Policy
+Step Therapy
+
+Cycloxygenase-2 Inhibitor – Celebrex (celecoxib capsules – generic)
+Table of Contents Product Identifier(s)
+National Formulary Medical Necessity ................ 1 Effective 1/1/23 to 2/27/23: 109120
+Conditions Not Covered....................................... 3
+Background .......................................................... 3 Effective 2/28/23: 14735
+References .......................................................... 4
+Revision History ................................................... 4
+INSTRUCTIONS FOR USE
+The following Coverage Policy applies to health benefit plans administered by Cigna Companies. Certain Cigna Companies and/or lines of
+business only provide utilization review services to clients and do not make coverage determinations. References to standard benefit plan
+language and coverage determinations do not apply to those clients. Coverage Policies are intended to provide guidance in interpreting
+certain standard benefit plans administered by Cigna Companies. Please note, the terms of a customer’s particular benefit plan document
+[Group Service Agreement, Evidence of Coverage, Certificate of Coverage, Summary Plan Description (SPD) or similar plan document] may
+differ significantly from the standard benefit plans upon which these Coverage Policies are based. For example, a customer’s benefit plan
+document may contain a specific exclusion related to a topic addressed in a Coverage Policy. In the event of a conflict, a customer’s benefit
+plan document always supersedes the information in the Coverage Policies. In the absence of a controlling federal or state coverage
+mandate, benefits are ultimately determined by the terms of the applicable benefit plan document. Coverage determinations in each specific
+instance require consideration of 1) the terms of the applicable benefit plan document in effect on the date of service; 2) any applicable
+laws/regulations; 3) any relevant collateral source materials including Coverage Policies and; 4) the specific facts of the particular
+situation. Coverage Policies relate exclusively to the administration of health benefit plans. Coverage Policies are not recommendations for
+treatment and should never be used as treatment guidelines. In certain markets, delegated vendor guidelines may be used to support
+medical necessity and other coverage determinations.
+National Formulary Medical Necessity
+Drugs Affected
+• Celebrex® (celecoxib capsules)
+This program has been developed to encourage the use of two Step 1 Products (oral NSAIDs) prior to the use of
+the Step 2 Product (generic celecoxib). Approval for a Step 3 Product (brand Celebrex) may be authorized if the
+individual has tried two Step 1 Products (oral NSAIDs) and has tried the Step 2 Product (generic celecoxib). If
+the Step Therapy rule is not met for the requested Product at the point of service, coverage will be determined by
+the Step Therapy criteria below. All approvals are provided for the duration noted below.
+Step 1 (oral NSAIDs):
+• Cataflam
+• diclofenac potassium
+• diclofenac sodium (IR and ER)
+• diclofenac sodium and misoprostol
+Page 1 of 4
+Cigna National Formulary Coverage Policy: ST Cycloxygenase-2 Inhibitor – Celebrex
+• etodolac (IR and ER)
+• fenoprofen
+• flurbiprofen
+• ibuprofen
+• indomethacin (IR and ER)
+• ketoprofen IR 50 mg and 75 mg
+• ketorolac (tablets)
+• meclofenamate
+• mefenamic acid
+• meloxicam
+• nabumetone
+• naproxen**
+• oxaprozin
+• piroxicam
+• sulindac
+• tolmetin**
+**Some generic naproxen and tolmetin products are not Step 1 products
+Step 2: generic celecoxib capsules
+Step 3: brand Celebrex capsules
+Cigna covers Step 2 and Step 3 agents as medically necessary when the following criteria are met:
+1. Approve the Step 2 Product (generic celecoxib) for 1 year if the individual meets one of the following (A, B,
+C, D, or E):
+A) Individual has tried two Step 1 Products (oral NSAIDs), either as prescription products or as over-the-
+counter (OTC) products, at prescription-strength doses for the current condition; OR
+B) Individual is currently taking chronic systemic corticosteroid therapy (e.g., prednisone), warfarin,
+clopidogrel, prasugrel, Brilinta (ticagrelor tablets), Xarelto (rivaroxaban tablets and oral suspension),
+Pradaxa (dabigatran capsules), Eliquis (apixaban tablets), Savaysa (edoxaban tablets), chronic aspirin
+therapy, fondaparinux injection or a low molecular weight heparin product (i.e., enoxaparin injection,
+Fragmin [dalteparin injection]); OR
+C) Individual has reduced platelet counts or other coagulation disorders; OR
+D) Individual is > 75 years of age and is using celecoxib for a chronic condition; OR
+E) Individual has had a documented upper gastrointestinal bleed from a duodenal or gastric ulcer.
+2. Approve the Step 2 Product (generic celecoxib) for 30 days if the individual is using the product during the
+preoperative/perioperative/postoperative period.
+3. Approve the Step 3 Product (brand Celebrex) for 1 year if the individual meets the following (A and B):
+A) Individual meets one of the following (i, ii, iii, iv, or v):
+i. Individual has tried two Step 1 products (oral NSAIDs) either as prescription products or as over-the-
+counter (OTC) products at prescription-strength doses, for the current condition; OR
+ii. Individual is currently taking chronic systemic corticosteroid therapy (e.g., prednisone), warfarin,
+clopidogrel, prasugrel, Brilinta (ticagrelor tablets), Xarelto (rivaroxaban tablets and oral suspension),
+Pradaxa (dabigatran capsules), Eliquis (apixaban tablets), Savaysa (edoxaban tablets), chronic
+aspirin therapy, fondaparinux injection, or a low molecular weight heparin product (i.e., enoxaparin
+injection, Fragmin [dalteparin injection]); OR
+iii. Individual has reduced platelet counts or other coagulation disorders; OR
+iv. Individual is > 75 years of age and is using celecoxib for a chronic condition; OR
+v. Individual has had a documented upper gastrointestinal bleed from a duodenal or gastric ulcer; AND
+B) Individual has tried the Step 2 Product (generic celecoxib).
+Page 2 of 4
+Cigna National Formulary Coverage Policy: ST Cycloxygenase-2 Inhibitor – Celebrex
+4. Approve the Step 3 Product (brand Celebrex) for 30 days if the individual meets both of the following (A and
+B):
+A) Individual is using the product during the preoperative/perioperative/postoperative period.
+B) Individual has tried the Step 2 Product (generic celecoxib).
+Conditions Not Covered
+Any other exception is considered not medically necessary.
+Background
+Overview
+Celecoxib (Celebrex, generic) is a nonsteroidal anti-inflammatory drug (NSAID) indicated for the following uses:1
+• Osteoarthritis (OA);
+• Rheumatoid arthritis;
+• Juvenile rheumatoid arthritis in patients ≥ 2 years of age;
+• Ankylosing spondylitis;
+• Acute pain; and
+• Primary dysmenorrhea.
+Celecoxib works primarily by inhibiting prostaglandin synthesis by way of cyclooxygenase-2 (COX-2) and at
+therapeutic concentrations in humans, celecoxib does not inhibit the cyclooxygenase-1 (COX-1) isoenzyme.1
+Overall, it appears that celecoxib and NSAIDs have similar clinical efficacy at equipotent doses for the management
+of acute and chronic pain and other conditions associated with pain; however, individual responses to NSAIDs vary
+among patients for reasons that are not well understood.
+Guidelines/Consensus Statements
+American College of Rheumatology (ACR) OA guidelines (2019) do not address the relative merits of different
+NSAIDs.2 However, older ACR OA guidelines (2012) provide recommendations for use of a COX-2 inhibitor in
+certain settings (e.g., history of upper gastrointestinal [GI] bleed).3 OA Research Society International guidelines
+(2019) for non-surgical management of knee, hip, and polyarticular OA also comment on the role of COX-2
+inhibitors.4 In the setting of knee OA, COX-2 inhibitors and other NSAIDs are given equal support (Level 1B) for
+patients without comorbidities. For patients with GI comorbidities, COX-2 inhibitors are preferred (Level 1B) over
+nonselective NSAIDs + proton pump inhibitor (Level 2). Recommendations are overall similar for hip and
+polyarticular OA.
+Per the American Geriatrics Society updated Beers Criteria (2019), several nonselective NSAIDs are noted to
+increase the risk of GI bleeding or peptic ulcer disease in high-risk groups, including patients > 75 years of age
+or taking parenteral corticosteroids, anticoagulants, or antiplatelet agents.5 The quality of evidence is moderate
+and the strength of the recommendation is strong. The Beers Criteria also note that in patients with a history of
+gastric or duodenal ulcers, non-COX-2 selective NSAIDs should be avoided because it may exacerbate existing
+ulcers or cause new or additional ulcers.
+Surgery
+Guidelines on the management of postoperative pain from the American Pain Society (2016) recommend
+acetaminophen and/or NSAIDs as part of multimodal analgesia for management of postoperative pain in patients
+without contraindications.6 It is noted that GI risks are thought to be lower with celecoxib vs. nonselective
+NSAIDs. Celecoxib is also recommended preoperatively for patients who are undergoing major surgery;
+association with reduced opioid requirements is noted in the guideline. The evidence was considered insufficient
+to recommend a preoperative dose of nonselective NSAIDs.
+Page 3 of 4
+Cigna National Formulary Coverage Policy: ST Cycloxygenase-2 Inhibitor – Celebrex
+References
+1. Celebrex capsules [prescribing information]. New York, NY: Pfizer; April 2021.
+2. Kolasinski SL, Neogi T, Hochberg MC, et al. 2019 American College of Rheumatology/Arthritis Foundation
+guidelines for the management of osteoarthritis of the hand, hip, and knee. Arthritis Care Res (Hoboken).
+2020;72(2):149-162.
+3. Hochberg MC, Altman RD, Toupin K, et al. American College of Rheumatology 2012 recommendations for
+the use of nonpharmacologic and pharmacologic therapies in osteoarthritis of the hand, hip, and knee.
+Arthritis Care Res (Hoboken). 2012;64(4):465-474.
+4. Bannuru RR, Osani MC, Baysbrot EE, et al. OARSI guidelines for the non-surgical management of knee,
+hip, and polyarticular osteoarthritis. Osteoarthritis Cartilage. 2019;27(11):1578-1589.
+5. The American Geriatric Society 2019 Beers Criteria Update Expert Panel. American Geriatric Society 2019
+Updated Beers Criteria for potentially inappropriate medication use in older adults. J Am Geriatr Soc.
+2019;67:674-594.
+6. Chou R, Gordon DB, de Leon-Casasola OA, et al. Management of postoperative pain: a clinical practice
+guidelines from the American Pain Society, the American Society of Regional Anesthesia and Pain
+Medicine, and the American Society of Anesthesiologists’ Committee on Regional Anesthesia, Executive
+Committee, and Administrative Council. J Pain. 2016;17(2):131-157.
+Revision History
+Type of Summary of Changes Approval Date
+Revision
+Annual Step 1 Products: Cataflam and fenoprofen were added to the Step 1 Products. 09/07/2022
+Revision Criteria: The criterion regarding a patient currently taking Xarelto (rivaroxaban
+tablets) was updated to also include Xarelto oral suspension.
+“Cigna Companies” refers to operating subsidiaries of Cigna Corporation. All products and services are provided exclusively by or through
+such operating subsidiaries, including Cigna Health and Life Insurance Company, Connecticut General Life Insurance Company, Evernorth
+Behavioral Health, Inc., Cigna Health Management, Inc. and HMO or service company subsidiaries of Cigna Health Corporation. The Cigna
+name, logo, and other Cigna marks are owned by Cigna Intellectual Property, Inc. © 2023 Cigna.
+Page 4 of 4
+Cigna National Formulary Coverage Policy: ST Cycloxygenase-2 Inhibitor – Celebrex

@@ -1,0 +1,153 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1336-5
+Program Prior Authorization/Notification
+Medication Gavreto® (pralsetinib)
+P&T Approval Date 11/2020, 11/2021, 11/2022, 11/2023, 11/2024
+Effective Date 2/15/2025
+1. Background:
+Gavreto (pralsetinib) is a kinase inhibitor indicated for the treatment of adult patients with
+metastatic rearranged during transfection (RET) fusion-positive non-small cell lung cancer
+(NSCLC).
+Gavreto is also indicated for adult and pediatric patients 12 years of age and older with advanced or
+metastatic RET fusion-positive thyroid cancer who require systemic therapy and who are
+radioactive iodine-refractory (if radioactive iodine is appropriate). This indication is approved
+under accelerated approval based on overall response rate and duration of response. Continued
+approval for this indication may be contingent upon verification and description of clinical benefit
+in confirmatory trial(s). The National Cancer Comprehensive Network (NCCN) also recommends
+use of Gavreto in hepatobiliary cancers that is RET gene fusion positive.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of 19
+years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or under
+some circumstances. Some states also mandate usage of other Compendium references. Where such
+mandates apply, they supersede language in the benefit document or in the notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Gavreto will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Non-Small Cell Lung Cancer (NSCLC)
+1. Initial Authorization
+a. Gavreto will be approved based on all of the following criteria:
+(1) Diagnosis of non-small cell lung cancer (NSCLC)
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+1
+(2) Disease is one of the following:
+(a) Recurrent
+(b) Advanced
+(c) Metastatic
+-AND-
+(3) Presence of RET rearrangement positive tumors
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Gavreto will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Gavreto therapy
+Authorization will be issued for 12 months.
+B. Thyroid Carcinoma
+1. Initial Authorization
+a. Gavreto will be approved based on one of the following criteria:
+(1) All of the following:
+(a) Diagnosis of one of the following:
+i. Follicular carcinoma
+ii. Oncocytic carcinoma
+iii. Papillary carcinoma
+-AND-
+(b) One of the following:
+i. Unresectable locoregional recurrent disease
+ii. Persistent disease
+iii. Metastatic disease
+-AND-
+(c) Disease is RET gene-fusion positive
+-AND-
+(d) Disease is not amenable to radioactive iodine therapy
+© 2024 UnitedHealthcare Services, Inc.
+2
+-OR-
+(2) All of the following:
+(a) Diagnosis of medullary carcinoma
+-AND-
+(b) One of the following:
+i. Disease is recurrent, persistent, or progressive
+ii. Disease is symptomatic with distant metastases
+-AND-
+(c) Disease is RET-mutation positive
+-OR-
+(3) All of the following:
+(a) Diagnosis of anaplastic carcinoma
+-AND-
+(b) One of the following:
+i. Disease is stage IVA or IVB (locoregional)
+ii. Disease is metastatic
+-AND-
+(c) Disease is RET gene fusion positive
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Gavreto will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Gavreto therapy
+Authorization will be issued for 12 months.
+C. Hepatobiliary Cancers
+1. Initial Authorization
+a. Gavreto will be approved based on both of the following criteria:
+© 2024 UnitedHealthcare Services, Inc.
+3
+(1) One of the following:
+(a) Both of the following:
+i. Diagnosis of gallbladder cancer
+-AND-
+ii. Disease is one of the following
+• Unresectable
+• Resected gross residual (R2)
+• Metastatic
+-OR-
+(b) Both of the following:
+i. Diagnosis of cholangiocarcinoma
+-AND-
+ii. Disease is one of the following
+• Unresectable
+• Resected gross residual (R2)
+• Metastatic
+• Resectable locoregionally advanced
+-AND-
+(2) Disease is positive for RET gene fusion mutation
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Gavreto will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Gavreto therapy
+Authorization will be issued for 12 months.
+D. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+4
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Gavreto [package insert]. South San Francisco, CA: Blueprint Medicines Corporation, March
+2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+www.nccn.org. Accessed September 29, 2024.
+Program Prior Authorization/Notification – Gavreto® (pralsetinib)
+Change Control
+11/2020 New program.
+11/2021 Annual review. Added criteria for thyroid carcinoma according to label
+and NCCN compendium. Updated background and references.
+11/2022 Annual review. Updated coverage criteria to include hepatobiliary
+cancers per NCCN compendium. Added state mandate and updated
+references.
+11/2023 Annual review. Updated NSCLC criteria based on FDA label. Updated
+hepatobiliary cancer criteria per NCCN compendium. Updated name of
+oncocytic carcinoma per NCCN nomenclature. Updated references.
+11/2024 Annual review. Updated criteria for hepatobiliary cancers based on
+NCCN guideline. Updated reference.
+© 2024 UnitedHealthcare Services, Inc.
+5

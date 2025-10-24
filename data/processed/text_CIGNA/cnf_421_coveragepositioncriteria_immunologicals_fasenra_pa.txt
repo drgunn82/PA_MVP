@@ -1,0 +1,375 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Immunologicals – Fasenra Prior Authorization Policy
+• Fasenra® (benralizumab subcutaneous injection – AstraZeneca)
+REVIEW DATE: 04/09/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Fasenra, an interleukin-5 receptor alpha (IL-5Rα)-directed cytolytic monoclonal
+antibody, is indicated for the following uses:1
+• Asthma as add-on maintenance treatment of patients ≥ 6 years of age with
+severe disease and an eosinophilic phenotype. Limitations of Use: Fasenra is
+not indicated for the treatment of other eosinophilic conditions or for the relief
+of acute bronchospasm/status asthmaticus.
+• Eosinophilic granulomatosis with polyangiitis (EGPA) in adults.
+Clinical Efficacy
+Asthma
+In two pivotal asthma studies, the addition of Fasenra to existing therapy significantly
+reduced annualized asthma exacerbation rates in patients with baseline blood
+eosinophil levels ≥ 300 cells/microliter.2-4 The magnitude of the improvements
+observed with Fasenra in this patient population were larger than those observed in
+Page 1 of 8 - Cigna National Formulary Coverage - Policy:Immunologicals – Fasenra Prior Authorization Policy
+patients with lower baseline eosinophil levels (e.g., < 150 cells/microliter). Another
+pivotal study involved adults with severe asthma receiving high-dose inhaled
+corticosteroid (ICS)/long-acting beta -agonist (LABA) and chronic oral corticosteroid
+2
+therapy who had a baseline blood eosinophil level ≥ 150 cells/microliter.4
+Eosinophilic Granulomatosis with Polyangiitis
+One study evaluated the efficacy of Fasenra in patients ≥ 18 years of age with
+relapsing or refractory EGPA who had received ≥ 4 weeks of a stable oral
+corticosteroid dose (i.e., prednisolone, prednisone, methylprednisolone, or
+hydrocortisone).13 The primary endpoint was the proportion of patients in remission
+at both Week 36 and Week 48.
+Guidelines
+The Global Initiative for Asthma Global Strategy for Asthma Management and
+Prevention (2024) proposes a step-wise approach to asthma treatment.5 Fasenra is
+listed as an option for add-on therapy in patients ≥ 12 years of age with severe
+eosinophilic asthma. Severe asthma is defined as asthma that is uncontrolled despite
+adherence to optimized high-dose ICS/LABA therapy or that worsens when high-dose
+treatment is decreased. Of note, guidelines have not been updated since the lower
+age indication of Fasenra was FDA-approved. Higher blood eosinophil levels, higher
+number of severe exacerbations in the previous year, adult-onset asthma, nasal
+polyps, maintenance oral corticosteroid requirements, and low lung function may
+predict a good asthma response to Fasenra.
+According to the European Respiratory Society/American Thoracic Society
+guidelines (2014; updated in 2020), severe asthma is defined as asthma which
+requires treatment with a high-dose ICS in addition to a second controller
+medication (and/or systemic corticosteroids) to prevent it from becoming
+uncontrolled, or asthma which remains uncontrolled despite this therapy.6,7
+Uncontrolled asthma is defined as asthma that worsens upon tapering of high-dose
+ICS or systemic corticosteroids or asthma that meets one of the following four
+criteria:
+1) Poor symptom control: Asthma Control Questionnaire consistently ≥ 1.5 or
+Asthma Control Test < 20;
+2) Frequent severe exacerbations: two or more bursts of systemic corticosteroids
+in the previous year;
+3) Serious exacerbations: at least one hospitalization, intensive care unit stay, or
+mechanical ventilation in the previous year;
+4) Airflow limitation: forced expiratory volume in 1 second (FEV ) < 80%
+1
+predicted after appropriate bronchodilator withholding.
+Eosinophilic Granulomatosis with Polyangiitis Guidelines
+The American College of Rheumatology (ACR)/Vasculitis Foundation Guideline for the
+Management of Antineutrophil Cytoplasmic Antibody-Associated (ANCA) Vasculitis
+(2021) includes recommendations regarding the management of EGPA.14 Fasenra is
+not addressed. However, for patients with active, non-severe EGPA, combination
+therapy with an anti-IL-5 agent and a corticosteroid is recommended over other
+Page 2 of 8 - Cigna National Formulary Coverage - Policy:Immunologicals – Fasenra Prior Authorization Policy
+traditional treatments such as methotrexate, azathioprine, or mycophenolate mofetil
+in the setting of remission induction. Non-severe EGPA is defined as vasculitis in the
+absence of life- or organ-threatening manifestations. In general, the clinical profile
+includes rhinosinusitis, asthma, mild systemic symptoms, uncomplicated cutaneous
+disease, and mild inflammatory arthritis. An anti-IL-5 agent, in combination with
+corticosteroids, is also a recommended therapy for patients who have relapsed and
+are experiencing non-severe disease manifestations (i.e., asthma and/or sinonasal
+disease) while receiving either low-dose corticosteroids alone, methotrexate,
+azathioprine, or mycophenolate mofetil. For patients with severe EGPA,
+cyclophosphamide or rituximab is preferred over an anti-IL-5 agents for remission
+induction. The European Alliance of Associations for Rheumatology (EULAR)
+recommendations for the management of ANCA-associated vasculitis (2022) also do
+not yet address Fasenra.15 However, similar to the ACR guidelines, EULAR
+recommends an anti-IL-5 agent for induction of remission in patients with relapsing
+or refractory EGPA without active organ- or life-threatening disease. It is also
+recommended for maintenance of remission in these patients. Additionally, it is also
+among the many recommended treatment options for the maintenance of remission
+of EGPA after induction of remission for organ-threatening or life-threatening disease.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Fasenra. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Fasenra as well as the
+monitoring required for adverse events and long-term efficacy, initial approval
+requires Fasenra to be prescribed by or in consultation with a physician who specializes
+in the condition being treated.
+• Fasenra® (benralizumab subcutaneous injection – AstraZeneca)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Asthma. Approve Fasenra for the duration noted if the patient meets ONE of the
+following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, iii, iv, and v):
+i. Patient is ≥ 6 years of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has a blood eosinophil level ≥ 150 cells per microliter within the
+previous 6 weeks; OR
+b) Patient had a blood eosinophil level ≥ 150 cells per microliter prior to
+treatment with Fasenra or another monoclonal antibody therapy that
+may alter blood eosinophil levels; AND
+Page 3 of 8 - Cigna National Formulary Coverage - Policy:Immunologicals – Fasenra Prior Authorization Policy
+Note: Examples of monoclonal antibody therapies that may alter blood
+eosinophil levels include Fasenra, Adbry (tralokinumab-ldrm
+subcutaneous injection), Cinqair (reslizumab intravenous infusion),
+Dupixent (dupilumab subcutaneous injection), Ebglyss (lebrikizumab-
+lbkz subcutaneous injection), Nemluvio (nemolizumab-ilto
+subcutaneous injection), Nucala (mepolizumab subcutaneous injection),
+Tezspire (tezepelumab-ekko subcutaneous injection), and Xolair
+(omalizumab subcutaneous injection).
+iii. Patient has received at least 3 consecutive months of combination therapy
+with BOTH of the following (a and b):
+a) An inhaled corticosteroid; AND
+b) At least one additional asthma controller or asthma maintenance
+medication; AND
+Note: Examples of additional asthma controller or asthma maintenance
+medications are inhaled long-acting beta -agonists, inhaled long-acting
+2
+muscarinic antagonists, and monoclonal antibody therapies for asthma
+(e.g., Cinqair, Dupixent, Fasenra, Nucala, Tezspire, Xolair). Use of a
+combination inhaler containing both an inhaled corticosteroid and
+additional asthma controller/maintenance medication(s) would fulfill the
+requirement for both criteria a and b.
+iv. Patient has asthma that is uncontrolled or was uncontrolled at baseline as
+defined by ONE of the following (a, b, c, d, or e):
+Note: “Baseline” is defined as prior to receiving Fasenra or another
+monoclonal antibody therapy for asthma. Examples of monoclonal antibody
+therapies for asthma include Fasenra, Cinqair, Dupixent, Nucala, Tezspire,
+and Xolair.
+a) Patient experienced two or more asthma exacerbations requiring
+treatment with systemic corticosteroids in the previous year; OR
+b) Patient experienced one or more asthma exacerbation(s) requiring a
+hospitalization, an emergency department visit, or an urgent care visit
+in the previous year; OR
+c) Patient has a forced expiratory volume in 1 second (FEV ) < 80%
+1
+predicted; OR
+d) Patient has an FEV /forced vital capacity (FVC) < 0.80; OR
+1
+e) Patient has asthma that worsens upon tapering of oral (systemic)
+corticosteroid therapy; AND
+v. The medication is prescribed by or in consultation with an allergist,
+immunologist, or pulmonologist; OR
+B) Patient is Currently Receiving Fasenra. Approve for 1 year if the patient meets
+ALL of the following (i, ii, and iii):
+i. Patient has already received at least 6 months of therapy with Fasenra;
+AND
+Note: A patient who has received < 6 months of therapy or who is restarting
+therapy with Fasenra should be considered under criterion 1A (Asthma,
+Initial Therapy).
+ii. Patient continues to receive therapy with one inhaled corticosteroid or one
+inhaled corticosteroid-containing combination inhaler; AND
+Page 4 of 8 - Cigna National Formulary Coverage - Policy:Immunologicals – Fasenra Prior Authorization Policy
+iii. Patient has responded to therapy as determined by the prescriber.
+Note: Examples of a response to Fasenra therapy are decreased asthma
+exacerbations; decreased asthma symptoms; decreased hospitalizations,
+emergency department, urgent care, or medical clinic visits due to asthma;
+and decreased requirement for oral corticosteroid therapy.
+2. Eosinophilic Granulomatosis with Polyangiitis (EGPA) [formerly known as
+Churg-Strauss Syndrome]. Approve Fasenra for the duration noted if the
+patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 9 months if the patient meets ALL of the following
+(i, ii, iii, and iv):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has active, non-severe disease; AND
+Note: Non-severe disease is defined as vasculitis without life- or organ-
+threatening manifestations. Examples of symptoms in patients with non-
+severe disease include rhinosinusitis, asthma, mild systemic symptoms,
+uncomplicated cutaneous disease, mild inflammatory arthritis.
+iii. Patient meets BOTH of the following (a and b):
+a) Patient is currently receiving a systemic corticosteroid (e.g.,
+prednisone) and has been on therapy for a minimum of 4 weeks;
+AND
+b) Patient meets ONE of the following [(1) or (2)]:
+(1) Patient has a blood eosinophil level ≥ 150 cells per microliter
+within the previous 4 weeks; OR
+(2) Patient had a blood eosinophil level ≥ 150 cells per microliter prior
+to treatment with Fasenra or another monoclonal antibody therapy
+that may alter blood eosinophil levels; AND
+Note: Examples of monoclonal antibody therapies that may alter
+blood eosinophil levels include Fasenra, Adbry (tralokinumab-ldrm
+subcutaneous injection), Cinqair (reslizumab intravenous infusion),
+Dupixent (dupilumab subcutaneous injection), Ebglyss
+(lebrikizumab-lbkz subcutaneous injection), Nemluvio
+(nemolizumab-ilto subcutaneous injection), Nucala (mepolizumab
+subcutaneous injection), Tezspire (tezepelumab-ekko subcutaneous
+injection), and Xolair (omalizumab subcutaneous injection).
+iv. The medication is prescribed by or in consultation with an allergist,
+immunologist, pulmonologist, or rheumatologist; OR
+B) Patient is Currently Receiving Fasenra. Approve for 1 year if the patient meets
+BOTH of the following (i and ii):
+i. Patient has already received at least 9 months of therapy with Fasenra;
+AND
+Note: A patient who has received < 9 months of therapy or who is restarting
+therapy with Fasenra should be considered under criterion 2A (Eosinophilic
+Granulomatosis with Polyangiitis, Initial Therapy).
+ii. Patient has responded to therapy as determined by the prescriber.
+Note: Examples of a response to Fasenra therapy are reduced rate of
+relapse, corticosteroid dose reduction, and reduced eosinophil levels.
+Page 5 of 8 - Cigna National Formulary Coverage - Policy:Immunologicals – Fasenra Prior Authorization Policy
+CONDITIONS NOT COVERED
+• Fasenra® (benralizumab subcutaneous injection – AstraZeneca)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Chronic Obstructive Pulmonary Disease (COPD). Fasenra is not indicated for
+the treatment of COPD.1 One double-blind, placebo-controlled, Phase IIa study
+(n = 101) evaluated the efficacy and safety of Fasenra in patients 40 to 80 years
+of age with eosinophilia and moderate to severe COPD.8 The annualized rate of
+acute COPD exacerbations was not reduced with Fasenra compared with placebo.
+Lung function was also not significantly improved with Fasenra vs. placebo.
+Numerically greater (although non-significant) improvements in exacerbations
+and lung function were observed with Fasenra vs. placebo in patients with baseline
+blood eosinophil levels of 200 cells/microliter or more. Two double-blind, placebo-
+controlled, Phase III studies (GALATHEA and TERRANOVA) also evaluated Fasenra
+in patients with moderate to very severe COPD (n = 1,120 and n = 1,545 patients,
+respectively, with eosinophils ≥ 220 cells/mm3).9 Following, 56 weeks of therapy,
+the annualized COPD exacerbation rates were not statistically significantly
+reduced with Fasenra vs. placebo in either study. Current COPD guidelines from
+the Global Initiative for Chronic Lung Disease (2025) note the inconsistent data
+with Fasenra and state that further studies are needed.10
+2. Chronic Spontaneous Urticaria. Fasenra is not indicated for the treatment of
+chronic spontaneous urticaria.1 One double-blind, placebo-controlled, Phase IIb
+study (ARROYO) [n = 155] evaluated the efficacy and safety of several doses of
+Fasenra in adults with chronic spontaneous urticaria who were currently receiving
+H1 antihistamine treatment.17 Despite near-complete depletion of blood
+eosinophils, at Week 12, there were no significant differences in the change from
+baseline in the Itch Severity Score 7 or the Urticaria Activity Score 7 between any
+of the Fasenra doses and placebo. There were also no differences between
+Fasenra and placebo for any of the secondary endpoints evaluated.
+3. Concurrent use of Fasenra with another Monoclonal Antibody Therapy.
+The efficacy and safety of Fasenra used in combination with other monoclonal
+antibody therapies have not been established.
+Note: Monoclonal antibody therapies are Adbry® (tralokinumab-ldrm
+subcutaneous injection), Cinqair® (reslizumab intravenous infusion), Dupixent®
+(dupilumab subcutaneous injection), Ebglyss® (lebrikizumab-lbkz subcutaneous
+injection), Nemluvio® (nemolizumab-ilto subcutaneous injection), Nucala®
+(mepolizumab subcutaneous injection), Tezspire® (tezepelumab-ekko
+subcutaneous injection), or Xolair® (omalizumab subcutaneous injection).
+Page 6 of 8 - Cigna National Formulary Coverage - Policy:Immunologicals – Fasenra Prior Authorization Policy
+4. Hypereosinophilic Syndrome. Fasenra is not indicated for the treatment of
+eosinophilic conditions other than asthma.1 A small, randomized, double-blind,
+placebo-controlled, Phase II trial (n = 20) evaluated the efficacy of Fasenra in
+patients who had platelet-derived growth factor receptor alpha (PDGFRA)-
+negative hypereosinophilic syndrome with an absolute eosinophil count of 1,000
+cells/mm3.11 At Week 12, 90% of patients receiving Fasenra (n = 9/10) vs. 30%
+of patients receiving placebo (n = 3/10) achieved a 50% or greater reduction in
+the absolute eosinophil count (P = 0.02). Following the randomized phase, all
+patients received open-label Fasenra 30 mg every 4 weeks. During this time, 74%
+of patients (n = 14/19) had sustained clinical and hematologic responses for 48
+weeks. Of these responders, 10 patients were followed for at least 8 years
+(maximum exposure 10.1 years).16 During this time, Fasenra continued to
+suppress eosinophil counts in all patients. The World Health Organization (WHO)
+and international consensus classification of eosinophilic disorders update on
+diagnosis, risk stratification, and management (2024) acknowledges that Fasenra
+has been studied in patients with hypereosinophilic syndrome.12 At this time, the
+WHO notes that Fasenra remains investigational. Available data with Fasenra is
+discussed, but this therapy continues to be considered investigational. A Phase
+III study of Fasenra in patients with hypereosinophilic syndrome is currently
+underway, with primary completion anticipated in May 2025.
+REFERENCES
+1. Fasenra® subcutaneous injection [prescribing information]. Wilmington, DE: AstraZeneca;
+September 2024.
+2. Bleecker ER, Fitzgerald JM, Chanez P, et al. Efficacy and safety of Fasenra for patients with severe
+asthma uncontrolled with high-dosage inhaled corticosteroids and long-acting β2-agonists
+(SIROCCO): a randomised, multicentre, placebo-controlled phase 3 trial. Lancet. 2016;388:2115-
+2127.
+3. Fitzgerald JM, Bleecker ER, Nair P, et al. Benralizumab, an anti-interleukin-5 receptor α monoclonal
+antibody, as add-on treatment for patients with severe, uncontrolled, eosinophilic asthma (CALIMA):
+a randomized, double-blind, placebo-controlled phase 3 trial. Lancet. 2016;388:2128-2141.
+4. Nair P, Wenzel S, Rabe KF, et al. Oral glucocorticoid-sparing effect of benralizumab in severe
+asthma. N Engl J Med. 2017;376(25):2448-2458.
+5. Global Initiative for Asthma. Global strategy for asthma management and prevention. Updated
+2024. Available at: http://www.ginasthma.org. Accessed on: April 3, 2025.
+6. Chung KF, Wenzel SE, Brozek JL, et al. International ERS/ATS guidelines on definition, evaluation
+and treatment of severe asthma. Eur Respir J. 2014;43:343-373.
+7. Holguin F, Cardet JC, Chung KF, et al. Management of severe asthma: a European Respiratory
+Society/American Thoracic Society Guideline. Eur Respir J. 2020;55:1900588.
+8. Brightling CE, Bleecker ER, Panettieri RA, et al. Benralizumab for chronic obstructive pulmonary
+disease and sputum eosinophilia: a randomized, double-blind, placebo-controlled, phase 2a study.
+Lancet Respir Med. 2014;2(11):891-901.
+9. Criner GJ, Celli BR, Brightling CE, et al. Benralizumab for the prevention of COPD exacerbations. N
+Engl J Med. 2019;381(11):1023-1034.
+10. Global Initiative for Chronic Obstructive Lung Disease. Global strategy for the diagnosis,
+management, and prevention of chronic obstructive pulmonary disease: 2025 report. Global
+Initiative for Chronic Obstructive Lung Disease, Inc. Available from: http://goldcoopd.org/.
+Accessed on April 3, 2025.
+11. Kuang FL, Legrand F, Mikiya M, et al. Benralizumab for PDGFRA-negative hypereosinophilic
+syndrome. N Engl J Med. 2019;380(14):1336-1346.
+Page 7 of 8 - Cigna National Formulary Coverage - Policy:Immunologicals – Fasenra Prior Authorization Policy
+12. Shomali W, Gotlib J. World Health Organization and international consensus classification of
+eosinophilic disorders: 2024 update on diagnosis, risk stratification, and management. Am J
+Hematol. 2024;99(5):946-968.
+13. Wechsler ME, Nair P, Terrier B, et al. Benralizumab versus mepolizumab for eosinophilic
+granulomatosis with polyangiitis. New Engl J Med. 2024;390(10):911-921.
+14. Chung SA, Langford CA, Maz M, et al. 2021 American College of Rheumatology/Vasculitis
+Foundation guideline for the management of antineutrophil cytoplasmic antibody-associated
+vasculitis. Arthritis Rheumatol. 2021;73(8):1088-1105).
+15. Hellmich B, Sanchez-Alamo B, Schirmer JH, et al. EULAR recommendations for the management of
+ANCA-associated vasculitis: 2022 update. Ann Rheum Dis. 2024;83(1):30-47.
+16. Kuang FL, Makiya MA, Ware JM, et al. Long-term efficacy and safety of benralizumab treatment for
+PDGFRA-negative hypereosinophilic syndrome. J Allergy Clin Immunol Pract. 2025 Mar 20. [Online
+ahead of print].
+17. Altrichter S, Gimenez-Arnau AM, Bernstein JA, et al. Benralizumab does not elicit therapeutic effect
+in patients with chronic spontaneous urticaria: results from the phase IIb multinational randomized
+double-blind placebo-controlled ARROYO study. Br J Dermatol. 2024;191(2):187-199.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Annual Conditions Not Covered 03/22/2023
+Revision : Criteria were updated to clarify that use of Fasenra with
+another monoclonal antibody therapy is specific to Cinqair,
+Nucala, Dupixent, Tezspire, Xolair, and Adbry.
+Annual Asthma: The age of approval was reduced from ≥ 12 years of 04/19/2024
+Revision age to ≥ 6 years of age. Removed leukotriene receptor
+antagonists as an example of additional asthma controller or
+asthma maintenance medications.
+Selected Asthma: Eosinophil level requirements were clarified to require 10/02/2024
+Revision a level ≥ 150 cells/microliter either within the previous 6 weeks
+OR prior to treatment with a monoclonal antibody that may alter
+eosinophil levels. Previously, criteria required a level ≥ 150
+cells/microliter either within the previous 6 weeks OR within 6
+weeks prior to treatment with a monoclonal antibody that may
+lower eosinophil levels.
+Eosinophilic Granulomatosis with Polyangiitis: New
+approval criteria were added. Initial approval criteria include an
+age requirement, a requirement that the patient’s disease be
+active and non-severe, a trial of a systemic corticosteroid, an
+eosinophil level requirement, and specialist involvement.
+Throughout the policy, Ebglyss (lebrikizumab-lbkz subcutaneous
+injection) and Nemluvio (nemolizumab-ilto subcutaneous
+injection) were added to notes as examples of monoclonal
+antibody therapies.
+Annual Conditions Not Covered 04/09/2025
+Revision : Chronic spontaneous urticaria was added as a Condition Not
+Recommended for Approval.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 8 of 8 - Cigna National Formulary Coverage - Policy:Immunologicals – Fasenra Prior Authorization Policy

@@ -1,0 +1,174 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Name 2025 P 2046-14
+Program Prior Authorization/Medical Necessity
+Medications Esbriet® (pirfenidone)* and Ofev® (nintedanib)
+P&T Approval Date 11/2014, 11/2015, 9/2016, 9/2017, 9/2018, 9/2019, 10/2019, 4/2020,
+4/2021, 4/2022, 3/2023, 3/2024, 5/2024, 5/2025
+Effective Date 8/1/2025
+1. Background:
+Esbriet (pirfenidone) is a pyridone and Ofev (nintedanib) is a kinase inhibitor that are indicated
+for the treatment of idiopathic pulmonary fibrosis (IPF). Ofev is also indicated for slowing the
+rate of decline in pulmonary function in patients with systemic sclerosis-associated interstitial
+lung disease (SSc-ILD) and for the treatment of chronic fibrosing interstitial lung diseases
+(ILDs) with a progressive phenotype.
+Members will be required to meet the coverage criteria below.
+2. Coverage Criteriaa:
+A. Idiopathic pulmonary fibrosis
+1. Initial Authorization
+a. Esbriet* and Ofev will be approved based on all of the following criteria:
+(1) Diagnosis of idiopathic pulmonary fibrosis (IPF) as documented by all of the
+following criteria:
+(a) Exclusion of other known causes of interstitial lung disease (e.g., domestic
+and occupational environmental exposures, connective tissue disease, and
+drug toxicity), as documented by the following:
+i. ICD-10 Code J84.112 (Idiopathic pulmonary fibrosis)
+-AND-
+(b) One of the following:
+i. In patients not subjected to surgical lung biopsy, the presence of a usual
+interstitial pneumonia (UIP) pattern on high-resolution computed
+tomography (HRCT) revealing IPF or probable IPF5
+-OR-
+ii. In patients subjected to a lung biopsy, both HRCT and surgical lung
+biopsy pattern reveal IPF or probable IPF5
+© 2025 UnitedHealthcare Services, Inc.
+1
+-AND-
+(2) One of the following:
+(a) If request is for Esbriet, Esbriet is not being used in combination with Ofev.
+(b) If request is for Ofev, Ofev is not being used in combination with Esbriet.
+-AND-
+(3) The prescriber is a pulmonologist.
+Authorization will be issued for 12 months
+2. Reauthorization
+a. Esbriet will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Esbriet therapy.
+-AND-
+(2) Esbriet is not being used in combination with Ofev.
+b. Ofev will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Ofev therapy.
+-AND-
+(2) Ofev is not being used in combination with Esbriet.
+Authorization will be issued for 12 months
+B. Systemic sclerosis-associated interstitial lung disease (Ofev only)
+1. Initial Authorization
+a. Ofev will be approved based on all of the following criteria:
+(1) Diagnosis of systemic sclerosis-associated interstitial lung disease (SSc-ILD) as
+documented by all of the following criteria:11
+(a) One of the following:
+i. Skin thickening of the fingers of both hands extending proximal to the
+metacarpophalangeal joints
+-OR-
+© 2025 UnitedHealthcare Services, Inc.
+2
+ii. At least two of the following:
+• Skin thickening of the fingers (e.g., puffy fingers, sclerodactyly of
+the fingers)
+• Fingertip lesions (e.g., digital tip ulcers, fingertip pitting scars)
+• Telangiectasia
+• Abnormal nailfold capillaries
+• Pulmonary arterial hypertension
+• Raynaud’s phenomenon
+• SSc-related autoantibodies (e.g., anticentromere, anti-topoisomerase
+I, anti-RNA polymerase III)
+-AND-
+(b) Presence of interstitial lung disease as determined by finding evidence of
+pulmonary fibrosis on HRCT, involving at least 10% of the lungs
+-AND-
+(2) Ofev is not being used in combination with Esbriet.
+-AND-
+(3) The prescriber is a pulmonologist.
+Authorization will be issued for 12 months
+2. Reauthorization
+a. Ofev will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Ofev therapy.
+-AND-
+(2) Ofev is not being used in combination with Esbriet.
+Authorization will be issued for 12 months
+C. Chronic fibrosing interstitial lung disease with a progressive phenotype (Ofev only)
+1. Initial Authorization
+a. Ofev will be approved based on all of the following criteria:
+(1) Diagnosis of chronic fibrosing interstitial lung disease (ILD) with a progressive
+phenotype as documented by both of the following criteria:
+(a) Presence of fibrotic ILD as determined by finding evidence of pulmonary
+© 2025 UnitedHealthcare Services, Inc.
+3
+fibrosis on HRCT, involving at least 10% of the lungs
+-AND-
+(b) Patient is presenting with clinical signs of progression as defined by one of
+the following in the previous 24 months:
+i. Forced vital capacity (FVC) decline of greater than 10%
+-OR-
+ii. Two of the following:
+1. FVC decline of greater than or equal to 5%, but less than 10%
+2. Patient is experiencing worsening respiratory symptoms
+3. Patient is exhibiting increasing extent of fibrotic changes on chest
+imaging
+-AND-
+(2) Ofev is not being used in combination with Esbriet
+-AND-
+(3) The prescriber is a pulmonologist
+Authorization will be issued for 12 months
+2. Reauthorization
+a. Ofev will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Ofev therapy
+-AND-
+(2) Ofev is not being used in combination with Esbriet
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+*Brand Esbriet is typically excluded from coverage. Tried/Failed criteria may be in place. Please
+refer to plan specifics to determine exclusion status.
+© 2025 UnitedHealthcare Services, Inc.
+4
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Esbriet [Prescribing Information]. Genentech USA, Inc. South San Francisco, CA. February
+2023.
+2. King TE, Bradford WZ, Castro-Benardini S, et al. A phase 3 trial of pirfenidone in patients
+with idiopathic pulmonary fibrosis. N Engl J Med. 2014;370:2083-92.
+3. Noble PW, Albera C, Bradford WZ, et al. Pirfenidone in patients with idiopathic pulmonary
+fibrosis (CAPACITY): two randomized trials. Lancet. 2011;377:1760-69.
+4. Ofev® [Prescribing Information]. Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield,
+CT. October 2024.
+5. Richeldi L, du Boise RM, Raghu G, et al. Efficacy and safety of nintedanib in idiopathic
+pulmonary fibrosis. N Engl J Med. 2014 May 29;370(22):2071-82.
+6. Richeldi L, Cottin V, Flaherty KR, et al. Design of the INPULSIS trials: two phase 3 trials of
+nintedanib in patients with idiopathic pulmonary fibrosis. Resp Med. 2014;108:1023-1030.
+7. Raghu G, Remy-Jardin M, Richeldi L, et al. Idiopathic Pulmonary Fibrosis (an Update) and
+Progressive Pulmonary Fibrosis in Adults: An Official ATS/ERS/JRS/ALAT Clinical
+Practice Guideline. Am J Respir Crit Care Med. 2022;205(9):e18-e47.
+doi:10.1164/rccm.202202-0399ST
+Program Prior Authorization/Medical Necessity - Esbriet® (pirfenidone) and
+Ofev® (nintedanib)
+Change Control
+11/2014 New Program
+11/2015 Annual Review. Updated background info. Administrative changes.
+9/2016 Annual Review. Removed ICD-9 codes. Updated background and
+references.
+9/2017 Annual Review. Updated background and references.
+9/2018 Annual Review. No change in coverage criteria. Updated references.
+9/2019 Annual Review. No change in coverage criteria. Updated references.
+10/2019 Added coverage criteria for systemic sclerosis for Ofev. Updated
+references.
+4/2020 Updated background and added Ofev coverage criteria for chronic
+fibrosing interstitial lung diseases with a progressive phenotype.
+Updated references.
+4/2021 Annual Review. No change in coverage criteria. Updated references.
+4/2022 Annual Review. No change in coverage criteria. Updated references.
+3/2023 Annual Review. Reformatted criteria for Esbriet and Ofev for
+© 2025 UnitedHealthcare Services, Inc.
+5
+Idiopathic Pulmonary Fibrosis. Added exclusion footnote for Brand
+Esbriet and updated references.
+3/2024 Annual review. No change in coverage criteria. Updated references.
+5/2024 Removed prescriber requirement from reauthorization criteria.
+5/2025 Annual review. No changes to coverage criteria.
+© 2025 UnitedHealthcare Services, Inc.
+6

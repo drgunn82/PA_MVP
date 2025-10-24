@@ -1,0 +1,69 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2370-1
+Program Prior Authorization/Medical Necessity
+Medication Vanrafia™ (atrasentan)
+P&T Approval Date 6/2025
+Effective Date 9/1/2025
+1. Background:
+Vanrafia (atrasentan) is indicated to reduce proteinuria in adults with primary immunoglobulin A
+nephropathy (IgAN) at risk of rapid disease progression, generally a urine protein-to-creatinine ratio
+(UPCR) ≥ 1.5 g/g.
+This indication is approved under accelerated approval based on a reduction of proteinuria. It has not
+been established whether Vanrafia slows kidney function decline in patients with IgAN. Continued
+approval for this indication may be contingent upon verification and description of clinical benefit in
+a confirmatory clinical trial.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Vanrafia will be approved based on all of the following:
+a. Diagnosis of primary immunoglobulin A nephropathy (IgAN) confirmed by renal biopsy
+-AND-
+b. Patient is at risk of disease progression
+-AND-
+c. Used to slow kidney function decline
+-AND-
+d. Used to reduce proteinuria
+-AND-
+e. Estimated glomerular filtration rate (eGFR) ≥ 30 mL/min/1.73 m2
+-AND-
+f. Both of the following:
+© 2025 UnitedHealthcare Services Inc.
+1
+1) Patient is on a maximized stable dose with one of the following prior to initiating
+therapy:
+a) maximally tolerated angiotensin converting enzyme (ACE) inhibitor (e.g.,
+captopril, enalapril)
+b) maximally tolerated angiotensin II receptor blocker (ARB) (e.g., candesartan,
+valsartan)
+-AND-
+2) Use of endothelin receptor antagonists [(ERAs) e.g., Letairis, Opsumit, Tracleer)]
+will be discontinued prior to initiating treatment
+-AND-
+g. History of failure, contraindication or intolerance to a 30-day trial of a glucocorticoid
+(e.g., methylprednisolone, prednisone)
+-AND-
+h. Prescribed by or in consultation with a nephrologist
+Authorization will be issued for 12 months
+B. Reauthorization
+1. Vanrafia will be approved based on the following:
+a. Documentation of positive clinical response demonstrated by a reduction in proteinuria
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Vanrafia [package insert]. East Hanover, NJ: Novartis Pharmaceuticals Corporation; April 2025.
+2. KDIGO 2021 Glomerular Diseases Guideline. October 2021; 100 (4S).
+© 2025 UnitedHealthcare Services Inc.
+2
+Program Prior Authorization/Medical Necessity – Vanrafia
+Change Control
+Date Change
+6/2025 New program
+© 2025 UnitedHealthcare Services Inc.
+3

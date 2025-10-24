@@ -1,0 +1,496 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Inflammatory Conditions – Bimzelx Prior Authorization Policy
+• Bimzelx® (bimekizumab-bkzx subcutaneous injection – UCB)
+REVIEW DATE: 10/02/2024; selected revision 12/04/2024, 07/16/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Bimzelx, an interleukin (IL)-17A and IL-17F blocker, is indicated for the following
+uses:1
+• Ankylosing spondylitis, in adults with active disease.
+• Hidradentitis suppurativa, in adults with moderate to severe disease.
+• Non-radiographic axial spondyloarthritis, in adults with active disease and
+objective signs of inflammation.
+• Psoriatic arthritis, in adults with active disease.
+• Plaque psoriasis, in adults with moderate to severe disease who are
+candidates for systemic therapy or phototherapy.
+In the pivotal trial for non-radiographic axial spondyloarthritis, patients were required
+to have objective signs of inflammation, indicated by elevated C-reactive protein
+and/or sacroiliitis on magnetic resonance imaging.
+Page 1 of 11 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Bimzelx Prior
+Authorization Policy
+Guidelines
+Bimzelx is not addressed in available guidelines.
+• Spondyloarthritis: Guidelines for ankylosing spondylitis and non-
+radiographic axial spondylitis are published by the American College of
+Rheumatology (ACR)/Spondylitis Association of America/Spondyloarthritis
+Research and Treatment Network (2019).2 Following primary non-response to
+a tumor necrosis factor inhibitor (TNFi), either Cosentyx® (secukinumab
+subcutaneous injection) or Taltz® (ixekizumab subcutaneous injection) is
+recommended; however, if the patient is a secondary non-responder, a second
+TNFi is recommended over changing classes. In patients with a
+contraindication to a TNFi, use of an IL blocker is recommended over traditional
+oral agents such as methotrexate or sulfasalazine.
+• Hidradenitis Suppurativa: North American based hidradenitis suppurativa
+guidelines have not been updated to address Bimzlex.3 Clinical management
+guidelines from the US and Canadian Hidradenitis Suppurativa Foundations
+(2019) note that for acute lesions of all stages, antiseptic washes, short-term
+oral steroids, and intralesional steroids are among the recommendations.
+Systemic antibiotics have been a mainstay of treatment. Adalimumab (level
+A strength of recommendation, level 1 evidence) is recommended to improve
+disease severity and quality of life in moderate to severe disease. German
+guidelines for hidradenitis suppurativa (2024) include recommendations for
+use of adalimumab and Cosentyx (both “shall be recommended”) and Bimzelx
+(“should be recommended”).4 Off-label use of other biologics are also listed,
+but these generally have a lower level of recommendation (“may be
+considered”).
+• Psoriatic Arthritis: Guidelines from ACR (2019) recommend TNFis over other
+biologics for use in treatment-naïve patients with psoriatic arthritis and in
+those who were previously treated with an oral therapy.5
+• Plaque Psoriasis: Guidelines for the treatment of psoriasis with biologics
+from the American Academy of Dermatologists and National Psoriasis
+Foundation (2019) list the approved biologics that may be used as
+monotherapy for adults with moderate to severe disease.6
+Safety
+There is a Warning/Precaution that Bimzelx may increase the risk of suicidal ideation
+and behavior (SIB).1 Prescribers should weigh the potential risks and benefits before
+using Bimzelx in patients with a history of severe depression or SIB. Prescribers
+should also re-evaluate the risks and benefits of continuing treatment with Bimzelx
+if such events occur. In the pivotal trials, patients with moderately severe to severe
+depression, or a history of suicide attempt within the past 5 years were excluded.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Bimzelx. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Bimzelx as well as the
+monitoring required for adverse events and long-term efficacy, initial approval
+8 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Bimzelx Prior Authorization
+Policy
+requires Bimzelx to be prescribed by or in consultation with a physician who
+specializes in the condition being treated.
+• Bimzelx® (bimekizumab-bkzx subcutaneous injection – UCB)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Ankylosing Spondylitis. Approve for the duration noted if the patient meets
+ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, iii, iv, and v):
+i. Patient is > 18 years of age; AND
+ii. According to the prescriber, the patient has been evaluated for risks of
+suicidal ideation or behavior versus benefits of therapy; AND
+iii. According to the prescriber, the patient does not have moderately severe
+to severe depression; AND
+iv. According to the prescriber, within the past 5 years, the patient does not
+have a history of suicidal ideation or suicidal behavior; AND
+v. The medication is prescribed by or in consultation with a rheumatologist;
+OR
+B) Patient is Currently Receiving Bimzelx. Approve for 1 year if the patient meets
+ALL of the following (i, ii, iii, iv, and v):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+ii. According to the prescriber, the patient has been evaluated for risks of
+suicidal ideation or behavior versus benefits of therapy; AND
+iii. According to the prescriber, the patient does not have moderately severe
+to severe depression; AND
+iv. According to the prescriber, the patient does not have suicidal ideation or
+suicidal behavior; AND
+v. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating Bimzelx);
+OR
+Note: Examples of objective measures include Ankylosing Spondylitis
+Disease Activity Score (ASDAS), Ankylosing Spondylitis Quality of Life
+Scale (ASQoL), Bath Ankylosing Spondylitis Disease Activity Index
+(BASDAI), Bath Ankylosing Spondylitis Functional Index (BASFI), Bath
+Ankylosing Spondylitis Global Score (BAS-G), Bath Ankylosing
+Spondylitis Metrology Index (BASMI), Dougados Functional Index (DFI),
+8 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Bimzelx Prior Authorization
+Policy
+Health Assessment Questionnaire for the Spondylarthropathies (HAQ-
+S), and/or serum markers (e.g., C-reactive protein, erythrocyte
+sedimentation rate).
+b) Compared with baseline (prior to initiating Bimzelx), patient
+experienced an improvement in at least one symptom, such as
+decreased pain or stiffness, or improvement in function or activities of
+daily living.
+2. Hidradenitis Suppurativa. Approve for the duration noted if the patient meets
+ONE of the following (A or B):
+A) Initial Therapy. Approve for 3 months if the patient meets ALL of the following
+(i, ii, iii, iv, v, and vi):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has tried at least one other therapy; AND
+Note: Examples include intralesional or oral corticosteroids (e.g.,
+triamcinolone, prednisone), systemic antibiotics (e.g., clindamycin,
+dicloxacillin, erythromycin), and isotretinoin.
+iii. According to the prescriber, the patient has been evaluated for risks of
+suicidal ideation or behavior versus benefits of therapy; AND
+iv. According to the prescriber, the patient does not have moderately severe
+to severe depression; AND
+v. According to the prescriber, within the past 5 years, the patient does not
+have a history of suicidal ideation or suicidal behavior; AND
+vi. The medication is prescribed by or in consultation with a dermatologist; OR
+B) Patient is Currently Receiving Bimzelx. Approve for 1 year if the patient meets
+ALL of the following (i, ii, iii, iv, v, and vi):
+i. Patient has been established on Bimzelx for at least 3 months; AND
+Note: A patient who has received < 3 months of therapy or who is
+restarting therapy with Bimzelx is reviewed under criterion A (Initial
+Therapy).
+ii. According to the prescriber, the patient has been evaluated for risks of
+suicidal ideation or behavior versus benefits of therapy; AND
+iii. According to the prescriber, the patient does not have moderately severe
+to severe depression; AND
+iv. According to the prescriber, the patient does not have suicidal ideation or
+suicidal behavior; AND
+v. When assessed by at least one objective measure, patient experienced a
+beneficial clinical response from baseline (prior to initiating Bimzelx); AND
+Note: Examples of objective measures include Hurley staging, Sartorius
+score, Physician Global Assessment, and Hidradenitis Suppurativa Severity
+Index.
+vi. Compared with baseline (prior to initiating Bimzelx), patient experienced
+an improvement in at least one symptom, such as decreased pain or
+drainage of lesions, nodules, or cysts.
+8 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Bimzelx Prior Authorization
+Policy
+3. Non-Radiographic Axial Spondyloarthritis. Approve for the duration noted if
+the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, iii, iv, v, and vi):
+i. Patient is > 18 years of age; AND
+ii. Patient has objective signs of inflammation, defined as at least ONE of the
+following (a or b):
+a) C-reactive protein elevated beyond the upper limit of normal for the
+reporting laboratory; OR
+b) Sacroiliitis reported on magnetic resonance imaging; AND
+iii. According to the prescriber, the patient has been evaluated for risks of
+suicidal ideation or behavior versus benefits of therapy; AND
+iv. According to the prescriber, the patient does not have moderately severe
+to severe depression; AND
+v. According to the prescriber, within the past 5 years, the patient does not
+have a history of suicidal ideation or suicidal behavior; AND
+vi. The medication is prescribed by or in consultation with a rheumatologist;
+OR
+B) Patient is Currently Receiving Bimzelx. Approve for 1 year if the patient meets
+ALL of the following (i, ii, iii, iv, and v):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+ii. According to the prescriber, the patient has been evaluated for risks of
+suicidal ideation or behavior versus benefits of therapy; AND
+iii. According to the prescriber, the patient does not have moderately severe
+to severe depression; AND
+iv. According to the prescriber, the patient does not have suicidal ideation or
+suicidal behavior; AND
+v. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating Bimzelx);
+OR
+Note: Examples of objective measures include Ankylosing Spondylitis
+Disease Activity Score (ASDAS), Ankylosing Spondylitis Quality of Life
+Scale (ASQoL), Bath Ankylosing Spondylitis Disease Activity Index
+(BASDAI), Bath Ankylosing Spondylitis Functional Index (BASFI), Bath
+Ankylosing Spondylitis Global Score (BAS-G), Bath Ankylosing
+Spondylitis Metrology Index (BASMI), Dougados Functional Index (DFI),
+Health Assessment Questionnaire for the Spondylarthropathies (HAQ-
+S), and/or serum markers (e.g., C-reactive protein, erythrocyte
+sedimentation rate).
+b) Compared with baseline (prior to initiating Bimzelx), patient
+experienced an improvement in at least one symptom, such as
+decreased pain or stiffness, or improvement in function or activities of
+daily living.
+8 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Bimzelx Prior Authorization
+Policy
+4. Plaque Psoriasis. Approve for the duration noted if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy. Approve for 3 months if the patient meets ALL of the following
+(i, ii, iii, iv, v, and vi):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has tried at least at least one traditional systemic agent for
+psoriasis for at least 3 months, unless intolerant; OR
+Note: Examples include methotrexate, cyclosporine, or acitretin. A 3-
+month trial of psoralen plus ultraviolet A light (PUVA) also counts. An
+exception to the requirement for a trial of one traditional systemic agent
+for psoriasis can be made if the patient has already had a 3-month trial
+or previous intolerance to at least one biologic other than the requested
+drug. A biosimilar of the requested biologic does not count. Refer to
+Appendix for examples of biologics used for plaque psoriasis. A patient
+who has already tried a biologic for psoriasis is not required to “step
+back” and try a traditional systemic agent for psoriasis.
+b) Patient has a contraindication to methotrexate, as determined by the
+prescriber; AND
+iii. According to the prescriber, the patient has been evaluated for risks of
+suicidal ideation or behavior versus benefits of therapy; AND
+iv. According to the prescriber, the patient does not have moderately severe
+to severe depression; AND
+v. According to the prescriber, within the past 5 years, the patient does not
+have a history of suicidal ideation or suicidal behavior; AND
+vi. The medication is prescribed by or in consultation with a dermatologist; OR
+B) Patient is Currently Receiving Bimzelx. Approve for 1 year if the patient meets
+ALL of the following (i, ii, iii, iv, v, and vi):
+i. Patient has been established on therapy for at least 3 months; AND
+Note: A patient who has received < 3 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+ii. According to the prescriber, the patient has been evaluated for risks of
+suicidal ideation or behavior versus benefits of therapy; AND
+iii. According to the prescriber, the patient does not have moderately severe
+to severe depression; AND
+iv. According to the prescriber, the patient does not have suicidal ideation or
+suicidal behavior; AND
+v. Patient experienced a beneficial clinical response, defined as improvement
+from baseline (prior to initiating Bimzelx) in at least one of the following:
+estimated body surface area, erythema, induration/thickness, and/or scale
+of areas affected by psoriasis; AND
+vi. Compared with baseline (prior to receiving Bimzelx), patient experienced
+an improvement in at least one symptom, such as decreased pain, itching,
+and/or burning.
+5. Psoriatic Arthritis. Approve for the duration noted if the patient meets ONE of
+the following (A or B):
+8 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Bimzelx Prior Authorization
+Policy
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, iii, iv, and v):
+i. Patient is > 18 years of age; AND
+ii. According to the prescriber, the patient has been evaluated for risks of
+suicidal ideation or behavior versus benefits of therapy; AND
+iii. According to the prescriber, the patient does not have moderately severe
+to severe depression; AND
+iv. According to the prescriber, within the past 5 years, the patient does not
+have a history of suicidal ideation or suicidal behavior; AND
+v. The medication is prescribed by or in consultation with a rheumatologist or
+a dermatologist; OR
+B) Patient is Currently Receiving Bimzelx. Approve for 1 year if the patient meets
+ALL of the following (i, ii, iii, iv, and v):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+ii. According to the prescriber, the patient has been evaluated for risks of
+suicidal ideation or behavior versus benefits of therapy; AND
+iii. According to the prescriber, the patient does not have moderately severe
+to severe depression; AND
+iv. According to the prescriber, the patient does not have suicidal ideation or
+suicidal behavior; AND
+v. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating Bimzelx);
+OR
+Note: Examples of standardized measures of disease activity include
+Disease Activity Index for Psoriatic Arthritis (DAPSA), Composite
+Psoriatic Disease Activity Index (CPDAI), Psoriatic Arthritis Disease
+Activity Score (PsA DAS), Grace Index, Leeds Enthesitis Score (LEI),
+Spondyloarthritis Consortium of Canada (SPARCC) enthesitis score,
+Leeds Dactylitis Instrument Score, Minimal Disease Activity (MDA),
+Psoriatic Arthritis Impact of Disease (PsAID-12), and/or serum markers
+(e.g., C-reactive protein, erythrocyte sedimentation rate).
+b) Compared with baseline (prior to initiating Bimzelx), patient
+experienced an improvement in at least one symptom, such as less joint
+pain, morning stiffness, or fatigue; improved function or activities of
+daily living; decreased soft tissue swelling in joints or tendon sheaths.
+CONDITIONS NOT COVERED
+• Bimzelx® (bimekizumab-bkzx subcutaneous injection – UCB)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+8 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Bimzelx Prior Authorization
+Policy
+1. Concurrent Use with other Biologics or with Targeted Synthetic Oral Small
+Molecule Drugs. The requested medication should not be administered in
+combination with a biologic used for an inflammatory condition or with a targeted
+synthetic oral small molecule drug (see Appendix for examples). Combination
+therapy is generally not recommended due to a potential for a higher rate of
+adverse effects with combinations and lack of controlled clinical trial data
+supporting additive efficacy.
+Note: This does NOT exclude the use of conventional synthetic DMARDs (e.g.,
+methotrexate, leflunomide, hydroxychloroquine, and sulfasalazine) in
+combination with Bimzelx.
+2. Inflammatory Bowel Disease (i.e., Crohn’s disease, ulcerative colitis).
+Exacerbations of inflammatory bowel disease, in some cases serious, occurred in
+clinical trials involving patients treated with Bimzelx.1
+REFERENCES
+1. Bimzelx® subcutaneous injection [prescribing information]. Smyrna, GA: UCB; November 2024.
+2. Ward MM, Deodhar A, Gensler LS, et al. 2019 update of the American College of
+Rheumatology/Spondylitis Association of America/Spondyloarthritis Research and Treatment
+Network recommendations for the treatment of ankylosing spondylitis and nonradiographic axial
+spondyloarthritis. Arthritis Rheumatol. 2019;71(10):1599-1613.
+3. Alikhan A, Sayed C, Alavi A, et al. North American clinical management guidelines for hidradenitis
+suppurativa: a publication from the United States and Canadian Hidradenitis Suppurativa
+Foundations: Part II: topical, intralesional, and systemic medical management. J Am Acad
+Dermatol. 2019;81(1):91-101.
+4. Zouboulis CC, Bechara FG, Fritz K, et al. S2k guideline for the treatment of hidradenitis
+suppurativa/acne inversa – short version. Dtsch Dermatol Ges. 2024;22(6):868-889.
+5. Singh JA, Guyatt G, Ogdie A, et al. 2018 American College of Rheumatology/National Psoriasis
+Foundation Guideline for the treatment of psoriatic arthritis. Arthritis Care Res (Hoboken).
+2019;71(1):2-29.
+6. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and
+treatment of psoriasis with biologics. J Am Acad Dermatol. 2019 80(4):1029-1072.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 11/01/2023
+Selected Plaque Psoriasis: For a patient currently taking Bimzelx, the 03/27/2024
+Revision timeframe for established on therapy was changed from 90 days to
+3 months.
+Selected Plaque Psoriasis: In the Note, psoralen plus ultraviolet A light 09/11/2024
+Revision (PUVA) was removed from the examples of traditional systemic
+therapies. An additional Note was added that a 3-month trial of PUVA
+counts as a traditional systemic therapy.
+Conditions Not Covered: Concurrent use with a Biologic or with a
+Targeted Synthetic Oral Small Molecule Drug was changed to as
+listed (previously oral small molecule drug was listed as Disease-
+Modifying Antirheumatic Drug).
+Early Annual Ankylosing Spondylitis: This condition and criteria for approval 10/02/2024
+Revision were added to the policy.
+Non-Radiographic Axial Spondyloarthritis: This condition and
+criteria for approval were added to the policy.
+8 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Bimzelx Prior Authorization
+Policy
+Plaque Psoriasis: For initial approval and for a patient currently
+receiving Bimzelx, requirements were added that the prescriber
+attests the patient has been evaluated for the risks of suicidal
+ideation and behavior versus the benefits of therapy and that the
+patient does not have moderately severe to severe depression. For
+initial approval, a requirement was added that within the past 5
+years, the patient does not have a history of suicidal ideation or
+suicidal behavior; for a patient currently receiving Bimzelx, a
+requirement was added that, according to the prescriber the patient
+does not have suicidal ideation or suicidal behavior.
+Psoriatic Arthritis: This condition and criteria for approval were
+added to the policy.
+Selected Hidradenitis Suppurativa: This newly approved condition was 12/04/2024
+Revision added to the policy.
+Selected Ankylosing Spondylitis, Hidradenitis Suppurativa, Non- 07/16/2025
+Revision Radiographic Axial Spondyloarthritis, Plaque Psoriasis, and
+Psoriatic Arthritis: Initial approval and for a patient currently
+receiving Bimzelx, the requirement that the prescriber attests the
+patient has been assessed and evaluated for risks of suicidal ideation
+or behavior versus benefits of therapy was modified to “According to
+the prescriber, the patient has been evaluated for risks of suicidal
+ideation or behavior versus benefits of therapy”. Initial approval and
+for a patient currently receiving Bimzelx, “According to the
+prescriber” was added to the requirement that the patient does not
+have moderately severe to severe depression. Initial approval,
+“According to the prescriber” was added to the requirement that
+within the past 5 years, the patient does not have a history of suicidal
+ideation or suicidal behavior.
+APPENDIX
+Mechanism of Action Examples of Indications*
+Biologics
+Adalimumab SC Products (Humira®, Inhibition of TNF AS, CD, JIA, PsO, PsA, RA, UC
+biosimilars)
+Cimzia® (certolizumab pegol SC Inhibition of TNF AS, CD, JIA, nr-axSpA, PsO,
+injection) PsA, RA
+Etanercept SC Products (Enbrel®, Inhibition of TNF AS, JIA, PsO, PsA, RA
+biosimilars)
+Infliximab IV Products (Remicade®, Inhibition of TNF AS, CD, PsO, PsA, RA, UC
+biosimilars)
+Zymfentra® (infliximab-dyyb SC Inhibition of TNF CD, UC
+injection)
+Simponi®, Simponi Aria® (golimumab Inhibition of TNF SC formulation: AS, PsA, RA,
+SC injection, golimumab IV infusion) UC
+IV formulation: AS, PJIA,
+PsA, RA
+Tocilizumab Products (Actemra® IV, Inhibition of IL-6 SC formulation: PJIA, RA,
+biosimilar; Actemra SC, biosimilar) SJIA
+IV formulation: PJIA, RA,
+SJIA
+Kevzara® (sarilumab SC injection) Inhibition of IL-6 RA
+Orencia® (abatacept IV infusion, T-cell costimulation SC formulation: JIA, PSA, RA
+abatacept SC injection) modulator IV formulation: JIA, PsA, RA
+Rituximab IV Products (Rituxan®, CD20-directed cytolytic RA
+biosimilars) antibody
+Kineret® (anakinra SC injection) Inhibition of IL-1 JIA^, RA
+8 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Bimzelx Prior Authorization
+Policy
+Omvoh® (mirikizumab IV infusion, SC Inhibition of IL-23 CD, UC
+injection)
+Ustekinumab Products (Stelara® IV, Inhibition of IL-12/23 SC formulation: CD, PsO,
+biosimilars; Stelara SC, biosimilars) PsA, UC
+IV formulation: CD, UC
+Siliq® (brodalumab SC injection) Inhibition of IL-17 PsO
+Cosentyx® (secukinumab SC injection; Inhibition of IL-17A SC formulation: AS, ERA, nr-
+secukinumab IV infusion) axSpA, PsO, PsA
+IV formulation: AS, nr-
+axSpA, PsA
+Taltz® (ixekizumab SC injection) Inhibition of IL-17A AS, nr-axSpA, PsO, PsA
+Bimzelx® (bimekizumab-bkzx SC Inhibition of IL- AS, HS, nr-axSpA, PsA, PsO
+injection) 17A/17F
+Ilumya® (tildrakizumab-asmn SC Inhibition of IL-23 PsO
+injection)
+Skyrizi® (risankizumab-rzaa SC Inhibition of IL-23 SC formulation: CD, PSA,
+injection, risankizumab-rzaa IV infusion) PsO, UC
+IV formulation: CD, UC
+Tremfya® (guselkumab SC injection, Inhibition of IL-23 SC formulation: CD, PsA,
+guselkumab IV infusion) PsO, UC
+IV formulation: CD, UC
+Entyvio® (vedolizumab IV infusion, Integrin receptor CD, UC
+vedolizumab SC injection) antagonist
+Oral Therapies/Targeted Synthetic Oral Small Molecule Drugs
+Otezla® (apremilast tablets) Inhibition of PDE4 PsO, PsA
+Cibinqo™ (abrocitinib tablets) Inhibition of JAK AD
+pathways
+Olumiant® (baricitinib tablets) Inhibition of JAK RA, AA
+pathways
+Litfulo® (ritlecitinib capsules) Inhibition of JAK AA
+pathways
+Leqselvi® (deuruxolitinib tablets) Inhibition of JAK AA
+pathways
+Rinvoq® (upadacitinib extended-release Inhibition of JAK AD, AS, nr-axSpA, RA, PsA,
+tablets) pathways UC
+Rinvoq® LQ (upadacitinib oral solution) Inhibition of JAK PsA, PJIA
+pathways
+Sotyktu® (deucravacitinib tablets) Inhibition of TYK2 PsO
+Xeljanz® (tofacitinib tablets/oral Inhibition of JAK RA, PJIA, PsA, UC
+solution) pathways
+Xeljanz® XR (tofacitinib extended- Inhibition of JAK RA, PsA, UC
+release tablets) pathways
+Zeposia® (ozanimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+Velsipity® (etrasimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+* Not an all-inclusive list of indications. Refer to the prescribing information for the respective agent for
+FDA-approved indications; SC – Subcutaneous; TNF – Tumor necrosis factor; AS – Ankylosing
+spondylitis; CD – Crohn’s disease; JIA – Juvenile idiopathic arthritis; PsO – Plaque psoriasis; PsA –
+Psoriatic arthritis; RA – Rheumatoid arthritis; UC – Ulcerative colitis; nr-axSpA – Non-radiographic axial
+spondyloarthritis; IV – Intravenous, PJIA – Polyarticular juvenile idiopathic arthritis; IL – Interleukin;
+SJIA – Systemic juvenile idiopathic arthritis; ^ Off-label use of Kineret in JIA supported in guidelines;
+ERA – Enthesitis-related arthritis; DMARD – Disease-modifying antirheumatic drug; PDE4 –
+Phosphodiesterase 4; JAK – Janus kinase; AD – Atopic dermatitis; AA – Alopecia areata; TYK2 – Tyrosine
+kinase 2.
+8 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Bimzelx Prior Authorization
+Policy
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+8 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Bimzelx Prior Authorization
+Policy

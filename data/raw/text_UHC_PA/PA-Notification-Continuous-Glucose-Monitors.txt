@@ -1,0 +1,64 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1206-10
+Program Prior Authorization/Notification
+Medication Continuous glucose monitors, sensors and transmitters (all brands)
+P&T Approval Date 12/2016, 11/2017, 11/2018, 11/2019, 3/2020, 6/2021, 6/2022, 8/2023,
+11/2024
+Effective Date 2/1/2025
+1. Background:
+Continuous glucose monitors may be used by patients with diabetes who require glucose
+monitoring beyond what can be achieved with a standard blood glucose monitor.
+2. Coverage Criteria:
+A. Initial Authorization
+1. Continuous glucose monitors, sensors, and transmitters will be approved for initial
+therapy based on both of the following criteria:
+a. Diagnosis of diabetes
+-AND-
+b. All of the following:
+(1) Patient is motivated and knowledgeable about use of continuous glucose
+monitoring
+(2) Patient is adherent to diabetic treatment plan
+(3) Patient participates in ongoing education and support
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Continuous glucose monitors, sensors, and transmitters will be approved for
+continuation of therapy based on the following criterion:
+a. Documentation of positive clinical response
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+1
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+• Medical Necessity may be in place.
+4. References:
+1. American Diabetes Association. Diabetes Technology: Standards of Care in Diabetes - 2023.
+Diabetes Care December 2022, Vol.46, S111-S1272. Lane AS, Mlynarczyk MA, de Veciana M,
+et al. Real-time continuous glucose monitoring in gestational diabetes: a randomized controlled
+trial. Am J Perinatol. 2019 Jul;36(9):891-897.
+3. LeRoith D, Biessels GJ, Braithwaite SS, et al. Treatment of diabetes in older adults: an Endocrine
+Society clinical practice guideline. J Clin Endocrinol Metab. 2019 May 1;104(5):1520-1574.
+Program Prior Authorization/Notification – Continuous Glucose Monitors
+Change Control
+12/2016 New program.
+11/2017 Annual review. Revised reauthorization criteria.
+11/2018 Annual review. Revised authorization timeline, added criteria for
+insulin use.
+5/2/2019 Administrative change. Change Oxford effective date to 6/1/2019.
+11/2019 Modified criteria to allow coverage for any type of diabetes.
+3/2020 Added requirement that patient is knowledgeable about continuous
+glucose monitors, participates in education and support, and monitors
+blood glucose 3 or more times per day.
+6/2021 Modified criteria to monitor blood glucose 4 or more times per day and
+added criteria that patient has inadequate glycemic control despite an
+intensive diabetes management.
+6/2022 Removed requirements that patient is on an intensive insulin regimen,
+has inadequate glucose control, and regularly monitors blood glucose at
+least 4 times per day.
+8/2023 Annual review. Updated references.
+11/2024 Annual review. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+2

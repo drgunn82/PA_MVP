@@ -1,0 +1,92 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1162-10
+Program Prior Authorization/Notification
+Medication Odomzo® (sonidegib)
+P&T Approval Date 10/2015, 9/2016, 9/2017, 9/2018, 9/2019, 9/2020, 10/2021, 10/2022,
+10/2023, 10/2024
+Effective Date 1/1/2025
+1. Background:
+Odomzo® (sonidegib) is a hedgehog pathway inhibitor indicated for the treatment of adult
+patients with locally advanced basal cell carcinoma (BCC), that has recurred following surgery or
+radiation therapy, or who are not candidates for surgery or radiation therapy.1
+The National Comprehensive Cancer Network (NCCN) also recommends Odomzo for the
+recurrence of basal cell carcinoma with nodal disease and for treatment of diffuse basal cell
+carcinoma (BCC) formation (e.g., Gorlin syndrome, other genetic forms of multiple BCC).
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Odomzo will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Basal Cell Carcinoma
+1. Initial Authorization
+a. Odomzo will be approved based on one of the following criteria:
+(1) Diagnosis of nodal metastatic basal cell carcinoma
+-OR-
+(2) Diagnosis of diffuse basal cell carcinoma (BCC) formation (e.g., Gorlin
+© 2024 UnitedHealthcare Services, Inc.
+1
+syndrome, other genetic forms of multiple BCC)
+-OR-
+(3) Both of the following:
+(a) Diagnosis of locally advanced basal cell carcinoma
+-AND-
+(b) One of the following:
+i. Cancer has recurred following surgery
+ii. Cancer has recurred following radiation
+iii. Patient is not a candidate for surgery
+iv. Patient is not a candidate for radiation
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Odomzo will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Odomzo
+therapy
+Authorization will be issued for 12 months.
+C. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+© 2024 UnitedHealthcare Services, Inc.
+2
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Odomzo [package insert]. Sun Pharmaceutical Industries, Inc.: Cranbury, NJ; August 2023.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+https://www.nccn.org/compendia-templates/compendia/drugs-and-biologics-compendia.
+Accessed September 6, 2024.
+Program Prior Authorization/Notification - Odomzo (sonidegib)
+Change Control
+10/2015 New notification.
+9/2016 Annual review. Minor formatting changes to background and updated
+references.
+9/2017 Annual Review. Updated references.
+9/2018 Annual Review. Updated references.
+9/2019 Annual review. Added metastatic basal cell carcinoma diagnosis.
+Updated references. Added general NCCN recommended review
+criteria.
+9/2020 Annual review. No changes to coverage rationale.
+10/2021 Annual review. Added diffuse basal cell carcinoma (BCC) formation
+per NCCN recommendations. Updated references.
+10/2022 Annual review. No changes to coverage rationale. Added state mandate.
+Updated references.
+10/2023 Annual review. No changes to coverage rationale. Updated references.
+10/2024 Updated background and coverage criteria per NCCN recommendations
+to reflect that Odomzo is recommended for basal cell carcinoma with
+nodal metastases but not with distant metastases. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+3

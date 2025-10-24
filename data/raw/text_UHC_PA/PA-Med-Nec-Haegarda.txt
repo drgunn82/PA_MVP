@@ -1,0 +1,103 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2148-8
+Program Prior Authorization/Medical Necessity
+Medication Haegarda® (C1 esterase inhibitor, human)
+P&T Approval Date 7/2018, 7/2019, 6/2020, 3/2021, 3/2022, 3/2023, 3/2024, 3/2025
+Effective Date 6/1/2025
+1. Background:
+Haegarda is a plasma-derived concentrate of C1 Esterase Inhibitor (Human) (C1-INH)
+indicated for routine prophylaxis to prevent hereditary angioedema (HAE) attacks in patients 6
+years of age and older.1
+2. Coverage Criteria a:
+A. Initial Authorization
+1. Haegarda will be approved based on all of the following criteria:
+a. Diagnosis of hereditary angioedema (HAE) as confirmed by one of the following:
+(1) C1 inhibitor (C1-INH) deficiency or dysfunction (Type I or II HAE) as
+documented by one of the following (per laboratory standard):
+(a) C1-INH antigenic level below the lower limit of normal
+(b) C1-INH functional level below the lower limit of normal
+-OR-
+(2) HAE with normal C1 inhibitor levels and one of the following:
+(a) Confirmed presence of variant(s) in the gene(s) for factor XII, angiopoietin-
+1, plasminogen-1, kininogen-1, myoferlin, and heparan sulfate-glucosamine
+3-O-sulfotransferase 6
+(b) Recurring angioedema attacks that are refractory to high-dose
+antihistamines with confirmed family history of angioedema
+(c) Recurring angioedema attacks that are refractory to high-dose
+antihistamines with unknown background de-novo mutation(s) (i.e., no
+family history) (HAE-unknown)
+-AND-
+b. All of the following:
+(1) Prescribed for the prophylaxis of HAE attacks
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+1
+(2) Not used in combination with other products indicated for prophylaxis against
+HAE attacks (e.g., Cinryze, Orladeyo, Takhzyro)
+-AND-
+(3) Prescriber attests that patient has experienced attacks of a severity and/or
+frequency such that they would clinically benefit from prophylactic therapy
+with Haegarda
+-AND-
+c. Prescribed by one of the following:
+(1) Immunologist
+(2) Allergist
+Authorization of therapy will be issued for 12 months.
+B. Reauthorization
+1. Haegarda will be approved based on all of the following criteria:
+a. Documentation of positive clinical response to Haegarda therapy
+-AND-
+b. Reduction in the utilization of on-demand therapies used for acute attacks (e.g.,
+Berinert, Firazyr, Ruconest) as determined by claims information, while on
+Haegarda therapy
+-AND-
+c. Both of the following:
+(1) Prescribed for the prophylaxis of HAE attacks
+-AND-
+(2) Not used in combination with other products indicated for prophylaxis against
+HAE attacks (e.g., Cinryze, Orladeyo, Takhzyro)
+-AND-
+d. Prescribed by one of the following:
+(1) Immunologist
+(2) Allergist
+Authorization of therapy will be issued for 12 months.
+© 2025 UnitedHealthcare Services, Inc.
+2
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Haegarda [package insert]. Kankakee, IL: CSL Behring, LLC; January 2022.
+2. Maurer M, Magerl M, Ansotegui I, et al. The international WAO/EAACI guideline for the
+management of hereditary angioedema-The 2017 revision and update. Allergy. 2018 Jan 10.
+3. Wu, E. Hereditary angioedema with normal C1 inhibitor. In: UpToDate, Saini, S (Ed),
+UpToDate, Waltham, MA, 2023.
+4. Busse, P., Christiansen, S., Riedl, M., et. al. “US HAEA Medical Advisory Board 2020
+Guidelines for the Management of Hereditary Angioedema.” The Journal of Allergy and
+Clinical Immunology. 2020 September 05.
+5. Maurer M, Magerl M, Betschel S, et al. The international WAO/EAACI guideline for the
+management of hereditary angioedema-The 2021 revision and update. Allergy.
+2022;77(7):1961-1990. doi:10.1111/all.15214
+Program Prior Authorization/Medical Necessity - Haegarda (C1 esterase inhibitor,
+human)
+Change Control
+7/2018 New program.
+7/2019 Annual review. No changes made to program.
+6/2020 Annual review. Aligned criteria with acute and prophylactic therapies.
+3/2021 Added diagnosis criteria and aligned combination use language with
+prophylactic therapies. Updated references.
+3/2022 Annual review. Updated background and references.
+3/2023 Annual review. Updated combination use language with prophylactic
+therapies without change to clinical intent. Updated references.
+3/2024 Annual review with update to diagnostic criteria for HAE with normal C1
+inhibitor levels. Updated language for reauthorization criteria.
+3/2025 Annual review. No changes to the clinical criteria.
+© 2025 UnitedHealthcare Services, Inc.
+3

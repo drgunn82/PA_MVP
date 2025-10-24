@@ -1,0 +1,201 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2273-5
+Program Prior Authorization/Medical Necessity
+Medication Cibinqo™ (abrocitinib) tablets
+P&T Approval Date 4/2022, 7/2022, 3/2023, 3/2024, 4/2025
+Effective Date 5/16/2025
+1. Background:
+Cibinqo is a Janus kinase (JAK) inhibitor indicated for the treatment of adults and pediatric
+patients 12 years of age and older with refractory, moderate to severe atopic dermatitis whose
+disease is not adequately controlled with other systemic drug products, including biologics, or
+when use of those therapies is inadvisable.
+Limitation of Use:
+Cibinqo is not recommended in combination with other JAK inhibitors, biologic
+immunomodulators, or with other immunosuppressants.
+2. Coverage Criteriaa:
+A. Atopic Dermatitis
+1. Initial Authorization
+a. Cibinqo will be approved based on all of the following criteria:
+(1) Diagnosis of moderate-to-severe chronic atopic dermatitis
+-AND-
+(2) One of the following:
+(a) Both of the following:
+i. History of failure, contraindication, or intolerance to two of the following
+therapeutic classes of topical therapies (document drug, date of trial, and/
+or contraindication to medication):
+(a) Medium, high, or very-high potency topical corticosteroid [e.g., Elocon
+(mometasone furoate), Synalar (fluocinolone acetonide), Lidex
+(fluocinonide)]
+(b) Topical calcineurin inhibitor [e.g., pimecrolimus (generic Elidel),
+tacrolimus (generic Protopic)].
+(c) Eucrisa (crisaborole) ¥
+-AND-
+ii. One of the following:
+© 2025 UnitedHealthcare Services, Inc.
+1
+a. Both of the following^:
+• Submission of medical records (e.g., chart notes, laboratory values)
+documenting a 3 month trial b of a systemic drug product for the
+treatment of atopic dermatitis [examples include, but are not limited
+to, Adbry (tralokinumab-ldrm), Dupixent (dupilumab), Ebglyss
+(lebrikizumab-lbkz), etc.Ω] (prescription claims history may be used
+in conjunction as documentation of medication use, dose, and
+duration)
+-AND-
+• Physician attests that the patient was not adequately controlled with
+the documented systemic drug product b
+-OR-
+b. Physician attests that systemic treatment with all of the following,
+FDA-approved chronic atopic dermatitis therapies is inadvisable.
+(Document drug and contraindication rationale) ^
+• Adbry (tralokinumab-ldrm)
+• Dupixent (dupilumab)
+• Ebglyss (lebrikizumab-lbkz)
+-OR-
+c. Patient has a documented needle-phobia to the degree that the patient has
+previously refused any injectable therapy or medical procedure (refer to
+DSM-V-TR 300.29 for specific phobia diagnostic criteria5).
+-OR-
+(b) Both of the following:
+i. Patient is currently on Cibinqo therapy as documented by claims history
+or submission of medical records (Document date and duration of
+therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from the Pfizer dermatology
+patient access program (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a
+current user of Cibinqo*
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+2
+(3) Patient is not receiving Cibinqo in combination with any of the following:
+(a) Biologic immunomodulator [e.g., Adbry (tralokinumab-ldrm), Dupixent
+(dupilumab), Ebglyss (lebrikizumab-lbkz), Nemluvio (nemolizumab-ilto)]
+(b) Janus kinase inhibitor [e.g., Olumiant (baricitinib), Opzelura (topical
+ruxolitinib), Rinvoq (upadicitinib), Xeljanz/XR (tofacitinib)]
+(c) Potent immunosuppressant (e.g., azathioprine, cyclosporine, mycophenolate
+mofetil)
+-AND-
+(4) Prescribed by one of the following:
+(a) Dermatologist
+(b) Allergist
+(c) Immunologist
+* Patients requesting initial authorization who were established on therapy via the receipt of
+a manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance
+from the Pfizer dermatology patient access program shall be required to meet initial
+authorization criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Cibinqo will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Cibinqo therapy
+-AND-
+(2) Patient is not receiving Cibinqo in combination with any of the following:
+(a) Biologic immunomodulator [e.g., Adbry (tralokinumab-ldrm), Dupixent
+(dupilumab), Ebglyss (lebrikizumab-lbkz), Nemluvio (nemolizumab-ilto)]
+(b) Janus kinase inhibitor [e.g., Olumiant (baricitinib), Opzelura (topical
+ruxolitinib), Rinvoq (upadicitinib), Xeljanz/XR (tofacitinib)]
+(c) Potent immunosuppressant (e.g., azathioprine, cyclosporine, mycophenolate
+mofetil)
+-AND-
+(3) Prescribed by or in consultation with one of the following:
+(a) Dermatologist
+(b) Allergist
+(c) Immunologist
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services, Inc.
+3
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+b For Connecticut, Kentucky and Mississippi business only a 30-day trial will be required.
+^ Tried/failed alternative(s) are supported by FDA labeling.
+¥ Eucrisa requires prior authorization.
+Table 1: Relative potencies of topical corticosteroids3
+Class Drug Dosage Form Strength (%)
+Augmented betamethasone Ointment, gel 0.05
+dipropionate
+Very high
+Clobetasol propionate Cream, foam, ointment 0.05
+potency
+Diflorasone diacetate Ointment 0.05
+Halobetasol propionate Cream, ointment 0.05
+Amcinonide Cream, lotion, ointment 0.1
+Augmented betamethasone Cream, lotion 0.05
+dipropionate
+Betamethasone dipropionate Cream, foam, ointment, solution 0.05
+Desoximetasone Cream, ointment 0.25
+High Potency Desoximetasone Gel 0.05
+Diflorasone diacetate Cream 0.05
+Fluocinonide Cream, gel, ointment, solution 0.05
+Halcinonide Cream, ointment 0.1
+Mometasone furoate Ointment 0.1
+Triamcinolone acetonide Cream, ointment 0.5
+Betamethasone valerate Cream, foam, lotion, ointment 0.1
+Clocortolone pivalate Cream 0.1
+Desoximetasone Cream 0.05
+Fluocinolone acetonide Cream, ointment 0.025
+Medium
+Flurandrenolide Cream, ointment, lotion 0.05
+potency
+Fluticasone propionate Cream 0.05
+Fluticasone propionate Ointment 0.005
+Mometasone furoate Cream, lotion 0.1
+Triamcinolone acetonide Cream, ointment, lotion 0.1
+Hydrocortisone butyrate Cream, ointment, solution 0.1
+Lower-
+Hydrocortisone probutate Cream 0.1
+medium
+Hydrocortisone valerate Cream, ointment 0.2
+potency
+Prednicarbate Cream 0.1
+Alclometasone dipropionate Cream, ointment 0.05
+Low potency Desonide Cream, gel, foam, ointment 0.05
+Fluocinolone acetonide Cream, solution 0.01
+Dexamethasone Cream 0.1
+Lowest
+Hydrocortisone Cream, lotion, ointment, solution 0.25, 0.5, 1
+potency
+Hydrocortisone acetate Cream, ointment 0.5-1
+© 2025 UnitedHealthcare Services, Inc.
+4
+Table 2: Systemic immunomodulatory agents recommended by the 2014 American Academy of
+Dermatology guidelines for the treatment of refractory atopic dermatitis Ω,4
+Cyclosporine
+Azathioprine
+Methotrexate
+Mycophenolate mofetil
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Cibinqo [package insert]. New York, NY: Pfizer Inc.; December 2023.
+2. Eichenfield LF, Tom WL, Chamlin SL et al. Guidelines of care for the management of atopic
+dermatitis: section 1. Diagnosis and assessment of atopic dermatitis. J Am Acad Dermatol.
+2014; 70(1):338-51.
+3. Eichenfield LF, Tom WL, Berger TG, et al. Guidelines of care for the management of atopic
+dermatitis: section 2. Management and treatment of atopic dermatitis with topical therapies. J Am
+Acad Dermatol. 2014; 71(1):116-32.
+4. Sidbury R, Davis DM, Cohen DE, et al. Guidelines of care for the management of atopic
+dermatitis: Section 3. Management and treatment with phototherapy and systemic agents. J Am
+Acad Dermatol. 2014 Aug;71(2):327-49.
+5. American Psychiatric Association: Diagnostic and Statistical Manual of Mental Disorders, Fifth
+Edition, Arlington, VA: American Psychiatric Publishing. 2013.
+Program Prior Authorization/Medical Necessity – Cibinqo (abrocitnib)
+Change Control
+4/2022 New program
+7/2022 Removed age requirement from initial authorization criteria for atopic
+dermatitis. Updated state mandate footnote to include Mississippi.
+3/2023 Updated background to reflect expanded indication for patients 12 years
+of age and older. Updated step requirement to generic Elidel and
+Protopic and removed footnote. Updated reference.
+3/2024 Annual review. Clarified topical steroid potency in atopic dermatitis
+with no change to clinical intent or coverage criteria. Updated state
+mandate footnote and reference.
+4/2025 Annual review. Added Ebglyss as an example of systemic drug
+product. Updated examples with no change to clinical intent.
+© 2025 UnitedHealthcare Services, Inc.
+5

@@ -1,0 +1,249 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1112-12
+Program Prior Authorization/Notification
+Medication Tykerb® (lapatinib)
+P&T Approval Date 8/2008, 6/2009, 9/2010, 12/2010, 9/2011, 8/2012, 7/2013, 11/2014,
+11/2015, 9/2016, 9/2017, 9/2018, 9/2019, 9/2020, 10/2021, 10/2022,
+10/2023, 10/2024
+Effective Date 1/1/2025
+1. Background:
+Tykerb (lapatinib) is a kinase inhibitor indicated for use in combination with Femara® (letrozole)
+for the treatment of postmenopausal women with hormone receptor positive metastatic breast
+cancer that overexpresses the human epidermal growth factor receptor 2 (HER2) receptor for
+whom hormonal therapy is indicated. Tykerb is also indicated in combination with Xeloda®
+(capecitabine) for treatment of patients with advanced or metastatic breast cancer whose tumors
+overexpress HER2 and who have received prior therapy, including an anthracycline, a taxane, and
+trastuzumab. Patients should have disease progression on trastuzumab prior to initiation of
+treatment with Tykerb in combination with Xeloda. The National Cancer Comprehensive Network
+(NCCN) also recommends the use of Tykerb in metastatic central nervous system (CNS) lesions
+with primary tumor of the breast, intracranial and spinal ependymomas, EGFR-positive chordoma,
+and colon and rectal cancers not previously treated with HER2 inhibitors.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the notification
+criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Tykerb will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Breast Cancer
+1. Initial Authorization
+a. Tykerb will be approved based on one of the following criteria:
+© 2024 UnitedHealthcare Services, Inc.
+1
+(1) All of the following:
+(a) Diagnosis of recurrent unresectable (local or regional) or stage IV breast
+cancer
+-AND-
+(b) Disease is hormone receptor positive and human epidermal growth factor
+receptor 2-positive (HER2+)
+-AND-
+(c) Used in combination with an aromatase inhibitor [e.g., Aromasin
+(exemestane), Femara (letrozole), Arimidex (anastrozole)]
+-OR-
+(2) All of the following:
+(a) One of the following:
+i. Diagnosis of recurrent unresectable (local or regional) or stage IV breast
+cancer
+ii. Breast cancer that is unresponsive to preoperative systemic therapy
+-AND-
+(b) Disease is HER2+
+-AND-
+(c) Used as fourth line therapy and beyond in combination with one of the
+following:
+i. Herceptin (trastuzumab)
+ii. Xeloda (capecitabine)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tykerb will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tykerb therapy
+Authorization will be issued for 12 months.
+C. Central Nervous System (CNS) Cancers
+1. Initial Authorization
+© 2024 UnitedHealthcare Services, Inc.
+2
+a. Tykerb will be approved based on one of the following criteria:
+(1) All of the following:
+(a) Diagnosis of recurrent, central nervous system (CNS) cancer with metastatic
+lesions
+-AND-
+(b) Tykerb is active against primary (breast) tumor
+-AND-
+(c) Used in combination with Xeloda (capecitabine)
+-OR-
+(2) All of the following:
+(a) Diagnosis of progressive or recurrent intracranial or spinal ependymoma
+(excluding subependymoma)
+-AND-
+(b) Patient has received previous radiation therapy
+-AND-
+(c) One of the following:
+i. Patient has received gross total or subtotal resection with negative
+cerebrospinal fluid (CSF) cytology
+ii. Patient has received subtotal resection and evidence of metastasis
+(brain, spine, or CSF)
+iii. Patient has unresectable disease
+-AND-
+(d) Used in combination with Temodar (temozolomide)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tykerb will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tykerb therapy
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+3
+D. Chordoma
+1. Initial Authorization
+a. Tykerb will be approved based on both of the following criteria:
+(1) Diagnosis of recurrent conventional or chondroid chordoma
+-AND-
+(2) Disease is EGFR-positive
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tykerb will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tykerb therapy
+Authorization will be issued for 12 months.
+E. Colon Cancer
+1. Initial Authorization
+a. Tykerb will be approved based on all of the following criteria:
+(1) Diagnosis of colon cancer
+-AND-
+(2) Disease is HER2-amplified and RAS and BRAF wild-type
+-AND-
+(3) One of the following:
+(a) Disease is proficient mismatch repair/microsatellite-stable (pMMR/MSS)
+-OR-
+(b) Both of the following:
+i. Disease is positive for deficient mismatch repair/microsatellite
+instability-high (dMMR/MSI-H) or polymerase epsilon/delta
+(POLE/POLD1) mutation
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+4
+ii. One of the following:
+• Ineligible for or progressed on checkpoint inhibitor immunotherapy
+[e.g., Opdivo (nivolumab), Keytruda (pembrolizumab), Jemperli
+(dostarlimab-gxly)]
+• Has a contraindication to checkpoint inhibitor immunotherapy
+-AND-
+(4) One of the following:
+(a) Both of the following:
+i. Used as initial therapy for unresectable metachronous metastases
+ii. Previous therapy with FOLFOX (fluorouracil, leucovorin, and
+oxaliplatin) or CapeOX (capecitabine and oxaliplatin) within the past 12
+months
+-OR-
+(b) Intensive chemotherapy with one of the following is not recommended:
+i. Oxaliplatin
+ii. Irinotecan
+iii. Capecitabine
+-OR-
+(c) Used as second-line and subsequent therapy for progression of advanced or
+metastatic disease
+-AND-
+(5) Used in combination with trastuzumab
+-AND-
+(6) Patient has not previously been treated with a HER2 inhibitor [e.g.,
+trastuzumab, Perjeta (pertuzumab), Nerlynx (neratinib)]
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tykerb will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tykerb therapy
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+5
+F. Rectal Cancer
+1. Initial Authorization
+a. Tykerb will be approved based on all of the following criteria:
+(1) Diagnosis of rectal cancer
+-AND-
+(2) Disease is HER2-amplified and RAS and BRAF wild-type
+-AND-
+(3) One of the following:
+(a) Disease is proficient mismatch repair/microsatellite-stable (pMMR/MSS)
+-OR-
+(b) Disease is positive for deficient mismatch repair/microsatellite instability-
+high (dMMR/MSI-H) or polymerase epsilon/delta (POLE/POLD1)
+mutation and one of the following:
+i. Ineligible for or progressed on checkpoint inhibitor immunotherapy
+[e.g., Opdivo (nivolumab), Keytruda (pembrolizumab), Jemperli
+(dostarlimab-gxly)]
+ii. Has a contraindication to checkpoint inhibitor immunotherapy
+-AND-
+(4) One of the following:
+(a) Both of the following:
+i. Used as initial therapy for unresectable metachronous metastases
+ii. Previous therapy with FOLFOX (fluorouracil, leucovorin, and
+oxaliplatin) or CapeOX (capecitabine and oxaliplatin) within the past 12
+months
+-OR-
+(b) Intensive chemotherapy with one of the following is not recommended:
+i. Oxaliplatin
+ii. Irinotecan
+iii. capecitabine
+-OR-
+© 2024 UnitedHealthcare Services, Inc.
+6
+(c) Used as second-line and subsequent therapy for progression of advanced or
+metastatic disease
+-AND-
+(5) Used in combination with trastuzumab
+-AND-
+(6) Patient has not previously been treated with a HER2 inhibitor [e.g.,
+trastuzumab, Perjeta (pertuzumab), Nerlynx (neratinib)]
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tykerb will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tykerb therapy
+Authorization will be issued for 12 months.
+G. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by
+program and/or therapeutic class.
+• Supply limit may be in place.
+4. References:
+1. Tykerb [package insert]. East Hanover, NJ: Novartis Pharmaceuticals Corp.; March 2022.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org. Accessed August 28, 2024.
+© 2024 UnitedHealthcare Services, Inc.
+7
+Program Prior Authorization/Notification –Tykerb® (lapatinib)
+Change Control
+11/2014 Annual review. Added coverage criteria for chordoma. Updated
+background & references.
+11/2015 Annual review. Increased authorization from 7 months to 12 months.
+Revised breast cancer & CNS cancer criteria. Updated background &
+references.
+9/2016 Annual review. Changed Member to Patient. Revised breast cancer
+criteria. Updated references.
+9/2017 Annual review. Updated references.
+9/2018 Annual review. Updated coverage criteria for breast cancer. Updated
+references.
+9/2019 Annual review. Updated coverage criteria to align with NCCN
+guidelines. Updated references. Added general NCCN recommended
+review criteria.
+9/2020 Annual review. No changes to coverage criteria.
+10/2021 Annual review. Updated coverage criteria for rectal cancer to align with
+NCCN guidelines. Updated references.
+10/2022 Annual review. Updated coverage criteria for colon cancer to align with
+NCCN guidelines. Added state mandate. Updated references.
+10/2023 Annual review. Updated coverage criteria for colon cancer.
+10/2024 Annual review. Updated coverage criteria for breast cancer, central
+nervous system cancers, chordoma, colon cancer, and rectal cancer per
+NCCN guidelines.
+© 2024 UnitedHealthcare Services, Inc.
+8

@@ -1,0 +1,152 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Hereditary Angioedema − Andembry Prior Authorization Policy
+• Andembry® (garadacimab subcutaneous injection – CSL Behring)
+REVIEW DATE: 06/18/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Andembry, an activated Factor XII (FXIIa) inhibitor (monoclonal antibody), is
+indicated for prophylaxis to prevent attacks of hereditary angioedema (HAE)
+in adult and pediatric patients ≥ 12 years of age.1
+Guidelines
+According to US HAE Association Medical Advisory Board Guidelines (2020), when
+HAE is suspected based on clinical presentation, appropriate testing includes
+measurement of the serum C4 level, C1 esterase inhibitor (C1-INH) antigenic level,
+and C1-INH functional level.2 Low C4 plus low C1-INH antigenic or functional level
+is consistent with a diagnosis of HAE types I/II. The decision on when to use long-
+term prophylaxis cannot be made on rigid criteria but should reflect the needs of
+the individual patient. First-line medications for HAE I/II include intravenous C1-
+INH, Haegarda® (C1-INH [human] subcutaneous injection), or Takhzyro.
+Page 1 of 4 - Cigna National Formulary Coverage - Policy: Hereditary Angioedema - Andembry Prior Authorization
+Policy
+According to World Allergy Organization/European Academy of Allergy and Clinical
+Immunology guidelines (2021), it is recommended to evaluate for long-term
+prophylaxis at every visit, taking disease activity, burden, and control as well as
+patient preference into consideration.3 The following therapies are supported as
+first-line options for long-term prophylaxis: plasma-derived C1-INH (87%
+agreement), Takhzyro (89% agreement), and Orladeyo (81% agreement). With
+regard to plasma-derived C1-INH, it is noted that Haegarda provided very good and
+dose-dependent preventative effects on the occurrence of HAE attacks; the
+subcutaneous route may provide more convenient administration and maintain
+improved steady-state plasma concentrations compared with the intravenous route.
+Of note, androgens are not recommended in the first-line setting for long-term
+prophylaxis. Recommendations are not made regarding long-term prophylaxis in
+HAE with normal C1-INH.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Andembry.
+All approvals are provided for the duration noted below. Because of the specialized
+skills required for evaluation and diagnosis of patients treated with Andembry as
+well as the monitoring required for adverse events and long-term efficacy, approval
+requires Andembry to be prescribed by or in consultation with a physician who
+specializes in the condition being treated. A patient who has previously met initial
+therapy criteria for Andembry for the requested indication under the Coverage
+Review Department and is currently receiving the requested therapy is only required
+to meet the continuation therapy criteria (i.e., currently receiving Andembry). If
+past criteria have not been met under the Coverage Review Department and the
+patient is currently receiving Andembry, initial therapy criteria must be met.
+Documentation: Documentation will be required where noted in the criteria as
+[documentation required]. Documentation may include, but is not limited to,
+chart notes, laboratory records, and prescription claims records.
+• Andembry® (garadacimab subcutaneous injection – CSL Behring)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Hereditary Angioedema (HAE) Due to C1 Inhibitor (C1-INH) Deficiency
+– Prophylaxis. Approve Andembry for 1 year if the patient meets ONE of the
+following (A or B):
+A) Initial therapy. Approve if the patient meets BOTH of the following (i, ii and
+iii):
+i. Patient is ≥ 12 years of age; AND
+4 Pages - Cigna National Formulary Coverage - Policy:Hereditary Angioedema - Andembry Prior Authorization
+Policy
+ii. Patient has HAE type I or type II as confirmed by the following diagnostic
+criteria (a and b):
+Note: A diagnosis of HAE with normal C1-INH (also known as HAE type
+III) does NOT satisfy this requirement.
+a) Patient has low levels of functional C1-INH protein (≤ 50% of normal)
+at baseline, as defined by the laboratory reference values
+[documentation required]; AND
+b) Patient has lower than normal serum C4 levels at baseline, as defined
+by the laboratory reference values [documentation required]; AND
+iii. The medication is prescribed by or in consultation with an
+allergist/immunologist or a physician who specializes in the treatment of
+HAE or related disorders; OR
+B) Patient is currently receiving Andembry. Approve if the patient meets ALL of
+the following (i, ii, and iii):
+Note: If the patient is currently receiving the requested therapy, but has not
+previously received approval of Andembry for this indication through the
+Coverage Review Department, review under criteria for Initial Therapy.
+i. Patient has a diagnosis of HAE type I or type II [documentation
+required]; AND
+Note: A diagnosis of HAE with normal C1-INH (also known as HAE type
+III) does NOT satisfy this requirement.
+ii. According to the prescriber, the patient has had a favorable clinical
+response since initiating Andembry prophylactic therapy compared with
+baseline (i.e., prior to initiating prophylactic therapy); AND
+Note: Examples of a favorable clinical response include decrease in HAE
+acute attack frequency, decrease in HAE attack severity, or decrease in
+duration of HAE attacks.
+iii. The medication is prescribed by or in consultation with an
+allergist/immunologist or a physician who specializes in the treatment of
+HAE or related disorders.
+CONDITIONS NOT COVERED
+Andembry® (garadacimab subcutaneous injection – CSL Behring)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Concomitant Use with Other Hereditary Angioedema (HAE) Prophylactic
+Therapies. Andembry has not been studied in combination with other
+prophylactic therapies for HAE, and combination therapy for long-term
+prophylactic use is not recommended. Patients may use other medications,
+including Cinryze® (C1 esterase inhibitor [human] intravenous infusion), for on-
+demand treatment of acute HAE attacks, and for short-term (procedural)
+prophylaxis.
+4 Pages - Cigna National Formulary Coverage - Policy:Hereditary Angioedema - Andembry Prior Authorization
+Policy
+Note: Examples of other HAE prophylactic therapies include Cinryze (C1
+esterase inhibitor [human] intravenous infusion), Haegarda (C1 esterase
+inhibitor [human] subcutaneous injection), Orladeyo (berotralstat capsules), and
+Takhzyro (lanadelumab-flyo subcutaneous injection).
+REFERENCES
+1. Andembry® subcutaneous injection [prescribing information]. King of Prussia, PA: CSL Behring;
+June 2025.
+2. Busse PJ, Christiansen SC, Riedl MA, et al. US HAEA Medical Advisory Board 2020 guidelines for the
+management of hereditary angioedema. J Allergy Clin Immunol Pract. 2021;9(1):132-150.e3.
+3. Maurer M, Magerl M, Betschel S, et al. The international WAO/EAACI guideline for the management
+of hereditary angioedema: the 2021 revision and update. Allergy. 2022;77(7):1961-1990.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+New Policy -- 06/18/2025
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+4 Pages - Cigna National Formulary Coverage - Policy:Hereditary Angioedema - Andembry Prior Authorization
+Policy

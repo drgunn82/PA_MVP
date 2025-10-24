@@ -1,0 +1,321 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER RX
+POLICY: Antivirals – Valacyclovir Drug Quantity Management Policy – Per Rx
+• Valtrex® (valacyclovir tablets − GlaxoSmithKline, generic)
+REVIEW DATE: 04/03/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Valacyclovir is a deoxynucleoside analogue DNA polymerase inhibitor indicated for:1
+• Adults:
+o Treatment of herpes labialis (cold sores).
+o Genital herpes
+▪ Treatment in immunocompetent patients (initial or recurrent episode).
+▪ Suppression in immunocompetent or patients with human
+immunodeficiency virus (HIV-1) infection.
+▪ Reduction of transmission in immunocompetent patients.
+o Herpes zoster
+▪ Treatment in immunocompetent patients.
+• Pediatric Patients:
+o Treatment of herpes labialis (cold sores), pediatric patients ≥ 12 years
+of age.
+Page 1 of 7 - Cigna National Formulary Coverage - Policy:Antivirals – Valacyclovir Drug Quantity Management
+Policy – Per Rx
+o Treatment of chickenpox, immunocompetent pediatric patients 2 to < 18 years
+of age.
+The efficacy and safety of valacyclovir has not been established in
+immunocompromised patients other than for the suppression of genital herpes in
+patients with HIV-1.1
+Dosing
+Manufacturer recommended dosing is provided in Table 1.
+Table 1. Valacyclovir FDA-Approved Indications and Dosing.1
+Indication Normal Dose Renal Dosing Adjustments†
+(CrCl  50 CrCl ≥ 30 to ≤ CrCl ≥ 10 to ≤ 29 CrCl < 10
+mL/min) 49 mL/min mL/min mL/min
+Adult
+Cold sores 2 grams BID for 1 1 gram BID for 1 500 mg BID for 1 500 mg single
+(Herpes labialis) day day day dose
+Genital herpes
+Initial episode 1 gram BID for 10 days 1 gram QD for 10 500 mg QD for
+days 10 days
+Recurrent 500 QD for 3 days 500 mg QD for 3 days
+episodes
+Suppressive 1 gram QD 500 mg QD
+therapy OR OR
+(immunocompete 500 mg QD* 500 mg Q48H*
+nt patients)
+Suppressive 500 mg BID 500 mg QD
+therapy (HIV-
+infected patients)
+Reduction of 500 mg QD -- -- --
+transmission
+Herpes zoster 1 gram TID for 7 1 gram BID for 7 1 gram QD for 7 500 mg QD for 7
+(Shingles) days days days days
+Table 1 (continued). FDA-Approved Indications and Dosing.1
+Indication Normal Dose Renal Dosing Adjustment†
+(CrCl  50 CrCl ≥ 30 to ≤ CrCl ≥ 10 to ≤ 29 CrCl < 10
+mL/min) 49 mL/min mL/min mL/min
+Pediatric
+Cold sores 2 grams BID for 1 -- -- --
+(Herpes labialis, day
+age ≥ 12 years)
+Chickenpox 20 mg/kg -- -- --
+(age ≥ 2 to < 18 administered TID
+years) for 5 days; not to
+exceed 1 gram TID
+CrCl – Creatinine clearance; † Patients requiring hemodialysis should receive the recommended dose of
+valacyclovir after hemodialysis. BID – Twice daily; QD – Once daily; * Alternative regimen in patients
+with a history of ≤ 9 recurrences per year; Q48H – Every 48 hours; HIV – Human immunodeficiency
+virus; TID – Three times daily.
+Off-Label Dosing
+There are data and/or guidelines to support several off-label uses of valacyclovir.
+Quantity limits for valacyclovir (Valtrex, generic) provide for 30 tablets per
+7 Pages - Cigna National Formulary Coverage - Policy:Antivirals – Valacyclovir Drug Quantity Management
+Policy – Per Rx
+dispensing at retail or 90 tablets per dispensing at home delivery. This provides a
+quantity sufficient for the majority of labeled and off-label doses. Below are
+situations where additional quantities of valacyclovir may be needed.
+• Cytomegalovirus (CMV): For the prevention of CMV infection following solid
+organ transplantation (renal), the recommended dose of valacyclovir is 2 grams
+four times daily (QID).2 Valacyclovir is not recommended as an option for
+prophylaxis in patients receiving heart, liver, pancreas, lung, intestinal, and
+composite tissue transplant. In hematopoietic cell transplant recipients,
+valacyclovir is also an option for CMV prophylaxis, with dosing ranging from 1
+gram twice daily (BID) to 2 grams three times daily (TID), depending on the
+setting in which it is used.3
+• Herpes simplex virus (HSV):
+o Immunocompromised patients: In adults and adolescents with HIV,
+valacyclovir 500 mg BID is recommended for chronic suppression of HSV.4
+Valacyclovir 500 mg BID is also recommended for the prevention of HSV in
+immunocompromised patients who have undergone solid organ transplant
+who are not already receiving CMV prophylaxis, as well as in HSV-
+seropositive hematopoietic cell transplant recipients.3,5 In this same
+population in patients with severe mucocutaneous HSV, after initial
+intravenous (IV) therapy, oral therapy can be used as oral lesions begin to
+regress (valacyclovir 1 gram BID continued until lesions are completely
+healed).
+o Pregnant patients: For the suppression of HSV in a pregnant patient who has
+experienced a genital HSV lesion anytime during pregnancy, valacyclovir 500
+mg BID starting at 36 weeks gestation and continued until delivery is a
+recommended alternative agent.6
+• Herpes zoster (shingles):
+o Treatment: In adults and adolescents with HIV, guidelines recommend
+valacyclovir 1 gram TID for 7 to 10 days (or longer if lesions are slow to
+resolve) for the treatment of acute, localized, dermatomal herpes zoster
+(shingles).4 Valacyclovir has been used for the treatment of localized herpes
+zoster (dermatomal) in solid organ transplant recipients at a dose of 1 gram
+TID for 7 days, or until lesions have crusted over which may be delayed in
+immunocompromised hosts.7
+o Prophylaxis: Refer to details in the VZV prophylaxis section below.
+• Varicella zoster virus (VZV) [chickenpox]:
+o Treatment: In adults and adolescents with HIV, guidelines recommend
+valacyclovir 1 gram TID for 5 to 7 days for the treatment of uncomplicated
+cases of primary VZV infection (chickenpox).4 For severe or complicated
+cases, patients are treated with IV therapy and are then transitioned to oral
+therapy with valacyclovir 1 gram TID after defervescence if no evidence of
+visceral involvement is notes is noted. Similar dosing is recommended in
+solid organ transplant recipients.7
+o Prophylaxis: For the short-term (3 to 6 months) prophylaxis of VZV or
+herpes zoster in solid organ transplant recipients who are HSV- or VZV-
+seropositive and not receiving CMV prophylaxis, valacyclovir 500 mg BID has
+been used.7 It may also be considered in seronegative recipients. In
+hematopoietic cell transplant recipients who are VZV-seropositive, the
+7 Pages - Cigna National Formulary Coverage - Policy:Antivirals – Valacyclovir Drug Quantity Management
+Policy – Per Rx
+recommended dose of valacyclovir is also 500 mg BID for 1 year following
+transplantation.3 The duration may be extended in patients who require
+ongoing immunosuppression.
+• Viral ophthalmic infections: Valacyclovir is recommended for the treatment of
+acute retinal necrosis, an ophthalmic reactivation of herpes zoster virus,
+following initial treatment with IV acyclovir.8 Recommended doses range from 1
+gram TID to 2 grams QID. In adults and adolescents with HIV and acute retinal
+necrosis, recommended treatment is acyclovir IV for 10 to 14 days, followed by
+oral valacyclovir 1 gram TID for 14 weeks or longer.4 Valacyclovir has also been
+used for the management of herpes simplex keratitis at a dose of 500 mg TID
+for 2 weeks.9
+Availability
+Valacyclovir is available in 500 mg and 1,000 mg (1 gram) tablets.1 Valacyclovir
+oral suspension (25 mg/mL or 50 mg/mL) may be prepared extemporaneously from
+500 mg valacyclovir tablets for use in pediatric patients for whom a solid dosage
+form is not appropriate.
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote dose
+consolidation of valacyclovir. If the Drug Quantity Management rule is not met for
+the requested medication at the point of service, coverage will be determined by
+the Criteria below. All approvals are provided for 1 year in duration.
+Drug Quantity Limits
+Product Strength and Form Retail Home Delivery
+Maximum Quantity Maximum Quantity
+per Rx per Rx
+Valtrex® 500 mg tablets 30 tablets 90 tablets
+(valacyclovir tablets, 1 gram tablets 30 tablets 90 tablets
+generic)
+Antivirals – Valacyclovir Drug Quantity Management Policy – Per Rx
+product(s) is(are) covered as medically necessary when the following
+criteria is(are) met. Any other exception is considered not medically
+necessary.
+CRITERIA
+Valacyclovir 500 mg tablets
+1. If the medication is being requested for the chronic suppression or prevention of
+herpes simplex virus in an immunocompromised patient, approve the requested
+quantity, not to exceed 60 tablets per dispensing at retail or 180 tablets per
+dispensing at home delivery.
+2. If the medication is being requested for the suppression of herpes simplex virus
+in pregnancy from 36 weeks of gestation until delivery, approve the requested
+7 Pages - Cigna National Formulary Coverage - Policy:Antivirals – Valacyclovir Drug Quantity Management
+Policy – Per Rx
+quantity, not to exceed 60 tablets per dispensing at retail or 180 tablets per
+dispensing at home delivery.
+3. If the medication is being requested for the prophylaxis of herpes zoster/varicella
+zoster virus following solid organ transplantation or hematopoietic cell
+transplantation, approve the requested quantity, not to exceed 60 tablets per
+dispensing at retail or 180 tablets per dispensing at home delivery.
+4. If the medication is being requested for a viral ophthalmic infection, approve the
+requested quantity, not to exceed 90 tablets per dispensing at retail or a 270
+tablets per dispensing at home delivery.
+Valacyclovir 1,000 mg (1 gram) tablets
+1. If the medication is being requested for the prevention of cytomegalovirus
+infection after solid organ transplantation or hematopoietic cell transplantation,
+approve the requested quantity, not to exceed a 240 tablets per dispensing at
+retail or 720 tablets per dispensing at home delivery.
+2. If the medication is being requested for the treatment of herpes simplex virus
+infection in an immunocompromised patient, approve the requested quantity,
+not to exceed 60 tablets per dispensing at retail or 180 tablets per dispensing at
+home delivery.
+3. If the medication is being requested for the treatment of acute local dermatomal
+herpes zoster in an immunocompromised patient, approve the requested
+quantity, not to exceed 90 tablets per dispensing at retail or 270 tablets per
+dispensing at home delivery.
+4. If the medication is being requested for the treatment of varicella zoster virus
+infection in an immunocompromised patient, approve the requested quantity, not
+to exceed 90 tablets per dispensing at retail or 270 tablets per dispensing at
+home delivery.
+5. If the medication is being requested for a viral ophthalmic infection, approve the
+requested quantity, not to exceed 240 tablets per dispensing at retail or 720
+tablets per dispensing at home delivery.
+REFERENCES
+1. Valtrex® tablets [prescribing information]. Research Triangle Park, NC: GlaxoSmithKline; June
+2021.
+2. Razonable RR and Humar A. Cytomegalovirus in solid organ transplant recipients: Guidelines of
+the American Society of Transplantation Infectious and Diseases Community of Practice. Clin
+Transplant. 2019;33:e13512.
+3. Wingard JR. Prevention of viral infections in hematopoietic cell transplant recipients. In:
+UpToDate, Post TW (Ed), UpToDate, Waltham, MA. Last updated on March 12, 2025. Accessed on
+March 20, 2025.
+4. Panel on Opportunistic Infections in HIV-Infected Adults and Adolescents. Guidelines for the
+prevention and treatment of opportunistic infections in HIV-infected adults and adolescents:
+recommendations from the Centers for Disease Control and Prevention, the National Institutes of
+7 Pages - Cigna National Formulary Coverage - Policy:Antivirals – Valacyclovir Drug Quantity Management
+Policy – Per Rx
+Health, and the HIV Medicine Association of the Infectious Diseases Society of America. Updated
+December 16, 2024. Available at: https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-
+guidelines-adult-and-adolescent-opportunistic-infections/whats-new. Accessed March 20, 2025.
+5. Lee DH, Zuckerman RA, et al. Herpes simplex virus infections in solid organ transplantation:
+guidelines from the American Society of Transplantation Infectious Diseases Community of
+Practice. Clin Transplant. 2019;33(9):e13526.
+6. American College of Obstetricians and Gynecologists. management of genital herpes in
+pregnancy: ACOG practice bulletin: bulletin number 220. Obstet Gynecol. 2020;135(5):e193-
+e202.
+7. Pergam SA and Limaye AP on behalf of the American Society of Transplantation Infectious
+Diseases Community of Practice. Varicella zoster virus in solid organ transplantation: guidelines
+from the American Society of Transplantation Infectious Diseases Community. Clin Transplant.
+2019;33:e13622.
+8. Schoenberger SD, Kim SJ, Thorne JE, et al. Diagnosis and treatment of acute retinal necrosis: a
+report by the American Academy of Ophthalmology. Ophthalmology. 2017;124(3):382-392.
+9. Sugar A. Herpes simplex keratitis. In: UpToDate, Post TW (Ed), UpToDate, Waltham, MA. Last
+updated on January 9, 2025. Accessed on March 20, 2025.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Policy was updated to reflect the existing quantity limits when a 04/06/2023
+Revision product is obtained via home delivery.
+No changes to criteria.
+Annual Valacyclovir 500 mg tablets: 04/19/2024
+Revision • Override criteria for patients requesting valacyclovir for the chronic
+suppression or prevention of “Mucocutaneous herpes (genital,
+perianal, oral)” were clarified to chronic suppression or prevention
+of “herpes simplex virus”.
+• Override criteria to approve for the requested quantity, not to
+exceed a 30-day supply per dispensing at retail or a 90-day supply
+per dispensing at home delivery if the medication is being requested
+for the suppression of herpes simplex virus (HSV) in pregnancy from
+36 weeks of gestation until delivery, were updated to approve the
+requested quantity, not to exceed 60 tablets per dispensing at retail
+or 180 tablets per dispensing at home delivery.
+• Override criteria to approve an additional quantity if the medication
+is being requested for the prophylaxis of herpes zoster/varicella
+zoster virus following solid organ transplantation were updated to
+also include hematopoietic cell transplantation.
+• Override criteria to approve the requested quantity, not to exceed a
+30-day supply per dispensing at retail or a 90-day supply per
+dispensing at home delivery if the medication is being requested for
+an ophthalmic infection were updated to approve the requested
+quantity, not to exceed 240 tablets per dispensing at retail or 720
+tablets per dispensing at home delivery, if the medication is being
+requested for a viral ophthalmic infection.
+• Override criteria to approve a one-time override for 60 tablets at
+retail or home delivery for patients using acyclovir for prophylaxis of
+herpes gladiatorum were removed.
+Valacyclovir 1,000 mg (1 gram) tablets:
+• Override criteria to approve the requested quantity, not to exceed a
+30-day supply at retail or a 90-day supply at home delivery if the
+medication is being requested for the prevention of cytomegalovirus
+infection after solid organ transplantation, bone marrow
+transplantation, or stem cell transplantation” were updated to
+7 Pages - Cigna National Formulary Coverage - Policy:Antivirals – Valacyclovir Drug Quantity Management
+Policy – Per Rx
+approve the requested quantity, not to exceed 240 tablets per
+dispensing at retail or 720 tablets per dispensing at home delivery if
+the medication is being requested for the prevention of
+cytomegalovirus infection after solid organ transplantation or
+hematopoietic cell transplantation.
+• Override criteria for patients requesting valacyclovir for the
+treatment of “mucocutaneous herpes” were clarified to treatment of
+“herpes simplex virus”.
+• Override criteria were added to approve the requested quantity, not
+to exceed 90 tablets per dispensing at retail or 270 tablets per
+dispensing at home delivery if the medication is being requested for
+the treatment of varicella zoster virus infection in an
+immunocompromised patient.
+• Override criteria to approve the requested quantity, not to exceed a
+30-day supply per dispensing at retail or a 90-day supply per
+dispensing at home delivery if the medication is being requested for
+an ophthalmic infection were updated to approve the requested
+quantity, not to exceed 240 tablets per dispensing at retail or 720
+tablets per dispensing at home delivery, if the medication is being
+requested for a viral ophthalmic infection.
+Exclusions: Exclusions to not provide additional quantities of
+valacyclovir for the treatment of multiple sclerosis, chronic fatigue
+syndrome, or Epstein-Barr virus were removed.
+Annual No criteria changes. 4/03/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+7 Pages - Cigna National Formulary Coverage - Policy:Antivirals – Valacyclovir Drug Quantity Management
+Policy – Per Rx

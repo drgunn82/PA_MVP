@@ -1,0 +1,52 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1422-32
+Program Prior Authorization/Notification
+Medication Litfulo™ (ritlecitinib)
+P&T Approval Date 11/2023, 12/2024
+Effective Date 3/1/2025
+1. Background:
+Litfulo (ritlecitinib) is a kinase inhibitor indicated for the treatment of severe alopecia areata in
+adults and adolescents 12 years and older.
+Limitations of Use:
+Not recommended for use in combination with other JAK inhibitors, biologic
+immunomodulators, cyclosporine or other potent immunosuppressants
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Litfulo will be approved based on both of the following criteria:
+a. Diagnosis of severe alopecia areata
+-AND-
+b. Patient is not receiving Litfulo in combination with either of the following:
+(1) Targeted immunomodulator [e.g., Olumiant (baricitinib), Enbrel (etanercept),
+Cimzia (certolizumab), Simponi (golimumab), Orencia (abatacept), adalimumab,
+Xeljanz (tofacitinib), Rinvoq (upadacitinib)]
+(2) Potent immunosuppressant (e.g., azathioprine or cyclosporine)
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Litfulo will be approved based on both of the following criteria:
+a. Documentation of positive clinical response to Litfulo therapy
+-AND-
+b. Patient is not receiving Litfulo in combination with either of the following:
+(1) Targeted immunomodulator [e.g., Olumiant (baricitinib), Enbrel (etanercept),
+Cimzia (certolizumab), Simponi (golimumab), Orencia (abatacept), adalimumab,
+Xeljanz (tofacitinib), Rinvoq (upadacitinib)]
+© 2024 UnitedHealthcare Services Inc.
+1
+(2) Potent immunosuppressant (e.g., azathioprine or cyclosporine)
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits, Step Therapy, and/or Medical Necessity may be in place.
+4. References:
+1. Litfulo [package insert]. New York, NY: Pfizer, Inc.; June 2023.
+Program Prior Authorization/Notification - Litfulo (ritlecitinib)
+Change Control
+11/2023 New program.
+12/2024 Annual review with no change to coverage criteria.
+© 2024 UnitedHealthcare Services Inc.
+2

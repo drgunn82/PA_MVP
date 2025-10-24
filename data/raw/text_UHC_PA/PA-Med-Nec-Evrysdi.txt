@@ -1,0 +1,193 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2217-7
+Program Prior Authorization/Medical Necessity
+Medication Evrysdi® (risdiplam)
+P&T Approval Date 9/2020, 9/2021, 7/2022, 8/2023, 7/2024, 12/2024, 4/2025
+Effective Date 6/1/2025
+1. Background:
+Evrysdi is a survival of motor neuron 2 (SMN2) splicing modifier indicated for the treatment of
+spinal muscular atrophy (SMA) in pediatric and adult patients.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Evrysdi will be approved based on all of the following criteria:
+a. Diagnosis of spinal muscular atrophy (SMA)
+-AND-
+b. Submission of medical records (e.g., chart notes, laboratory values) confirming the
+mutation or deletion of genes in chromosome 5q resulting in one of the following:
+(1) Homozygous gene deletion or mutation of SMN1 gene (e.g., homozygous deletion
+of exon 7 at locus 5q13)
+-OR-
+(2) Compound heterozygous mutation of SMN1 gene (e.g., deletion of SMN1 exon 7
+[allele 1] and mutation of SMN1 [allele 2])
+-AND-
+c. Patient is not dependent on either of the following:
+(1) Invasive ventilation
+(2) Use of non-invasive ventilation beyond use for naps and nighttime sleep
+-AND-
+d. Patient is not receiving concomitant chronic survival motor neuron (SMN) modifying
+therapy [e.g., Spinraza (nusinersen)]
+-AND-
+e. One of the following:
+© 2025 UnitedHealthcare Services, Inc.
+1
+(1) Patient has not previously received gene replacement therapy for the treatment of
+SMA [e.g., Zolgensma (onasemnogene abeparvovec-xioi)]
+-OR-
+(2) Both of the following:
+(a) Patient has previously received gene replacement therapy [e.g., Zolgensma
+(onasemnogene abeparvovec-xioi)] for the treatment of SMA
+-AND-
+(b) Submission of medical records (e.g., chart notes, laboratory values)
+documenting a clinically meaningful functional decline (e.g., loss of motor
+milestone) since receiving gene replacement therapy [e.g., Zolgensma
+(onasemnogene abeparvovec-xioi)]
+-AND-
+f. Submission of medical records (e.g., chart notes, laboratory values) documenting the
+baseline assessment of at least one of the following exams (based on patient age and
+motor ability) to establish baseline motor ability (baseline motor function analysis
+could include assessments evaluated prior to receipt of previous chronic SMN
+modifying therapy if transitioning therapy)*:
+* Baseline assessments for patients less than 2 months of age requesting Evrysdi are not necessary
+in order to not delay access to initial therapy in recently diagnosed infants. Initial assessments
+shortly post-therapy can serve as baseline with respect to efficacy reauthorization assessment.
+(1) Children’s Hospital of Philadelphia Infant Test of Neuromuscular Disorders (CHOP
+INTEND)
+(2) Hammersmith Infant Neurological Exam Part 2 (HINE-2)
+(3) Hammersmith Functional Motor Scale Expanded (HFMSE)
+(4) Revised Upper Limb Module (RULM) Test
+(5) Motor Function Measure 32 (MFM-32) Scale
+-AND-
+g. Prescribed by or in consultation with a neurologist with expertise in the treatment of
+SMA
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Evrysdi will be approved based on all of the following criteria:
+a. Submission of medical records (e.g., chart notes, laboratory values) with the most
+recent results documenting a positive clinical response to Evrysdi compared to
+© 2025 UnitedHealthcare Services, Inc.
+2
+pretreatment baseline status (inclusive of baseline assessments prior to receipt of
+previous chronic SMN modifying therapy) as demonstrated by at least one of the
+following exams:
+(1) CHOP INTEND: One of the following:
+(a) Improvement or maintenance of previous improvement of at least a 4 point
+increase in score from pretreatment baseline
+(b) Patient has achieved and maintained any new motor milestone from
+pretreatment baseline when they would otherwise be unexpected to do so
+-OR-
+(2) HINE-2: One of the following:
+(a) Improvement or maintenance of previous improvement of at least 2 point (or
+maximal score) increase in ability to kick
+(b) Improvement or maintenance of previous improvement of at least 1 point
+increase in any other HINE-2 milestone (e.g., head control, rolling, sitting,
+crawling, etc.), excluding voluntary grasp
+(c) The patient exhibited improvement, or maintenance of previous improvement
+in more HINE motor milestones than worsening, from pretreatment baseline
+(net positive improvement)
+(d) Patient has achieved and maintained any new motor milestones when they
+would otherwise be unexpected to do so
+-OR-
+(3) HFMSE: One of the following:
+(a) Improvement or maintenance of previous improvement of at least a 3 point
+increase in score from pretreatment baseline
+(b) Patient has achieved and maintained any new motor milestone from
+pretreatment baseline when they would otherwise be unexpected to do so
+-OR-
+(4) RULM: One of the following:
+(a) Improvement or maintenance of previous improvement of at least a 2 point
+increase in score from pretreatment baseline
+(b) Patient has achieved and maintained any new motor milestone from
+pretreatment baseline when they would otherwise be unexpected to do so
+© 2025 UnitedHealthcare Services, Inc.
+3
+-OR-
+(5) MFM-32: One of the following:
+(a) Improvement or maintenance of previous improvement of at least a 3 point
+increase in score from pretreatment baseline
+(b) Patient has achieved and maintained any new motor milestone from
+pretreatment baseline when they would otherwise be unexpected to do so
+-AND-
+b. Patient is not dependent on either of the following:
+(1) Invasive ventilation
+(2) Use of non-invasive ventilation beyond use for naps and nighttime sleep
+-AND-
+c. Patient is not receiving concomitant chronic survival motor neuron (SMN) modifying
+therapy [e.g., Spinraza (nusinersen)]
+-AND-
+d. Prescribed by or in consultation with a neurologist with expertise in the treatment of
+SMA
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Evrysdi [package insert]. South San Francisco, CA: Genentech, Inc; September 2024.
+2. Mercuri E, Darras BT, Chiriboga CA, et al. Nusinersen versus Sham Control in Later-Onset
+Spinal Muscular Atrophy. N Engl J Med. 2018 Feb 15;378(7):625-635.
+3. Finkel RS, Mercuri E, Darras BT, et al. Nusinersen versus Sham Control in Infantile-Onset Spinal
+Muscular Atrophy. N Engl J Med. 2017 Nov 2;377(18):1723-1732.
+4. Markowitz JA, Singh P, Darras BT. Spinal Muscular Atrophy: A Clinical and Research Update.
+Pediatric Neurology 46 (2012) 1-12.
+© 2025 UnitedHealthcare Services, Inc.
+4
+5. Mendell JR, Al-Zaidy S, Shell R, et al. Single-dose gene-replacement therapy for spinal muscular
+atrophy. N Engl J Med. 2017;377:1713-22
+6. Chiriboga C, Mercuri E, Fischer D, et al. JEWELFISH: Risdiplam (RG7916) increased survival
+of motor neuron (SMN) protein levels in non-naïve patients with spinal muscular atrophy (SMA).
+Presented at the 6th International Congress of Myology in Bordeux, France; March 25-28, 2019.
+Poster.
+7. Chiriboga C, Bruno C, Duong T, et al. JEWELFISH: Safety and pharmacodynamic data in non-
+naïve patients with spinal muscular atrophy receiving treatment with risdiplam. Presented at the
+2020 Virtual SMA Research & Clinical Care Meeting. June 12, 2020.
+8. Day JW, Annoussamy M, Baranello G, et al. SUNFISH Part 1: 24-month safety and exploratory
+outcomes of risdiplam (RG7916) treatment in patients with Type 2 or 3 spinal muscular atrophy
+(SMA). Presented at the 2020 Virtual SMA Research & Clinical Care Meeting. June 12, 2020.
+9. Servais L, Baranello G, Masson R, et al. FIREFISH Part 2: Efficacy and safety of risdiplam
+(RG7916) in infants with Type 1 spinal muscular atrophy (SMA). Presented at the 2020 Virtual
+SMA Research & Clinical Care Meeting. June 12, 2020.
+10. Kirschner J, Butoianu N, Goemans N, et al. European ad-hoc consensus statement on gene
+replacement therapy for spinal muscular atrophy. European Journal of Paediatric Neurology.
+2020, doi: https://doi.org/10.1016/j.ejpn.2020.07.001.
+11. Chiriboga CA, Bruno C, Duong T, et al. Risdiplam in Patients Previously Treated with Other
+Therapies for Spinal Muscular Atrophy: An Interim Analysis from the JEWELFISH Study
+[published correction appears in Neurol Ther. 2023 Jul 3;:]. Neurol Ther. 2023;12(2):543-557.
+doi:10.1007/s40120-023-00444-1
+12. Pera MC, Coratti G, Mazzone ES, Montes J, Scoto M, De Sanctis R, Main M, Mayhew A, Muni
+Lofra R, Dunaway Young S, Glanzman AM, Duong T, Pasternak A, Ramsey D, Darras B, Day
+JW, Finkel RS, De Vivo DC, Sormani MP, Bovis F, Straub V, Muntoni F, Pane M, Mercuri E;
+iSMAC Consortium Group. Revised upper limb module for spinal muscular atrophy: 12 month
+changes. Muscle Nerve. 2019 Apr;59(4):426-430. doi: 10.1002/mus.26419. Epub 2019 Feb 7.
+PMID: 30677148.
+13. Stolte B, Bois JM, Bolz S, Kizina K, Totzeck A, Schlag M, Kleinschnitz C, Hagenacker T.
+Minimal clinically important differences in functional motor scores in adults with spinal muscular
+atrophy. Eur J Neurol. 2020 Dec;27(12):2586-2594. doi: 10.1111/ene.14472. Epub 2020 Sep 6.
+PMID: 32781490.
+14. Kirschner J, Bernert G, Butoianu N, et al. 2024 update: European consensus statement on gene
+therapy for spinal muscular atrophy. Eur J Paediatr Neurol. 2024;51:73-78.
+doi:10.1016/j.ejpn.2024.06.001.
+Program Prior Authorization/Medical Necessity – Evrysdi (risdiplam)
+Change Control
+9/2020 New program
+9/2021 Annual review with no changes to clinical coverage criteria. Updated
+reference.
+7/2022 Updated criteria to align with new labeled indication in patients of all
+ages. Updated reference.
+8/2023 Annual review. Updated references.
+7/2024 Annual review. Revised prescriber requirement and updated Upper
+Limb Module to Revised Upper Limb Module test. Updated references.
+12/2024 Added criteria for patients that have documented decline from
+© 2025 UnitedHealthcare Services, Inc.
+5
+pretreatment baseline status following administration of gene
+replacement therapy. Updated references.
+4/2025 Revised criteria for patients that have documented decline from
+pretreatment baseline status following administration of gene
+replacement therapy.
+© 2025 UnitedHealthcare Services, Inc.
+6

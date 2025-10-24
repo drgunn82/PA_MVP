@@ -1,0 +1,204 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2175-9
+Program Prior Authorization/Medical Necessity
+Medications *Fasenra™ (benralizumab)
+*This program applies to the prefilled autoinjector formulation.
+P&T Approval Date 10/2019, 4/2020, 4/2021, 6/2021, 11/2021, 2/2022, 2/2023, 7/2023,
+7/2024
+Effective Date 10/1/2024
+1. Background:
+Fasenra (benralizumab) is an interleukin-5 receptor alpha-directed cytolytic monoclonal
+antibody indicated for the add-on maintenance treatment of patients with severe asthma aged 6
+years and older, and with an eosinophilic phenotype.
+Fasenra is not used for treatment of other eosinophilic conditions or for relief of acute
+bronchospasm or status asthmaticus.
+2. Coverage Criteriaa:
+A. Severe Asthma
+1. Initial Authorization
+a. Fasenra will be approved based on one of the following criteria:
+(1) All of the following:
+(a) Patient has been established on therapy with Fasenra under an active
+UnitedHealthcare medical benefit prior authorization for the treatment of
+severe asthma
+-AND-
+(b) Documentation of positive clinical response to Fasenra therapy as
+demonstrated by at least one of the following:
+i. Reduction in the frequency of exacerbations
+ii. Decreased utilization of rescue medications
+iii. Increase in percent predicted FEV1 from pretreatment baseline
+iv. Reduction in severity or frequency of asthma-related symptoms
+(e.g., wheezing, shortness of breath, coughing, etc.)
+v. Reduction in oral corticosteroid requirements
+-AND-
+(c) Fasenra is being used in combination with an inhaled corticosteroid (ICS)-
+containing maintenance medication [e.g., Advair/AirDuo
+(fluticasone/salmeterol), Breo Ellipta (fluticasone furoate/vilanterol),
+© 2024 UnitedHealthcare Services, Inc.
+1
+Symbicort (budesonide/ formoterol), Trelegy Ellipta (fluticasone
+furoate/umeclidinium/vilanterol)].
+-AND-
+(d) Patient is not receiving Fasenra in combination with any of the following:
+i. Anti-interleukin 5 therapy [e.g., Cinqair (resilizumab), Nucala
+(mepolizumab)]
+ii. Anti-IgE therapy [e.g., Xolair (omalizumab)]
+iii. Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+iv. Thymic stromal lymphopoietin (TSLP) inhibitor [e.g., Tezspire
+(tezepelumab)]
+-AND-
+(e) Prescribed by one of the following:
+i. Allergist
+ii. Immunologist
+iii. Pulmonologist
+-OR-
+(2) All of the following:
+(a) Diagnosis of severe asthma
+-AND-
+(b) Classification of asthma as uncontrolled or inadequately controlled as
+defined by at least one of the following
+i. Poor symptom control (e.g., Asthma Control Questionnaire [ACQ]
+score consistently greater than 1.5 or Asthma Control Test [ACT] score
+consistently less than 20)
+ii. Two or more bursts of systemic corticosteroids for at least 3 days each
+in the previous 12 months
+iii. Asthma-related emergency treatment (e.g., emergency room visit,
+hospital admission, or unscheduled physician’s office visit for nebulizer
+or other urgent treatment)
+iv. Airflow limitation (e.g., after appropriate bronchodilator withhold
+forced expiratory volume in 1 second [FEV1] less than 80% predicted
+[in the face of reduced FEV1/forced vital capacity [FVC] defined as
+less than the lower limit of normal])
+v. Patient is currently dependent on oral corticosteroids for the treatment
+of asthma
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+2
+(c) Submission of medical records (e.g., chart notes, laboratory values, etc.)
+confirming asthma is an eosinophilic phenotype as defined by a baseline
+(pre-treatment) peripheral blood eosinophil level ≥ 150 cells/μL
+-AND-
+(d) Fasenra will be used in combination with one of the following:
+i. One maximally dosed (appropriately adjusted for age) combination
+inhaled corticosteroid (ICS)/long-acting beta agonist (LABA) [e.g.,
+2
+Advair/AirDuo Respiclick (fluticasone propionate/salmeterol),
+Symbicort (budesonide/formoterol), Breo Ellipta (fluticasone
+furoate/vilanterol)]
+-OR-
+ii. Combination therapy including both of the following:
+• One maximally dosed (appropriately adjusted for age) ICS
+product [e.g., ciclesonide (Alvesco), mometasone furoate
+(Asmanex), beclomethasone dipropionate (QVAR)]
+-AND-
+• One additional asthma controller medication [e.g., LABA -
+olodaterol (Striverdi) or indacaterol (Arcapta); leukotriene
+receptor antagonist – montelukast (Singulair); theophylline]
+-AND-
+(e) Patient is not receiving Fasenra in combination with any of the following:
+i. Anti-interleukin 5 therapy [e.g., Cinqair (resilizumab), Nucala
+(mepolizumab)]
+ii. Anti-IgE therapy [e.g., Xolair (omalizumab)]
+iii. Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+iv. Thymic stromal lymphopoietin (TSLP) inhibitor [e.g., Tezspire
+(tezepelumab)]
+-AND-
+(f) Prescribed by one of the following:
+i. Allergist
+ii. Immunologist
+iii. Pulmonologist
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+3
+2. Reauthorization
+a. Fasenra will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Fasenra therapy as demonstrated
+by at least one of the following:
+(a) Reduction in the frequency of exacerbations
+(b) Decreased utilization of rescue medications
+(c) Increase in percent predicted FEV1 from pretreatment baseline
+(d) Reduction in severity or frequency of asthma-related symptoms (e.g.,
+wheezing, shortness of breath, coughing, etc.)
+(e) Reduction in oral corticosteroid requirements
+-AND-
+(2) Fasenra is being used in combination with an ICS-containing maintenance
+medication [e.g., Advair/AirDuo (fluticasone/salmeterol), Breo Ellipta
+(fluticasone furoate/vilanterol), Symbicort (budesonide/ formoterol), Trelegy
+Ellipta (fluticasone furoate/umeclidinium/vilanterol)].
+-AND-
+(3) Patient is not receiving Fasenra in combination with any of the following:
+(a) Anti-interleukin 5 therapy [e.g., Cinqair (resilizumab), Nucala
+(mepolizumab)]
+(b) Anti-IgE therapy [e.g., Xolair (omalizumab)]
+(c) Anti-interleukin 4 therapy [e.g., Dupixent (dupilumab)]
+(d) Thymic stromal lymphopoietin (TSLP) inhibitor [e.g., Tezspire
+(tezepelumab)]
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limitations may be in place.
+• Medical Necessity may be in place.
+• The prefilled syringe is typically covered under the medical benefit. Please refer to the United
+Healthcare Medical Benefit Drug Policy: “Respiratory Interleukins (Cinqair®, Fasenra®, and
+Nucala®)”.
+© 2024 UnitedHealthcare Services, Inc.
+4
+4. References:
+1. Fasenra [prescribing information]. Wilmington, DE; AstraZeneca Pharmaceuticals LP; February
+2021.
+2. Chung KF, Wenzel SE, Brozek JL, et al. International ERS/ATS guidelines on definition,
+evaluation and treatment of severe asthma. Eur Respir J. 2014 Feb:43(2):343-73.
+3. Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2023.
+Available at http://www.ginasthma.org. Accessed June 8, 2023.
+4. Centers for Disease Control and Prevention. Asthma. Available at http://www.cdc.gov. Accessed
+December 2022.
+5. National Heart, Lung and Blood Institute. Asthma Management Guidelines. Available at
+http://www.nhlbi.nih.gov. Accessed December 2022.
+6. FitzGerald JM, Bleecker ER, Menzies-Gow A, et al. Predictors of enhanced response with
+benralizumab for patients with severe asthma: pooled analysis of the SIROCCO and CALIMA
+studies. Lancet Respir Med. 2017 Sep 8.
+7. Goldman M, Hirsch I, Zangrilli JG, et al. The association between blood eosinophil count and
+benralizumab efficacy for patients with severe, uncontrolled asthma: subanalyses of the Phase III
+SIROCCO and CALIMA studies. Curr Med Res Opin. 2017 Sep;33(9):1605-1613.
+8. Holguin F, Cardet JC, Chung KF, Diver S, Ferreira DS, Fitzpatrick A, Gaga M, Kellermeyer L,
+Khurana S, Knight S, McDonald VM, Morgan RL, Ortega VE, Rigau D, Subbarao P, Tonia T,
+Adcock IM, Bleecker ER, Brightling C, Boulet LP, Cabana M, Castro M, Chanez P, Custovic A,
+Djukanovic R, Frey U, Frankemölle B, Gibson P, Hamerlijnck D, Jarjour N, Konno S, Shen H,
+Vitary C, Bush A. Management of severe asthma: a European Respiratory Society/American
+Thoracic Society guideline. Eur Respir J. 2020 Jan 2;55(1):1900588. doi:
+10.1183/13993003.00588-2019. PMID: 31558662
+Program Prior Authorization/Notification - Fasenra (benralizumab)
+Change Control
+10/2019 New program.
+4/2020 Updated program to address specific product formulations. Updated
+references.
+4/2021 Annual review. No changes to clinical criteria. Added limitations of
+use. Updated references.
+6/2021 Added criteria if patient has been approved and received initial dose of
+Fasenra directly monitored by a healthcare professional without
+reaction.
+11/2021 Added coverage criteria for patients established on therapy under
+UnitedHealthcare medical benefit. Removed prescriber requirement for
+reauthorization.
+2/2022 Added Tezspire to list of agents not to be used in combination with
+Fasenra and updated formatting of prescriber requirement.
+2/2023 Annual review with no updates to coverage criteria. Updated
+references.
+7/2023 Updated coverage criteria for severe asthma to align with GINA &
+ERS/ATS guidelines. Added/updated examples of ICS-containing
+maintenance medications, removed requirement that peripheral blood
+eosinophil level must be within 6 weeks, and removed bypass of
+© 2024 UnitedHealthcare Services, Inc.
+5
+eosinophilic phenotype requirement for patients currently dependent on
+maintenance therapy with oral corticosteroids. Updated references.
+7/2024 Annual review. Modified criteria for existing prior authorization for
+under the medical benefit. Updated background for expanded indication
+for ages 6 years and older. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+6

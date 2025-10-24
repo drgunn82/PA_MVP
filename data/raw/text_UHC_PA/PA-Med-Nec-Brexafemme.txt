@@ -1,0 +1,80 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2263-5
+Program Prior Authorization/Medical Necessity
+Medication Brexafemme® (ibrexafungerp)
+P&T Approval Date 12/2021, 2/2022, 2/2023, 2/2024, 2/2025
+Effective Date 5/1/2025
+1. Background:
+Brexafemme (ibrexafungerp) is indicated for the treatment of adult and post-menarchal
+pediatric females for the treatment of vulvovaginal candidiasis (VVC) and for the reduction
+in the incidence of recurrent vulvovaginal candidiasis (RVVC).
+Coverage will be provided for members who meet the following criteria.
+2. Coverage Criteriaa:
+A. Authorization
+1. Treatment of vulvovaginal candidiasis
+a. Brexafemme will be approved based on ALL of the following criteria:
+1) Diagnosis of vulvovaginal candidiasis (VVC)
+-AND-
+2) One of the following:
+a) Confirmed azole resistance demonstrated by culture and susceptibility testing
+-OR-
+b. Both of the following:
+i. Other causes (including but not limited to bacterial vaginosis or
+trichomoniasis) have been ruled out
+-AND-
+ii. Failure of a 7-day course of oral fluconazole therapy defined as 100-mg,
+150-mg, or 200-mg taken orally every third day for a total of 3 doses [days
+1, 4, and 7] for the current episode of VVC
+-AND-
+3) Prescribed by or in consultation with one of the following:
+© 2025 UnitedHealthcare Services, Inc.
+1
+a) Infectious disease physician
+b) Obstetrician/Gynecologist
+Authorization will be issued for 3 months.
+2. Recurrent vulvovaginal candidiasis
+a. Brexafemme will be approved based on ALL of the following criteria:
+1) Diagnosis of recurrent vulvovaginal candidiasis (RVVC)
+-AND-
+2) One of the following:
+a) Confirmed azole resistance demonstrated by culture and susceptibility testing
+-OR-
+b) Both of the following:
+i. Other causes (including but not limited to bacterial vaginosis or
+trichomoniasis) have been ruled out
+-AND-
+ii. Failure of a maintenance course of oral fluconazole defined as 100-mg,
+150-mg, or 200-mg taken weekly for 6 monthsb
+-AND-
+3) Prescribed by or in consultation with one of the following:
+a) Infectious disease physician
+b) Obstetrician/Gynecologist
+Authorization will be issued for 6 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+b For Connecticut, Kentucky and Mississippi business, only a 30 day trial will be required.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-
+10) and/or claim logic. Use of automated approval and re-approval processes varies by
+program and/or therapeutic class.
+© 2025 UnitedHealthcare Services, Inc.
+2
+4. References:
+1. Brexafemme [package insert]. Jersey City, NJ: Scynexis, Inc; November 2022
+2. Sexually Transmitted Infections Treatment Guidelines, 2021. Vulvovaginal Candidiasis
+(VVC). Centers for Disease Control and Prevention. https://www.cdc.gov/std/treatment-
+guidelines/candidiasis.htm. Accessed December 2023.
+Program Prior Authorization/Medical Necessity – Brexafemme
+Change Control
+12/2021 New program
+2/2022 Removed the trial and failure language. Added that other causes of
+infection have been ruled out.
+2/2023 Annual review. Added the new indication for recurrent vulvovaginal
+candidiasis (RVVC).
+2/2024 Annual review. Updated mandated states.
+2/2025 Annual review. No changes.
+© 2025 UnitedHealthcare Services, Inc.
+3

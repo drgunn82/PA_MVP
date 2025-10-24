@@ -1,0 +1,106 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2179-8
+Program Prior Authorization/Medical Necessity
+Medication Sucraid (sacrosidase) oral solution
+P&T Approval Date 12/2019, 1/2020, 1/2021, 1/2022, 1/2023, 1/2024, 4/2024, 1/2025
+Effective Date 4/1/2025
+1. Background:
+Sucraid (sacrosidase) is an oral enzyme replacement therapy indicated for the treatment of sucrase
+deficiency, which is part of congenital sucrase-isomaltase deficiency (CSID). The effects of
+Sucraid have not been evaluated in patients with secondary (acquired) sucrase deficiency.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Sucraid will be approved based on all of the following criteria:
+a. Submission of medical records documenting a diagnosis of congenital sucrase-
+isomaltase deficiency (CSID)
+-AND-
+b. Submission of medical records documenting diagnosis has been confirmed by one of
+the following:
+(1) Endoscopic biopsy of the small bowel indicating all of the following:
+(a) Normal small bowel morphology
+-AND-
+(b) Absent or markedly reduced sucrase activity
+-AND-
+(c) Isomaltase activity varying from 0 to full activity
+-AND-
+(d) Reduced maltase activity
+-AND-
+(e) One of the following:
+i. Normal lactase activity
+© 2025 UnitedHealthcare Services Inc.
+1
+-OR-
+ii. Both of the following:
+• Reduced lactase
+• Sucrase:lactase ratio of < 1.0
+-OR-
+(2) Molecular genetic testing of the sucrase-isomaltase (SI) gene indicating a
+pathogenic isomaltase gene variant
+-OR-
+(3) Carbon-13 sucrose breath test (13C SBT) indicating a cumulative [13C] CO
+2
+exhalation over 90 minutes below 10th percentile (i.e., < 3.9% for men and < 5.2%
+for women)
+-AND-
+c. Prescribed by or in consultation with a gastroenterologist or rare disease specialist
+-AND-
+d. Will be used with a sucrose-free, low starch diet
+Authorization will be issued for 3 months.
+B. Reauthorization
+1. Sucraid will be approved based on all of the following criterion:
+a. Documentation of positive clinical response Sucraid therapy [e.g., reduced symptoms
+(e.g., abdominal pain, bloating, gas, vomiting), reduced number of stools per day,
+reduced number of symptomatic days]
+-AND-
+b. Prescribed by or in consultation with a gastroenterologist or rare disease specialist
+-AND-
+c. Will be used with a sucrose-free, low starch diet
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services Inc.
+2
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Prior Authorization/Notification may be in place.
+4. References:
+1. Sucraid [package insert]. Vero Beach, FL: QOL Medical, LLC; August 2024.
+2. Danialifar TF, Chumpitazi BP, Mehta DI, Di Lorenzo C. Genetic and acquired sucrase-isomaltase
+deficiency: A clinical review. J Pediatr Gastroenterol Nutr. 2024;78(4):774-782.
+3. Congenital sucrase-isomaltase deficiency. U.S. Nation Library of Medicine. October 2019.
+4. Puntis JW, Zamvar V. Congenital sucrase-isomaltase deficiency: diagnostic challenges and
+response to enzyme replacement therapy. Arch Dis Child. September 2015.
+5. Treem WR. Clinical aspects and treatment of congenital sucrase-isomaltase deficiency. J Ped
+Gastro Nutr. 55 (Sup 2 Nov): S7-S13. November 2012.
+6. Treem WR, McAdams L, Stanford L, Kastoff G, Justinich C, Hyams J. Sacrosidase therapy for
+congenital sucrase-isomaltase deficiency. J Pediatr Gastroenterol Nutr. 1999 Feb;28(2):137-42.
+doi: 10.1097/00005176-199902000-00008. PMID: 9932843.
+7. Robayo-Torres CC, Opekun AR, Quezada-Calvillo R, Villa X, Smith EO, Navarrete M, Baker
+SS, Nichols BL. 13C-breath tests for sucrose digestion in congenital sucrase isomaltase-deficient
+and sacrosidase-supplemented patients. J Pediatr Gastroenterol Nutr. 2009 Apr;48(4):412-8. doi:
+10.1097/mpg.0b013e318180cd09. PMID: 19330928; PMCID: PMC3955999.
+Program Prior Authorization/Medical Necessity – Sucraid
+Change Control
+12/2019 New program
+1/2020 Administrative; criteria clarification
+1/2021 Annual review. Updated references.
+1/2022 Annual review. Updated coverage criteria with current testing
+guidelines.
+1/2023 Annual review with no changes to coverage criteria. Updated
+references.
+1/2024 Annual review. Updated confirmation of diagnosis requirements for
+initial authorization. Simplified reauthorization criteria. Updated
+references.
+4/2024 Added carbon-13 sucrose breath test as an acceptable confirmatory
+diagnostic test. Updated references.
+© 2025 UnitedHealthcare Services Inc.
+3
+1/2025 Added requirement for submission of medical records documenting
+diagnosis and confirmation of diagnosis. Updated background
+references.
+© 2025 UnitedHealthcare Services Inc.
+4

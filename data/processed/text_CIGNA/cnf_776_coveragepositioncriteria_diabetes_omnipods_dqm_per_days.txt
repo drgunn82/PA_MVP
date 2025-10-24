@@ -1,0 +1,165 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Diabetes – Omnipod Pods Drug Quantity Management Policy – Per Days
+• Omnipod® Classic Pods (Insulet) [discontinued]
+• Omnipod DASH® Pods (Insulet)
+• Omnipod® 5 G6 Pods (Insulet)
+• Omnipod® 5 G6-G7 Pods (Insulet)
+• Omnipod® 5 G6-Libre 2 Plus Pods (Insulet)
+• Omnipod GO™ Pods (Insulet) [discontinued]
+REVIEW DATE: 03/05/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+The Omnipod® Insulin Management System, Omnipod DASH® Insulin Management
+System, Omnipod® 5 Automated Insulin Delivery System, and the Omnipod GO™
+Insulin Delivery Device are subcutaneous (SC) insulin delivery systems.1-4
+• The Omnipod Insulin Management System is intended for SC delivery of
+insulin at set and variable rates for the management of diabetes mellitus
+(DM) in persons requiring insulin and for the quantitative measurement of
+glucose in fresh capillary whole blood (in vitro) from the finger.1
+• Omnipod DASH Insulin Management System is intended for SC delivery of
+insulin at set and variable rates (basal and bolus) for the management of DM
+in persons requiring insulin.2 Omnipod DASH is indicated for patients of all
+ages with either Type 1 or Type 2 DM. Omnipod DASH is interoperable with
+a compatible blood glucose meter to receive and display blood glucose
+measurements.
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Diabetes – Omnipod Pods Drug Quantity Management
+Policy – Per Days
+• Omnipod 5 Automated Insulin Delivery System is intended for the SC
+delivery of insulin, at set and variable rates (basal and bolus), for the
+management of DM in persons requiring insulin.3 It is indicated for patients
+with Type 1 DM ≥ 2 years of age. The Omnipod 5 is able to reliably and
+securely communicate with compatible, digitally connected devices, including
+automated insulin dosing software, to receive, execute, and confirm
+commands from these devices.
+• Omnipod GO is intended for the SC infusion of insulin at a preset basal rate
+in one 24-hour time period for 3 days (72 hours) in adults with Type 2 DM.4
+Dosing
+For the Omnipod, Omnipod DASH, and Omnipod 5 systems, the pods should be
+replaced at least once every 72 hours or after delivering 200 units of U-100 insulin,
+whichever comes first.1-3 Pods may also need to be replaced more frequently due
+to possible issues with the pod itself or the device. The type of insulin may also
+dictate how frequently the pod needs to be changed. Omnipod GO pods delivery
+insulin continuously for up to 72 hours at a fixed daily basal rate.4
+The Omnipod and Omnipod DASH systems have been studied and found to be safe
+with the following U-100 rapid-acting insulins: NovoLog® (insulin aspart), Fiasp®
+(insulin aspart), Humalog® (insulin lispro), Lyumjev™ (insulin lispro-aabc), Apidra®
+(insulin glulisine), or Admelog® (insulin lispro). Novolog, Fiasp, Humalog, Lyumjev,
+and Admelog are compatible with for use up to 72 hours (3 days), while Apidra is
+compatible for use up to 48 hours (2 days).1,2
+The Omnipod 5 system is compatible with NovoLog, Humalog, and Admelog, which
+can all be used for up to 72 hours (3 days).3
+The Omnipod GO system is compatible with NovoLog, Fiasp, Humalog, Admelog,
+and Lyumjev, which can all be used for up to 72 hours (3 days).4
+Availability
+The Omnipod, Omnipod DASH, and Omnipod 5 systems each consist of two parts:
+the pod, which delivers insulin to the patient, and the Personal Diabetes Manager
+(PDM), which allows the patient to control the pod.1,2 The pod itself is a
+lightweight, self-adhesive device that the patient fills with insulin and wear directly
+on their body. Each pod requires a minimum of 85 units of U-100 insulin to begin
+operation and can hold up to 200 units. The pod is applied to the patient’s skin
+with an adhesive, similar to an adhesive bandage and delivers insulin into through a
+small flexible cannula, based on instructions from the PDM.
+Unlike the other Omnipod systems, Omnipod GO does not require the use of a
+dedicated controller or mobile application.4 Omnipod GO pods deliver insulin at
+preprogrammed basal rates of 10, 15, 20, 25, 30, 35, or 40 units per day over 3
+days (72 hours). Pods are available in packages of 5 pods each.
+Of note, the pods from the different Omnipod systems are not interchangeable with
+one another. For example, Omnipod Pods will not be compatible with an Omnipod
+DASH system.
+4 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Omnipod Pods Drug Quantity Management
+Policy – Per Days
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of Omnipod Pods. If the Drug Quantity Management
+rule is not met for the requested medication at the point of service, coverage will be
+determined by the Criteria below. All approvals are provided for 1 year in duration.
+Drug Quantity Limits
+Product Strength and/or Retail Home Delivery
+Package Size Maximum Maximum
+Quantity per 30 Quantity per
+Days 90 days
+Omnipod® Classic Pods 5 pods/pack 15 pods* 45 pods*
+[discontinued]
+Omnipod DASH® Pods 5 pods/pack 15 pods* 45 pods*
+Omnipod® 5 Pods (G6, G6-G7, 5 pods/pack 15 pods* 45 pods*
+G6-Libre 2 Plus)
+Omnipod GO™ Pods 10 units/day (5 10 pods 30 pods
+[discontinued] pods/pack)
+15 units/day (5 10 pods 30 pods
+pods/pack)
+20 units/day (5 10 pods 30 pods
+pods/pack)
+25 units/day (5 10 pods 30 pods
+pods/pack)
+30 units/day (5 10 pods 30 pods
+pods/pack)
+35 units/day (5 10 pods 30 pods
+pods/pack)
+40 units/day (5 10 pods 30 pods
+pods/pack)
+* This is enough drug to provide a patient with a new pod every 48 hours and allow for delivery
+approximately 200 units of a U-100 every 48 hours.
+Diabetes – Omnipod Pods Drug Quantity Management Policy – Per Days
+product(s) is(are) covered as medically necessary when the following
+criteria is(are) met. Any other exception is considered not medically
+necessary.
+CRITERIA
+Omnipod Classic Pods, Omnipod DASH Pods, Omnipod 5 Pods (G6, G6-G7, and G6-
+Libre 2 Plus)
+1. If a patient requires the pod to be changed more frequently than every 48 hours,
+approve the requested quantity for a 30-day supply at retail and a 90-day supply
+at home delivery.
+Omnipod GO Pods
+No overrides recommended.
+4 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Omnipod Pods Drug Quantity Management
+Policy – Per Days
+REFERENCES
+1. Omnipod® Insulin Management System [user guide]. Acton, MA: Insulet; October 2021.
+Available at: https://www.omnipod.com/sites/default/files/2021-04/Omnipod-System_User-
+Guide_English.pdf
+2. Omnipod DASH® Insulin Management System [user guide]. Acton, MA: Insulet; October 2023.
+Available at: https://www.omnipod.com/sites/default/files/2021-04/Omnipod-DASH_User-
+Guide_English.pdf
+3. Omnipod® 5 Automated Insulin Delivery System [user guide]. Acton, MA: Insulet; October 2024.
+Available at: https://www.omnipod.com/sites/default/files/Omnipod-5_User-guide.pdf.
+4. Omnipod GO™ Insulin Management System [user guide]. Acton, MA: Insulet; October 2023.
+Available at: https://www.omnipod.com/sites/default/files/Omnipod-
+GO_User_Guide_US_English.pdf.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 09/21/2022
+Annual New quantity limits for Omnipod GO pods were added to policy. No 07/26/2023
+Revision clinical overrides apply.
+Early Annual Omnipod 5 G6-G7 Pods: New quantity limits of 15 pods per 30 days 03/06/2024
+Revision at retail and 45 pods per 90 days at home delivery were added to the
+policy. Clinical override criteria apply.
+Annual Omnipod 5 G6-Libre 2 Plus: New quantity limits of 15 pods per 30 03/05/2025
+Revision days at retail and 45 pods per 90 days at home delivery were added
+to the policy. Clinical override criteria apply.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. ©
+2025 The Cigna Group.
+4 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Omnipod Pods Drug Quantity Management
+Policy – Per Days

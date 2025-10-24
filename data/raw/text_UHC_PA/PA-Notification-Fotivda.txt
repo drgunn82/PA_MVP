@@ -1,0 +1,71 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1357-5
+Program Prior Authorization/Notification
+Medication Fotivda® (tivozanib)
+P&T Approval Date 5/2021, 5/2022, 5/2023, 5/2024, 5/2025
+Effective Date 8/1/2025
+1. Background:
+Fotivda (tivozanib) is a kinase inhibitor indicated for the treatment of adult patients with relapsed
+or refractory advanced renal cell carcinoma (RCC) following two or more prior systemic
+therapies.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Fotivda will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Renal Cell Carcinoma (RCC)
+1. Initial Authorization
+a. Fotivda will be approved based on all of the following criteria:
+(1) Diagnosis of advanced renal cell carcinoma (RCC)
+-AND-
+(2) One of the following:
+(a) Disease has relapsed
+(b) Disease is refractory
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+1
+(3) Patient has received two or more prior systemic therapies
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Fotivda will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Fotivda therapy
+Authorization will be issued for 12 months.
+C. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category
+of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limit may be in place.
+4. References:
+1. Fotivda [package insert]. Boston, MA: AVEO Pharmaceuticals, Inc.; August 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org/professionals/drug_compendium/content/contents.asp. Accessed April
+9, 2025.
+Program Prior Authorization/Notification - Fotivda (tivozanib)
+Change Control
+5/2021 New program.
+5/2022 Annual review with no change to clinical criteria. Updated references.
+5/2023 Annual review with no change to clinical criteria. Added state mandate
+footnote. Updated reference.
+5/2024 Annual review with no change to clinical criteria. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+2
+5/2025 Annual review with no change to clinical criteria. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+3

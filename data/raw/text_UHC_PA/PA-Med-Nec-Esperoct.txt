@@ -1,0 +1,114 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2187-7
+Program Prior Authorization/Medical Necessity
+Medication Esperoct® (antihemophilic factor [recombinant], glycopegylated-exei)*
+P&T Approval Date 3/2020, 9/2020, 9/2021, 9/2022, 9/2023, 3/2024, 3/2025
+Effective Date 6/1/2025
+1. Background
+Esperoct [antihemophilic factor (recombinant), glycopegylated-exei] is a recombinant
+coagulation Factor VIII concentrate indicated in adults and children with hemophilia A for:
+On-demand treatment and control of bleeding episodes
+o
+Routine prophylaxis to reduce the frequency of bleeding episodes
+o
+Perioperative management of bleeding
+o
+Esperoct is not indicated for the treatment of von Willebrand disease.
+2. Coverage Criteriaa:
+A. Initial Authorization:
+1. Esperoct* will be initially approved based on the following criteria:
+a. All of the following:
+(1) Diagnosis of hemophilia A
+-AND-
+(2) One of the following:
+(a) Submission of documentation showing failure to meet clinical goals (e.g.,
+continuation of spontaneous bleeds, inability to achieve appropriate trough level)
+after a trial of three of the following recombinant factor products:
+1. Advate
+2. Kogenate FS
+3. Kovaltry
+4. NovoEight
+5. Nuwiq
+6. Recombinate
+-OR-
+(b) Submission of documentation showing history of hypersensitivity to three of the
+following recombinant factor products:
+© 2025 UnitedHealthcare Services, Inc.
+1
+1. Advate
+2. Kogenate FS
+3. Kovaltry
+4. NovoEight
+5. Nuwiq
+6. Recombinate
+-OR-
+(c) Prescriber attestation that patient would preferentially benefit from Esperoct
+based on one of the following:
+1. Patient is at high risk for the development of inhibitors (e.g., family history
+of inhibitors and success with product, current treatment less than 50 days,
+high risk genetic mutation, history of initial intensive therapy greater than 5
+days)
+2. Patient has developed inhibitors
+3. Patient has undergone immune tolerance induction/ immune tolerance
+therapy
+-AND-
+(3) One of the following:
+(a) Patient is not to receive routine infusions more frequently than 2 times per week
+-OR-
+(b) Both of the following:
+1. Patient is less than 12 years of age
+-AND-
+2. Pharmacokinetic (PK) testing results suggest that more frequent than 2 times
+per week dosing is required
+Authorization of therapy will be issued for 12 months.
+B. Reauthorization
+1. Esperoct will be approved based on both of the following criteria:
+a. Documentation of positive clinical response to Esperoct therapy.
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+2
+b. One of the following:
+(1) Patient is not to receive routine infusions more frequently than 2 times per week
+-OR-
+(2) Both of the following:
+(a) Patient is less than 12 years of age
+-AND-
+(b) PK testing results suggest that more frequent than 2 times per week dosing is
+required
+Authorization of therapy will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+*Esperoct is typically excluded from coverage. Coverage reviews may be in place if required by law
+or the benefit plan.
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+4. References:
+1. Esperoct® [package insert]. Plainsboro, NJ: CSL Novo Nordisk, Inc., July 2024.
+2. Malec L, Shapiro AD. Hemophilia A and B: Routine management including prophylaxis. In:
+UpToDate, Waltham, MA, 2025.
+3. MASAC Recommendations Concerning Products Licensed for the Treatment of Hemophilia
+and Other Bleeding Disorders. MASAC Document #290, October 2, 2024.
+Program Prior Authorization/Medical Necessity - Esperoct
+Change Control
+3/2020 New program.
+9/2020 Modified program noting exclusion of coverage for majority of
+benefits. Updated reference.
+9/2021 Annual review with no changes to clinical criteria. Updated exclusion
+statement with no change to clinical intent.
+© 2025 UnitedHealthcare Services, Inc.
+3
+9/2022 Annual review. Added text “pharmacokinetic” to clarify abbreviation
+“PK” with no changes to clinical intent. Updated background per
+prescribing information and updated references.
+9/2023 Annual review. Modified physician attestation to prescriber attestation.
+Updated references.
+3/2024 Annual review with no changes to clinical criteria.
+3/2025 Annual review. Revised outline of coverage criteria without change to
+clinical intent. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+4

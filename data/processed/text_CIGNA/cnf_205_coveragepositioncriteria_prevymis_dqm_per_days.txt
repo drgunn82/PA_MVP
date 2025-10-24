@@ -1,0 +1,123 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Infectious Disease – Prevymis Drug Quantity Management Policy – Per
+Days
+• Prevymis™ (letermovir tablets – Merck Sharp & Dohme)
+REVIEW DATE: 10/23/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Prevymis is an antiviral drug indicated for:1
+• Cytomegalovirus (CMV) prophylaxis of infection and disease in adult and
+pediatric patients ≥ 6 months and weighing ≥ 6 kg who are CMV-seropositive
+recipients [R+] of an allogeneic hematopoietic stem cell transplant
+(HSCT).
+• CMV prophylaxis of disease in adult and pediatric patients ≥ 12 years of
+age and weighing ≥ 40 kg who are kidney transplant recipients at high
+risk (donor CMV seropositive/recipient CMV seronegative [D+/R-].
+Dosing
+• Adult and Pediatric Patients ≥ 12 Years of Age and Weighing ≥ 30 kg
+Who Are HSCT Recipients or Adult and Pediatric Patients ≥ 12 Years
+of Age and Weighing ≥ 40 kg Who Are Kidney Transplant Recipients:
+HSCT: The recommended dose is 480 mg once daily (QD) through Day
+o
+100. In patients at risk for late CMV infection and disease, Prevymis may
+be continued through Day 200.
+Kidney Transplant: The recommended dose is 480 mg QD through Day
+o
+200 post-transplant.
+Page 1 of 3 - Cigna National Formulary Coverage - Policy: Infectious Disease – Prevymis Drug Quantity
+Management Policy – Per Days
+• Pediatric Patients 6 Months to < 12 Years of Age or ≥ 12 Years of
+Age and Weighing < 30 kg Who Are HSCT Recipients: The dose is
+weight based and administered QD through Day 100. In patients at risk for
+late CMV infection and disease, Prevymis may be continued through Day 200.
+Table 1 below provides the recommend dosing of Prevymis.
+Table 1. Recommended Daily Dose in Pediatric HSCT Recipients 6 Months to < 12 Years of
+Age and Weighing < 30 kg.
+Body Weight (kg) Daily Oral Dose Tablets Oral Pellets
+≥ 30 kg 480 mg One 480 mg tablet Four 120 mg packets
+15 kg to < 30 kg 240 mg One 240 mg tablet Two 120 mg packets
+7.5 kg to < 15 kg 120 mg Not Recommended One 120mg packet
+6 kg to < 7.5 kg 80 mg Not Recommended Four 20 mg packets
+• The dose of Prevymis should be adjusted based on the patient’s weight when
+co-administered with cyclosporine.
+Availability
+Prevymis tablets are available in the following strengths: 240 mg and 480 mg.1
+The tablets are packaged into a carton containing four dose packs, each containing
+a 7-count blister card for a total of 28 tablets, or into a carton containing two unit-
+dose 7-count blister cards for a total of 14 tablets. Prevymis tablets should be
+stored in the original package until use. There are oral pellets approved by the
+FDA; however, they are not commercially available and not addressed in this policy.
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to prevent
+stockpiling and waste and to address potential order entry error of Prevymis. If the
+Drug Quantity Management rule is not met for the requested medication at the
+point of service, coverage will be determined by the Criteria below. All approvals
+are provided for 1 year in duration.
+Drug Quantity Limits
+Product Strength and Form Retail or Home Delivery
+Maximum Quantity*
+Prevymis™ 240 mg tablets 112 tablets per 365 days
+(letermovir tablets) 30 tablets per Rx
+480 mg tablets 112 tablets per 365 days
+30 tablets per Rx
+* Limits may be rounded up to accommodate packaging.
+Infectious Disease – Prevymis Drug Quantity Management Policy – Per
+Days product(s) is(are) covered as medically necessary when the following
+criteria is(are) met. Any other exception is considered not medically
+necessary.
+3 Pages - Cigna National Formulary Coverage - Policy:Infectious Disease – Prevymis Drug Quantity Management
+Policy – Per Days
+CRITERIA
+1. If the medication is being requested for the prophylaxis of cytomegalovirus in a
+high-risk hematopoietic stem cell transplant patient, approve for the requested
+quantity, not to exceed a total of 224 tablets per 365 days at retail or home
+delivery.
+Note: Override quantity is rounded up to accommodate packaging.
+2. If the medication is being requested for the prophylaxis of cytomegalovirus in a
+high-risk kidney transplant patient, approve for the requested quantity, not to
+exceed a total of 224 tablets per 365 days at retail or home delivery.
+Note: Override quantity is rounded up to accommodate packaging.
+REFERENCES
+1. Prevymis® capsules [prescribing information]. Whitehouse Station, NJ: Merck Sharpe & Dohme;
+August 2024.
+2. Marty FM, Ljungman RF, Cemaly J, et al. Letermovir prophylaxis for cytomegalovirus in
+hematopoietic-cell transplantation. N Engl J Med. 2017;377:2433-44.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Early Annual Override criteria updated to approve the requested quantity, not to 09/27/2023
+Revision exceed a total of 224 tablets per 365 days at retail or home delivery
+if the medication is being requested for the prophylaxis of
+cytomegalovirus in a high-risk kidney transplant patient.
+Existing criteria approving the requested quantity if the medication is
+being requested for the prophylaxis of cytomegalovirus in a high-risk
+hematopoietic stem cell transplant patient was updated to approve
+the requested quantity, not to exceed a total of 224 tablets.
+Annual No criteria changes. 10/23/2024
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. ©
+2024 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Infectious Disease – Prevymis Drug Quantity Management
+Policy – Per Days

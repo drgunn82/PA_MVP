@@ -1,0 +1,170 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1105-14
+Program Prior Authorization/Notification
+Medication Tasigna® (nilotinib)
+P&T Approval Date 8/2008, 6/2009, 9/2010, 12/2010, 9/2011, 8/2012, 07/2013, 2/2014,
+2/2015, 2/2016, 12/2016, 11/2017, 11/2018, 11/2019, 11/2020,
+11/2021, 11/2022, 11/2023, 11/2024
+Effective Date 2/1/2025
+1. Background:
+Tasigna® (nilotinib) is a kinase inhibitor indicated for the treatment of adult and pediatric
+patients greater than or equal to 1 year of age with newly diagnosed Philadelphia chromosome
+positive chronic myeloid leukemia (Ph+ CML) in chronic phase, as well as treatment of adult
+patients with chronic phase (CP) and accelerated phase Ph+ CML resistant to or intolerant to
+prior therapy that included Gleevec® (imatinib).1 Tasigna is also indicated for treatment of
+pediatric patients greater than or equal to 1 year of age with Ph+ CML-CP and CML-AP
+resistant or intolerant to prior tyrosine-kinase inhibitor (TKI) therapy. The National Cancer
+Comprehensive Network (NCCN) recommends the use of Tasigna for primary or follow-up
+CML therapy in all stages. NCCN also recommends Tasigna for the treatment of the following:
+progressive gastrointestinal stromal tumors (GIST) when patient is no longer receiving benefit
+from Gleevec® (imatinib), Stivarga® (regorafenib), Qinlock® (ripretinib), or Sutent® (sunitinib);
+for the treatment of Philadelphia chromosome-positive B-cell acute lymphoblastic leukemia (B-
+ALL); in cutaneous melanoma with activating mutations of KIT and/or projected risk of
+progression with BRAF-targeted therapy; for the treatment of soft tissue sarcoma of pigmented
+villonodular synovitis/tenosynovial giant cell tumor; and for myeloid/lymphoid neoplasms with
+eosinophilia and tyrosine kinase fusion genes. 2
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of 19
+years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or under
+some circumstances. Some states also mandate usage of other Compendium references. Where such
+mandates apply, they supersede language in the benefit document or in the notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Tasigna will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+1
+B. Chronic Myeloid Leukemia
+1. Initial Authorization
+a. Tasigna will be approved based on the following criterion:
+(1) Diagnosis of chronic myeloid leukemia
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tasigna will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tasigna therapy
+Authorization will be issued for 12 months.
+C. Gastrointestinal Stromal Tumor (GIST)
+1. Initial Authorization
+a. Tasigna will be approved based on both of the following criteria:
+(1) Diagnosis of progressive gastrointestinal stromal tumor (GIST)
+-AND-
+(2) History of failure, contraindication, or intolerance to all of the following:
+(a) Gleevec (imatinib)
+(b) Sutent (sunitinib)
+(c) Stivarga (regorafenib)
+(c) Qinlock (ripretinib)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tasigna will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tasigna therapy
+Authorization will be issued for 12 months.
+D. Acute Lymphoblastic Leukemia (Ph+B-ALL)
+1. Initial Authorization
+a. Tasigna will be approved based on the following criterion:
+© 2024 UnitedHealthcare Services, Inc.
+2
+(1) Diagnosis of Philadelphia chromosome-positive B-cell acute lymphoblastic
+leukemia (Ph+ B-ALL)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tasigna will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tasigna therapy
+Authorization will be issued for 12 months.
+E. Myeloid/Lymphoid Neoplasms with Eosinophilia and Tyrosine Kinase Fusion Genes
+1. Initial Authorization
+a. Tasigna will be approved based on the following criteria:
+(1) Diagnosis of myeloid, lymphoid or mixed lineage neoplasms with eosinophilia
+and ABL1 rearrangement
+-AND-
+(2) Neoplasm is in blast or chronic phase
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tasigna will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tasigna therapy
+Authorization will be issued for 12 months.
+F. Melanoma: Cutaneous
+1. Initial Authorization
+a. Tasigna will be approved based on both of the following criteria:
+(1) Diagnosis of metastatic or unresectable melanoma cutaneous tumors with
+activating mutations of KIT
+-AND-
+(2) Used as second-line or subsequent therapy for disease progression, intolerance,
+and or projected risk of progression with BRAF-targeted therapy
+© 2024 UnitedHealthcare Services, Inc.
+3
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tasigna will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tasigna therapy
+Authorization will be issued for 12 months.
+G. Soft Tissue Sarcoma
+1. Initial Authorization
+a. Tasigna will be approved based on the following criterion:
+(1) Diagnosis of pigmented villonodular synovitis/tenosynovial giant cell tumor
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tasigna will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tasigna therapy
+Authorization will be issued for 12 months.
+H. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+© 2024 UnitedHealthcare Services, Inc.
+4
+4. References:
+1. Tasigna [package insert]. East Hanover, NJ: Novartis Pharmaceuticals Corporation;
+February 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org/professionals/drug_compendium/content/contents.asp. Accessed
+October 3, 2024.
+Program Prior Authorization/Notification - Tasigna (nilotinib)
+Change Control
+2/2014 Updated references.
+9/2014 Administrative change - Tried/Failed exemption for State of New Jersey
+removed.
+2/2015 Annual review. Added Stivarga as t/f option for GIST. Expanded
+Ph+ALL criteria to include genetic mutations or transplant. Updated
+background and references.
+2/2016 Annual review with clinical updates based on NCCN recommendations
+which expanded coverage for all CML diagnoses. Updated background
+and references.
+12/2016 Annual review. No changes to criteria intent. Updated background and
+references.
+11/2017 Annual review. Updated background information and coverage criteria
+to include NCCN recommended use for Ph+ ALL. Removed acute
+lymphoblastic lymphoma criteria as no longer recommended by NCCN.
+Updated references.
+11/2018 Annual review. Minor change to coverage rationale for CML with no
+change in clinical intent. Removed “off-label” from NCCN
+Compendium supported indications. Updated background and
+references.
+11/2019 Annual review. Updated coverage criteria for GIST, added NCCN
+recommended regimens criteria. Updated references.
+11/2020 Annual review. Addition of coverage criteria for myeloid/lymphoid
+neoplasms with eosinophilia and ABL1 rearrangement according to
+NCCN. Updated background and references.
+11/2021 Annual review. Clarified B-cell type ALL in coverage criteria. Updated
+background and references.
+11/2022 Annual review. Added state mandate. Updated background per package
+insert and references.
+11/2023 Annual review. Updated criteria for GIST. Updated criteria for
+Myeloid/Lymphoid Neoplasms with Eosinophilia and Tyrosine Kinase
+Gene Fusions. Added Melanoma Cutaneous and Soft Tissue Sarcoma as
+indications for criteria per NCCN recommendations. Updated
+background and reference.
+11/2024 Annual review with no changes to criteria. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+5

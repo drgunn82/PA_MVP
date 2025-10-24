@@ -1,0 +1,193 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Metabolic Disorders – Nitisinone Products Prior Authorization Policy
+• Harliku™ (nitisinone tablets – Cycle)
+• Orfadin® (nitisinone capsules and suspension – Sobi, generic
+[capsules only])
+• Nityr® (nitisinone tablets – Cycle)
+REVIEW DATE: 07/16/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Nitisinone products are hydroxy-phenylpyruvate dioxygenase inhibitors. Orfadin
+and Nityr are indicated for the treatment of hereditary tyrosinemia type 1 in
+combination with dietary restriction of tyrosine and phenylalanine in adult and
+pediatric patients.1,2 Harliku is indicated for the treatment of alkaptonuria in
+adults.3
+Disease Overview
+Hereditary Tyrosinemia Type 1
+Hereditary tyrosinemia type 1 is a genetic disorder characterized by elevated blood
+levels of the amino acid tyrosine.4,5 It is caused by mutations in the FAH gene, which
+lead to a deficiency of the enzyme fumarylacetoacetate hydrolase that is required for
+Page 1 of 5: Cigna National Formulary Coverage - Policy: Metabolic Disorders – Nitisinone
+Products Prior Authorization Policy
+the breakdown of tyrosine. Symptoms usually appear in the first few months after
+birth and include failure to thrive, diarrhea, vomiting, jaundice, cabbage-like odor,
+and increased tendency to bleed. Diagnosis is most often via newborn screening
+(i.e., elevated alpha-fetoprotein and succinylacetone); however, carrier genetic
+testing and prenatal diagnosis by detection of succinylacetone in the amniotic fluid
+are also possible. Treatment should be initiated immediately upon diagnosis with a
+diet restricted in tyrosine and phenylalanine and with nitisinone, which blocks the
+second step in the tyrosine degradation pathway.
+Alkaptonuria
+Alkaptonuria is an autosomal recessive genetic disorder, characterized by the
+accumulation of homogentisic acid in the body.6,7 It is caused by mutations in the
+homogentisate 1,2 dioxygenase (HGD) gene, which leads to deficiency of the HGD
+enzyme. This enzyme plays a role in the metabolism of tyrosine and converts
+homogentisic acid (HGA) into malate and acetoacetate. In the absence of HGD, HGA
+accumulates in the body. Excess HGA is excreted in the urine, which darkens upon
+standing due to oxidation. HGA also deposits in connective tissues in a process called
+ochronosis. Ochronosis results in the blueish-black pigmentation of tissues such as
+cartilage and sclera. Over time, alkaptonuric ochronosis manifests with progressive
+musculoskeletal conditions, such as arthritis, ankylosis, and intravertebral disc
+calcification. Of note, pigmentation changes of the sclera do not affect vision. On
+exam, the sclera may have brown or gray deposits. Other manifestations due to
+pigment deposition include stone formation in various organs and valvular heart
+disease. Diagnosis is generally made by detection of elevated levels of HGA in the
+urine or molecular genetic testing confirming biallelic pathogenic variants in the HGD
+gene.7 Treatment with nitisinone in patients maintained on a regular diet has
+demonstrated an improvement in HGA levels8-11; of note, the pivotal study for Harliku
+utilized Orfadin in its investigation.2
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of nitisinone
+products. All approvals are provided for the duration noted below. Because of the
+specialized skills required for evaluation and diagnosis of patients treated with
+nitisinone products as well as the monitoring required for adverse events and long-
+term efficacy, approval requires the agent to be prescribed by or in consultation with
+a physician who specializes in the condition being treated.
+• Harliku™ (nitisinone tablets – Cycle)
+• Orfadin® (nitisinone capsules and suspension – Sobi, generic
+[capsules only])
+• Nityr® (nitisinone tablets – Cycle)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+Page 2 of 5: Cigna National Formulary Coverage - Policy: Metabolic Disorders – Nitisinone
+Products Prior Authorization Policy
+1. Hereditary Tyrosinemia Type 1. Approve for 1 year if the patient meets ALL
+of the following (A, B, C, and D):
+A) According to the prescriber, diagnosis is supported by ONE of the following (i
+or ii):
+i. Genetic testing confirms biallelic pathogenic or likely pathogenic variants
+in the FAH gene; OR
+ii. Patient has elevated levels of succinylacetone in the serum or urine; AND
+B) The medication is prescribed in conjunction with a tyrosine- and phenylalanine-
+restricted diet; AND
+C) Patient will not be taking the requested agent concurrently with another
+nitisinone product; AND
+Note: Examples of nitisinone products include Orfadin, generic nitisinone
+capsules, and Nityr. Concurrent use of these agents is not allowed.
+D) The medication is prescribed by or in consultation with a metabolic disease
+specialist (or specialist who focuses in the treatment of metabolic diseases).
+Other Uses with Supportive Evidence
+2. Alkaptonuria. Approve for 1 year if the patient meets BOTH of the following (A
+and B):
+A) According to the prescriber, diagnosis is supported by ONE of the following (i
+or ii):
+i. Genetic testing confirms biallelic pathogenic or likely pathogenic variants
+in the homogentisate 1,2 dioxygenase (HGD) gene; OR
+ii. Patient has elevated levels of homogentisic acid (HGA) in the urine; AND
+B) The medication is prescribed by or in consultation with a rheumatologist or
+metabolic disease specialist (or specialist who focuses in the treatment of
+metabolic diseases).
+FDA-Approved Indication
+1. Alkaptonuria. Approve for 1 year if the patient meets BOTH of the following (A
+and B):
+A) According to the prescriber, diagnosis is supported by ONE of the following (i
+or ii):
+i. Genetic testing confirms biallelic pathogenic or likely pathogenic variants
+in the homogentisate 1,2 dioxygenase (HGD) gene; OR
+ii. Patient has elevated levels of homogentisic acid (HGA) in the urine; AND
+B) The medication is prescribed by or in consultation with a rheumatologist or
+metabolic disease specialist (or specialist who focuses in the treatment of
+metabolic diseases).
+CONDITIONS NOT COVERED
+Page 3 of 5: Cigna National Formulary Coverage - Policy: Metabolic Disorders – Nitisinone
+Products Prior Authorization Policy
+• Harliku™ (nitisinone tablets – Cycle)
+• Orfadin® (nitisinone capsules and suspension – Sobi, generic
+[capsules only])
+• Nityr® (nitisinone tablets – Cycle)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Concomitant Therapy with Nitisinone Products. Note: For example,
+concomitant use of Harliku, Orfadin, generic nitisinone capsules, and/or Nityr.
+There are no data available to support concomitant use.
+REFERENCES
+1. Orfadin® capsules and suspension [prescribing information]. Waltham, MA: Sobi; November 2021.
+2. Nityr® tablets [prescribing information]. Tredegar, UK: PCI Pharma; January 2024.
+3. Harliku™ tablets [prescribing information]. Tredegar, UK: PCI Pharma; June 2025.
+4. Tyrosinemia type 1. Genetic and Rare Diseases Information Center; National Institutes of Health,
+US Department of Health and Human Services. Updated September 2024. Available at:
+https://rarediseases.info.nih.gov/diseases/2658/tyrosinemia-type-1. Accessed on October 31,
+2024.
+5. Tyrosinemia type 1. National Organization for Rare Disorders. Updated September 2019. Available
+at: https://rarediseases.org/rare-diseases/tyrosinemia-type-1/. Accessed on October 31, 2024.
+6. Alkaptonuria. National Organization for Rare Disorders. Updated June 2017. Available at:
+https://rarediseases.org/rare-diseases/alkaptonuria/. Accessed on June 17, 202.
+7. Introne WJ, Perry M, Chen M. Alkaptonuria. 2003 May 9 [Updated 2021 Jun 10]. GeneReviews
+[Internet]. Seattle (WA): University of Washington, Seattle; 1993-2025. Available from:
+https://www.ncbi.nlm.nih.gov/books/NBK1454/. Accessed on June 17, 2025.
+8. Abbas K, Basit J, Rehman MEU. Adequacy of nitisinone for the management of alkaptonuria. Ann
+Med Surg (Lond). 2022;80:104340.
+9. Ranganath LR, Milan AM, Hughes AT, et al. Suitability Of Nitisinone In Alkaptonuria 1 (SONIA 1):
+an international, multicentre, randomised, open-label, no-treatment controlled, parallel-group,
+dose-response study to investigate the effect of once daily nitisinone on 24-h urinary homogentisic
+acid excretion in patients with alkaptonuria after 4 weeks of treatment. Ann Rheum Dis.
+2016;75(2):362-7.
+10. Ranganath LR, Psarelli EE, Arnoux JB, et al. Efficacy and safety of once-daily nitisinone for patients
+with alkaptonuria (SONIA 2): an international, multicentre, open-label, randomised controlled trial.
+Lancet Diabetes Endocrinol. 2020;8(9):762-772.
+11. Davison AS, Norman BP. Alkaptonuria – Past, present, and future. Adv Clin Chem. 2023;114:47-
+81.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 11/15/2023
+Revision
+Annual No criteria changes. 11/06/2024
+Revision
+Early Annual Harliku was added to the policy. The criteria was divided based on 07/16/2025
+Revision the specific agent intended for approval.
+Orfadin (generics) and Nityr. Alkaptonuria was added as a
+condition of approval under “Other Uses with Supportive Evidence”.
+Harliku. Alkaptonuria was added as a condition of approval.
+Conditions Not Covered
+Page 4 of 5: Cigna National Formulary Coverage - Policy: Metabolic Disorders – Nitisinone
+Products Prior Authorization Policy
+: For concomitant therapy with nitisinone products, Harliku was
+added to the Note of examples.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products
+and services are provided exclusively by or through such operating subsidiaries,
+including Cigna Health and Life Insurance Company, Connecticut General Life
+Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management,
+Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 5 of 5: Cigna National Formulary Coverage - Policy: Metabolic Disorders – Nitisinone
+Products Prior Authorization Policy

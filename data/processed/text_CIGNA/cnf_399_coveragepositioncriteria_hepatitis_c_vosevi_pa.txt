@@ -1,0 +1,192 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Hepatitis C – Vosevi Prior Authorization Policy
+• Vosevi® (sofosbuvir/velpatasvir/voxilaprevir tablets − Gilead)
+REVIEW DATE: 08/06/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Vosevi is a direct-acting-antiviral (DAA) containing sofosbuvir, a nucleotide analog
+NS5B polymerase inhibitor, velpatasvir, a hepatitis C virus (HCV) NS5A inhibitor, and
+voxilaprevir, an HCV NS3/4A protease inhibitor.1 It is indicated for the treatment of
+adults with chronic HCV with or without compensated cirrhosis who have:
+• Genotype 1, 2, 3, 4, 5, or 6 infection and have previously been treated with
+an HCV regimen containing an NS5A inhibitor;
+• Genotype 1a or 3 infection and who have previously been treated with an HCV
+regimen containing sofosbuvir without an NS5A inhibitor.
+Additional benefit of Vosevi over Epclusa® (sofosbuvir/velpatasvir tablets/oral
+granules) was not shown in adults with genotype 1b, 2, 4, 5, or 6 infection previously
+treated with sofosbuvir without an NS5A inhibitor.1 The recommended dosage of
+Vosevi is one tablet, taken orally, once daily (QD) with food for 12 weeks.
+Page 1 of 5 - Cigna National Formulary Coverage - Policy: Hepatitis C – Vosevi Prior Authorization Policy
+Guidelines
+The American Association for the Study of Liver Diseases guidelines recommend
+Vosevi in several circumstances in adults, mainly in patients who are direct-acting
+antiviral-experienced (outlined below). Some of these recommendations are based
+on very limited data and are not FDA-approved indications for Vosevi (e.g.,
+retreatment with Vosevi in patients who have failed Vosevi in the past [one case
+report]).
+Vosevi is recommended in the following situations:
+• Genotype 1 through 6 chronic HCV, ± compensated cirrhosis, treatment-
+experienced
+o Prior sofosbuvir-based treatment failure: Vosevi for 12 weeks; the addition of
+ribavirin is recommended in patients with genotype 3 HCV with compensated
+cirrhosis.
+o Prior Mavyret® (glecaprevir/pibrentasvir tablets and oral pellets) treatment
+failure: Vosevi for 12 weeks; the addition of ribavirin is recommended in
+patients with compensated cirrhosis.
+o Prior Zepatier® (elbasvir/grazoprevir tablets) treatment failure: Vosevi for 12
+weeks; the addition of ribavirin is recommended in patients with compensated
+cirrhosis.
+o Prior Vosevi treatment failure: Vosevi + ribavirin for 24 weeks.
+• Kidney transplant, genotype 1 through 6 HCV, ± compensated cirrhosis,
+treatment-experienced
+o Prior direct-acting antiviral failure: Vosevi ± ribavirin for 12 weeks; the
+addition of ribavirin should be considered for patients with compensated
+cirrhosis and multiple negative baseline characteristics.
+• Recurrent HCV post-liver transplantation, genotype 1 through 6 infection
+of the allograft, ± compensated cirrhosis, treatment-naïve
+o Prior direct-acting antiviral failure: Vosevi for 12 weeks is recommended; the
+addition of ribavirin should be considered for patients with compensated
+cirrhosis and multiple negative baseline characteristics.
+Vosevi is an alternative recommendation in the following situation:
+• Genotype 3 HCV, compensated cirrhosis, treatment-naïve with Y93H
+resistance-associated substitution
+o Vosevi for 12 weeks.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Vosevi. All
+approvals are provided for the duration noted below. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Vosevi as well as the
+monitoring required for adverse events and efficacy, approval requires Vosevi to be
+prescribed by or in consultation with a physician who specializes in the condition
+being treated.
+• Vosevi® (sofosbuvir/velpatasvir/voxilaprevir tablets - Gilead)
+5 Pages - Cigna National Formulary Coverage - Policy: Hepatitis C – Vosevi Prior Authorization Policy
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Chronic Hepatitis C Virus (HCV) Genotype 1b, 2, 4, 5, or 6. Approve for 12
+weeks if the patient meets ALL of the following (A, B, C, and D):
+A) Patient is ≥ 18 years of age; AND
+B) Patient meets ONE of the following (i or ii):
+i. Patient does not have cirrhosis; OR
+ii. Patient has compensated cirrhosis (Child-Pugh A); AND
+C) Patient had a prior null response, prior partial response, or relapse after prior
+treatment with an HCV direct-acting antiviral regimen containing an NS5A
+inhibitor; AND
+Note: Examples of direct-acting antivirals that are, or contain, an NS5A
+inhibitor include: Daklinza (daclatasvir tablets), Epclusa
+(sofosbuvir/velpatasvir tablets/oral pellets), Harvoni (ledipasvir/sofosbuvir
+tablets/oral pellets), Mavyret (glecaprevir/pibrentasvir tablets/oral pellets),
+Viekira Pak (ombitasvir/paritaprevir/ritonavir tablets; dasabuvir tablets, co-
+packaged), Zepatier (elbasvir/grazoprevir tablets).
+D) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+2. Chronic Hepatitis C Virus (HCV), Genotype 1a or 3. Approve for 12 weeks if
+the patient meets ALL of the following (A, B, C, and D):
+A) Patient is ≥ 18 years of age; AND
+B) Patient meets ONE of the following (i or ii):
+i. Patient does not have cirrhosis; OR
+ii. Patient has compensated cirrhosis (Child-Pugh A); AND
+C) Patient meets ONE of the following (i or ii):
+i. Patient had a prior null response, prior partial response, or relapse after
+prior treatment with an HCV direct-acting antiviral regimen containing an
+NS5A inhibitor; OR
+Note: Examples of direct-acting antivirals that are, or contain, an NS5A
+inhibitor include: Daklinza (daclatasvir tablets), Epclusa
+(sofosbuvir/velpatasvir tablets/oral pellets), Harvoni (ledipasvir/sofosbuvir
+tablets/oral pellets), Mavyret (glecaprevir/pibrentasvir tablets/oral pellets),
+Viekira Pak (ombitasvir/paritaprevir/ritonavir tablets; dasabuvir tablets,
+co-packaged), Zepatier (elbasvir/grazoprevir tablets).
+ii. Patient had a prior null response, prior partial response, or relapse after
+prior treatment with an HCV direct-acting antiviral regimen containing
+Sovaldi (sofosbuvir tablets/oral pellets) + a non-NS5A inhibitor; AND
+Note: Examples of regimens that contain Sovaldi (sofosbuvir tablets/oral
+pellets) + a non-NS5A inhibitor include: Sovaldi + NS3 inhibitors (Olysio
+[simeprevir capsules], Victrelis [boceprevir capsules], or Incivek [telaprevir
+tablets]) or Sovaldi + ribavirin ± pegylated interferon.
+5 Pages - Cigna National Formulary Coverage - Policy: Hepatitis C – Vosevi Prior Authorization Policy
+D) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+Other Uses with Supportive Evidence
+3. Chronic Hepatitis C Virus (HCV) Genotype 1b, 2, 4, 5, or 6. Approve for 12
+weeks if the patient meets ALL of the following (A, B, C, and D):
+A) Patient is ≥ 18 years of age; AND
+B) Patient meets ONE of the following (i or ii):
+i. Patient does not have cirrhosis; OR
+ii. Patient has compensated cirrhosis (Child-Pugh A); AND
+C) Patient had a prior null response, prior partial response, or relapse after prior
+treatment with an HCV direct-acting antiviral regimen containing Sovaldi
+(sofosbuvir tablets/oral pellets) + a non-NS5A inhibitor; AND
+Note: Examples of regimens that contain Sovaldi (sofosbuvir tablets/oral
+pellets) + a non-NS5A inhibitor include: Sovaldi + NS3 inhibitors (Olysio
+[simeprevir capsules], Victrelis [boceprevir capsules], or Incivek [telaprevir
+tablets]) or Sovaldi + ribavirin ± pegylated interferon.
+D) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+4. Patient Has Been Started on Vosevi. Approve for an indication or condition
+addressed as an approval in the Recommended Authorization Criteria section
+(FDA-Approved Indications or Other Uses with Supportive Evidence). Approve the
+duration described above to complete a course of therapy (e.g., a patient who
+should receive 12 weeks, and has received 3 weeks should be approved for 9
+weeks to complete their 12-week course).
+CONDITIONS NOT COVERED
+• Vosevi® (sofosbuvir/velpatasvir/voxilaprevir tablets - Gilead)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Hepatitis C Virus (HCV) [any genotype], Combination with Any Other
+Direct-Acting Antivirals (DAAs). Vosevi provides a complete antiviral regimen.
+2. Pediatric Patients (Age < 18 Years). The safety and efficacy of Vosevi have
+not been established in pediatric patients < 18 years of age.1
+REFERENCES
+1. Vosevi® tablets [prescribing information]. Foster City, CA: Gilead; November 2019.
+2. Bourliere M, Gordon SC, Flamm SL, et al. Sofosbuvir, velpatasvir, and voxilaprevir for previously
+treated HCV infection. N Engl J Med. 2017;376(22):214-2146.
+5 Pages - Cigna National Formulary Coverage - Policy: Hepatitis C – Vosevi Prior Authorization Policy
+3. American Association for the Study of Liver Diseases and the Infectious Diseases Society of America.
+Testing, managing, and treating hepatitis C. Available at: http://www.hcvguidelines.org. Updated
+December 19, 2023. Accessed on July 28, 2025.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 08/02/2023
+Revision
+Selected Conditions Not Covered: Life Expectancy Less Than 12 Months 02/28/2024
+Revision Due to Non-Liver Related Comorbidities. This condition was
+removed.
+Annual No criteria changes 08/07/2024
+Revision
+Annual No criteria changes. 08/06/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+5 Pages - Cigna National Formulary Coverage - Policy: Hepatitis C – Vosevi Prior Authorization Policy

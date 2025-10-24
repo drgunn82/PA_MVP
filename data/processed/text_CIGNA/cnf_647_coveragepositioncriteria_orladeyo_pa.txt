@@ -1,0 +1,159 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Hereditary Angioedema − Orladeyo Prior Authorization Policy
+• Orladeyo® (berotralstat capsules – Biocryst)
+REVIEW DATE: 09/27/2023
+I NSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT
+PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN
+CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE
+DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Orladeyo, an inhibitor of plasma kallikrein, is indicated for prophylaxis to prevent
+attacks of hereditary angioedema (HAE) in patients ≥ 12 years of age.1
+Guidelines
+According to US HAE Association Medical Advisory Board Guidelines (2020), when
+HAE is suspected based on clinical presentation, appropriate testing includes
+measurement of the serum C4 level, C1 esterase inhibitor (C1-INH) antigenic level,
+and C1-INH functional level.2 Low C4 plus low C1-INH antigenic or functional level is
+consistent with a diagnosis of HAE types I/II. The decision on when to use long-term
+prophylaxis cannot be made on rigid criteria but should reflect the needs of the
+individual patient. First-line medications for HAE I/II include intravenous C1-INH,
+Haegarda® (C1-INH [human] subcutaneous injection), or Takhzyro® (lanadelumab-
+flyo subcutaneous injection). The guideline was written prior to approval of Orladeyo.
+According to World Allergy Organization/European Academy of Allergy and Clinical
+Immunology guidelines (2021), it is recommended to evaluate for long-term
+prophylaxis at every visit, taking disease activity, burden, and control as well as
+patient preference into consideration.3 The following therapies are supported as first-
+line options for long-term prophylaxis: plasma-derived C1-INH (87% agreement),
+Takhzyro (89% agreement), and Orladeyo (81% agreement). With regard to
+Page 1 of 4 - Cigna National Formulary Coverage - Policy: Hereditary Angioedema ( Orladeyo Prior Authorization
+Policy
+plasma-derived C1-INH, it is noted that Haegarda provided very good and dose-
+dependent preventative effects on the occurrence of HAE attacks; the subcutaneous
+route may provide more convenient administration and maintains improved steady-
+state plasma concentrations compared with the intravenous route. Of note,
+androgens are not recommended in the first-line setting for long-term prophylaxis.
+Recommendations are not made regarding long-term prophylaxis in HAE with normal
+C1-INH levels.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Orladeyo.
+Because of the specialized skills required for evaluation and diagnosis of patients
+treated with Orladeyo, approval requires Orladeyo to be prescribed by or in
+consultation with a physician who specializes in the condition being treated. A patient
+who has previously met initial therapy criteria for Orladeyo for the requested indication
+under the Coverage Review Department and is currently receiving the requested
+therapy is only required to meet the continuation therapy criteria (i.e., currently
+receiving Orladeyo). If past criteria have not been met under the Coverage Review
+Department and the patient is currently receiving Orladeyo, initial therapy criteria
+must be met. All approvals are provided for the duration noted below.
+Documentation: Documentation will be required where noted in the criteria as
+[documentation required]. Documentation may include, but is not limited to, chart
+notes, laboratory records, and prescription claims records.
+• Orladeyo® (berotralstat capsules – Biocryst)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Hereditary Angioedema (HAE) Due to C1 Inhibitor (C1-INH) Deficiency –
+Prophylaxis. Approve for 1 year if the patient meets one of the following (A or
+B):
+A) Initial therapy. Approve if the patient meets all of the following (i, ii, and iii):
+i. Patient is ≥ 12 years of age; AND
+ii. Patient has HAE type I or type II as confirmed by the following diagnostic
+criteria (a and b):
+Note: A diagnosis of HAE with normal C1-INH (also referred to as HAE type
+III) does NOT satisfy this requirement.
+a) Patient has low levels of functional C1-INH protein (< 50% of normal)
+at baseline, as defined by the laboratory reference values
+[documentation required]; AND
+b) Patient has lower than normal serum C4 levels at baseline, as defined
+by the laboratory reference values [documentation required]; AND
+4 Pages - Cigna National Formulary Coverage - Policy:Hereditary Angioedema ( Orladeyo Prior Authorization
+Policy
+iii. The medication is prescribed by or in consultation with an
+allergist/immunologist or a physician who specializes in the treatment of
+HAE or related disorders.
+B) Patient is currently receiving Orladeyo. Approve if the patient meets all of the
+following (i, ii, iii, and iv):
+Note: If the patient is currently receiving the requested therapy but has not
+previously received approval of Orladeyo for this indication through the
+Coverage Review Department, review under criteria for Initial Therapy.
+i. Patient is ≥ 12 years of age; AND
+ii. Patient has a diagnosis of HAE type I or type II [documentation
+required]; AND
+Note: A diagnosis of HAE with normal C1-INH (also referred to as HAE type
+III) does NOT satisfy this requirement.
+iii. According to the prescriber, the patient has had a favorable clinical
+response since initiating Orladeyo prophylactic therapy compared with
+baseline (i.e., prior to initiating prophylactic therapy); AND
+Note: Examples of favorable clinical response include decrease in HAE
+acute attack frequency, decrease in HAE attack severity, or decrease in
+duration of HAE attacks.
+iv. The medication is prescribed by or in consultation with an
+allergist/immunologist or a physician who specializes in the treatment of
+HAE or related disorders.
+CONDITIONS NOT COVERED
+• Orladeyo® (berotralstat capsules – Biocryst)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria will
+be updated as new published data are available):
+1. Concomitant Use with Other Hereditary Angioedema (HAE) Prophylactic
+Therapies. Note: Examples of other HAE prophylactic therapies include Cinryze
+(C1 esterase inhibitor [human] intravenous infusion), Haegarda (C1 esterase
+inhibitor [human] subcutaneous injection), and Takhzyro (lanadelumab-flyo
+subcutaneous injection).
+Orladeyo has not been studied in combination with other prophylactic therapies
+for HAE, and combination therapy for long-term prophylactic use is not
+recommended. Patients may use other medications, including Cinryze, for on-
+demand treatment of acute HAE attacks, and for short-term (procedural)
+prophylaxis.
+REFERENCES
+1. Orladeyo® capsules [prescribing information]. Durham, NC: Biocryst; December 2020.
+2. Busse PJ, Christiansen SC, Riedl MA, et al. US HAEA Medical Advisory Board 2020 guidelines for the
+management of hereditary angioedema. J Allergy Clin Immunol Pract. 2021;9(1):132-150.e3.
+3. Maurer M, Magerl M, Betschel S, et al. The international WAO/EAACI guideline for the management
+of hereditary angioedema: the 2021 revision and update. Allergy. 2022;77(7):1961-1990.
+4 Pages - Cigna National Formulary Coverage - Policy:Hereditary Angioedema ( Orladeyo Prior Authorization
+Policy
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Annual Concomitant Use with Other Hereditary Angioedema (HAE) 01/04/2023
+Revision Prophylactic Therapies: In Conditions Not Covered, examples
+of other prophylactic therapies were moved into a Note.
+Early Annual It was added to the Policy Statement that a person who has 09/27/2023
+Revision previously met initial therapy criteria for Orladeyo for the
+requested indication under the Coverage Review Department and
+is currently receiving the medication, is only required to meet
+continuation of therapy criteria. If past criteria have not been met
+under the Coverage Review Department and the patient is
+currently receiving Orladeyo, initial therapy criteria must be met.
+In addition, the following changes were made:
+Hereditary Angioedema (HAE) Due to C1 Inhibitor (C1-INH)
+Deficiency – Prophylaxis: Deleted [Type I or Type II] from
+indication heading. Under criteria for “Patient is currently receiving
+Orladeyo,” added a Note that patient has to meet initial therapy
+criteria and approval through the Coverage Review Department if
+they had previously received initial therapy approval from another
+entity. Also added the word “type” before II while referring to
+diagnosis of HAE types.
+"Cigna Companies" refers to operating subsidiaries of Cigna Corporation. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of Cigna Health Corporation. © 2023 Cigna
+4 Pages - Cigna National Formulary Coverage - Policy:Hereditary Angioedema ( Orladeyo Prior Authorization
+Policy

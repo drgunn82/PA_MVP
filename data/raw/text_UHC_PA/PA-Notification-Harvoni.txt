@@ -1,0 +1,210 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1146-15
+Program Prior Authorization/Notification
+Medication Harvoni® (ledipasvir/sofosbuvir)
+P&T Approval Date 10/2014, 2/2015, 8/2015, 11/2015, 12/2016, 12/2017, 12/2018, 2/2019,
+2/2020, 2/2021, 2/2022, 2/2023, 2/2024, 2/2025
+Effective Date 5/1/2025
+1. Background:
+Harvoni® (ledipasvir/sofosbuvir) is a fixed-dose combination of ledipasvir, a hepatitis C virus
+(HCV) NS5A inhibitor, and sofosbuvir, an HCV nucleotide analog NS5B polymerase inhibitor,
+and is indicated for the treatment of chronic hepatitis C virus (HCV) in adults and pediatric
+patients 3 years of age or older.
+• Genotype 1, 4, 5, or 6 infection without cirrhosis or with compensated cirrhosis
+• Genotype 1 infection with decompensated cirrhosis, in combination with ribavirin
+• Genotype 1 or 4 infection who are liver transplant recipients without cirrhosis or with
+compensated cirrhosis, in combination with ribavirin.
+2. Coverage Criteriaa:
+A. Chronic Hepatitis C - Genotype 1 - Treatment-Naïve Patients without Cirrhosis and have
+a pre-treatment HCV RNA less than 6 million IU/mL:
+1. Harvoni will be approved based on all of the following criteria:
+a. Diagnosis of chronic hepatitis C genotype 1 infection
+-AND-
+b. Patient has a pre-treatment HCV RNA less than 6 million IU/mL
+-AND-
+c. Patient is without cirrhosis
+-AND-
+d. Patient is treatment naïve [patient has not experienced treatment failure (defined as viral
+relapse, breakthrough while on therapy, or non-responder to therapy) with peginterferon
++/- ribavirin based regimen with or without an HCV protease inhibitor (e.g., Incivek,
+Olysio, Victrelis) or Sovaldi (sofosbuvir)]
+-AND-
+e. Patient is not receiving Harvoni in combination with another HCV direct acting
+© 2025 UnitedHealthcare Services, Inc.
+1
+antiviral agent [e.g., Sovaldi (sofosbuvir)]
+Authorization will be issued for 8 weeks.
+B. Chronic Hepatitis C - Genotype 1 - Treatment-Naïve Patients without Cirrhosis and have
+a pre-treatment HCV RNA equal to or greater than 6 million IU/mL:
+1. Harvoni will be approved based on all of the following criteria:
+a. Diagnosis of chronic hepatitis C genotype 1 infection
+-AND-
+b. Patient has a pre-treatment HCV RNA equal to or greater than 6 million IU/mL
+-AND-
+c. Patient is without cirrhosis
+-AND-
+d. Patient is treatment naïve [patient has not experienced treatment failure (defined as viral
+relapse, breakthrough while on therapy, or non-responder to therapy) with peginterferon
++/- ribavirin based regimen with or without an HCV protease inhibitor (e.g., Incivek,
+Olysio, Victrelis) or Sovaldi (sofosbuvir)]
+-AND-
+e. Patient is not receiving Harvoni in combination with another HCV direct acting
+antiviral agent [e.g., Sovaldi (sofosbuvir)]
+Authorization will be issued for 12 weeks.
+C. Chronic Hepatitis C - Genotype 1 - Treatment-Naïve Patients with Compensated
+Cirrhosis:
+1. Harvoni will be approved based on all of the following criteria:
+a. Diagnosis of chronic hepatitis C genotype 1 infection
+-AND-
+b. Patient has compensated cirrhosis (e.g., Child-Pugh A)
+-AND-
+c. Patient is treatment naïve [patient has not experienced treatment failure (defined as viral
+relapse, breakthrough while on therapy, or non-responder to therapy) with peginterferon
+© 2025 UnitedHealthcare Services, Inc.
+2
++/- ribavirin based regimen with or without an HCV protease inhibitor (e.g., Incivek,
+Olysio, Victrelis) or Sovaldi (sofosbuvir)]
+-AND-
+d. Patient is not receiving Harvoni in combination with another HCV direct acting
+antiviral agent [e.g., Sovaldi (sofosbuvir)]
+Authorization will be issued for 12 weeks.
+D. Chronic Hepatitis C - Genotype 1 - Treatment-Experienced Patients without Cirrhosis:
+1. Harvoni will be approved based on all of the following criteria:
+a. Diagnosis of chronic hepatitis C genotype 1 infection
+-AND-
+b. Patient has experienced failure with a previous treatment regimen of a peginterferon
+alfa +/- ribavirin based regimen with or without an HCV protease inhibitor (e.g.,
+Incivek, Olysio, Victrelis) or Sovaldi (sofosbuvir)
+-AND-
+c. Patient is without cirrhosis
+-AND-
+d. Patient is not receiving Harvoni in combination with another HCV direct acting
+antiviral agent [e.g., Sovaldi (sofosbuvir)]
+Authorization will be issued for 12 weeks.
+E. Chronic Hepatitis C - Genotype 1 - Treatment-Experienced Patients with Compensated
+Cirrhosis:
+1. Harvoni will be approved based on all of the following criteria:
+a. Diagnosis of chronic hepatitis C genotype 1 infection
+-AND-
+b. Patient has experienced failure with a previous treatment regimen that included either
+peginterferon alfa +/- ribavirin based regimen with or without an HCV protease
+inhibitor (e.g., Incivek, Olysio, Victrelis) or Sovaldi (sofosbuvir)
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+3
+c. Patient has compensated cirrhosis (e.g., Child-Pugh A)
+-AND-
+d. Patient is without decompensated liver disease (e.g., Child-Pugh B or C)
+-AND-
+e. One of the following:
+(1) Patient will receive Harvoni in combination with ribavirin
+-OR-
+(2) Patient is not eligible for ribavirin
+-AND-
+f. Patient is not receiving Harvoni in combination with another HCV direct acting antiviral
+agent [e.g., Sovaldi (sofosbuvir)]
+In combination with ribavirin: Authorization will be issued for 12 weeks.
+Ineligible for ribavirin: Authorization will be issued for 24 weeks.
+F. Chronic Hepatitis C - Genotype 1 - Treatment-Naïve or Treatment-Experienced
+Patients with Decompensated Cirrhosis:
+1. Harvoni will be approved based on all of the following criteria:
+a. Diagnosis of chronic hepatitis C genotype 1 infection
+-AND-
+b. Patient has decompensated liver disease (e.g., Child-Pugh B or C)
+-AND-
+c. Patient will receive Harvoni in combination with ribavirin
+-AND-
+d. Patient is not receiving Harvoni in combination with another HCV direct acting
+antiviral agent [e.g., Sovaldi (sofosbuvir)]
+Authorization will be issued for 12 weeks.
+G. Chronic Hepatitis C - Genotype 4, 5 or 6 - Treatment-Naïve or Treatment-Experienced
+© 2025 UnitedHealthcare Services, Inc.
+4
+Patients without Cirrhosis or with Compensated Cirrhosis:
+1. Harvoni will be approved based on all of the following criteria:
+a. Diagnosis of chronic hepatitis C genotype 4, 5 or 6 infection
+-AND-
+b. One of the following:
+(1) Patient is without cirrhosis
+-OR-
+(2) Both of the following:
+(a) Patient has compensated cirrhosis (e.g., Child-Pugh A)
+-AND-
+(b) Patient is without decompensated liver disease (e.g., Child-Pugh B or C)
+-AND-
+c. Patient is not receiving Harvoni in combination with another HCV direct acting antiviral
+agent [e.g., Sovaldi (sofosbuvir)]
+Authorization will be issued for 12 weeks.
+H. Chronic Hepatitis C - Genotype 1 or 4 - Treatment-Naïve or Treatment-Experienced Liver
+Transplant Recipients without Cirrhosis or with Compensated Cirrhosis:
+1. Harvoni will be approved based on all of the following criteria:
+a. Diagnosis of chronic hepatitis C genotype 1 or 4 infection
+-AND-
+b. Patient has previously received a liver transplant
+-AND-
+c. One of the following:
+(1) Patient is without cirrhosis
+-OR-
+© 2025 UnitedHealthcare Services, Inc.
+5
+(2) Both of the following:
+(a) Patient has compensated cirrhosis (e.g., Child-Pugh A)
+-AND-
+(b) Patient is without decompensated liver disease (e.g., Child-Pugh B or C)
+-AND-
+d. Patient is not receiving Harvoni in combination with another HCV direct acting antiviral
+agent [e.g., Sovaldi (sofosbuvir)]
+-AND-
+e. Patient will receive Harvoni in combination with ribavirin
+Authorization will be issued for 12 weeks.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+• Medical necessity may be in place.
+4. References:
+1. Harvoni [package insert]. Foster City, CA: Gilead Sciences, Inc.; March 2020.
+2. American Association for the Study of Liver Diseases and the Infectious Diseases Society of
+America. Recommendations for Testing, Managing, and Treating Hepatitis C.
+http://www.hcvguidelines.org/full-report-view. Accessed December 19, 2024.
+Program Prior Authorization/Notification - Harvoni™ (ledipasvir/sofosbuvir)
+Change Control
+10/2014 New program.
+10/2014 Separated criteria sections to address treatment-naïve patients without
+cirrhosis and pre-treatment HCV RNA equal to or greater than 6 million
+IU/mL from the treatment-naïve patients with cirrhosis separately.
+2/2015 Added Sovaldi as part of prior treatment criterion. Added criterion to
+prevent combination therapy.
+8/2015 Added criteria for genotype 4 infection.
+11/2015 Added genotype 5 and 6 based updated FDA approval.
+© 2025 UnitedHealthcare Services, Inc.
+6
+12/2016 Added criteria for genotype 1 patients with decompensated cirrhosis.
+Updated genotype 1 treatment experienced criteria to include compensated
+cirrhosis only. Added criteria for post liver transplant genotype 1 or 4
+patients per updated FDA label. Updated references.
+12/2017 Annual review with no change to clinical coverage criteria. Updated
+references.
+12/2018 Annual review with no change to clinical coverage criteria. Updated
+references.
+2/2019 Updated references and removed Olysio from examples.
+2/2020 Annual review. Added additional background information. Updated
+genotype 1 treatment-naïve criteria to include compensated cirrhosis only.
+Updated genotype 1 treatment experienced criteria treatment regimen and
+duration. Updated references.
+2/2021 Annual review. Removed Olysio from list of examples for HCV direct
+acting antiviral agent with no change to clinical intent. Updated references
+2/2022 Annual review with no changes to coverage criteria. Updated references.
+2/2023 Annual review. Revised coverage criteria for Genotype 1 treatment-
+experienced patients with compensated cirrhosis per FDA label. Added
+state mandate and updated references.
+2/2024 Annual review. Added cirrhosis criteria for treatment of chronic hepatitis C
+- genotype 4, 5 or 6.
+2/2025 Annual review with no changes to coverage criteria. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+7

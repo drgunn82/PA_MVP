@@ -1,0 +1,166 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Hepatology – Iqirvo Prior Authorization Policy
+• Iqirvo™ (elafibranor tablets – Ipsen)
+REVIEW DATE: 06/12/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Iqirvo, a peroxisome proliferator-activated receptor (PPAR) agonist, is indicated for
+the treatment of primary biliary cholangitis (PBC) in combination with
+ursodeoxycholic acid (UDCA) in adults with an inadequate response to UDCA, or as
+monotherapy in adults unable to tolerate UDCA.1
+Iqirvo was approved under accelerated approval based on reduction in alkaline
+phosphatase (ALP). An improvement in survival or liver decompensation events
+has not been established. Continued approval for this indication may be contingent
+upon verification and description of clinical benefit in confirmatory trials.
+Limitation of use:
+Iqirvo is not recommended in patients who have or develop decompensated
+cirrhosis (e.g., ascites, variceal bleeding, hepatic encephalopathy).
+Guidelines
+The American Association for the Study of Liver Diseases (AASLD) guidelines for
+primary biliary cholangitis (2018) state that the diagnosis can be confirmed when
+patients meet two of the following criteria: 1) there is cholestasis as evidenced by
+alkaline phosphatase elevation; 2) anti-mitochondrial antibodies are present, or if
+Page 1 of 4 - Cigna National Formulary Coverage - Policy: Hepatology – Iqirvo Prior Authorization Policy
+negative for anti-mitochondrial antibodies, other primary biliary cholangitis-specific
+autoantibodies, including sp100 or gp210, are present; 3) there is histologic
+evidence of nonsuppurative destructive cholangitis and destruction of interlobular
+bile ducts. It is specifically noted that diagnosis in a patient who is negative for
+anti-mitochondrial antibodies does not require a liver biopsy if other diagnostic
+criteria are met.2 Treatment with UDCA (available in the US as ursodiol) is the
+recommended treatment for patients with primary biliary cholangitis who have
+abnormal liver enzyme values regardless of histologic stage. Following 12 months
+of UDCA therapy, the patient should be evaluated to determine if second-line
+therapy is appropriate. It is estimated that up to 40% of patients have an
+inadequate response to UDCA; Ocaliva® (obeticholic acid tablets), a faresoid X
+receptor agonist, should be considered for these patients. An update to the 2018
+AASLD guidelines for primary biliary cholangitis (2021) provide two updated
+recommendations:3 1) Fibrates can be considered as off-label alternatives for
+patients with primary biliary cholangitis and inadequate response to UDCA.
+However, fibrates are discouraged in patients with decompensated liver disease;
+and 2) Ocaliva is contraindicated in patients with advanced cirrhosis, defined as
+cirrhosis with current or prior evidence of liver decompensation (e.g.,
+encephalopathy, coagulopathy) or portal hypertension (e.g., ascites,
+gastroesophageal varices, or persistent thrombocytopenia). In addition, the AASLD
+recommends careful monitoring of any patient with cirrhosis, even if not advanced,
+receiving Ocaliva.
+Safety
+The safety and efficacy of Iqirvo in patients with decompensated cirrhosis have not
+been established.1 Use of Iqirvo is not recommended in patients who have or
+develop decompensated cirrhosis (e.g., ascites, variceal bleeding, hepatic
+encephalopathy). Patients with cirrhosis should be monitored for evidence of
+decompensation. Consider discontinuing Iqirvo if the patient progresses to
+moderate or severe hepatic impairment (Child-Pugh B or C).
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Iqirvo. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Iqirvo as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Iqirvo to be prescribed by or in consultation with a physician who specializes in the
+condition being treated.
+4 Pages - Cigna National Formulary Coverage - Policy: Hepatology – Iqirvo Prior Authorization Policy
+• Iqirvo™ (elafibranor tablets – Ipsen)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Primary Biliary Cholangitis. Approve Iqirvo for the duration noted if the
+patient meets ONE of the following (A or B):
+Note: Primary Biliary Cholangitis is also known as Primary Biliary Cirrhosis.
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the
+following (i, ii, iii, iv, and v):
+i. Patient is ≥ 18 years of age; AND
+ii. According to the prescriber, the patient has a diagnosis of primary biliary
+cholangitis as defined by TWO of the following (a, b, or c):
+a) Alkaline phosphatase is elevated above the upper limit of normal as
+defined by normal laboratory reference values; OR
+b) Positive anti-mitochondrial antibodies or other primary biliary
+cholangitis-specific auto-antibodies, including sp100 or gp210, if anti-
+mitochondrial antibodies are negative; OR
+c) Histologic evidence of primary biliary cholangitis from a liver biopsy;
+AND
+iii. Patient meets ONE of the following (a or b):
+a) Patient has been receiving ursodiol therapy for ≥ 1 year and has had
+an inadequate response according to the prescriber; OR
+b) According to the prescriber the patient is unable to tolerate ursodiol
+therapy; AND
+Note: Examples of ursodiol therapy include ursodiol generic tablets
+and capsules, Urso 250, Urso Forte, and Actigall.
+iv. Patient does not currently have, or have a history of, a hepatic
+decompensation event.
+Note: Examples of hepatic decompensation include ascites,
+gastroesophageal varices, variceal bleeding, hepatic encephalopathy, and
+coagulopathy.
+v. The medication is prescribed by or in consultation with a
+gastroenterologist, hepatologist, or liver transplant physician.
+B) Patient is Currently Receiving Therapy. Approve for 1 year if the patient
+meets BOTH of the following (i and ii):
+i. Patient does not currently have, or have a history of, a hepatic
+decompensation event.
+Note: Examples of hepatic decompensation include ascites,
+gastroesophageal varices, variceal bleeding, hepatic encephalopathy, and
+coagulopathy.
+ii. Patient has demonstrated a response to therapy as determined by the
+prescriber.
+Note: Examples of a response to therapy are improved biochemical
+markers of primary biliary cholangitis (e.g., alkaline phosphatase [ALP],
+4 Pages - Cigna National Formulary Coverage - Policy: Hepatology – Iqirvo Prior Authorization Policy
+bilirubin, gamma-glutamyl transpeptidase [GGT], aspartate
+aminotransferase [AST], alanine aminotransferase [ALT]).
+CONDITIONS NOT COVERED
+• Iqirvo™ (elafibranor tablets – Ipsen)
+is(are) considered experimental, investigational, or unproven for ANY
+other use(s) including the following (this list may not be all inclusive;
+criteria will be updated as new published data are available):
+1. Alcoholic Liver Disease. There are no data available to support the use of
+Iqirvo in patients with alcoholic hepatitis.
+2. Metabolic Dysfunction-Associated Steatotic Liver Disease
+(MASLD)/Nonalcoholic Fatty Liver Disease (NAFLD), including Metabolic
+Dysfunction-Associated Steatohepatitis (MASH)/Non-Alcoholic
+Steatohepatitis (NASH). In a Phase III trial (RESOLVE-IT) of Iqirvo in adults
+with MASH and fibrosis, Iqirvo did not demonstrate a statistically significant
+effect on the primary endpoint of NASH resolution without worsening of
+fibrosis.4 The response rate in the 717 patients enrolled was 19.2% for patients
+who received Iqirvo compared to 14.7% for patients in the placebo arm.
+Additionally, no significant differences as compared to placebo were achieved in
+the key secondary endpoints, including fibrosis improvement of at least one
+stage and changes in metabolic parameters.
+REFERENCES
+1. Iqirvo® tablets [prescribing information]. Cambridge, MA: Ipsen; June 2024.
+2. Lindor KD, Bowlus CL, Boyer J, et al. Primary biliary cholangitis: 2018 practice guidance from the
+American Association for the Study of Liver Diseases (AASLD). Hepatology. 2019;69(1):394-419.
+3. Lindor KD, Bowe CL, Boyer J, et al. Primary biliary cholangitis: 2021 practice guideline update from
+the American Association for the Study of Liver Diseases. Hepatology. 2022;75:1012-1013.
+4. GENFIT: Announces Results from Interim Analysis of RESOLVE-IT Phase 3 Trial of Elafibranor in
+Adults with NASH and Fibrosis [press release]. Cambridge, MA: Ipsen; May 11, 2020. Available
+at: https://ir.genfit.com/news-releases/news-release-details/genfit-announces-results-interim-
+analysis-resolve-it-phase-3. Accessed on June 11, 2024.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 06/12/2024
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. ©
+2024 The Cigna Group.
+4 Pages - Cigna National Formulary Coverage - Policy: Hepatology – Iqirvo Prior Authorization Policy

@@ -1,0 +1,147 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Hepatitis C – Sovaldi Prior Authorization Policy
+• Sovaldi® (sofosbuvir tablets and oral pellets − Gilead, generic for
+tablets only)
+REVIEW DATE: 01/29/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Sovaldi, a hepatitis C virus (HCV) nucleotide analog non-serine (NS)5B polymerase
+inhibitor, is indicated for the following uses:1
+• Chronic HCV genotype 1, 2, 3 or 4 infection, in adults without cirrhosis or
+with compensated cirrhosis as a component of a combination antiviral
+treatment.
+• Chronic HCV genotype 2 or 3 infection, in pediatric patients ≥ 3 years of
+age without cirrhosis or with compensated cirrhosis in combination with
+ribavirin.
+The place in therapy for Sovaldi has greatly lessened or is non-existent in most cases
+due to the availability of other direct-acting antivirals (DAAs) with greater efficacy for
+many genotypes. Regimens with Sovaldi + peginterferon + ribavirin or Sovaldi +
+weight-based ribavirin are no longer recommended in treatment guidelines with the
+exception of pediatric patients due to inferior efficacy compared with other all-oral
+regimens for all genotypes. Table 1 provides pediatric recommendations.
+Page 1 of 4 - Cigna National Formulary Coverage - Policy: Hepatitis C – Sovaldi Prior Authorization Policy
+Table 1. Sovaldi Treatment Regimen in Pediatric Patients (≥ 3 years of age).1
+Patient Population Treatment and Duration
+Genotype 2 Treatment-naïve and treatment experienced Sovaldi + ribavirin x 12 weeks
+without cirrhosis or with compensated cirrhosis
+(Child-Pugh A)
+Genotype 3 Treatment-naïve and treatment experienced Sovaldi + ribavirin x 24 weeks
+without cirrhosis or with compensated cirrhosis
+(Child-Pugh A)
+Guidelines
+According to the American Association for the Study of Liver Diseases (AASLD)
+guidelines, weight-based Sovaldi + ribavirin for treatment-naive or interferon-
+experienced (± ribavirin) children aged ≥3 years with genotype 2 or 3, without
+cirrhosis or with compensated cirrhosis (Child-Pugh A) is no longer favored because
+pangenotypic ribavirin-free treatments are now available for children as young as 3
+years of age.2 The AASLD recommends Epclusa® (sofosbuvir/velpatasvir tablets and
+oral pellets) and Mavyret® (glecaprevir/pibrentasvir tablets and oral pellets) for the
+treatment of patients ≥ 3 years of age with genotypes 1 through 6 chronic HCV who
+are treatment-naïve or interferon-experienced, with or without compensated
+cirrhosis; Harvoni® (ledipasvir/sofosbuvir tablets and oral pellets) is also an option
+for children ≥ 3 years of age with genotypes 1, 4, 5, or 6 chronic HCV.2
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Sovaldi. All
+approvals are provided for the duration noted below. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Sovaldi as well as the
+monitoring required for adverse events and efficacy, approval requires Sovaldi to be
+prescribed by or in consultation with a physician who specializes in the condition
+being treated.
+• Sovaldi® (sofosbuvir tablets and oral pellets (Gilead, generic for
+tablets only)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Chronic Hepatitis C Virus (HCV) Genotype 2. Approve for 12 weeks if the
+patient meets ALL of the following (A, B, C, and D):
+A) Patient is ≥ 3 years of age and < 18 years of age; AND
+B) Patient does not have decompensated cirrhosis (Child-Pugh B or C); AND
+Note: Coverage is provided for patients without cirrhosis or with compensated
+(Child-Pugh A) cirrhosis.
+C) The medication will be prescribed in combination with ribavirin; AND
+D) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+4 Pages - Cigna National Formulary Coverage - Policy: Hepatitis C – Sovaldi Prior Authorization Policy
+2. Chronic Hepatitis C Virus (HCV) Genotype 3. Approve for 24 weeks if the
+patient meets ALL of the following (A, B, C, and D):
+A) Patient is ≥ 3 years of age and < 18 years of age; AND
+B) Patient does not have decompensated cirrhosis (Child-Pugh B or C); AND
+Note: Coverage is provided for patients without cirrhosis or for patients with
+compensated (Child-Pugh A) cirrhosis.
+C) The medication will be prescribed in combination with ribavirin; AND
+D) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+Other Uses with Supportive Evidence
+3. Patient Has Been Started on Sovaldi. Approve for an indication or condition
+addressed as an approval in the Recommended Authorization Criteria section
+(FDA-Approved Indications or Other Uses with Supportive Evidence). Approve the
+duration described above to complete a course therapy (e.g., a patient who should
+receive 12 weeks and has received 3 weeks should be approved for 9 weeks to
+complete their 12-week course).
+CONDITIONS NOT COVERED
+• Sovaldi® (sofosbuvir tablets and oral pellets (Gilead, generic for
+tablets only)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria will
+be updated as new published data are available):
+1. HCV (Any Genotype), Combination Use with Direct-Acting Antivirals
+(DAAs) Other than Ribavirin. In adults with any genotype chronic HCV with or
+without compensated cirrhosis who have failed treatment with Mavyret,
+retreatment with Mavyret + Sovaldi + ribavirin is a recommended regimen based
+on data from a Phase IIIb study evaluating the safety and efficacy of Mavyret +
+Sovaldi + weight-based ribavirin as a 12- or 16-week retreatment regimen for
+patients who experienced virologic failure to Mavyret within the context of a
+previous clinical trial. Non-cirrhotic Mavyret non-responders with genotype 1, 2,
+4, 5, or 6 who were naïve to protease and NS5A inhibitors received 12 weeks
+Mavyret + Sovaldi and weight-based ribavirin. Patients with genotype 3, and/or
+compensated cirrhosis, and/or protease/NS5A experience (prior to their initial
+Mavyret treatment) received 16 weeks of therapy with the same regimen. In a
+preliminary analysis, 96% (n = 22/23) of these patients achieved SVR with a
+single relapse in a cirrhotic patient with genotype 1a. Vosevi is also a
+recommended regimen in this instance and it is FDA-approved for such use.
+2. Monotherapy with Sovaldi. Sovaldi is indicated as a component of a
+combination antiviral treatment regimen for HCV.1
+4 Pages - Cigna National Formulary Coverage - Policy: Hepatitis C – Sovaldi Prior Authorization Policy
+3. Pediatric Patients (Age < 3 years). The safety and efficacy of Sovaldi have not
+been established in pediatric patients < 3 years of age.1
+REFERENCES
+1. Sovaldi® tablets and oral pellets [prescribing information]. Foster City, CA: Gilead; December 2024.
+2. American Association for the Study of Liver Diseases and the Infectious Diseases Society of America.
+Testing, managing, and treating hepatitis C. Available at: http://www.hcvguidelines.org. Updated
+December 19, 2023. Accessed on: January 13, 2025.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Annual No criteria changes. 01/24/2024
+Revision
+Selected Conditions Not Covered: Life Expectancy Less Than 12 02/28/2024
+Revision Months Due to Non-Liver Related Comorbidities. This
+condition was removed.
+Annual No criteria changes. Sovaldi tablets (generic) were added to the 01/29/2025
+Revision product header for completeness (already included).
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2025 The Cigna
+Group.
+4 Pages - Cigna National Formulary Coverage - Policy: Hepatitis C – Sovaldi Prior Authorization Policy

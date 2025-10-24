@@ -1,0 +1,98 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2159-8
+Program Prior Authorization/Medical Necessity
+Medication Abilify MyCite® (aripiprazole tablet with sensor)*
+P&T Approval Date 1/2019, 3/2019, 4/2019, 4/2020, 6/2021, 6/2022, 7/2023, 7/2024
+Effective Date 10/1/2024
+1. Background:
+Abilify MyCite (aripiprazole tablet with sensor)* is a drug-device combination product
+comprised of aripiprazole tablets embedded with a sensor intended to track drug ingestion.
+Abilify MyCite is indicated for the treatment of schizophrenia, bipolar I disorder, and as
+adjunctive treatment for major depressive disorder. Abilify MyCite has not been shown to
+improve patient adherence and should not be used to track real-time ingestion during an
+emergency as the detection may be delayed or may not occur.
+2. Coverage Criteria:
+A. Initial Therapy
+1. Abilify MyCite* will be approved based on all the following criteria:
+a. Diagnosis of one of the following:
+(1) schizophrenia
+(2) bipolar I disorder
+(3) major depressive disorder
+(4) autistic disorder
+(5) Tourette’s disorder
+-AND-
+b. Submission of medical records documenting the patient is currently prescribed
+aripiprazole and tolerates the medication.
+-AND-
+c. Submission of medical records documenting the patient’s adherence to
+aripiprazole is less than 80% within the past 6 months (medication adherence
+percentage is defined as the number of pills absent in a given time period divided
+by the number of pills prescribed during that same time, multiplied by 100).
+-AND-
+d. All of the following strategies (if applicable to the patient) to improve patient
+adherence have been tried without success:
+© 2024 UnitedHealthcare Services, Inc.
+1
+(1) Utilization of a pill box.
+(2) Utilization of a smart phone reminder (e.g. alarm, application, or text
+reminder).
+(3) Involving family members or friends to assist.
+(4) Coordinating timing of dose to coincide with dosing of another daily
+medication.
+-AND-
+e. Submission of medical records documenting patient has experienced life-
+threatening or potentially life-threatening symptoms, or has experienced a severe
+worsening of symptoms leading to a hospitalization which was attributed to the
+lack of adherence to aripiprazole.
+-AND-
+f. History of failure, contraindication, or intolerance to one long-acting injectable
+antipsychotic (e.g. Abilify Maintena, Risperdal Consta, Invega Trinza)
+-AND-
+g. Prescriber acknowledges that Abilify MyCite has not been shown to improve
+patient adherence and attests that Abilify MyCite is medically necessary for the
+patient to maintain compliance, avoid life-threatening worsening of symptoms,
+and reduce healthcare resources utilized due to lack of adherence.
+-AND-
+h. Prescriber agrees to track and document adherence of Abilify MyCite through
+software provided by the manufacturer.
+Authorization will be issued for 12 months
+B. Reauthorization
+1. Abilify MyCite will be approved based on both of the following criteria:
+a. Documentation that patient is clinically stable on Abilify MyCite.
+-AND-
+b. Submission of medical records documenting that the use of Abilify MyCite has
+increased adherence to 80% or more.
+-AND-
+c. Prescriber attests that the patient requires the continued use of Abilify MyCite to
+remain adherent.
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+2
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+*Abilify MyCite is typically excluded from coverage.
+4. References:
+1. Abilify MyCite [package insert]. Rockville, MD: Otsuka Pharmaceuticals, Inc; February 2023.
+2. Levenson, JL. (2020). Psychological factors affecting other medical conditions: Management. D.
+Solomon (Ed.), UpToDate. Retrieved June 3, 2024.
+3. Cramer, JA et al. Medication Compliance and Persistence: Terminology and Definitions. Value
+in Health, January 2008; 11(1):44-47.
+4. Brown, MT at al. Mediation Adherence: WHO Cares? May Clin Proc. April 2011; 86(4):304-
+314.
+Program Prior Authorization/Medical Necessity – Abilify MyCite (aripiprazole
+tablet with sensor)
+Change Control
+1/2019 New program.
+3/2019 Added diagnosis requirement.
+4/2019 Added step through long-acting injectables.
+4/2020 Changed initial review authorization duration to 12 months. Updated
+references.
+6/2021 Annual review. Updated references.
+6/2022 Annual review. Updated references.
+7/2023 Annual review. Updated references.
+7/2024 Annual review. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+3

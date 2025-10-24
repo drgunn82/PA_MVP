@@ -1,0 +1,265 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Inflammatory Conditions – Cibinqo Prior Authorization Policy
+• Cibinqo® (abrocitinib tablets – Pfizer)
+REVIEW DATE: 02/26/2025; selected revision 04/23/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Cibinqo, a Janus kinase inhibitor (JAKi), is indicated for treatment of refractory,
+moderate to severe atopic dermatitis in patients ≥ 12 years of age whose disease
+is not adequately controlled with other systemic drug products (including biologics)
+or when those therapies are not advisable.1
+Cibinqo is not recommended for use in combination with other JAKis, biologic
+immunomodulators, or with other immunosuppressants.
+Guidelines
+Guidelines for the care and management of atopic dermatitis from the American
+Academy of Dermatology (2023) and the American Academy of Allergy, Asthma and
+Immunology (2023) have been updated to address Cibinqo.2,3 Systemic therapies
+are recommended in patients with moderate to severe or widespread disease, in
+Page 1 of 6: Cigna National Formulary Coverage - Policy: Inflammatory Conditions - Cibinqo Prior
+Authorization Policy
+those with impaired quality of life, and those whose atopic dermatitis is refractory to
+topical therapies. Biologic agents, such as Dupixent® (dupilumab subcutaneous
+injection) and Adbry® (tralokinumab-ldrm subcutaneous injection), are
+recommended as initial systemic treatment due to their favorable efficacy and safety
+profiles compared to traditional systemic therapies (e.g., azathioprine, cyclosporine,
+methotrexate, mycophenolate mofetil). Cibinqo may be considered in adults
+refractory or intolerant to systemic therapy, including biologics.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Cibinqo. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Cibinqo as well as the
+monitoring required for adverse events and long-term efficacy, initial approval
+requires Cibinqo to be prescribed by or in consultation with a physician who specializes
+in the condition being treated.
+• Cibinqo® (abrocitinib tablets – Pfizer)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Atopic Dermatitis. Approve for the duration noted if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy. Approve for 3 months if the patient meets ALL of the following
+(i, ii, and iii):
+i. Patient is ≥ 12 years of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has had a 4-month trial of at least ONE systemic therapy; OR
+b) Patient has tried at least ONE systemic therapy but was unable to
+tolerate a 4-month trial; AND
+Note: Examples of systemic therapies include Dupixent (dupilumab
+subcutaneous injection), Ebglyss (lebrikizumab-lbkz subcutaneous
+injection), Nemluvio (nemolizumab-ilto subcutaneous injection), and
+Adbry (tralokinumab-ldrm subcutaneous injection). Methotrexate,
+azathioprine, cyclosporine, and mycophenolate mofetil also count
+towards trial of a systemic therapy.
+iii. The medication is prescribed by or in consultation with an allergist,
+immunologist, or dermatologist; OR
+B) Patient is Currently Receiving Cibinqo. Approve for 1 year if the patient meets
+ALL of the following (i, ii, and iii):
+i. Patient has already received at least 90 days of therapy with Cibinqo; AND
+Note: A patient who has received < 90 days of therapy or who is restarting
+therapy with Cibinqo should be considered under Initial Therapy.
+Page 2 of 6: Cigna National Formulary Coverage - Policy: Inflammatory Conditions - Cibinqo Prior
+Authorization Policy
+ii. Patient experienced a beneficial clinical response, defined as improvement
+from baseline (prior to initiating Cibinqo) in at least one of the following:
+estimated body surface area affected, erythema,
+induration/papulation/edema, excoriations, lichenification, and/or a
+decreased requirement for other topical or systemic therapies for atopic
+dermatitis; AND
+iii. Compared with baseline (prior to receiving Cibinqo), patient experienced
+an improvement in at least one symptom, such as decreased itching.
+CONDITIONS NOT COVERED
+• Cibinqo® (abrocitinib tablets – Pfizer)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Concurrent Use with a Biologic or with a Targeted Synthetic Oral Small
+Molecule Drugs. The requested medication should not be administered in
+combination with a biologic used for an inflammatory condition or with a targeted
+synthetic oral small molecule drug (see Appendix for examples). Combination
+therapy is generally not recommended due to a potential for a higher rate of
+adverse effects with combinations and lack of controlled clinical trial data
+supporting additive efficacy.
+2. Concurrent Use with a Biologic Immunomodulator. Cibinqo is not
+recommended in combination with biologic immunomodulators.1
+Note: Examples include Adbry (tralokinumab-ldrm subcutaneous injection),
+Cinqair (reslizumab intravenous), Dupixent (dupilumab subcutaneous injection),
+Ebglyss (lebrikizumab-lbkz subcutaneous injection), Nemluvio (nemolizumab-ilto
+subcutaneous injection), Fasenra (benralizumab subcutaneous injection), Nucala
+(mepolizumab subcutaneous injection), Tezspire (tezepelumab-ekko
+subcutaneous injection), and Xolair (omalizumab subcutaneous injection).
+3. Concurrent Use with Other Janus Kinase Inhibitors (JAKis). Cibinqo is not
+recommended in combination with other JAKis, such as Rinvoq (upadacitinib
+tablets), Xeljanz/Xeljanz XR (tofacitinib tablets/ tofacitinib extended-release
+tablets), Olumiant (baricitinib tablets).1
+4. Concurrent Use with Other Potent Immunosuppressants (e.g.,
+azathioprine, cyclosporine).1 Coadministration with other potent
+immunosuppressive drugs has the risk of added immunosuppression and has not
+been evaluated.
+REFERENCES
+1. Cibinqo® tablets [prescribing information]. New York, NY: Pfizer; December 2023.
+Page 3 of 6: Cigna National Formulary Coverage - Policy: Inflammatory Conditions - Cibinqo Prior
+Authorization Policy
+2. Davis DMR, Drucker AM, Alikhan A, et al. Guidelines of care for the management of atopic dermatitis
+in adults with phototherapy and systemic therapies. J Am Acad Dermatol. 2023 Nov 3 [Epub ahead
+of print].
+3. Chu DK, Schneider L, Asiniwasis RN, et al. Atopic dermatitis (eczema) guidelines: 2023 American
+Academy of Allergy, Asthma and Immunology/American College of Allergy, Asthma and Immunology
+Joint Task Force on Practice Parameters GRADE-and Institute of Medicine-based recommendations.
+Ann Allergy Asthma Immunol. 2023 Dec 18:S1081-1206(23)01455-2.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Atopic Dermatitis: To align with the updated labeling, a 02/15/2023
+Revision requirement that the patient is ≥ 12 years of age was added for initial
+therapy (previously was ≥ 18 years of age).
+Conditions Not Covered: Concurrent Use with a Biologic
+Immunomodulator was added as a Condition Not Recommended for
+Approval. Concurrent Use with Xolair (omalizumab subcutaneous
+injection) and Concurrent Use with an Anti-Interleukin Monoclonal
+Antibody were removed (not needed).
+Annual Atopic Dermatitis: The requirement that the patient has tried one 02/07/2024
+Revision traditional systemic agent (i.e., azathioprine, cyclosporine,
+methotrexate, mycophenolate mofetil) was changed to require a trial
+of one “systemic” agent. The Note of examples of “systemic” agents
+was changed to include Dupixent (dupilumab subcutaneous injection)
+and Adbry (tralokinumab-ldrm subcutaneous injection). A notation
+was added that a trial of a traditional systemic agent would count
+towards the trial of one systemic therapy. The duration of such trial
+of a systemic agent was changed from 3 months to 4 months. There
+were no other changes to the criteria.
+Selected Conditions Not Covered: Concurrent use with a Biologic or with a 09/11/2024
+Revision Targeted Synthetic Oral Small Molecule Drug was changed to as
+listed (previously oral small molecule drug was listed as Disease-
+Modifying Antirheumatic Drug).
+Annual Atopic Dermatitis: Ebglyss (lebrikizumab-lbkz subcutaneous 02/26/2025
+Revision injection) and Nemluvio (nemolizumab-ilto subcutaneous injection)
+were added to the note listing examples of systemic therapies.
+Conditions Not Covered: Ebglyss and Nemluvio were also added
+as examples of biologic immunomodulators which are not allowed
+concurrently with Cibinqo.
+Selected Removed the following from the Policy Statement: “All reviews for 04/23/2025
+Revision use of Cibinqo for COVID-19 and/or cytokine release syndrome
+associated with COVID-19 will be forwarded to the Medical Director.”
+Conditions Not Covered: Removed COVID-19.
+Page 4 of 6: Cigna National Formulary Coverage - Policy: Inflammatory Conditions - Cibinqo Prior
+Authorization Policy
+APPENDIX
+Mechanism of Action Examples of Indications*
+Biologics
+Adalimumab SC Products (Humira®, Inhibition of TNF AS, CD, JIA, PsO, PsA, RA, UC
+biosimilars)
+Cimzia® (certolizumab pegol SC Inhibition of TNF AS, CD, nr-axSpA, PsO, PsA,
+injection) RA
+Etanercept SC Products (Enbrel®, Inhibition of TNF AS, JIA, PsO, PsA, RA
+biosimilars)
+Infliximab IV Products (Remicade®, Inhibition of TNF AS, CD, PsO, PsA, RA, UC
+biosimilars)
+Zymfentra® (infliximab-dyyb SC Inhibition of TNF CD, UC
+injection)
+Simponi®, Simponi Aria® (golimumab Inhibition of TNF SC formulation: AS, PsA, RA,
+SC injection, golimumab IV infusion) UC
+IV formulation: AS, PJIA,
+PsA, RA
+Tocilizumab Products (Actemra® IV, Inhibition of IL-6 SC formulation: PJIA, RA,
+biosimilar; Actemra SC, biosimilar) SJIA
+IV formulation: PJIA, RA,
+SJIA
+Kevzara® (sarilumab SC injection) Inhibition of IL-6 RA
+Orencia® (abatacept IV infusion, T-cell costimulation SC formulation: JIA, PSA, RA
+abatacept SC injection) modulator IV formulation: JIA, PsA, RA
+Rituximab IV Products (Rituxan®, CD20-directed cytolytic RA
+biosimilars) antibody
+Kineret® (anakinra SC injection) Inhibition of IL-1 JIA^, RA
+Omvoh® (mirikizumab IV infusion, SC Inhibition of IL-23 CD, UC
+injection)
+Ustekinumab Products (Stelara® IV, Inhibition of IL-12/23 SC formulation: CD, PsO,
+biosimilar, Stelara SC, biosimilar) PsA, UC
+IV formulation: CD, UC
+Siliq® (brodalumab SC injection) Inhibition of IL-17 PsO
+Cosentyx® (secukinumab SC injection; Inhibition of IL-17A SC formulation: AS, ERA, nr-
+secukinumab IV infusion) axSpA, PsO, PsA
+IV formulation: AS, nr-
+axSpA, PsA
+Taltz® (ixekizumab SC injection) Inhibition of IL-17A AS, nr-axSpA, PsO, PsA
+Bimzelx® (bimekizumab-bkzx SC Inhibition of IL- PsO, AS, nr-axSpA, PsA
+injection) 17A/17F
+Ilumya® (tildrakizumab-asmn SC Inhibition of IL-23 PsO
+injection)
+Skyrizi® (risankizumab-rzaa SC Inhibition of IL-23 SC formulation: CD, PSA,
+injection, risankizumab-rzaa IV infusion) PsO, UC
+IV formulation: CD, UC
+Tremfya® (guselkumab SC injection, Inhibition of IL-23 SC formulation: PsA, PsO, UC
+guselkumab IV infusion) IV formulation: UC
+Entyvio® (vedolizumab IV infusion, Integrin receptor CD, UC
+vedolizumab SC injection) antagonist
+Oral Therapies/Targeted Synthetic Oral Small Molecule Drugs
+Otezla® (apremilast tablets) Inhibition of PDE4 PsO, PsA
+Cibinqo™ (abrocitinib tablets) Inhibition of JAK AD
+pathways
+Olumiant® (baricitinib tablets) Inhibition of JAK RA, AA
+pathways
+Page 5 of 6: Cigna National Formulary Coverage - Policy: Inflammatory Conditions - Cibinqo Prior
+Authorization Policy
+Litfulo® (ritlecitinib capsules) Inhibition of JAK AA
+pathways
+Leqselvi® (deuruxolitinib tablets) Inhibition of JAK AA
+pathways
+Rinvoq® (upadacitinib extended-release Inhibition of JAK AD, AS, nr-axSpA, RA, PsA,
+tablets) pathways UC
+Rinvoq® LQ (upadacitinib oral solution) Inhibition of JAK PsA, PJIA
+pathways
+Sotyktu® (deucravacitinib tablets) Inhibition of TYK2 PsO
+Xeljanz® (tofacitinib tablets/oral Inhibition of JAK RA, PJIA, PsA, UC
+solution) pathways
+Xeljanz® XR (tofacitinib extended- Inhibition of JAK RA, PsA, UC
+release tablets) pathways
+Zeposia® (ozanimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+Velsipity® (etrasimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+* Not an all-inclusive list of indications. Refer to the prescribing information for the respective agent for
+FDA-approved indications; SC – Subcutaneous; TNF – Tumor necrosis factor; AS – Ankylosing
+spondylitis; CD – Crohn’s disease; JIA – Juvenile idiopathic arthritis; PsO – Plaque psoriasis; PsA –
+Psoriatic arthritis; RA – Rheumatoid arthritis; UC – Ulcerative colitis; nr-axSpA – Non-radiographic axial
+spondyloarthritis; IV – Intravenous, PJIA – Polyarticular juvenile idiopathic arthritis; IL – Interleukin;
+SJIA – Systemic juvenile idiopathic arthritis; ^ Off-label use of Kineret in JIA supported in guidelines;
+ERA – Enthesitis-related arthritis; DMARD – Disease-modifying antirheumatic drug; PDE4 –
+Phosphodiesterase 4; JAK – Janus kinase; AD – Atopic dermatitis; AA – Alopecia areata; TYK2 – Tyrosine
+kinase 2.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 6 of 6: Cigna National Formulary Coverage - Policy: Inflammatory Conditions - Cibinqo Prior
+Authorization Policy

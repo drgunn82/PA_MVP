@@ -1,0 +1,262 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Chelating Agents – Chemet Prior Authorization Policy
+• Chemet® (succimer capsules − Lannett/Recordati Rare Diseases)
+REVIEW DATE: 05/01/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Chemet, a heavy metal chelator, is indicated for the treatment of lead poisoning in
+pediatric patients with blood lead levels > 45 mcg/dL.1 Chemet is not indicated for
+prophylaxis of lead poisoning in a lead-containing environment; the use of Chemet
+should be accompanied by identification and removal of the source of the lead
+exposure. Safety and efficacy of Chemet in children < 12 months of age have not
+been established. The course of therapy is 19 days. If indicated, a repeat course may
+be given with a minimum of 2 weeks between courses, unless blood lead levels
+indicate the need for more prompt treatment. The chemical name for Chemet is meso
+2,3-dimercaptosuccinic acid (DMSA).
+Disease Overview
+Lead, mercury, arsenic, and iron account for most cases of diagnosed heavy metal
+poisoning in the US.2 Most cases of lead poisoning are in children who swallow lead-
+based paint in homes or toys; other causes include water carried through pipes made
+of lead or containing lead solder. Children are especially susceptible to the toxic
+effects of lead, which may affect the developing brain and nervous system, potentially
+causing lower IQs, learning difficulties, hearing loss, and behavior difficulties. In
+adults, lead poisoning can cause high blood pressure and kidney damage.
+Page 1 of 7 - Cigna National Formulary Coverage - Policy:Chelating Agents – Chemet Prior Authorization Policy
+Treatment Recommendations
+Treatment of heavy metal poisoning includes removing the patient from the source
+of the metal and treating the patient’s symptoms.2 Diagnosis includes the patient’s
+history, symptoms, and blood or urine tests.2,4,5 Treatment of acute metal poisoning
+involves emergency care and generally requires the use of chelating agents, such as
+DMSA.6
+Other Uses with Supportive Evidence
+Arsenic is a naturally-occurring substance; in some areas of the world, low-level
+arsenic exposure occurs because of the presence of arsenic in ground water.2
+Accidental poisoning accounts for the majority of acute arsenic toxicity.3 The Agency
+for Toxic Substances and Disease Registry (ATSDR) states that patients with severe
+arsenic poisoning must be hospitalized.7 Chelation therapy can curtail the distribution
+of arsenic in the body and reduce the body burden. Oral chelators, such as Chemet,
+have been used with success. There are case reports to support the use of DMSA in
+acute arsenic poisoning.3,8 The patients’ clinical status improved with DMSA therapy
+and urine arsenic levels decreased with therapy. Note: The chemical name, DMSA,
+may be used to describe the case reports in this document because it is unclear if the
+FDA-approved Chemet product was used.
+Mercury poisoning can result from vapor inhalation, mercury ingestion, mercury
+injection, and absorption of mercury through the skin.5 Symptoms of mercury
+poisoning depends on the type of mercury exposure and severity of exposure:
+organic mercury (antiseptics, bactericidals, fungicides, insecticides), inorganic
+mercury (chemical laboratory work, disinfectants, explosives, fur hat processing),
+and elemental mercury (thermometers, batteries, dental amalgams, fluorescent
+lamps). The ATSDR notes that patients with serious mercury exposure must be
+hospitalized.9 Chelation should be considered for any symptomatic patient with a
+clear history of acute elemental mercury exposure. The decision to chelate is less
+clear in asymptomatic patients with elevated urine mercury levels.10 Oral chelators,
+such as Chemet, have been used successfully for the treatment of acute mercury
+intoxication/poisoning.9 The World Health Organization (WHO) recommends that
+urine mercury concentration should not exceed 50 mcg/g creatinine.11
+Several case reports have demonstrated the effectiveness of DMSA therapy for
+treatment of acute mercury poisoning.12-15 All of the patients exhibited symptoms
+consistent with mercury poisoning and were treated in a hospital setting. DMSA
+therapy resulted in reduction of mercury levels and improved symptomatology.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Chemet. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Chemet as well as the
+monitoring required for adverse events, approval requires Chemet to be prescribed
+by or in consultation with a physician who specializes in the condition being treated.
+5 Pages - Cigna National Formulary Coverage - Policy:Chelating Agents – Chemet Prior Authorization Policy
+Documentation: Documentation is required for use of Chemet as noted in the
+criteria as [documentation required]. Documentation may include, but is not
+limited to, chart notes, prescription claims records, prescription receipts and/or other
+information.
+• Chemet® (succimer capsules (Lannett/Recordati Rare Diseases)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Acute Lead Poisoning. Approve for 2 months if the patient meets ALL of the
+following (A, B, C, and D):
+A) Patient is between the age of 12 months and 18 years of age; AND
+B) Prior to starting Chemet therapy, the patient’s blood lead level was > 45
+mcg/dL [documentation required]; AND
+C) Chemet is being used for treatment of acute lead poisoning and not as
+prophylaxis against lead poisoning in a lead-containing environment; AND
+D) The medication is prescribed by or in consultation with a professional
+experienced in the use of chelation therapy (e.g., a medical toxicologist or a
+poison control center specialist).
+Other Uses with Supportive Evidence
+2. Acute Arsenic Intoxication/Poisoning. Approve for 1 month if the patient
+meets BOTH of the following (A and B):
+A) Patient was recently initiated on Chemet therapy in the hospital and further
+treatment is needed to finish the course of therapy; AND
+B) The medication is prescribed by or in consultation with a professional
+experienced in the use of chelation therapy (e.g., a medical toxicologist or a
+poison control center specialist).
+3. Acute Mercury Intoxication/Poisoning. Approve for 1 month if the patient
+meets BOTH of the following (A and B):
+A) Patient was recently initiated on Chemet therapy in the hospital and further
+treatment is needed to finish the course of therapy; AND
+B) The medication is prescribed by or in consultation with a professional
+experienced in the use of chelation therapy (e.g., a medical toxicologist or a
+poison control center specialist).
+CONDITIONS NOT COVERED
+• Chemet® (succimer capsules (Lannett/Recordati Rare Diseases)
+5 Pages - Cigna National Formulary Coverage - Policy:Chelating Agents – Chemet Prior Authorization Policy
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria will
+be updated as new published data are available):
+1. Concomitant Use with Other Chelators (e.g., calcium disodium versenate
+injection [CaNa EDTA], dimercaprol injection [British anti-Lewisite
+2
+{BAL}]).
+In patients with acute lead poisoning, data on the concomitant use of Chemet with
+CaNa EDTA with or without BAL are not available and such use is not
+2
+recommended.1 Patients who have received CaNa EDTA with or without BAL may
+2
+use Chemet for subsequent treatment after an interval of four weeks.
+2. Chelation of Heavy Metals to Treat Chronic Medical and/or Psychiatric
+Conditions. Chelation of heavy metals has been advertised as a viable treatment
+for numerous conditions: treatment of intermittent claudication; treatment or
+management of symptoms of autism; prevention or cure of neurodegenerative
+conditions such as Alzheimer’s disease; use in Parkinson’s disease; treatment of
+macular degeneration.2 There is no evidence to show that chelators work in these
+conditions. Furthermore, unapproved uses of chelation therapy have resulted in
+harm and even death. Chelation of heavy metals is also one of several popular
+interventions in children with autism spectrum disorders. The FDA notes chelation
+therapies for the treatment of autism to be associated with significant health risks
+and does not approve such use.16
+3. Chronic Arsenic Exposure. Use of chelation therapy following chronic exposure
+to inorganic arsenic may accelerate metal excretion, but potential therapeutic
+efficacy in terms of decreased morbidity and mortality is largely unestablished.17
+In a prospective, randomized-controlled trial, 21 patients with chronic arsenicosis
+due to drinking arsenic-contaminated subsoil water were randomized to receive
+DMSA (1,400 mg/day or 100 mg/m2 in four divided doses for 1 week and then
+1,050 mg/day or 750 mg/m2 in three divided doses for 2 weeks; repeat the
+regimen after 3 weeks) or placebo.18 The patients had history of drinking arsenic-
+contaminated water (50 mcg/L or ≥ 0.05 mg/L) for at least 2 years and exhibited
+clinical signs/symptoms of chronic arsenicosis. Similar improvement in the clinical
+score was observed in the DMSA and placebo groups. Furthermore, urinary
+arsenic excretion before treatment and at 48 hours and 72 hours post-treatment
+were similar between the two groups. The investigators concluded that DMSA did
+not result in clinical or biochemical benefit in patients with chronic arsenicosis.
+In another case report involving a 39 year old woman with arsenic poisoning
+(urine arsenic level was 2,000 mcg/L; normal level is < 10 mcg/L), DMSA 600 mg
+three times a day for 45 days did not significantly affect the clearance of arsenic
+or clinical outcome.19 During the 45-day course, the patient stopped therapy for
+a total of 13 days (unknown reason).
+4. Chronic Mercury Exposure. The American Academy of Pediatrics notes there is
+no scientific evidence behind the use of chelation therapy to improve nervous
+5 Pages - Cigna National Formulary Coverage - Policy:Chelating Agents – Chemet Prior Authorization Policy
+system symptoms of chronic mercury toxicity.16 Use of chelation therapy
+following chronic exposure to inorganic mercury may accelerate metal excretion,
+but potential therapeutic efficacy in terms of decreased morbidity and mortality is
+largely unestablished.17
+In a randomized, double-blind, parallel-group, placebo-controlled study in
+Sweden, 20 patients were randomized to receive DMSA 20 mg/kg/day in three
+divided doses or placebo for 14 days.20 These patients experienced symptoms
+that were allegedly associated with amalgam fillings for at least 6 months. DMSA
+therapy resulted in increased urinary excretion of mercury and blood mercury
+levels were decreased. However, there were no statistically significant changes in
+any of the symptoms. The investigators concluded that although urinary excretion
+of mercury was increased during DMSA treatment, chelating therapy did not
+alleviate symptoms allegedly attributable to mercury from amalgam fillings.
+Cao and colleagues reported the effects of Chemet in reducing blood mercury
+levels in children 12 to 33 months of age.21 The original study was to evaluate
+the use of Chemet for lead poisoning; the investigators used the blood samples
+for the lead study and measured the mercury levels. Blood mercury
+concentrations were measured one week before randomization and treatment, at
+one week after treatment initiation, and after three courses of treatment. Mercury
+was not detected/quantified in any of the blood samples. At one week of
+treatment, organic mercury concentration decreased 8% in the Chemet group,
+but remained the same in the placebo group (P = 0.04). However, the
+investigators suggested that the difference was not due to a reduction in the
+Chemet group but rather, Chemet therapy prevented a rise in the blood mercury
+concentration as seen in the placebo group. Chemet therapy did not reverse the
+accumulation of organic mercury over multiple courses over 5 months.
+REFERENCES
+1. Chemet capsules [prescribing information]. Seymour, IN: Lannett/Recordati Rare Diseases;
+October 2018.
+2. Gould Soloway RA. Chelation: Therapy or “Therapy”? Available at:
+http://www.poison.org/articles/2011-mar/chelation-therapy. Accessed on April 16, 2024.
+3. Cullen NM, Wolf LR, St Clair D. Pediatric arsenic ingestion. Am J Emerg Med. 1995; 13(4):432-
+435.
+4. Davis CP. Arsenic poisoning. Last Reviewed October 3, 2022. Available at
+https://www.medicinenet.com/arsenic_poisoning/article.htm. Accessed on April 16, 2024.
+5. Olson DA. Mercury toxicity. Updated November 5, 2018. Available at:
+http://emedicine.medscape.com/article/1175560-overview. Accessed on April 16, 2024.
+6. Flora SJS, Pachauri V. Chelation in metal intoxication. Int J Environ Res Public Health. 2010;
+7:2745-2788.
+7. Agency for Toxic Substances & Disease Registry – Medical management guidelines for arsenic (As)
+and inorganic arsenic compounds. Available at:
+https://wwwn.cdc.gov/TSP/MMG/MMGDetails.aspx?mmgid=1424&toxid=3. Accessed on April 16,
+2024.
+8. Shum S, Whitehead J, Vaughn L et al. Chelation of organoarsenate with dimercaptosuccinic acid.
+Vet Hum Toxicol. 1995; 37(3):239-242.
+9. Agency for Toxic Substances & Disease Registry – Medical management guidelines for mercury.
+Available at: https://wwwn.cdc.gov/TSP/MMG/MMGDetails.aspx?mmgid=106&toxid=24. Accessed
+on April 16, 2024.
+5 Pages - Cigna National Formulary Coverage - Policy:Chelating Agents – Chemet Prior Authorization Policy
+10. Tominack R, Weber J, Blume C, et al. Elemental mercury as an attractive nuisance: multiple
+exposures from a pilfered school supply with severe consequences. Pediatr Emerg Care. 2002;
+18(2):97-100.
+11. World Health Organization (WHO). Inorganic mercury environmental health criteria 118. Geneva
+World Health Organization, 1991. Available at:
+http://apps.who.int/iris/bitstream/10665/40626/1/IPCS_EHC_118.pdf. Accessed on April 16,
+2024.
+12. Michaeli-Yossef Y, Berkovitch M, Goldman M. Mercury intoxication in a 2-year old girl: a
+diagnostic challenge for the physician. Pediatr Nephrol. 2007; 22(6):903-906.
+13. Fayez I, Paiva M, Thompson M, et al. Toxicokinetics of mercury elimination by succimer in twin
+toddlers. Paediatr Drugs. 2005; 7(6):397-400.
+14. McFee RB, Caraccio TR. Intravenous mercury injection and ingestion: clinical manifestations and
+management. J Toxicol Clin Toxicol. 2001; 39(7):733-738.
+15. Forman J, Moline J, Cernichiari E, et al. A cluster of pediatric metallic mercury exposure cases
+treated with meso-2, 3-dimercaptosuccinic acid (DMSA). Environ Health Perspect. 2000;
+108(6):575-577.
+16. FDA – Be aware of potentially dangerous products and therapies that claim to treat autism.
+Available at: https://www.fda.gov/consumers/consumer-updates/be-aware-potentially-
+dangerous-products-and-therapies-claim-treat-autism. Accessed on April 16, 2024.
+17. Kosnett MJ. The role of chelation in the treatment of arsenic and mercury poisoning. J Med Toxicol.
+2013; 9:347-354.
+18. Guha Mazumder DN, Ghoshal UC, Saha J, et al. Randomized placebo-controlled trial of 2,3-
+dimercaptosuccinic acid in therapy of chronic arsenicosis due to drinking arsenic-contaminated
+subsoil water. J Toxicol Clin Toxicol. 1998; 36(7):683-690.
+19. Stenhjem AE, Vahter M, Nermell B, et al. Slow recovery from severe inorganic arsenic poisoning
+despite treatment with DMSA (2,3-dimercaptosuccinic acid). Clin Toxicol. 2007; 45(4):424-428.
+20. Sandborgh Englund G, Dahlqvist R, Lindelof B, et al. DMSA administration to patients with alleged
+mercury poisoning from dental amalgams: a placebo-controlled study. J Dent Res. 1994;
+73(3):620-628.
+21. Cao Y, Chen A, Jones RL, et al. Efficacy of succimer chelation of mercury at background exposures
+in toddlers: a randomized trial. J Pediatr. 2011; 158(3):480-485.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Annual No criteria changes. 04/26/2023
+Revision
+Annual No criteria changes. 05/01/2024
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2024 The Cigna
+Group.
+5 Pages - Cigna National Formulary Coverage - Policy:Chelating Agents – Chemet Prior Authorization Policy

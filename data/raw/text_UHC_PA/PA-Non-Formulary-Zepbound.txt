@@ -1,0 +1,125 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1475-1
+Program Prior Authorization/Non-Formulary
+Medication Zepbound® (tirzepatide) – Obstructive Sleep Apnea Only
+P&T Approval Date 3/2025
+Effective Date 7/1/2025
+1. Background:
+Zepbound is a glucose-dependent insulinotropic polypeptide (GIP) receptor and glucagon-
+like peptide-1 (GLP-1) receptor agonist indicated to treat moderate to severe obstructive sleep
+apnea (OSA) in adults with obesity.
+Zepbound is also indicated in combination with a reduced-calorie diet and increased physical
+activity to reduce excess body weight and maintain weight reduction long term in adults with
+obesity or adults with overweight in the presence of at least one weight-related comorbid
+condition.
+Medications for the purpose of weight loss are typically a benefit exclusion. The program
+allows for coverage of Zepbound for obesity with obstructive sleep apnea.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Zepbound will be approved based on all the following criteria:
+a. Treatment is being requested for obstructive sleep apnea
+-AND-
+b. Patient is 18 years of age or older
+-AND-
+c. Submission of medical records documenting all the following:
+(1) BMI ≥ 30 kg/m2
+(2) Moderate-to-severe obstructive sleep apnea evidenced by both of the
+following:
+(a) a sleep study
+(b) One of the following: i. apnea-hypopnea index (AHI) > 15 events per
+hour
+i. respiratory event index (REI) > to 15 events per hour
+© 2025 UnitedHealthcare Services Inc.
+1
+ii. respiratory disturbance index (RDI) > 15 events per hour
+(3) Patient has symptoms consistent with OSA such as excessive daytime
+sleepiness, loud snoring, choking, gasping, difficulty maintaining sleep
+throughout the night or impairment in daily functioning related to OSA.
+(4) At least one previous unsuccessful dietary effort to lose weight
+(5) One of the following:
+(a) Patient has continued symptoms of OSA despite adherence to positive
+airway pressure (PAP) therapy. Adherence is defined as ≥ 4 hours of use
+per night for ≥ 70 percent of nights.
+(b) Patient is not a candidate for PAP therapy (e.g. upper airway anatomic
+abnormalities, etc).
+-AND-
+d. Used in combination with a reduced calorie diet and increased physical activity
+-AND-
+e. Patient does not have a diagnosis of diabetes or HgA1c > 6.5%
+-AND-
+f. Provider attests to both of the following:
+(1) patient counseled on appropriate positional therapy
+(2) patient counseled on avoidance of alcohol and/or sedatives before bedtime
+-AND-
+g. Prescriber attests the patient does not have any of the following:
+(1) Planned surgery for sleep apnea or obesity
+(2) Significant craniofacial abnormalities
+(3) A diagnosis of central or mixed sleep apnea
+-AND-
+h. Prescribed by or in consultation with a sleep specialist
+Authorization will be issued for 6 months.
+B. Reauthorization
+1. Zepbound will be approved based on all of the following criteria:
+a. One of the following:
+© 2025 UnitedHealthcare Services Inc.
+2
+(1) Both of the following.
+a) Patient has been on Zepbound for less than 52 weeks of consecutive therapy
+-AND-
+b) Submission of medical records confirming a decrease from baseline in one of
+the following:
+i. Apnea Hypopnea Index (AHI)
+ii. Respiratory Disturbance Index (RDI)
+iii. Respiratory Event Index (REI)
+-OR-
+(2) Both of the following:
+a) Patient has been on Zepbound for greater than or equal to 52 weeks of
+consecutive therapy
+b) Submission of medical records confirming a 50% decrease from baseline in
+one of the following:
+i. Apnea Hypopnea Index (AHI)
+ii. Respiratory Disturbance Index (RDI)
+iii. Respiratory Event Index (REI)
+-AND-
+b. Patient has had a weight loss of greater than or equal to 10% of baseline body weight
+-AND-
+c. Used in combination with a reduced calorie diet and increased physical activity
+-AND-
+d. Patient does not have a diagnosis of diabetes or HgA1c > 6.5%
+-AND-
+e. Patient continues to require treatment for obstructive sleep apnea
+Patients who have been on Zepbound therapy for fewer than 52 weeks of consecutive
+therapy: Authorization of 6 months
+Patients who have been on Zepbound therapy for greater than or equal to 52 weeks
+of consecutive therapy: Authorization of 12 months
+© 2025 UnitedHealthcare Services Inc.
+3
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Supply limits may be in place.
+4. References:
+1. Zepbound [package insert]. Indianapolis, IN: Eli Lilly and Company; December 2024.
+2. Patil SP, Ayappa IA, Caples SM, Kimoff RJ, Patel SR, Harrod CG. Treatment of adult
+obstructive sleep apnea with positive airway pressure: an American Academy of Sleep
+Medicine clinical practice guideline. J Clin Sleep Med. 2019;15(2):335–343.
+3. Practice Guidlines : Obstructive Sleep Apnea and Chronic Insomnia Disorder : Updated
+Guidelines from the VA/DoD. Ann Intern Med. March 3, 2020; 172(5):325-336.
+4. Task Force Members Guidelines Committee Members on behalf of the Governing Council of
+the World Sleep Society, Endorsement of: “clinical practice guideline for diagnostic testing
+for adult obstructive sleep apnea: an American academy of sleep medicine clinical practice
+guideline” by the World Sleep Society, Sleep Medicine,
+https://doi.org/10.1016/j.sleep.2020.12.044.
+5. Nancy Collop. Home sleep apnea testing for obstructive sleep apnea in adults. UpToDate,
+Collop N, Finlay G, UpToDate, Waltham, MA, December 2024.
+6. Malhorta A, Kundel V, et al. Obstructive sleep apnea: Overview of management in adults. In:
+UpToDate, Coop N, Finlay G, UpToDate, Waltham, MA, 2024.
+Program Prior Authorization/Non-Formulary – Zepbound – Obstructive Sleep
+Apnea Only
+Change Control
+Date Change
+3/2025 New program.
+© 2025 UnitedHealthcare Services Inc.
+4

@@ -1,0 +1,99 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2368-2
+Program Prior Authorization/Medical Necessity
+Medication Hympavzi™ (marstacimab-hncq)
+P&T Approval Date 3/2025, 5/2025
+Effective Date 7/1/2025
+1. Background:
+Hympavzi (marstacimab-hncq) is a tissue factor pathway inhibitor (TFPI) antagonist indicated for
+routine prophylaxis to prevent or reduce the frequency of bleeding episodes in adult and pediatric
+patients 12 years of age and older with:
+• hemophilia A (congenital factor VIII deficiency) without factor VIII inhibitors
+• hemophilia B (congenital factor IX deficiency) without factor IX inhibitors
+2. Coverage Criteriaa:
+A. Hemophilia A Without Inhibitors
+1. Published clinical evidence shows Hympavzi is likely to produce equivalent therapeutic
+results as other available therapies [e.g., Hemlibra (emicizumab-kxwh)]; therefore,
+Hympavzi is not medically necessary for treatment of hemophilia A (congenital factor
+VIII deficiency) without factor VIII inhibitors.
+All requests for authorization will be denied. All requests for therapy must be submitted
+through the appeals process to the UnitedHealthcare Pharmacy appeals team for
+consideration.
+B. Hemophilia B Without Inhibitors
+1. Initial Authorization
+a. Hympavzi will be approved based on all of the following criteria
+(1) One of the following:
+(a) Both of the following:
+i. Diagnosis of severe hemophilia B
+-AND-
+ii. Documentation of endogenous factor IX levels less than 1% of normal
+factor IX (< 0.01 IU/mL)
+-OR-
+(b) Both of the following:
+© 2025 UnitedHealthcare Services Inc.
+1
+i. One of the following
+1. Both of the following
+a. Diagnosis of moderate hemophilia B
+-AND-
+b. Documentation of endogenous factor IX level >1% < 5% (greater
+than or equal to 0.01 IU/mL to less than 0.05 IU/mL)
+-OR-
+2. Both of the following
+a. Diagnosis of mild hemophilia B
+-AND-
+b. Documentation of endogenous factor IX level > 5% (greater than or
+equal to 0.05 IU/mL)
+-AND-
+ii. Submission of medical records (e.g., chart notes, laboratory values)
+documenting a failure to meet clinical goals (e.g., continuation of
+spontaneous bleeds, inability to achieve appropriate trough level, previous
+history of inhibitors) after a trial of prophylactic factor IX replacement
+products
+-OR-
+(c) All of the following:
+i. Patient is currently on Hympavzi therapy
+-AND-
+ii. Diagnosis of hemophilia B
+-AND-
+iii. Patient has not received a manufacturer supplied sample at no cost in
+prescriber office, or any form of assistance from the Pfizer-sponsored
+Hympavzi Co-Pay Savings Program (e.g., sample card which can be
+redeemed at a pharmacy for a free supply of medication) as a means to
+establish as a current user of Hympavzi*
+-AND-
+© 2025 UnitedHealthcare Services Inc.
+2
+(2) Patient is 12 years of age or older
+-AND-
+(3) Hympavzi is prescribed for the prevention of bleeding episodes (i.e., routine
+prophylaxis)
+-AND-
+(4) Patient does not have a history of inhibitors to factor IX
+* Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance from
+the Pfizer-sponsored Hympavzi Co-Pay Savings Program shall be required to meet initial
+authorization criteria as if patient were new to therapy.
+Authorization of therapy will be issued for 12 months.
+2. Reauthorization
+a. Hympavzi will be approved based on the following criterion:
+(1) Documentation of positive clinical response to Hympavzi therapy
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+4. References:
+1. Hympavzi™ [package insert]. New York, NY: Pfizer Inc., October 2024.
+Program Prior Authorization/Medical Necessity - Hympavzi (marstacimab-hncq)
+Change Control
+3/2025 New program.
+5/2025 Removed criteria that patient is not to receive extended half-life factor
+VIII replacement products for the treatment of breakthrough bleeding
+episodes.
+© 2025 UnitedHealthcare Services Inc.
+3

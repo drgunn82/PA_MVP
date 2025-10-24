@@ -1,0 +1,62 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1440-4
+Program Prior Authorization/Notification
+Medication Rivfloza™ (nedosiran)
+P&T Approval Date 3/2024, 4/2024, 4/2025, 5/2025
+Effective Date 8/1/2025
+1. Background:
+Rivfloza™ (nedosiran) is an LDHA-directed small interfering RNA indicated to lower urinary
+oxalate levels in children 2 years of age and older and adults with primary hyperoxaluria type
+1 (PH1) and relatively preserved kidney function (e.g., eGFR ≥ 30 mL/min/1.73 m2).
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Rivfloza will be approved based on one of the following criteria:
+a. All of the following:
+(1) Patient has been established on therapy with Rivfloza under an active
+UnitedHealthcare medical benefit prior authorization for the treatment of
+primary hyperoxaluria type 1 (PH1)
+-AND-
+(2) Documentation of positive clinical response to Rivfloza
+-AND-
+(3) Patient is not receiving Rivfloza in combination with Oxlumo (lumasiran)
+-OR-
+b. All of the following:
+(1) Diagnosis of primary hyperoxaluria type 1 (PH1)
+-AND-
+(2) Patient is at least 2 years of age and older
+-AND-
+(3) Patient has relatively preserved kidney function (e.g., eGFR ≥ 30 mL/min/1.73
+m2)
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+1
+(4) Patient is not receiving Rivfloza in combination with Oxlumo (lumasiran)
+Authorization will be issued for 12 months
+B. Reauthorization
+1. Rivfloza will be approved based on both of the following criteria:
+a. Documentation of positive clinical response to Rivfloza therapy
+-AND-
+b. Patient is not receiving Rivfloza in combination with Oxlumo (lumasiran)
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-
+10) and/or claim logic. Use of automated approval and re-approval processes varies by
+program and/or therapeutic class.
+• Supply limits, Medical Necessity and/or Step Therapy may be in place.
+4. References:
+1. Rivfloza [package insert]. Plainsboro, NJ: Novo Nordisk, Inc.; March 2025.
+Program Prior Authorization/Notification - Rivfloza (nedosiran)
+Change Control
+3/2024 New program.
+4/2024 Removed footnote that program applies to PFS formulation only.
+Specified “medical benefit” for prior UHC PA bypass.
+4/2025 Annual review. No changes to coverage criteria.
+5/2025 Updated age limitation based on update to FDA-labeled indication.
+Updated reference.
+© 2025 UnitedHealthcare Services, Inc.
+2

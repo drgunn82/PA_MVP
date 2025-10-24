@@ -1,0 +1,85 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2123-10
+Program Prior Authorization/Medical Necessity
+Medication Afstyla® (antihemophilic factor [recombinant], single chain)
+P&T Approval Date 3/2017, 3/2018, 3/2019, 3/2020, 9/2020, 9/2021, 9/2022, 9/2023, 3/2024,
+3/2025
+Effective Date 6/1/2025
+1. Background
+Afstyla (antihemophilic factor [recombinant], single chain) is a recombinant antihemophilic
+factor indicated in adults and children with hemophilia A (congenital Factor VIII deficiency) for:
+On-demand treatment and control of bleeding episodes
+o
+Routine prophylaxis to reduce the frequency of bleeding episodes
+o
+Perioperative management of bleeding
+o
+Afstyla is not indicated for the treatment of von Willebrand disease.
+2. Coverage Criteriaa:
+A. Initial Authorization:
+1. Afstyla will be initially approved based on the following criteria:
+a. All of the following:
+(1) Diagnosis of hemophilia A
+-AND-
+(2) Patient is not a suitable candidate for treatment with shorter acting half-life Factor
+VIII (recombinant) products [Advate, Kogenate FS, Kovaltry, Novoeight, Nuwiq, or
+Recombinate] as attested by the prescriber
+-AND-
+(3) One of the following:
+(a) Patient is not to receive routine infusions more frequently than 3 times per week
+-OR-
+(b) Both of the following:
+1. Patient is less than 12 years of age
+© 2025 UnitedHealthcare Services, Inc.
+1
+-AND-
+2. Pharmacokinetic (PK) testing results suggest that more frequent than 3 times
+per week dosing is required
+Authorization of therapy will be issued for 12 months.
+B. Reauthorization
+1. Afstyla will be approved based on all of the following criteria:
+a. Documentation of positive clinical response to Afstyla therapy.
+-AND-
+b. One of the following:
+(1) Patient is not to receive routine infusions more frequently than 3 times per week
+-OR-
+(2) Both of the following:
+(a) Patient is less than 12 years of age
+-AND-
+(b) PK testing results suggest that more frequent than 3 times per week dosing is
+required
+Authorization of therapy will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+4. References:
+1. Afstyla® [package insert]. Kankakee, IL: CSL Behring, LLC., June 2023.
+2. Malec L, Shapiro AD. Hemophilia A and B: Routine management including prophylaxis. In:
+UpToDate, Waltham, MA, 2025.
+3. MASAC Recommendations Concerning Products Licensed for the Treatment of Hemophilia and
+Other Bleeding Disorders. MASAC Document #290, October 2, 2024.
+© 2025 UnitedHealthcare Services, Inc.
+2
+Program Prior Authorization/Medical Necessity - Afstyla
+Change Control
+3/2017 New program.
+3/2018 Annual review with no changes to coverage criteria.
+3/2019 Annual review with no changes to coverage criteria. Updated reference.
+3/2020 Annual review with no changes to coverage criteria.
+9/2020 Updated preferred standard half-life recombinant products. Updated
+references.
+9/2021 Annual review with no changes to coverage criteria. Updated reference.
+9/2022 Annual review. Added text “pharmacokinetic” to clarify abbreviation “PK”
+with no changes to clinical intent. Updated background per prescribing
+information and updated references.
+9/2023 Annual review. Modified physician attestation to prescriber attestation.
+Updated references.
+3/2024 Annual review with no changes to coverage criteria.
+3/2025 Annual review with no changes to coverage criteria. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+3

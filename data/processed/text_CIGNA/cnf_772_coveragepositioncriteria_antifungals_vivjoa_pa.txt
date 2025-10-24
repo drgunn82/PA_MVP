@@ -1,0 +1,106 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Antifungals – Vivjoa Prior Authorization Policy
+• Vivjoa™ (oteseconazole capsules − Mycovia)
+REVIEW DATE: 08/06/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Vivjoa, an azole antifungal, is indicated to reduce the incidence of recurrent
+vulvovaginal candidiasis (RVVC) in females with a history of RVVC who are not of
+reproductive potential.1 Females who are NOT of reproductive potential are defined
+as: persons who are biological females who are postmenopausal or have another
+reason for permanent infertility (e.g., tubal ligation, hysterectomy, salpingo-
+oophorectomy). Vivjoa is contraindicated in females of reproductive potential and in
+pregnant and lactating women. This is a result of a drug exposure window of
+approximately 690 days (based on 5 times the half-life of oteseconazole), which
+precludes adequate mitigation of the embryo-fetal toxicity risks.
+The Vivjoa pivotal studies enrolled females with RVVC, which was defined as three or
+more episodes of vulvovaginal candidiasis in a 12-month period; this definition aligns
+with the Centers for Disease Control and Prevention’s (CDC) definition of RVVC.1,2
+Page 1 of 3: Cigna National Formulary Coverage - Policy: Antifungals - Vivjoa Prior
+Authorization Policy
+There are two recommended Vivjoa dosage regimens: a Vivjoa-only regimen and a
+fluconazole/Vivjoa regimen.1 The duration of treatment is 12 weeks and 14 weeks
+for the Vivjoa-only dosage regimen and the fluconazole/Vivjoa dosage regimen,
+respectively.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Vivjoa. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days.
+• Vivjoa™ (oteseconazole capsules - Mycovia)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Recurrent Vulvovaginal Candidiasis. Approve for 4 months if the patient
+meets ALL of the following (A, B, C, D, and E):
+A) Patient is ≥ 18 years of age; AND
+B) Patient has had at least three episodes of vulvovaginal candidiasis in a 12-
+month period; AND
+Note: A patient who has had two or more previous episodes of vulvovaginal
+candidiasis in the previous 12 months (prior to the current infection) would
+meet this requirement.
+C) Patient is NOT of reproductive potential; AND
+Note: A person who is NOT of reproductive potential is defined as a person
+who is a biological female who is postmenopausal or has another reason for
+permanent infertility (e.g., tubal ligation, hysterectomy, salpingo-
+oophorectomy).
+D) Patient is NOT pregnant; AND
+E) Patient is NOT breastfeeding.
+CONDITIONS NOT COVERED
+• Vivjoa™ (oteseconazole capsules - Mycovia)
+is(are) considered not medically necessary for ANY other use(s); criteria will
+be updated as new published data are available.
+REFERENCES
+1. Vivjoa™ capsules [prescribing information]. Durham, NC: Mycovia; April 2024.
+2. Workowski KA, Bachmann LH, Chan PA, et al. Sexually transmitted infections treatment guidelines
+2021. MMWR Recomm Rep. 2021;70(4):1-187.
+History
+Page 2 of 3: Cigna National Formulary Coverage - Policy: Antifungals - Vivjoa Prior
+Authorization Policy
+Type of Summary of Changes Review Date
+Revision
+Annual No criteria changes. 08/23/2023
+Revision
+Annual No criteria changes. 08/28/2024
+Revision
+Annual Policy Statement: The policy statement was updated to “All 08/06/2025
+Revision approvals are provided for the duration below. In cases where the
+approval is authorized in months, 1 month is equal to 30 days.”
+Previously, it read “All approvals are provided for 30 days, which is
+an adequate duration for the patient to receive one course of
+treatment.”
+Recurrent Vulvovaginal Candidiasis: The approval duration for
+this condition was updated to state 4 months. Previously, it stated
+“one treatment course.”
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+Page 3 of 3: Cigna National Formulary Coverage - Policy: Antifungals - Vivjoa Prior
+Authorization Policy

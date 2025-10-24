@@ -1,0 +1,142 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2114-10
+Program Prior Authorization – Medical Necessity
+Medication Albenza (albendazole), Emverm (mebendazole)
+P&T Approval Date 11/2016, 3/2017, 6/2017, 6/2018, 5/2019, 4/2020, 5/2021, 5/2022,
+6/2023, 8/2024
+Effective Date 11/1/2024
+1. Background:
+Albenza is indicated for the treatment of parenchymal neurocysticercosis due to active lesions
+caused by larval forms of the pork tapeworm, Taenia solium. Albenza is also indicated for the
+treatment of cystic hydatid disease of the liver, lung, and peritoneum, caused by the larval form of
+the dog tapeworm, Echinococcus granulosus.
+Emverm is indicated for the treatment of Enterobius vermicularis (pinworm), Trichuris trichiura
+(whipworm), Ascaris lumbricoides (common roundworm), Ancylostoma duodenale (common
+hookworm) and Necator americanus (American hookworm) in single or mixed infections.
+CDC guidelines recommend use in several other parasitic infections.
+2. Coverage Criteriaa:
+A. Enterobius vermicularis (pinworm)
+1. Albenza or Emverm will be approved based on both of the following:
+a. Diagnosis of Enterobius vermicularis (pinworm)
+-AND-
+b. History of failure, contraindication or intolerance to over-the-counter pyrantel
+pamoate
+Authorization will be issued for one month.
+B. Taenia solium and Taenia saginata (Taeniasis or Cysticercosis/Neurocysticercosis)
+1. Albenza will be approved based on the following criterion:
+a. Diagnosis of Taeniasis or Cysticercosis/Neurocysticercosis
+Authorization will be issued for six months.
+C. Echinococcosis (Tapeworm)
+1. Albenza or Emverm will be approved based on the following criterion:
+© 2024 UnitedHealthcare Services, Inc.
+1
+a. Diagnosis of Hydatid Disease [Echinococcosis (Tapeworm)]
+Authorization will be issued for six months.
+D. Ancylostoma/Necatoriasis (Hookworm)
+1. Emverm will be approved based on the following criterion:
+a. Diagnosis of Ancylostoma/Necatoriasis (Hookworm)
+Authorization will be issued for one month.
+2. Albenza will be approved based on the following criterion:
+a. Diagnosis of Ancylostoma/Necatoriasis (Hookworm)
+Authorization will be issued for six months.
+E. Ascariasis (Roundworm)
+1. Albenza or Emverm will be approved based on the following criterion:
+a. Diagnosis of Ascariasis (Roundworm)
+Authorization will be issued for one month.
+F. Toxocariasis (Roundworm)
+1. Albenza or Emverm will be approved based on the following criterion:
+a. Diagnosis of Toxocariasis (Roundworm)
+Authorization will be issued for one month.
+G. Trichinellosis
+1. Albenza or Emverm will be approved based on the following criterion:
+a. Diagnosis of Trichinellosis
+Authorization will be issued for one month.
+H. Trichuriasis (Whipworm)
+1. Albenza or Emverm will be approved based on the following criterion:
+a. Diagnosis of Trichuriasis (Whipworm)
+Authorization will be issued for one month.
+© 2024 UnitedHealthcare Services, Inc.
+2
+I. Capillariasis
+1. Albenza or Emverm will be approved based on the following criterion:
+a. Diagnosis of Capillariasis
+Authorization will be issued for one month.
+J. Baylisascaris
+1. Albenza or Emverm will be approved based on the following criterion:
+a. Diagnosis of Baylisascaris
+Authorization will be issued for one month.
+K. Clonorchiasis (Liver flukes)
+1. Albenza will be approved based on the following criterion:
+a. Diagnosis of Clonorchiasis
+Authorization will be issued for one month.
+L. Gnathostomiasis
+1. Albenza will be approved based on the following criterion:
+a. Diagnosis of Gnathostomiasis
+Authorization will be issued for one month.
+M. Strongyloidiasis
+1. Albenza will be approved based on the following criterion:
+a. Diagnosis of Strongyloidiasis
+Authorization will be issued for one month.
+N. Loiasis
+1. Albenza will be approved based on the following criterion:
+a. Diagnosis of Loiasis
+Authorization will be issued for one month.
+© 2024 UnitedHealthcare Services, Inc.
+3
+O. Opisthorchiasis
+1. Albenza will be approved based on the following criterion:
+a. Diagnosis of Opisthorchiasis
+Authorization will be issued for one month.
+P. Anisakiasis
+1. Albenza will be approved based on the following criterion:
+a. Diagnosis of Anisakiasis
+Authorization will be issued for one month.
+Q. Microsporidiosis
+1. Albenza will be approved based on the following criterion:
+a. Diagnosis of Microsporidiosis not caused by Enterocytozoon bieneusi or Vittaforma
+corneae.
+Authorization will be issued for twelve months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. CDC treatment guidelines. http://www.cdc.gov./parasites. Accessed July 2024.
+2. Albendazole [package insert]. Piscataway, NJ: Camber Pharmaceuticals, Inc; November
+2022.
+3. Emverm [package insert]. Bridgewater, NJ: Amneal Pharmaceuticals LLC; August 2021.
+4. Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and
+Adolescents with HIV. https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-
+and-adolescent-opportunistic-infections/microsporidiosis. Accessed July 2024.
+© 2024 UnitedHealthcare Services, Inc.
+4
+Program Prior Authorization – Medical Necessity – Anthelmintics
+Change Control
+11/2016 New program.
+3/2017 Updated background. Incorporated CDC and FDA labeled indications.
+Updated authorization time based on CDC and FDA recommendations.
+6/2017 Added Albenza as an approvable drug for Mansonella perstans
+(Filariasis). State mandate reference language updated.
+6/2018 Annual review. References updated.
+5/2019 Annual review. Added Albenza for Clonorchiasis, Gnathostomiasis,
+Strongyloidiasis per CDC treatment guidelines. Removed Albenza for
+Mansonella perstans per CDC treatment guidelines. Updated
+references.
+4/2020 Annual review. Added Albenza for Loa loa, Opisthorchis per CDC
+guidelines. Removed Emverm and Vermox for Mansonella perstans.
+5/2021 Annual review. Removed Vermox from program due to product
+discontinuation. Updated references.
+5/2022 Annual review. Changed Ancylostoma/Necatoriasis authorization to six
+months per CDC recommendation for Albenza. Formatting changes.
+Updated references.
+6/2023 Annual review. Added Albenza for Anisakiasis and Microsporidiosis
+per CDC and NIH guidelines, respectively. Updated references.
+8/2024 Annual review. Clarified spelling of Opisthorchiasis.
+© 2024 UnitedHealthcare Services, Inc.
+5

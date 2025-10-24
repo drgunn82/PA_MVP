@@ -1,0 +1,83 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1436-3
+Program Prior Authorization/Notification
+Medication *Entyvio® (vedolizumab)
+*This program applies to the subcutaneous formulation of vedolizumab
+P&T Approval Date 4/2024, 5/2024, 5/2025
+Effective Date 8/1/2025
+1. Background:
+Entyvio (vedolizumab) for subcutaneous use is an integrin receptor antagonist indicated in adults
+for the treatment of moderately to severely active ulcerative colitis (UC) and Crohn’s disease
+(CD).
+2. Coverage Criteriaa:
+A. Ulcerative Colitis
+1. Initial Authorization
+a. Entyvio for subcutaneous use will be approved based on both of the following
+criteria:
+(1) Diagnosis of moderately to severely active ulcerative colitis
+-AND-
+(2) Patient is not receiving Entyvio in combination with a targeted
+immunomodulator [e.g., adalimumab, Omvoh (mirikizumab-mrkz), Rinvoq
+(upadacitinib), Simponi (golimumab), Skyrizi (risankizumab), Tremfya
+(guselkumab), Xeljanz/Xeljanz XR (tofacitinib), Ustekinumab, Zeposia
+(ozanimod)]
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Entyvio for subcutaneous use will be approved based on both of the following
+criteria:
+(1) Documentation of positive clinical response to Entyvio therapy
+-AND-
+(2) Patient is not receiving Entyvio in combination with a targeted
+immunomodulator [e.g., adalimumab, Omvoh (mirikizumab-mrkz), Rinvoq
+(upadacitinib), Simponi (golimumab), Skyrizi (risankizumab), Tremfya
+(guselkumab), Xeljanz/Xeljanz XR (tofacitinib), Ustekinumab, Zeposia
+© 2025 UnitedHealthcare Services, Inc.
+1
+(ozanimod)]
+Authorization will be issued for 12 months.
+B. Crohn’s Disease
+1. Initial Authorization
+a. Entyvio for subcutaneous use will be approved based on both of the following
+criteria:
+(1) Diagnosis of moderately to severely active Crohn’s disease
+-AND-
+(2) Patient is not receiving Entyvio in combination with a targeted
+immunomodulator [e.g., adalimumab, Omvoh (mirikizumab-mrkz), Rinvoq
+(upadacitinib), Simponi (golimumab), Skyrizi (risankizumab), Tremfya
+(guselkumab), Xeljanz/Xeljanz XR (tofacitinib), Ustekinumab, Zeposia
+(ozanimod)]
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Entyvio for subcutaneous use will be approved based on both of the following
+criteria:
+(1) Documentation of positive clinical response to Entyvio therapy
+-AND-
+(2) Patient is not receiving Entyvio in combination with a targeted
+immunomodulator [e.g., adalimumab, Omvoh (mirikizumab-mrkz), Rinvoq
+(upadacitinib), Simponi (golimumab), Skyrizi (risankizumab), Tremfya
+(guselkumab), Xeljanz/Xeljanz XR (tofacitinib), Ustekinumab, Zeposia
+(ozanimod)]
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+© 2025 UnitedHealthcare Services, Inc.
+2
+• Supply limits may be in place.
+4. References:
+1. Entyvio [package insert]. Deerfield, IL: Takeda Pharmaceuticals America, Inc.; April 2024.
+Program Prior Authorization/Notification – Entyvio (vedolizumab)
+Change Control
+4/2024 New program.
+5/2024 Added coverage criteria for Crohn’s disease. Updated background and
+reference.
+5/2025 Annual review with no change to coverage criteria. Updated example
+with no change to clinical intent.
+© 2025 UnitedHealthcare Services, Inc.
+3

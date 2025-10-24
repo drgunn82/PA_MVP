@@ -1,0 +1,158 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Dichlorphenamide Prior Authorization Policy
+• Keveyis® (dichlorphenamide tablets − Xeris, generic)
+REVIEW DATE: 01/08/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Dichlorphenamide, a carbonic anhydrase inhibitor, is indicated for the treatment of
+primary hyperkalemic periodic paralysis (HyperPP), primary hypokalemic
+periodic paralysis (HypoPP), and related variants.1 These conditions are
+heterogeneous and response to dichlorphenamide may vary; therefore, prescribers
+should evaluate the patient’s response to dichlorphenamide after 2 months to decide
+whether it should be continued.
+Disease Overview
+The primary periodic paralyses are rare muscle disorders caused by autosomal
+dominant genetic mutations in ion channels.2,3 The altered channels cannot properly
+regulate the flow of ions into muscle cells, which reduces the ability of skeletal
+muscles to contract, leading to severe muscle weakness or paralysis.4 Genetic testing
+is recommended as the first diagnostic step; a heterozygous pathogenic mutation
+can be identified in 60% to 70% of periodic paralysis cases.5 When a genetic
+mutation cannot be identified, periodic paralyses can be distinguished based on
+clinical presentation. Other causes of hypokalemia or hyperkalemia should be
+excluded.5
+Page 1 of 4 - Cigna National Formulary Coverage - Policy: Dichlorphenamide Prior Authorization Policy
+Regarding treatment, oral potassium salts can be taken as maintenance/prophylactic
+therapy for patients with HypoPP; however, this does not completely prevent
+attacks.6 Although data are limited to case reports and single-blind trials,
+acetazolamide, another carbonic anhydrase inhibitor, has been used historically for
+primary periodic paralysis. Acetazolamide treatment is beneficial in approximately
+50% of patients with HypoPP and it has no effect in 30% of affected patients. It can
+also exacerbate symptoms in 20% of patients. Dichlorphenamide has been reported
+to be 30 times more potent than acetazolamide in vitro.7 Prior to initiating
+dichlorphenamide it is important to verify if the patient has had exacerbation with
+acetazolamide, since dichlorphenamide is considered to be more potent and may
+potentially lead to more exacerbations.8
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of
+dichlorphenamide. All approvals are provided for the duration noted below. In cases
+where the approval is authorized in months, 1 month is equal to 30 days. Because of
+the specialized skills required for evaluation and diagnosis of patients treated with
+dichlorphenamide, as well as the monitoring required for adverse events and long-
+term efficacy, initial approval requires dichlorphenamide to be prescribed by or in
+consultation with a physician who specializes in the condition being treated.
+• Keveyis® (dichlorphenamide tablets - Xeris,
+generic)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Hypokalemic Periodic Paralysis (HypoPP) and Related Variants. Approve
+for the duration noted if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 2 months if the patient meets ALL of the following
+(i, ii, iii, iv, v, and vi):
+i. Patient has a confirmed diagnosis of primary hypokalemic periodic paralysis
+by meeting at least ONE of the following (a, b, or c):
+a) Patient has had a serum potassium concentration of less than 3.5 mEq/L
+during a paralytic attack; OR
+b) Patient has a family history of the condition; OR
+c) Patient has a genetically confirmed skeletal muscle calcium or sodium
+channel mutation; AND
+ii. The prescriber has excluded other reasons for acquired hypokalemia; AND
+Note: Examples of other reasons for acquired hypokalemia include renal,
+adrenal, or thyroid dysfunction; renal tubular acidosis; and diuretic or
+laxative abuse.
+3 Pages - Cigna National Formulary Coverage - Policy:Dichlorphenamide Prior Authorization Policy
+iii. Patient has had improvements in paralysis attack symptoms with potassium
+intake; AND
+iv. Patient has tried oral acetazolamide therapy; AND
+v. According to the prescriber, acetazolamide therapy did not worsen the
+paralytic attack frequency or severity in the patient; AND
+vi. The medication is prescribed by or in consultation with a neurologist or a
+physician who specializes in the care of patients with primary periodic
+paralysis (e.g., muscle disease specialist, physiatrist); OR
+B) Patient is Currently Receiving Dichlorphenamide. Approve for 1 year if the
+patient has responded to dichlorphenamide (e.g., decrease in the frequency or
+severity of paralytic attacks) as determined by the prescriber.
+2. Hyperkalemic Periodic Paralysis (HyperPP) and Related Variants. Approve
+for the duration noted if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 2 months if the patient meets ALL of the following
+(i, ii, iii, iv and v):
+i. Patient has a confirmed diagnosis of primary hyperkalemic periodic
+paralysis by meeting at least ONE of the following criteria (a, b, c, or d):
+a) Patient has had an increase from baseline in serum potassium
+concentration of greater than or equal to 1.5 mEq/L during a paralytic
+attack; OR
+b) Patient has had a serum potassium concentration during a paralytic
+attack of greater than 5.0 mEq/L; OR
+c) Patient has a family history of the condition; OR
+d) Patient has a genetically confirmed skeletal muscle sodium channel
+mutation; AND
+ii. The prescriber has excluded other reasons for acquired hyperkalemia; AND
+Note: Examples of other reasons for acquired hyperkalemia include drug
+abuse, renal dysfunction, and adrenal dysfunction.
+iii. Patient has tried oral acetazolamide therapy; AND
+iv. According to the prescriber, acetazolamide therapy did not worsen the
+paralytic attack frequency or severity in the patient; AND
+v. The medication is prescribed by or in consultation with a neurologist or a
+physician who specializes in the care of patients with primary periodic
+paralysis (e.g., muscle disease specialist, physiatrist); OR
+B) Patient is Currently Receiving Dichlorphenamide. Approve for 1 year if the
+patient has responded to dichlorphenamide (e.g., decrease in the frequency or
+severity of paralytic attacks) as determined by the prescriber.
+CONDITIONS NOT COVERED
+• Keveyis® (dichlorphenamide tablets - Xeris,
+generic)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following; criteria will be updated as new published
+data are available
+3 Pages - Cigna National Formulary Coverage - Policy:Dichlorphenamide Prior Authorization Policy
+REFERENCES
+1. Keveyis® tablets [prescribing information]. Chicago, IL: Xeris; August 2024.
+2. Sansone V, Meola G, Links T, et al. Treatment for periodic paralysis. Cochrane Database Syst Rev.
+2008, Issue 1. Art. No.: CD005045.
+3. Genetics Home Reference. Hyperkalemic periodic paralysis. Reviewed February 2019. Available
+at: http://ghr.nlm.nih.gov/condition/hyperkalemic-periodic-paralysis. Accessed on December 26,
+2024.
+4. Genetics Home Reference. Hypokalemic periodic paralysis. Reviewed March 1, 2020. Available at:
+http://ghr.nlm.nih.gov/condition/hypokalemic-periodic-paralysis. Accessed on December 26, 2024.
+5. Statland JM, Fontaine B, Hanna MG, et al. Review of the Diagnosis and Treatment of Periodic
+Paralysis. Muscle Nerve. 2018;57(4):522-530.
+6. Vicart S, Sternberg D, Arzel-Hezode M, et al. Hypokalemic periodic paralysis. Initial posting April
+30, 2002. Updated July 26, 2018. GeneReviews® - NCBI Bookshelf. Available at:
+http://www.ncbi.nlm.nih.gov/books/NBK1338/?report=printable. Accessed on December 26, 2024.
+7. Sansone VA, Burge J, McDermott MP, et al. Randomized, placebo-controlled trials of
+dichlorphenamide in periodic paralysis. Neurology. 2016;86:1408-1416.
+8. Levitt JO. Practical aspects in the management of hypokalemic periodic paralysis. Commentary. J
+Transl Med. 2008;6:18.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 01/03/2024
+Revision
+Annual No criteria changes. 01/08/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and
+services are provided exclusively by or through such operating subsidiaries, including Cigna
+Health and Life Insurance Company, Connecticut General Life Insurance Company,
+Evernorth Behavioral Health, Inc., Cigna Health Management, Inc., and HMO or service
+company subsidiaries of The Cigna Group. © 2024 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Dichlorphenamide Prior Authorization Policy

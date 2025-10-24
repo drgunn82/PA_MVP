@@ -1,0 +1,57 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1278-7
+Program Prior Authorization/Notification
+Medication Cablivi® (caplacizumab-yhdp)
+P&T Approval Date 4/2019, 4/2020, 4/2021, 4/2022, 4/2023, 4/2024, 4/2025
+Effective Date 7/1/2025
+1. Background:
+Cablivi (caplacizumab-yhdp) is a von Willebrand factor (vWF)-directed antibody fragment
+indicated for the treatment of adult patients with acquired thrombotic thrombocytopenic
+purpura (aTTP), in combination with plasma exchange and immunosuppressive therapy.
+2. Coverage Criteriaa:
+A. Acquired thrombotic thrombocytopenic purpura (aTTP)
+1. Initial Authorization
+a. Cablivi will be approved based on all of the following criteria:
+(1) Diagnosis of acquired thrombotic thrombocytopenic purpura (aTTP)
+-AND-
+(2) Cablivi was initiated as a bolus intravenous injection administered by a healthcare
+provider in combination with plasma exchange therapy
+-AND-
+(3) Cablivi will be used in combination with immunosuppressive therapy (e.g.,
+corticosteroids)
+-AND-
+(4) Total treatment duration will be limited to 58 days beyond the last therapeutic
+plasma exchange
+Authorization will be issued for 2 months
+2. Reauthorization
+a. Request is for a new (different) episode requiring the re-initiation of plasma exchange
+for the treatment of aTTP. (Documentation of date of prior episode and documentation
+date of new episode required)
+Authorization will be issued for 2 months for a new episode of aTTP
+© 2025 UnitedHealthcare Services, Inc.
+1
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class
+• Supply limits may be in place.
+4. References:
+1. Cablivi [package insert]. Cambridge, MA: Genzyme Corporation; April 2024.
+Program Prior Authorization/Notification – Cablivi (caplacizumab-yhdp)
+Change Control
+4/2019 New program.
+4/2020 Annual review with no changes to clinical coverage criteria.
+4/2021 Annual review. Updated clinical criteria from initial inpatient
+administration to a bolus intravenous injection administered by a
+healthcare provider. Updated reference.
+4/2022 Annual review with no change to clinical criteria. Updated reference.
+4/2023 Annual review. Added state mandate and updated reference.
+4/2024 Annual review with no change to clinical criteria. Updated reference.
+4/2025 Annual review with no change to clinical criteria. Updated reference.
+© 2025 UnitedHealthcare Services, Inc.
+2

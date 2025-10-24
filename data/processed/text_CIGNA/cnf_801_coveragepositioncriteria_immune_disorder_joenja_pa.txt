@@ -1,0 +1,160 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Immune Disorder − Joenja Prior Authorization Policy
+• Joenja® (leniolisib tablets − Pharming)
+REVIEW DATE: 03/19/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Joenja, a kinase inhibitor, is indicated for the treatment of activated phosphoinositide 3-
+kinase delta (PI3Kδ) syndrome (APDS) in adults and pediatric patients ≥12 years of
+age.1
+Disease Overview
+APDS is an ultra-rare, genetic, progressive primary immunodeficiency disorder.2,3 It is
+estimated to occur in 1 to 2 people per one million. APDS is an autosomal dominant disease
+caused by variants in PIK3CD or PIK3R1 genes, resulting in hyperactivation of the PI3Kδ
+pathway. APDS is characterized by both immune deficiency and dysregulation, which causes
+various clinical manifestations, such as recurrent sinopulmonary infections, recurrent
+herpesvirus infections, lymphadenopathy, hepatomegaly, splenomegaly, nodular lymphoid
+hyperplasia, autoimmunity, cytopenias, enteropathy, and bronchiectasis. APDS can lead to
+end-organ damage, malignancy, and early mortality. There are no other FDA-approved
+treatments for APDS. Current APDS management includes immunosuppressants,
+prophylactic antimicrobials, immunoglobulin replacement therapy, sirolimus, hematopoietic
+stem cell transplantation (HSCT), and surgery or procedures.
+Clinical Efficacy
+The efficacy of Joenja was evaluated in one Phase III, randomized, triple-blind, placebo-
+controlled, multicenter, pivotal study in 31 patients with APDS.2 Eligible patients were 12 to
+75 years of age, had pathogenic variants in PIK3CD or PIK3R1 genes, had clinical findings
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Immune Disorder (Joenja Prior Authorization Policy
+consistent with APDS (e.g., history of repeated oto-sino-pulmonary infection and organ
+dysfunction), and more than one measurable lymph node on computed tomography or
+magnetic resonance imaging scan. The co-primary outcomes were differences from
+baseline in the index lymph node size and the percentage of naïve B cells in peripheral
+blood, which are measures of immune dysregulation and deficiency.2 Both co-primary
+endpoints were met. Joenja significantly reduced lymphadenopathy and significantly
+increased the percentage of naïve B cells. Joenja also improved other outcome measures,
+such as spleen size, lymphocyte subsets, cytopenias, and immunoglobulin (Ig)M levels.
+Although changes in health-related quality of life measures were not statistically significant,
+many patients reported increase in activity and energy levels. An ongoing open label
+extension study reported results in an interim analysis from 37 patients with least 5 years of
+Joenja exposure.3,4 Joenja demonstrated a reduction in use of immunoglobulin replacement
+therapy and a decrease in the annualized yearly infection rate. Continued improvements in
+mean index lymph node size; mean immunoglobulin M (IgM) levels; and mean percentages
+of naïve B cells and transitional B cells were seen.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Joenja. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Joenja as well as the
+monitoring required for adverse events and long-term efficacy, approval requires Joenja to
+be prescribed by or in consultation with a physician who specializes in the condition being
+treated.
+• Joenja® (leniolisib tablets - Pharming)
+is(are) covered as medically necessary when the following criteria is(are) met for
+FDA-approved indication(s) or other uses with supportive evidence (if applicable):
+FDA-Approved Indication
+1. Activated phosphoinositide 3-kinase delta syndrome (APDS). Approve for the
+duration noted if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following (i, ii,
+iii, iv, and v):
+i. Patient is ≥ 12 years of age; AND
+ii. Patient weighs ≥ 45 kg; AND
+iii. Patient has a genetic phosphoinositide 3-kinase delta (PI3Kδ) pathogenic variant
+in the PIK3CD and/or PIK3R1 genes; AND
+iv. Patient has at least one clinical finding or manifestation consistent with APDS;
+AND
+Note: Examples of clinical findings or manifestations of APDS include recurrent
+sinopulmonary infections, recurrent herpesvirus infections, lymphadenopathy,
+hepatomegaly, splenomegaly, nodular lymphoid hyperplasia, autoimmunity,
+cytopenias, enteropathy, bronchiectasis, and organ dysfunction.
+v. The medication is prescribed by or in consultation with an immunologist or a
+physician who treats patients with primary immune deficiencies.; OR
+B) Patient is currently receiving Joenja. Approve for 1 year if the patient meets ALL of
+the following (i, ii, iii, iv, and v):
+i. Patient has been established on therapy for at least 6 months; AND
+3 Pages - Cigna National Formulary Coverage - Policy:Immune Disorder (Joenja Prior Authorization Policy
+Note: A patient who has received < 6 months of therapy or who is restarting
+therapy should be considered under criterion A (Initial Therapy).
+ii. Patient is ≥ 12 years of age; AND
+iii. Patient weighs ≥ 45 kg; AND
+iv. Patient has a genetic phosphoinositide 3-kinase delta (PI3Kδ) pathogenic variant
+in the PIK3CD and/or PIK3R1 genes; AND
+v. Patient has had a positive clinical response in the signs and manifestations of
+APDS.
+Note: Examples of positive clinical response in the signs and manifestations of
+APDS include reduction of: lymph node size, spleen size, immunoglobulin
+replacement therapy uses, infection rate, or immunoglobulin M (IgM) levels.
+CONDITIONS NOT COVERED
+• Joenja® (leniolisib tablets (Pharming)
+is(are) considered experimental, investigational, or unproven for ANY other
+use(s).
+REFERENCES
+1. Joenja® tablets [prescribing information]. Warren. NJ: Pharming; March 2023.
+2. Rao V, Webster S, Sediva A, et al. A randomized, placebo-controlled phase 3 trial of the
+PI3Kδ inhibitor leniolisib for activated PI3Kδ syndrome. Blood. 2023;141(9):971-983.
+3. Data on File. Leniolisib Pre-approved Product Dossier. Based on AMCP guidelines for
+formulary submission. Pharming; received March 23, 2023.
+4. Rao VK, et al. Interim safety and efficacy analysis of an ongoing long-term open-label
+extension study of leniolisib for patients with activated PI3K delta syndrome (APDS).
+Presented at: European Society for Immunodeficiencies (ESID) 20th Biennial Meeting;
+Gothenburg, Sweden; October 12-15, 2022.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 03/29/2023
+Selected Activated phosphoinositide 3-kinase delta syndrome 04/12/2023
+Revision (APDS). The following specialists were removed from the
+list of specialists: allergist and otolaryngologist (ear, nose,
+and throat [ENT] physician) and the following specialists
+were added: gastroenterologist or hematologist for initial
+therapy. The criteria were separated into initial therapy with
+an approval duration of 6 months and continuation of
+therapy with an approval duration of 12 months. For patients
+currently receiving Joenja, the following criteria were added:
+patient has been established on therapy for at least 6
+months along with a note to refer to initial therapy criteria if
+the patient has not been on therapy for at least 6 months or
+is restarting therapy; patient is ≥ 12 years of age; patient
+weighs ≥ 45 kg; patient has a genetic phosphoinositide 3-
+kinase delta (PI3Kδ) mutation with a variant in PIK3CD
+and/or PIK3R1 genes; AND patient has had a positive clinical
+response in the signs and manifestations of APDS with a
+3 Pages - Cigna National Formulary Coverage - Policy:Immune Disorder (Joenja Prior Authorization Policy
+note including examples of signs and manifestations of
+APDS.
+Annual No criteria changes. 03/20/2024
+Revision
+Selected Activated phosphoinositide 3-kinase delta syndrome 05/29/2024
+Revision (APDS). The following criterion was updated from “Patient
+has a genetic phosphoinositide 3-kinase delta (PI3Kδ)
+mutation with a variant in PIK3CD and/or PIK3R1 genes” to
+“Patient has a genetic phosphoinositide 3-kinase delta
+(PI3Kδ) pathogenic variant in the PIK3CD and/or PIK3R1
+genes.” The following specialists were removed from the list
+of specialists: pulmonologist, gastroenterologist,
+hematologist, and infectious diseases physician.
+Annual No criteria changes. 03/19/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and
+services are provided exclusively by or through such operating subsidiaries, including Cigna
+Health and Life Insurance Company, Connecticut General Life Insurance Company,
+Evernorth Behavioral Health, Inc., Cigna Health Management, Inc., and HMO or service
+company subsidiaries of The Cigna Group. © 2025 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Immune Disorder (Joenja Prior Authorization Policy

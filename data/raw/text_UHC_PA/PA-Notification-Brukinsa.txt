@@ -1,0 +1,149 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1306-6
+Program Prior Authorization/Notification
+Medication Brukinsa® (zanubrutinib)
+P&T Approval Date 1/2020, 1/2021, 10/2021, 10/2022, 10/2023, 7/2024
+Effective Date 10/1/2024
+1. Background:
+Brukinsa (zanubrutinib) is a kinase inhibitor indicated for the treatment of patients with mantle
+cell lymphoma (MCL) who have received at least one prior therapy, relapsed or refractory
+marginal zone lymphoma (MZL) who have received at least one anti-CD20-based regimen, and
+relapsed or refractory follicular lymphoma (FL), in combination with obinutuzumab, after two or
+more lines of systemic therapy. These indications are approved under accelerated approval based
+on overall response rate. Continued approval for these indications may be contingent upon
+verification and description of clinical benefit in a confirmatory trial. Brukinsa is also indicated
+for the treatment of Waldenström’s macroglobulinemia (WM) and chronic lymphocytic leukemia
+(CLL) or small lymphocytic lymphoma (SLL).
+NCCN recommends Brukinsa for relapsed/refractory hairy cell leukemia and as second-line and
+subsequent therapy for extranodal marginal zone lymphoma (EMZL) of the stomach, extranodal
+marginal zone lymphoma of nongastric sites (noncutaneous), nodal marginal zone, and splenic
+marginal zone lymphomas.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Brukinsa will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. B-Cell Lymphomas
+1. Initial Authorization
+a. Brukinsa will be approved based on one of the following criteria:
+© 2024 UnitedHealthcare Services, Inc.
+1
+(1) All of the following:
+(a) Diagnosis of follicular lymphoma (FL)
+-AND-
+(b) Disease is relapsed or refractory
+-AND-
+(c) Patient has received at least two or more lines of systemic therapy
+-AND-
+(d) Brukinsa will be used in combination with obinutuzumab
+-OR-
+(2) All of the following:
+(a) Diagnosis of one of the following:
+i. Extranodal marginal zone lymphoma (EMZL) of the stomach
+ii. Extranodal marginal zone lymphoma of nongastric sites (noncutaneous)
+iii. Nodal marginal zone lymphoma
+-AND-
+(b) Disease is relapsed, refractory, or progressive
+-AND-
+(c) Patient has received at least one anti-CD20-based regimen (e.g., rituximab,
+obinutuzumab)
+-OR-
+(3) All of the following:
+(a) Diagnosis of splenic marginal zone lymphoma
+-AND-
+(b) Disease is relapsed or refractory
+-AND-
+(c) Patient has received at least one anti-CD20-based regimen (e.g., rituximab,
+obinutuzumab)
+© 2024 UnitedHealthcare Services, Inc.
+2
+-OR-
+(4) Diagnosis of mantle cell lymphoma (MCL)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Brukinsa will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Brukinsa
+therapy
+Authorization will be issued for 12 months.
+C. Waldenström’s Macroglobulinemia (WM)
+1. Initial Authorization
+a. Brukinsa will be approved based on the following criterion:
+(1) Diagnosis of Waldenström’s macroglobulinemia (WM)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Brukinsa will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Brukinsa
+therapy
+Authorization will be issued for 12 months.
+D. Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (CLL/SLL)
+1. Initial Authorization
+a. Brukinsa will be approved based on the following criterion:
+(1) Diagnosis of Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+(CLL/SLL)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Brukinsa will be approved based on the following criterion:
+© 2024 UnitedHealthcare Services, Inc.
+3
+(1) Patient does not show evidence of progressive disease while on Brukinsa
+therapy
+Authorization will be issued for 12 months.
+E. Hairy Cell Leukemia
+1. Initial Authorization
+a. Brukinsa will be approved based on the following criteria:
+(1) Diagnosis of hairy cell leukemia
+-AND-
+(2) Disease is relapsed, refractory, or progressive
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Brukinsa will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Brukinsa
+therapy
+Authorization will be issued for 12 months.
+F. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+© 2024 UnitedHealthcare Services, Inc.
+4
+4. References:
+1. Brukinsa® [package insert]. BeiGene, Ltd., San Mateo, CA, March 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org/professionals/drug_compendium/content/contents.asp. Accessed May 31,
+2024.
+Program Prior Authorization/Notification – Brukinsa® (zanubrutinib)
+Change Control
+1/2020 New program.
+1/2021 Annual review. Background updated to reflect package insert. No
+changes to coverage criteria. References updated.
+10/2021 Clinical coverage criteria added for Waldenström’s Macroglobulinemia,
+Marginal Zone Lymphoma and Chronic Lymphocytic Leukemia/Small
+Lymphocytic. Clinical coverage criteria updated for other B-Cell
+Lymphomas. Updated background and references.
+10/2022 Annual review. Updates made to B-Cell Lymphoma and CLL/SLL
+criteria based on NCCN recommendations. Updated background and
+reference. Added state mandate footnote.
+10/2023 Annual review. Updates made to B-Cell Lymphoma criteria based on
+NCCN recommendations. Updated background and reference.
+7/2024 Annual review. Clinical coverage criteria added for follicular
+lymphoma and hairy cell leukemia. Updated B-cell lymphoma
+formatting. Updated background and reference.
+© 2024 UnitedHealthcare Services, Inc.
+5

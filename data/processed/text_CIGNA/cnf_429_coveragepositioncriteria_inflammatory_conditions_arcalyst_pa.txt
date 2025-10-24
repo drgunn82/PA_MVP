@@ -1,0 +1,320 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Inflammatory Conditions – Arcalyst Prior Authorization Policy
+• Arcalyst® (rilonacept subcutaneous injection − Regeneron)
+REVIEW DATE: 02/26/2025; selected revision 04/23/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Arcalyst, an interleukin-1 (IL-1) blocker, is indicated for the following uses:1
+• Cryopyrin-associated periodic syndromes (CAPS), including familial cold
+autoinflammatory syndrome (FCAS) and Muckle-Wells syndrome (MWS), for
+treatment of patients ≥ 12 years of age.
+• Deficiency of interleukin-1 receptor antagonist (DIRA), for maintenance
+of remission in adults and pediatric patients weighing at least 10 kg.
+• Pericarditis, for treatment of recurrent disease and reduction in risk of
+recurrence in patients ≥ 12 years of age.
+In the pivotal trial for CAPS, patients had significant improvement in symptom scores
+with Arcalyst through Week 6 which were maintained through Week 15.1 The pivotal
+trial for DIRA enrolled patients with a loss of function IL1RN mutation who previously
+experienced a benefit with Kineret® (anakinra subcutaneous injection). All patients
+(n = 6) were in remission at Month 6 and sustained remission for the remainder of
+Page 1 of 7 - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Arcalyst Prior Authorization
+Policy
+the 2-year study. In the pivotal trial for pericarditis, patients had a mean of 4.7 total
+episodes of pericarditis (standard deviation, ± 1.7 episodes), including the current
+episode.3 All patients who enrolled in the study were symptomatic despite treatment
+with standard treatment (e.g., nonsteroidal anti-inflammatory drugs [NSAIDs],
+colchicine, and/or systemic corticosteroids). Patients who responded to Arcalyst
+during the initial 12 weeks of treatment, defined as C-reactive protein ≤ 0.5 mg/dL
+with minimal or no pain (daily rating pain score), were eligible for continuation in the
+randomized withdrawal period.
+Guidelines
+Arcalyst is used for treatment of a variety of periodic fever syndromes and
+inflammatory conditions.
+CAPS and DIRA
+The European Alliance of Associations for Rheumatology (EULAR) and American
+College of Rheumatology (ACR) [2021] provide treatment guidelines for IL-1
+mediated autoinflammatory diseases: cryopyrin-associated periodic syndromes,
+tumor necrosis factor receptor-associated periodic syndrome, mevalonate kinase
+deficiency, and deficiency of the IL-1 receptor antagonist.4 Guidelines indicate IL-
+blocking therapy has become the preferred treatment and a therapeutic trial with IL-
+1 blocking agents may be started when strong clinical suspicious of a diagnosis of
+CAPS, TRAPS, MKD, or DIRA is suspected. The guidelines also provide additional
+diagnosis-specific treatment recommendations:
+• CAPS: CAPS encompasses three rare genetic syndromes (familial cold
+autoinflammatory syndrome, Muckle-Wells syndrome, and neonatal onset
+multisystem inflammatory disease formerly known as chronic infantile
+neurological cutaneous and articular syndrome) that are thought to be one
+condition along a spectrum of disease severity. IL-1 blockers are
+recommended as standard of care across the spectrum of disease for improved
+symptom control and reduced systemic and tissue/organ inflammation. The
+dose and/or frequency of administration should be adjusted to control disease
+activity, normalize markers of systemic inflammation, and for appropriate
+weight gain and development in the growing patient.
+• DIRA: DIRA is caused by recessive loss-of-function pathogenic variants in the
+IL1RN gene. Treatment with agents that block both IL-α and IL-β is
+recommended and includes Arcalyst and Kineret.
+Pericarditis
+Guidelines for acute and chronic pericarditis are available from the American College
+of Cardiology (2020).2 A symptom-free interval of 4 to 6 weeks and evidence of new
+pericardial inflammation are needed for a diagnosis of recurrent disease. For
+recurrent disease, controlled clinical trials support a remarkable reduction in
+recurrences with colchicine, which should be continued for at least 6 months.
+Additionally, low-dose corticosteroids are associated with a high treatment success
+rate. NSAIDs (e.g., aspirin, ibuprofen, indomethacin) are also listed as alternatives
+for recurrent disease. Immunosuppressive drugs, including azathioprine,
+methotrexate, and mycophenolate mofetil, are effective, well tolerated, and used as
+corticosteroid-sparing agents. There is also limited evidence suggesting efficacy of
+7 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Arcalyst Prior Authorization
+Policy
+intravenous immunoglobulins. Although Arcalyst was not yet approved for recurrent
+pericarditis, the guidelines note that benefit was shown in a Phase II study,
+demonstrated by a decrease in chest pain and C-reactive protein levels.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Arcalyst. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Arcalyst as well as the
+monitoring required for adverse events and long-term efficacy, initial approval
+requires Arcalyst to be prescribed by or in consultation with a physician who
+specializes in the condition being treated.
+• Arcalyst® (rilonacept subcutaneous injection - Regeneron)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Cryopyrin-Associated Periodic Syndromes (CAPS). Approve for the duration
+noted if the patient meets ONE of the following (A or B):
+Note: This includes familial cold autoinflammatory syndrome (FCAS), Muckle-
+Wells syndrome (MWS), and/or neonatal onset multisystem inflammatory disease
+(NOMID) formerly known as chronic infantile neurological cutaneous and articular
+syndrome (CINCA).
+A) Initial Therapy. Approve for 6 months if the patient meets BOTH of the
+following (i and ii):
+i. Patient is ≥ 12 years of age; AND
+ii. The medication is prescribed by or in consultation with a rheumatologist,
+geneticist, allergist/immunologist, or dermatologist; OR
+B) Patient is Currently Receiving Arcalyst. Approve for 1 year if the patient meets
+BOTH of the following (i and ii):
+i. Patient has been established on this medication for at least 6 months; AND
+Note: For a patient who has not received 6 months of therapy or who is
+restarting therapy with this medication, refer to Initial Therapy criteria
+above.
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating the
+requested drug); OR
+Note: Examples of objective measures include resolution of fever,
+improvement in rash or skin manifestations, clinically significant
+improvement or normalization of serum markers (e.g., C-reactive
+protein, amyloid A), reduction in proteinuria, and/or stabilization of
+serum creatinine.
+7 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Arcalyst Prior Authorization
+Policy
+b) Compared with baseline (prior to initiating the requested drug), patient
+experienced an improvement in at least one symptom.
+Note: Examples of improvement in symptoms include fewer cold-
+induced attacks; less joint pain/tenderness, stiffness, or swelling;
+decreased fatigue; improved function or activities of daily living.
+2. Deficiency of Interleukin-1 Receptor Antagonist. Approve for the duration
+noted if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, iii, and iv):
+i. Patient is ≥ 10 kg (22 pounds); AND
+ii. Genetic testing has confirmed bi-allelic pathogenic variants in the IL1RN
+gene; AND
+iii. According to the prescriber, patient has demonstrated a clinical benefit with
+Kineret (anakinra subcutaneous injection); AND
+Note: Examples of a clinical response with Kineret include normalized acute
+phase reactants; resolution of fever, skin rash, and bone pain; and reduced
+dosage of corticosteroids.
+iv. The medication is prescribed by or in consultation with a rheumatologist,
+geneticist, dermatologist, or a physician specializing in the treatment of
+autoinflammatory disorders; OR
+B) Patient is Currently Receiving Arcalyst. Approve for 1 year if the patient meets
+BOTH of the following (i and ii):
+i. Patient has been established on this medication for at least 6 months; AND
+Note: For a patient who has not received 6 months of therapy or who is
+restarting therapy with this medication, refer to Initial Therapy criteria
+above.
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating the
+requested drug); OR
+Note: Examples of objective measures include improvement in rash or
+skin manifestations, clinically significant improvement or normalization
+of serum markers (e.g., C-reactive protein, erythrocyte sedimentation
+rate), reduction in proteinuria, and/or stabilization of serum creatinine.
+b) Compared with baseline (prior to initiating the requested drug), patient
+experienced an improvement in at least one symptom.
+Note: Examples of improvement of symptoms include an improvement
+of skin or bone symptoms; less joint pain/tenderness, stiffness, or
+swelling.
+3. Pericarditis. Approve for the duration noted if the patient meets ONE of the
+following (A or B):
+A) Initial Therapy. Approve for 3 months if the patient meets ALL of the following
+(i, ii, iii, iv, and v):
+i. Patient is ≥ 12 years of age; AND
+ii. Patient has recurrent pericarditis; AND
+7 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Arcalyst Prior Authorization
+Policy
+iii. Prior to starting treatment with Arcalyst, the patient had a history of at
+least three episodes of pericarditis; AND
+iv. Patient meets ONE of the following (a or b):
+a) For the current episode, the patient is receiving standard treatment; OR
+b) Standard treatment is contraindicated; AND
+Note: Standard treatments for pericarditis include nonsteroidal anti-
+inflammatory drug(s) [NSAIDs], colchicine, and/or systemic
+corticosteroids.
+v. The medication is prescribed by or in consultation with a cardiologist or
+rheumatologist; OR
+B) Patient is Currently Receiving Arcalyst. Approve for 1 year if the meets BOTH
+of the following (i and ii):
+i. Patient has been established on this medication for at least 3 months; AND
+Note: For a patient who has not received 90 days of therapy or who is
+restarting therapy with this medication, refer to Initial Therapy criteria
+above.
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating the
+requested drug); OR
+Note: Examples of objective measures include normalization of
+inflammatory biomarkers such as erythrocyte sedimentation rate and/or
+C-reactive protein, continued resolution of fever.
+b) Compared with baseline (prior to initiating the requested drug), patient
+experienced an improvement in at least one symptom.
+Note: Examples of improvement of symptoms include resolution of chest
+pain or pericarditis pain.
+CONDITIONS NOT COVERED
+• Arcalyst® (rilonacept subcutaneous injection - Regeneron)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Concurrent Biologic Therapy. Arcalyst should not be administered in
+combination with another biologic agent for an inflammatory condition (see
+Appendix for examples).1 Arcalyst has not been used in combination with tumor
+necrosis factor inhibitors (TNFis). An increased incidence of serious infections has
+been associated with another interleukin-1 blocker (Kineret® [anakinra
+subcutaneous injection]) when given in combination with TNFis.
+REFERENCES
+1. Arcalyst® subcutaneous injection [prescribing information]. Tarrytown, NY: Regeneron; November
+2024.
+2. Chiabrando JG, Bonaventura A, Vecchie A, et al. Management of acute and recurrent pericarditis. J
+Am Coll Cardiol. 2020;75(1):76-92.
+7 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Arcalyst Prior Authorization
+Policy
+3. Klein AL, Imazio M, Cremer P, et al. Phase 3 trial of interleukin-1 trap rilonacept in recurrent
+pericarditis. N Engl J Med. 2021;384(1):31-41.
+4. Romano M, Arici ZS, Piskin D, et al. The 2021 EULAR/American College of Rheumatology points to
+consider for diagnosis, management and monitoring of the interleukin-1 mediated autoinflammatory
+diseases: cryopyrin-associated periodic syndromes, tumour necrosis factor receptor-associated
+periodic syndrome, mevalonate kinase deficiency, and deficiency of the interleukin-1 receptor
+antagonist. Ann Rheum Dis. 2022;81(7):907-921.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Revision No criteria changes. 01/25/2023
+Annual Revision No criteria changes. 02/14/2024
+Annual Revision Deficiency of Interleukin-1 Receptor Antagonist: The term 02/26/2025
+“mutation” was rephrased to “biallelic pathogenic variants”.
+Updated Appendix.
+Selected Policy Statement: Removed “All reviews for COVID-19 and/or 04/23/2025
+Revision cytokine release syndrome associated with COVID-19 will be
+forwarded to the Medical Director.”
+COVID-19 (Coronavirus Disease 2019): Diagnosis removed
+from Conditions Not Covered.
+APPENDIX
+Mechanism of Action Examples of Indications*
+Biologics
+Adalimumab SC Products Inhibition of TNF AS, CD, HS, JIA, PsO, PsA,
+(Humira®, biosimilars) RA, UC
+Cimzia® (certolizumab pegol SC Inhibition of TNF AS, CD, JIA, nr-axSpA, PsO,
+injection) PsA, RA
+Etanercept SC Products Inhibition of TNF AS, JIA, PsO, PsA, RA
+(Enbrel®, biosimilars)
+Infliximab IV Products Inhibition of TNF AS, CD, PsO, PsA, RA, UC
+(Remicade®, biosimilars)
+Zymfentra® (infliximab-dyyb SC Inhibition of TNF CD, UC
+injection)
+Simponi®, Simponi Aria® Inhibition of TNF SC formulation: AS, PsA, RA,
+(golimumab SC injection, UC
+golimumab IV infusion) IV formulation: AS, PJIA,
+PsA, RA
+Tocilizumab Products Inhibition of IL-6 SC formulation: PJIA, RA,
+(Actemra® IV, biosimilar; SJIA
+Actemra SC, biosimilar) IV formulation: PJIA, RA,
+SJIA
+Kevzara® (sarilumab SC Inhibition of IL-6 RA
+injection)
+Orencia® (abatacept IV infusion, T-cell costimulation modulator SC formulation: JIA, PSA, RA
+abatacept SC injection) IV formulation: JIA, PsA, RA
+Rituximab IV Products CD20-directed cytolytic RA
+(Rituxan®, biosimilars) antibody
+Kineret® (anakinra SC injection) Inhibition of IL-1 JIA^, RA
+Omvoh® (mirikizumab IV Inhibition of IL-23 UC
+infusion, SC injection)
+Inhibition of IL-12/23 SC formulation: CD, PsO,
+PsA, UC
+7 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Arcalyst Prior Authorization
+Policy
+Stelara® (ustekinumab SC IV formulation: CD, UC
+injection, ustekinumab IV
+infusion)
+Siliq® (brodalumab SC injection) Inhibition of IL-17 PsO
+Cosentyx® (secukinumab SC Inhibition of IL-17A SC formulation: AS, ERA, HS,
+injection; secukinumab IV nr-axSpA, PsO, PsA
+infusion) IV formulation: AS, nr-
+axSpA, PsA
+Taltz® (ixekizumab SC injection) Inhibition of IL-17A AS, nr-axSpA, PsO, PsA
+Bimzelx® (bimekizumab-bkzx SC Inhibition of IL-17A/17F AS, HS, nr-axSpA, PsO, PsA
+injection)
+Ilumya® (tildrakizumab-asmn SC Inhibition of IL-23 PsO
+injection)
+Skyrizi® (risankizumab-rzaa SC Inhibition of IL-23 SC formulation: CD, PSA,
+injection, risankizumab-rzaa IV PsO, UC
+infusion) IV formulation: CD, UC
+Tremfya® (guselkumab SC Inhibition of IL-23 SC formulation: PsA, PsO, UC
+injection, guselkumab IV infusion) IV formulation: UC
+Entyvio® (vedolizumab IV Integrin receptor antagonist CD, UC
+infusion, vedolizumab SC
+injection)
+* Not an all-inclusive list of indications. Refer to the prescribing information for the respective agent for
+FDA-approved indications; SC – Subcutaneous; TNF – Tumor necrosis factor; AS – Ankylosing
+spondylitis; CD – Crohn’s disease; HS – Hidradenitis suppurativa; JIA – Juvenile idiopathic arthritis; PsO
+– Plaque psoriasis; PsA – Psoriatic arthritis; RA – Rheumatoid arthritis; UC – Ulcerative colitis; nr-axSpA
+– Non-radiographic axial spondyloarthritis; IV – Intravenous, PJIA – Polyarticular juvenile idiopathic
+arthritis; IL – Interleukin; SJIA – Systemic juvenile idiopathic arthritis; ^ Off-label use of Kineret in JIA
+supported in guidelines; ERA – Enthesitis-related arthritis; DMARD – Disease-modifying antirheumatic
+drug.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+7 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Arcalyst Prior Authorization
+Policy

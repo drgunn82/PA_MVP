@@ -1,0 +1,131 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Hematology − Pyrukynd Prior Authorization Policy
+• Pyrukynd® (mitapivat tablets − Agios)
+REVIEW DATE: 02/19/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Pyrukynd, a pyruvate kinase activator, is indicated for the treatment of hemolytic
+anemia due to pyruvate kinase deficiency in adults.1
+It is recommended to discontinue Pyrukynd if no benefit has been observed by 24
+weeks as evaluated by hemoglobin and hemolysis laboratory results and transfusion
+requirements.
+Disease Overview
+Pyruvate kinase deficiency is a rare (three to nine cases per one million people),
+autosomal recessive enzyme defect in red blood cells that is caused by mutations in
+the pyruvate kinase liver and red blood cell (PKLR) gene.2,3 These alterations result
+in a deficit of pyruvate kinase activity in red blood cells which leads to hemolytic
+anemia of varying severity.2 Other complications include iron overload (and its
+sequelae), bilirubin gallstones, pulmonary hypertension, thrombosis, and
+extramedullary hematopoiesis. Commonly present are compound heterozygous
+mutations in the gene encoding the L and R isozymes of PKLR with more than 300
+mutations noted; most patients have at least on missense mutation. More notable
+management strategies involve blood transfusions, splenectomy, and chelation
+therapy.
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Hematology ( Pyrukynd Prior Authorization Policy
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Pyrukynd. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Pyrukynd as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Pyrukynd to be prescribed by or in consultation with a physician who specializes in
+the condition being treated.
+Documentation: Documentation is required for use of Pyrukynd as noted in the
+criteria as [documentation required]. Documentation may include, but is not
+limited to, chart notes, laboratory tests, claims records, and/or other information.
+• Pyrukynd® (mitapivat tablets (Agios)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Hemolytic Anemia Due to Pyruvate Kinase Deficiency. Approve for the
+duration noted below if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, iii, and iv):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient meets BOTH of the following (a and b):
+a) Presence of at least two variant/mutant alleles in the pyruvate kinase
+liver and red blood cell (PKLR) gene [documentation required]; AND
+b) At least one of the variant/mutant alleles was a missense variant
+[documentation required]; AND
+iii. Patient meets ONE of the following (a or b):
+a) Patient has a current hemoglobin level ≤ 10 g/dL; OR
+b) Patient is currently receiving red blood cell transfusions regularly,
+defined as at least six transfusions within the last year; AND
+iv. The medication is prescribed by or in consultation with a hematologist; OR
+B) Patient is Currently Receiving Pyrukynd. Approve for 1 year if the patient meets
+ALL of the following (i, ii, iii, and iv):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient meets BOTH of the following (a and b):
+a) Presence of at least two variant/mutant alleles in the pyruvate kinase
+liver and red blood cell (PKLR) gene [documentation required]; AND
+b) At least one of the variant/mutant alleles was a missense variant
+[documentation required]; AND
+iii. According to the prescriber, the patient has experienced a benefit from
+therapy based on ONE of the following (a, b, or c):
+a) Increase in or maintenance of hemoglobin levels; OR
+4 Pages - Cigna National Formulary Coverage - Policy:Hematology ( Pyrukynd Prior Authorization Policy
+b) Improvement in or maintenance of hemolysis laboratory parameters;
+OR
+Note: Examples of laboratory parameters that are markers of hemolysis
+include indirect bilirubin, lactate dehydrogenase, and haptoglobin.
+c) Decrease in or maintenance of transfusion requirements; AND
+iv. The medication is prescribed by or in consultation with a hematologist.
+CONDITIONS NOT COVERED
+• Pyrukynd® (mitapivat tablets (Agios)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria will
+be updated as new published data are available):
+1. Patient with Pyruvate Kinase Deficiency Homozygous for the c.1436G>A
+(p.R479H) Variant/Mutation in the Pyruvate Kinase Liver and Red Blood
+Cell (PKLR) Gene. Such patients were excluded from the pivotal studies
+investigating Pyrukynd in patients with pyruvate kinase deficiency because they
+did not achieve a hemoglobin response in the dose-ranging study.1
+2. Patient with Pyruvate Kinase Deficiency with Two Non-Missense
+Variants/Mutations (without the presence of another missense
+variant/mutation) in the Pyruvate Kinase Liver and Red Blood Cell (PKLR)
+Gene. Such patients were excluded from the pivotal studies investigating
+Pyrukynd because they did not achieve a hemoglobin response in the dose-
+ranging study.1
+REFERENCES
+1. Pyrukynd® tablets [prescribing information]. Cambridge, MA: Agios; January 2025.
+2. Grace RF, Barcellini W. Management of pyruvate kinase deficiency in children and adults. Blood.
+2020;136(11):1241-1249.
+3. Fattizzo B, Cavallaro F, Marcello APML, et al. Pyruvate kinase deficiency: current challenges and
+future prospects. J Blood Med. 2022;13:461-471.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 03/22/2023
+Revision
+Annual Hemolytic Anemia due to Pyruvate Kinase Deficiency: For a 02/28/2024
+Revision patient currently receiving therapy, the requirement that the patient
+has a current hemoglobin level ≤ 12 g/dL was removed.
+Annual No criteria changes. 02/19/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+4 Pages - Cigna National Formulary Coverage - Policy:Hematology ( Pyrukynd Prior Authorization Policy
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2025 The Cigna
+Group.
+4 Pages - Cigna National Formulary Coverage - Policy:Hematology ( Pyrukynd Prior Authorization Policy

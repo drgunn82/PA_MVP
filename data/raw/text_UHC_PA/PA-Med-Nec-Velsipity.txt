@@ -1,0 +1,94 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2335-4
+Program Prior Authorization/Medical Necessity
+Medication Velsipity™ (etrasimod)*
+*Velsipity is excluded from coverage for the majority of our benefits
+P&T Approval Date 4/2024, 10/2024, 11/2024, 4/2025
+Effective Date 6/1/2025
+1. Background:
+Velsipity (etrasimod) is a sphingosine 1-phosphate receptor modulator indicated for the
+treatment of moderately to severely active ulcerative colitis in adults.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Velsipity will be approved based on all of the following criteria:
+a. Diagnosis of moderately to severely active ulcerative colitis (UC)
+-AND-
+b. One of the following:
+(1) Patient has had prior or concurrent inadequate response to a therapeutic course
+of oral corticosteroids and/or immunosuppressants (e.g., azathioprine, 6-
+mercaptopurine)
+-OR-
+(2) Patient has been previously treated with a targeted immunomodulator FDA-
+approved for the treatment of ulcerative colitis as documented by claims history
+or submission of medical records (Document drug, date, and duration of
+therapy) [e.g., adalimumab, Simponi (golimumab), ustekinumab, Xeljanz
+(tofacitinib), Rinvoq (upadacitinib)]
+-AND-
+c. History of failure, contraindication, or intolerance to three of the following
+preferred products (document drug, date, and duration of trial):
+(1) One of the preferred adalimumab productsb
+(2) Entyvio (vedolizumab)
+(3) Omvoh (mirikizumab-mrkz)
+(4) Rinvoq (upadacitinib)
+(5) Simponi (golimumab)
+© 2025 UnitedHealthcare Services, Inc.
+1
+(6) Skyrizi (risankizumab)
+(7) One of the preferred ustekinumab productsb
+(8) Tremfya (guselkumab)
+(9) Xeljanz/Xeljanz XR (tofacitinib)
+-AND-
+d. History of failure, contraindication, or intolerance to Zeposia (ozanimod) (document
+date and duration of trial):
+-AND-
+e. Patient is not receiving Velsipity in combination with a targeted
+immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab), Simponi
+(golimumab), Orencia (abatacept), adalimumab, Xeljanz (tofacitinib), Olumiant
+(baricitinib), Rinvoq (upadacitinib), ustekinumab, Skyrizi (risankizumab),
+Omvoh (mirikizumab-mrkz), Entyvio (vedolizumab)]
+-AND-
+f. Prescribed by or in consultation with a gastroenterologist
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Velsipity will be approved based on both of the following criteria:
+a. Documentation of positive clinical response to Velsipity therapy
+-AND-
+b. Patient is not receiving Velsipity in combination with a targeted immunomodulator
+[e.g., Enbrel (etanercept), Cimzia (certolizumab), Simponi (golimumab), Orencia
+(abatacept), adalimumab, Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq
+(upadacitinib), ustekinumab, Skyrizi (risankizumab), Omvoh (mirikizumab-mrkz),
+Entyvio (vedolizumab)]
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+b For a list of preferred products please reference drug coverage tools.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+© 2025 UnitedHealthcare Services, Inc.
+2
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Exclusion: Velsipity is excluded from coverage for the majority of our benefits
+• Supply limits may be in place.
+4. References:
+1. Velsipity [package insert]. New York, NY: Pfizer Inc.; November 2023.
+2. Feuerstein JD, Isaacs KL, Schneider Y, et al. AGA clinical practice guidelines on the
+management of moderate to severe ulcerative colitis. Gastroenterology. 2020; 158(5):1450-61.
+Program Prior Authorization/Medical Necessity – Velsipity (etrasimod)
+Change Control
+4/2024 New program.
+10/2024 Updated step requirement noting Adalimumab-adaz (unbranded
+Hyrimoz), Amjevita for Nuvaila, and Humira as preferred adalimumab
+products with no change to clinical intent. Removed preferred
+adalimumab footnote. Added Entyvio, Omvoh and Skyrizi as step
+therapy agents.
+11/2024 Added Tremfya as a step therapy agent.
+4/2025 Removed examples for adalimumab in step therapy. Changed Stelara
+step therapy to “One of the preferred ustekinumab productsc”. Changed
+Stelara example to Ustekinumab. Added the footnote “For a list of
+preferred products please reference drug coverage tools.”
+© 2025 UnitedHealthcare Services, Inc.
+3

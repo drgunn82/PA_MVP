@@ -1,0 +1,171 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1404-3
+Program Prior Authorization/Notification
+Medication Krazati™ (adagrasib)
+P&T Approval Date 2/2023, 2/2024, 8/2024
+Effective Date 11/1/2024
+1. Background:
+Krazati™ (adagrasib) is an inhibitor of the RAS GTPase family indicated for as a single agent, for
+the treatment of adult patients with KRAS G12C-mutated locally advanced or metastatic non-
+small cell lung cancer (NSCLC) who have received at least one prior systemic therapy. Krazati is
+also indicated in combination with cetuximab, for the treatment of adult patients with KRAS
+G12C-mutated locally advanced or metastatic colorectal cancer (CRC) who have received prior
+treatment with fluorpyrimidine-, oxaliplatin-, and irinotecan-based chemotherapy.
+The National Comprehensive Cancer Network (NCCN) recommends the use of Krazati as a
+single agent for the treatment of KRAS G12C mutation positive progressive ampullary
+adenocarcinoma, as subsequent therapy for KRAS G12 mutation positive locally advanced or
+metastatic pancreatic adenocarcinoma, for the treatment of brain metastases in KRAS G12C-
+mutated NSCLC, as subsequent therapy for KRAS G12C mutation positive recurrent NSCLC, as
+subsequent therapy for KRAS G`12 mutation positive unresectable or resected gross residual (R2)
+disease, or biliary tract cancer. NCCN also recommends the use of Krazati in combination with
+panitumumab or as a single agent for patients with KRAS G12C-mutated unresectable metastatic
+CRC and previous FOLFOX (fluorauracil, leucovorin, and oxaliplatin) or CapeOX (capecitabine
+and oxaliplatin), and as adjuvant, second-line and subsequent therapy in combination with
+cetuximab or panitumumab or as a single agent, if not previously given, for progression of
+advanced or metastatic colorectal cancer, or patient is ineligible for or progressed on checkpoint
+inhibitor immunotherapy.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Krazati will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Non-Small Cell Lung Cancer (NSCLC)
+© 2024 UnitedHealthcare Services, Inc.
+1
+1. Initial Authorization
+a. Krazati will be approved based on the following criteria:
+(1) Diagnosis of non-small cell lung cancer (NSCLC)
+-AND-
+(2) Presence of KRAS G12C mutation
+-AND-
+(3) Disease is one of the following:
+(a) Recurrent
+(b) Advanced
+(c) Metastatic
+-AND-
+(4) Patient has received at least one prior systemic therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Krazati will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Krazati therapy
+Authorization will be issued for 12 months.
+C. Colorectal Cancer
+1. Initial Authorization
+a. Krazati will be approved based on the following criteria:
+(1) Diagnosis of colorectal cancer
+-AND-
+(2) Presence of KRAS G12C mutation
+-AND-
+(3) Disease is one of the following:
+(a) Recurrent
+© 2024 UnitedHealthcare Services, Inc.
+2
+(b) Advanced
+(c) Metastatic
+-AND-
+(4) Patient has received at least one prior systemic therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Krazati will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Krazati therapy
+Authorization will be issued for 12 months.
+D. Ampullary Adenocarcinoma
+1. Initial Authorization
+a. Krazati will be approved based on the following criteria:
+(1) Diagnosis of ampullary adenocarcinoma
+-AND-
+(2) Presence of KRAS G12C mutation
+-AND-
+(3) Disease is one of the following:
+(a) Recurrent
+(b) Advanced
+(c) Metastatic
+-AND-
+(4) Patient has received at least one prior systemic therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Krazati will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Krazati therapy
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+3
+E. Pancreatic Adenocarcinoma
+1. Initial Authorization
+a. Krazati will be approved based on the following criteria:
+(1) Diagnosis of pancreatic adenocarcinoma
+-AND-
+(2) Presence of KRAS G12C mutation
+-AND-
+(3) Disease is one of the following:
+(a) Recurrent
+(b) Advanced
+(c) Metastatic
+-AND-
+(4) Patient has received at least one prior systemic therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Krazati will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Krazati therapy
+Authorization will be issued for 12 months.
+F. Biliary Tract Cancers
+1. Initial Authorization
+a. Krazati will be approved based on the following criteria:
+(1) Diagnosis of one of the following:
+(a) Gallbladder Cancer
+(b) Intrahepatic cholangiocarcinoma
+(c) Extrahepatic cholangiocarcinoma
+-AND-
+(2) Presence of KRAS G12C mutation
+© 2024 UnitedHealthcare Services, Inc.
+4
+-AND-
+(3) Disease is one of the following:
+(a) Unresectable
+(b) Resected gross residual (R2)
+(c) Metastatic
+-AND-
+(4) Patient has received at least one prior systemic therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Krazati will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Krazati therapy
+Authorization will be issued for 12 months.
+G. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits and/or step therapy may be in place.
+4. References:
+1. Krazati [package insert]. San Diego, CA: Mirati Therapeutics, Inc.; June 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+https://www.nccn.org. Accessed on July 10, 2024.
+© 2024 UnitedHealthcare Services, Inc.
+5
+Program Prior Authorization/Notification – Krazati (adagrasib)
+Change Control
+2/2023 New program
+2/2024 Annual review. Added criteria for NCCN recommended use of Krazati
+in colon cancer, rectal cancer, ampullary adenocarcinoma and
+pancreatic adenocarcinoma. Updated background and references.
+8/2024 Combined criteria for colon and rectal cancer in one section –
+Colorectal Cancer. Added criteria for NCCN recommended use of
+Krazati in biliary tract cancer. Updated background and references.
+© 2024 UnitedHealthcare Services, Inc.
+6

@@ -1,0 +1,139 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2186-9
+Program Prior Authorization/Medical Necessity
+Medication Vascepa® (icosapent ethyl)*
+P&T Approval Date 2/2020; 10/2020, 12/2020, 3/2021, 3/2022, 10/2023, 3/2024, 3/2025
+Effective Date 6/1/2025
+1. Background:
+Vascepa (icosapent ethyl)* is indicated as adjunctive therapy to diet and exercise to reduce
+triglyceride (TG) levels in adult patients with severe (≥ 500 mg/dL) hypertriglyceridemia.
+Vascepa* is also indicated as an adjunct to maximally tolerated statin therapy to reduce the risk
+of myocardial infarction, stroke, coronary revascularization, and unstable angina requiring
+hospitalization in adult patients with elevated triglyceride (TG) levels (≥ 150 mg/dL) and either
+established cardiovascular disease or diabetes mellitus and 2 or more additional risk factors for
+cardiovascular disease.
+Since the Pharmacy & Therapeutics Committee has determined that use of Vascepa* is not
+medically necessary for treatment of severe hypertriglyceridemia (TG≥ 500 mg/dL), coverage
+of Vascepa* will only be provided for cardiovascular risk reduction after meeting these
+requirements.
+2. Coverage Criteriaa:
+A. Cardiovascular Risk Reduction
+1. Initial Authorization
+a. Vascepa* will be approved based on all of the following criteria:
+1) Diagnosis of hypertriglyceridemia (pre-treatment triglyceride level ≥ 150 mg/dL)
+-AND-
+2) Patient currently has or is considered high or very high risk for cardiovascular
+disease (CVD) as evidenced by one of the following:
+a) Both of the following:
+i. Age ≥ 45
+-AND-
+ii. Established CVD confirmed by one of the following:
+1. Acute coronary syndrome
+2. History of myocardial infarction
+3. Stable or unstable angina
+4. Coronary or other arterial revascularization
+© 2025 UnitedHealthcare Services, Inc.
+1
+5. Stroke
+6. Transient ischemic attack
+7. Peripheral arterial disease
+-OR-
+b) All of the following:
+i. Diagnosis of Type 2 diabetes
+-AND-
+ii. Two of the following risk factors for developing cardiovascular disease:
+1. Men ≥ 55 years and women ≥ 65 years
+2. Cigarette smoker or stopped smoking within the past 3 months
+3. Hypertension (pretreatment blood pressure ≥ 140 mmHg systolic or ≥ 90
+mmHg diastolic)
+4. HDL-C ≤ 40 mg/dL for men or ≤ 50 mg/dL for women
+5. High-sensitivity C-reactive protein > 3.0 mg/L
+6. Creatinine clearance > 30 and < 60 mL/min
+7. Retinopathy
+8. Micro- or macro-albuminuria
+9. Ankle-brachial index (ABI) < 0.9 without symptoms of intermittent
+claudication
+-AND-
+3) Submission of medical records (e.g., chart notes, laboratory values) documenting one
+of the following (prescription claims history may be used in conjunction as
+documentation of medication use, dose, and duration)^:
+a. Patient has been receiving at least 12 consecutive weeks of high- intensity statin
+therapy (i.e. atorvastatin 40-80 mg, rosuvastatin 20-40 mg) and will continue to
+receive a high-intensity statin at maximally tolerated dose
+-OR-
+b. Both of the following:
+i. Patient is unable to tolerate high-intensity statin as evidenced by one of the
+following intolerable and persistent (i.e. more than 2 weeks) symptoms:
+1. Myalgia (muscle symptoms without CK elevations)
+2. Myositis (muscle symptoms with CK elevations < 10 times upper limit
+of normal [ULN])
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+2
+ii. Patient has been receiving at least 12 consecutive weeks of low-intensity or
+moderate-intensity statin therapy [i.e. atorvastatin 10-20 mg, rosuvastatin 5-
+10 mg, simvastatin ≥ 10 mg, pravastatin ≥ 10 mg, lovastatin 20-40 mg,
+fluvastatin XL 80 mg, fluvastatin 20-40 mg up to 40mg twice daily or Livalo
+(pitavastatin) ≥ 1 mg] and will continue to receive a low-intensity or
+moderate-intensity statin at maximally tolerated dose
+-AND-
+4) Submission of medical record (e.g., chart notes, laboratory values) documenting one
+of the following (prescription claims history may be used in conjunction as
+documentation of medication use, dose, and duration):
+a. Patient has been receiving at least 12 consecutive weeks of ezetimibe (Zetia®)
+therapy as adjunct to maximally tolerated statin therapy
+-OR-
+b. Patient has a history of contraindication or intolerance to ezetimibe
+-OR-
+c. Patient has a LDL-C less than 100 mg/dL while on maximally tolerated statin
+therapy
+-AND-
+5) Used as an adjunct to a low-fat diet and exercise
+Authorization will be issued for 12 months
+2. Reauthorization
+a. Vascepa* will be approved based on all of the following criteria:
+1) Used for cardiovascular risk reduction
+-AND-
+2) Documentation of positive clinical response to therapy
+-AND-
+3) Patient is on an appropriate low-fat diet and exercise regimen
+-AND-
+4) Patient is receiving maximally tolerated statin therapy^
+Authorization will be issued for 12 months
+© 2025 UnitedHealthcare Services, Inc.
+3
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+^Tried/failed alternative(s) are supported by FDA labeling.
+* Lovaza (multi-source brand only) and Vascepa (brand and generic) are typically excluded from
+coverage. Tried/Failed criteria may be in place. Please refer to plan specifics to determine exclusion
+status.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic
+class.
+4. References:
+1. Vascepa [package insert]. Bridgewater, NJ: Amarin Pharma Inc.; December September 2021.
+2. Orringer, CE, Jacobson, TA, Maki, KC. National Lipid Association Scientific Statement on the
+use of icosapent ethyl in statin-treated patients with elevated triglycerides and high or very-high
+ASCVD risk. J Clin Lipidol. 2019;13(6):860-72.
+Program Prior Authorization/Medical Necessity - Vascepa® (icosapent ethyl)
+Change Control
+Date Change
+2/2020 New program.
+10/2020 Removed coverage for triglycerides >/= 500.
+12/2020 Clarified medically necessary language in the background.
+3/2021 Modified pre-treatment triglyceride levels for cardiovascular risk
+reduction. Noted that Vascepa is typically excluded from coverage.
+3/2022 Annual review. Added language that tried/failed alternative(s) are
+supported by FDA labeling. Updated references.
+3/2023 Annual review. Combined low- and moderate- intensity statin
+language. Removed prescriber requirement. Updated references.
+10/2023 Removed the “Routine Audit” language.
+3/2024 Annual review. No changes.
+3/2025 Annual review. No changes.
+© 2025 UnitedHealthcare Services, Inc.
+4

@@ -1,0 +1,119 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Cardiology − Zontivity Prior Authorization Policy
+• Zontivity® (vorapaxar tablets − Wraser)
+REVIEW DATE: 10/02/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Zontivity, a protease-activated receptor-1 antagonist, is indicated for the reduction
+of thrombotic cardiovascular (CV) events in patients with a history of myocardial
+infarction (MI) or with peripheral arterial disease (PAD).1 The agent has been
+shown to reduce the rate of a combined endpoint of cardiovascular death, MI, stroke,
+and urgent coronary revascularization.
+Studies involving Zontivity involved adding the agent to aspirin and/or clopidogrel.
+Use Zontivity with aspirin and/or clopidogrel according to indicated uses or the
+standard of care. The clinical use of Zontivity with other antiplatelet medications is
+limited, as well as data involving Zontivity as the only antiplatelet agent. In a
+subgroup analysis of the pivotal data, patients weighing < 60 kg who received
+Zontivity did not have a favorable outcome regarding the primary composite endpoint
+of CV death, MI, stroke, or urgent coronary revascularization.1,2
+Guidelines
+Various guidelines mention Zontivity:
+• Chronic Coronary Disease: The guidelines for the management of patients
+with chronic coronary disease (2023) from the American Heart Association
+(AHA) and the American College of Cardiology (ACC) address Zontivity.3 It is
+Page 1 of 3 - Cigna National Formulary Coverage - Policy:Cardiology ( Zontivity Prior Authorization Policy
+noted that in the TRAP 2P TIMI 50 trial, at a mean follow-up of 3 years, patients
+with a history of MI, ischemic stroke, or PAD randomized to either Zontivity,
+on a background of aspirin therapy, had a reduced number of ischemic events
+or died from common from CV causes after 3 years compared with placebo.
+However, patients experienced more major and intracranial bleeding.
+• Peripheral Arterial Disease: Guidelines for the management of lower
+extremity peripheral arterial disease from the AHA, ACC, and other
+organizations state that in patients with symptomatic peripheral arterial
+disease, the benefit of adding Zontivity to existing antiplatelet therapy is
+uncertain.4
+Safety
+Zontivity has a Boxed Warning regarding the risk of bleeding.1 Zontivity is
+contraindicated in patients with a history of stroke, transient ischemic attack, or
+intracranial hemorrhage (ICH). Antiplatelet medications, including Zontivity, increase
+the risk of bleeding, including ICH and fatal bleeding.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Zontivity. All
+approvals are provided for the duration noted below.
+• Zontivity® (vorapaxar tablets (Wraser)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Patient with a Previous Myocardial Infarction (MI) or Peripheral Arterial
+Disease (PAD). Approve for 1 year if the patient meets ALL of the following (A,
+B, and C):
+A) Patient weighs ≥ 60 kg; AND
+B) Patient is receiving Zontivity in combination with aspirin and/or clopidogrel;
+AND
+C) Patient has been determined by the prescriber to be at high risk for future
+thrombotic events.
+Note: Examples of high risk include that the patient has experienced multiple
+myocardial infarctions, has undergone many urgent coronary revascularization
+procedures, has had placement of coronary artery stents, or the patient has
+other concomitant diseases that increase cardiovascular risk such as diabetes.
+CONDITIONS NOT COVERED
+• Zontivity® (vorapaxar tablets (Wraser)
+3 Pages - Cigna National Formulary Coverage - Policy: Cardiology ( Zontivity Prior Authorization Policy
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria will
+be updated as new published data are available):
+1. Acute Coronary Syndrome (ACS) that Occurred Recently (within < 14
+days). In the TRACER (Thrombin Receptor Antagonist for Clinical Event Reduction
+in acute coronary syndrome) study, adding Zontivity to standard therapy in those
+who experienced an ACS increased the risk of major bleeding and did not result
+in clinical benefits.
+2. Patient with a Prior History of Stroke, Transient Ischemic Attack (TIA),
+or Intracranial Hemorrhage (ICH). Zontivity is contraindicated for use in
+patients with a history of stroke, TIA, or ICH due to an increased risk of ICH in
+this population.
+3. Concurrent Use of Effient (prasugrel tablets) or Brilinta (ticagrelor
+tablets). There is limited clinical experience involving use of Zontivity with
+antiplatelet agents (e.g., Effient, Brilinta) other than aspirin and/or clopidogrel.
+REFERENCES
+1. Zontivity® tablets [prescribing information]. Ridgeland, MS: Wraser; October 2022.
+2. Morrow DA, Braunwald E, Bonaca MP, et al, for the TRA 2P-TIMI 50 Steering Committee and
+Investigators. Vorapaxar in the Secondary Prevention of Atherothrombotic Events. N Engl J Med.
+2012;366(15):1404-1413.
+3. Virani SS, Newby LK, Arnold SV, et al. 2023 AHA/ACC/ACCP/ASPC/NLA/PCNA guideline for the
+management of patients with chronic coronary disease: a report of the American Heart
+Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines. J Am
+Coll Cardiol. 2023;82(9):833-955.
+4. Gornik HL, Aronow HE, Goodney PP, et al. 2024
+ACC/AHA/AACVPR/APMA/ABC/SCAI/SVM/SVN/SIR/VESS guideline for the management of lower
+extremity peripheral artery disease. J Am Coll Cardiol. 2024;83(24):2497-2604.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 10/02/2024
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2024 The Cigna
+Group.
+3 Pages - Cigna National Formulary Coverage - Policy: Cardiology ( Zontivity Prior Authorization Policy

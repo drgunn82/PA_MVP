@@ -1,0 +1,157 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1233-10
+Program Prior Authorization/Notification
+Medication Verzenio® (abemaciclib)
+P&T Approval Date 11/2017, 5/2018, 5/2019, 5/2020, 5/2021, 1/2022, 1/2023, 5/2023,
+5/2024, 5/2025
+Effective Date 8/1/2025
+1. Background:
+Verzenio (abemaciclib) is a kinase inhibitor indicated in combination with endocrine therapy
+(tamoxifen or an aromatase inhibitor) for the adjuvant treatment of adult patients with hormone
+receptor (HR)-positive, human epidermal growth factor 2 (HER2)-negative, node-positive,
+early breast cancer at high risk of recurrence; in combination with an aromatase inhibitor as
+initial endocrine-based therapy for the treatment of adult patients with HR-positive, HER2-
+negative advanced or metastatic breast cancer; in combination with fulvestrant for the treatment
+of adult patients with HR-positive, HER2-negative advanced or metastatic breast cancer with
+disease progression following endocrine therapy; and as monotherapy for the treatment of adult
+patients with HR-positive, HER2-negative advanced or metastatic breast cancer with disease
+progression following endocrine therapy and prior chemotherapy in the metastatic setting.
+The National Comprehensive Cancer Network (NCCN) recommends the use of Verzenio
+similarly for men and premenopausal women treated with ovarian ablation/suppression with
+recurrent or metastatic HR-positive, HER2-negative breast cancer disease, in combination with
+an aromatase inhibitor or Faslodex (fulvestrant). The use of an aromatase inhibitor in men with
+breast cancer is ineffective without concomitant suppression of testicular steroidogenesis. The
+NCCN recommends the use of Verzenio for 2 years as adjuvant therapy in combination with
+endocrine therapy in patients with HR-positive, HER2-negative, high risk (i.e., ≥4 positive
+lymph nodes, or 1-3 positive lymph nodes with one or more of the following: Grade 3 disease,
+tumor size ≥5 cm) disease. The NCCN also recommends Verzenio for estrogen receptor (ER)-
+positive recurrent or metastatic endometrial carcinoma in combination with letrozole.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of 19
+years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or under
+some circumstances. Some states also mandate usage of other Compendium references. Where such
+mandates apply, they supersede language in the benefit document or in the notification criteria.
+© 2025 UnitedHealthcare Services, Inc.
+1
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Verzenio will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Breast Cancer
+1. Initial Authorization
+a. Verzenio will be approved based on all of the following criteria:
+(1) Diagnosis of breast cancer
+-AND-
+(2) Disease is hormone-receptor (HR)-positive
+-AND-
+(3) Disease is human epidermal growth factor receptor 2 (HER2)-negative
+-AND-
+(4) One of the following:
+(a) Both of the following:
+i. Disease is advanced, recurrent, or metastatic
+-AND-
+ii. One of the following:
+• Used in combination with an aromatase inhibitor (e.g., anastrozole,
+letrozole, exemestane) or Faslodex (fulvestrant)
+-OR-
+• All of the following:
+ Used as monotherapy
+ Patient has disease progression following endocrine therapy
+ Patient has already received at least one prior chemotherapy
+regimen
+-OR-
+© 2025 UnitedHealthcare Services, Inc.
+2
+(b) All of the following:
+i. Disease is early breast cancer at high risk of recurrence defined by one
+of the following (confirmed preoperatively and/or at surgery):
+• Greater than or equal to 4 positive lymph nodes
+-OR-
+• Both of the following:
+ 1-3 positive lymph nodes
+ Grade 3 disease or tumor size ≥ 5 cm
+-AND-
+ii. Used in combination with an aromatase inhibitor (e.g., anastrozole,
+letrozole, exemestane) or tamoxifen
+-AND-
+iii. Use has not exceeded two years in duration
+Authorization will be issued for 12 months
+2. Reauthorization
+a. Verzenio will be approved based on one of the following criteria:
+(1) Both of the following:
+(a) Diagnosis of advanced, recurrent, or metastatic breast cancer
+-AND-
+(b) Patient does not show evidence of progressive disease while on Verzenio
+therapy
+-OR-
+(2) All of the following:
+(a) Diagnosis of early breast cancer at high risk of recurrence
+-AND-
+(b) Patient does not show evidence of progressive disease while on Verzenio
+therapy
+© 2025 UnitedHealthcare Services, Inc.
+3
+-AND-
+(c) Use has not exceeded two years in duration
+Authorization will be issued for 12 months.
+C. Endometrial Carcinoma
+1. Initial Authorization
+a. Verzenio will be approved based on all of the following criteria:
+(1) Diagnosis of recurrent or metastatic endometrial cancer
+-AND-
+(2) Tumor is estrogen receptor (ER)-positive
+-AND-
+(3) Used in combination with letrozole
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Verzenio will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Verzenio
+therapy
+Authorization will be issued for 12 months.
+D. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+© 2025 UnitedHealthcare Services, Inc.
+4
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Verzenio [package insert]. Indianapolis, IN: Lilly USA, LLC; February 2025.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org/professionals/drug_compendium/content/contents.asp. Accessed April 10,
+2025.
+Program Prior Authorization/Notification – Verzenio (abemaciclib)
+Change Control
+11/2017 New program.
+5/2018 Updated background and criteria to include new indication for initial
+endocrine-based therapy in combination with an aromatase inhibitor.
+Updated references.
+5/2019 Annual review. Updated coverage criteria to allow diagnosis of
+recurrent breast cancer. Removed disease progression following
+endocrine therapy for concomitant use of Faslodex per NCCN. Updated
+background and reference.
+5/2020 Annual review. Updated references and background.
+5/2021 Annual review. No changes.
+1/2022 Updated background and coverage criteria to include new indication for
+early breast cancer. Updated references.
+1/2023 Annual review with no changes to coverage criteria. Added state
+mandate footnote and updated references.
+5/2023 Removed Ki-67 score requirement for patient selection per updated
+prescribing information. Updated background and references.
+5/2024 Annual review. Updated background and added clinical criteria for
+endometrial carcinoma per NCCN. Updated references.
+5/2025 Annual review. Updated criteria for breast cancer per NCCN
+recommendations. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+5

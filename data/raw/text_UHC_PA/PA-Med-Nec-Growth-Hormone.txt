@@ -1,0 +1,958 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 2025 P 2016-20
+Program Prior Authorization/Medical Necessity
+Medication Human Growth Hormone: Somatropin (Genotropin®*, Humatrope®*,
+Norditropin®, Nutropin AQ® NuSpin®*, Omnitrope®, Saizen®*,
+Serostim®, Zomacton®*, Zorbtive®), Skytrofa™ (lonapegsomatropin-
+tcgd), Sogroya®*(somapacitan-beco), Ngenla™ (somatrogon-ghla)
+Growth Stimulating Products: Mecasermin (Increlex®)
+P&T Approval Date 2/2014, 8/2014, 5/2015, 8/2015, 6/2016, 12/2016, 11/2017, 11/2018,
+12/2019, 4/2020, 7/2021, 1/2022, 5/2022, 7/2022, 7/2023, 11/2023,
+2/2024, 10/2024, 2/2025
+Effective Date 9/14/2025
+1. Background:
+Somatropin (Genotropin®*, Humatrope®*, Norditropin®, Nutropin AQ NuSpin®*, Omnitrope®,
+Saizen®*, Zomacton®*) is indicated for the treatment of pediatric patients with growth failure due to
+inadequate secretion of endogenous growth hormone (GH), growth hormone deficiency (GHD), short
+stature associated with Turner syndrome or Noonan syndrome, idiopathic short stature (ISS), short-
+stature or growth failure in short stature homeobox-containing gene homeobox (SHOX) gene
+deficiency, growth failure due to Prader-Willi syndrome, short stature in children born small for
+gestational age (SGA) with no catch-up growth by 2 years to 4 years of age, and chronic kidney
+disease (CKD) up to the time of renal transplantation., growth failure in children with chronic renal
+insufficiency up to the time of transplant, short bowel syndrome in patients receiving specialized
+nutritional support, and HIV-associated wasting. Somatropin is also indicated for replacement of
+endogenous growth hormone (GH) in adults with confirmed GH deficiency (GHD).
+Ngenla™ (somatrogon-ghla), is indicated for the treatment of pediatric patients aged 3 years and
+older who have growth failure due to inadequate secretion of endogenous GH.
+Skytrofa™ (lonapegsomatropin-tcgd) is indicated for the treatment of pediatric patients 1 year and
+older who weigh at least 11.5 kg and have growth failure due to inadequate secretion of
+endogenous GH.
+Sogroya®*(somapacitan-beco) is indicated for the treatment of pediatric patients aged 2.5 years
+and older who have growth failure due to inadequate secretion of endogenous GD. It is also
+indicated for the replacement of endogenous GD in adults with GHD.
+Serostim® (somatropin) is indicated for the treatment of HIV patients with wasting or cachexia to
+increase lean body mass and body weight and improve physical endurance.
+Zorbtive® (somatropin) is indicated for the treatment of short bowel syndrome in adult patients
+receiving specialized nutritional support.
+Increlex® (mecasermin) is indicated for the treatment of growth failure in pediatric patients 2 years
+of age and older with severe primary insulin-like growth factor-1 (IGF-1) deficiency or with GH
+gene deletion who have developed neutralizing antibodies to GH.
+© 2025 UnitedHealthcare Services, Inc.
+1
+Coverage Information
+Since short stature in the absence of defined pathology is not a sickness or injury, growth hormone is
+not a covered health service for these indications. The standard UnitedHealthcare Pharmacy Rider
+explicitly excludes coverage of growth hormone for short stature caused by heredity and not by a
+diagnosed medical condition.
+Coverage for somatropin (Genotropin*, Humatrope*, Norditropin, Nutropin AQ NuSpin*,
+Omnitrope, Saizen*, Serostim, Zomacton, Zorbtive), Ngenla, Skytrofa, Sogroya*, and Increlex will
+be provided for members who meet the following criteria:
+2. Coverage Criteria:
+A. Congenital Growth Hormone Deficiency (GHD)
+1. Initial Therapy
+a. Somatropin will be approved based on all of the following criteria:
+(1) Infant is < 12 months of age
+-AND-
+(2) Submission of medical records documenting evidence of growth failure
+confirmed by all of the following:
+(a) Growth charts for length/height and weight for age and gender with
+evidence of growth velocity deceleration over time
+(b) Documentation of length/height and weight for age and gender
+including percentile and/or standard deviation scores
+(c) Calculated growth velocity
+-AND-
+(3) Submission of medical records documenting one of the following:
+(a) Both of the following:
+i. Hyopothalmic-pituitary defect (e.g., ectopic posterior
+pituitary, empty sella, hypoplastic pituitary, major
+congenital malformation, optic nerve hypoplasia, tumor or
+irradiation)
+ii. Deficiency of at least one additional pituitary hormone
+-OR-
+(b) All of the following:
+i. Neonatal hypoglycemia and/or micropenis
+ii. Serum GH concentration ≤ 5 μg/L in the first 28 days of
+life
+© 2025 UnitedHealthcare Services, Inc.
+2
+iii. Deficiency of at least one additional pituitary hormone
+iv. Classical imaging triad (i.e., ectopic posterior pituitary and
+pituitary hypoplasia with abnormal stalk)
+-AND-
+(4) Submission of medical records documenting one of the following is
+below the age and gender adjusted normal range as provided by the
+physician’s lab:
+(a) Insulin-like Growth Factor 1 (IGF-1/Somatomedin-C)
+(b) Insulin Growth Factor Binding Protein-3 (IGFBP-3)
+-AND-
+(5) Prescribed by an endocrinologist
+-AND-
+(6) Request does not exceed a maximum supply limit of 0.3mg/kg/week
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Somatropin will be approved based on all of the following criteria:
+(1) Submission of medical records documenting a height increase of at
+least 2 cm/year over the previous year confirmed by all of the
+following:
+(a) Previous length/height and date obtained
+(b) Current length/height and date obtained
+(c) Calculated growth velocity
+(d) Growth chart for length/height for age and gender
+-AND-
+(2) Submission of medical records documenting both of the following:
+(a) Expected adult height not attained
+(b) Documentation of expected adult height goal (e.g., genetic
+potential)
+-AND-
+(3) Prescribed by an endocrinologist
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+3
+(4) Request does not exceed a maximum supply limit of 0.3mg/kg/week
+Authorization will be issued for 12 months.
+B. Pediatric Growth Hormone Deficiency (GHD)
+Note: If patient is a Transition Phase Adolescent or Adult who had childhood onset
+GH deficiency, utilize criteria for Transition Phase Adolescent or Adult GH
+Deficiency.
+1. Initial Therapy
+a. Somatropin, Ngenla, Skytrofa, and Sogroya* will be approved based on
+all of the following criteria:
+(1) Submission of medical records documenting a diagnosis of pediatric
+GH deficiency
+-AND-
+(2) Submission of medical records documenting evidence of growth failure
+confirmed by all of the following:
+(a) Growth charts for length/height and weight for age and gender with
+evidence of growth velocity deceleration over time
+(b) Documentation of length/height and weight for age and gender
+including percentile and/or standard deviation scores
+(c) Calculated growth velocity
+-AND-
+(3) Submission of medical records documenting open epiphyses in the last
+12 months
+-AND-
+(4) Submission of medical records documenting Tanner stage ≤ 4
+-AND-
+(5) Submission of medical records documenting both of the following:
+(a) Patient has undergone two of the following provocative GH
+stimulation tests:
+i. Arginine
+ii. Clonidine
+iii. Glucagon
+iv. Insulin
+v. Levodopa
+© 2025 UnitedHealthcare Services, Inc.
+4
+-AND-
+(b) Peak GH responses to each agent is < 10 mcg/L
+-AND-
+(6) If patient has a history of malignancy, one of the following:
+(a) Patient is in remission
+(b) Patient has been stable for at least 12 months
+-AND-
+(7) Prescribed by an endocrinologist
+-AND-
+(8) One of the following:
+(a) If the request is for Ngenla, request does not exceed a maximum
+supply limit of 0.66 mg/kg/week
+-OR-
+(b) If the request is for Somatropin, Skytrofa, or Sogroya, one of the
+following:
+i. Request does not exceed a maximum supply limit of 0.3
+mg/kg/week
+-OR-
+ii. All of the following:
+• One of the following:
+Poor catch-up growth while on standard dosing
+o
+-OR-
+IGF-1 < 2 standard deviations from the mean while
+o
+on standard dosing
+-AND-
+• Tanner Stage 2 or greater
+-AND-
+• Request does not exceed a maximum supply limit of
+© 2025 UnitedHealthcare Services, Inc.
+5
+0.7 mg/kg/week
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Somatropin, Ngenla, Skytrofa, and Sogroya* will be approved based on
+all of the following criteria:
+(1) Submission of medical records documenting a height increase of at
+least 2 cm/year over the previous year confirmed by all of the
+following:
+(a) Previous length/height and date obtained
+(b) Current length/height and date obtained
+(c) Calculated growth velocity
+(d) Growth chart for length/height for age and gender
+-AND-
+(2) Submission of medical records documenting both of the following:
+(a) Expected adult height not attained
+(b) Documentation of expected adult height goal (e.g., genetic
+potential)
+-AND-
+(3) Prescribed by an endocrinologist
+-AND-
+(4) One of the following:
+(a) If the request is for Ngenla, request does not exceed a maximum
+supply limit of 0.66 mg/kg/week
+-OR-
+(b) If the request is for Somatropin, Skytrofa, or Sogroya*, one of
+the following:
+i. Request does not exceed a maximum supply limit of 0.3
+mg/kg/week
+-OR-
+iii. All of the following:
+• One of the following:
+© 2025 UnitedHealthcare Services, Inc.
+6
+Poor catch-up growth while on standard dosing
+o
+-OR-
+IGF-1 < 2 standard deviations from the mean while
+o
+on standard dosing
+-AND-
+• Tanner Stage 2 or greater
+-AND-
+• Request does not exceed a maximum supply limit of
+0.7 mg/kg/week
+Authorization will be issued for 12 months.
+C. Transition Phase Adolescent Patients
+Note: Use this criteria for patients diagnosed with GHD in childhood during the
+transition period from puberty to adulthood (the period from mid to late teens
+until 6 to 7 years after achievement of adult height).
+1. Initial Therapy
+a. Somatropin will be approved based on all of the following criteria:
+(1) Submission of medical records documenting one of the following:
+(a) Genetic mutation
+-OR-
+(b) Deficiency of three of the following anterior pituitary hormones:
+i. ACTH
+ii. TSH
+iii. Prolactin
+iv. FSH/LH
+-OR-
+(c) Irreversible structural hypothalamic-pituitary disease
+-OR-
+(d) Panhypopituitarism
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+7
+(2) Submission of medical records documenting one of the following:
+(a) IGF-1 level is below the age and gender adjusted normal range as
+provided by the physician’s lab
+-OR-
+(b) Both of the following:
+i. Patient has undergone one of the following GH stimulation
+tests after discontinuation of therapy for at least 1 month:
+• Insulin tolerance test (ITT)
+• GH-releasing hormone-arginine test
+(GHRH+ARG)
+• Glucagon stimulation test (GST)
+• Macimorelin
+-AND-
+ii. One of the following peak GH values:
+• ITT ≤ 5.1 µg/L
+• GHRH+ARG ≤ 11 µg/L
+• Glucagon ≤ 3 µg/L
+• Macimorelin ≤ 2.8 ng/mL
+-AND-
+(3) Prescribed by an endocrinologist
+-AND-
+(4) One of the following:
+(a) Request does not exceed a maximum supply limit of
+0.3mg/kg/week
+-OR-
+(b) All of the following:
+i. One of the following:
+• Poor catch-up growth while on standard dosing
+-OR-
+• IGF-1 < 2 standard deviations from the mean while on
+standard dosing
+© 2025 UnitedHealthcare Services, Inc.
+8
+-AND-
+ii. Tanner Stage 2 or greater
+-AND-
+iii. Request does not exceed a maximum supply limit of 0.7
+mg/kg/week
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Somatropin will be approved based on all of the following criteria:
+(1) Submission of medical records documenting a positive response to
+therapy (e.g., increase in total lean body mass, exercise capacity or IGF-
+1 and IGFBP-3 levels)
+-AND-
+(2) Prescribed by an endocrinologist
+-AND-
+(3) One of the following:
+(a) Request does not exceed a maximum supply limit of
+0.3mg/kg/week
+-OR-
+(b) All of the following:
+i. One of the following:
+• Poor catch up growth while on standard dosing
+-OR-
+• IGF-1 < 2 standard deviations from the mean while on
+standard dosing
+-AND-
+ii. Tanner Stage 2 or greater
+-AND-
+iii. Request does not exceed a maximum supply limit of 0.7
+© 2025 UnitedHealthcare Services, Inc.
+9
+mg/kg/week
+Authorization will be issued for 12 months.
+D. Adult Growth Hormone Deficiency
+1. Initial Therapy
+a. Somatropin and Sogroya* will be approved based on all of the following
+criteria:
+(1) Submission of medical records documenting a diagnosis of adult
+growth hormone deficiency (GHD) as a result of one of the following:
+(a) Known hypothalamic or pituitary disease
+(b) Panhypopituitarism
+(c) History of GHD in childhood
+-AND-
+(2) Submission of medical records documenting one of the following:
+(a) IGF-1 level is below the age and gender adjusted normal range as
+provided by the physician's lab
+-OR-
+(b) All of the following:
+i. Patient does not have a low IGF-1
+-AND-
+ii. Patient has undergone one of the following GH stimulation
+tests:
+• GH-releasing hormone-arginine test (GHRH+ARG)
+• Glucagon stimulation test (GST)
+• Macimorelin
+-AND-
+iii. One of the following peak GH values:
+• GHRH+ARG ≤ 11 µg/L
+• Glucagon ≤ 3 ng/mL
+• Macimorelin ≤ 2.8 ng/mL
+-AND-
+(3) One of the following:
+© 2025 UnitedHealthcare Services, Inc.
+10
+(a) Diagnosis of panhypopituitarism
+-OR-
+(b) Other diagnosis and not used in combination with the following:
+i. Aromatase inhibitors [e.g., Arimidex (anastrazole), Femara
+(letrazole)]
+ii. Androgens [e.g., Delatestryl (testoseterone enanthate),
+Depo Testosterone (testosterone cypionate)]
+-AND-
+(4) Prescribed by an endocrinologist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Somatropin and Sogroya* will be approved based on all of the following
+criteria:
+(1) Submission of medical records documenting an IGF-1 level within the
+past 12 months
+-AND-
+(2) One of the following:
+(a) Diagnosis of panhypopituitarism
+-OR-
+(b) Other diagnosis and not used in combination with the following:
+i. Aromatase inhibitors [e.g., Arimidex (anastrazole), Femara
+(letrazole)]
+ii. Androgens [e.g., Delatestryl (testoseterone enanthate),
+Depo-Testosterone (testosterone cypionate)]
+-AND-
+(3) Prescribed by an endocrinologist
+Authorization will be issued for 12 months.
+E. Prader-Willi Syndrome
+1. Initial Therapy
+a. Somatropin will be approved based on all the following criteria:
+© 2025 UnitedHealthcare Services, Inc.
+11
+(1) Submission of medical records documenting both of the following:
+(a) Diagnosis of Prader-Willi Syndrome
+-AND-
+(b) Diagnosis confirmed by genetic testing
+-AND-
+(2) One of the following:
+(a) Both of the following:
+i. Patient is < 18 years of age
+-AND-
+ii. Submission of medical records documenting evidence
+of growth failure confirmed by all of the following:
+• Growth charts for length/height and weight for
+age and gender with evidence of growth
+velocity deceleration over time
+• Documentation of length/height and weight for
+age and gender including percentile and/or
+standard deviation scores
+• Calculated growth velocity
+-OR-
+(b) Patient is ≥ 18 years of age
+-AND-
+(3) Patient does not have any of the following:
+(a) Active malignancy
+(b) Severe obesity (weight >225 percent of ideal body weight)
+(c) Severe respiratory impairment
+-AND-
+(4) Prescribed by an endocrinologist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Somatropin will be approved based on both of the following criteria:
+© 2025 UnitedHealthcare Services, Inc.
+12
+(1) One of the following:
+(a) All of the following:
+i. Patient is < 18 years of age
+-AND-
+ii. Submission of medical records documenting a height
+increase of at least 2 cm/year over the previous year of
+treatment as documented by all of the following:
+• Previous length/height and date obtained
+• Current length/height and date obtained
+• Calculated growth velocity
+• Growth charts for length/height for age and gender
+-AND-
+iii. Submission of medical records documenting both of the
+following:
+• Expected adult height not attained
+• Documentation of expected adult height goal
+-OR-
+(b) Both of the following:
+i. Patient is ≥ 18 years of age
+-AND-
+ii. Submission of medical records documenting positive
+response to therapy (e.g., reduction in fat mass, increase in
+lean body mass, improved strength and exercise tolerance)
+-AND-
+(2) Prescribed by an endocrinologist
+Authorization will be issued for 12 months.
+F. Growth Failure in Children Small for Gestational Age (SGA)
+1. Initial Therapy
+a. Somatropin will be approved based on all of the following criteria:
+(1) Submission of medical records documenting a diagnosis of growth
+© 2025 UnitedHealthcare Services, Inc.
+13
+failure associated with SGA
+-AND-
+(3) Submission of medical records documenting diagnosis has been
+confirmed by all of the following:
+(a) Growth charts for length/height and weight for age and gender
+-AND-
+(b) Documentation that one of the following is ≥ 2 SD below mean for
+gestational age:
+i. Birth weight
+ii. Birth length
+-AND-
+(c) Documentation that current length/height remains ≥ 2 SD below
+mean for age and gender at 2 to 3 years of age
+-AND-
+(d) Calculated growth velocity
+-AND-
+(3) Prescribed by an endocrinologist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Somatropin will be approved based on all of the following criteria:
+(1) Submission of medical records documenting a height increase of at least
+2 cm/year over the previous year confirmed by all of the following:
+(a) Previous length/height and date obtained
+(b) Current length/height and date obtained
+(c) Calculated growth velocity
+(d) Growth chart for length/height for age and gender
+-AND-
+(2) Submission of medical records documenting both of the following:
+(a) Expected adult height not attained
+(b) Expected adult height goal
+© 2025 UnitedHealthcare Services, Inc.
+14
+-AND-
+(3) Prescribed by an endocrinologist
+Authorization will be issued for 12 months.
+G. Turner Syndrome or Noonan Syndrome
+1. Initial Therapy
+a. Somatropin will be approved based on all of the following criteria:
+(1) Submission of medical records documenting one of the following:
+(a) Both of the following:
+i. Diagnosis of Turner Syndrome
+ii. Diagnosis confirmed by genetic testing
+-OR-
+(b) Both of the following:
+i. Diagnosis of Noonan Syndrome
+ii. Diagnosis confirmed by the presence of clinical features
+consistent with Noonan Syndrome (e.g., distinct facial
+features such as high forehead, hypertelorism, down
+slanting palpebral fissures with high arched eyebrows,
+epicanthic folds, full upper lip with a depressed nasal
+bridge, low set ears, blue irises, ptosis and neck webbing,
+pulmonary valve stenosis, hypertrophic cardiomyopathy,
+pectus carinatum/excavatum, mild developmental delay,
+cryptorchidism, lymphatic dysplasia)
+-AND-
+(2) Submission of medical records documenting all of the following:
+(a) Growth charts for length/height and weight for age and gender with
+evidence of growth velocity deceleration over time
+(b) Documentation of length/height and weight for age and gender
+including percentile and/or standard deviation scores
+(c) Calculated growth velocity
+-AND-
+(d) Submission of medical records documenting open epiphyses in
+the last 12 months
+© 2025 UnitedHealthcare Services, Inc.
+15
+-AND-
+(e) Submission of medical records documenting Tanner staging ≤ 4
+-AND-
+(f) Prescribed by an endocrinologist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Somatropin will be approved based on all of the following criteria:
+(1) Submission of medical records documenting a height increase of at
+least 2 cm/year over the previous year documented by all of the
+following:
+(a) Previous length/height and date obtained
+(b) Current length/height and date obtained
+(c) Calculated growth velocity
+(d) Growth chart for height for age and gender
+-AND-
+(2) Submission of medical records documenting both of the following:
+(a) Expected adult height not attained
+(b) Expected adult height goal
+-AND-
+(3) Prescribed by an endocrinologist
+Authorization will be issued for 12 months.
+H. Short-Stature Homeobox (SHOX) Gene Deficiency
+1. Initial Therapy
+a. Somatropin will be approved based on all of the following criteria:
+(1) Submission of medical records documenting both of the following:
+(a) Diagnosis of short-stature homeobox (SHOX) gene deficiency
+-AND-
+(b) Diagnosis confirmed by genetic testing
+© 2025 UnitedHealthcare Services, Inc.
+16
+-AND-
+(2) Submission of medical records documenting all of the following:
+(a) Growth charts for length/height and weight for age and gender with
+evidence of growth velocity deceleration over time
+(b) Documentation of length/height and weight for age and gender
+including percentile and/or standard deviation scores
+(c) Calculated growth velocity
+-AND-
+(3) Submission of medical records documenting open epiphyses in the
+last 12 months
+-AND-
+(4) Submission of medical records documenting Tanner stage ≤ 4
+-AND-
+(5) Prescribed by an endocrinologist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Somatropin will be approved based on all of the following criteria:
+(1) Submission of medical records documenting a height increase of at least
+2 cm/year over the previous confirmed by all of the following:
+(a) Previous length/height and date obtained
+(b) Current length/height and date obtained
+(c) Calculated growth velocity
+(d) Growth chart for height for age and gender
+-AND-
+(2) Submission of medical records documenting both of the following:
+(a) Expected adult height not attained
+(b) Expected adult height goal
+-AND-
+(3) Prescribed by an endocrinologist
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services, Inc.
+17
+I. Growth Failure associated with Chronic Renal Insufficiency
+1. Initial Therapy
+a. Somatropin will be approved based on all of the following criteria:
+(1) Submission of medical records documenting all of the following:
+(a) Diagnosis of chronic renal insufficiency
+-AND-
+(b) Documentation of all of the following:
+i. Growth charts for length/height and weight for age and
+gender with evidence of growth velocity deceleration over
+time
+ii. Documentation of length/height and weight for age and
+gender including percentile and/or standard deviation
+scores
+iii. Calculated growth velocity
+-AND-
+(c) Documentation of open epiphyses in the last 12 months
+-AND-
+(d) Tanner stage ≤ 4
+-AND-
+(2) Patient has not yet had a renal transplant
+-AND-
+(3) Prescribed by one of the following:
+(a) Endocrinologist
+(b) Nephrologist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Somatropin will be approved based on all of the following criteria:
+(1) Submission of medical records documenting a height increase of at
+least 2 cm/year over the previous year confirmed by all of the
+following:
+© 2025 UnitedHealthcare Services, Inc.
+18
+(a) Previous length/height and date obtained
+(b) Current length/height and date obtained
+(c) Calculated growth velocity
+(d) Growth chart for height for age and gender
+-AND-
+(2) Submission of medical records documenting both of the following:
+(a) Expected adult height not attained
+(b) Expected adult height goal
+-AND-
+(4) Patient has not yet had a renal transplant
+-AND-
+(4) Prescribed by one of the following:
+(a) Endocrinologist
+(b) Nephrologist
+Authorization will be issued for 12 months.
+J. Human Immunodeficiency Virus (HIV)-Associated Cachexia (Serostim
+only)
+1. Initial Therapy
+a. Serostim will be approved based on submission of medical records
+documenting all of the following criteria:
+(1) Diagnosis of HIV-associated wasting syndrome or cachexia
+-AND-
+(2) Involuntary weight loss of >10%
+-AND-
+(3) One of the following:
+(a) Chronic diarrhea (2 loose stools daily for more than 30 days)
+-OR-
+(b) Both of the following:
+i. Chronic weakness
+© 2025 UnitedHealthcare Services, Inc.
+19
+ii. Fever
+-AND-
+(4) Symptoms lasting ≥ 30 days (intermittent or constant)
+-AND-
+(5) Absence of a concurrent condition other than HIV infection that may
+cause these findings (e.g., depression, mycobacterium avium complex,
+chronic infectious diarrhea, or malignancy except for Kaposi’s sarcoma
+limited to skin or mucous membranes)
+-AND-
+(6) A nutritional evaluation has been completed since onset of wasting first
+occurred
+-AND-
+(7) Patient’s anti-retroviral therapy has been optimized to decrease the viral
+load
+Authorization will be issued for 3 months.
+2. Reauthorization
+a. Serostim will be approved based on submission of medical records
+documenting both of the following criteria:
+(1) Documentation of a positive response to therapy (i.e., > 2% increase in
+body weight and/or body cell mass)
+-AND-
+(2) One of the following targets or goals has not been achieved:
+(a) Weight
+(b) Body cell mass (BCM)
+(c) Body mass index (BMI)
+Authorization will be issued for 6 months.
+K. Short Bowel Syndrome (Zorbtive only)
+1. Zorbtive will be approved based on submission of medical records
+documenting all of the following criteria:
+a. Diagnosis of Short Bowel Syndrome
+© 2025 UnitedHealthcare Services, Inc.
+20
+-AND-
+b. Patient is currently receiving specialized nutritional support (e.g.,
+intravenous parenteral nutrition, fluid, and micronutrient supplements)
+-AND-
+c. Patient has not previously received 4 weeks of treatment with Zorbtive
+Authorization will be issued for 4 weeks.
+Note: Treatment with Zorbtive will not be authorized beyond 4 weeks.
+Administration for more than 4 weeks has not been adequately studied.
+L. Idiopathic Short Stature (for the state of Maryland only)
+1. Initial Therapy
+a. Somatropin will be approved based on all of the following criteria:
+(1) Submission of medical records documenting all of the following:
+(a) Diagnosis of idiopathic short stature
+-AND-
+(b) Diagnostic evaluation has excluded other causes associated with
+short stature (e.g., skeletal dysplasia, genetic conditions associated
+with short stature, rapid tempo puberty, precocious puberty, celiac
+disease, inflammatory bowel disease, renal failure, hepatic failure,
+rheumatoid arthritis, systemic lupus, etc.)
+-AND-
+(c) Documentation of all of the following:
+i. Growth charts for length/height and weight for age and
+gender with evidence of growth velocity deceleration over
+time
+ii. Documentation of length/height and weight for age and
+gender including percentile and/or standard deviation
+scores
+iii. Calculated growth velocity
+-AND-
+(d) Documentation of open epiphyses in the last 12 months
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+21
+(2) One of the following:
+(a) Request does not exceed a maximum supply limit of 0.3
+mg/kg/week
+-OR-
+(b) Both of the following:
+i. One of the following:
+• Poor catch-up growth on standard dosing
+-OR-
+• IGF-1 < 2 SD from the mean while on standard dosing
+-AND-
+ii. Tanner Stage 2 or greater
+-AND-
+iii. Request does not exceed a maximum supply limit of 0.7
+mg/kg/week
+-AND-
+(3) Prescribed by an endocrinologist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Somatropin will be approved based on all of the following criteria:
+(1) Submission of medical records documenting a height increase at least 2
+cm/year over the previous year of treatment as confirmed by all of the
+following:
+(a) Previous length/height and date obtained
+(b) Current length/height and date obtained
+(c) Calculated growth velocity
+(d) Growth chart for height for age and gender
+-AND-
+(2) Submission of medical records documenting both of the following:
+(a) Expected adult height not attained
+© 2025 UnitedHealthcare Services, Inc.
+22
+(b) Expected adult height goal
+-AND-
+(3) One of the following:
+(a) Request does not exceed a maximum supply limit of 0.3
+mg/kg/week
+-OR-
+(b) All of the following:
+i. One of the following:
+• Poor catch up growth while on standard dosing
+-OR-
+• IGF < 2 standard deviations from the mean while on
+standard dosing
+-AND-
+ii. Tanner Stage 2 or greater
+-AND-
+iii. Request does not exceed a maximum supply limit of 0.7
+mg/kg/week
+-AND-
+(4) Prescribed by an endocrinologist
+Authorization will be issued for 12 months.
+M. Severe Primary IGF-1 Deficiency / Growth Hormone Gene Deletion (Increlex
+only)
+1. Initial Therapy
+a. Increlex will be approved based on all of the following criteria:
+(1) Submission of medical records documenting all of the following:
+(a) Diagnosis of severe primary IGF-1 deficiency (PIGFD)
+-AND-
+(b) Documentation of height below -3.0 SD mean for age and gender
+© 2025 UnitedHealthcare Services, Inc.
+23
+-AND-
+(c) Documentation of IGF-1 below -3.0 SD mean for age and gender
+-AND-
+(d) Documentation of both of the following:
+i. Growth charts for length/height and weight for age and
+gender with evidence of growth velocity deceleration over
+time
+ii. Calculated growth velocity
+-AND-
+(e) One of the following:
+i. Patient is unresponsive to a trial of growth hormone therapy
+-OR-
+ii. Documentation of one of the following:
+• Very low or undetectable level of GHBP
+• Very low or undetectable level of GHR mutations
+known to cause Laron syndrome/GH insensitivity
+syndrome
+• GH1 gene deletion (GHD type 1A)
+• GH-neutralizing antibodies
+• STT5b gene mutation
+• IGF-1 gene deletion or mutation
+-AND-
+(2) Other causes of low IGF-I levels have been ruled out (e.g., growth
+hormone deficiency, undernutrition, hepatic disease)
+-AND-
+(3) Patient will not be treated with concurrent growth hormone therapy
+-AND-
+(4) Prescribed by an endocrinologist
+Authorization will be issued for 12 months.
+2. Reauthorization
+© 2025 UnitedHealthcare Services, Inc.
+24
+a. Increlex will be approved based on all of the following criteria:
+(1) Submission of medical records documenting a height increase of at least
+2 cm/year over the previous year of treatment as confirmed by all of the
+following:
+(a) Previous length/height and date obtained
+(b) Current length/height and date obtained
+(c) Calculated growth velocity
+(d) Growth chart for height for age and gender
+-AND-
+(2) Submission of medical records documenting both of the following:
+(a) Expected adult height not obtained
+(b) Expected adult height goal
+-AND-
+(3) Patient is not treated with concurrent growth hormone therapy
+-AND-
+(4) Prescribed by an endocrinologist
+Authorization will be issued for 12 months.
+*Genotropin, Humatrope, Nutropin, Saizen, Sogroya, and Zomacton are typically excluded from
+coverage. Tried/Failed criteria may be in place. Please refer to plan specifics to determine exclusion
+status.
+Essential versus Nonessential Use
+The Patient Protection and Affordable Care Act (PPACA) of 2010 includes a mandate that prohibits
+annual dollar maximum limits for “essential” benefits. A strict definition of “essential” was not provided
+in PPACA or in federal health care regulations published as of the date this program was revised.
+UnitedHealthcare defines an “essential” use of growth hormone as therapy to treat a deficiency as part of
+chronic disease management. Other uses such as replacement therapy in a disorder where a deficiency is
+not noted are considered “nonessential.”
+This information applies to groups with benefit caps in place for growth hormone therapy. If the diagnosis
+is considered an essential use of the medication, the cap will not apply. For these cases, an override for
+the cap amount will be entered at the same time the authorization (if criteria met) is entered for the
+medication. If the diagnosis is a nonessential use of the medication, then only the authorization for the
+medication will be entered.
+Diagnosis
+Pediatric growth hormone deficiency Essential
+Growth failure in children small for gestational age Nonessential
+Growth failure due to chronic renal insufficiency Nonessential
+Growth failure due to Turner Syndrome Nonessential
+© 2025 UnitedHealthcare Services, Inc.
+25
+Growth failure due to Noonan Syndrome Nonessential
+Growth failure due to short-stature homeobox (SHOX) Nonessential
+gene deficiency
+Prader-Willi Syndrome Nonessential
+Adult growth hormone deficiency Essential
+Transition phase adolescent patients Essential
+HIV-associated wasting syndrome/cachexia Essential
+Short bowel syndrome Essential
+Severe primary IGF-1 deficiency Essential
+Idiopathic short stature (not currently covered per Nonessential
+criteria)
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Genotropin [package insert]. New York, NY: Pharmacia & Upjohn Company; August
+2024.
+2. Humatrope [package insert]. Indianapolis, IN: Eli Lilly and Company; December 2023.
+3. Norditropin [package insert]. Plainsboro, NJ: Novo Nordisk Pharmaceuticals, Inc.; March
+2020.
+4. Nutropin AQ, Nutropin AQ NuSpin [package insert]. South San Francisco, CA:
+Genentech, Inc.; December 2016.
+5. Omnitrope [package insert]. Princeton, NJ: Sandoz, Inc.; March 2024.
+6. Saizen [package insert]. Rockland, MA: EMD Serono, Inc.; February 2020.
+7. Zomacton [package insert]. Parsippany, NJ: Ferring Pharmaceuticals, Inc.; April 2024
+8. Ngenla [package insert]. New York, NY: Pfizer, Inc.; June 2023.
+9. Skytrofa [package insert]. Palo Alto, CA: Acendis Pharma Endocrinology, Inc.; May 2024.
+10. Sogroya [package insert]. Plainsboro, NJ: Novo Nordisk Inc.; April 2023.
+11. Serostim [package insert]. Rockland, MA: EMD Serono, Inc.; June 2019.
+12. Zorbtive [package insert]. Rockland, MA: EMD Serono, Inc.; September 2019.
+13. Increlex [package insert]. Cambridge, MA: Ipsen Biopharmaceuticals, Inc; March 2024.
+14. Stagi S, Tufano M, Chiti N, et al. Management of Neonatal Isolated and Combined Growth
+Hormone Deficiency: Current Status. Int J Mol Sci. 2023;24(12):10114.
+15. American Association of Clinical Endocrinologists Medical Guidelines for Clinical
+Practice for Growth Hormone Use in Growth Hormone-Deficient Adults and Transition
+Patients—2009 Update. Endocr Pract. 2009;15(Suppl 2):1-29.
+16. Grimberg A, DiVall SA, Polychronakos C, et al. Guidelines for Growth Hormone and
+Insulin-Like Growth Factor-I Treatment in Children and Adolescents: Growth Hormone
+Deficiency, Idiopathic Short Stature, and Primary Insulin-Like Growth Factor-I
+Deficiency. Horm Res Paediatr. 2016;86(6):361-397.
+17. Deal CL, Tony M, Höybye C, et al. Growth hormone research society workshop summary:
+consensus guidelines for recombinant human growth hormone therapy in prader-willi
+syndrome. J Clin Endocrinol Metab. 2013 Jun;98(6):E1072-87.
+© 2025 UnitedHealthcare Services, Inc.
+26
+18. Butler MG, Miller JL, Forster JL. Prader-Willi Syndrome - Clinical Genetics, Diagnosis and
+Treatment Approaches: An Update. Curr Pediatr Rev. 2019;15(4):207-244.
+19. Hokken-Koelega ACS, van der Steen M, Boguszewski MCS, Cianfarani S, Dahlgren J,
+Horikawa R, Mericq V, Rapaport R, Alherbish A, Braslavsky D, Charmandari E, Chernausek
+SD, Cutfield WS, Dauber A, Deeb A, Goedegebuure WJ, Hofman PL, Isganatis E, Jorge AA,
+Kanaka-Gantenbein C, Kashimada K, Khadilkar V, Luo XP, Mathai S, Nakano Y, Yau M.
+International Consensus Guideline on Small for Gestational Age: Etiology and Management
+From Infancy to Early Adulthood. Endocr Rev. 2023 May 8;44(3):539-565
+20. Gravholt CH, Andersen NH, Christin-Maitre S, et al. Clinical practice guidelines for the care
+of girls and women with Turner syndrome. Eur J Endocrinol. 2024;190(6):G53-G151.
+21. Allanson JE. Noonan syndrome. J Med Genet. 1987; 24:9.
+22. van der Burgt I, Berends E, Lommen E, et al. Clinical and molecular studies in a large Dutch
+family with Noonan syndrome. Am J Med Genet. 1994; 53:187.
+23. Dahlgren J, Noordam C. Growth, Endocrine Features, and Growth Hormone Treatment in
+Noonan Syndrome. J Clin Med. 2022;11(7):2034.
+24. Blum WF, Crowe BJ, Quigley CA, et al. Growth hormone is effective in treatment of short
+stature associated with short stature homeobox-containing gene deficiency: Two-year results
+of a randomized, controlled, multicenter trial. J Clin Endocrinol Metab. 2007;92(1):219-228.
+25. Blum WF, Ross JL, Zimmermann AG, et al. GH treatment to final height produces similar
+height gains in patients with SHOX deficiency and Turner syndrome: results of a multicenter
+trial [published correction appears in J Clin Endocrinol Metab. 2013 Dec;98(12):4992]. J
+Clin Endocrinol Metab. 2013;98(8):E1383-E1392.
+26. Molitch ME, Clemmons DR, Malozowski S, et al. Evaluation and Treatment of Adult Growth
+Hormone Deficiency: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol
+Metab. 2011 Jun;96(6):1587-609.
+27. Yuen KCJ, Biller BMK, Radovick S, et al. American Association of Clinical
+Endocrinologists (AACE) and American College of Endocrinology (ACE) Guidelines for
+Management of Growth Hormone Deficiency in Adults and Patients Transitioning from
+Pediatric to Adult Care. Endocr Pract. 2019;25.
+28. Nemechek PM, Polsky B, Gottlieb MS. Treatment guidelines for HIV-associated wasting.
+Mayo Clin Proc. 2000 Apr;75(4):386-94.
+29. Polsky B, Kotler D, Steinhart C. HIV-associated wasting in the HAART era: guidelines for
+assessment, diagnosis and treatment. AIDS Patient Care STDS. 2001;15(8):411-23.
+30. Gelato M, McNurlan M, Freedland E. Role of recombinant human growth hormone in HIV-
+associated wasting and cachexia: pathophysiology and rationale for treatment. Clin Ther.
+2007;29(11):2269-2288.
+31. Chou JH, Roumiantsev S, Singh R. PediTools Electronic Growth Chart Calculators:
+Applications in Clinical Care, Research, and Quality Improvement. J Med Internet Res. 2020
+Jan 30;22(1):e16204.
+Program Prior Authorization/Medical Necessity - Human Growth Hormone and
+Growth Stimulating Products
+Change Control
+2/2014 Developed new medical necessity criteria through revised criteria to
+include dosing, specialist prescriber and no combination therapy for
+adult GHD.
+8/2014 Clarified medical record requirement language.
+5/2015 Added dosing charts for ped & adult GHD. Removed Tev-tropin.
+8/2015 Added Zomacton. Removed dosing charts and added requirement for
+© 2025 UnitedHealthcare Services, Inc.
+27
+SL dosing maximum to pediatric GHD, adult GHD, transitional, and
+ISS Updated formatting.
+6/2016 Added Tanner Stage 3 to pediatric GHD as a requirement for dosing up
+to a maximum of 0.7 mg/kg/week. Added bone age and growth velocity
+to pediatric GHD and ISS. Clarified expected adult height.
+12/2016 Revised medical record requirement language and clarified criteria for
+diagnosis of pediatric GH deficiency.
+11/2017 Annual Review. Updated references.
+11/2018 Annual review. Added macrilen (macimorelin) as an option for the
+diagnosis of adult growth hormone deficiency and updated references.
+12/2019 Annual review. Updated bone age requirement, supply limits, and
+references.
+4/2020 Added requirement for state of California.
+7/2021 Annual review. No change to clinical criteria. Updated references.
+1/2022 Removed Nutropin and Nutropin AQ which are no longer commercially
+available. Added coverage criteria for new product, Skytrofa, for
+pediatric GHD. Updated background and references.
+5/2022 Updated requirement for idiopathic short stature to only include
+Maryland.
+7/2022 Removed exclusion notation from Norditropin. Added Norditropin as
+additional step therapy for Skytrofa.
+7/2023 Annual review. Updated references.
+11/2023 Added coverage criteria for Ngenla and Sogroya. Removed drug-
+specific dosing requirements from coverage criteria. Removed Skytrofa
+and added Sogroya to exclusion footnote. Updated background and
+references.
+2/2024 Removed Omnitrope from exclusion footnote.
+10/2024 Added Nutropin to exclusion footnote.
+2/2025 Annual review. Updated authorization criteria to align with the most
+current treatment guidelines for all indications. Removed Nordiflex
+from program which has been discontinued. Updated background and
+references.
+8/2025 - supplemental Supplemental update to include levodopa as acceptable GH stimulation
+test for pediatric GHD.
+© 2025 UnitedHealthcare Services, Inc.
+28

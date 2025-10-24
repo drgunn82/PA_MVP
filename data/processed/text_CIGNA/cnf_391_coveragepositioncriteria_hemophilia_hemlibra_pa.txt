@@ -1,0 +1,338 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Hemophilia – Non-Factor Routine Prophylaxis Products − Hemlibra Prior
+Authorization Policy
+• Hemlibra® (emicizumab-kxwh subcutaneous injection −
+Genentech/Roche/Chugai)
+REVIEW DATE: 06/11/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Hemlibra, a bispecific Factor IXa- and Factor X-directed antibody, is indicated for
+hemophilia A (congenital factor VIII deficiency) with or without factor VIII inhibitors
+for routine prophylaxis to prevent or reduce the frequency of bleeding episodes in
+adults and pediatric patients ages newborn and older.1
+Hemlibra is recommended to be given as a loading dose by subcutaneous injection
+once weekly for the first 4 weeks, followed by a maintenance dose given either once
+weekly, once every 2 weeks, or once every 4 weeks.1 Discontinue prophylactic use
+of bypassing medications the day before starting Hemlibra. The prophylactic use of
+Factor VIII products may be continued during the first week of Hemlibra prophylaxis.
+If appropriate, a patient or caregiver may self-inject Hemlibra. Self-administration
+is not recommended for children < 7 years of age.
+Page 1 of 9 - Cigna National Formulary Coverage - Policy:Hemophilia – Non-Factor Routine Prophylaxis Products
+( Hemlibra Prior Authorization Policy
+Disease Overview
+Hemophilia A is a genetic bleeding disorder caused by a dysfunction or deficiency in
+Factor VIII.2-5 Because hemophilia is an X-linked condition, males are primary
+impacted. In the US, the incidence of hemophilia A in males is 1:5,000 with an
+estimated 26,400 people in the US living with hemophilia A. Patients who have
+hemophilia A are not able to properly form clots in the blood and may bleed for a
+longer time than normal following injury or surgery. Patients may also experience
+spontaneous bleeding in muscles, joints, and organs. Bleeds may be life-threatening.
+A main morbidity is hemophilic arthropathy, which limits mobility. The condition is
+characterized by bleeding in joints, either spontaneously or in a provoked joint by
+trauma. The disease can be classified as mild, moderate, or severe based on reduced
+Factor VIII; approximately 50% of patients with hemophilia A have severe disease.
+The formation of inhibitors (antibodies) to factor products is a challenging
+complication as it causes Factor VIII therapies to be ineffective, which increases
+bleeding frequency and severity. Inhibitors develop in around 30% and 10% of
+patients with severe hemophilia A and hemophilia B, respectively.
+Guidelines
+Various guidelines discuss Hemlibra.6-9
+• National Bleeding Disorders Foundation: Two documents from the
+National Bleeding Disorders Foundation’s Medical and Scientific Advisory
+Council (MASAC) provide recommendations regarding Hemlibra.6,7 In general,
+Hemlibra has been shown to prevent or reduce the occurrence of bleeding in
+patients with hemophilia A in adults, adolescents, children and infants, both
+with and without inhibitors.6 Continuation of Factor VIII prophylaxis during
+the week after initiation of Hemlibra is a reasonable approach.7 However,
+because Hemlibra steady-state levels are not achieved until after four weekly
+doses, it may be reasonable to continue Factor VIII prophylaxis in selected
+patients based on bleeding history, as well as physical history, until they are
+ready to initiate maintenance dosing. Factor VIII products may be used for
+breakthrough bleeding events.
+• World Federation of Hemophilia (WFH): Guidelines from the WFH
+regarding hemophilia (2020) feature Hemlibra in a variety of clinical
+scenarios.8 It is noted that the subcutaneous administration permits patients
+to initiate prophylaxis at a very young age. Other key benefits include its long
+half-life, high efficacy in bleed prevention, and reduction in bleeding episodes
+in patients with or without inhibitors.
+• International Society on Thrombosis and Hemostasis: In 2024, the
+International Society on Thrombosis and Hemostasis published a practice
+guideline for the treatment of congenital hemophilia A and B.9 There are many
+recommendations. In patients with severe or moderately severe hemophilia A
+or B without inhibitors, prophylaxis is recommended over episodic treatment
+of bleeding events (strong recommendation based on moderate-certainty
+evidence). For hemophilia A for this population, prophylaxis with Hemlibra or
+Factor VIII concentrates is recommended (conditional recommendation based
+on very low certainty-evidence). In patients with severe hemophilia A with
+3 Pages - Cigna National Formulary Coverage - Policy:Hemophilia – Non-Factor Routine Prophylaxis Products (
+Hemlibra Prior Authorization Policy
+inhibitors, prophylaxis with Hemlibra is recommended over bypassing agents
+(conditional recommendation based on very low-certainty evidence).
+Safety
+Hemlibra has a Boxed Warning regarding thrombotic microangiopathy and
+thromboembolism.1 Cases of thrombotic microangiopathy and thrombotic events
+were reported when on average a cumulative amount of > 100 U/kg/24 hours of
+activated prothrombin complex concentrate (aPCC) was given for 24 hours or more
+to patients receiving Hemlibra prophylaxis. Monitor for the development of
+thrombotic microangiopathy and thrombotic events when aPCC is given. Discontinue
+prophylactic use of bypassing agents the day before starting Hemlibra.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Hemlibra. All
+approvals are provided for the duration noted below. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Hemlibra as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Hemlibra to be prescribed by or in consultation with a hemophilia specialist.
+• Hemlibra® (emicizumab-kxwh subcutaneous injection -
+Genentech/Roche/Chugai)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Hemophilia A with Factor VIII Inhibitors. Approve for 1 year if the patient
+meets ONE of the following (A or B):
+A) Initial Therapy. Approve if the patient meets ALL of the following (i, ii, iii, iv,
+and v):
+i. Patient is using Hemlibra for routine prophylaxis to prevent or reduce the
+frequency of bleeding episodes; AND
+ii. Patient meets BOTH of the following (a and b):
+a) Factor VIII inhibitor titer testing has been performed within the past 30
+days; AND
+b) Patient has a positive test for Factor VIII inhibitors of ≥ 0.6 Bethesda
+units/mL; AND
+iii. According to the prescriber, prophylactic use of bypassing agents will be
+discontinued; AND Note: Use of bypassing agents for the treatment of
+breakthrough bleeding is permitted. Examples of bypassing agents include
+NovoSeven RT (coagulation Factor VIIa [recombinant] intravenous
+infusion), Sevenfact (Factor VIIa [recombinant]-jncw intravenous infusion),
+and FEIBA (anti-inhibitor coagulant complex intravenous infusion).
+iv. Patient is not undergoing immune tolerance induction therapy; AND
+v. The medication is prescribed by or in consultation with a hemophilia
+specialist; OR
+3 Pages - Cigna National Formulary Coverage - Policy:Hemophilia – Non-Factor Routine Prophylaxis Products (
+Hemlibra Prior Authorization Policy
+B) Patient is Currently Receiving Hemlibra. Approve if the patient meets ALL of
+the following (i, ii, iii, iv, and v)
+i. Patient is using Hemlibra for routine prophylaxis to prevent or reduce the
+frequency of bleeding episodes; AND
+ii. According to the prescriber, prophylactic use of bypassing agents will not
+occur while receiving Hemlibra; AND
+Note: Use of bypassing agents for the treatment of breakthrough bleeding
+is permitted. Examples of bypassing agents include NovoSeven RT
+(coagulation Factor VIIa [recombinant] intravenous infusion), Sevenfact
+(Factor VIIa [recombinant]-jncw intravenous infusion), and FEIBA (anti-
+inhibitor coagulant complex intravenous infusion).
+iii. Patient is not undergoing immune tolerance induction therapy; AND
+iv. The medication is prescribed by or in consultation with a hemophilia
+specialist; AND
+v. According to the prescriber, the patient experienced a beneficial response
+to therapy.
+Note: Examples of a beneficial response to therapy include a reduction in
+bleeding events, in the severity of bleeding episodes, in the number of
+bleeding events that required treatment, and/or in the number of
+spontaneous bleeds.
+2. Hemophilia A without Factor VIII Inhibitors. Approve for 1 year if the
+patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve if the patient meets ALL of the following (i, ii, iii, and
+iv):
+i. Patient is using Hemlibra for routine prophylaxis to prevent or reduce the
+frequency of bleeding episodes; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient meets BOTH of the following [(1) and (2)]:
+(1) Factor VIII inhibitor titer testing has been performed within the past
+30 days; AND
+(2) Patient does not have a positive test for Factor VIII inhibitors of ≥
+1.0 Bethesda units/mL; OR
+b) Patient has not received Factor VIII therapy in the past; AND
+iii. According to the prescriber, prophylactic use of Factor VIII products will be
+discontinued no later than 4 weeks following the initial Hemlibra dose; AND
+Note: Use of Factor VIII products for the treatment of breakthrough
+bleeding is permitted.
+iv. The medication is prescribed by or in consultation with a hemophilia
+specialist; OR
+B) Patient is Currently Receiving Hemlibra. Approve if the patient meets ALL of
+the following (i, ii, iii, and iv):
+i. Patient is using Hemlibra for routine prophylaxis to prevent or reduce the
+frequency of bleeding episodes; AND
+ii. According to the prescriber, prophylactic use of Factor VIII products will not
+occur while receiving Hemlibra; AND
+Note: Use of Factor VIII products for the treatment of breakthrough
+bleeding is permitted.
+3 Pages - Cigna National Formulary Coverage - Policy:Hemophilia – Non-Factor Routine Prophylaxis Products (
+Hemlibra Prior Authorization Policy
+iii. The medication is prescribed by or in consultation with a hemophilia
+specialist; AND
+iv. According to the prescriber, the patient experienced a beneficial response
+to therapy.
+Note: Examples of a beneficial response include a reduction in bleeding
+events, in the severity of bleeding episodes, in the number of bleeding
+events that required treatment, and/or in the number of spontaneous
+bleeds.
+CONDITIONS NOT COVERED
+• Hemlibra® (emicizumab-kxwh subcutaneous injection -
+Genentech/Roche/Chugai)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+newly published data are available):
+1. Concurrent Use with Alhemo (concixumab-mtci subcutaneous injection),
+Hympavzi (marstacimab-hncq subcutaneous injection), or Qfitlia
+(fitusiran subcutaneous injection). These are also non-factor products used
+for routine prophylaxis in hemophilia A and B.10-12 There is no evidence to support
+concomitant use of Hemlibra with Alhemo, Hympavzi, or Qfitlia.
+REFERENCES
+1. Hemlibra® subcutaneous injection [prescribing information]. South San Francisco, CA and Tokyo,
+Japan: Genentech/Roche and Chugai; January 2024.
+2. Mancuso ME, Mahlangu JN, Pipe SW. The changing treatment landscape in haemophilia: from
+standard half-life clotting factor concentrates to gene editing. Lancet. 2021;397:630-640.
+3. Chowdary P, Carcao M, Kenet G, Pipe SW. Haemophilia. Lancet. 2025;405(10480):736-750.
+4. Franchini M, Mannucci PM. The more recent history of hemophilia treatment. Semin Thromb
+Hemost. 2022;48(8):904-910.
+5. Mannucci PM. Hemophilia treatment innovation: 50 years of progress and more to come. J Thromb
+Haemost. 2023;21(3):403-412.
+6. National Bleeding Disorders Foundation. MASAC (Medical and Scientific Advisory Council)
+recommendations concerning products licensed for the treatment of hemophilia and other selected
+disorders of the coagulation system (endorsed by the National Bleeding Disorders Foundation Board
+of Directors on October 2, 2024). MASAC Document #290. Available at:
+https://www.bleeding.org/sites/default/files/document/files/MASAC-Products-Licensed.pdf.
+Accessed on June 6, 2025.
+7. National Bleeding Disorders Foundation. MASAC (Medical and Scientific Advisory Council)
+recommendations on the use and management of emicizumab-kxwh (Hemlibra®) for hemophilia A
+with and without inhibitors. MASAC Document #268. Adopted by the National Hemophilia
+Foundation Board of Directors on April 27, 2022. Available at:
+https://www.hemophilia.org/sites/default/files/document/files/268_Emicizumab.pdf. Accessed on
+June 6, 2025.
+8. Srivastava A, Santagostino E, Dougall A, et al, on behalf of the WFH guidelines for the management
+of hemophilia panelists and co-authors. WFH guidelines for the management of hemophilia, 3rd
+edition. Hemophilia. 2020;26(Suppl 6):1-158.
+9. Rezende SM, Neumann I, Angchaisuksiri P, et al. International Society on Thrombosis and
+Haemostasis clinical practice guideline for the treatment of congenital hemophilia A and B based on
+the Grading of Recommendations Assessment, Development, and Evaluation methodology. J
+Thromb Haemost. 2024;22:2629-2652.
+3 Pages - Cigna National Formulary Coverage - Policy:Hemophilia – Non-Factor Routine Prophylaxis Products (
+Hemlibra Prior Authorization Policy
+10. Alhemo® subcutaneous injection [prescribing information]. Plainsboro, NJ: Novo Nordisk; May
+2025.
+11. Hympavzi™ subcutaneous injection [prescribing information]. New York, NY: Pfizer; October 2024.
+12. Qfitlia™ subcutaneous injection [prescribing information]. Cambridge, MA: Genzyme/Sanofi; March
+2025.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 05/24/2023
+Revision
+Annual No criteria changes. 06/05/2024
+Revision
+Annual “Non-Factor Routine Prophylaxis Products” was added to the title of 06/11/2025
+Revision the Policy. In addition, the following changes were made:
+Hemophilia A with Factor VIII Inhibitors: In Initial Therapy,
+requirements were added that Factor VIII inhibitor titer testing has
+been performed within the past 30 days, and that the patient has a
+positive test for Factor VIII inhibitors of ≥ 0.6 Bethesda units/mL. The
+following requirements were deleted: the patient has had a positive
+Factor VIII inhibitor titer > than 5 Bethesda Units or that the patient
+has had a positive Factor VIII inhibitor titer ≤ to 5 Bethesda units and
+either has had an anamnestic response (current or past) to Factor VIII
+product dosing or that the patient experienced an inadequate clinical
+response (current or past) to increased Factor VIII product dosing.
+The requirement that the prescriber attests that if the patient is
+currently receiving a bypassing agent for prophylaxis, that the
+bypassing agent therapy will be discontinued the day prior to initiation
+of Hemlibra was changed to “According to the prescriber, prophylactic
+use of bypassing agents will be discontinued”. The requirement that
+prophylactic use of bypassing agents will not occur while using
+Hemlibra was removed. The requirement that the prescriber attests
+that the patient will not be undergoing immune tolerance induction
+therapy while receiving Hemlibra was changed to “The patient is not
+undergoing immune tolerance induction therapy”. The requirement
+that the prescriber attests the following regarding Factor VIII product
+was deleted: 1) that if the patient is currently receiving a Factor VIII
+product for prophylactic use, the Factor VIII product will be
+discontinued within the initial 4-week loading dose period with
+Hemlibra and 2) prophylactic use of Factor VIII products will not occur
+while using Hemlibra; the related Note was also removed. For a
+Patient Currently Receiving Hemlibra, the requirement that the
+“Prescriber attests that prophylactic use of bypassing agents will not
+occur while using Hemlibra” was changed to “According to the
+prescriber prophylactic use of bypassing agents will not occur while
+receiving Hemlibra”. The requirement that the “prescriber attests that
+the patient will not be undergoing immune tolerance induction while
+receiving Hemlibra” was changed to “Patient is not undergoing
+immune tolerance induction therapy”. The requirement was deleted
+that the prescriber attests that prophylactic use of Factor VIII products
+will not occur while using Hemlibra was deleted; the related Note was
+also removed. In the Note regarding examples of a beneficial
+response, the phrase “to therapy” was added and “spontaneous
+bleeding events” was changed to “spontaneous bleeds.”
+Hemophilia A without Factor VIII Inhibitors: In Initial Therapy,
+the requirement that the patient either had Factor VIII inhibitor titer
+testing performed within the past 30 days and the patient does not
+have a positive test for Factor VIII inhibitors of ≥ 1.0 Bethesda
+3 Pages - Cigna National Formulary Coverage - Policy:Hemophilia – Non-Factor Routine Prophylaxis Products (
+Hemlibra Prior Authorization Policy
+units/mL, or the patient has not received Factor VIII therapy in the
+past was added. The following requirement was deleted: that the
+patient either has severe to moderate severe disease as defined by
+pretreatment Factor VIII levels ≤ 2% of normal or that the patient has
+moderate to mild disease as defined by pretreatment Factor VIII levels
+> 2% to < 40% of normal and meets one of the following: 1) patient
+has experienced a severe, traumatic, or spontaneous bleeding episode
+as determined by the prescriber, 2) patient has hemophilia related
+joint damage, has experienced a joint bleed, or has a specific joint
+that is subject to recurrent bleeding (presence of a target joint), or 3)
+patient is in a perioperative situation and/or has an additional clinical
+scenario regarding bleeding/bleeding risk in which the prescriber
+determines the use of Hemlibra is warranted. Also, Notes related to
+these requirements were deleted. The requirement that the prescriber
+attests that prophylactic use of bypassing agents will not occur while
+using Hemlibra (along with the related Note) was removed. The
+requirement regarding use of Factor VIII products was changed to
+state that “according to the prescriber, prophylactic use of Factor VIII
+products will be discontinued no later than 4 weeks following the initial
+Hemlibra dose”. Previously, the requirement was that the prescriber
+attested that if the patient was receiving a Factor VIII product for
+prophylactic use, that therapy will be discontinued within the initial 4-
+week loading dose period with Hemlibra and that prophylactic use of
+Factor VIII products will not occur while using Hemlibra. For a Patient
+Currently Receiving Hemlibra, the requirement that the prescriber
+attests that prophylactic use of bypassing agents will not occur while
+using Hemlibra was deleted, along with the related Note. Regarding
+prophylactic use of Factor VIII products, the phrase “Prescriber
+attests” was changed to “According to the prescriber” and the word
+“using” was changed to “receiving”. In the Note regarding examples
+of a beneficial response, the phrase “to therapy” was added and
+“spontaneous bleeding events” was changed to “spontaneous bleeds.”
+Conditions Not Covered
+: Concurrent Use of Alhemo, Hympavzi, or Qfitlia is not permitted
+was added.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Hemophilia – Non-Factor Routine Prophylaxis Products (
+Hemlibra Prior Authorization Policy

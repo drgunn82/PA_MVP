@@ -1,0 +1,123 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Gastroenterology – Eohilia Drug Quantity Management Policy – Per
+Days
+• Eohilia™ (budesonide oral suspension − Takeda)
+REVIEW DATE: 03/03/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Eohilia, a corticosteroid, is indicated for the treatment of eosinophilic esophagitis
+(EoE) for 12 weeks in adult and pediatric patients ≥ 11 years of age.1 Use of
+Eohilia has not been shown to be safe and effective for the treatment of EoE for
+longer than 12 weeks.
+Dosing
+The recommended dose of Eohilia is 2 mg twice daily (BID) for 12 weeks.1 To
+prepare, shake the Eohilia packet for 10 seconds or longer prior to opening and
+then squeeze the packet from the bottom to the top directly into the mouth.
+Repeat this two to three more times until the packet is empty. Eohilia should not
+be taken with food or liquid; wait for ≥ 30 minutes to eat or drink following Eohilia
+Page 1 of 3 - Cigna National Formulary Coverage - Policy:Gastroenterology – Eohilia Drug Quantity Management
+Policy – Per Days
+administration. After 30 minutes, rinse the mouth with water and spit out the
+contents without swallowing.
+There are no data to address the time frame at which another 12-week course of
+Eohilia would be appropriate in patients who initially respond to Eohilia treatment,
+but relapse following discontinuation. However, an extension study enrolled
+patients who were full responders to Eohilia in an initial 12-week trial and
+subsequently re-randomized them to either continue Eohilia or switch to placebo.4
+Patients who were switched to placebo and then relapsed could reinitiate blinded
+Eohilia treatment at the next study visit. Over the 36-week extension, seven
+patients receiving placebo relapsed and reinitiated Eohilia therapy. Of these seven,
+one patient was an outlier and reinitiated therapy at Week 8 due to an unscheduled
+endoscopy. The remaining patients relapsed and reinitiated therapy with Eohilia
+between 4 and 7 months following the initial discontinuation of Eohilia therapy.
+Availability
+Eohilia is available as a 2 mg/10 mL thixotropic, viscous suspension supplied in
+unit-dose packets.1 Each carton of Eohilia contains 60 unit-dose packets.
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of Eohilia. If the Drug Quantity Management rule is not
+met for the requested medication at the point of service, coverage will be
+determined by the Criteria below. All approvals are provided for the duration noted
+below. “One-time” overrides are provided for 30 days in duration.
+Drug Quantity Limits
+Product Strength and Form Retail Home Delivery
+Maximum Quantity Maximum Quantity
+Eohilia 2 mg/10 mL unit-dose 1,800 mL (180 packets) per 180 days
+(budesonide oral packets 600 mL (60 packets) 1,800 mL (180 packets)
+suspension) (cartons of 60) per Rx per Rx
+Gastroenterology – Eohilia Drug Quantity Management Policy – Per Days
+product(s) is(are) covered as medically necessary when the following
+criteria is(are) met. Any other exception is considered not medically
+necessary.
+CRITERIA
+Eohilia 2 mg/10 mL packets “Per Rx” Limit
+No overrides recommended.
+Eohilia 2 mg/10 mL packets “Per Days” Limit
+3 Pages - Cigna National Formulary Coverage - Policy:Gastroenterology – Eohilia Drug Quantity Management
+Policy – Per Days
+1. If the patient is experiencing recurrent worsening dysphagia after discontinuing
+Eohilia therapy, according to the prescriber, approve a one-time override for an
+additional 1,800 mL (180 packets) at retail or home delivery
+Note: The approval quantity should be the number of mLs the patient has
+received in the last 180 days plus 1,800 mL at retail and home delivery.
+REFERENCES
+1. Eohilia™ suspension [prescribing information]. Lexington, MA: Takeda; May 2024.
+2. Dellon ES, Collins MH, Katzka DA, et al. Long-term treatment of eosinophilic esophagitis with
+budesonide oral suspension. Clin Gastroenterol Hepatol. 2022;20(7):1488-1498.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 03/13/2024
+Update Eohilia 2 mg/10 mL stick packs: A note was added to the “Per 09/06/2024
+Days” override criteria to clarify that the quantity of 180 stick packs
+(3 cartons) is sufficient for a 90-day supply. The limit of 60 stick
+packs (1 carton) per dispensing at retail and 180 stick packs (3
+cartons) per dispensing at home delivery continues to apply.
+Annual Eohilia 2 mg/10 mL unit-dose packets: Throughout the policy, 03/03/025
+Revision references to “single-dose stick packs” have been changed to “unit-
+dose packets”. Policy statement was updated to clarify that “One-
+time” overrides are provided for 30 days. The “Per Days” override
+criteria were clarified to approve an “additional” 180 packets,
+previously criteria approved 180 packets. The override criteria “Note”
+was updated to state “The approval quantity should the number of
+packets the patient has received in the last 180 days plus 180 packets
+at retail and home delivery.” Previously, this note stated “The
+quantity of 180 stick packs (3 cartons) is sufficient for a 90-day
+supply. The limit of 60 stick packs (1 carton) per dispensing at retail
+and 180 stick packs (3 cartons) per dispensing at home delivery
+continues to apply.”
+DEU Update Throughout the policy, references to number of “packets” have been 03/10/2025
+changed to “mLs”.
+DEU – Drug Evaluation Unit.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Gastroenterology – Eohilia Drug Quantity Management
+Policy – Per Days

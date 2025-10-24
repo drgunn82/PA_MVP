@@ -1,0 +1,120 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2041-12
+Program Prior Authorization/Medical Necessity
+Medication Eloctate® [antihemophilic factor (recombinant), Fc fusion protein]
+P&T Approval Date 8/2014, 2/2015, 2/2016, 12/2016, 11/2017, 11/2018, 11/2019, 9/2020,
+9/2021, 9/2022, 9/2023, 9/2024
+Effective Date 12/1/2024
+1. Background:
+Eloctate [Antihemophilic Factor (Recombinant), Fc Fusion Protein] is a recombinant DNA
+derived, antihemophilic factor indicated in adults and children with Hemophilia A (congenital
+Factor VIII deficiency) for:1
+On-demand treatment and control of bleeding episodes
+o
+Perioperative management of bleeding
+o
+Routine prophylaxis to reduce the frequency of bleeding episodes
+o
+Eloctate is not indicated for the treatment of von Willebrand disease.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Eloctate will be initially approved based on all of the following criteria:1,2
+a. Diagnosis of hemophilia A
+-AND-
+b. Patient is not a suitable candidate for treatment with shorter acting half-life Factor
+VIII (recombinant) products [Advate, Kogenate FS, Kovaltry, Novoeight, Nuwiq, or
+Recombinate] as attested by the prescriber
+-AND-
+c. One of the following:
+(1) Both of the following:
+(a) Dose does not exceed 50 IU/kg
+-AND-
+(b) Patient is infusing no more frequently than every 4 days
+© 2024 UnitedHealthcare Services, Inc.
+1
+-OR-
+(2) Requested dosage regimen does not exceed 12.5 IU/kg/day
+-OR-
+(3) Both of the following:
+(a) Patient is less than 6 years of age
+-AND-
+(b) One of the following:
+i. Pharmacokinetic (PK) testing results suggest that dosing more intensive
+than 50 IU/kg is required
+-OR-
+ii. PK testing results suggest that dosing more frequent than every 3.5 days is
+required
+-OR-
+iii. PK testing results suggest that dosing more intensive than 14.5 IU/kg/day
+is required
+Authorization of therapy will be issued for 12 months.
+B. Reauthorization
+1. Elocate will be approved based on all of the following criteria:
+a. Documentation of positive response to Eloctate therapy
+-AND-
+b. One of the following:
+(1) Both of the following:
+(a) Dose does not exceed 50 IU/kg
+-AND-
+(b) Patient is infusing no more frequently than every 4 days
+© 2024 UnitedHealthcare Services, Inc.
+2
+-OR-
+(2) Requested dosage regimen does not exceed 12.5 IU/kg/day
+-OR-
+(3) Both of the following:
+(a) Patient is less than 6 years of age
+-AND-
+(b) One of the following:
+i. PK testing results suggest that dosing more intensive than 50 IU/kg is
+required
+-OR-
+ii. PK testing results suggest that dosing more frequent than every 3.5 days is
+required
+-OR-
+iii. PK testing results suggest that dosing more intensive than 14.5 IU/kg/day
+is required
+Authorization of therapy will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-
+10) and/or claim logic. Use of automated approval and re-approval processes varies by
+program and/or therapeutic class.
+4. References:
+1. Eloctate® [package insert]. Waltham, MA: Bioverativ Therapeutics Inc., May 2023.
+2. Mahlangu J, Powell JS, Ragni MV. Phase 3 study of recombinant factor VIII Fc fusion
+protein in severe hemophilia A. Blood. 2014 Jan 16;123(3):317-25.
+3. MASAC Recommendations Concerning Products Licensed for the Treatment of
+Hemophilia and Selected Disorders of the Coagulation System. MASAC Document
+#284, April 11, 2024.
+© 2024 UnitedHealthcare Services, Inc.
+3
+Program Prior Authorization/Medical Necessity - Eloctate
+Change Control
+2/2015 New program. Version approved 8/2014 but implementation delayed.
+2/2016 Annual Review. No changes to criteria. References updated.
+12/2016 Annual Review. Updated short acting FVIII examples to preferred
+products. Updated background and references.
+11/2017 Annual review. Removed criteria pertaining to severity of hemophilia
+A. Updated criteria pertaining to dosage regimens to allow for
+increased flexibility in dosage regimen. Updated criteria to allow for
+PK guided dosing in pediatric patients under 6 years old.
+11/2018 Annual review. No changes to clinical coverage criteria. Updated
+references.
+11/2019 Annual review. No changes to clinical coverage criteria.
+9/2020 Updated preferred standard half-life recombinant products. Updated
+references.
+9/2021 Annual review. No changes to clinical coverage criteria. Updated
+references.
+9/2022 Annual review. Added text “pharmacokinetic” to clarify abbreviation
+“PK” with no changes to clinical intent. Updated references.
+9/2023 Annual review. Modified physician attestation to prescriber attestation.
+Updated references.
+9/2024 Annual review. No changes to clinical coverage criteria. Updated
+references.
+© 2024 UnitedHealthcare Services, Inc.
+4

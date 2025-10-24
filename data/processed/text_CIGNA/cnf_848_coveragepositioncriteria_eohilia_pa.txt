@@ -1,0 +1,120 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Gastroenterology – Eohilia Prior Authorization Policy
+• Eohilia™ (budesonide oral suspension − Takeda)
+REVIEW DATE: 03/05/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Eohilia, a corticosteroid, is indicated for the treatment of eosinophilic esophagitis (EoE)
+for 12 weeks in adults and pediatric patients ≥ 11 years of age.1 Use of Eohilia has
+not been shown to be safe and effective for the treatment of EoE for longer than 12 weeks.
+Clinical Efficacy
+In two pivotal trials of Eohilia, patients were required to have histologic evidence of EoE,
+defined as ≥ 15 eosinophils per high-power field despite 6 to 8 weeks of treatment with a
+high-dose proton pump inhibitor.2,3 Patients in both trials received 12 weeks of therapy with
+Eohilia. There are no data to address the time frame at which another 12-week course of
+Eohilia would be appropriate in patients who initially respond to treatment, but relapse
+following discontinuation. However, an extension study enrolled patients who were
+considered to be full responders to Eohilia in an initial 12-week trial and subsequently re-
+randomized them to either continue Eohilia or switch to placebo.4 Patients who were
+switched to placebo and then relapsed could reinitiate blinded Eohilia treatment at the next
+study visit. Over the 36-week extension, seven patients receiving placebo relapsed and
+reinitiated Eohilia therapy. Of these seven, one patient was an outlier and reinitiated
+therapy at Week 8 due to an unscheduled endoscopy. The remaining patients relapsed and
+reinitiated therapy with Eohilia between 4 and 7 months following the initial discontinuation
+of Eohilia therapy.
+Guidelines
+Page 1 of 5 - Cigna National Formulary Coverage - Policy:Gastroenterology – Eohilia Prior Authorization Policy
+Guidelines for the diagnosis and management of EoE from the American College of
+Gastroenterology (2025) confirm that the diagnosis of EoE should be based on the presence
+esophageal dysfunction symptoms and ≥ 15 eosinophils per high-power field on esophageal
+biopsy.5 Treatment with a proton pump inhibitor is recommended, as is treatment with
+swallowed topical corticosteroids. A food elimination diet is recommended. However, it is
+noted that patient preferences should be taken into account and that any decisions
+regarding diet should be agreed upon between the patient and the provider.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Eohilia. All approvals
+are provided for the duration noted below. Because of the specialized skills required for
+evaluation and diagnosis of patients treated with Eohilia as well as the monitoring required
+for adverse events and long-term efficacy, approval requires Eohilia to be prescribed by or in
+consultation with a physician who specializes in the condition being treated.
+• Eohilia™ (budesonide oral suspension (Takeda)
+is(are) covered as medically necessary when the following criteria is(are) met for
+FDA-approved indication(s) or other uses with supportive evidence (if applicable):
+FDA-Approved Indication
+1. Eosinophilic Esophagitis. Approve for 12 weeks, if the patient meets ALL of the
+following (A, B, C, D, E and F):
+A) Patient is ≥ 11 years of age; AND
+B) Patient has a diagnosis of eosinophilic esophagitis as confirmed by an endoscopic
+biopsy demonstrating ≥ 15 intraepithelial eosinophils per high-power field; AND
+C) Patient meets ONE of the following (i or ii):
+i. Patient has received at least 8 weeks of therapy with a proton pump inhibitor; OR
+Note: Treatment with a proton pump inhibitor currently or at any time in the
+past would count toward this requirement.
+ii. According to the prescriber, the patient has severe disease with esophageal
+stricture; AND
+D) Patient meets ONE of the following (i or ii):
+i. Patient has tried dietary modifications to manage eosinophilic esophagitis; OR
+ii. The prescriber has determined that the patient is not an appropriate candidate
+for dietary modifications; AND
+Note: Examples of dietary modifications to treat eosinophilic esophagitis include
+an elemental diet or an elimination diet.
+E) Patients meets ONE of the following (i or ii):
+i. Patient is currently receiving a course of Eohilia, and additional medication is
+needed to complete a 12-week course of treatment; OR
+Note: The maximum recommended treatment is for 12 weeks. For a patient who
+has started therapy but has not completed 12 weeks, approve the remaining
+number of weeks for the patient to receive a total of 12 weeks.
+ii. Patient meets ONE of the following (a or b):
+a. Patient has not been treated with Eohilia within the previous 6 months; OR
+b. According to the prescriber, the patient is experiencing recurrent worsening
+dysphagia after discontinuing Eohilia therapy; AND
+F) The medication is prescribed by or in consultation with an allergist or
+gastroenterologist.
+3 Pages - Cigna National Formulary Coverage - Policy:Gastroenterology – Eohilia Prior Authorization Policy
+CONDITIONS NOT COVERED
+• Eohilia™ (budesonide oral suspension (Takeda)
+is(are) considered experimental, investigational, or unproven for ANY other
+use(s).
+REFERENCES
+1. Eohilia™ suspension [prescribing information]. Lexington, MA: Takeda; May 2025.
+2. Hirano I, Collins MH, Katzka DA, et al. Budesonide oral suspension improves outcomes in
+patients with eosinophilic esophagitis: results from a phase 3 trial. Clin Gastroenterol
+Hepatol. 2022;20(3):525-534.
+3. Dellon ES, Katzka DA, Collins MH, et al. Budesonide oral suspension improves
+symptomatic, endoscopic, and histologic parameters compared with placebo in patients
+with eosinophilic esophagitis. Gastroenterology. 2017;152(4):776-786.
+4. Dellon ES, Collins MH, Katzka DA, et al. Long-term treatment of eosinophilic esophagitis
+with budesonide oral suspension. Clin Gastroenterol Hepatol. 2022;20(7):1488-1498.
+5. Dellon ES, Muir AB, Katzka DA, et al. ACG Clinical Guideline: Diagnosis and
+Management of Eosinophilic Esophagitis. Am J Gastrenterol. 2025;120(1):31-59.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 03/06/2024
+Annual No criteria changes. 03/05/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and
+services are provided exclusively by or through such operating subsidiaries, including Cigna
+Health and Life Insurance Company, Connecticut General Life Insurance Company, Evernorth
+Behavioral Health, Inc., Cigna Health Management, Inc., and HMO or service company
+subsidiaries of The Cigna Group. © 2024 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Gastroenterology – Eohilia Prior Authorization Policy

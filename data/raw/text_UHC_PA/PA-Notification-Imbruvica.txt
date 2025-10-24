@@ -1,0 +1,172 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1124-15
+Program Prior Authorization/Notification
+Medication Imbruvica® (ibrutinib)
+P&T Approval Date 2/2014, 2/2015, 4/2015, 4/2016, 3/2017, 9/2017, 9/2018, 9/2019, 9/2020,
+10/2021, 10/2022, 10/2023, 10/2024
+Effective Date 1/1/2025
+1. Background:
+Imbruvica® (ibrutinib) is a kinase inhibitor indicated for the treatment of adult patients with the
+following: chronic lymphocytic leukemia (CLL)/Small lymphocytic lymphoma (SLL); chronic
+lymphocytic leukemia (CLL)/SLL with 17p deletion; and Waldenström’s macroglobulinemia
+(WM). Imbruvica is also FDA approved for the treatment of adult and pediatric patients age 1 year
+and older with chronic graft versus host disease (cGVHD) after failure of one or more lines of
+systemic therapy.1
+The National Cancer Comprehensive Network (NCCN) also recommends the use of Imbruvica for
+the B-cell lymphoma types: extranodal marginal zone lymphoma (EMZL) of the stomach and of
+nongastric sites (noncutaneous), mantle cell lymphoma (MCL), diffuse large B-cell, HIV-related B-
+cell, high grade B-cell lymphoma, and post-transplant lymphoproliferative disorders. NCCN also
+recommends its use for primary CNS lymphoma and hairy cell leukemia.2
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of 19
+years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or under
+some circumstances. Some states also mandate usage of other Compendium references. Where such
+mandates apply, they supersede language in the benefit document or in the notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Imbruvica will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. B-Cell Lymphoma
+1. Initial Authorization
+a. Imbruvica will be approved based on one of the following criteria:
+i. Both of the following:
+© 2024 UnitedHealthcare Services, Inc.
+1
+(a) Diagnosis of mantle cell lymphoma (MCL)
+-AND-
+(b) One of the following:
+i. Patient has received at least one prior therapy for MCL
+ii. Used in pre-treatment therapy in combination with Rituxan (rituximab)
+to limit the number of cycles with RHyperCVAD (rituximab,
+cyclophosphamide, vincristine, doxorubicin, and dexamethasone)
+regimen
+-OR-
+ii. Diagnosis of one of the following:
+(a) Chronic Lymphocytic Leukemia (CLL)
+(b) Small Lymphocytic Lymphoma (SLL)
+-OR-
+iii. Both of the following:
+(a) Diagnosis of one of the following:
+i. Histologic transformation to diffuse large B-cell lymphoma
+ii. Post-transplant lymphoproliferative disorders
+iii. Extranodal marginal zone lymphoma (EMZL) of the stomach
+iv. EMZL of nongastric sites (noncutaneous)
+v. Diffuse large B-cell lymphoma (non-GCB DLBCL and non-candidate
+for transplant)
+vi. HIV-related B-cell lymphoma
+vii. High grade B-cell lymphoma
+viii. Hairy cell leukemia
+ix. Nodal or splenic marginal zone lymphoma (MZL)
+-AND-
+(b) Used as second-line or a subsequent therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Imbruvica will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Imbruvica
+therapy
+© 2024 UnitedHealthcare Services, Inc.
+2
+Authorization will be issued for 12 months.
+C. Waldenström's Macroglobulinemia/Lymphoplasmacytic Lymphoma
+1. Initial Authorization
+a. Imbruvica will be approved based on the following criterion:
+(1) Diagnosis of Waldenström's Macroglobulinemia/Lymphoplasmacytic
+Lymphoma
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Imbruvica will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Imbruvica
+therapy
+Authorization will be issued for 12 months.
+D. Chronic Graft Versus Host Disease
+1. Initial Authorization
+a. Imbruvica will be approved based on the following criterion:
+(1) Diagnosis of chronic graft versus host disease
+-AND-
+(2) History of failure of at least one other systemic therapy [e.g., corticosteroids,
+mycophenolate, etc.]
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Imbruvica will be approved based on the following criterion:
+(1) Patient shows evidence of positive clinical response while on Imbruvica therapy
+Authorization will be issued for 12 months.
+E. Primary CNS Lymphoma
+1. Initial Authorization
+a. Imbruvica will be approved based on the following criterion:
+© 2024 UnitedHealthcare Services, Inc.
+3
+(1) Both of the following:
+(a) Diagnosis of primary CNS lymphoma
+-AND-
+(b) One of the following:
+i. Used as second-line or a subsequent therapy
+ii. Used as induction therapy if patient is unsuitable or intolerant to high-
+dose methotrexate
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Imbruvica will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Imbruvica
+therapy
+Authorization will be issued for 12 months.
+F. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim
+logic. Use of automated approval and re-approval processes varies by program and/or
+therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Imbruvica [package insert]. South San Francisco, CA: Pharmacyclics, LLC. May 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+https://www.nccn.org/compendia-templates/compendia/drugs-and-biologics-compendia.
+Accessed September 11, 2024.
+© 2024 UnitedHealthcare Services, Inc.
+4
+Program Prior Authorization/Notification - Imbruvica (ibrutinib)
+Change Control
+2/2014 New program for Imbruvica approved by FDA on 11/13/2013.
+9/2014 Administrative change - Tried/Failed exemption for State of New Jersey
+removed.
+2/2015 Annual review. Added coverage for CLL with del(17p). Updated
+background and references.
+4/2015 Off-cycle review. Revised CLL/SLL and WM/Lymphoplasmacytic
+Lymphoma per updated PI & NCCN.
+4/2016 Annual review. Moved MCL, CLL and SLL criteria under the general
+diagnosis of NHL. Updated references.
+3/2017 Annual review. Added coverage for Marginal Zone Lymphoma (MZL).
+Updated background and references.
+9/2017 Added new indication of chronic graft versus host disease. Updated
+background and references.
+9/2018 Annual review. Revised coverage criteria. Added coverage for B-Cell
+lymphoma types and CNS lymphoma. Updated background and
+references.
+9/2019 Annual review. Updated lymphoma based on NCCN guidelines.
+Updated references. Added general NCCN recommended review
+criteria.
+3/2020 Administrative change to correct formatting/numbering.
+9/2020 Annual review. Updated lymphoma criteria based on NCCN guidelines.
+Updated background and references.
+10/2021 Annual review. No changes to coverage criteria. Updated references.
+10/2022 Annual review. Updated background with approval for chronic graft-
+versus-host disease (cGVHD) for pediatric patients per prescribing
+information. Removed coverage for Follicular Lymphoma (grade 1-2)
+as no longer recommended by NCCN guidelines. Administrative
+change to correct formatting/numbering. Added state mandate. Updated
+references.
+10/2023 Annual review. Updated background with withdrawal of MCL and
+MZL indications from FDA label as well as NCCN recommendations.
+Updated B-Cell lymphomas with terminology changes. Updated
+references.
+10/2024 Annual review. No changes to coverage criteria. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+5

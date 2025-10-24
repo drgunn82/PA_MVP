@@ -1,0 +1,244 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Inflammatory Conditions – Litfulo Prior Authorization Policy
+• Litfulo™ (ritlecitinib capsules – Pfizer)
+REVIEW DATE: 07/16/2025
+I NSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR
+PLAN DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE
+BASED. FOR EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC
+ADDRESSED IN A COVERAGE POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES
+THE INFORMATION IN THE COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE,
+BENEFITS ARE ULTIMATELY DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS
+IN EACH SPECIFIC INSTANCE REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON
+THE DATE OF SERVICE; 2) ANY APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING
+COVERAGE POLICIES AND; 4) THE SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED
+ON ITS OWN MERITS. MEDICAL DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE
+DISCRETION IN MAKING INDIVIDUAL COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON
+SPECIFIC CIRCUMSTANCES, REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE
+WITH THE RELEVANT CRITERIA OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR
+PROCEDURE CODE(S). REIMBURSEMENT IS NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE
+NOT COVERED UNDER THIS COVERAGE POLICY (SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE
+MOST APPROPRIATE CODES AS OF THE EFFECTIVE DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT
+ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE
+POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES ARE NOT
+RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS, DELEGATED
+VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Litfulo, a kinase inhibitor, is indicated for the treatment of severe alopecia areata
+in patients ≥ 12 years of age.1 It inhibits the janus kinase 3 (JAK) and tyrosine
+kinase expressed in hepatocellular carcinoma (TEC) pathways.
+Guidelines
+Although specific drugs are not mentioned, JAK inhibitors (JAKis), as a therapeutic
+class, are addressed in an international expert opinion on treatments for alopecia
+areata (2020).2 JAKis are identified among the therapies for treatment of extensive
+hair loss. First-line treatments for adults include high- or super-high potency topical
+corticosteroids and/or systemic corticosteroids. Steroid-sparing therapies to
+mitigate the risks associated with prolonged use of corticosteroids include
+cyclosporine, methotrexate, azathioprine, and JAKis. Based on expert opinion, JAKis
+are considered the ideal option amongst systemic, steroid-sparing agents.
+Page 1 of 5 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Litfulo Prior Authorization
+Policy
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Litfulo. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Litfulo as well as the
+monitoring required for adverse events and long-term efficacy, initial approval
+requires Litfulo to be prescribed by or in consultation with a physician who
+specializes in the condition being treated.
+• Litfulo™ (ritlecitinib capsules – Pfizer)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Alopecia Areata. Approve for the duration noted if the patient meets ONE of
+the following (A or B):
+Note: Alopecia universalis and alopecia totalis are subtypes of alopecia areata.
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the
+following (i, ii, iii, iv, and v):
+i. Patient is ≥ 12 years of age; AND
+ii. Patient has a current episode of alopecia areata lasting for ≥ 6 months;
+AND
+iii. Patient has ≥ 50% scalp hair loss; AND
+iv. Patient has tried at least ONE of the following for alopecia areata (a or b):
+a) Conventional systemic therapy; OR
+Note: Examples of conventional systemic therapies include
+corticosteroids, methotrexate, and cyclosporine. An exception to the
+requirement for a trial of one conventional systemic agent can be
+made if the patient has already tried Leqselvi (deuruxolitinib tablets)
+or Olumiant (baricitinib tablets).
+b) High- or super-high potency topical corticosteroid; AND
+v. The medication is prescribed by or in consultation with a dermatologist;
+OR
+B) Patient is Currently Receiving Litfulo. Approve for 1 year if the patient meets
+ALL of the following (i, ii, iii, and iv):
+i. Patient is ≥ 12 years of age; AND
+ii. Patient has been established on Litfulo for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with the requested drug is reviewed under criterion A
+(Initial Therapy).
+iii. Patient experienced a beneficial clinical response, defined as improvement
+from baseline (prior to initiating Litfulo) in extent and density of scalp hair
+loss; AND
+Page 2 of 5 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Litfulo Prior Authorization
+Policy
+iv. According to the prescriber, the patient continues to require systemic
+therapy for treatment of alopecia areata.
+Note: International consensus states that systemic treatment is best
+discontinued once complete regrowth has been achieved and maintained
+for 6 months or when regrowth is sufficient to be managed topically.
+CONDITIONS NOT COVERED
+• Litfulo™ (ritlecitinib capsules – Pfizer)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Concurrent Use with a Biologic or with a Targeted Synthetic Oral Small
+Molecule Drug. This medication should not be administered in combination
+with another biologic or with a targeted synthetic oral small molecule drug used
+for an inflammatory condition (see Appendix for examples). Combination
+therapy is generally not recommended due to a potentially higher rate of
+adverse events and lack of controlled clinical data supporting additive efficacy.
+2. Concurrent Use with a Topical Janus Kinase Inhibitor (JAKi).1 Litfulo
+should not be administered in combination with a topical JAKi. Combination
+therapy is generally not recommended due to a potential for a higher rate of
+adverse effects and lack of evidence for additive efficacy.
+Note: Examples include Opzelura (ruxolitinib cream).
+3. Concurrent Use with a Biologic Immunomodulator. Litfulo is not
+recommended in combination with biologic immunomodulators.1
+Note: Examples include Adbry (tralokinumab-ldrm subcutaneous injection),
+Cinqair (reslizumab intravenous), Dupixent (dupilumab subcutaneous injection),
+Fasenra (benralizumab subcutaneous injection), Nucala (mepolizumab
+subcutaneous injection), Tezspire (tezepelumab-ekko subcutaneous injection),
+and Xolair (omalizumab subcutaneous injection).
+4. Concurrent Use with Other Potent Immunosuppressants (e.g.,
+cyclosporine, azathioprine).1 Co-administration with other potent
+immunosuppressive drugs has the risk of added immunosuppression and has not
+been evaluated.
+REFERENCES
+1. Litfulo® capsules [prescribing information]. New York, NY: Pfizer; June 2023.
+2. Meah N, Wall D, York K, et al. The Alopecia Areata Consensus of Experts (ACE) study: Results of
+an international expert opinion on treatments for alopecia areata. J Am Acad Dermatol.
+2020;83:123-30.
+Page 3 of 5 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Litfulo Prior Authorization
+Policy
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 07/05/2023
+Selected Alopecia Areata: Listed alopecia universalis and alopecia totalis as 07/26/2023
+Revision subtypes of alopecia areata. Updated criteria for trial of systemic
+therapy to more specifically state conventional systemic therapy while
+allowing an exception if the patient has already tried Olumiant.
+Annual No criteria changes. 07/17/2024
+Revision
+Selected Alopecia Areata: Updated the exception to the requirement of a trial 08/21/2024
+Revision of one conventional systemic agent to include a previous trial of
+Leqselvi. Previously, only Olumiant was listed in the exception.
+Additionally, for the option previous trial of a topical corticosteroid,
+specified trial to consist of a high- or super-high potency topical
+corticosteroid.
+Selected Conditions Not Covered: Concurrent use with a Biologic or with a 09/11/2024
+Revision Targeted Synthetic Oral Small Molecule Drug was added. Additionally,
+Concomitant Use with an Oral or Topical JAK Inhibitor was changed to
+“Concomitant Use with a Topical JAK Inhibitor.”
+Annual No criteria changes. 07/16/2025
+Revision
+APPENDIX
+Mechanism of Action Examples of Indications*
+Biologics
+Adalimumab SC Products (Humira®, Inhibition of TNF AS, CD, JIA, PsO, PsA, RA, UC
+biosimilars)
+Cimzia® (certolizumab pegol SC Inhibition of TNF AS, CD, nr-axSpA, PsO, PsA,
+injection) RA
+Etanercept SC Products (Enbrel®, Inhibition of TNF AS, JIA, PsO, PsA, RA
+biosimilars)
+Infliximab IV Products (Remicade®, Inhibition of TNF AS, CD, PsO, PsA, RA, UC
+biosimilars)
+Zymfentra® (infliximab-dyyb SC Inhibition of TNF CD, UC
+injection)
+Simponi®, Simponi Aria® (golimumab Inhibition of TNF SC formulation: AS, PsA, RA,
+SC injection, golimumab IV infusion) UC
+IV formulation: AS, PJIA,
+PsA, RA
+Tocilizumab Products (Actemra® IV, Inhibition of IL-6 SC formulation: PJIA, RA,
+biosimilar; Actemra SC, biosimilar) SJIA
+IV formulation: PJIA, RA,
+SJIA
+Kevzara® (sarilumab SC injection) Inhibition of IL-6 RA
+Orencia® (abatacept IV infusion, T-cell costimulation SC formulation: JIA, PSA, RA
+abatacept SC injection) modulator IV formulation: JIA, PsA, RA
+Rituximab IV Products (Rituxan®, CD20-directed cytolytic RA
+biosimilars) antibody
+Kineret® (anakinra SC injection) Inhibition of IL-1 JIA^, RA
+Omvoh® (mirikizumab IV infusion, SC Inhibition of IL-23 CD, UC
+injection)
+Ustekinumab Products (Stelara® IV, Inhibition of IL-12/23 SC formulation: CD, PsO,
+biosimilar; Stelara SC, biosimilar) PsA, UC
+IV formulation: CD, UC
+Page 4 of 5 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Litfulo Prior Authorization
+Policy
+Siliq® (brodalumab SC injection) Inhibition of IL-17 PsO
+Cosentyx® (secukinumab SC injection; Inhibition of IL-17A SC formulation: AS, ERA, nr-
+secukinumab IV infusion) axSpA, PsO, PsA
+IV formulation: AS, nr-
+axSpA, PsA
+Taltz® (ixekizumab SC injection) Inhibition of IL-17A AS, nr-axSpA, PsO, PsA
+Bimzelx® (bimekizumab-bkzx SC Inhibition of IL- PsO, AS, nr-axSpA, PsA
+injection) 17A/17F
+Ilumya® (tildrakizumab-asmn SC Inhibition of IL-23 PsO
+injection)
+Skyrizi® (risankizumab-rzaa SC Inhibition of IL-23 SC formulation: CD, PSA,
+injection, risankizumab-rzaa IV infusion) PsO, UC
+IV formulation: CD, UC
+Tremfya® (guselkumab SC injection, Inhibition of IL-23 SC formulation: CD, PsA,
+guselkumab IV infusion) PsO, UC
+IV formulation: CD, UC
+Entyvio® (vedolizumab IV infusion, Integrin receptor CD, UC
+vedolizumab SC injection) antagonist
+Oral Therapies/Targeted Synthetic Oral Small Molecule Drugs
+Otezla® (apremilast tablets) Inhibition of PDE4 PsO, PsA
+Cibinqo™ (abrocitinib tablets) Inhibition of JAK AD
+pathways
+Olumiant® (baricitinib tablets) Inhibition of JAK RA, AA
+pathways
+Litfulo® (ritlecitinib capsules) Inhibition of JAK AA
+pathways
+Leqselvi® (deuruxolitinib tablets) Inhibition of JAK AA
+pathways
+Rinvoq® (upadacitinib extended-release Inhibition of JAK AD, AS, nr-axSpA, RA, PsA,
+tablets) pathways CD, UC
+Rinvoq® LQ (upadacitinib oral solution) Inhibition of JAK PsA, PJIA
+pathways
+Sotyktu® (deucravacitinib tablets) Inhibition of TYK2 PsO
+Xeljanz® (tofacitinib tablets/oral Inhibition of JAK RA, PJIA, PsA, UC
+solution) pathways
+Xeljanz® XR (tofacitinib extended- Inhibition of JAK RA, PsA, UC
+release tablets) pathways
+Zeposia® (ozanimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+Velsipity® (etrasimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+* Not an all-inclusive list of indications. Refer to the prescribing information for the respective agent for
+FDA-approved indications; SC – Subcutaneous; TNF – Tumor necrosis factor; AS – Ankylosing
+spondylitis; CD – Crohn’s disease; JIA – Juvenile idiopathic arthritis; PsO – Plaque psoriasis; PsA –
+Psoriatic arthritis; RA – Rheumatoid arthritis; UC – Ulcerative colitis; nr-axSpA – Non-radiographic axial
+spondyloarthritis; IV – Intravenous, PJIA – Polyarticular juvenile idiopathic arthritis; IL – Interleukin;
+SJIA – Systemic juvenile idiopathic arthritis; ^ Off-label use of Kineret in JIA supported in guidelines;
+ERA – Enthesitis-related arthritis; DMARD – Disease-modifying antirheumatic drug; PDE4 –
+Phosphodiesterase 4; JAK – Janus kinase; AD – Atopic dermatitis; AA – Alopecia areata; TYK2 – Tyrosine
+kinase 2.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 5 of 5 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Litfulo Prior Authorization
+Policy

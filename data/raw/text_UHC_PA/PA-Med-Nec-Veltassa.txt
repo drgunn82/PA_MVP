@@ -1,0 +1,74 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2100-10
+Program Prior Authorization/Medical Necessity
+Medication Lokelma® (sodium zirconium cyclosilicate), Veltassa® (patiromer)
+P&T Approval Date 6/2016, 6/2017, 8/2018, 12/2018, 3/2020, 6/2021, 6/2022, 6/2023 6/2024,
+7/2024
+Effective Date 10/1/2024
+1. Background:
+Lokelma and Veltassa are indicated for the treatment of hyperkalemia. Lokelma and
+Veltassa should not be used as an emergency treatment for life threatening hyperkalemia
+because of its delayed onset of action. Non-emergent hyperkalemia is generally treated by
+addressing the reversible causes, such as removing drugs that may be causing impaired
+renal function, removing or adjusting medications that directly cause hyperkalemia, and
+initiating therapies for potassium removal.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Lokelma and Veltassa will be approved based on all of the following criteria:
+a. Diagnosis of non-life threatening hyperkalemia
+b. Where clinically appropriate, loop or thiazide diuretic therapy for potassium
+removal has failed
+c. Patient follows a low potassium diet (less than or equal to 3 grams per day)
+Authorization will be issued for 12 months
+B. Reauthorization
+1. Lokelma or Veltassa will be approved based on both of the following criteria:
+a. Patient has a positive clinical response to Lokelma or Veltassa therapy and
+continues to require treatment for hyperkalemia
+b. Patient follows a low potassium diet (less than or equal to 3 grams per day)
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+© 2024 UnitedHealthcare Services Inc.
+1
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class
+• Supply limits may be in place
+4. References:
+1. Veltassa [package insert]. Redwood City, CA; Vifor Pharma, Inc.: October 2023.
+2. Weir MR, Bakris GL, Bushinsky DA, et al. Patiromer in patients with kidney disease and
+hyperkalemia receiving RAAS inhibitors. N Engl J Med 2015; 372:211.
+3. Palmer BF. Managing hyperkalemia caused by inhibitors of the renin-angiotensin-aldosterone
+system. N Engl J Med 2004; 351:585.
+4. Khanna A, White WB. The management of hyperkalemia in patients with cardiovascular
+disease. Am J Med. 2009 Mar. 122(3):215-21
+5. Lokelma [package insert]. Wilmington, DE; AstraZeneca: February 2024.
+6. Mount D. Treatment and prevention of hyperkalemia in adults. Sterns, R (Ed). UpToDate.
+Waltham, MA: UpToDate Inc. February 2024. Accessed May, 1 2024.
+7. De Nicola L, Ferraro PM, Montagnani A, Pontremoli R, Dentali F, Sesti G.
+Recommendations for the management of hyperkalemia in patients receiving renin-
+angiotensin-aldosterone system inhibitors. Intern Emerg Med. 2024 Mar;19(2):295-306. doi:
+10.1007/s11739-023-03427-0. Epub 2023 Sep 29. PMID: 37775712; PMCID:
+PMC10954964.
+8. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic
+Kidney Disease. Kidney Int. 2024;105(4S): S117–S314. Kidney Disease: Improving Global
+Outcomes (KDIGO) Diabetes Work Group.
+Program Prior Authorization/Medical Necessity – Veltassa, Lokelma
+Change Control
+Date Change
+6/2016 New program
+6/2017 Annual review. Updated reference.
+8/2018 Annual review. Updated references.
+12/2018 Added Lokelma. Updated references.
+3/2020 Updated references.
+6/2021 Updated references.
+6/2022 Updated references.
+6/2023 Annual review. Updated references.
+6/2024 Annual review. Updated references.
+7/2024 Removed requirement to adjust medications.
+© 2024 UnitedHealthcare Services Inc.
+2

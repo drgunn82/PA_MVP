@@ -1,0 +1,210 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Antibiotics (Inhaled) – Tobramycin Inhalation Solution Prior
+Authorization Policy
+• Bethkis® (tobramycin inhalation solution – Chiesi, generic)
+• Kitabis® (tobramycin inhalation solution – Pari, authorized generic)
+• TOBI® (tobramycin inhalation solution – Mylan, generic)
+REVIEW DATE: 03/12/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+The tobramycin inhalation solutions are aminoglycoside antibiotics indicated for the
+management of cystic fibrosis (CF) in patients with Pseudomonas aeruginosa.1-3 TOBI
+(generic) and Kitabis (authorized generic) are indicated for the management of CF in
+patients ≥ 6 years of age.1,2 Safety and efficacy have not been demonstrated in patients <
+6 years of age, patients with forced expiratory volume in 1 second (FEV ) < 25% or > 75%
+1
+predicted, or patients colonized with Burkholderia cepacia. Bethkis (generic) is indicated for
+the management of CF patients with P. aeruginosa.3 Safety and efficacy have not been
+demonstrated in patients < 6 years of age, patients with FEV < 40% or > 80% predicted,
+1
+or patients colonized with B. cepacia.
+Guidelines
+The Cystic Fibrosis Foundation (CFF) Pulmonary Therapeutics Committee published
+recommendations for the use of chronic medications in the management of CF lung disease
+(2013).4 In patients ≥ 6 years of age with CF and moderate-to-severe lung disease with P.
+aeruginosa persistently present in cultures of the airways, chronic use of inhaled tobramycin
+is strongly recommended to improve lung function and quality of life, and reduce
+exacerbations. For mild disease, the Committee recommends chronic use of inhaled
+Page 1 of 6 - Cigna National Formulary Coverage - Policy:Antibiotics (Inhaled) – Tobramycin Inhalation Solution
+Prior Authorization Policy
+tobramycin for patients ≥ 6 years of age with CF and P. aeruginosa persistently present in
+cultures of the airways, to reduce exacerbations.
+The CFF published a systematic review of the literature regarding eradication of initial P.
+aeruginosa infections to develop guidelines for effective prevention (2014).5 The
+recommendations pertaining to inhaled antibiotics are as follows: 1) Inhaled antibiotic
+therapy is recommended for the treatment of initial or new growth of P. aeruginosa (the
+favored antibiotic regimen is tobramycin [300 mg twice daily {BID}] for 28 days); and 2).
+Prophylactic antipseudomonal antibiotics to prevent the acquisition of P. aeruginosa are not
+recommended.
+Other Uses with Supportive Evidence
+A few trials support the efficacy of tobramycin inhalation solution (TIS) for the treatment of
+bronchiectasis with P. aeruginosa infection. A literature review concluded that in patients
+with non-CF bronchiectasis and chronic P. aeruginosa infection, TIS is effective in reducing
+the density of bacteria in sputum, which may be associated with additional clinical benefit.12
+In a randomized, double-blind, placebo-controlled study, patients received either TIS 300
+mg (n = 37) or placebo (n = 37) BID for 4 weeks and were followed for an additional 2
+weeks off treatment.6 At Week 4, the TIS group had a mean 4.54 log decrease in P.
+10
+aeruginosa colony-forming units (CFU)/g of sputum compared with no change in the placebo
+group (P < 0.01). At Week 6, complete eradication of P. aeruginosa occurred in 35% of the
+patients in the TIS group compared with none in the placebo group, and 62% of patients in
+the TIS group vs. 38% of patients in the placebo group had improvements in their general
+health (odds ratio 2.7; 95% confidence interval: 1.1, 6.9).
+In a randomized, single-blind study, patients received TIS 300 mg (n = 16) or placebo (n =
+19) BID for 3 months following a 14-day course of intravenous ceftazidime and tobramycin
+and were followed for an additional 12 months.7 At the end of the study, 54.5% of patients
+in the TIS group (n = 6/11) and 29.4% of patients in the placebo group (n = 5/17) were
+free of P. aeruginosa (P = 0.048). In addition, patients in the TIS group had significantly
+fewer exacerbations (1.27 vs. 2.5; P = 0.044), hospital admissions (0.06 vs. 0.47; P =
+0.037), and hospital days (0.9 vs. 13.56; P = 0.034) than patients in the placebo group,
+respectively. No significant differences were found in pulmonary function tests.
+A double-blind, placebo-controlled, crossover study randomized 30 patients to initial TIS
+300 mg or placebo BID for 6 months, followed by a 1 month washout period and 6 months
+of therapy with the other treatment.8 During the first treatment period, TIS treatment
+resulted in a significant reduction in P. aeruginosa density compared with placebo (P =
+0.038). During both treatment periods, patients treated with TIS had fewer hospital
+admissions (0.15 vs. 0.75; P = 0.038) and hospital days (2.05 vs. 12.65; P = 0.047) than
+patients treated with placebo, respectively. No significant changes in the number of
+exacerbations and/or pulmonary function tests were observed.
+In an open-label trial, 41 patients received three cycles of TIS 300 mg BID for 14 days
+followed by 14 days off therapy.9 Patients were followed for an additional 40 weeks after the
+three cycles of treatment with TIS. At Week 10, there was a significant improvement from
+baseline (mean change 1.5 points; P = 0.006) in the composite pulmonary symptom score
+which included cough, shortness of breath, sputum production, fatigue, and wheezing.
+Quality of life, assessed using the St. George’s Respiratory Questionnaire, was significantly
+improved at Week 10 (mean change 9.8; P < 0.001) compared with baseline. At Week 12,
+4 Pages - Cigna National Formulary Coverage - Policy:Antibiotics (Inhaled) – Tobramycin Inhalation Solution Prior
+Authorization Policy
+22.2% of patients (n = 6/27) were considered to have P. aeruginosa eradicated from
+sputum cultures.
+A Phase III, multicenter, double-blind, placebo-controlled trial randomized adults with
+symptomatic bronchiectasis with positive P. aeruginosa sputum culture to TIS 300 mg (n =
+167) or placebo (n = 172) in addition to standard of care.13 Treatment was provided for two
+cycles, each consisting of 28 days on therapy and 28 days off therapy. At Week 16, there
+was a significant reduction in P. aeruginosa density with TIS vs. placebo (adjusted
+difference 1.74 log CFU/g; P < 0.001) and a greater improvement in the quality of life
+10
+bronchiectasis respiratory symptom score on Day 29 (adjusted mean difference 7.91; P <
+0.001). Significantly more patients were culture-negative for P. aeruginosa in the TIS group
+vs. placebo on Day 29 (29.3% vs. 10.6%, respectively).
+The American Thoracic Society (ATS) published a clinical review (2013) of non-cystic fibrosis
+bronchiectasis.10 The review lists nebulized antibiotics (e.g., colistin, gentamicin,
+tobramycin) as treatment options for the eradication or suppression of P. aeruginosa. The
+European Respiratory Society (ERS) have published guidelines (2017) for the management
+of adult bronchiectasis and recommends patients with a new isolate of P. aeruginosa be
+offered eradication antibiotic treatment which includes nebulized antibiotics (e.g., colistin,
+gentamicin, tobramycin).11 While both the ATS and ERS list nebulized colistin and
+gentamicin as treatment options for non-cystic fibrosis bronchiectasis, neither drug has a
+commercially available formulation for nebulization.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of tobramycin
+inhalation solution. All approvals are provided for the duration noted below. In cases where
+the approval is authorized in months, 1 month is equal to 30 days. Because of the
+specialized skills required for evaluation and diagnosis of patients treated with tobramycin
+inhalation solution as well as the monitoring required for adverse events and long-term
+efficacy, approval requires tobramycin inhalation solution to be prescribed by or in
+consultation with a physician who specializes in the condition being treated.
+• Bethkis® (tobramycin inhalation solution – Chiesi, generic)
+• Kitabis® (tobramycin inhalation solution – Pari, authorized generic)
+• TOBI® (tobramycin inhalation solution – Mylan, generic)
+is(are) covered as medically necessary when the following criteria is(are) met for
+FDA-approved indication(s) or other uses with supportive evidence (if applicable):
+FDA-Approved Indication
+1. Cystic Fibrosis. Approve for 1 year if the patient meets BOTH of the following (A and
+B):
+A) Patient has Pseudomonas aeruginosa in culture of the airway; AND
+Note: Examples of culture of the airway include sputum culture, oropharyngeal
+culture, bronchoalveolar lavage culture.
+B) The medication is prescribed by or in consultation with a pulmonologist or a
+physician who specializes in the treatment of cystic fibrosis.
+Other Uses with Supportive Evidence
+4 Pages - Cigna National Formulary Coverage - Policy:Antibiotics (Inhaled) – Tobramycin Inhalation Solution Prior
+Authorization Policy
+2. Bronchiectasis, Non-Cystic Fibrosis. Approve for 1 year if the patient meets ALL of
+the following (A, B, and C):
+A) Patient is ≥ 18 years of age; AND
+B) Patient has Pseudomonas aeruginosa in culture of the airway; AND
+Note: Examples of culture of the airway include sputum culture, oropharyngeal
+culture, bronchoalveolar lavage culture.
+C) The medication is prescribed by or in consultation with a pulmonologist.
+3. Continuation of Tobramycin Inhalation Solution Therapy. Approve for 1 month if
+the patient was started on tobramycin inhalation solution and is continuing a course of
+therapy.
+CONDITIONS NOT COVERED
+• Bethkis® (tobramycin inhalation solution – Chiesi, generic)
+• Kitabis® (tobramycin inhalation solution – Pari, authorized generic)
+• TOBI® (tobramycin inhalation solution – Mylan, generic)
+is(are) considered experimental, investigational, or unproven for ANY other use(s)
+including the following (this list may not be all inclusive; criteria will be updated
+as new published data are available):
+1. Nasal Rinse. Tobramycin inhalation solution is not approvable for compounding of
+tobramycin nasal rinse.
+REFERENCES
+1. TOBI® inhalation solution [prescribing information]. Morgantown, WV: Mylan; February
+2023.
+2. Kitabis® inhalation solution [prescribing information]. Midlothian, VA: Pari; April 2023.
+3. Bethkis® inhalation solution [prescribing information]. Woodstock, IL: Chiesi; February
+2023.
+4. Mogayzel PJ, Naureckas ET, Robinson KA, et al. Cystic Fibrosis Pulmonary Guidelines.
+Chronic Medications for Maintenance of Lung Health. Am J Respir Crit Care Med. 2013;
+187:680-689.
+5. Mogayzel PJ, Naureckas ET, Robinson KA, et al; and the Cystic Fibrosis Foundation
+Pulmonary Clinical Practice Guidelines Committee. Pharmacologic approaches to
+prevention and eradication of initial Pseudomonas aeruginosa infection. Ann Am Thorac
+Soc. 2014;11(10):1640-1650.
+6. Barker AF, Couch L, Fiel SB, et al. Tobramycin solution for inhalation reduces sputum
+Pseudomonas aeruginosa density in bronchiectasis. Am J Respir Crit Care Med. 2000;
+162:481-485.
+7. Orriols R, Hernando R, Ferrer A, et al. Eradication therapy against Pseudomonas
+aeruginosa in non-cystic fibrosis bronchiectasis. Respiration. 2015; 90:299-305.
+8. Drobnic ME, Sune P, Montoro JB, et al. Inhaled tobramycin in non-cystic fibrosis patients
+with bronchiectasis and chronic bronchial infection with Pseudomonas aeruginosa. Ann
+Pharmacother. 2005; 39:39-44.
+9. Scheinberg P, Shore E. A pilot study of the safety and efficacy of tobramycin solution for
+inhalation in patients with severe bronchiectasis. Chest. 2005; 127:1420-1426.
+10. McShane PJ, Naureckas ET, Tino G, Strek ME. Non-cystic fibrosis bronchiectasis. Am J
+Respir Crit Care Med. 2013; 188:647-656.
+11. Polverino E, Goeminne PC, McDonnell, et al. European Respiratory Society guidelines for
+the management of adult bronchiectasis. Eur Respir J. 2017; 50:1700629.
+4 Pages - Cigna National Formulary Coverage - Policy:Antibiotics (Inhaled) – Tobramycin Inhalation Solution Prior
+Authorization Policy
+12. Elborn JS, BLasi F, Haworth CS, et al. Bronchiectasis and inhaled tobramycin: A
+literature review. Respir Med. 2022:192:106728.
+13. Guan WJ, Xu JF, Luo H, et al. A double-blind randomized placebo-controlled Phase III
+trial of tobramycin inhalation solution in adults with bronchiectasis with Pseudomonas
+aeruginosa infection. Chest. 2023;163(1):64-76.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 03/29/2023
+Revision
+Annual Generic to Bethkis was added to the policy. No criteria 03/27/2024
+Revision changes.
+Annual No criteria changes. 03/12/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and
+services are provided exclusively by or through such operating subsidiaries, including Cigna
+Health and Life Insurance Company, Connecticut General Life Insurance Company,
+Evernorth Behavioral Health, Inc., Cigna Health Management, Inc., and HMO or service
+company subsidiaries of The Cigna Group. © 2025 The Cigna Group.
+4 Pages - Cigna National Formulary Coverage - Policy:Antibiotics (Inhaled) – Tobramycin Inhalation Solution Prior
+Authorization Policy

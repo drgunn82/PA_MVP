@@ -1,0 +1,704 @@
+(UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2202-15
+Program Prior Authorization/Medical Necessity
+Medication Rinvoq® (upadacitinib) extended-release tablets/ Rinvoq® LQ (upadacitinib)
+oral solution
+P&T Approval Date 5/2020, 5/2021, 6/2021, 12/2021, 2/2022, 3/2022, 5/2022, 6/2022, 7/2022,
+12/2022, 7/2023, 9/2023, 6/2024, 4/2025, 6/2025
+Effective Date 8/17/2025
+1. Background:
+Rinvoq is a Janus kinase (JAK) inhibitor. Rinvoq and/or Rinvoq LQ is indicated for the treatment of:
+• Adults with moderately to severely active rheumatoid arthritis (RA) who have had an inadequate
+response or intolerance to one or more TNF tumor necrosis factor (TNF) blockers.
+Limitation of Use:
+The use of Rinvoq in combination with other JAK inhibitors, biologic DMARDs, or with potent
+immunosuppressants such as azathioprine and cyclosporine is not recommended.
+• Adults and pediatric patients 2 years of age and older with active psoriatic arthritis who have an
+inadequate response or intolerance to one or more TNF blockers.
+Limitation of Use:
+Rinvoq/Rinvoq LQ is not recommended for use in combination with other JAK inhibitors,
+biologic DMARDs, or with potent immunosuppressants such as azathioprine and cyclosporine.
+• Adults and pediatric patients 12 years of age and older with refractory, moderate to severe atopic
+dermatitis whose disease is not adequately controlled with other systemic drug products,
+including biologics, or when use of those therapies are inadvisable.
+Limitation of Use:
+Rinvoq is not recommended in combination with other JAK inhibitors, biologic
+immunomodulators, or with other immunosuppressants.
+• Adults with moderately to severely active ulcerative colitis who have had an inadequate response
+or intolerance to one or more TNF blockers.
+Limitations of Use:
+Rinvoq is not recommended for use in combination with other JAK inhibitors, biological
+therapies for ulcerative colitis, or with other potent immunosuppressants such as azathioprine and
+cyclosporine.
+Rinvoq should be discontinued if adequate therapeutic response is not achieved with the 30 mg
+dosage. Use the lowest effective dosage needed to maintain response.
+• Adults with active ankylosing spondylitis who have had an inadequate response or intolerance to
+one or more TNF blockers.
+© 2025 UnitedHealthcare Services, Inc.
+1
+Limitations of Use:
+Rinvoq is not recommended for use in combination with other JAK inhibitors, biologic
+DMARDs, or with potent immunosuppressants such as azathioprine and cyclosporine.
+• Adults with active non-radiographic axial spondyloarthritis with objective signs of inflammation
+who have had an inadequate response or intolerance to TNF blocker therapy.
+Limitations of Use:
+Rinvoq is not recommended for use in combination with other JAK inhibitors, biologic
+DMARDs, or with potent immunosuppressants such as azathioprine and cyclosporine.
+• Adults with moderately to severely active Crohn’s disease who have had an inadequate response
+or intolerance to one or more TNF blockers.
+Limitations of Use:
+Rinvoq is not recommended for use in combination with other JAK inhibitors, biological
+therapies for Crohn’s disease, or with potent immunosuppressants such as azathioprine and
+cyclosporine
+• Patients 2 years of age and older with active polyarticular juvenile idiopathic arthritis who have
+an inadequate response or intolerance to one or more TNF blockers.
+Limitation of Use:
+Rinvoq/Rinvoq LQ is not recommended for use in combination with other JAK inhibitors,
+biologic DMARDs, or with potent immunosuppressants such as azathioprine and cyclosporine.
+• Adults with giant cell arteritis.
+Limitation of Use:
+Rinvoq is not recommended for use in combination with other JAK inhibitors, biologic
+DMARDs, or with potent immunosuppressants such as azathioprine and cyclosporine.
+2. Coverage Criteriaa:
+A. Rheumatoid Arthritis (RA)
+1. Initial Authorization
+a. Rinvoq will be approved based on all of the following criteria:
+(1) Diagnosis of moderately to severely active RA
+-AND-
+(2) One of the following:
+(a) Both of the following
+i. One of the following:
+© 2025 UnitedHealthcare Services, Inc.
+2
+• History of failure to a 3 month trial of one non-biologic disease
+modifying anti-rheumatic drug (DMARD) [e.g., methotrexate,
+leflunomide, sulfasalazine, hydroxychloroquine] at maximally indicated
+doses, unless contraindicated or clinically significant adverse effects are
+experienced (document drug, date and duration of trial)b
+-OR-
+• Patient has been previously treated with targeted immunomodulator FDA-
+approved for the treatment of rheumatoid arthritis as documented by
+claims history or submission of medical records (Document drug, date,
+and duration of therapy) [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+adalimumab, Simponi (golimumab), Orencia (abatacept), Olumiant
+(baricitinib), Xeljanz/Xeljanz XR (tofacitinib)]
+-AND-
+ii. One of the following:
+• History of failure, contraindication, or intolerance to at least one TNF
+inhibitor^
+-OR-
+• Patient has a documented needle-phobia to the degree that the patient has
+previously refused any injectable therapy or medical procedure (refer to
+DSM-V-TR 300.29 for specific phobia diagnostic criteria6).
+-OR-
+(b) Both of the following:
+i. Patient is currently on Rinvoq therapy as documented by claims history or
+submission of medical records (Document date and duration of therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from the Abbvie sponsored
+Rinvoq Complete program (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a current
+user of Rinvoq*
+-AND-
+(3) Patient is not receiving Rinvoq in combination with either of the following:
+(a) Targeted immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Xeljanz (tofacitinib),
+© 2025 UnitedHealthcare Services, Inc.
+3
+Olumiant (baricitinib)]
+(b) Potent immunosuppressant (e.g., azathioprine or cyclosporine)
+-AND-
+(4) Prescribed by or in consultation with a rheumatologist
+* Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance from
+the Abbvie sponsored Rinvoq Complete program shall be required to meet initial authorization
+criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Rinvoq will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Rinvoq therapy
+-AND-
+(2) Patient is not receiving Rinvoq in combination with either of the following:
+(a) Targeted immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Xeljanz (tofacitinib),
+Olumiant (baricitinib)]
+(b) Potent immunosuppressant (e.g., azathioprine or cyclosporine)
+Authorization will be issued for 12 months.
+B. Psoriatic Arthritis (PsA)
+1. Initial Authorization
+a. Rinvoq or Rinvoq LQ will be approved based on all of the following criteria:
+(1) Diagnosis of active psoriatic arthritis
+-AND-
+(2) One of the following:
+(a) Both of the following
+i. One of the following:
+• History of failure to a 3 month trial of methotrexate at maximally
+indicated dose, unless contraindicated or clinically significant adverse
+effects are experienced (document date and duration of trial)b
+© 2025 UnitedHealthcare Services, Inc.
+4
+-OR-
+• Patient has been previously treated with a targeted immunomodulator
+FDA-approved for the treatment of psoriatic arthritis as documented by
+claims history or submission of medical records (Document drug, date,
+and duration of therapy) [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+adalimumab, Simponi (golimumab), Orencia (abatacept), Stelara
+(ustekinumab), Skyrizi (risankizumab), Tremfya (guselkumab), Cosentyx
+(secukinumab), Taltz (ixekizumab), Olumiant (baricitinib), Otezla
+(apremilast)Xeljanz/Xeljanz XR (tofacitinib)]
+-AND-
+ii. One of the following:
+• History of failure, contraindication, or intolerance to at least one TNF
+inhibitor ^
+-OR-
+• Patient has a documented needle-phobia to the degree that the patient has
+previously refused any injectable therapy or medical procedure (refer to
+DSM-V-TR 300.29 for specific phobia diagnostic criteria6).
+-OR-
+(b) Both of the following:
+i. Patient is currently on Rinvoq or Rinvoq LQ therapy as documented by claims
+history or submission of medical records (Document date and duration of
+therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from the Abbvie sponsored
+Rinvoq Complete program (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a current
+user of Rinvoq or Rinvoq LQ*
+-AND-
+(3) Patient is not receiving Rinvoq or Rinvoq LQ in combination with either of the
+following:
+(a) Targeted immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Stelara (ustekinumab),
+Skyrizi (risankizumab), Tremfya (guselkumab), Cosentyx (secukinumab), Taltz
+(ixekizumab), Xeljanz (tofacitinib), Olumiant (baricitinib), Otezla (apremilast)]
+© 2025 UnitedHealthcare Services, Inc.
+5
+(b) Potent immunosuppressant (e.g., azathioprine or cyclosporine)
+-AND-
+(4) Prescribed by or in consultation with one of the following:
+(a) Rheumatologist
+(b) Dermatologist
+* Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance from
+the Abbvie sponsored Rinvoq Complete program shall be required to meet initial authorization
+criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Rinvoq or Rinvoq LQ will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Rinvoq or Rinvoq LQ therapy
+-AND-
+(2) Patient is not receiving Rinvoq or Rinvoq LQ in combination with either of the
+following:
+(a) Targeted immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Stelara (ustekinumab),
+Skyrizi (risankizumab), Tremfya (guselkumab), Cosentyx (secukinumab), Taltz
+(ixekizumab), Xeljanz (tofacitinib), Olumiant (baricitinib), Otezla (apremilast)]
+(b) Potent immunosuppressant (e.g., azathioprine or cyclosporine)
+Authorization will be issued for 12 months.
+C. Atopic Dermatitis
+1. Initial Authorization
+a. Rinvoq will be approved based on all of the following criteria:
+(1) Diagnosis of moderate-to-severe chronic atopic dermatitis
+-AND-
+(2) One of the following:
+(a) Both of the following:
+i. History of failure, contraindication, or intolerance to two of the following
+© 2025 UnitedHealthcare Services, Inc.
+6
+therapeutic classes of topical therapies (document drug, date of trial, and/ or
+contraindication to medication):
+a. Medium to very-high potency topical corticosteroid [e.g., Elocon
+(mometasone furoate), Synalar (fluocinolone acetonide), Lidex
+(fluocinonide)]
+b. Topical calcineurin inhibitor [e.g., Elidel (pimecrolimus), Protopic
+(tacrolimus)].¥
+c. Eucrisa (crisaborole) ¥
+-AND-
+ii. One of the following:
+a. Both of the following^:
+• Submission of medical records (e.g., chart notes, laboratory values)
+documenting a 3 month trial b of a systemic drug product for the
+treatment of atopic dermatitis [examples include, but are not limited
+to, Adbry (tralokinumab-ldrm), Dupixent (dupilumab), Ebglyss
+(lebrikizumab-lbkz), etc.Ω] (prescription claims history may be used
+in conjunction as documentation of medication use, dose, and
+duration)
+-AND-
+• Physician attests that the patient was not adequately controlled with
+the documented systemic drug product
+-OR-
+b. Physician attests that systemic treatment with all of the following, FDA-
+approved chronic atopic dermatitis therapies is inadvisable. (Document
+drug and contraindication rationale) ^
+• Adbry (tralokinumab-ldrm)
+• Dupixent (dupilumab)
+• Ebglyss (lebrikizumab-lbkz)
+-OR-
+c. Patient has a documented needle-phobia to the degree that the patient has
+previously refused any injectable therapy or medical procedure (refer to
+DSM-V-TR 300.29 for specific phobia diagnostic criteria6).
+-OR-
+(b) Both of the following:
+i. Patient is currently on Rinvoq therapy as documented by claims history or
+© 2025 UnitedHealthcare Services, Inc.
+7
+submission of medical records (Document date and duration of therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from the Abbvie sponsored Rinvoq
+Complete program (e.g., sample card which can be redeemed at a pharmacy for
+a free supply of medication) as a means to establish as a current user of Rinvoq*
+-AND-
+(3) Patient is not receiving Rinvoq in combination with either of the following:
+(a) Targeted immunomodulator [e.g., Adbry (tralokinumab-ldrm), Dupixent
+(dupilumab), Cibinqo (abrocitinib), Ebglyss (lebrikizumab-lbkz), Nemluvio
+(nemolizumab-ilto), Xeljanz/XR (tofacitinib), Olumiant (baricitinib), Opzelura
+(topical ruxolitinib)]
+(b) Potent immunosuppressant (e.g., azathioprine, cyclosporine, mycophenolate
+mofetil)
+-AND-
+(4) Prescribed by one of the following:
+(a) Dermatologist
+(b) Allergist
+(c) Immunologist
+* Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance from
+the Abbvie sponsored Rinvoq Complete program shall be required to meet initial authorization
+criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Rinvoq will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Rinvoq therapy
+-AND-
+(2) Patient is not receiving Rinvoq in combination with either of the following:
+(a) Targeted immunomodulator [e.g., Adbry (tralokinumab-ldrm), Dupixent
+(dupilumab), Cibinqo (abrocitinib), Ebglyss (lebrikizumab-lbkz), Nemluvio
+(nemolizumab-ilto), Xeljanz/XR (tofacitinib), Olumiant (baricitinib), Opzelura
+(topical ruxolitinib)]
+(b) Potent immunosuppressant (e.g., azathioprine, cyclosporine, mycophenolate
+© 2025 UnitedHealthcare Services, Inc.
+8
+mofetil)
+-AND-
+(3) Prescribed by or in consultation with one of the following:
+(a) Dermatologist
+(b) Allergist
+(c) Immunologist
+Authorization will be issued for 12 months.
+D. Ulcerative Colitis (UC)
+1. Initial Authorization
+a. Rinvoq will be approved based on all of the following criteria:
+(1) Diagnosis of moderately to severely active UC
+-AND-
+(2) One of the following:
+(a) Both of the following:
+i. One of the following:
+• Patient has had prior or concurrent inadequate response to a therapeutic
+course of oral corticosteroids and/or immunosuppressants (e.g.,
+azathioprine, 6-mercaptopurine)
+-OR-
+• Patient has been previously treated with a targeted immunomodulator
+FDA-approved for the treatment of ulcerative colitis as documented by
+claims history or submission of medical records (Document drug, date,
+and duration of therapy) [e.g., adalimumab, Simponi (golimumab), Stelara
+(ustekinumab), Xeljanz/XR (tofacitinib)]
+-AND-
+ii. One of the following:
+• History of failure, contraindication, or intolerance to at least one TNF
+inhibitor^
+-OR-
+• Patient has a documented needle-phobia to the degree that the patient has
+© 2025 UnitedHealthcare Services, Inc.
+9
+previously refused any injectable therapy or medical procedure (refer to
+DSM-V-TR 300.29 for specific phobia diagnostic criteria5).
+-OR-
+(b) Both of the following:
+i. Patient is currently on Rinvoq therapy as documented by claims history or
+submission of medical records (Document drug, date, and duration of therapy)
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from the Abbvie sponsored Rinvoq
+Complete program (e.g., sample card which can be redeemed at a pharmacy for
+a free supply of medication) as a means to establish as a current user of Rinvoq*
+-AND-
+(3) Patient is not receiving Rinvoq in combination with either of the following:
+(a) Targeted immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Xeljanz (tofacitinib),
+Olumiant (baricitinib), Stelara (ustekinumab), Skyrizi (risankizumab)]
+(b) Potent immunosuppressant (e.g., azathioprine, cyclosporine, mycophenolate
+mofetil)
+-AND-
+(4) Prescribed by or in consultation with a gastroenterologist
+* Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance from
+the Abbvie sponsored Rinvoq Complete program shall be required to meet initial authorization
+criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Rinvoq will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Rinvoq therapy
+-AND-
+(2) Patient is not receiving Rinvoq in combination with either of the following:
+(a) Targeted immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Xeljanz (tofacitinib),
+© 2025 UnitedHealthcare Services, Inc.
+10
+Olumiant (baricitinib), Stelara (ustekinumab), Skyrizi (risankizumab)]
+(b) Potent immunosuppressant (e.g., azathioprine, cyclosporine, mycophenolate
+mofetil)
+Authorization will be issued for 12 months.
+E. Ankylosing Spondylitis and non-radiographic Axial Spondyloarthritis (nr-axSpA)
+1. Initial Authorization
+a. Rinvoq will be approved based on all of the following criteria:
+(1) Diagnosis of active ankylosing spondylitis or non-radiographic axial
+spondyloarthritis
+-AND-
+(2) One of the following:
+(a) Both of the following:
+i. One of the following:
+• History of failure to two NSAIDs (e.g., ibuprofen, naproxen) at
+maximally indicated doses, each used for at least 4 weeks, unless
+contraindicated or clinically significant adverse effects are
+experienced (document drug, date, and duration of trial)
+-OR-
+• Patient has been previously treated with a targeted immunomodulator
+FDA-approved for the treatment of ankylosing spondylitis or non-
+radiographic axial spondyloarthritis as documented by claims history
+or submission of medical records (Document drug, date, and duration
+of therapy) [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+adalimumab, Simponi (golimumab), Xeljanz/Xeljanz XR
+(tofacitinib)]
+-AND-
+ii. One of the following:
+• History of failure, contraindication, or intolerance to at least one TNF
+inhibitor^
+-OR-
+• Patient has a documented needle-phobia to the degree that the patient has
+previously refused any injectable therapy or medical procedure (refer to
+DSM-V-TR 300.29 for specific phobia diagnostic criteria5).
+© 2025 UnitedHealthcare Services, Inc.
+11
+-OR-
+(b) Both of the following:
+i. Patient is currently on Rinvoq therapy as documented by claims history or
+submission of medical records (Document drug, date, and duration of therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from the Abbvie sponsored
+Rinvoq Complete program (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a current
+user of Rinvoq*
+-AND-
+(3) Patient is not receiving Rinvoq in combination with either of the following:
+(a) Targeted immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Xeljanz (tofacitinib),
+Olumiant (baricitinib)]
+(b) Potent immunosuppressant (e.g., azathioprine, cyclosporine, mycophenolate
+mofetil)
+-AND-
+(4) Prescribed by or in consultation with a rheumatologist
+*Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance from the
+Abbvie sponsored Rinvoq Complete program shall be required to meet initial authorization criteria as
+if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Rinvoq will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Rinvoq therapy
+-AND-
+(2) Patient is not receiving Rinvoq in combination with either of the following:
+(a) Targeted immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Xeljanz (tofacitinib),
+Olumiant (baricitinib)]
+© 2025 UnitedHealthcare Services, Inc.
+12
+(b) Potent immunosuppressant (e.g., azathioprine, cyclosporine, mycophenolate
+mofetil)
+Authorization will be issued for 12 months.
+F. Crohn’s Disease (CD)
+1. Initial Authorization
+a. Rinvoq will be approved based on all of the following criteria:
+(1) Diagnosis of moderately to severely active Crohn’s disease
+-AND-
+(2) One of the following:
+(a) Both of the following:
+i. One of the following:
+• History of failure to one of the following conventional therapies at up to
+maximally indicated doses, unless contraindicated or clinically significant
+adverse effects are experienced (document drug, date, and duration of
+trial):
+ Corticosteroids (e.g., prednisone, methylprednisolone, budesonide)
+ 6-mercaptopurine (Purinethol)
+ Azathioprine (Imuran)
+ Methotrexate (Rheumatrex, Trexall)
+-OR-
+• Patient has been previously treated with a targeted immunomodulator
+FDA-approved for the treatment of Crohn’s disease as documented by
+claims history or submission of medical records (Document drug, date,
+and duration of therapy) [e.g., adalimumab, Cimzia (certolizumab),
+Stelara (ustekinumab), Skyrizi (isankizumab)]
+-AND-
+ii. One of the following:
+• History of failure, contraindication, or intolerance to at least one TNF
+inhibitor^
+-OR-
+• Patient has a documented needle-phobia to the degree that the patient has
+previously refused any injectable therapy or medical procedure (refer to
+DSM-V-TR 300.29 for specific phobia diagnostic criteria5).
+© 2025 UnitedHealthcare Services, Inc.
+13
+-OR-
+(b) Both of the following:
+i. Patient is currently on Rinvoq therapy as documented by claims history or
+submission of medical records (Document drug, date, and duration of therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from the Abbvie sponsored
+Rinvoq Complete program (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a current
+user of Rinvoq*
+-AND-
+(3) Patient is not receiving Rinvoq in combination with either of the following:
+(a) Targeted immunomodulator [e.g., adalimumab, Enbrel (etanercept), Cimzia
+(certolizumab), Simponi (golimumab), Orencia (abatacept), adalimumab,
+Xeljanz (tofacitinib), Olumiant (baricitinib), Stelara (ustekinumab), Skyrizi
+(risankizumab)]
+(b) Potent immunosuppressant (e.g., azathioprine, cyclosporine, mycophenolate
+mofetil)
+-AND-
+(4) Prescribed by or in consultation with a gastroenterologist
+*Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance from the
+Abbvie sponsored Rinvoq Complete program shall be required to meet initial authorization criteria as
+if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Rinvoq will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Rinvoq therapy
+-AND-
+(2) Patient is not receiving Rinvoq in combination with either of the following:
+(a) Targeted immunomodulator [e.g., adalimumab, Enbrel (etanercept), Cimzia
+(certolizumab), Simponi (golimumab), Orencia (abatacept), adalimumab,
+© 2025 UnitedHealthcare Services, Inc.
+14
+Xeljanz (tofacitinib), Olumiant (baricitinib), Stelara (ustekinumab), Skyrizi
+(risankizumab)]
+(b) Potent immunosuppressant (e.g., azathioprine, cyclosporine, mycophenolate
+mofetil)
+Authorization will be issued for 12 months.
+G. Polyarticular Juvenile Idiopathic Arthritis (pJIA)
+1. Initial Authorization
+a. Rinvoq or Rinvoq LQ will be approved based on all of the following criteria:
+(1) Diagnosis of active polyarticular juvenile idiopathic arthritis
+-AND-
+(2) One of the following:
+(a) History of failure, contraindication, or intolerance to at least one TNF
+inhibitor^
+-OR-
+(b) Patient has a documented needle-phobia to the degree that the patient has
+previously refused any injectable therapy or medical procedure (refer to
+DSM-V-TR 300.29 for specific phobia diagnostic criteria5).
+-OR-
+(c) Both of the following:
+i. Patient is currently on Rinvoq or Rinvoq LQ therapy as documented by claims
+history or submission of medical records (Document date and duration of
+therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from the Abbvie sponsored
+Rinvoq Complete program (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a current
+user of Rinvoq or Rinvoq LQ*
+-AND-
+(3) Patient is not receiving Rinvoq or Rinvoq LQ in combination with either of the
+following:
+(a) Targeted immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+© 2025 UnitedHealthcare Services, Inc.
+15
+Simponi (golimumab), Orencia (abatacept), adalimumab, Olumiant (baricitinib),
+Xeljanz (tofacitinib)]
+(b) Potent immunosuppressant (e.g., azathioprine, cyclosporine, mycophenolate
+mofetil)
+-AND-
+(4) Prescribed by or in consultation with a rheumatologist
+* Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance from the
+Abbvie sponsored Rinvoq Complete program shall be required to meet initial authorization criteria as
+if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Rinvoq or Rinvoq LQ will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Rinvoq or Rinvoq LQ therapy
+-AND-
+(2) Patient is not receiving Rinvoq or Rinvoq LQ in combination with either of the
+following:
+(a) Targeted immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Olumiant (baricitinib),
+Xeljanz (tofacitinib)]
+(b) Potent immunosuppressant (e.g., azathioprine, cyclosporine, mycophenolate
+mofetil)
+Authorization will be issued for 12 months.
+H. Giant Cell Arteritis (GCA)
+1. Initial Authorization
+a. Rinvoq will be approved based on all of the following criteria:
+(1) Diagnosis of giant cell arteritis
+-AND-
+(2) Patient is not receiving Rinvoq in combination with either of the following:
+(a) Targeted immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Olumiant (baricitinib),
+tocilizumab, Xeljanz (tofacitinib)]
+© 2025 UnitedHealthcare Services, Inc.
+16
+(b) Potent immunosuppressant (e.g., azathioprine, cyclosporine, mycophenolate
+mofetil)
+-AND-
+(3) Prescribed by or in consultation with a rheumatologist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Rinvoq will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Rinvoq therapy
+-AND-
+(2) Patient is not receiving Rinvoq in combination with either of the following:
+(a) Targeted immunomodulator [e.g., Enbrel (etanercept), Cimzia (certolizumab),
+Simponi (golimumab), Orencia (abatacept), adalimumab, Olumiant (baricitinib),
+tocilizumab, Xeljanz (tofacitinib)]
+(b) Potent immunosuppressant (e.g., azathioprine, cyclosporine, mycophenolate
+mofetil)
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+b For Connecticut, Kentucky and Mississippi business only a 30-day trial will be required.
+^ Tried/failed alternative(s) are supported by FDA labeling
+¥ Elidel, Protopic/tacrolimus ointment, and Eucrisa require prior authorization.
+Table 1: Relative potencies of topical corticosteroids8
+Class Drug Dosage Form Strength (%)
+Augmented betamethasone Ointment, gel 0.05
+dipropionate
+Very high
+Clobetasol propionate Cream, foam, ointment 0.05
+potency
+Diflorasone diacetate Ointment 0.05
+Halobetasol propionate Cream, ointment 0.05
+Amcinonide Cream, lotion, ointment 0.1
+Augmented betamethasone Cream, lotion 0.05
+dipropionate
+Betamethasone dipropionate Cream, foam, ointment, solution 0.05
+High Potency
+Desoximetasone Cream, ointment 0.25
+Desoximetasone Gel 0.05
+Diflorasone diacetate Cream 0.05
+Fluocinonide Cream, gel, ointment, solution 0.05
+© 2025 UnitedHealthcare Services, Inc.
+17
+Halcinonide Cream, ointment 0.1
+Mometasone furoate Ointment 0.1
+Triamcinolone acetonide Cream, ointment 0.5
+Betamethasone valerate Cream, foam, lotion, ointment 0.1
+Clocortolone pivalate Cream 0.1
+Desoximetasone Cream 0.05
+Fluocinolone acetonide Cream, ointment 0.025
+Medium
+Flurandrenolide Cream, ointment, lotion 0.05
+potency
+Fluticasone propionate Cream 0.05
+Fluticasone propionate Ointment 0.005
+Mometasone furoate Cream, lotion 0.1
+Triamcinolone acetonide Cream, ointment, lotion 0.1
+Hydrocortisone butyrate Cream, ointment, solution 0.1
+Lower-
+Hydrocortisone probutate Cream 0.1
+medium
+Hydrocortisone valerate Cream, ointment 0.2
+potency
+Prednicarbate Cream 0.1
+Alclometasone dipropionate Cream, ointment 0.05
+Low potency Desonide Cream, gel, foam, ointment 0.05
+Fluocinolone acetonide Cream, solution 0.01
+Dexamethasone Cream 0.1
+Lowest
+Hydrocortisone Cream, lotion, ointment, solution 0.25, 0.5, 1
+potency
+Hydrocortisone acetate Cream, ointment 0.5-1
+Table 2: Systemic immunomodulatory agents recommended by the 2014 American Academy of
+Dermatology guidelines for the treatment of refractory atopic dermatitis Ω,9
+Cyclosporine
+Azathioprine
+Methotrexate
+Mycophenolate mofetil
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Rinvoq [package insert]. North Chicago, IL: AbbVie Inc.; April 2025.
+2. Fraenkel L, Bathon JM, England BR, et al. 2021 American College of Rheumatology Guideline
+for the Treatment of Rheumatoid Arthritis. Arthritis Care & Research. Arthritis Rheum.
+2021;73(7):924-939.
+3. Cohen S, Mikuls TR. Initial treatment of rheumatoid arthritis in adults. In: Post TW, ed.
+UpToDate. UpToDate; 2021. Accessed on December 17th, 2021.
+4. Sing JA, Guyatt G, Ogie A, et al. 2018 American College of Rheumatology/National Psoriasis
+Foundation Guideline for the Treatment of Psoriatic Arthritis.
+© 2025 UnitedHealthcare Services, Inc.
+18
+5. Gladman DD, Ritchlin C. Treatment of psoriatic arthritis. In: Post TW, ed. UpToDate.
+UpToDate; 2021. Accessed on December 17th, 2021.
+6. American Psychiatric Association: Diagnostic and Statistical Manual of Mental Disorders, Fifth
+Edition, Arlington, VA: American Psychiatric Publishing. 2013.
+7. Eichenfield LF, Tom WL, Chamlin SL et al. Guidelines of care for the management of atopic
+dermatitis: section 1. Diagnosis and assessment of atopic dermatitis. J Am Acad Dermatol.
+2014; 70(1):338-51.
+8. Eichenfield LF, Tom WL, Berger TG, et al. Guidelines of care for the management of atopic
+dermatitis: section 2. Management and treatment of atopic dermatitis with topical therapies. J Am
+Acad Dermatol. 2014; 71(1):116-32.
+9. Sidbury R, Davis DM, Cohen DE, et al. Guidelines of care for the management of atopic
+dermatitis: Section 3. Management and treatment with phototherapy and systemic agents. J Am
+Acad Dermatol. 2014 Aug;71(2):327-49.
+Program Prior Authorization/Medical Necessity – Rinvoq (upadacitinib)/Rinvoq
+LQ
+Change Control
+5/2020 New program
+5/2021 Annual review. Removed preceding month requirement from failure
+criteria. Removed prescriber requirement from reauthorization criteria.
+Reference updated.
+6/2021 Added coverage criteria for patients previously treated with a biologic
+DMARD. Added clarification that submission of medical records is
+required documenting previous or current therapy with a biologic
+DMARD in order to bypass step through non-biologic therapies if claim
+history not available.
+12/2021 Updated conventional DMARD bypass language for rheumatoid
+arthritis with no change to clinical intent. Updated CT/KY footnote.
+2/2022 Added step through a TNF inhibitor for RA and coverage criteria for
+PsA per updated label. Updated background and references. Added
+footnote to support FDA labeled first line requirements.
+3/2022 Updated background and added coverage criteria for new indication for
+atopic dermatitis. Updated references.
+5/2022 Updated background and added coverage criteria for new indication for
+ulcerative colitis. Updated state mandate to include Mississippi.
+Updated reference.
+6/2022 Updated background and added coverage criteria for new indication for
+ankylosing spondylitis. Updated reference.
+7/2022 Removed age requirement from initial authorization criteria for atopic
+dermatitis.
+12/2022 Updated background and added coverage criteria for new indication for
+non-radiographic axial spondyloarthritis. Updated reference.
+7/2023 Updated not receiving in combination language to targeted
+immunomodulator and updated examples. Updated background and
+added coverage criteria for crohn’s disease. Updated reference.
+9/2023 Updated examples. No change to coverage criteria.
+6/2024 Added Rinvoq LQ to the program. Updated criteria with pediatric
+indication for PsA. Added criteria for new indication for pJIA. Updated
+background, reference and state mandate footnote.
+4/2025 Annual review. Added Ebglyss as an example of systemic drug
+© 2025 UnitedHealthcare Services, Inc.
+19
+product. Updated examples with no change to clinical intent.
+6/2025 Updated background and added coverage criteria for new indication for
+Giant Cell Arteritis (GCA). Updated reference.
+© 2025 UnitedHealthcare Services, Inc.
+20

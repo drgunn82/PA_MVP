@@ -1,0 +1,67 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1049-12
+Program Prior Authorization/Notification
+Medication Interim New Product Coverage Criteria
+P&T Approval Date 5/2013, 5/2014, 7/2014, 5/2015, 3/2016, 8/2016, 8/2017, 8/2018,
+8/2019, 8/2020, 8/2021, 10/2023, 12/2024
+Effective Date 3/1/2025
+1. Background:
+The purpose of this guideline is to establish a procedure by which to review requests for newly
+FDA-approved drug products that require notification. This general criterion will apply only
+until drug-specific criteria can be developed and implemented for claims processing. Once
+drug-specific criteria are available, and the authorization provided from this general criterion
+expires, the subsequent coverage review will be completed using the Initial Authorization
+section of the drug-specific criteria. UnitedHealthcare Pharmacy (UHCP) will designate the
+specific medications which are subject to this criterion and inform the Pharmacy Benefits
+Administrator (PBA). Oral oncology products will use the Oral Chemotherapeutic Agent Prior
+Authorization Program criteria for review.
+2. Coverage Criteria:
+A. Guideline
+1. For recent FDA-approved drug products for which drug-specific criteria are unavailable,
+the requested drug will be approved based on both of the following criteria:
+a. Diagnosis is consistent with an indication listed in the product’s FDA-approved
+prescribing information (or package insert)
+b. Additional requirements listed in the “Indications and Usage” and “Dosage and
+Administration” sections of the prescribing information (or package insert) have
+been met (e.g. first line therapies have been tried and failed; any testing
+requirements have been met, etc.)
+Authorization will be issued for 6 months and should allow a quantity ceiling limit up
+to the maximum FDA approved dose unless otherwise noted on tracking grid or unless
+the FDA approved treatment duration is less than 6 months.
+• If FDA approved treatment duration is less than 6 months utilize the approved
+duration for authorization period.
+• Requests for higher quantity beyond the FDA approved maximum dosing are not
+separately reviewable by the PA department.
+© 2024 UnitedHealthcare Services, Inc.
+1
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+4. References:
+N/A
+Program Interim New Product Coverage Criteria
+Change Control
+5/2014 Annual review. Increased approval period from 3 to 6 months. Added
+language to clarify authorization term for oral oncology medications.
+7/2014 Added criteria for additional requirements listed in prescribing
+information. Added supply limit ceiling limit up to FDA approved
+maximum dosing to approval.
+5/2015 Annual review. No changes to coverage criteria
+3/2016 Annual review. Increased authorization period for oral oncology drugs
+to 12 months.
+8/2016 Updated background section to remove reference to general oral
+oncology criteria.
+8/2017 Updated authorization period to clarify quantity limit.
+8/2018 Annual review. Revised authorization language for oncology.
+8/2019 Annual review. Updated background section to indicate oral oncology
+drugs utilize the Oral Chemotherapeutic Agent Prior Authorization
+Program. Removed oral chemotherapy from authorization duration
+instructions.
+8/2020 Annual review. No changes.
+8/2021 Annual review. No changes.
+10/2023 Review. No changes.
+12/2024 Annual review. No changes.
+© 2024 UnitedHealthcare Services, Inc.
+2

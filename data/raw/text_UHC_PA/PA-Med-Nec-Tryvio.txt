@@ -1,0 +1,85 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2342-2
+Program Prior Authorization/Medical Necessity
+Medication Tryvio™ (aprocitentan)
+P&T Approval Date 6/2024, 2/2025
+Effective Date 5/1/2025
+1. Background:
+Tryvio (aprocitentan) is an endothelin receptor antagonist indicated for the treatment of
+hypertension in combination with other antihypertensive drugs, to lower blood pressure in adult
+patients who are not adequately controlled on other drugs. Resistant hypertension (RH) is defined
+as above-goal elevated blood pressure (BP) in a patient despite the concurrent use of 3
+antihypertensive drug classes, commonly including a long-acting calcium channel blocker, a
+blocker of the renin-angiotensin system (angiotensin-converting enzyme inhibitor or angiotensin
+receptor blocker), and a diuretic. The antihypertensive drugs should be administered at maximum
+or maximally tolerated daily doses.1
+Tryvio is only available through a restricted distribution program called the Tryvio REMS.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Tryvio will be approved based on all of the following criteria:
+a. Diagnosis of resistant hypertension
+-AND-
+b. One of the following:
+1) Systolic blood pressure ≥ 130 mm Hg on two consecutive measurements despite
+maximally tolerated antihypertensive treatment
+-OR-
+2) Diastolic blood pressure ≥ 80 mm Hg on two consecutive measurements despite
+maximally tolerated antihypertensive treatment
+-AND-
+c. Patient has been previously treated with all of the following antihypertensive classes
+for an adequate duration (minimum 4 weeks each) at a maximally tolerated dose:
+1) Maximally tolerated blocker of the renin-angiotensin system [angiotensin-
+converting enzyme (ACE) inhibitor (e.g., enalapril, lisinopril) or angiotensin II
+receptor blocker (ARB) (e.g., candesartan, valsartan)]
+© 2025 UnitedHealthcare Services Inc.
+1
+2) Maximally tolerated calcium channel blocker (e.g., amlodipine, diltiazem,
+verapamil)
+3) Maximally tolerated diuretics (e.g., hydrochlorothiazide)
+4) Maximally tolerated mineralocorticoid receptor antagonist [MRA (e.g.,
+spironolactone, eplerenone)]
+-AND-
+d. Provider attests other causes of hypertension have been excluded (e.g., secondary
+causes [e.g., primary hyperaldosteronism], white coat effect, medication
+nonadherence)
+-AND-
+e. Used as an adjunct to lifestyle modification (e.g., dietary or caloric restriction,
+exercise, behavioral support, community-based program)
+-AND-
+f. Tryvio will be used in combination with at least 3 antihypertensive medications from
+different classes at maximally tolerated doses
+-AND-
+g. Prescribed by or in consultation with a specialist experienced in the treatment of
+resistant hypertension (e.g., cardiologist, nephrologist)
+Authorization will be issued for 12 months
+B. Reauthorization
+1. Tryvio will be approved based on both of the following criteria:
+a. Documentation the patient is receiving clinical benefit to Tryvio therapy
+-AND-
+b. Tryvio will be used in combination with at least 3 antihypertensive medications from
+different classes at maximally tolerated doses
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+© 2025 UnitedHealthcare Services Inc.
+2
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+4. References:
+1. Tryvio [package insert]. Radnor, PA: Idorsia Pharmaceuticals US Inc; April 2024.
+2. Carey, RM, Calhoun, DA, Bakris, GL, et. al. Resistant Hypertension: Detection, Evaluation, and
+Management: A Scientific Statement From the American Heart Association. Hypertension. 2018:
+72(5); e53-e90.
+Program Prior Authorization/Medical Necessity - Tryvio
+Change Control
+Date Change
+6/2024 New program.
+2/2025 Added lifestyle modification and other causes have been ruled out.
+Modified prescriber requirement and concomitant medication
+requirements. Updated reference.
+© 2025 UnitedHealthcare Services Inc.
+3

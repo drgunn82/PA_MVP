@@ -1,0 +1,81 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1168-12
+Program Prior Authorization/Notification
+Medications Cholbam™ (cholic acid)
+P&T Approval Date 11/2015, 9/2016, 9/2017, 9/2018, 9/2019, 3/2020, 3/2021, 3/2022, 5/2022,
+5/2023, 5/2024, 5/2025
+Effective Date 8/1/2025
+1. Background:
+Cholbam (cholic acid) is a bile acid indicated for the treatment of bile acid synthesis disorders due to
+single enzyme defects (SEDs) and as an adjunctive treatment of peroxisomal disorders (PDs)
+including Zellweger spectrum disorders in patients who exhibit manifestations of liver disease,
+steatorrhea or complications from decreased fat-soluble vitamin absorption.
+Cholbam should be discontinued if liver function does not improve within 3 months of starting
+treatment, if complete biliary obstruction develops, or if there are persistent clinical or laboratory
+indicators of worsening liver function or cholestasis.
+Limitation of use:
+The safety and effectiveness of Cholbam on extrahepatic manifestations of bile acid synthesis
+disorders due to SEDs or PDs including Zellweger spectrum disorders have not been established.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Cholbam will be approved based on one of the following criteria:
+a. Both of the following:
+(1) Diagnosis of a bile acid synthesis disorder
+-AND-
+(2) Bile acid synthesis disorder is due to single enzyme defects (SEDs)
+-OR-
+b. All of the following:
+(1) Diagnosis of a peroxisomal disorder including Zellweger spectrum
+disorders
+-AND-
+(2) Patient exhibits manifestations of liver disease, steatorrhea or
+complications from decreased fat-soluble vitamin absorption
+© 2025 UnitedHealthcare Services, Inc.
+1
+-AND-
+(3) Cholbam is being used as adjunctive treatment
+Authorization will be issued for 3 months.
+B. Reauthorization
+1. Cholbam will be approved based on the following criterion:
+a. Documentation of positive clinical response to Cholbam therapy as evidenced by both
+of the following:
+(1) Improvement in liver function (e.g., aspartate aminotransferase [AST], alanine
+aminotransferase [ALT])
+-AND-
+(2) Absence of complete biliary obstruction
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-
+10) and/or claim logic. Use of automated approval and re-approval processes varies by
+program.
+• Supply limitations may be in place.
+4. References:
+1. Cholbam [package Insert]. Foster City, CA: Mirum Pharmaceuticals, Inc.; June 2024.
+Program Prior Authorization/Notification - Cholbam (cholic acid)
+Change Control
+11/2015 New program.
+9/2016 Annual Review. No changes.
+9/2017 Annual Review. Updated background. No changes to criteria.
+9/2018 Annual Review. No changes.
+9/2019 Annual Review. Updated background. No changes to coverage criteria.
+3/2020 Increased initial authorization to 12 months. No changes to coverage
+criteria.
+3/2021 Annual review. No changes to coverage criteria. Updated reference.
+3/2022 Annual review. No changes to coverage criteria. Updated reference.
+© 2025 UnitedHealthcare Services, Inc.
+2
+5/2022 Changed initial authorization length to 3 months to align with package
+insert. Added “as evidenced by improvement in liver function” with
+examples to reauthorization criteria.
+5/2023 Annual review. Added “absence of complete biliary obstruction” to
+reauthorization criteria. Updated background and reference. Added
+state mandate footnote.
+5/2024 Annual review with no change to coverage criteria. Updated reference.
+5/2025 Annual review with no change to coverage criteria. Updated reference.
+© 2025 UnitedHealthcare Services, Inc.
+3

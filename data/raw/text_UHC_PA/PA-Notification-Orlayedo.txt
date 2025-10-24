@@ -1,0 +1,43 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1351-5
+Program Prior Authorization/Notification
+Medication Orladeyo® (berotralstat)
+P&T Approval Date 3/2021, 3/2022, 3/2023, 3/2024, 3/2025
+Effective Date 6/1/2025
+1. Background:
+Orladeyo is a plasma kallikrein inhibitor indicated for prophylaxis to prevent attacks of hereditary
+angioedema (HAE) in adults and pediatric patients 12 years and older. Orladeyo should not be used
+for the treatment of acute HAE attacks.1
+2. Coverage Criteriaa:
+A. Orladeyo will be approved based on all of the following criteria:
+1. Diagnosis of hereditary angioedema (HAE)
+-AND-
+2. Both of the following:
+a. For prophylaxis against HAE attacks
+-AND-
+b. Not used in combination with other products indicated for prophylaxis against HAE
+attacks (e.g., Cinryze, Haegarda, Takhzyro)
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Orladeyo [package insert]. Durham, NC: BioCryst Pharmaceuticals, Inc.; October 2024.
+© 2025 UnitedHealthcare Services Inc.
+1
+Program Prior Authorization/Notification – Orladeyo (berotralstat)
+Change Control
+3/2021 New program.
+3/2022 Annual review. Aligned combination use language with prophylactic
+therapies without change to clinical intent.
+3/2023 Annual review. Added state mandate and updated reference.
+3/2024 Annual review with no changes to clinical criteria.
+3/2025 Annual review with no changes to clinical criteria.
+© 2025 UnitedHealthcare Services Inc.
+2

@@ -1,0 +1,57 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1434-2
+Program Prior Authorization/Notification
+Medication Wainua™ (eplontersen)
+P&T Approval Date 2/2024, 2/2025
+Effective Date 5/1/2025
+1. Background:
+Wainua (eplontersen) is a transthyretin-directed antisense oligonucleotide indicated for the
+treatment of the polyneuropathy of hereditary transthyretin-mediated amyloidosis (hATTR) in
+adults.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Wainua will be approved based on all of the following criteria:
+a. Diagnosis of hATTR amyloidosis with polyneuropathy
+-AND-
+b. Patient has a pathogenic TTR mutation (e.g., V30M)
+-AND-
+c. Patient is not receiving Wainua in combination with either of the following:
+(1) Oligonucleotide agents [e.g., Onpattro (patisiran), Amvuttra (vutrisiran),
+Tegsedi (inotersen)]
+-OR-
+(2) Transthyretin stabilizer [e.g., Vyndaqel/Vyndamax (tafamadis), Attruby
+(acoramidis)]
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Wainua will be approved based on both of the following criteria:
+a. Documentation of positive clinical response to Wainua therapy
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+1
+b. Patient is not receiving Wainua in combination with either of the following:
+(1) Oligonucleotide agents [e.g., Onpattro (patisiran), Amvuttra (vutrisiran),
+Tegsedi (inotersen)]
+-OR-
+(2) Transthyretin stabilizer [e.g., Vyndaqel/Vyndamax (tafamadis), Attruby
+(acoramidis)]
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Wainua [package insert]. Wilmington, DE: AstraZeneca Pharmaceuticals LP; September
+2024.
+Program Prior Authorization/Notification – Wainua™ (eplontersen)
+Change Control
+2/2024 New program.
+2/2025 Added Attruby to Vyndaqel/Vyndamax and relabeled as transthyretin
+stabilizer agents not to be used in combination. Updated reference.
+© 2025 UnitedHealthcare Services, Inc.
+2

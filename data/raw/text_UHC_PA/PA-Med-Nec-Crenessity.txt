@@ -1,0 +1,98 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2365-2
+Program Prior Authorization/Medical Necessity
+Medication Crenessity™(crinecerfont) oral capsule and oral suspension
+P&T Approval Date 2/2025, 4/2025
+Effective Date 6/1/2025
+1. Background:
+Crenessity (crinecerfont) is a corticotropin-releasing factor type 1 receptor antagonist indicated
+as adjunctive treatment to glucocorticoid replacement to control androgens in adults and
+pediatric patients 4 years of age and older with classic congenital adrenal hyperplasia (CAH).
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Crenessity oral capsule or oral suspension will be approved based upon all of the
+following criteria:
+a. Diagnosis of classic congenital adrenal hyperplasia (CAH) due to 21-hydroxylase
+deficiency
+-AND-
+b. Diagnosis confirmed by one of the following:
+(1) Pretreatment serum 17-hydroxyprogesterone (17-OHP) level > 3,000 ng/dL
+(2) Cosyntropin stimulation 17OHP level > 10,000 ng/dL
+(3) Genetic variant in CYP21A2 gene
+-AND-
+c. Patient is 4 years of age or older
+-AND-
+d. Chronic treatment with a supraphysiologic glucocorticoid (GC) regimen (e.g.,
+dexamethasone, hydrocortisone, methylprednisolone, prednisone, prednisolone)
+defined as one of the following:
+(1) Both of the following:
+(a) Patient is 4 to 17 years old
+(b) Glucocorticoid dose > 12 mg/m2/day in hydrocortisone dose equivalents
+-OR-
+© 2025 UnitedHealthcare Services, Inc.
+1
+(2) Both of the following:
+(a) Patient is ≥ 18 years old
+(b) Glucocorticoid dose > 13 mg/m2/day in hydrocortisone dose equivalents
+-AND-
+e. Prescribed by an endocrinologist
+-AND-
+f. If the request is for Crenessity oral suspension, one of the following:
+(1) Patient is unable to ingest a solid dosage form (e.g., an oral tablet or capsule) due
+to one of the following:
+(a) age
+(b) oral-motor difficulties
+(c) dysphagia
+-OR-
+(2) Patient utilizes a feeding tube for medication administration
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Crenessity oral capsule or oral suspension will be approved based on all of the
+following criteria:
+a. Documentation of positive clinical response to Crenessity therapy (e.g., reduction in
+total glucocorticoid daily dose, decreased androstenedione levels)
+-AND-
+b. Patient will continue to receive concomitant glucocorticoid replacement (e.g.,
+dexamethasone, hydrocortisone, methylprednisolone, prednisone, prednisolone)
+-AND-
+c. Prescribed by an endocrinologist
+-AND-
+d. If the request is for Crenessity oral suspension, one of the following:
+(1) Patient is unable to ingest a solid dosage form (e.g., an oral tablet or capsule) due
+to one of the following:
+(a) age
+© 2025 UnitedHealthcare Services, Inc.
+2
+(b) oral-motor difficulties
+(c) dysphagia
+-OR-
+(2) Patient utilizes a feeding tube for medication administration
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Crenessity [package insert]. San Diego, CA: Neurocrine Biosciences, Inc.; December 2024.
+2. Sarafoglou K, Kim MS, Lodish M, et al. Phase 3 Trial of Crinecerfont in Pediatric Congenital
+Adrenal Hyperplasia. N Engl J Med. 2024;391(6):493-503.
+3. Auchus RJ, Hamidi O, Pivonello R, et al. Phase 3 Trial of Crinecerfont in Adult Congenital
+Adrenal Hyperplasia. N Engl J Med. 2024;391(6):504-514.
+4. New MI, Lorenzen F, Lerner AJ, et al. Genotyping steroid 21-hydroxylase deficiency:
+hormonal reference data. J Clin Endocrinol Metab. 1983;57(2):320-326.
+5. Speiser PW, Arlt W, Auchus RJ, et al. Congenital Adrenal Hyperplasia Due to Steroid 21-
+Hydroxylase Deficiency: An Endocrine Society Clinical Practice Guideline [published
+correction appears in J Clin Endocrinol Metab. 2019 Jan 1;104(1):39-40. J Clin Endocrinol
+Metab. 2018;103(11):4043-4088.
+Program Prior Authorization/Medical Necessity - Crenessity (crinecerfont)
+Change Control
+2/2025 New program.
+4/2025 Added non-solid dosage form criteria for Crenessity oral suspension.
+© 2025 UnitedHealthcare Services, Inc.
+3

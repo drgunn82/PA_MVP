@@ -1,0 +1,91 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1341-5
+Program Prior Authorization/Notification
+Medication Onureg® (azacitidine)
+P&T Approval Date 12/2020, 12/2021, 12/2022, 12/2023, 12/2024
+Effective Date 3/1/2025
+1. Background:
+Onureg (azacitidine) is a nucleoside metabolic inhibitor indicated for continued treatment of
+adult patients with acute myeloid leukemia who achieved first complete remission (CR) or
+complete remission with incomplete blood count recovery (CRi) following intensive
+induction chemotherapy and are not able to complete intensive curative therapy.
+The National Comprehensive Cancer Network (NCCN) also recommends the use of Onureg
+for the treatment of certain peripheral T-cell lymphomas for initial palliative intent therapy or
+second-line and subsequent therapy.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age
+of 19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Onureg will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Acute Myeloid Leukemia
+1. Initial Authorization
+a. Onureg will be approved based on all of the following criteria:
+(1) Diagnosis of Acute Myeloid Leukemia
+-AND-
+(2) Achieved first complete remission (CR) or complete remission with incomplete
+© 2024 UnitedHealthcare Services, Inc.
+1
+blood count recovery (CRi) following intensive induction chemotherapy
+-AND-
+(3) Patient is not able to complete intensive curative therapy (e.g., transplant-
+ineligible)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Onureg will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Onureg therapy
+Authorization will be issued for 12 months.
+C. Peripheral T-cell Lymphoma
+1. Initial Authorization
+a. Onureg will be approved based on both of the following criteria:
+(1) Diagnosis of one of the following T-cell lymphomas:
+a. Angioimmunoblastic T-cell lymphoma (AITL)
+b. Nodal peripheral T-cell lymphoma with TFH phenotype (PTCL, TFH)
+c. Follicular T-cell lymphoma (FTCL)
+-AND-
+(2) One of the following:
+a. Used as initial palliative intent therapy
+b. Used as second-line and subsequent therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Onureg will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Onureg therapy
+Authorization will be issued for 12 months.
+D. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+© 2024 UnitedHealthcare Services, Inc.
+2
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Onureg [package insert]. Summit, NJ: Celgene Corporation; October 2022.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org/professionals/drug_compendium/content/contents.asp. Accessed on
+October 24, 2024.
+Program Prior Authorization/Notification - Onureg® (azacitidine)
+Change Control
+12/2020 New program.
+12/2021 Annual review with no change to clinical criteria. Updated references.
+12/2022 Annual review with no change to clinical criteria. Added state mandate
+and updated references.
+12/2023 Annual review with no change to clinical criteria. Updated references.
+12/2024 Annual review. Addition of T-cell lymphoma to criteria per NCCN.
+© 2024 UnitedHealthcare Services, Inc.
+3

@@ -1,0 +1,125 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Hepatitis C – Zepatier Drug Quantity Management Policy – Per Days
+• Zepatier® (grazoprevir/elbasvir tablets – Merck)
+REVIEW DATE: 07/08/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Zepatier, an oral fixed-dose combination tablet containing grazoprevir, a second
+generation protease inhibitor, and elbasvir, an NS5A inhibitor, is indicated with or
+without ribavirin for the treatment of genotypes 1 and 4 chronic hepatitis C virus
+in adults and pediatric patients ≥ 12 years of age or weighing at least 30 kg.1
+Dosing
+The recommended dose is one tablet once daily (QD).1 The duration of treatment is
+outlined below (Table 1) and is dependent on the patient population. Prior to
+initiating Zepatier in patients with genotype 1a infection, testing for NS5A
+resistance associated polymorphisms is recommended to guide treatment duration.
+In patients with genotype 1a and a polymorphisms at amino acid positions 28, 30,
+31, or 93, 16 weeks of treatment is recommended. In patients with genotype 4
+chronic hepatitis C virus, 16 weeks of therapy is recommended in patients who are
+pegylated interferon and ribavirin experienced. All other patients are treated for 12
+weeks.
+Table 1. Recommended Zepatier Dosage Regimens for the Treatment of Genotype 1 or 4
+Chronic HCV.1
+Page 1 of 3 - Cigna National Formulary Coverage - Policy:Hepatitis C – Zepatier Drug Quantity Management
+Policy – Per Days
+Genotype Treatment History Baseline NS5A Treatment Treatment
+Polymorphism Regimen Duration
+1a TN/PR-experienced* without No† Zepatier 12 weeks
+NS5A polymorphisms†
+1a TN/PR-experienced* with baseline Yes† Zepatier + 16 weeks
+NS5A polymorphisms† ribavirin
+1a§ or 1b PR + HCV PI-experiencedβ NA Zepatier + 12 weeks
+ribavirin
+1b TN/TE* NA Zepatier 12 weeks
+4 TN NA Zepatier 12 weeks
+4 PR-experienced* NA Zepatier + 16 weeks
+ribavirin‡
+HCV – Hepatitis C virus; TN – Treatment naïve; PR – Pegylated interferon/ribavirin; * Patients who
+have failed treatment with PR; † NS5A resistance-associated polymorphisms at amino acid positions
+28, 30, 31, or 93;§ The optimal Zepatier-based treatment regimen and duration of therapy for PR +
+HCV protease inhibitor-experienced genotype 1a-infected patients with one or more baseline NS5A
+resistance-associated polymorphisms at positions 28, 30, 31, and 93 has not been established; PI – PI
+– Protease inhibitor; β Patients who have failed treatment with PR + and NS3/4A PI (i.e., Victrelis®
+[boceprevir capsules], Incivek® [telaprevir tablets], or Olysio® [simeprevir capsules]); TE –
+Treatment-experienced; NA – Not applicable.
+Availability
+Zepatier is available as a co-formulated tablet containing 50 mg elbasvir and 100
+mg grazoprevir.1 It is supplied in a carton containing two 14-tablet blister cards,
+for a total of 28 tablets.
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to prevent
+stockpiling, misuse and/or overuse of Zepatier while providing a sufficient quantity
+to treat the condition. If the Drug Quantity Management rule is not met for the
+requested medication at the point of service, coverage will be determined by the
+Criteria below.
+Drug Quantity Limits
+Product Strength and Form Retail and Home Delivery
+Maximum Quantity per 365
+days
+Zepatier® 50/100 mg tablets 84 tablets*
+(grazoprevir/elbasvir tablets) (28 tablets per dispensing)
+* 84 tablets is a quantity sufficient to treat for 12 weeks.
+Hepatitis C – Zepatier Drug Quantity Management Policy – Per Days
+product(s) is(are) covered as medically necessary when the following
+criteria is(are) met. Any other exception is considered not medically
+necessary.
+3 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Zepatier Drug Quantity Management Policy –
+Per Days
+CRITERIA
+1. If the patient has Genotype 1a Chronic Hepatitis C Virus (HCV), approve 112
+tablets per 365 days at retail or home delivery if the patient meets ALL of the
+following criteria (A, B, and C):
+A) Patient has a baseline NS5A polymorphism at ONE (or more) of the following
+amino acid positions: 28, 30, 31, or 93; AND
+B) Patient meets ONE of the following conditions (i or ii):
+i. Patient is treatment-naïve; OR
+ii. Patient has been previously treated with pegylated interferon + ribavirin
+only; AND
+C) The medication will be prescribed in combination with ribavirin.
+2. If the patient has Genotype 4 Chronic Hepatitis C Virus (HCV), approve 112
+tablets per 365 days at retail or home delivery if the patient meets BOTH of the
+following criteria (A and B):
+A) Patient has been previously treated with pegylated interferon and ribavirin;
+AND
+B) The medication will be prescribed in combination with ribavirin.
+3. If the patient has been started on Zepatier for an indication or condition
+addressed as an approval in the above criteria section, approve the duration
+described above to complete a course therapy (e.g., if the patient has received 3
+weeks of therapy [21 tablets], approve 91 tablets to complete 16 weeks of
+treatment).
+REFERENCES
+1. Zepatier® tablets [prescribing information]. Whitehouse Station, NJ: Merck; December 2021.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Genotype 1a Chronic Hepatitis C Virus: Criteria for patients 07/06/2023
+Revision previously treated with pegylated interferon + ribavirin were modified
+to “treated with pegylated interferon + ribavirin only”.
+Annual No criteria changes. 07/08/2024
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and
+services are provided exclusively by or through such operating subsidiaries, including Cigna
+Health and Life Insurance Company, Connecticut General Life Insurance Company,
+Evernorth Behavioral Health, Inc., Cigna Health Management, Inc., and HMO or service
+company subsidiaries of The Cigna Group. © 2024 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Zepatier Drug Quantity Management Policy –
+Per Days

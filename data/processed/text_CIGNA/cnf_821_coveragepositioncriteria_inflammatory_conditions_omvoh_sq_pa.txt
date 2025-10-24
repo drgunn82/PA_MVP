@@ -1,0 +1,300 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Inflammatory Conditions – Omvoh Subcutaneous Prior Authorization
+Policy
+• Omvoh® (mirikizumab-mrkz subcutaneous injection – Eli Lilly)
+REVIEW DATE: 12/04/2024; selected revision 01/22/2025, 07/23/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Omvoh subcutaneous (SC) injection, a monoclonal antibody against the p19 subunit
+of the interleukin (IL)-23 cytokine, is indicated for the maintenance treatment of:1
+• Crohn’s disease, in adults with moderate to severe active disease; AND
+• Ulcerative colitis, in adults with moderate to severe active disease.
+Omvoh is also available in an intravenous (IV) formulation that is dually indicated as
+induction therapy in Crohn’s disease and ulcerative colitis. It is given as an IV
+infusion at Weeks 0, 4, and 8, followed by Omvoh SC once every 4 weeks thereafter
+for maintenance.1
+Guidelines
+• Crohn’s Disease: The American College of Gastroenterology (ACG) [2025]
+has guidelines for the management of CD in adults.2 In moderate to severe
+Page 1 of 8 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Omvoh Subcutaneous Prior
+Authorization Policy
+disease, systemic corticosteroids or advanced therapies may be utilized for
+induction of remission. Advanced therapies recommended include tumor
+necrosis factor (TNF) inhibitors, Entyvio® (vedolizumab), IL-23 inhibitors, IL-
+12/23 inhibitors, and Rinvoq® (upadacitinib). If steroids are utilized for
+induction, efforts should be made to introduce steroid-sparing agents for
+maintenance therapy. Guidelines from the American Gastroenterological
+Association (AGA) [2021] include various biologics among the therapies for
+moderate to severe CD, for induction and maintenance of remission.3
+• Ulcerative colitis: The AGA (2024) and the ACG (2025) have clinical practice
+guidelines on the management of moderate to severe UC.4,5 In moderate to
+severe disease, systemic corticosteroids or advanced therapies may be utilized
+for induction of remission. Advanced therapies recommended include TNF
+inhibitors, Entyvio, IL-23 inhibitors, IL-12/23 inhibitors, sphingosine-1-
+phosphate (S1P) receptor modulators, and Janus kinase (JAK) inhibitors. If
+steroids are utilized for induction, efforts should be made to introduce steroid-
+sparing agents for maintenance therapy. Of note, guidelines state
+corticosteroids may be avoided entirely when other effective induction
+strategies are planned.5 Both guidelines also recommend that any drug that
+effectively treats induction should be continued for maintenance.4,5
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Omvoh
+subcutaneous. All approvals are provided for the duration noted below. In cases
+where the approval is authorized in months, 1 month is equal to 30 days. Because
+of the specialized skills required for evaluation and diagnosis of patients treated
+with Omvoh subcutaneous as well as the monitoring required for adverse events
+and long-term efficacy, approval requires Omvoh subcutaneous to be prescribed by
+or in consultation with a physician who specializes in the condition being treated.
+• Omvoh® (mirikizumab-mrkz subcutaneous injection – Eli Lilly)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Crohn’s Disease. Approve for the duration noted if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the
+following (i, ii, iii, and iv):
+i. Patient is > 18 years of age; AND
+ii. According to the prescriber, the patient will receive induction dosing with
+Omvoh intravenous within 3 months of initiating therapy with Omvoh
+subcutaneous; AND
+iii. Patient meets ONE of the following (a, b, c, or d):
+5 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Omvoh Subcutaneous Prior
+Authorization Policy
+a) Patient has tried or is currently taking corticosteroids, or
+corticosteroids are contraindicated in this patient; OR
+Note: Examples of corticosteroids are prednisone or
+methylprednisolone.
+b) Patient has tried one other conventional systemic therapy for Crohn’s
+disease; OR
+Note: Examples of conventional systemic therapy for Crohn’s disease
+include azathioprine, 6-mercaptopurine, or methotrexate. An
+exception to the requirement for a trial of or contraindication to
+steroids or a trial of one other conventional systemic agent can be
+made if the patient has already tried at least one biologic other than
+the requested medication. A biosimilar of the requested biologic does
+not count. Refer to Appendix for examples of biologics used for
+Crohn’s disease. A trial of mesalamine does not count as a systemic
+agent for Crohn’s disease.
+c) Patient has enterocutaneous (perianal or abdominal) or rectovaginal
+fistulas; OR
+d) Patient had ileocolonic resection (to reduce the chance of Crohn’s
+disease recurrence); AND
+iv. The medication is prescribed by or in consultation with a
+gastroenterologist; OR
+B) Patient is Currently Receiving Omvoh Subcutaneous. Approve for 1 year if
+the patient meets BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating Omvoh);
+OR
+Note: Examples of objective measures include fecal markers (e.g.,
+fecal lactoferrin, fecal calprotectin), serum markers (e.g., C-reactive
+protein), imaging studies (magnetic resonance enterography,
+computed tomography enterography), endoscopic assessment, and/or
+reduced dose of corticosteroids.
+b) Compared with baseline (prior to initiating Omvoh), patient
+experienced an improvement in at least one symptom, such as
+decreased pain, fatigue, stool frequency, and/or blood in stool.
+2. Ulcerative Colitis. Approve for the duration noted if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the
+following (i, ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. According to the prescriber, the patient will receive three induction doses
+with Omvoh intravenous within 3 months of initiating therapy with Omvoh
+subcutaneous; AND
+5 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Omvoh Subcutaneous Prior
+Authorization Policy
+iii. The medication is prescribed by or in consultation with a
+gastroenterologist; OR
+B) Patient is Currently Receiving Omvoh Subcutaneous. Approve for 1 year if
+the patient meets BOTH of the following (i and ii):
+i. Patient has been established on the requested drug for at least 6 months;
+AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with the requested drug is reviewed under criterion A
+(Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating the
+requested drug); OR
+Note: Examples of assessment for inflammatory response include
+fecal markers (e.g., fecal calprotectin), serum markers (e.g., C-
+reactive protein), endoscopic assessment, and/or reduced dose of
+corticosteroids.
+b) Compared with baseline (prior to initiating the requested drug),
+patient experienced an improvement in at least one symptom, such as
+decreased pain, fatigue, stool frequency, and/or decreased rectal
+bleeding.
+CONDITIONS NOT COVERED
+• Omvoh® (mirikizumab-mrkz subcutaneous injection – Eli Lilly)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Concurrent Use with a Biologic or with a Targeted Synthetic Oral Small
+Molecule Drug. This medication should not be administered in combination
+with another biologic or with a targeted synthetic oral small molecule drug used
+for an inflammatory condition (see Appendix for examples). Combination
+therapy is generally not recommended due to a potentially higher rate of
+adverse events and lack of controlled clinical data supporting additive efficacy.
+Note: This does NOT exclude the use of conventional synthetic disease-
+modifying antirheumatic drugs (e.g., methotrexate, leflunomide,
+hydroxychloroquine, or sulfasalazine) in combination with this medication.
+REFERENCES
+1. Omvoh® intravenous infusion, subcutaneous injection [prescribing information]. Indianapolis, IN:
+Eli Lilly; January 2025.
+2. Lichtenstein G, Loftus E, Afzali A, et al. ACG Clinical Guideline: Management of Crohn's Disease in
+Adults. Am J Gastroenterol. 2025 June;120(6):1225-1264.
+3. Feuerstein JD, Ho EY, Shmidt E, et al. AGA clinical practice guidelines on the medical management
+of moderate to severe luminal and perianal fistulizing Crohn's disease. Gastroenterology.
+2021;160(7):2496-2508.
+5 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Omvoh Subcutaneous Prior
+Authorization Policy
+4. Singh S, Loftus EV Jr, Limketkai BN, et al. AGA Living Clinical Practice Guideline on Pharmacological
+Management of Moderate-to-Severe Ulcerative Colitis. Gastroenterology. 2024 Dec;167(7):1307-
+1343.
+5. Rubin D, Ananthakrishnan A, Siegel C. ACG Clinical Guideline Update: Ulcerative Colitis in Adults.
+Am J of Gastroenterol. 2025 June;120(6):1187-1224.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy - 11/08/2023
+Update 11/14/2023: No criteria changes. Added Note stating trial of a NA
+mesalamine product does not count as systemic therapy.
+Selected Conditions Not Covered: Concurrent use with a Biologic or 09/11/2024
+Revision with a Targeted Synthetic Oral Small Molecule Drug was changed
+to as listed (previously oral small molecule drug was listed as
+Disease-Modifying Antirheumatic Drug).
+Annual No criteria changes. 12/04/2024
+Revision
+Selected Crohn’s disease: This newly approved condition was added to 01/22/2025
+Revision the policy.
+Selected Ulcerative Colitis: For initial therapy, removed the following 07/23/2025
+Revision options of approval: (1) the patient has tried one systemic
+therapy; (2) the patient has pouchitis and tried an antibiotic,
+probiotic, corticosteroid enema, or mesalamine enema.
+5 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Omvoh Subcutaneous Prior
+Authorization Policy
+APPENDIX
+Mechanism of Action Examples of Indications*
+Biologics
+Adalimumab SC Products (Humira®, Inhibition of TNF AS, CD, JIA, PsO, PsA, RA, UC
+biosimilars)
+Cimzia® (certolizumab pegol SC Inhibition of TNF AS, CD, nr-axSpA, PsO, PsA,
+injection) RA
+Etanercept SC Products (Enbrel®, Inhibition of TNF AS, JIA, PsO, PsA, RA
+biosimilars)
+Infliximab IV Products (Remicade®, Inhibition of TNF AS, CD, PsO, PsA, RA, UC
+biosimilars)
+Zymfentra® (infliximab-dyyb SC Inhibition of TNF CD, UC
+injection)
+Simponi®, Simponi Aria® (golimumab Inhibition of TNF SC formulation: AS, PsA, RA,
+SC injection, golimumab IV infusion) UC
+IV formulation: AS, PJIA,
+PsA, RA
+Tocilizumab Products (Actemra® IV, Inhibition of IL-6 SC formulation: PJIA, RA,
+biosimilar; Actemra SC, biosimilar) SJIA
+IV formulation: PJIA, RA,
+SJIA
+Kevzara® (sarilumab SC injection) Inhibition of IL-6 RA
+Orencia® (abatacept IV infusion, T-cell costimulation SC formulation: JIA, PSA, RA
+abatacept SC injection) modulator IV formulation: JIA, PsA, RA
+Rituximab IV Products (Rituxan®, CD20-directed cytolytic RA
+biosimilars) antibody
+Kineret® (anakinra SC injection) Inhibition of IL-1 JIA^, RA
+Omvoh® (mirikizumab IV infusion, SC Inhibition of IL-23 CD, UC
+injection)
+Ustekinumab Products (Stelara® IV, Inhibition of IL-12/23 SC formulation: CD, PsO,
+biosimilar; Stelara SC, biosimilar) PsA, UC
+IV formulation: CD, UC
+Siliq® (brodalumab SC injection) Inhibition of IL-17 PsO
+Cosentyx® (secukinumab SC injection; Inhibition of IL-17A SC formulation: AS, ERA, nr-
+secukinumab IV infusion) axSpA, PsO, PsA
+IV formulation: AS, nr-
+axSpA, PsA
+Taltz® (ixekizumab SC injection) Inhibition of IL-17A AS, nr-axSpA, PsO, PsA
+Bimzelx® (bimekizumab-bkzx SC Inhibition of IL- PsO, AS, nr-axSpA, PsA
+injection) 17A/17F
+Ilumya® (tildrakizumab-asmn SC Inhibition of IL-23 PsO
+injection)
+Skyrizi® (risankizumab-rzaa SC Inhibition of IL-23 SC formulation: CD, PSA,
+injection, risankizumab-rzaa IV infusion) PsO, UC
+IV formulation: CD, UC
+Tremfya® (guselkumab SC injection, Inhibition of IL-23 SC formulation: CD, PsA,
+guselkumab IV infusion) PsO, UC
+IV formulation: CD, UC
+Entyvio® (vedolizumab IV infusion, Integrin receptor CD, UC
+vedolizumab SC injection) antagonist
+Oral Therapies/Targeted Synthetic Oral Small Molecule Drugs
+Otezla® (apremilast tablets) Inhibition of PDE4 PsO, PsA
+Cibinqo™ (abrocitinib tablets) Inhibition of JAK AD
+pathways
+Olumiant® (baricitinib tablets) Inhibition of JAK RA, AA
+pathways
+5 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Omvoh Subcutaneous Prior
+Authorization Policy
+Litfulo® (ritlecitinib capsules) Inhibition of JAK AA
+pathways
+Leqselvi® (deuruxolitinib tablets) Inhibition of JAK AA
+pathways
+Rinvoq® (upadacitinib extended-release Inhibition of JAK AD, AS, nr-axSpA, RA, PsA,
+tablets) pathways CD, UC
+Rinvoq® LQ (upadacitinib oral solution) Inhibition of JAK PsA, PJIA
+pathways
+Sotyktu® (deucravacitinib tablets) Inhibition of TYK2 PsO
+Xeljanz® (tofacitinib tablets/oral Inhibition of JAK RA, PJIA, PsA, UC
+solution) pathways
+Xeljanz® XR (tofacitinib extended- Inhibition of JAK RA, PsA, UC
+release tablets) pathways
+Zeposia® (ozanimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+Velsipity® (etrasimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+* Not an all-inclusive list of indications. Refer to the prescribing information for the respective agent for
+FDA-approved indications; SC – Subcutaneous; TNF – Tumor necrosis factor; AS – Ankylosing
+spondylitis; CD – Crohn’s disease; JIA – Juvenile idiopathic arthritis; PsO – Plaque psoriasis; PsA –
+Psoriatic arthritis; RA – Rheumatoid arthritis; UC – Ulcerative colitis; nr-axSpA – Non-radiographic axial
+spondyloarthritis; IV – Intravenous, PJIA – Polyarticular juvenile idiopathic arthritis; IL – Interleukin;
+SJIA – Systemic juvenile idiopathic arthritis; ^ Off-label use of Kineret in JIA supported in guidelines;
+ERA – Enthesitis-related arthritis; DMARD – Disease-modifying antirheumatic drug; PDE4 –
+Phosphodiesterase 4; JAK – Janus kinase; AD – Atopic dermatitis; AA – Alopecia areata; TYK2 – Tyrosine
+kinase 2.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+5 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Omvoh Subcutaneous Prior
+Authorization Policy

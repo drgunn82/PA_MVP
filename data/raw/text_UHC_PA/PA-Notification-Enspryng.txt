@@ -1,0 +1,60 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1331-5
+Program Prior Authorization/Notification
+Medications Enspryng™ (satralizumab-mwge)
+P&T Approval Date 10/2020, 10/2021, 10/2022, 10/2023, 10/2024
+Effective Date 1/1/2025
+1. Background:
+Enspryng (satralizumab-mwge) is an interleukin-6 (IL-6) receptor antagonist indicated for the
+treatment of neuromyelitis optica spectrum disorder (NMOSD) in adult patients who are anti-
+aquaporin-4 (AQP4) antibody positive.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Enspryng will be approved based on all of the following criteria:
+a. Diagnosis of neuromyelitis optica spectrum disorder (NMOSD)
+-AND-
+b. Patient has a positive serologic test for anti-aquaporin-4 (AQP4) antibodies
+-AND-
+c. Patient is not receiving Enspryng in combination with any of the following:
+(1) Disease modifying therapies for the treatment of multiple sclerosis [e.g., Gilenya
+(fingolimod), Tecfidera (dimethyl fumarate), Ocrevus (ocrelizumab), etc.]
+(2) Complement inhibitors [e.g., Soliris (eculizumab), Ultomiris (ravulizumab), etc.]
+(3) Anti-IL6 therapy [e.g., Actemra (tocilizumab)]
+(4) B-cell depletion therapy [e.g., rituximab, Uplizna (inebilizumb-cdon)]
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Enspryng will be approved based on both of the following criteria:
+a. Documentation of positive clinical response to Enspryng therapy
+-AND-
+b. Patient is not receiving Enspryng in combination with any of the following:
+© 2024 UnitedHealthcare Services, Inc.
+1
+(1) Disease modifying therapies for the treatment of multiple sclerosis [e.g., Gilenya
+(fingolimod), Tecfidera (dimethyl fumarate), Ocrevus (ocrelizumab), etc.]
+(2) Complement inhibitors [e.g., Soliris (eculizumab), Ultomiris (ravulizumab), etc.]
+(3) Anti-IL6 therapy [e.g., Actemra (tocilizumab)]
+(4) B-cell depletion therapy [e.g., rituximab, Uplizna (inebilizumb-cdon)]
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Medical Necessity, Supply limits may be in place.
+4. References:
+1. Enspryng [package insert]. South San Francisco, CA: Genentech, Inc.; March 2022.
+Program Prior Authorization/Notification – Enspryng (satralizumab-mwge)
+Change Control
+10/2020 New program.
+10/2021 Annual review with no changes to clinical criteria.
+10/2022 Annual review with no changes to clinical criteria. Added state
+mandate footnote. Updated reference.
+10/2023 Annual review. No changes.
+10/2024 Annual review. No changes to coverage criteria. Updated examples of
+complement inhibitors.
+© 2024 UnitedHealthcare Services, Inc.
+2

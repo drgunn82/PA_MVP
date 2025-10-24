@@ -1,0 +1,130 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1326-9
+Program Prior Authorization-Notification
+Medication Nurtec® ODT (rimegepant), Qulipta™ (atogepant), Ubrelvy™
+(ubrogepant), Zavzpret™ (zavegepant)*
+P&T Approval Date 9/2020, 7/2021, 12/2021, 3/2022, 3/2023, 7/2023, 6/2024, 8/2024,
+2/2025
+Effective Date 5/1/2025
+1. Background:
+Nurtec ODT (rimegepant), Ubrelvy (ubrogepant) and Zavzpret (zavegepant)* are calcitonin
+gene-related peptide receptor antagonists indicated for the acute treatment of migraine with
+or without aura in adults. Nurtec ODT is also indicated for the preventive treatment of
+episodic migraine in adults and Qulipta (atogepant) is indicated for the preventive treatment
+of migraine in adults.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Ubrelvy or Zavzpret will be approved based on all of the following criteria:
+a. Diagnosis of migraine headaches with or without aura.
+-AND-
+b. Used for acute treatment of migraine
+-AND-
+c. Medication will not be used in combination with another acute calcitonin gene-
+related peptide receptor (CGRP) antagonist (e.g. Nurtec ODT)
+Authorization will be issued for 12 months.
+2. Nurtec ODT will be approved based on one of the following criteria:
+a. All of the following:
+1) Diagnosis of migraine headaches with or without aura.
+-AND-
+2) Used for acute treatment of migraine
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+1
+3) Medication will not be used in combination with another acute calcitonin gene-
+related peptide receptor (CGRP) antagonist (e.g., Ubrelvy, Zavzpret)
+-OR-
+b. All of the following:
+1) Diagnosis of episodic migraines
+-AND-
+2) Used for preventive treatment of migraines
+-AND-
+3) Medication will not be used in combination with another CGRP antagonist or
+inhibitor used for the preventive treatment of migraines (e.g., Aimovig, Ajovy*,
+Emgality, Qulipta, Vyepti^)
+Authorization will be issued for 12 months.
+3. Qulipta will be approved based all of the following criteria:
+a. Diagnosis of migraines
+-AND-
+b. Used for preventive treatment of migraines
+-AND-
+c. Medication will not be used in combination with another CGRP antagonist or
+inhibitor used for the preventive treatment of migraines (e.g., Aimovig, Ajovy*,
+Emgality, Vyepti^, Nurtec ODT)
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Ubrelvy or Zavzpret will be approved based on the following criteria:
+a. Documentation of positive clinical response to therapy
+-AND-
+b. Medication will not be used in combination with another acute calcitonin gene-
+related peptide receptor (CGRP) antagonist (e.g., Nurtec ODT
+© 2025 UnitedHealthcare Services, Inc.
+2
+Authorization will be issued for 12 months.
+2. Nurtec ODT will be approved based on the following criteria:
+a. Documentation of positive clinical response to therapy
+-AND-
+b. One of the following:
+1) Both of the following:
+a) Use is for the acute treatment of migraine
+-AND-
+b) Medication will not be used in combination with another acute calcitonin
+gene-related peptide receptor (CGRP) antagonist (e.g., Ubrelvy, Zavzpret)
+-OR-
+2) Both of the following:
+a) Use is for the preventive treatment of migraines
+-AND-
+b) Medication will not be used in combination with another CGRP antagonist
+or inhibitor used for the preventive treatment of migraines (e.g., Aimovig,
+Ajovy*, Emgality, Qulipta, Vyepti^)
+Authorization will be issued for 12 months.
+3. Qulipta will be approved based on the following criteria:
+a. Documentation of positive clinical response to therapy
+-AND-
+b. Medication will not be used in combination with another CGRP antagonist or
+inhibitor used for the preventive treatment of migraines (e.g. Aimovig, Ajovy*,
+Emgality, Nurtec ODT, Vyepti^)
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+*Ajovy, is typically excluded from coverage.
+© 2025 UnitedHealthcare Services, Inc.
+3
+^Vyepti may be subject to additional benefit and coverage review requirements.
+3. Additional Clinical Programs:
+• Supply limits may apply.
+• Prior Authorization-Medical Necessity may apply
+• Step Therapy may apply
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+4. References:
+1. Nurtec ODT [package insert]. New York, NY: Pfizer, Inc. April 2024.
+2. Qulipta [package insert]. North Chicago IL: AbbVie Inc; June 2023.
+3 Ubrelvy [package insert]. North Chicago IL: AbbVie, Inc; February 2023.
+4. Zavzpret [package insert]. New York, NY: Pfizer Inc.; March 2023
+5. Calcitonin gene-related peptide-targeting therapies are a first-line option for the prevention of
+migraine: An American Headache Society position statement update. AHS Consensus
+Statement. Headache. 2024; 64:333-41.
+Program Prior Authorization-Notification – Nurtec ODT, Qulipta, Ubrelvy,
+Zavzpret
+Change Control
+Date Change
+9/2020 New program.
+7/2021 Added new indication for Nurtec ODT for episodic migraines. Added
+statement regarding concomitant therapy with other CGRPs. Updated
+references. Added state mandate language.
+12/2021 Added Qulipta for preventive treatment of migraines. Updated references.
+3/2022 Updated the products typically excluded from coverage. Added note for
+Vyetpi regarding additional benefit and coverage review requirements.
+Updated references.
+3/2023 Updated reference.
+7/2023 Added Zavzpret, updated CGRP examples, removed episodic for Quilipta.
+6/2024 Removed notation that Qulipta and Zavzpret are typically excluded from
+coverage. Updated references.
+8/2024 Review. No changes.
+2/2025 Review. No changes.
+© 2025 UnitedHealthcare Services, Inc.
+4

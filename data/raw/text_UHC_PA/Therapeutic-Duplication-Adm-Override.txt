@@ -1,0 +1,55 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 4030-3
+Program Therapeutic Duplication – administrative override
+Medication Therapeutic Duplication
+P&T Approval Date 12/2023, 2/2024, 8/2024
+Effective Date 9/15/2024
+1. Background:
+A concurrent DUR (cDUR) program screens all retail and mail service prescription claims at
+the point of service before the drug is dispensed. The cDUR system screens each prescription
+against the member’s prescription drug history. The system evaluates drug prescribing and
+utilization, including therapeutic duplication, as well as drug interactions to improve quality
+and cost effectiveness of dispensed medications by helping to ensure that adjudicated and
+covered prescriptions are clinically appropriate. The program includes communication avenues
+through claims edits and messaging to the dispensing pharmacy at point-of-service.
+The following situations would result in application of the therapeutic duplication edit:
+• The requested medication has been utilized concurrently with a different drug in the same
+therapeutic class per recent prescription claims history.
+• The requested medication has been utilized concurrently in a different dosage of the same
+medication per recent prescription claims history.
+• The requested medication has been utilized concurrently with a different drug in a different
+therapeutic class per recent prescription claims history, when the two medications share the
+same clinical indication but lack support for concomitant use from evidence-based
+medicine.
+2. Drug Classes Subject to a Therapeutic Duplication Edit:
+A. Drug Classes Subject to Therapeutic Duplication Edit (Reject 88):
+Both brand and generic versions of medications are subject to edit
+B. Diabetes Agents
+GLP-1 Receptor Agonists
+GLP-1 Receptor Agonists/DPP4 inhibitors
+3. Coverage Criteria:
+Therapeutic Duplication criteria
+The requested medication that is subject to the therapeutic duplication edit will be approved based
+on one of the following criteria:
+A. The requested medication will be used exclusively, and the previously
+prescribed medication will be discontinued
+© 2024 UnitedHealthcare Services, Inc.
+1
+-OR-
+B. Special circumstances exist that necessitate the need for duplicate therapy such as a
+nationally recognized drug shortage (document special circumstances)
+Authorization will be issued for 2 weeks
+4. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+Program Prior Authorization – Therapeutic Duplication
+Change Control
+12/2023 New program
+2/2024 Updated authorization duration to 2 weeks.
+8/2024 Added GLP1/DPP4 combinations.
+© 2024 UnitedHealthcare Services, Inc.
+2

@@ -1,0 +1,113 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Gastroenterology – Gattex Prior Authorization Policy
+• Gattex® (teduglutide subcutaneous injection – Takeda)
+REVIEW DATE: 06/11/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Gattex, a glucagon-like peptide-2 (GLP-2) analog, is indicated for the treatment of
+short bowel syndrome in patients ≥ 1 year of age who are dependent on parenteral
+support.1
+Clinical Efficacy
+In a study involving adults (n = 86) with short bowel syndrome requiring parenteral
+support at least 3 days per week, more patients treated with Gattex through Month
+6 achieved ≥ 20% reduction in weekly intravenous volume (63% vs. 30% with
+placebo).1 The mean reduction in intravenous volume was 4.4 liters with Gattex vs.
+2.3 liters with placebo. When treated over an additional 2 years, the mean reduction
+from baseline was 7.55 liters. Ten patients were weaned off nutritional support and
+remained on Gattex therapy. At Week 24 of a pediatric study, 69% of patients (n =
+18/26) reduced parenteral support volume by at least 20% with Gattex. The mean
+Page 1 of 3 - Cigna National Formulary Coverage - Policy: Gastroenterology – Gattex Prior Authorization Policy
+reduction in intravenous volume was -23 mL/kg/day, a 42% reduction in parenteral
+support. Three patients were weaned off parenteral nutritional support.
+Safety
+Gattex has Warnings and Precautions regarding acceleration of neoplastic growth,
+colorectal polyps, intestinal obstruction, biliary and pancreatic disease, fluid overload
+(including congestive heart failure), and potential for increased absorption of
+concomitant oral medications, particularly those with a narrow therapeutic index.1
+Gattex was approved with a Risk Evaluation and Mitigation Strategy (REMS) program
+intended to inform healthcare providers and patients about serious risks, including
+the risks of possible acceleration of neoplastic growth and enhancement of colon
+polyp growth, gastrointestinal obstruction, and biliary and pancreatic disorders.2
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Gattex. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Gattex as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Gattex to be prescribed by or in consultation with a physician who specializes in the
+condition being treated.
+• Gattex® (teduglutide subcutaneous injection – Takeda)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Short Bowel Syndrome. Approve for the duration noted if the patient meets
+ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, and iii):
+i. Patient is ≥ 1 year of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient is currently receiving parenteral nutrition on 3 or more days per
+week; OR
+b) According to the prescriber, the patient is unable to receive adequate
+total parenteral nutrition (TPN) required for caloric needs; AND
+iii. The medication is prescribed by or in consultation with a gastroenterologist;
+OR
+B) Patient is Currently Receiving Gattex. Approve for 1 year if the patient meets
+ALL of the following (i, ii, and iii):
+i. Patient has already received at least 6 months of therapy with Gattex; AND
+Note: A patient who has received < 6 months of continuous therapy should
+be considered under criterion 1A (Initial Therapy).
+Page 2 of 3 - Cigna National Formulary Coverage - Policy: Gastroenterology – Gattex Prior Authorization Policy
+ii. According to the prescriber, the patient has experienced at least a 20%
+decrease from baseline in the weekly volume of parenteral nutrition; AND
+iii. The medication is prescribed by or in consultation with a gastroenterologist.
+CONDITIONS NOT COVERED
+• Gattex® (teduglutide subcutaneous injection – Takeda)
+is(are) considered not medically necessary for ANY other use(s); criteria will
+be updated as new published data are available.
+REFERENCES
+1. Gattex® subcutaneous injection [prescribing information]. Cambridge, MA: Takeda; September
+2024.
+2. Gattex REMS; Shire Web site. Available at: http://www.gattexrems.com/. Accessed on May 30,
+2025.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 06/28/2023
+Revision
+Annual No criteria changes. 06/26/2024
+Revision
+Annual No criteria changes. 06/11/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+Page 3 of 3 - Cigna National Formulary Coverage - Policy: Gastroenterology – Gattex Prior Authorization Policy

@@ -1,0 +1,1056 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2014-29
+Program Prior Authorization/Medical Necessity - Long-Acting Opioid
+Pain Medications
+Medication Includes both brand and generic versions of the listed
+products unless otherwise noted: fentanyl transdermal patch
+(generic Duragesic®) 12, 25, 50, 75, 100 mcg/hr, fentanyl
+transdermal patch 37.5, 62.5, 87.5 mcg/hr^, hydrocodone
+extended-release capsules (generic ZohydroTM ER), hydrocodone
+extended-release tablets (generic HysinglaTM ER),
+hydromorphone extended-release (generic Exalgo®), Hysingla
+ER^, methadone, morphine sulfate controlled-release capsules
+(generic Avinza®), morphine sulfate controlled-release tablets
+(generic MS Contin®), morphine sulfate sustained-release
+capsules (generic Kadian®), MS Contin^, Nucynta® ER
+(tapentadol extended-release), oxycodone controlled-release
+(authorized generic for OxyContin®)^, OxyContin^,
+oxymorphone extended-release (generic Opana® ER), Xtampza®
+ER (oxycodone extended-release)
+P&T Approval Date 2/2014, 4/2014, 1/2015, 4/2015, 10/2015, 7/2016, 8/2016,
+10/2016, 12/2016, 1/2017, 3/2017, 5/2017, 7/2017, 8/2017,
+2/2018, 6/2018, 4/2019, 8/2019, 10/2019, 12/2019, 4/2020,
+5/2021, 9/2021, 4/2022, 8/2022, 12/2022, 8/2023, 10/2023,
+10/2024
+Effective Date 1/1/2025
+1. Background:
+Long-acting opioid analgesics, fentanyl transdermal patch, hydromorphone extended-
+release, hydrocodone extended-release capsules, Hysingla ER, methadone, morphine
+sulfate controlled-release capsules, morphine sulfate sustained-release capsules, MS
+Contin, Nucynta ER, OxyContin, oxymorphone extended-release, and Xtampza ER are
+indicated for the management of moderate to severe pain when a continuous, around-the-
+clock opioid is needed for an extended period of time and for which alternative treatment
+options are not appropriate. They are not intended for use as an as needed analgesic.
+Long-acting opioids are not indicated for pain in the immediate postoperative period (the
+first 12-24 hours following surgery), or if the pain is mild, or not expected to persist for
+an extended period of time. They are only indicated for postoperative use if the patient is
+already receiving the drug prior to surgery or if the postoperative pain is expected to be
+moderate to severe and persist for an extended period of time. Physicians should
+individualize treatment, moving from parenteral to oral analgesics as appropriate.
+© 2024 UnitedHealthcare Services, Inc.
+1
+Long-acting opioids should not be used in treatment naïve patients. Physicians should
+individualize treatment in every case, initiating therapy at the appropriate point along a
+progression from non-opioid analgesics, such as non-steroidal anti-inflammatory drugs
+and acetaminophen to opioids in a plan of pain management such as those outlined by the
+World Health Organization, the Agency for Healthcare Research and Quality, the
+Federation of State Medical Boards Model Guidelines, or the American Pain Society.
+The CDC recommends the following best practices in the prescription of long-acting
+opioids:
+• Nonpharmacologic therapy and nonopioid pharmacologic therapy are preferred for
+chronic pain.
+• Before starting opioid therapy, treatment goals should be established with patients
+that include realistic goals for pain and function and should consider how therapy will
+be discontinued if benefits do not outweigh risks. For some clinical contexts (e.g.,
+headache or fibromyalgia), the expected benefits of initiating opioids are unlikely to
+outweigh the risks. Track pain and function at every visit (at least every 3 months)
+using a brief, validated instrument. Continue opioid therapy only if there is clinically
+meaningful improvement in pain and function that outweighs risks to patient safety.
+• When starting opioid therapy for chronic pain, clinicians should prescribe immediate-
+release opioids instead of extended release/long-acting opioids.
+• Document the daily morphine milligram equivalent (MME) in mg/day from all
+sources of opioids. Access the state prescription drug monitoring program (PDMP)
+data at treatment initiation and periodically during treatment.
+• Caution should be used when opioids are prescribed with benzodiazepines
+concurrently. Screen for past and current substance abuse and for severe depression,
+anxiety, and PTSD prior to initiation.
+• Benefits and risks of toxicology testing should be considered to assess for prescribed
+and nonprescribed controlled substances.
+• Avoid escalating doses above 50-90 mg/day MME unless sustained meaningful
+improvement in pain and function is attained.
+• Clinicians should evaluate benefits and harms of continued therapy at least every 3
+months. If benefits do not outweigh harms, physicians should maximize other
+therapies and work closely with the patients to gradually reduce or taper opioids.
+Evaluation should include assessment of substance use disorder/opioid dependence.
+Validated scales (such as the DAST-10) are available at www.drugabuse.gov.
+Section Overview
+Section 2: Medical Necessity Coverage Criteria for Book of Business
+Section 3: Medical Necessity Coverage Criteria for State of Florida, Maryland, West
+Virginia
+Section 4: Medical Necessity Coverage Criteria for State of Louisiana
+2. Coverage Criteriaa (refer to section overview for state specific criteria and supply
+limit coverage criteria)
+© 2024 UnitedHealthcare Services, Inc.
+2
+A. Cancer or End of Life (defined as a < 2 year life expectancy) related painb
+1. Fentanyl transdermal patch (generic Duragesic) 12, 25, 50, 75, 100
+mcg/hr, methadone, and morphine sulfate controlled-release tablets
+(generic MS Contin) will be approved for cancer related pain based on the
+following criterion:
+a. Patient requires treatment with opioids due to active cancer diagnosis or
+end of life related pain (document cancer diagnosis or for end of life,
+expectancy of < 2 years.)
+2. Fentanyl transdermal patch 37.5, 62.5, 87.5 mcg/hr^, hydrocodone
+extended-release capsules (generic Zohydro ER), hydrocodone extended-
+release tablets (generic Hysingla ER), hydromorphone extended-release
+(generic Exalgo), Hysingla ER^, morphine sulfate controlled-release
+capsules (generic Avinza), morphine sulfate sustained-release capsules
+(generic Kadian), MS Contin^, Nucynta ER, oxycodone controlled-
+release (authorized generic for OxyContin)^, OxyContin^,
+oxymorphone extended release (generic Opana ER), and Xtampza ER
+[Applies to all brand and generic versions of listed products except
+generic morphine sulfate controlled-release tablets (generic MS Contin)
+and fentanyl transdermal patch (generic Duragesic strengths)] will be
+approved based on BOTH of the following criteria:
+a. Patient requires treatment with opioids due to active cancer diagnosis or
+end of life related pain (document cancer diagnosis or for end of life,
+expectancy of < 2 years.)
+-AND-
+b. ONE of the following:
+(1) History of failure, contraindication or intolerance to the following
+(Document date of trial):
+(a) morphine sulfate controlled-release tablets (generic MS Contin)d
+-OR-
+(2) Patient is established on pain therapy with the requested medication
+for cancer-related or end of life pain (< 2 years life expectancy), and
+the medication is not a new regimen for the treatment of cancer-
+related or end of life (< 2 years life expectancy) pain.
+-OR-
+© 2024 UnitedHealthcare Services, Inc.
+3
+(3) Request is for hydrocodone extended-release tablets (generic
+Hysingla ER), Hysingla ER^, oxycodone controlled-release
+(authorized generic for OxyContin)^, OxyContin^ or Xtampza
+ER and the patient has risk factors for substance abuse
+Authorization will be issued for 24 months up to the dose allowed by supply
+limit review (please refer supply limit criteria). If the patient is currently
+taking the requested long-acting opioid OR was recently switched from
+another long-acting opioid and does not meet the medical necessity initial
+authorization criteria requirements for long-acting opioids, a denial should
+be issued and a 90-day authorization may be authorized for the requested
+drug/strength combination up to the requested quantity for transition to an
+alternative treatment. There is no limit to the number of 90-day
+authorizations that may be granted.
+B. Non-cancer and Non-End of Life pain
+1. Initial Authorization
+a. Fentanyl transdermal patch (generic Duragesic) 12, 25, 50, 75, 100
+mcg/hr, methadone, and morphine sulfate controlled-release tablets
+(generic MS Contin) will be approved based on ALL of the following
+criteria:
+(1) Prescriber attests to BOTH of the following:
+• Patient has been screened for substance abuse/opioid dependence
+• Pain is moderate to severe and expected to persist for an extended
+period of time (chronic)
+-AND-
+(2) Treatment goals are defined and include estimated duration of
+treatment (must document treatment goals)
+-AND-
+(3) Patient has been screened for underlying depression and/or anxiety. If
+applicable, any underlying conditions have been or will be addressed
+-AND-
+(4) ONE of the following:
+© 2024 UnitedHealthcare Services, Inc.
+4
+(a) BOTH of the following:
+i. The patient is being treated for moderate to severe chronic pain
+that is non-neuropathic (see below for neuropathic pain and
+fibromyalgia sections)
+-AND-
+ii. ONE of the following:
+a) Prior to the start of therapy with the long-acting opioid, the
+patient has failed an adequate (minimum of 4 week) trial of a
+short-acting opioid. (Document drug(s) and date of trial).
+-OR-
+b) The patient is new to the plan (as evidenced by coverage
+effective date of less than or equal to 120 days) and is
+currently established on the requested long-acting opioid.
+-OR-
+(b) BOTH of the following:
+i. The patient is being treated for moderate to severe neuropathic
+pain (e.g., neuralgia, neuropathy) (See below for fibromyalgia
+section)
+-AND-
+ii. ONE of the following:
+a) BOTH of the following:
+1) Unless it is contraindicated, the patient has not exhibited
+an adequate response to 8 weeks of treatment with
+gabapentin titrated to a therapeutic dose.c (Document date
+of trial)
+2) Unless it is contraindicated, the patient has not exhibited
+an adequate response to at least 6 weeks of treatment with
+a tricyclic antidepressant titrated to the maximum
+tolerated dose. c (Document drug, and date of trial)
+-OR-
+© 2024 UnitedHealthcare Services, Inc.
+5
+b) The patient is new to the plan (as evidenced by coverage
+effective date of less than or equal to 120 days) and is currently
+established on the requested long-acting opioid.
+-OR-
+(c) ALL of the following:
+i. The patient is being treated for moderate to severe fibromyalgia
+-AND-
+ii. Submission of medical records (e.g., chart notes) documenting
+the patient is currently established on a long-acting opioid
+-AND-
+iii. Submission of medical records (e.g., chart notes) documenting
+the patient has experienced a benefit from opioid therapy
+b. Fentanyl transdermal patch 37.5, 62.5, 87.5 mcg/hr^, hydrocodone
+extended-release capsules (generic Zohydro ER), hydrocodone
+extended-release tablets (generic Hysingla ER), hydromorphone
+extended-release (generic Exalgo), Hysingla ER^, morphine sulfate
+controlled-release capsules (generic Avinza), morphine sulfate
+sustained-release capsules (generic Kadian), MS Contin^, Nucynta
+ER, oxycodone controlled-release (authorized generic for
+OxyContin)^, OxyContin^, oxymorphone extended-release (generic
+Opana ER), and Xtampza ER [Applies to all brand and generic
+versions of listed products except generic morphine sulfate
+controlled-release tablets (generic MS Contin) and fentanyl
+transdermal patch (generic Duragesic strengths)] will be approved for
+non-cancer and non-end of life related pain based on ALL of the
+following criteria:
+(1) The prescriber attests to BOTH of the following:
+• Patient has been screened for substance abuse/opioid dependence
+• Pain is moderate to severe and expected to persist for an extended
+period of time (chronic)
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+6
+(2) Treatment goals are defined and include estimated duration of
+treatment (must document treatment goals)
+-AND-
+(3) Patient has been screened for underlying depression and/or anxiety. If
+applicable, any underlying conditions have been or will be addressed
+-AND-
+(4) ONE of the following:
+(a) BOTH of the following:
+i. The patient is being treated for moderate to severe chronic pain
+that is non-neuropathic (see below for neuropathic pain and
+fibromyalgia sections)
+-AND-
+ii. ONE of the following:
+a) Prior to the start of therapy with the long-acting opioid, the
+patient has failed an adequate (minimum of 4 week) trial of a
+short-acting opioid. (Document drug(s) and date of trial).
+-OR-
+b) The patient is new to the plan (as evidenced by coverage
+effective date of less than or equal to 120 days) and is
+currently established on the requested long-acting opioid.
+-OR-
+(b) BOTH of the following:
+i. The patient is being treated for moderate to severe neuropathic
+pain (e.g., neuralgia, neuropathy) (See below for fibromyalgia
+section)
+-AND-
+ii. ONE of the following:
+a) BOTH of the following:
+© 2024 UnitedHealthcare Services, Inc.
+7
+1) Unless it is contraindicated, the patient has not exhibited
+an adequate response to 8 weeks of treatment with
+gabapentin titrated to a therapeutic dose.c (Document date
+of trial)
+2) Unless it is contraindicated, the patient has not exhibited
+an adequate response to at least 6 weeks of treatment with
+a tricyclic antidepressant titrated to the maximum
+tolerated dose. c (Document drug, and date of trial)
+-OR-
+b) The patient is new to the plan (as evidenced by coverage
+effective date of less than or equal to 120 days) and is
+currently established on the requested long-acting opioid.
+-OR-
+(c) ALL of the following:
+i. The patient is being treated for moderate to severe fibromyalgia
+-AND-
+ii. Submission of medical records (e.g., chart notes) documenting
+the patient is currently established on a long-acting opioid
+-AND-
+iii. Submission of medical records (e.g., chart notes) documenting
+the patient has experienced a benefit from opioid therapy
+-AND-
+(5) One of the following:
+(a) The patient has a history of failure, contraindication or intolerance
+to the following (Document date of trial):
+i) morphine sulfate controlled-release tablets (generic MS
+Contin)d
+-OR-
+© 2024 UnitedHealthcare Services, Inc.
+8
+(b) Request is for hydrocodone ER tablets (generic Hysingla ER),
+Hysingla ER^, oxycodone controlled-release (authorized
+generic for OxyContin)^, OxyContin^ or Xtampza ER and the
+patient has risk factors for substance abuse
+Authorization will be issued for 6 months for non-cancer and non-end of life
+pain up to the dose allowed by supply limit review (please refer to supply
+limit criteria). If the member is currently taking the requested long-acting
+opioid OR was recently switched from another long-acting opioid and does
+not meet the medical necessity initial authorization criteria requirements
+for long-acting opioids, a denial should be issued and a90-day authorization
+may be authorized for the requested drug/strength combination up to the
+requested quantity for transition to an alternative treatment. There is no
+limit to the number of 90-day authorizations that may be granted.
+2. Reauthorization
+a. Fentanyl transdermal patch, hydrocodone extended-release
+capsules (generic Zohydro ER), hydrocodone extended-release
+tablets (generic Hysingla ER), hydromorphone extended-release
+(generic Exalgo), Hysingla ER^, methadone, morphine sulfate
+controlled-release capsules (generic Avinza), morphine sulfate
+controlled-release tablets (generic MS Contin), morphine sulfate
+sustained-release capsules (generic Kadian), MS Contin^,
+Nucynta ER, oxycodone controlled-release (authorized generic
+for OxyContin)^, OxyContin^, oxymorphone extended-release
+(generic Opana ER), and Xtampza ER [Applies to all brand and
+generic versions of listed products)] will be reauthorized based on all
+of the following criteria:
+(1) Documented meaningful improvement in pain and function when
+assessed against treatment goals (Document improvement in function
+or pain score improvement)
+-AND-
+(2) Document rationale for not tapering or discontinuing opioid if
+treatment goals are not being met
+-AND-
+(3) Prescriber attests to BOTH of the following:
+• Patient has been screened for substance abuse/opioid dependence
+© 2024 UnitedHealthcare Services, Inc.
+9
+• Pain is moderate to severe and expected to persist for an extended
+period of time (chronic)
+Authorization will be issued for 6 months for non-cancer and non-end of life
+pain up to the dose allowed by supply limit review (please refer to supply
+limit criteria). If the patient is currently taking the requested long-acting
+opioid OR was recently switched from another long-acting opioid and does
+not meet the medical necessity reauthorization criteria requirements for
+long-acting opioids, a denial should be issued and a90-day authorization
+may be authorized for the requested drug/strength combination up to the
+requested quantity for transition to an alternative treatment. There is no
+limit to the number of 90-day authorizations that may be granted.
+a. State mandates may apply. Any federal regulatory requirements and the member
+specific benefit plan coverage may also impact coverage criteria. Other policies and
+utilization management programs may apply.
+b. Coverage of medications to treat conditions associated with cancer may be approved
+based on state mandates.
+c. For Connecticut, Kentucky and Mississippi business, only a 30 day trial will be
+required.
+d. For Nucynta ER, step therapy not applicable to Colorado business.
+3. Coverage Criteria for the State of Florida, Maryland, West Virginiaa:
+A. Cancer or End of Life (defined as a < 2 year life expectancy) related painb
+1. Fentanyl transdermal patch (generic Duragesic) 12, 25, 50, 75, 100
+mcg/hr, hydrocodone ER tablets (generic Hysingla ER), Hysingla ER^,
+methadone, morphine sulfate controlled-release tablets (generic MS
+Contin), oxycodone controlled-release (authorized generic for
+OxyContin)^, OxyContin^ and Xtampza ER will be approved for cancer
+related pain based on the following criterion:
+a. Patient requires treatment with opioids due to active cancer diagnosis or
+end of life related pain (document cancer diagnosis or for end of life,
+expectancy of < 2 years.)
+2. Fentanyl transdermal patch 37.5, 62.5, 87.5 mcg/hr^, hydrocodone
+extended-release capsules (generic Zohydro ER), hydromorphone
+extended-release (generic Exalgo), morphine sulfate controlled-release
+capsules (generic Avinza), morphine sulfate sustained-release capsules
+(generic Kadian), MS Contin^, Nucynta ER, and oxymorphone
+extended-release (generic Opana ER) [Applies to all brand and generic
+versions of listed products except generic morphine sulfate controlled-
+release tablets (generic MS Contin) and fentanyl transdermal patch
+© 2024 UnitedHealthcare Services, Inc.
+10
+(generic Duragesic strengths)] will be approved for non-cancer and non-
+end of life related pain based on BOTH of the following criteria:
+a. Patient requires treatment with opioids due to active cancer diagnosis or
+end of life related pain (document cancer diagnosis or for end of life,
+expectancy of < 2 years.)
+-AND-
+b. ONE of the following:
+(1) History of failure, contraindication or intolerance to the following:
+(Document date of trial)
+(a) morphine sulfate controlled-release tablets (generic MS Contin)
+-OR-
+(2) Patient is established on pain therapy with the requested medication
+for cancer-related or end of life pain (< 2 years life expectancy), and
+the medication is not a new regimen for the treatment of cancer-
+related or end of life (< 2 years life expectancy) pain.
+Authorization will be issued for 24 months up to the dose allowed by supply
+limit review (please refer to supply limit criteria). If the patient is currently
+taking the requested long-acting opioid OR was recently switched from
+another long-acting opioid and does not meet the medical necessity initial
+authorization criteria requirements for long-acting opioids, a denial should
+be issued and a 90-day authorization may be authorized for the requested
+drug/strength combination up to the requested quantity for transition to an
+alternative treatment. There is no limit to the number of 90-day
+authorizations that may be granted.
+B. Non-cancer and Non-End of Life pain
+1. Initial Authorization
+a. Fentanyl transdermal patch (generic Duragesic) 12, 25, 50, 75, 100
+mcg/hr, hydrocodone ER tablets (generic Hysingla ER), Hysingla
+ER^, methadone, morphine sulfate controlled-release tablets (generic
+MS Contin), oxycodone controlled-release (authorized generic for
+OxyContin)^, OxyContin^ and Xtampza ER will be approved based
+on the following criteria:
+(1) Prescriber attests to BOTH of the following:
+• Patient has been screened for substance abuse/opioid dependence
+© 2024 UnitedHealthcare Services, Inc.
+11
+• Pain is moderate to severe and expected to persist for an extended
+period of time (chronic)
+-AND-
+(2) Treatment goals are defined and include estimated duration of
+treatment (must document treatment goals).
+-AND-
+(3) Patient has been screened for underlying depression and/or anxiety. If
+applicable, any underlying conditions have been or will be addressed.
+-AND-
+(4) ONE of the following:
+(a) BOTH of the following:
+i. The patient is being treated for moderate to severe chronic pain
+that is non-neuropathic (see below for neuropathic pain and
+fibromyalgia sections)
+-AND-
+ii. ONE of the following:
+a) Prior to the start of therapy with the long-acting opioid, the
+patient has failed an adequate (minimum of 4 week) trial of a
+short-acting opioid. (Document drug(s) and date of trial).
+-OR-
+b) The patient is new to the plan (as evidenced by coverage
+effective date of less than or equal to 120 days) and is
+currently established on the requested long-acting opioid.
+-OR-
+(b) BOTH of the following:
+i. The patient is being treated for moderate to severe neuropathic
+pain (e.g., neuralgia, neuropathy) (See below for fibromyalgia
+section)
+© 2024 UnitedHealthcare Services, Inc.
+12
+-AND-
+ii. ONE of the following:
+a) BOTH of the following:
+1) Unless it is contraindicated, the patient has not exhibited
+an adequate response to 8 weeks of treatment with
+gabapentin titrated to a therapeutic dose. (Document date
+of trial)
+2) Unless it is contraindicated, the patient has not exhibited
+an adequate response to at least 6 weeks of treatment with
+a tricyclic antidepressant titrated to the maximum tolerated
+dose. (Document drug, and date of trial)
+-OR-
+b) The patient is new to the plan (as evidenced by coverage
+effective date of less than or equal to 120 days) and is currently
+established on the requested long-acting opioid.
+-OR-
+(c) ALL of the following:
+i. The patient is being treated for moderate to severe fibromyalgia
+-AND-
+ii. Submission of medical records (e.g., chart notes) documenting
+the patient is currently established on a long-acting opioid
+-AND-
+iii. Submission of medical records (e.g., chart notes) documenting
+the patient has experienced a benefit from opioid therapy
+b. Fentanyl transdermal patch 37.5, 62.5, 87.5 mcg/hr^, hydrocodone
+extended-release capsules (generic Zohydro), hydromorphone
+extended-release (generic Exalgo), morphine sulfate controlled-
+release capsules (generic Avinza), morphine sulfate sustained-release
+capsules (generic Kadian) MS Contin^, Nucynta ER, and
+oxymorphone extended-release (generic Opana ER) [Applies to all
+© 2024 UnitedHealthcare Services, Inc.
+13
+brand and generic versions of listed products except generic
+morphine sulfate controlled-release tablets (generic MS Contin) and
+fentanyl transdermal patch (generic Duragesic strengths)] will be
+approved for non-cancer and non-end of life related pain based on the
+following criteria:
+(1) Prescriber attests to BOTH of the following:
+• Patient has been screened for substance abuse/opioid dependence
+• Pain is moderate to severe and expected to persist for an extended
+period of time (chronic)
+-AND-
+(2) Treatment goals are defined and include estimated duration of
+treatment (must document treatment goals)
+-AND-
+(3) Patient has been screened for underlying depression and/or anxiety. If
+applicable, any underlying conditions have been or will be addressed
+-AND-
+(4) ONE of the following:
+(a) BOTH of the following:
+i. The patient is being treated for moderate to severe chronic pain
+that is non-neuropathic (see below for neuropathic pain and
+fibromyalgia sections)
+-AND-
+ii. ONE of the following:
+a) Prior to the start of therapy with the long-acting opioid,
+the patient has failed an adequate (minimum of 4 week)
+trial of a short-acting opioid. (Document drug(s) and date
+of trial).
+-OR-
+© 2024 UnitedHealthcare Services, Inc.
+14
+b) The patient is new to the plan (as evidenced by coverage
+effective date of less than or equal to 120 days) and is
+currently established on the requested long-acting opioid.
+-OR-
+(b) BOTH of the following:
+i. The patient is being treated for moderate to severe neuropathic
+pain (e.g., neuralgia, neuropathy) (See below for fibromyalgia
+section)
+-AND-
+ii. ONE of the following:
+a) BOTH of the following:
+1) Unless it is contraindicated, the patient has not exhibited
+an adequate response to 8 weeks of treatment with
+gabapentin titrated to a therapeutic dose. (Document date
+of trial)
+2) Unless it is contraindicated, the patient has not exhibited an
+adequate response to at least 6 weeks of treatment with a
+tricyclic antidepressant titrated to the maximum tolerated
+dose. (Document drug, and date of trial)
+-OR-
+b) The patient is new to the plan (as evidenced by coverage
+effective date of less than or equal to 120 days) and is currently
+established on the requested long-acting opioid.
+-OR-
+(c) ALL of the following:
+i. The patient is being treated for moderate to severe fibromyalgia
+-AND-
+ii. Submission of medical records (e.g., chart notes) documenting
+the patient is currently established on a long-acting opioid
+© 2024 UnitedHealthcare Services, Inc.
+15
+-AND-
+iii. Submission of medical records (e.g., chart notes) documenting
+the patient has experienced a benefit from opioid therapy
+-AND-
+(5) The patient has a history of failure, contraindication or intolerance to
+the following (Document date of trial):
+(a) morphine sulfate controlled-release tablets (generic MS Contin)
+Authorization will be issued for 6 months for non-cancer and non-end of life
+pain up to the dose allowed by supply limit review (please refer to supply
+limit criteria). If the patient is currently taking the requested long-acting
+opioid OR was recently switched from another long-acting opioid and does
+not meet the medical necessity initial authorization criteria requirements
+for long-acting opioids, a denial should be issued and a 90-day authorization
+may be authorized for the requested drug/strength combination up to the
+requested quantity for transition to an alternative treatment. There is no
+limit to the number of 90-day authorizations that may be granted.
+2. Reauthorization
+a. Fentanyl transdermal patch, hydrocodone extended-release
+capsules (generic Zohydro ER), hydrocodone extended-release
+tablets (generic Hysingla ER), hydromorphone extended-release
+(generic Exalgo), Hysingla ER^, methadone, morphine sulfate
+controlled-release capsules (generic Avinza), morphine sulfate
+controlled-release tablets (generic MS Contin), morphine sulfate
+sustained-release capsules (generic Kadian), MS Contin^,
+Nucynta ER, oxycodone controlled-release^ (authorized generic
+for OxyContin), OxyContin^, oxymorphone extended-release
+(generic Opana ER), and Xtampza ER [Applies to all brand and
+generic versions of listed products] will be reauthorized based on
+ALL of the following criteria:
+(1) Documented meaningful improvement in pain and function when
+assessed against treatment goals (Document improvement in function
+or pain score improvement)
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+16
+(2) Document rationale for not tapering or discontinuing opioid if
+treatment goals are not being met
+-AND-
+(3) Prescriber attests to BOTH of the following:
+• Patient has been screened for substance abuse/opioid dependence
+• Pain is moderate to severe and expected to persist for an extended
+period of time (chronic)
+Authorization will be issued for 6 months for non-cancer and non-end of life pain
+up to the dose allowed by supply limit review (please refer to supply limit criteria).
+If the patient is currently taking the requested long-acting opioid OR was recently
+switched from another long-acting opioid and does not meet the medical necessity
+reauthorization criteria requirements for long-acting opioids, a denial should be
+issued and a 90-day authorization may be authorized for the requested
+drug/strength combination up to the requested quantity for transition to an
+alternative treatment. There is no limit to the number of 90-day authorizations that
+may be granted.
+a. State mandates may apply. Any federal regulatory requirements and the member
+specific benefit plan coverage may also impact coverage criteria. Other policies and
+utilization management programs may apply.
+b. Coverage of medications to treat conditions associated with cancer may be approved
+based on state mandates.
+4. Coverage Criteria for the State of Louisianaa:
+A. Cancer or End of Life (defined as a < 2 year life expectancy) related painb
+1. Fentanyl transdermal patch (generic Duragesic) 12, 25, 50, 75, 100
+mcg/hr, methadone, morphine sulfate controlled-release capsules
+(generic Avinza), morphine sulfate sustained-release capsules (generic
+Kadian), and morphine sulfate controlled-release tablets (generic MS
+Contin) will be approved for cancer related pain based on the following
+criterion:
+a. Patient requires treatment with opioids due to active cancer diagnosis or
+end of life related pain (document cancer diagnosis or for end of life,
+expectancy of < 2 years.)
+© 2024 UnitedHealthcare Services, Inc.
+17
+2. Fentanyl transdermal patch 37.5, 62.5, 87.5 mcg/hr^, hydrocodone
+extended-release capsules (generic Zohydro ER), MS Contin^, Nucynta
+ER, oxycodone controlled-release (authorized generic for OxyContin)^,
+OxyContin^, oxymorphone extended-release (generic Opana ER), and
+Xtampza ER [Applies to all brand and generic versions of listed
+products except generic morphine sulfate controlled-release tablets
+(generic MS Contin) and fentanyl transdermal patch (generic Duragesic
+strengths)] will be approved based on BOTH of the following criteria:
+a. Patient requires treatment with opioids due to active cancer diagnosis or
+end of life related pain (document cancer diagnosis or for end of life,
+expectancy of < 2 years.)
+-AND-
+b. ONE of the following:
+(1) History of failure, contraindication or intolerance to the following
+(Document date of trial):
+(a) morphine sulfate controlled-release tablets (generic MS Contin)
+-OR-
+(2) Patient is established on pain therapy with the requested medication
+for cancer-related or end of life pain (< 2 years life expectancy), and
+the medication is not a new regimen for the treatment of cancer-
+related or end of life (< 2 years life expectancy) pain.
+-OR-
+(3) Request is for oxycodone controlled-release (authorized generic
+for OxyContin)^, OxyContin^ or Xtampza ER and the patient has
+risk factors for substance abuse
+3. Hydrocodone extended-release tablets (generic Hysingla ER),
+hydromorphone extended-release (generic Exalgo), Hysingla ER^ will be
+approved based on BOTH of the following criteria:
+a. Patient requires treatment with opioids due to active cancer diagnosis or
+end of life related pain (document cancer diagnosis or for end of life,
+expectancy of < 2 years.)
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+18
+b. ONE of the following:
+(1) History of failure, contraindication, or intolerance to ONE of the
+following (Document date of trial):
+(a) morphine sulfate controlled-release capsules (generic Avinza)
+(b) morphine sulfate sustained-release capsules (generic Kadian)
+-OR-
+(2) Patient is established on pain therapy with the requested medication
+for cancer-related or end of life pain (< 2 years life expectancy), and
+the medication is not a new regimen for the treatment of cancer-
+related or end of life (< 2 years life expectancy) pain.
+-OR-
+(3) The patient has risk factors for substance abuse
+Authorization will be issued for 24 months up to the dose allowed by supply
+limit review (please refer supply limit criteria). If the patient is currently
+taking the requested long-acting opioid OR was recently switched from
+another long-acting opioid and does not meet the medical necessity initial
+authorization criteria requirements for long-acting opioids, a denial should
+be issued and a90-day authorization may be authorized for the requested
+drug/strength combination up to the requested quantity for transition to an
+alternative treatment. There is no limit to the number of 90-day
+authorizations that may be granted.
+B. Non-cancer and Non-End of Life pain
+1. Initial Authorization
+a. Fentanyl transdermal patch (generic Duragesic) 12, 25, 50, 75, 100
+mcg/hr, methadone, morphine sulfate controlled-release capsules
+(generic Avinza), morphine sulfate sustained-release capsules
+(generic Kadian), and morphine sulfate controlled-release tablets
+(generic MS Contin) will be approved based on ALL of the following
+criteria:
+(1) Prescriber attests to BOTH of the following:
+• Patient has been screened for substance abuse/opioid dependence
+• Pain is moderate to severe and expected to persist for an extended
+period of time (chronic)
+© 2024 UnitedHealthcare Services, Inc.
+19
+-AND-
+(2) Treatment goals are defined and include estimated duration of
+treatment (must document treatment goals)
+-AND-
+(3) Patient has been screened for underlying depression and/or anxiety. If
+applicable, any underlying conditions have been or will be addressed
+-AND-
+(4) ONE of the following:
+(a) BOTH of the following:
+i. The patient is being treated for moderate to severe chronic pain
+that is non-neuropathic (see below for neuropathic pain and
+fibromyalgia sections)
+-AND-
+ii. ONE of the following:
+a) Prior to the start of therapy with the long-acting opioid, the
+patient has failed an adequate (minimum of 4 week) trial of a
+short-acting opioid. (Document drug(s) and date of trial).
+-OR-
+b) The patient is new to the plan (as evidenced by coverage
+effective date of less than or equal to 120 days) and is
+currently established on the requested long-acting opioid.
+-OR-
+(b) BOTH of the following:
+i. The patient is being treated for moderate to severe neuropathic
+pain (e.g., neuralgia, neuropathy) (See below for fibromyalgia
+section)
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+20
+ii. ONE of the following:
+a) BOTH of the following:
+1) Unless it is contraindicated, the patient has not exhibited
+an adequate response to 8 weeks of treatment with
+gabapentin titrated to a therapeutic dose. (Document date
+of trial)
+2) Unless it is contraindicated, the patient has not exhibited an
+adequate response to at least 6 weeks of treatment with a
+tricyclic antidepressant titrated to the maximum tolerated
+dose. (Document drug, and date of trial)
+-OR-
+b) The patient is new to the plan (as evidenced by coverage
+effective date of less than or equal to 120 days) and is
+currently established on the requested long-acting opioid.
+-OR-
+(c) ALL of the following:
+i. The patient is being treated for moderate to severe fibromyalgia
+-AND-
+ii. Submission of medical records (e.g., chart notes) documenting
+the patient is currently established on a long-acting opioid
+-AND-
+iii. Submission of medical records (e.g., chart notes) documenting
+the patient has experienced a benefit from opioid therapy
+b. Fentanyl transdermal patch 37.5, 62.5, 87.5 mcg/hr^, hydrocodone
+extended-release capsules (generic Zohydro ER), MS Contin^,
+Nucynta ER, oxycodone controlled-release (authorized generic for
+OxyContin)^, OxyContin^, oxymorphone extended-release (generic
+Opana ER), and Xtampza ER[Applies to all brand and generic
+versions of listed products except generic morphine sulfate
+controlled-release tablets (generic MS Contin) and fentanyl
+transdermal patch (generic Duragesic strengths)] will be approved for
+© 2024 UnitedHealthcare Services, Inc.
+21
+non-cancer and non-end of life related pain based on ALL of the
+following criteria:
+(1) The prescriber attests to BOTH of the following:
+• Patient has been screened for substance abuse/opioid dependence
+• Pain is moderate to severe and expected to persist for an extended
+period of time (chronic)
+-AND-
+(2) Treatment goals are defined and include estimated duration of
+treatment (must document treatment goals)
+-AND-
+(3) Patient has been screened for underlying depression and/or anxiety. If
+applicable, any underlying conditions have been or will be addressed
+-AND-
+(4) ONE of the following:
+(a) BOTH of the following:
+i. The patient is being treated for moderate to severe chronic pain
+that is non-neuropathic (see below for neuropathic pain and
+fibromyalgia sections)
+-AND-
+ii. ONE of the following:
+a) Prior to the start of therapy with the long-acting opioid, the
+patient has failed an adequate (minimum of 4 week) trial of
+a short-acting opioid. (Document drug(s) and date of trial).
+-OR-
+b) The patient is new to the plan (as evidenced by coverage
+effective date of less than or equal to 120 days) and is
+currently established on the requested long-acting opioid.
+-OR-
+© 2024 UnitedHealthcare Services, Inc.
+22
+(b) BOTH of the following:
+i. The patient is being treated for moderate to severe neuropathic
+pain (e.g., neuralgia, neuropathy) (See below for fibromyalgia
+section)
+-AND-
+ii. ONE of the following:
+a) BOTH of the following:
+1) Unless it is contraindicated, the patient has not exhibited an
+adequate response to 8 weeks of treatment with gabapentin
+titrated to a therapeutic dose. (Document date of trial)
+2) Unless it is contraindicated, the patient has not exhibited an
+adequate response to at least 6 weeks of treatment with a
+tricyclic antidepressant titrated to the maximum tolerated
+dose. (Document drug, and date of trial)
+-OR-
+b) The patient is new to the plan (as evidenced by coverage
+effective date of less than or equal to 120 days) and is
+currently established on the requested long-acting opioid.
+-OR-
+(c) ALL of the following:
+i. The patient is being treated for moderate to severe fibromyalgia
+-AND-
+ii. Submission of medical records (e.g., chart notes) documenting
+the patient is currently established on a long-acting opioid
+-AND-
+iii. Submission of medical records (e.g., chart notes) documenting
+the patient has experienced a benefit from opioid therapy
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+23
+(5) One of the following:
+(a) The patient has a history of failure, contraindication or intolerance
+to the following (Document date of trial):
+i) morphine sulfate controlled-release tablets (generic MS Contin)
+-OR-
+(b) Request is for oxycodone controlled-release (authorized
+generic for OxyContin)^, OxyContin^ or Xtampza ER and the
+patient has risk factors for substance abuse
+c. Hydrocodone extended-release tablets (generic Hysingla ER),
+hydromorphone extended-release (generic Exalgo), Hysingla ER^will
+be approved for non-cancer and non-end of life related pain based on
+ALL of the following criteria:
+(1) The prescriber attests to BOTH of the following:
+• Patient has been screened for substance abuse/opioid dependence
+• Pain is moderate to severe and expected to persist for an extended
+period of time (chronic)
+-AND-
+(2) Treatment goals are defined and include estimated duration of
+treatment (must document treatment goals)
+-AND-
+(3) Patient has been screened for underlying depression and/or anxiety. If
+applicable, any underlying conditions have been or will be addressed
+-AND-
+(4) ONE of the following:
+(a) BOTH of the following:
+i. The patient is being treated for moderate to severe chronic pain
+that is non-neuropathic (see below for neuropathic pain and
+fibromyalgia sections)
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+24
+ii. ONE of the following:
+a) Prior to the start of therapy with the long-acting opioid, the
+patient has failed an adequate (minimum of 4 week) trial of
+a short-acting opioid. (Document drug(s) and date of trial).
+-OR-
+b) The patient is new to the plan (as evidenced by coverage
+effective date of less than or equal to 120 days) and is
+currently established on the requested long-acting opioid.
+-OR-
+(b) BOTH of the following:
+i. The patient is being treated for moderate to severe neuropathic
+pain (e.g., neuralgia, neuropathy) (See below for fibromyalgia
+section)
+-AND-
+ii. ONE of the following:
+a) BOTH of the following:
+1) Unless it is contraindicated, the patient has not exhibited
+an adequate response to 8 weeks of treatment with
+gabapentin titrated to a therapeutic dose. (Document date
+of trial)
+2) Unless it is contraindicated, the patient has not exhibited
+an adequate response to at least 6 weeks of treatment with
+a tricyclic antidepressant titrated to the maximum
+tolerated dose. (Document drug, and date of trial)
+-OR-
+b) The patient is new to the plan (as evidenced by coverage
+effective date of less than or equal to 120 days) and is
+currently established on the requested long-acting opioid.
+-OR-
+© 2024 UnitedHealthcare Services, Inc.
+25
+(c) ALL of the following:
+i. The patient is being treated for moderate to severe fibromyalgia
+-AND-
+ii. Submission of medical records (e.g., chart notes) documenting
+the patient is currently established on a long-acting opioid
+-AND-
+iii. Submission of medical records (e.g., chart notes) documenting
+the patient has experienced a benefit from opioid therapy
+-AND-
+(5) One of the following:
+(a) History of failure, contraindication, or intolerance to ONE of the
+following (Document date of trial):
+i) morphine sulfate controlled-release capsules (generic Avinza)
+ii) morphine sulfate sustained-release capsules (generic Kadian)
+-OR-
+(b) The patient has risk factors for substance abuse
+Authorization will be issued for 6 months for non-cancer and non-end of life
+pain up to the dose allowed by supply limit review (please refer to supply
+limit criteria). If the member is currently taking the requested long-acting
+opioid OR was recently switched from another long-acting opioid and does
+not meet the medical necessity initial authorization criteria requirements
+for long-acting opioids, a denial should be issued and a90-day authorization
+may be authorized for the requested drug/strength combination up to the
+requested quantity for transition to an alternative treatment. There is no
+limit to the number of 90-day authorizations that may be granted.
+2. Reauthorization
+a. Fentanyl transdermal patch, hydrocodone extended-release
+capsules (generic Zohydro ER), hydrocodone extended-release
+tablets (generic Hysingla ER), hydromorphone extended-release
+(generic Exalgo), Hysingla ER^, methadone, morphine sulfate
+controlled-release capsules (generic Avinza), morphine sulfate
+© 2024 UnitedHealthcare Services, Inc.
+26
+controlled-release tablets (generic MS Contin), morphine sulfate
+sustained-release capsules (generic Kadian), MS Contin^,
+Nucynta ER, oxycodone controlled-release^ (authorized generic
+for OxyContin), OxyContin^, oxymorphone extended-release
+(generic Opana ER), and Xtampza ER [Applies to all brand and
+generic versions of listed products)] will be reauthorized based on all
+of the following criteria:
+(1) Documented meaningful improvement in pain and function when
+assessed against treatment goals (Document improvement in function
+or pain score improvement)
+-AND-
+(2) Document rationale for not tapering or discontinuing opioid if
+treatment goals are not being met
+-AND-
+(3) Prescriber attests to BOTH of the following:
+• Patient has been screened for substance abuse/opioid dependence
+• Pain is moderate to severe and expected to persist for an extended
+period of time (chronic)
+Authorization will be issued for 6 months for non-cancer and non-end of life
+pain up to the dose allowed by supply limit review (please refer to supply
+limit criteria). If the patient is currently taking the requested long-acting
+opioid OR was recently switched from another long-acting opioid and does
+not meet the medical necessity reauthorization criteria requirements for
+long-acting opioids, a denial should be issued and a 90-day authorization
+may be authorized for the requested drug/strength combination up to the
+requested quantity for transition to an alternative treatment. There is no
+limit to the number of 90-day authorizations that may be granted.
+a. State mandates may apply. Any federal regulatory requirements and the member
+specific benefit plan coverage may also impact coverage criteria. Other policies and
+utilization management programs may apply.
+b. Coverage of medications to treat conditions associated with cancer may be approved
+based on state mandates.
+© 2024 UnitedHealthcare Services, Inc.
+27
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes
+(ICD-10) and/or claim logic. Use of automated approval and re-approval processes
+varies by program and/or therapeutic class.
+• Supply limits may be in place.
+• MMELIMIT (Cumulative Opioid Review) is in place and can be utilized for
+individual supply limit reviews.
+^ Hysingla ER (brand only), fentanyl 37.5, 62.5 and 87.5 mcg/hr, MS Contin (brand
+only), oxycodone controlled-release (authorized generic for OxyContin), and OxyContin
+are typically excluded from coverage. Tried/Failed criteria may be in place. Please refer
+to plan specifics to determine exclusion status.
+4. References:
+1. Hydromorphone extended release [package insert]. Webster Grover, MO:
+Mallinckrodt, Inc.; January 2021.
+2. Hysingla ER [package insert]. Stanford, CT: Purdue Pharma; December 2023.
+3. MS Contin [package insert]. Stanford, CT: Purdue Pharma; December 2023.
+4. Nucynta ER [package insert]. Stoughton, MA: Collegium Pharmaceuticals, Inc.
+December 2023.
+5. Oxymorphone extended-release [package insert]. Brookhaven, NY: Amneal
+Pharmaceuticals of NY, LLC.; August 2022.
+6. OxyContin [package insert]. Stanford, CT: Purdue Pharma; December 2023.
+7. Xtampza ER [package insert]. Stoughton, MA: Collegium Pharmacueticals, Inc.
+December 2023.
+8. Palermo T, et al. Assessment and management of children with chronic pain. A
+position statement from the American Pain Society. 2012. Available at:
+http://americanpainsociety.org/uploads/get-involved/pediatric-chronic-pain-
+statement.pdf
+9. Dowell D, Ragan KR, Jones CM, Baldwin GT, Chou R. CDC Clinical Practice
+Guideline for Prescribing Opioids for Pain — United States, 2022. MMWR
+Recomm Rep 2022;71(No. RR-3):1–95. DOI:
+http://dx.doi.org/10.15585/mmwr.rr7103a1.Spatar, SB. Standardizing the use of
+mental health screening instruments in patients with pain. Fed Pract. 2019 Oct; 36
+(Suppl 6): S28-S30
+10. Sullivan MD. Depression effects on long-term prescription opioid use, abuse, and
+addiction. Clin J Pain. 2018 Sep;34(9):878-884.
+11. Franklin, GM. Opioids for chronic noncancer pain. A position paper of the
+American Academy of Neurology. Neurology. 2014;83:1277-1284.
+12. Gaskell H, Moore RA, Derry S, Stannard C. Oxycodone for neuropathic pain and
+fibromyalgia in adults. Cochrane Database Syst Rev. 2014 Jun 23;(6):CD010692.
+doi: 10.1002/14651858.CD010692.pub2. Update in: Cochrane Database Syst Rev.
+2016;7:CD010692. PMID: 24956205.
+© 2024 UnitedHealthcare Services, Inc.
+28
+13. Chou R, Turner JA, Devine EB, Hansen RN, Sullivan SD, Blazina I, Dana T,
+Bougatsos C, Deyo RA. The effectiveness and risks of long-term opioid therapy for
+chronic pain: a systematic review for a National Institutes of Health Pathways to
+Prevention Workshop. Ann Intern Med. 2015 Feb 17;162(4):276-86. doi:
+10.7326/M14-2559. PMID: 25581257.
+Program Prior Authorization/Medical Necessity - Long-Acting Opioid
+Pain Medications
+Change Control
+Date Change
+2/2014 New program
+4/2014 Removed step criteria
+1/2015 Added additional products: Hysingla, MS Contin,
+hydromorphone and Oramorph. Added step criteria for cancer
+and non-cancer chronic pain with differentiation between
+neuropathic and non-neuropathic pain. Updated references to
+include new products’ prescribing information, the AAN position
+paper, and neuropathic pain treatment guidelines.
+4/2015 Added Embeda and removed Oramorph from current criteria.
+Added exemption language for Connecticut.
+10/2015 Provided clarification regarding which brand and generic versions
+of listed products are included in the criteria (e.g. which generic
+morphine sulfate product is preferred and which are non-
+preferred). Added criteria for patients under the age of 18 years.
+Added state specific criteria for Maryland and Maine.
+7/2016 Added Xtampza ER as preferred product. Added Indiana and
+West Virginia step therapy mandate.
+8/2016 Added requirement for the submission of the Long-Acting Opioid
+Prior Authorization Fax Form. Revised criteria to include
+recommendation from the CDC Guidelines to require trial of a
+short-acting opioid prior to LAO initiation. Added requirement
+for medical record documentation of cancer diagnosis. Added
+requirement for documentation of MED and specific medication
+trial information. Added generic MS Contin and fentanyl
+transdermal to state specific criteria where applicable. Added
+provider attestation language. Removed specific criteria for the
+state of Maine. Added state specific criteria for Florida, West
+Virginia and Connecticut. Added supply limit criteria to Medical
+Necessity Review. Updated references.
+10/2016 Added AR state mandate to supply limit review section.
+Removed requirement for the Long-Acting Opioid Prior
+Authorization Fax Form. Revised reauthorization to include the
+request for all information collected from open-ended questions in
+lieu of Long-Acting Opioid Prior Authorization Fax Form.
+© 2024 UnitedHealthcare Services, Inc.
+29
+12/2016 Changed taper allowance from a one-time authorization to a 60-
+day authorization. Added end of life diagnoses to cancer pain
+section. Updated supply limits section to allow pre-approval of
+higher strengths where applicable for dose consolidation.
+Removed ceiling limit for cancer and end of life diagnoses.
+Added CT footnote for the trial and failure of short-acting opioids
+for the book of business criteria.
+1/2017 Added requirement for trial and failure of Xtampza ER prior to
+approval for OxyContin and oxycodone controlled-release for
+initial authorization and reauthorization criteria. Clarified that
+maximum 60-day fill should only be authorized one time.
+3/2017 Added criteria for members new to the plan that should be
+reviewed as continuation of therapy for preferred products.
+5/2017 Removed Opana ER as a preferred step one product. Added new
+product Arymo ER to criteria.
+7/2017 Removed fentanyl transdermal as a preferred step one product.
+Updated reauthorization criteria to review instruments used to
+assess patients rather than specific scores. Removed requirement
+for provider attestation for cancer and end of life pain diagnoses.
+Added Morphabond ER, Troxyca ER, and Vantrela ER.
+8/2017 Updated fentanyl supply limits.
+2/2018 Added morphine sulfate ER (generic MS Contin), Duragesic, and
+methadone to the program. Added criteria for State of
+Connecticut. Revised provider attestation and added to initial
+authorization. Revised reauthorization criteria.
+6/2018 Removed supply limit criteria. Will now utilize MEDLIMIT
+criteria. Removed Vantrela ER and Troxyca ER- products never
+brought to market.
+4/2019 Revised MED to MME. Added fentanyl step for brand Duragesic
+requests. Removed medical record submission requirement for
+cancer related pain.
+8/2019 Added continuation of therapy requirement for FL
+10/2019 Added a note for stage four advanced metastatic cancer and state
+mandates.
+12/2019 Removed Embeda from criteria. Added Arymo ER as first step
+drug for Maryland and West Virginia.
+5/2021 Removed products no longer on the market. Revised provider
+attestation. Added requirements for documentation of treatment
+goals and screening for underlying depression and anxiety.
+Administrative changes and references updated.
+9/2021 Added methadone to reauthorizations. Added hydromorphone to
+authorizations. Added documentation of treatment goals and
+screening for underlying depression and anxiety to Maryland non-
+© 2024 UnitedHealthcare Services, Inc.
+30
+cancer/EOL initial authorization. Revised duration of trial for
+Connecticut mandates.
+4/2022 Added cancer medications state mandate note.
+8/2022 Moved Nucynta ER and Xtampza to require step through
+morphine sulfate extended-release (generic MS Contin).
+Removed fentanyl (generic Duragesic) as a step one option.
+Updated state mandate sections.
+12/2022 Updated coverage criteria for fibromyalgia to only allow for
+continuation of therapy for patients already established on therapy
+and for patients who have experienced a benefit.
+8/2023 Updated background information with updated CDC guidelines.
+Updated authorizations to allow for unlimited 90 day approvals
+for transition if criteria is not met.
+10/2023 Removed “routine audit” language from criteria.
+10/2024 Annual review. Updated CT/KY/MS mandate footnote. Updated
+references.
+© 2024 UnitedHealthcare Services, Inc.
+31

@@ -1,0 +1,264 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2062-21
+Program Prior Authorization/Medical Necessity
+Medication Praluent® (alirocumab)*
+P&T Approval Date 5/2015, 8/2015, 9/2015, 9/2016, 12/2016, 11/2017, 12/2018, 12/2019,
+2/2020, 2/2021, 6/2021, 8/2021, 6/2022, 1/2023, 6/2023, 10/2023,
+2/2024, 5/2024, 2/2025
+Effective Date 5/1/2025
+1. Background:
+Praluent® (alirocumab) is a PCSK9 (Proprotein Convertase Subtilisin Kexin Type 9) inhibitor
+indicated1:
+• To reduce the risk of myocardial infarction, stroke, and unstable angina requiring
+hospitalization in adults with established cardiovascular disease.
+• As adjunct to diet, alone or in combination with other low-density lipoprotein cholesterol
+(LDL-C)-lowering therapies (e.g., statins, ezetimibe, LDL apheresis), for the treatment of
+adults with primary hyperlipidemia (including heterozygous familial hypercholesterolemia)
+to reduce LDL-C.
+• As an adjunct to other LDL-C-lowering therapies in adult patients with homozygous familial
+hypercholesterolemia (HoFH) to reduce LDL-C.
+• As an adjunct to diet and other LDL-C-lowering therapies in pediatric patients aged 8 years
+and older with HeFH to reduce LDL-C.
+2. Coverage Criteriaa:
+A. Primary Hyperlipidemia (including heterozygous familial hypercholesterolemia) and
+ASCVD
+a. Praluent* will be approved based on all of the following criteria:
+(1) One of the following diagnoses:
+(a) Heterozygous familial hypercholesterolemia (HeFH)
+-OR-
+(b) Atherosclerotic cardiovascular disease (ASCVD) (e.g., acute coronary
+syndromes, history of myocardial infarction, stable or unstable angina,
+coronary or other arterial revascularization, stroke, transient ischemic attack,
+or peripheral arterial disease presumed to be of atherosclerotic origin)
+-OR-
+(c) Primary hyperlipidemia
+-AND-
+© 2025 UnitedHealthcare Services Inc.
+1
+(2) One of the following:
+(a) Patient has been receiving at least 12 consecutive weeks of high-intensity
+statin therapy [i.e., atorvastatin 40-80 mg, rosuvastatin 20-40 mg] and will
+continue to receive a high-intensity statin at maximally tolerated dose
+-OR-
+(b) Both of the following:
+i. Patient is unable to tolerate high-intensity statin as evidenced by one of
+the following intolerable and persistent (i.e., more than 2 weeks)
+symptoms:
+1. Myalgia [muscle symptoms without creatine kinase (CK) elevations]
+2. Myositis (muscle symptoms with CK elevations < 10 times upper
+limit of normal [ULN])
+-AND-
+ii. Patient has been receiving at least 12 consecutive weeks of low-intensity
+or moderate-intensity statin therapy [i.e., atorvastatin 10-20 mg,
+rosuvastatin 5-10 mg, simvastatin ≥ 10 mg, pravastatin ≥ 10 mg,
+lovastatin 20-40 mg, fluvastatin XL 80 mg, fluvastatin 20-40 mg up to
+40mg twice daily or Livalo (pitavastatin) ≥ 1 mg] and will continue to
+receive a low-intensity or moderate-intensity statin at maximally
+tolerated dose
+-OR-
+(c) Patient is unable to tolerate low or moderate-, and high-intensity statins as
+evidenced by one of the following:
+i. One of the following intolerable and persistent (i.e., more than 2 weeks)
+symptoms for low or moderate-, and high-intensity statins:
+1. Myalgia (muscle symptoms without CK elevations)
+2. Myositis (muscle symptoms with CK elevations < 10 times upper
+limit of normal [ULN])
+-OR-
+ii. Patient has a contraindication to all statins
+-OR-
+iii. Patient has experienced rhabdomyolysis or muscle symptoms with statin
+treatment with CK elevations > 10 times ULN
+© 2025 UnitedHealthcare Services Inc.
+2
+-AND-
+(3) Both of the following:
+(a) Patient has LDL-C greater than or equal to 55 mg/dL
+-AND-
+(b) One of the following:
+i. Patient has been receiving at least 12 consecutive weeks of ezetimibe therapy
+as adjunct to maximally tolerated statin therapy
+-OR-
+ii. Patient has a history of contraindication, or intolerance to ezetimibe
+-AND-
+(4) One of the following:
+(a) Patient is less than 10 years of age
+-OR-
+(b) History of failure, contraindication, or intolerance to Repatha (evolocumab)
+(document date of trial and list reason for therapeutic failure, contraindication, or
+intolerance)
+-AND-
+(5) Not used in combination with another proprotein convertase subtilisin/kexin type 9
+(PCSK9) inhibitor [e.g., Repatha (evolocumab)]
+-AND-
+(6) Not used in combination with Leqvio (inclisiran)
+Authorization will be issued for 12 months
+B. Homozygous Familial Hypercholesterolemia
+a. Praluent* will be approved based on all of the following criteria:
+(1) Diagnosis of homozygous familial hypercholesterolemia (HoFH) as confirmed by
+one of the following:
+(a) Submission of medical records (e.g., chart notes, laboratory values)
+confirming genetic confirmation of bi-allelic pathogenic/likely pathogenic
+variants on different chromosomes at the low-density lipoprotein receptor
+© 2025 UnitedHealthcare Services Inc.
+3
+(LDLR), apolipoprotein B (APOB), proprotein convertase subtilisin kexin
+type 9 (PCSK9), or low-density lipoprotein receptor adaptor protein 1
+(LDLRAP1) genes or ≥ 2 such variants at different loci
+-OR-
+(a) Both of the following:
+i. Untreated LDL-C greater than 400 mg/dL
+-AND-
+ii. One of the following:
+• Xanthoma before 10 years of age
+• Evidence of familial hypercholesterolemia in at least one parent
+-AND-
+(2) Patient is receiving other lipid-lowering therapy (e.g., statin, ezetimibe, LDL
+apheresis)
+-AND-
+(3) Not used in combination with another proprotein convertase subtilisin/kexin type 9
+(PCSK9) inhibitor [e.g., Repatha (evolocumab)]
+-AND-
+(4) Not used in combination with Juxtapid (lomitapide)
+-AND-
+(5) History of failure, contraindication, or intolerance to Repatha (evolocumab)
+(document date of trial and list reason for therapeutic failure, contraindication, or
+intolerance)
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+*Praluent is typically excluded from coverage. Tried/Failed criteria may be in place. Please refer to
+plan specifics to determine exclusion status.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class
+© 2025 UnitedHealthcare Services Inc.
+4
+• Supply limits may be in place and Step therapy may be in place
+4. References:
+1. Praluent [package insert]. Tarrytown, NY: Regeneron Pharmaceuticals; March 2024.
+2. WHO Familial Hypercholesterolemia Consultation Group. Familial Hypercholesterolemia (FH):
+report of a second WHO consultation. Geneva: World Health Organization; 1999.
+3. Scientific Steering Committee on behalf of the Simon Broome Register Group. Risk of fatal
+coronary heart disease in familial hypercholesterolaemia. BMJ. 1991;303:893-6.
+4. Stone NJ, Robinson JG, Lichtenstein AH, et al. 2013 ACC/AHA guideline on the treatment of
+blood cholesterol to reduce atherosclerotic cardiovascular risk in adults: a report of the American
+College of Cardiology/American Heart Association Task Force on Practice Guidelines. J Am Coll
+Cardiol. 2014;63:2889-934.
+5. Cannon CP, Blazing MA, Giugliano RP, et al. Ezetimibe added to statin therapy after acute
+coronary syndromes. N Engl J Med. 2015a; DOI: 10.1056/NEJMoa1410489 [Epub ahead of
+print].
+6. The Lipid Research Clinics Coronary Primary Prevention Trial results. II. The relationship of
+reduction in incidence of coronary heart disease to cholesterol lowering. JAMA. 1984;251:365-
+74.
+7. ATP III Final Report PDF. Third Report of the National Cholesterol Education Program (NCEP)
+Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults
+(Adult Treatment Panel III) Final Report. Circulation. 2002;106:3143-3421.
+8. Per clinical drug consult with cardiologist. August 3, 2015.
+9. Blom DJ, Hala T, Bolognese M, et al. A 52-week placebo-controlled trial of evolocumab in
+hyperlipidemia. N Engl J Med. 2014;370:1809-19.
+10. Raal FJ, Santos RD. Homozygous familial hypercholesterolemia: current perspectives on
+diagnosis and treatment. Atherosclerosis. 2012;223:262-8.
+11. Raal FJ, Honarpour N, Blom DJ, et al. Inhibition of PCSK9 with evolocumab in homozygous
+familial hypercholesterolaemia (TESLA Part B): a randomised, double-blind, placebo-controlled
+trial. Lancet. 2015;385:341-50.
+12. Cuchel M, Bruckert E, Ginsberg HN, et al. Homozygous familial hypercholesterolaemia: new
+insights and guidance for clinicians to improve detection and clinical management. A position
+paper from the Consensus Panel on Familial Hypercohlesterolaemia of the European
+Atherosclerosis Society. Eur Heart J. 2014;35:2146-57.
+13. Lloyd-Jones D, Morris P, Ballantyne C, et al. 2016 ACC expert consensus decision pathway on
+the role of non-statin therapies for LDL-cholersterol lowering in the management of
+atherosclerotic cardiovascular disease risk. J Am Coll Cardiol. 2016;68:92-125.
+14. Austin MA, Hutter CM, Zimmern RL, Humphries SE. Genetic causes of monogenic
+heterozygous familial hypercholesterolemia: a HuGE prevalence review. American journal of
+epidemiology. 2004;160:407-420
+15. Haase A, Goldberg AC. Identification of people with heterozygous familial
+hypercholesterolemia. Current opinion in lipidology. 2012;23:282-289.
+16. Nordestgaard BG, Chapman MJ, Humphries SE, et al. Familial hypercholesterolaemia is
+underdiagnosed and undertreated in the general population: guidance for clinicians to prevent
+coronary heart disease: consensus statement of the European Atherosclerosis Society. European
+heart journal. 2013;34:3478-3490a.
+17. Jellinger PS, Handelsman Y, Rosenblit PD, et al. American association of clinical
+endocrinologists and American college of endocrinology guidelines for management of
+dyslipidemia and prevention of cardiovascular disease. Endocr Pract. 2017; Suppl 2;23:1-87.
+© 2025 UnitedHealthcare Services Inc.
+5
+18. Lloyd-Jones D, Morris P, Ballantyne C, et al. 2017 Focused update of the 2016 ACC expert
+consensus decision pathway on the role of non-statin therapies for LDL-cholesterol lowering in
+the management of atherosclerotic cardiovascular disease risk. J Am Coll Cardiol. 2017.
+19. Grundy SM, Stone NJ, Bailey AL, et al. 2018 AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA guideline on the management of blood
+cholesterol: a report of the American College of Cardiology/American Heart Association Task
+Force on Clinical Practice Guidelines. Circulation. 2018; DOI: 10.1161/CIR.0000000000000625.
+20. Writing Committee, Lloyd-Jones DM, Morris PB, et al. 2022 ACC Expert Consensus Decision
+Pathway on the Role of Nonstatin Therapies for LDL-Cholesterol Lowering in the Management
+of Atherosclerotic Cardiovascular Disease Risk: A Report of the American College of Cardiology
+Solution Set Oversight Committee. J Am Coll Cardiol. 2022;80(14):1366-1418.
+doi:10.1016/j.jacc.2022.07.006
+21. Cuchel M, Raal FJ, Hegele RA, et al. 2023 Update on European Atherosclerosis Society
+Consensus Statement on Homozygous Familial Hypercholesterolaemia: new treatments and
+clinical guidance. Eur Heart J. 2023;44(25):2277-2291. doi:10.1093/eurheartj/ehad197
+Program Prior Authorization/Medical Necessity - Praluent® (alirocumab)
+Change Control
+5/2015 New program.
+5/2015 Added examples of atherosclerotic cardiovascular disease.
+8/2015 Revised clinical criteria
+9/2015 Revised clinical criteria to include combination use of high-intensity
+statin or documented intolerance to high-, moderate- and low intensity
+statin therapy to achieve the maximally tolerated statin therapy.
+7/2016 Added Indiana and West Virginia coverage information.
+9/2016 Added Connecticut and Kentucky coverage information. Updated
+references.
+11/2016 Added California coverage information.
+12/2016 Modified medical record criteria to include review of prescription claims
+history. Updated references.
+11/2017 Updated medical record requirement, modified criteria for HeFH
+diagnosis, modified previous statin requirement requiring failure,
+intolerance to high intensity and either moderate or low intensity statin.
+Modified target LDL values and ezetimibe trial requirement. Extended
+timeline for lipid panel submission to 120 days. Added physician
+attestation criterion. Updated state mandate verbiage. Updated
+references.
+12/2018 Annual review. Updated formatting without changes to clinical intent.
+Updated references.
+12/2019 Annual review. Updated background information without change to
+clinical coverage criteria. Updated references.
+2/2020 Updated criteria providing clarity on laboratory monitoring requirements.
+Updated reference.
+2/2021 Annual review with no change to coverage criteria. References updated.
+6/2021 Added Praluent exclusion statement. Added history of failure,
+contraindication, or intolerance to Repatha to all criteria. Removed
+prescriber specialist requirement. Removed submission of medical
+© 2025 UnitedHealthcare Services Inc.
+6
+records requirement throughout criteria. Changed initial authorization
+duration to 12 months to align all PCSK9 programs. Removed
+reauthorization criteria. Added HoFH criteria per new indication.
+Updated references.
+8/2021 Updated LDL-C requirement to 120 days or 120 days prior to starting
+PCSK9 inhibitor therapy.
+6/2022 Annual review. Condensed low intensity and moderate-intensity statin
+therapy sections. Updated exclusion statement.
+1/2023 Lowered LDL-C threshold requirement for initiation of Praluent therapy
+per American College of Cardiology guidance. Removed genetic testing
+coverage footnote. Updated references.
+6/2023 Annual review. Updated background. Added criteria that Praluent is not
+to be used in combination with Leqvio and updated diet requirement.
+10/2023 Removed “routine audit” language from criteria. Updated and clarified
+criteria for patients with primary hyperlipidemia with baseline LDL-C
+level ≥ 190 on statin therapy for primary prevention per American
+College of Cardiology guidance. Updated background.
+2/2024 Updated diagnostic criteria per European Atherosclerosis Society
+guidance. Updated references.
+5/2024 Added criterion for patients less than 10 years of age to align with new
+label for pediatric patients aged 8 years and older with HeFH. Updated
+background and reference.
+2/2025 Simplified diagnosis requirements for HeFH, ASCVD, and primary
+hyperlipidemia. Removed diet requirement. Revised HoFH criteria to
+include more precise genetic terminology to account for genetic test result
+interpretation complexity as well as digenic mutations. Lowered LDL-C
+threshold from 100 to 55 mg/dL. Updated background and references.
+© 2025 UnitedHealthcare Services Inc.
+7

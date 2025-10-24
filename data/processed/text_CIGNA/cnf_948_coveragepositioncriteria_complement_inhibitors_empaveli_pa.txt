@@ -1,0 +1,319 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Complement Inhibitors – Empaveli Prior Authorization Policy
+• Empaveli™ (pegcetacoplan subcutaneous injection – Apellis)
+REVIEW DATE: 05/21/2025; selected revision 08/06/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Empaveli, a complement C3 inhibitor, is indicated for the following uses:1
+• Complement 3 glomerulopathy (C3G), to reduce proteinuria in adults and
+pediatric patients ≥ 12 years of age.
+• Immune-complex membranoproliferative glomerulonephritis (IC-
+MPGN) [primary], to reduce proteinuria in adults and pediatric patients ≥ 12
+years of age.
+• Paroxysmal nocturnal hemoglobinuria (PNH), treatment in adults.
+Empaveli is given subcutaneously, via an infusion pump or an on-body injector.1
+Empaveli is intended for use under the guidance of a healthcare professional; after
+proper training, Empaveli may be self-administered or be administered by a
+caregiver.
+Page 1 of 7 - Cigna National Formulary Coverage - Policy: Complement Inhibitors – Empaveli Prior Authorization
+Policy
+Empaveli has a Boxed Warning regarding serious infections caused by encapsulated
+bacteria.1 Empaveli is only available through a restricted access program, Empaveli
+Risk Evaluation and Mitigation Strategy (REMS).
+Disease Overview
+C3G and IC-MPG
+C3G and IC-MPGN (also known as immunoglobulin-mediated membranoproliferative
+glomerulonephritis [MPGN]) are in a group of kidney disorders termed MPGN.2-5
+C3G and IC-MPGN are rare and chronic complement-mediated kidney diseases.2-4
+MPGN occurs due to glomerular deposition of immune complexes and/or
+complement factors.2 IC-MPGN is classified as “idiopathic” or “primary” when an
+underlying cause is not identified and “secondary” when the condition is due to an
+underlying disease (e.g., infection or autoimmune condition).2,5 The incidence of
+idiopathic IC-MPGN is unknown; the estimated global annual incidence of C3G is
+between 1 and 3 cases per one million people.2 Patients with either condition are at
+risk of kidney failure; risk of progression to kidney failure is up to 30% to 35% of
+patients with C3G and idiopathic IC-MPGN within 10 years of diagnosis. There are
+overlapping pathologic features of C3G and IC-MPGN; dysregulation of the
+complement pathway plays a key role in the pathogenesis of both diseases. In C3G,
+overactivation of the alternative complement pathway leads to accumulation of C3
+in the glomerulus, resulting in kidney inflammation and damage. The role of the
+complement system in the pathogenesis of IC-MPGN is less well-understood; both
+the classical and alternative complement pathway are activated but the
+mechanisms by which immune complexes are deposited are unknown. Patients with
+C3G and IC-MPGN may exhibit similar clinical signs and symptoms at disease onset,
+including proteinuria, hematuria, decreased kidney function, nephrotic syndrome,
+and hypertension. Although biopsy is needed for a definitive diagnosis,
+distinguishing between the two diseases remain a challenge due to overlap in the
+composition of the glomerular deposits. In addition, it is unclear whether idiopathic
+IC-MPGN and C3G are distinct entities or two aspects of the same disease as the
+two conditions share similar clinical presentations and patient outcomes, including
+similar risk of progression to kidney disease and prevalence of nephrotic syndrome.
+Current treatment options, which primarily target inflammation and slow down the
+progression of kidney disease, include corticosteroids, immunosuppressive drugs,
+angiotensin converting enzyme (ACE) inhibitors, angiotensin receptor blockers
+(ARBs), and complement inhibitors.2-5 It is unclear if immunosuppressive treatment
+(e.g., calcineurin inhibitors, cyclophosphamide, corticosteroids, mycophenolate
+mofetil) in patients with primary IC-MPGN is beneficial; outcomes data are scant
+and controversial.6 In addition, long term benefit of corticosteroids and
+immunosuppressive therapies are uncertain.2
+PNH
+PNH is a rare, genetic disorder of hematopoietic stem cells.7,8 The mutation in the
+X-linked gene phosphatidylinositol glycan class A (PIGA) results in a deficiency in
+the glycosylphosphatidylinositol (GPI) protein, which is responsible for anchoring
+other protein moieties to the surface of the erythrocytes. Loss of anchoring of these
+proteins causes cells to hemolyze and leads to complications such as hemolytic
+anemia, thrombosis, and peripheral blood cytopenias. PNH is a clinical diagnosis
+Page 2 of 7 - Cigna National Formulary Coverage - Policy: Complement Inhibitors – Empaveli Prior Authorization
+Policy
+that should be confirmed with peripheral blood flow cytometry to detect the
+absence or severe deficiency of GPI-anchored proteins on at least two lineages.7,9
+Prior to the availability of complement inhibitors, only supportive measures in terms
+of managing the cytopenias and controlling thrombotic risk were available.
+Supportive measures include platelet transfusion, immunosuppressive therapy for
+patients with bone marrow failure, use of erythropoietin for anemias, and
+aggressive anticoagulation.
+Dosing Recommendations When Switching to Empaveli from eculizumab
+intravenous infusion (Soliris®, biosimilars) or Ultomiris (ravulizumab-
+cwvz) for Treatment of PNH
+For patients switching from eculizumab intravenous [IV] infusion (Soliris,
+biosimilars) to Empaveli, initiate Empaveli while continuing eculizumab at the
+current dose.1 After 4 weeks, discontinue eculizumab and continue Empaveli
+monotherapy. For patients switching from Ultomiris® (ravulizumab-cwvz IV
+infusion), initiate Empaveli no more than 4 weeks after the last dose of Ultomiris.
+Clinical Efficacy in C3G and IC-MPGN
+The efficacy of Empaveli in reducing proteinuria in patients with native kidney C3G,
+native kidney IC-MPGN, or recurrent C3G following kidney transplant was shown in
+the VALIANT study. Enrolled patients were ≥ 12 years of age and weigh ≥ 30 kg
+with biopsy-proven, native kidney or post-transplant recurrent C3G or native kidney
+primary IC-MPGN. In addition, patients had estimated glomerular filtration rate
+(eGFR) ≥ 30 mL/min/1.73 m2, proteinuria ≥ 1 g/day, and urine protein-to-
+creatinine ratio (UPCR) ≥ 1 g/g. Patients were required to be on stable and
+optimized doses of ACE inhibitors, ARBs, and/or sodium-glucose cotransporter-2
+(SGLT2) inhibitors for at least 12 weeks before randomization and throughout the
+26-week placebo-controlled period. Immunosuppressants (e.g., steroids < 20
+mg/day, mycophenolate mofetil, tacrolimus) had to be stable for at least 12 weeks
+before randomization and throughout the placebo-controlled period. In total, 124
+patients were included in the study; 88 patients (71%) had native kidney C3G, 27
+patients (22%) had native kidney primary IC-MPN, and 8 patients (6%) had post-
+kidney transplant recurrent C3G.
+The primary efficacy endpoint was the log-transformed ratio of UPCR (sampled from
+first morning urine collections) at Week 26 compared to baseline. At Week 26, the
+geometric mean UPCR ratio relative to baseline was 0.33 in the Empaveli group and
+1.03 in the placebo group; resulting in a 68% reduction in UPCR from baseline in
+the Empaveli group compared to placebo (P < 0.0001). The treatment effect was
+consistent across all subgroups, including disease type, age, transplant status (C3G
+patients), sex, race, baseline disease characteristics (eGFR, UPCR), and
+immunosuppressant use. A key secondary endpoint was the proportion of patients
+who achieved the composite renal endpoint, defined as a ≥ 50% reduction in UPCR
+and stable eGFR (≤ 15% reduction from baseline) during the 26-week placebo-
+controlled period. This endpoint was achieved by 49% of patients in the Empaveli
+group vs. 3% of patients in the placebo group (odds ratio of 27, P < 0.0001). In
+total, 60% of patients in the Empaveli group achieved a ≥ 50% reduction in UPCR
+from baseline to Week 26 compared to 5% of patients in the placebo group; and
+Page 3 of 7 - Cigna National Formulary Coverage - Policy: Complement Inhibitors – Empaveli Prior Authorization
+Policy
+68% vs. 59% of patients in the Empaveli vs. placebo, respectively, who had a
+stable eGFR at Week 26. Over the first 6 months of treatment, Empaveli reduced
+the loss of kidney function compared with placebo. The efficacy of Empaveli in
+pediatric patients ≥ 12 years of age was similar to that for adults.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Empaveli.
+All approvals are provided for the duration noted below. In cases where the
+approval is authorized in months, 1 month is equal to 30 days. Because of the
+specialized skills required for evaluation and diagnosis of patients treated with
+Empaveli as well as the monitoring required for adverse events and long-term
+efficacy, approval requires Empaveli to be prescribed by or in consultation with a
+physician who specializes in the condition being treated.
+• Empaveli™ (pegcetacoplan subcutaneous injection – Apellis)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Complement 3 Glomerulopathy. Approve for the duration noted if the patient
+meets ONE of the following (A or B):
+A) Initial therapy. Approve for 6 months if the patients ALL of the following (i, ii,
+iii, iv, v, and vi)
+i. Patient is ≥ 12 years of age; AND
+ii. The diagnosis has been confirmed by biopsy; AND
+iii. Patient has a urine protein-to-creatinine ratio ≥ 1.0 g/g; AND
+iv. Patient has an estimated glomerular filtration rate ≥ 30 mL/min/1.73 m2;
+AND
+v. Patient has been on stable doses of at least ONE of the following for ≥ 12
+weeks prior to starting Empaveli (a, b, or c):
+a) Angiotensin converting enzyme inhibitor; OR
+b) Angiotensin receptor blocker; OR
+c) Sodium-glucose transporter-2 inhibitor; AND
+vi. The medication is prescribed by or in consultation with a nephrologist; OR
+B) Patient is Currently Receiving Empaveli. Approve for 1 year if the patient
+meets ALL of the following (i, ii, iii, iv, and v):
+i. Patient is ≥ 12 years of age; AND
+ii. The diagnosis has been confirmed by biopsy; AND
+iii. According to the prescriber, patient has had a response to Empaveli; AND
+Note: Examples of a response are a reduction in urine-to-creatinine ratio
+from baseline, reduction in proteinuria from baseline.
+iv. Patient has an estimated glomerular filtration rate ≥ 30 mL/min/1.73 m2;
+AND
+v. The medication is prescribed by or in consultation with a nephrologist.
+Page 4 of 7 - Cigna National Formulary Coverage - Policy: Complement Inhibitors – Empaveli Prior Authorization
+Policy
+2. Immune-Complex Membranoproliferative Glomerulonephritis, Primary.
+Approve for the duration noted if the patient meets ONE of the following (A or
+B):
+A) Initial therapy. Approve for 6 months if the patients ALL of the following (i, ii,
+iii, iv, v, and vi)
+i. Patient is ≥ 12 years of age; AND
+ii. The diagnosis has been confirmed by biopsy; AND
+iii. Patient has a urine protein-to-creatinine ratio ≥ 1.0 g/g; AND
+iv. Patient has an estimated glomerular filtration rate ≥ 30 mL/min/1.73 m2;
+AND
+v. Patient has been on stable doses of at least ONE of the following for ≥ 12
+weeks prior to starting Empaveli (a, b, or c):
+a) Angiotensin converting enzyme inhibitor; OR
+b) Angiotensin receptor blocker; OR
+c) Sodium-glucose transporter-2 inhibitor; AND
+vi. The medication is prescribed by or in consultation with a nephrologist; OR
+B) Patient is Currently Receiving Empaveli. Approve for 1 year if the patient
+meets ALL of the following (i, ii, iii, iv, and v):
+i. Patient is ≥ 12 years of age; AND
+ii. The diagnosis has been confirmed by biopsy; AND
+iii. According to the prescriber, patient has had a response to Empaveli; AND
+Note: Examples of a response are a reduction in urine-to-creatinine ratio
+from baseline, reduction in proteinuria from baseline.
+iv. Patient has an estimated glomerular filtration rate ≥ 30 mL/min/1.73 m2;
+AND
+v. The medication is prescribed by or in consultation with a nephrologist.
+3. Paroxysmal Nocturnal Hemoglobinuria. Approve for the duration noted if
+the patient meets ONE of the following (A or B):
+A) Initial therapy. Approve for 6 months if the patient meets ALL of the
+following (i, ii, iii, and iv):
+i. Patient is ≥ 18 years of age; AND
+ii. Paroxysmal nocturnal hemoglobinuria diagnosis was confirmed by
+peripheral blood flow cytometry results showing the absence or deficiency
+of glycosylphosphatidylinositol-anchored proteins on at least two cell
+lineages; AND
+iii. For a patient transitioning to Empaveli from eculizumab intravenous
+infusion (Soliris, biosimilar), the prescriber attests that eculizumab will be
+discontinued 4 weeks after starting Empaveli; AND
+iv. The medication is prescribed by or in consultation with a hematologist; OR
+B) Patient is Currently Receiving Empaveli. Approve for 1 year if the patient
+meets ALL of the following (i, ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. According to the prescriber, patient is continuing to derive benefit from
+Empaveli; AND
+Note: Examples of benefit include increase in or stabilization of
+hemoglobin levels, decreased transfusion requirements or transfusion
+Page 5 of 7 - Cigna National Formulary Coverage - Policy: Complement Inhibitors – Empaveli Prior Authorization
+Policy
+independence, reductions in hemolysis, improvement in Functional
+Assessment of Chronic Illness Therapy (FACIT)-Fatigue score.
+iii. The medication is prescribed by or in consultation with a hematologist.
+CONDITIONS NOT COVERED
+• Empaveli™ (pegcetacoplan subcutaneous injection – Apellis)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Concomitant Use with Eculizumab Intravenous Infusion (Soliris,
+biosimilars) for > 4 weeks. There is no evidence to support concomitant use
+of Empaveli with eculizumab. However, to reduce the risk of hemolysis from
+abrupt treatment discontinuation in a patient switching from eculizumab to
+Empaveli, the patient should be initiated on Empaveli while continuing
+eculizumab. After 4 weeks, discontinue eculizumab and continue Empaveli
+monotherapy.
+2. Concomitant Use with Fabhalta (iptacopan capsule), PiaSky
+(crovalimab-akkz intravenous infusion or subcutaneous injection),
+Ultomiris (ravulizumab-cwvz intravenous infusion), or Voydeya
+(danicopan tablets). There is no evidence to support concomitant use of
+Empaveli with Fabhalta, PiaSky, Ultomiris, or Voydeya.
+REFERENCES
+1. Empaveli™ subcutaneous infusion [prescribing information]. Waltham, MA: Apellis; July 2025.
+2. Bomback AS, Charu V, Fakhouri F. Challenges in the diagnosis and management of immune
+complex-mediated membranoproliferative glomerulonephritis and complement 3 glomerulopathy.
+Kidney Int Rep. 2025;10:17-28.
+3. Heidenreich K, Goel D, Priyamvada PS, et al. C3 glomerulopathy: a kidney disease mediated by
+alternative pathway deregulation. Front Nephrol. 2024;4:1460146. doi:
+10.3389/fneph.2024.1460146.
+4. Ayehu G, Atari M, Hassanein M, Jhaveri KD. C3 glomerulopathy. Available at:
+https://www.ncbi.nlm.nih.gov/books/NBK609090/#article-169701.s4. Last updated on November
+5, 2024. Accessed on March 25, 2025
+5. Immune complex membranoproliferative glomerulonephritis (IC-MPGN). Available at:
+https://www.kidney.org/kidney-topics/immune-complex-membranoproliferative-
+glomerulonephritis-ic-mpgn. Accessed on July 31, 2025.
+6. Noris M and Remuzzi G. C3G and Ig-MPGN – treatment standard. Nephrol Dial Transplant.
+2024;39:202-214.
+7. Cançado RD, da Silva Araújo A, Sandes AF, et al. Consensus statement for diagnosis and
+treatment of paroxysmal nocturnal haemoglobinuria. Hematol Transfus Cell Ther. 2021;43:341-
+348.
+8. Shah N, Bhatt H. Paroxysmal Nocturnal Hemoglobinuria. [Updated 2023 Jul 31]. In: StatPearls
+[Internet]. Treasure Island (FL): StatPearls Publishing; 2023 Jan-. Available from:
+https://www.ncbi.nlm.nih.gov/books/NBK562292/. Accessed on May 13, 2025.
+9. Roth A, Maciejewski J, Nishinura JI, et al. Screening and diagnostic clinical algorithm for
+paroxysmal nocturnal hemoglobinuria: Expert consensus. Eur J Haematol. 2018;101(1):3-11.
+Page 6 of 7 - Cigna National Formulary Coverage - Policy: Complement Inhibitors – Empaveli Prior Authorization
+Policy
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 05/24/2023
+Revision
+Selected Paroxysmal Nocturnal Hemoglobinuria: Criterion regarding 01/17/2024
+Revision patient transitioning to Empaveli from Soliris or Ultomiris was revised
+to remove Ultomiris.
+Conditions Not Covered
+: Criterion regarding concomitant use with Soliris or Ultomiris for >
+4 weeks was revised to remove Ultomiris. Criterion regarding
+concomitant use of Empaveli with Fabhalta or Ultomiris was added.
+Selected Paroxysmal Nocturnal Hemoglobinuria: Initial approval duration 02/28/2024
+Revision was changed from 4 months to 6 months.
+Annual Paroxysmal Nocturnal Hemoglobinuria: For patients who are 05/29/2024
+Revision currently receiving Empaveli, the Note regarding examples of benefit
+of Empaveli is updated to include “improvement in Functional
+Assessment of Chronic Illness Therapy (FACIT)-Fatigue score.”
+Conditions Not Covered
+: Voydeya is added to the criterion addressing concomitant use of
+Empaveli with Fabhalta (iptacopan capsule) or Ultomiris (ravulizmab-
+cwvz intravenous infusion or subcutaneous injection).
+Annual Paroxysmal Nocturnal Hemoglobinuria: Biosimilars to Soliris 05/21/2025
+Revision were added to criteria where only Soliris was previously noted.
+Conditions Not Covered
+: Biosimilars to Soliris were added to criteria where only Soliris was
+previously noted. Ultomiris subcutaneous injection was removed
+from criteria since the manufacturer has decided not to market the
+product. PiaSky was added to the list of medications that should not
+be used concomitantly with Empaveli.
+Selected Complement 3 Glomerulopathy: This FDA approved indication 08/06/2025
+Revision was added to the policy.
+Immune-Complex Membranoproliferative Glomerulonephritis.
+This FDA approved indication was added to the policy.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 7 of 7 - Cigna National Formulary Coverage - Policy: Complement Inhibitors – Empaveli Prior Authorization
+Policy

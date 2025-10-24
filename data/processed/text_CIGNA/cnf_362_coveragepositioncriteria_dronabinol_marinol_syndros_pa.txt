@@ -1,0 +1,180 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Dronabinol Products Prior Authorization with Step Therapy Policy
+• Marinol® (dronabinol capsules – ThePharmaNetwork, generic)
+• Syndros® (dronabinol oral solution – Insys/Benuvia)
+REVIEW DATE: 03/19/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Dronabinol capsules and Syndros are cannabinoids indicated for the following
+uses:1,2
+• Anorexia associated with weight loss, in patients with Acquired Immune
+Deficiency Syndrome (AIDS).
+• Nausea and vomiting associated with cancer chemotherapy, in
+patients who have failed to respond adequately to conventional antiemetic
+treatments.
+Guidelines
+The National Comprehensive Cancer Network (NCCN) guidelines regarding the
+treatment of emesis (version 2.2024 – September 27, 2024) include various
+antiemetic regimens depending upon the emetogenic potential of the chemotherapy
+agent(s) being administered.3 For breakthrough emesis, the guidelines recommend
+adding an agent from a different drug class to the current regimen, but no
+preference is given among specific products. Dronabinol is included in the list of
+medications for the treatment of refractory nausea or emesis. Other recommended
+agents for breakthrough nausea or emesis include serotonin receptor antagonists,
+olanzapine, lorazepam, haloperidol, metoclopramide, scopolamine,
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Dronabinol Products Prior Authorization with Step
+Therapy Policy
+prochlorperazine, promethazine, and dexamethasone. The guidelines also note that
+dronabinol capsules are not bioequivalent to the oral solution.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of dronabinol
+products. This Prior Authorization Policy also contains a Step Therapy component.
+When clinically appropriate, the patient is directed to try generic dronabinol
+capsules (Step 1) prior to brand Marinol or Syndros (Step 2). If the patient is
+requesting brand Marinol and meets the standard Dronabinol Products Prior
+Authorization criteria, but has not met the Step Therapy requirement (i.e. has not
+tried generic dronabinol capsules), an approval for generic dronabinol capsules will
+be authorized. All approvals are provided for the duration noted below. In cases
+where the approval is authorized in months, 1 month is equal to 30 days.
+I. Dronabinol capsules (Marinol, generic)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Anorexia Associated with Weight Loss in a Patient with Acquired
+Immune Deficiency Syndrome (AIDS). Approve for 6 months if the patient
+meets ONE of the following (A or B):
+A) Generic dronabinol capsules are requested; OR
+B) If brand Marinol is being requested, the patient meets BOTH of the following
+(i and ii):
+i. Patient has tried generic dronabinol capsules; AND
+ii. The Brand product is being requested due to a formulation difference in
+the inactive ingredient(s) [e.g., difference in dyes, fillers, preservatives]
+between the Brand and the bioequivalent generic product which, per the
+prescriber, would result in a significant allergy or serious adverse
+reaction.
+2. Nausea and Vomiting Associated with Cancer Chemotherapy. Approve for
+1 year if the patient meets BOTH of the following (A and B):
+A) Patient has failed to respond adequately to at least TWO conventional
+antiemetic treatments; AND
+Note: Examples of conventional antiemetic treatments include selective
+serotonin [5-HT ] receptor antagonists (such as ondansetron, granisetron,
+3
+Anzemet [dolasetron], Aloxi [palonosetron injection]), Akynzeo
+(netupitant/palonosetron capsules), Emend (aprepitant capsules), Varubi
+(rolapitant tablets), metoclopramide, prochlorperazine, dexamethasone,
+olanzapine.
+B) Patient meets ONE of the following (i or ii):
+i. Generic dronabinol capsules are requested; OR
+4 Pages - Cigna National Formulary Coverage - Policy:Dronabinol Products Prior Authorization with Step Therapy
+Policy
+ii. If brand Marinol is being requested, the patient meets BOTH of the
+following (a and b):
+a) Patient has tried generic dronabinol capsules; AND
+b) The Brand product is being requested due to a formulation difference
+in the inactive ingredient(s) [e.g., difference in dyes, fillers,
+preservatives] between the Brand and the bioequivalent generic
+product which, per the prescriber, would result in a significant allergy
+or serious adverse reaction.
+II. Syndros (dronabinol oral solution)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Anorexia Associated with Weight Loss in a Patient with Acquired
+Immune Deficiency Syndrome (AIDS). Approve for 6 months if the patient
+meets ONE of the following (A or B):
+A) Patient has tried generic dronabinol capsules; OR
+B) Patient cannot swallow or has difficulty swallowing capsules.
+2. Nausea and Vomiting Associated with Cancer Chemotherapy. Approve for
+1 year if the patient meets BOTH of the following (A and B):
+A) Patient has failed to respond adequately to at least TWO conventional
+antiemetic treatments; AND
+Note: Examples of conventional antiemetic treatments include selective
+serotonin [5-HT ] receptor antagonists (such as ondansetron, granisetron,
+3
+Anzemet [dolasetron], Aloxi [palonosetron injection]), Akynzeo
+(netupitant/palonosetron capsules), Emend (aprepitant capsules), Varubi
+(rolapitant tablets), metoclopramide, prochlorperazine, dexamethasone,
+olanzapine.
+B) Patient meets ONE of the following (i or ii):
+i. Patient has tried generic dronabinol capsules; OR
+ii. Patient cannot swallow or has difficulty swallowing capsules.
+CONDITIONS NOT COVERED
+• Marinol® (dronabinol capsules – ThePharmaNetwork, generic)
+• Syndros® (dronabinol oral solution – Insys/Benuvia)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria
+will be updated as new published data are available):
+1. Multiple Sclerosis. Results from one published, randomized, double-blind,
+placebo-controlled study (n = 498) demonstrated that dronabinol has no overall
+4 Pages - Cigna National Formulary Coverage - Policy:Dronabinol Products Prior Authorization with Step Therapy
+Policy
+effect on the progression of multiple sclerosis in patients with primary and
+secondary progressive multiple sclerosis.4 More data are needed to define the
+place in therapy of dronabinol in the treatment of multiple sclerosis.
+REFERENCES
+1. Marinol® capsules [prescribing information]. Parsippany, NJ: ThePharmaNetwork; December
+2019.
+2. Syndros® oral solution [prescribing information]. Round Rock, TX: Benuvia Therapeutics; May
+2024.
+3. The NCCN Clinical Practice Guidelines in Oncology for Antiemesis (version 2.2024 – September
+27, 2024). © 2024 National Comprehensive Cancer Network. Available at: www.nccn.org.
+Accessed on March 17, 2025.
+4. Zajicek J, Ball S, Wright D, et al. Effect of dronabinol on progression in progressive multiple
+sclerosis (CUPID): a randomised, placebo-controlled trial. Lancet Neurol. 2013;12(9):857-865.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Annual Title was updated to add the word “Products” in line with 11/15/2023
+Revision standard formatting and “with Step Therapy”.
+Nausea and Vomiting Associated with Cancer
+Chemotherapy: Diagnosis was updated to remove “in a
+Patient who has Failed to Respond Adequately to Conventional
+Antiemetic Treatments” as this is redundant to the criterion
+requiring patients to have failed to adequately respond to at
+least two conventional antiemetic treatments.
+The criteria note that contains examples of conventional
+antiemetic treatments was updated to include: olanzapine.
+Conditions Not Covered
+: Indication of “Tourette’s Syndrome” was removed.
+Annual No criteria changes. 12/11/2024
+Revision
+Early Annual Policy Statement was updated to add “This Prior 03/19/2025
+Revision Authorization Policy also contains a Step Therapy component.
+When clinically appropriate, the patient is directed to try
+generic dronabinol capsules (Step 1) prior to brand Marinol or
+Syndros (Step 2). If the patient is requesting brand Marinol
+and meets the standard Dronabinol Products Prior Authorization
+criteria, but has not met the Step Therapy requirement (i.e.
+has not tried generic), an approval for generic dronabinol
+capsules will be authorized.”
+Throughout the Policy, the requirement for if Brand name being
+“prescribed” was reworded to “requested”.
+Conditions Not Covered
+: Indication of “Chronic Non-Cancer Pain” was removed.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group. © 2025 The Cigna Group.
+4 Pages - Cigna National Formulary Coverage - Policy:Dronabinol Products Prior Authorization with Step Therapy
+Policy

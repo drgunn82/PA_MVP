@@ -1,0 +1,127 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1083-16
+Program Prior Authorization/Notification
+Medication *Promacta® and Alvaiz™ (eltrombopag)
+*Promacta tablet formulation is excluded from coverage for the
+majority of our benefits.
+P&T Approval Date 1/2012, 2/2013, 2/2014, 2/2015, 2/2016, 12/2016, 11/2017, 11/2018,
+11/2019, 11/2020, 11/2021, 1/2022, 1/2023, 1/2024, 6/2024, 8/2024
+Effective Date 1/1/2025
+1. Background:
+Promacta and Alvaiz (eltrombopag) are a thrombopoietin receptor agonists indicated for the
+treatment of thrombocytopenia in adult and pediatric patients (1 year and older for Promacta and
+6 years and older for Alvaiz) with persistent or chronic immune thrombocytopenia (ITP) who
+have experienced an insufficient response to corticosteroids, immunoglobulins, or splenectomy,
+for the treatment of thrombocytopenia in patients with chronic hepatitis C to allow the initiation
+and maintenance of interferon-based therapy, and for the treatment of patients with severe
+aplastic anemia who have had an insufficient response to immunosuppressive therapy. Promacta
+is also approved in combination with standard immunosuppressive therapy for the first line
+treatment of adult and pediatric patients 2 years and older with severe aplastic anemia.
+Promacta and Alvaiz should be used only in patients with ITP whose degree of
+thrombocytopenia and clinical condition increase the risk for bleeding.
+Promacta and Alvaiz should be used only in patients with chronic hepatitis C whose degree of
+thrombocytopenia prevents the initiation of interferon-based therapy or limits the ability to
+maintain interferon-based therapy. Safety and efficacy have not been established in combination
+with direct-acting antiviral agents used without interferon for treatment of chronic hepatitis C
+infection.
+Members will be required to meet the coverage criteria below.
+2. Coverage Criteriaa:
+A. Chronic immune thrombocytopenia (ITP)
+1. Initial Authorization
+a. *Promacta or Alvaiz will be approved based on both of the following criteria:
+(1) Diagnosis of chronic immune thrombocytopenia (ITP)
+-AND-
+(2) Patient has had an insufficient response to a previous treatment (e.g.,
+corticosteroids, immunoglobulins, thrombopoietin receptor agonists,
+© 2024 UnitedHealthcare Services, Inc.
+1
+splenectomy)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. *Promacta or Alvaiz will be approved based on the following criterion:
+(1) Documentation of positive clinical response to Promacta or Alvaiz therapy
+Authorization will be issued for 12 months.
+B. Chronic hepatitis C-associated thrombocytopenia
+1. Initial Authorization
+a. *Promacta or Alvaiz will be approved based on both of the following criteria:
+(1) Diagnosis of chronic hepatitis C-associated thrombocytopenia
+-AND-
+(2) One of the following:
+(a) Planning to initiate and maintain interferon-based treatment
+-OR-
+(b) Currently receiving interferon-based treatment
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. *Promacta or Alvaiz will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Promacta or Alvaiz therapy
+-AND-
+(2) Patient is currently on antiviral interferon therapy for treatment of chronic
+hepatitis C
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+2
+C. Aplastic Anemia
+1. Initial Authorization
+a. *Promacta or Alvaiz will be approved based on both of the following criteria:
+(1) Diagnosis of severe aplastic anemia
+-AND-
+(2) One of the following
+(a) Used in combination with standard immunosuppressive therapy (e.g.,
+Atgam [antithymocyte globulin equine], Thymoglobulin [antithymocyte
+globulin rabbit], cyclosporine)
+-OR-
+(b) History of failure, contraindication, or intolerance to at least one course of
+immunosuppressive therapy (e.g., Atgam [antithymocyte globulin equine],
+Thymoglobulin [antithymocyte globulin rabbit], cyclosporine)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. *Promacta or Alvaiz will be approved based on the following criterion:
+(1) Documentation of positive clinical response to Promacta or Alvaiz therapy
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+*Promacta tablet formulation is excluded from coverage for the majority of our benefits.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+3. References:
+1. Promacta [Package Insert]. East Hanover, NJ: Novartis Pharmaceuticals Corporation;
+March 2023.
+2. Alvaiz [Package Insert]. Parsippany, NJ: Teva Pharmaceuticals; November 2023
+© 2024 UnitedHealthcare Services, Inc.
+3
+Program Prior Authorization/Notification – Promacta (eltrombopag)
+Change Control
+2/2014 Annual review. Increased authorization to 60 months for ITP.
+9/2014 Administrative change – Tried/Failed exemption for State of New
+Jersey removed.
+2/2015 Annual review. Added criteria for new aplastic anemia indication.
+Updated background and references.
+2/2016 Annual review. Revised reauthorization criteria for thrombocytopenia
+due to chronic hepatitis C. Extended initial authorization to 6 months
+for chronic hepatitis C and aplastic anemia. Updated background and
+references.
+12/2016 Annual review. Reduced ITP authorization to 6 months and added
+reauthorization criteria. Updated background and references.
+11/2017 Annual review. Updated references.
+11/2018 Annual review. Revised coverage rationale to rename idiopathic
+thrombocytopenic purpura to immune thrombocytopenia. Updated
+background and references.
+11/2019 Annual review. Revised coverage rationale for aplastic anemia.
+Updated background and references.
+11/2020 Annual review. No changes to coverage rationale. Updated reference.
+11/2021 Annual review. No changes to coverage criteria. Updated reference.
+1/2022 Revised try/fail criteria to insufficient response. Updated reference.
+1/2023 Annual review with no changes to coverage criteria. Updated
+background per label and added state mandate.
+1/2024 Annual review. Reformatted criteria without change to clinical intent.
+Updated background per label and updated reference.
+6/2024 Added Alvaiz to the program.
+8/2024 Added statement that the Promacta tablet formulation is excluded from
+coverage for the majority of our benefits.
+© 2024 UnitedHealthcare Services, Inc.
+4

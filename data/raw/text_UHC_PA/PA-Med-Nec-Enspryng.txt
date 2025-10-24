@@ -1,0 +1,92 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2222-5
+Program Prior Authorization/Medical Necessity
+Medications Enspryng™ (satralizumab-mwge)
+P&T Approval Date 10/2020, 10/2021, 10/2022, 10/2023, 10/2024
+Effective Date 1/1/2025
+1. Background:
+Enspryng (satralizumab-mwge) is an interleukin-6 (IL-6) receptor antagonist indicated for the
+treatment of neuromyelitis optica spectrum disorder (NMOSD) in adult patients who are anti-
+aquaporin-4 (AQP4) antibody positive.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Enspryng will be approved based on all of the following criteria:
+a. Diagnosis of neuromyelitis optica spectrum disorder (NMOSD)
+-AND-
+b. Patient has a positive serologic test for anti-aquaporin-4 (AQP4) antibodies
+-AND-
+c. History of failure, contraindication, or intolerance to rituximab therapy
+-AND-
+d. One of the following:
+(1) History of one or more relapses that required rescue therapy during the previous 12
+months
+-OR-
+(2) History of two or more relapses that required rescue therapy during the previous 24
+months
+-AND-
+e. Prescribed by, or in consultation with, a neurologist
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+1
+f. Patient is not receiving Enspryng in combination with any of the following:
+(1) Disease modifying therapies for the treatment of multiple sclerosis [e.g., Gilenya
+(fingolimod), Tecfidera (dimethyl fumarate), Ocrevus (ocrelizumab), etc.]
+(2) Complement inhibitors [e.g., Soliris (eculizumab), Ultomiris (ravulizumab), etc.]
+(3) Anti-IL6 therapy [e.g., Actemra (tocilizumab)]
+(4) B-cell depletion therapy [e.g., rituximab, Uplizna (inebilizumb-cdon)]
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Enspryng will be approved based on all of the following criteria:
+a. Documentation of positive clinical response to Enspryng therapy
+-AND-
+b. Prescribed by, or in consultation with, a neurologist
+-AND-
+c. Patient is not receiving Enspryng in combination with any of the following:
+(1) Disease modifying therapies for the treatment of multiple sclerosis [e.g., Gilenya
+(fingolimod), Tecfidera (dimethyl fumarate), Ocrevus (ocrelizumab), etc.]
+(2) Complement inhibitors [e.g., Soliris (eculizumab), Ultomiris (ravulizumab), etc.]
+(3) Anti-IL6 therapy [e.g., Actemra (tocilizumab)]
+(4) B-cell depletion therapy [e.g., rituximab, Uplizna (inebilizumb-cdon)]
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit plan
+coverage may also impact coverage criteria. Other policies and utilization management programs may
+apply.
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Enspryng [package insert]. South San Francisco, CA: Genentech, Inc.; March 2022.
+2. Sellner J1, Boggild M, Clanet M, et al. EFNS guidelines on diagnosis and management of
+neuromyelitis optica. Eur J Neurol. 2010 Aug;17(8):1019-32.
+3. Sato D, Callegaro D, Lana-Peixoto MA, Fujihara K. Treatment of neuromyelitis optica: an
+evidencebased review. Arq Neuropsiquiatr 2012;70(1);59-66.
+© 2024 UnitedHealthcare Services, Inc.
+2
+4. Ciron J, Audoin B, Bourre B, et al. Recommendations for the use of rituximab in neuromyelitis
+optica spectrum disorders. Rev Neurol (Paris). 2018 Apr;174(4):255-264.
+5. Nikoo Z, Badihian S, Shaygannejad V, et al. Comparison of the efficacy of azathioprine and
+rituximab in neuromyelitis optica spectrum disorder: a randomized clinical trial. J Neurol. 2017
+Sep;264(9):2003-2009.
+6. Gao F, Chai B, Gu C, et al. Effectiveness of rituximab in neuromyelitis optica: a meta-analysis.
+BMC Neurol. 2019 Mar 6;19(1):36.
+7. Kim SH, Huh SY, Lee SJ, et al. A 5-year follow-up of rituximab treatment in patients with
+neuromyelitis optica spectrum disorder. JAMA Neurol. 2013 Sep 1;70(9):1110-7.
+8. Yamamura T, Kleiter I, Fujihara K, et al. Trial of satralizumab in neuromyelitis optica spectrum
+disorder. N Engl J Med. 2019;381(22):2114-2124.
+9. Traboulsee A, Greenberg BM, Bennett JL, et al. Safety and efficacy of satralizumab monotherapy
+in neuromyelitis optica spectrum disorder: a randomised, double-blind, multicentre, placebo-
+controlled phase 3 trial. Lancet Neurol. 2020;19(5):402-412.
+Program Prior Authorization/Medical Necessity – Enspryng (satralizumab-
+mwge)
+Change Control
+10/2020 New program.
+10/2021 Annual review with no changes to clinical criteria.
+10/2022 Annual review with no changes to clinical criteria. Updated reference.
+10/2023 Annual review with no changes.
+10/2024 Annual review with no changes to clinical criteria. Updated examples of
+complement inhibitors.
+© 2024 UnitedHealthcare Services, Inc.
+3

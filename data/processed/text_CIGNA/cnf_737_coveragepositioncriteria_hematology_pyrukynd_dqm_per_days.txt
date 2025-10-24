@@ -1,0 +1,150 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Hematology − Pyrukynd Drug Quantity Management Policy – Per Days
+• Pyrukynd® (mitapivat tablets − Agios)
+REVIEW DATE: 05/02/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Pyrukynd, a pyruvate kinase activator, is indicated for the treatment of hemolytic
+anemia due to pyruvate kinase deficiency in adults.1 It is recommended to
+discontinue Pyrukynd if no benefit has been observed by 24 weeks as evaluated by
+hemoglobin and hemolysis laboratory results and transfusion requirements.
+Dosing
+Pyrukynd is administered orally with or without food and must be swallowed whole.1
+Tablets cannot be split, crushed, chewed, or dissolved. The recommended initial
+dose of Pyrukynd is 5 mg twice daily (BID). The dose should then be titrated from
+5 mg BID to 20 mg BID and then to the maximum recommended dose of 50 mg
+BID, with dose increases every 4 weeks. The titration schedule is in Table 1. Prior
+to increasing to the next dose level, hemoglobin should be assessed. If no benefit
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Hematology ( Pyrukynd Drug Quantity Management
+Policy – Per Days
+has been observed by 24 weeks, based on hemoglobin and hemolysis laboratory
+results and transfusion requirements, discontinue Pyrukynd.
+Table 1. Pyrukynd Dose Titration Schedule.1
+Duration Clinical Parameters Dose Recommendations
+Week 1 through NA 5 mg BID
+Week 4
+Week 5 through Hemoglobin is below normal range or Increase to 20 mg BID and
+Week 8 patient has required a transfusion within maintain for 4 weeks
+the last 8 weeks
+Hemoglobin is within normal range and Maintain 5 mg BID
+patient has not required a transfusion
+within the last 8 weeks.
+Week 9 through Hemoglobin is below normal range or Increase to 50 mg BID and
+Week 12 patient has required a transfusion within maintain thereafter
+the last 8 weeks
+Hemoglobin is within normal range and Maintain the current dose (i.e.,
+patient has not required a transfusion 5 mg BID or 20 mg BID)
+within the last 8 weeks.
+Maintenance If hemoglobin decreases. Consider up-titration to the
+maximum dose of 50 mg BID
+NA – Not applicable; BID – Twice daily.
+Patients should avoid abrupt interruption or abrupt discontinuation of Pyrukynd to
+reduce the risk of acute hemolysis.1 The recommended taper schedule is in Table 2.
+Table 2. Pyrukynd Taper Schedule.1
+Current Dose Dose Taper Schedule
+Days 1 – 7 Days 8 – 14 Day 15
+5 mg BID 5 mg QD Discontinue NA
+20 mg BID 20 mg QD 5 mg QD Discontinue
+50 mg BID 50 mg QD 20 mg QD Discontinue
+BID – Twice daily; QD – Once daily; NA – Not applicable.
+The use of Pyrukynd along with strong cytochrome P450 (CYP)3A inhibitors or
+inducers should be avoided.1 If co-administration with a moderate CYP3A inhibitor
+cannot be avoided, monitor hemoglobin and do not titrate Pyrukynd beyond 20 mg
+BID. If co-administration with a moderate CYP3A inducer cannot be avoided,
+monitor hemoglobin and titrate beyond 50 mg BID, if necessary, but do not exceed
+a maximum recommended dose of 100 mg BID. If the patient requires a dose
+reduction due to tolerability, an adverse event, or elevated hemoglobin, the dose
+may be reduced to the next lower dose level. If Pyrukynd needs to be
+discontinued, the taper schedule in Table 2 should be used. However, there are
+some situations outlined in the prescribing information when discontinuing
+Pyrukynd without a taper may be warranted.
+Availability
+Table 3. Pyrukynd Availability.1
+Dosage Form Strength/Quantity
+5 mg 28-Day Pack 5 mg tablets x 56 tablets
+20 mg 28-Day Pack 20 mg tablets x 56 tablets
+50 mg 28-Day Pack 50 mg tablets x 56 tablets
+5 mg Taper Pack 5 mg blister wallet (7 tablets)
+4 Pages - Cigna National Formulary Coverage - Policy:Hematology ( Pyrukynd Drug Quantity Management Policy
+– Per Days
+5 mg and 20 mg Taper Pack 5 mg blister wallet (7 tablets) and 20 mg blister wallet (7 tablets)
+20 mg and 50 mg Taper Pack 20 mg blister wallet (7 tablets) and 50 mg blister wallet (7 tablets)
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of Pyrukynd. If the Drug Quantity Management rule is
+not met for the requested medication at the point of service, coverage will be
+determined by the Criteria below. All approvals are provided for 1 year in duration.
+Drug Quantity Limits
+Product Strength and Form Retail Home Delivery
+Maximum Maximum
+Quantity Quantity
+per Days per Days
+Pyrukynd® 5 mg tablets 56 tablets per 28 168 tablets per
+(mitapivat (28-Day Pack) days 84 days
+tablets) 20 mg tablets 56 tablets per 28 168 tablets per
+(28-Day Pack) days 84 days
+50 mg tablets 56 tablets per 28 168 tablets per
+(28-Day Pack) days 84 days
+5 mg tablets 7 tablets per 365 days
+Taper Pack (7 x 5 mg tablets blister
+wallet)
+5 mg and 20 mg 14 tablets per 365 days
+Taper Pack (1 x 5 mg wallet and 1 x 20
+mg wallet)
+20 mg and 50 mg 14 tablets per 365 days
+Taper Pack (1 x 20 mg wallet and 1 x 50
+mg wallet)
+EXCEPTIONS TO THE QUANTITY LIMITS LISTED ABOVE ARE COVERED AS MEDICALLY
+NECESSARY WHEN THE FOLLOWING CRITERIA ARE MET. ANY OTHER EXCEPTION IS
+CONSIDERED NOT MEDICALLY NECESSARY.
+CRITERIA
+Pyrukynd 50 mg 28-Day Pack
+1. If a patient is taking Pyrukynd concomitantly with a cytochrome P450 (CYP)3A4
+inducer, approve 112 tablets per 28 days at retail or 336 tablets per 84 days at
+home delivery.
+REFERENCES
+1. Pyrukynd® tablets [prescribing information]. Cambridge, MA: Agios; January 2025.
+4 Pages - Cigna National Formulary Coverage - Policy:Hematology ( Pyrukynd Drug Quantity Management Policy
+– Per Days
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Policy was updated to reflect the existing quantity limits when a 05/04/2023
+Revision product is obtained via home delivery.
+No criteria changes.
+Annual No criteria changes. 05/15/2024
+Revision
+Annual No criteria changes. 05/02/2025
+Revision
+"CIGNA COMPANIES" REFERS TO OPERATING SUBSIDIARIES OF THE CIGNA GROUP. ALL PRODUCTS AND SERVICES ARE PROVIDED
+EXCLUSIVELY BY OR THROUGH SUCH OPERATING SUBSIDIARIES, INCLUDING CIGNA HEALTH AND LIFE INSURANCE COMPANY,
+CONNECTICUT GENERAL LIFE INSURANCE COMPANY, EVERNORTH BEHAVIORAL HEALTH, INC., CIGNA HEALTH MANAGEMENT, INC.,
+AND HMO OR SERVICE COMPANY SUBSIDIARIES OF THE CIGNA GROUP.© 2025 THE CIGNA GROUP.
+4 Pages - Cigna National Formulary Coverage - Policy:Hematology ( Pyrukynd Drug Quantity Management Policy
+– Per Days

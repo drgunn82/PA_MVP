@@ -1,0 +1,111 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Gonadotropin-Releasing Hormone Antagonists – Orilissa Prior
+Authorization Policy
+• Orilissa™ (elagolix tablets – AbbVie)
+REVIEW DATE: 04/23/25
+•
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Orilissa, an oral gonadotropin-releasing hormone (GnRH) receptor antagonist, is
+indicated for the management of moderate to severe pain associated with
+endometriosis.1 Limitation of Use. Limit the duration of use based on the dose
+and coexisting condition.
+The recommended dosage is 150 mg once daily (QD) for up to 24 months (no
+coexisting conditions) or 200 mg twice daily (BID) for up to 6 months (in patients
+with coexisting dyspareunia). In patients with moderate hepatic impairment (Child-
+Pugh Class B), the recommended dosage is 150 mg QD for up to 6 months and the
+use of 200 mg BID is not recommended. Orilissa is contraindicated in patients with
+severe hepatic impairment. Duration of therapy is limited due to the anti-
+estrogenic effects of the medication which include a decrease in bone mineral
+density.
+Disease Overview
+Endometriosis is a condition where the tissues similar to the lining of the uterus (or
+endometrium) migrate outside of the womb to other body sites.2,3 The migrated
+tissues are generally found in the pelvic cavity (e.g., peritoneum, uterosacral
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Gonadotropin-Releasing Hormone Antagonists –
+Orilissa Prior Authorization Policy
+ligaments, rectal-vaginal septum, or any spaces between the bladder, uterus,
+vagina, and rectum) and can attach to any of the female reproductive organs (e.g.,
+ovaries, fallopian tubes). The migrated tissue is less commonly found outside the
+pelvic cavity or on the intestines, colon, appendix or rectum. Endometriosis
+impacts up to 10% of patients of reproductive age in the US.3
+Guidelines
+According to the American College of Obstetricians and Gynecologists practice
+bulletin on the management of endometriosis (2010, reaffirmed 2018), empiric
+therapy with a 3-month course of a GnRH agonist is appropriate after an
+appropriate pretreatment evaluation (to exclude other causes of chronic pelvic pain)
+and failure of initial treatment with oral contraceptives and nonsteroidal anti-
+inflammatory drugs (NSAIDs),.2
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Orilissa. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days.
+▪ Orilissa™ (elagolix tablets – AbbVie)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Endometriosis. Approve for 6 months if the patient meets ONE of the
+following (A or B):
+A) Initial Therapy. Approve if the patient has tried ONE of the following, unless
+contraindicated (i or ii):
+Note: An exception to the requirement for a trial of the below therapies can
+be made if the patient had previously used a gonadotropin-releasing
+hormone agonist (e.g., Lupron Depot [leuprolide depot injection]) or
+Myfembree (relugolix, estradiol, norethindrone tablets) for endometriosis.
+i. A contraceptive (e.g., combination oral contraceptives, levonorgestrel-
+releasing intrauterine systems [e.g., Mirena {levonorgestrel intrauterine
+system}, Liletta {levonorgestrel intrauterine system}], a depo-
+medroxyprogesterone injection); OR
+ii. An oral progesterone (e.g., norethindrone tablets); OR
+B) Patient is Currently Receiving Orilissa. Approve.
+CONDITIONS NOT COVERED
+▪ Orilissa™ (elagolix tablets – AbbVie)
+3 Pages - Cigna National Formulary Coverage - Policy:Gonadotropin-Releasing Hormone Antagonists – Orilissa
+Prior Authorization Policy
+is(are) considered not medically necessary for ANY other use(s); criteria
+will be updated as new published data are available.
+REFERENCES
+1. Orilissa™ tablets [prescribing information]. North Chicago, IL: AbbVie; June 2023.
+2. Endometriosis. Endometriosis Foundation of America. Updated 9/28/2022. Available at:
+https://www.endofound.org/endometriosis. Accessed on April 18, 2025.
+3. Global Forum. Endometriosis.org. Available at: http://endometriosis.org/endometriosis/.
+Accessed on April 18, 2025.
+4. Management of Endometriosis. ACOG Practice Bulletin. Clinical Management Guidelines for
+Obstetrican-Gynecologists. Number 114, July 2010. (Reaffirmed 2018) Obstetrics & Gynecology.
+2010;116(1):223-236.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Automation: Added Myfembree 4/26/2023
+Revision Endometriosis: Added Myfembree to the Note.
+Annual No criteria changes. 04/19/2024
+Revision
+Annual No criteria changes. 04/23/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Gonadotropin-Releasing Hormone Antagonists – Orilissa
+Prior Authorization Policy

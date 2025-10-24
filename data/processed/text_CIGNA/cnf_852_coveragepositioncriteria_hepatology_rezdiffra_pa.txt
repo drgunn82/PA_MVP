@@ -1,0 +1,439 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Hepatology – Rezdiffra Prior Authorization Policy
+• Rezdiffra™ (resmetirom tablets − Madrigal Pharmaceuticals)
+REVIEW DATE: 04/02/2025; selected revision 06/25/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Rezdiffra, a thyroid hormone receptor-beta (THR-β) agonist, is indicated in combination with
+diet and exercise for the treatment of non-cirrhotic non-alcoholic steatohepatitis
+(NASH) with moderate to advanced liver fibrosis (consistent with stages F2 to F3 fibrosis)
+in adults.1 Limitations of Use: Avoid use in patients with decompensated cirrhosis.
+This indication is approved under accelerated approval based on improvement of NASH and
+fibrosis. Continued approval for this indication may be contingent upon verification and
+description of clinical benefit in confirmatory trial.1
+Disease Overview
+Metabolic dysfunction-associated steatotic liver disease (MASLD) is the most common liver
+disease in the US.11 MASLD is defined as the presence of hepatic steatosis with at least one
+cardiometabolic risk (i.e., obesity, prediabetes/diabetes, hypertension, elevated
+triglycerides, and/or low high-density lipoprotein cholesterol) in the absence of other
+identifiable causes of liver disease or hepatic steatosis. Metabolic dysfunction-associated
+steatohepatitis (MASH), a subtype of MASLD, is the progressive form of the disease.
+Page 1 of 11 - Cigna National Formulary Coverage - Policy: Hepatology – Rezdiffra Prior Authorization Policy
+Previously, these conditions were known as non-alcoholic fatty liver disease (NAFLD) and
+non-alcoholic steatohepatitis (NASH), respectively, until the terminology was updated in
+2023. MASH is characterized by the presence of ≥ 5% hepatic steatosis with hepatocellular
+damage and inflammation in the absence of a readily identified alternative cause of
+steatosis (e.g., medications, starvation, monogenic disorders) in individuals who drink little
+or no alcohol (defined as < 20 g/day for women and < 30 g/day for men).2 Once MASH
+progresses to clinically meaningful fibrosis (stages F2 and F3), the risk of adverse clinical
+outcomes increases. In the US, it is estimated that more than one-third of adults have
+MASLD11; 1.5% to 6.5% of adults have MASH.3 The estimated prevalence of high-risk
+MASH (defined as non-alcoholic fatty liver disease activity score [NAS] ≥ 4 and fibrosis
+stage ≥ 2 [F2]) in the US is 5.8%. The risk of MASH is two- to three-fold higher in
+individuals with obesity (25% to 30%) and/or type 2 diabetes (30% to 40%).4 In the US,
+MASH is among the top causes of hepatocellular carcinoma and the second most common
+indication for liver transplantation after hepatitis C.
+Clinical Efficacy
+The efficacy of Rezdiffra was evaluated in one ongoing, Phase III, randomized, double-blind,
+placebo-controlled, multicenter, pivotal study in adults with biopsy-confirmed NASH
+(MAESTRO-NASH) with fibrosis (F1B, F2, or F3) [ n = 966].5 The dual primary endpoints at
+Week 52 were 1) NASH resolution (achievement of a hepatocellular ballooning score = 0,
+inflammation score = 0 or 1, and ≥ 2 point reduction in non-alcoholic fatty liver disease
+activity score [NAS]) with no worsening of fibrosis, and 2) ≥ 1 stage improvement in
+fibrosis with no worsening of NAS. The key secondary endpoint was the percent reduction
+in low-density lipoprotein cholesterol (LDL-C) at Week 24. Patients who reached the Week
+52 analysis were eligible to continue to the open-label extension with a primary endpoint of
+a composite of all-cause mortality, liver transplant, and significant hepatic events (including
+hepatic decompensation events [ascites, encephalopathy, or variceal hemorrhage],
+histological progression to cirrhosis, and a confirmed increase of modified end-stage liver
+disease [MELD] score from < 12 to ≥ 15). Eligible patients were ≥ 18 years of age, had at
+least three of five metabolic risk factors according to the International Diabetes Foundation
+criteria for metabolic syndrome9 (central obesity, elevated triglycerides [≥ 150 mg/dL],
+reduced high-density lipoprotein cholesterol [< 50 mg/dL in females or < 40 mg/dL in
+males], elevated blood pressure [≥ 130/85 mmHg], elevated fasting plasma glucose [≥ 100
+mg/dL]), and had undergone prescreening vibration-controlled transient elastography
+(VCTE; FibroScan) within the past 3 months that showed a controlled attenuation parameter
+of ≥ 280 dB/meter and a liver stiffness measurement of ≥ 8.5 kPa (alternately, a liver
+biopsy that was performed within 6 months before randomization could be confirmed to be
+eligible as a baseline biopsy by the central pathologist of the trial). Additional key inclusion
+criteria were histologic evidence of NASH and an NAS of ≥ 4 (on a scale of 0 to 8 with
+higher scores indicating more severe disease), with a score of ≥ 1 for each component
+(steatosis [on a scale of 0 to 3], lobular inflammation [on a scale from 0 to 3], and
+hepatocellular ballooning [on a scale from 0 to 2]). Key exclusion criteria were alcohol
+consumption of > 20 g/day for women and > 30 g/day for men for a period of ≥ 3
+consecutive months within 1 year of screening and causes of chronic liver disease other
+than non-cirrhotic NASH.
+The mean age was 57 years, the mean body mass index was 35.7 kg/m2, 67% of patients
+had type 2 diabetes, 78% of patients had hypertension, and 71% of patients had
+dyslipidemia (approximately 50% of patients were taking a statin).5 Glucagon-like receptor-
+1 agonist use was reported in approximately 15% of patients. Most patients had a fibrosis
+stage of F3 (62%), 33% of patients had F2, and 5% of patients had F1B. All patients
+underwent lifestyle modification consisting of diet and exercise.
+8 Pages - Cigna National Formulary Coverage - Policy:Hepatology – Rezdiffra Prior Authorization Policy
+At Week 52, NASH resolution associated with a ≥ 2 point reduction in NAS without
+worsening of fibrosis stage was reported for 29.9% and 25.9% of patients in the Rezdiffra
+100 mg and 80 mg groups, respectively vs. 9.7% of patients in the placebo group (P <
+0.0001 for Rezdiffra doses vs. placebo).5 The proportion of patients with ≥ 1 stage fibrosis
+improvement with no worsening in NAS at Week 52 was 25.9% and 24.2% for Rezdiffra 100
+mg and 80 mg, respectively vs. 14.2% for placebo (P < 0.0001 for Rezdiffra doses vs.
+placebo). At Week 24, LDL-C was reduced by -16.3% and -13.6% with Rezdiffra 100 mg
+and 80 mg, respectively, vs. +0.7% with placebo (P = 0.0001 Rezdiffra doses vs. placebo)
+[key secondary endpoint]. Fewer patients treated with Rezdiffra vs. placebo with F1B or F2
+at baseline progressed to ≥ F3 (18% to 19% vs. 34%, respectively) and more patients
+treated with Rezdiffra vs. placebo with F1B or F2 at baseline had an improved fibrosis stage
+(31% to 33% vs. 15%, respectively). A similar proportion of patients treated with Rezdiffra
+and placebo with F1B or F2 at baseline had no change (stable) in fibrosis stage at Week 52
+(48% to 51% vs. 51%, respectively).
+Guidelines
+An update to the American Association for the Study of Liver Diseases (AASLD) Practice
+Guidance on the Clinical Management of NAFLD was published in October 2024 to address
+the approval of Rezdiffra.10 It is recognized that although MASH can only be definitively
+diagnosed by histologic exam (biopsy), in practice, patient selection is based on evidence of
+steatosis and fibrosis as determined by non-invasive liver disease assessments (NILDAs) in
+patients with cardiometabolic risk factors without other causes of steatosis, notably, alcohol
+consumption of > 20 g/day for women and > 30 g/day in men. There are no FDA-approved
+NILDAs to diagnose MASH with stage F2 to F3 fibrosis or to monitor the response to
+pharmacotherapy. In general imaging-based NILDAs such as liver stiffness measurement
+(LSM) by VCTE or magnetic resonance elastography (MRE) have better accuracy in
+assessing fibrosis vs. blood-based tests. In general, magnetic resonance spectroscopy and
+magnetic resonance imaging proton fat density fat fraction (MRI-PDFF) are considered the
+most accurate quantitative measures of hepatic steatosis, followed by VCTE-controlled
+attenuation parameter score and gray scale ultrasound. However, for the purpose of
+selecting patients for treatment with Rezdiffra, non-quantitative imaging evidence of hepatic
+steatosis (e.g., ultrasonographic evidence) in individuals with at least one cardiometabolic
+risk factor and F2 or F3 fibrosis may be sufficient. Liver biopsy is not typically
+recommended for fibrosis staging in current clinical practice; however, histologic exam
+remains the gold standard to quantify fibrosis if performed previously (historical biopsy
+obtained reasonably recently, e.g., within 3 years). Since NILDAs are more readily available
+than liver biopsy, it is recommended that more current data (e.g., within 6 to 12 months)
+be utilized to determine patients who are appropriate candidates for treatment with
+Rezdiffra. Regardless of treatment, the management of MASLD should include
+comprehensive lifestyle modification (e.g., nutrition, exercise, and behavior modification)
+and optimal control of comorbid metabolic conditions. Further, given the comorbidity profile
+of individuals with MASLD, cardiovascular risk management is an important aspect of
+medical management.
+When selecting appropriate patients for treatment, Rezdiffra can be considered in adults
+with MASH and moderate to advanced liver fibrosis (consistent with F2 or F3 fibrosis).10 The
+diagnosis should be assessed by one of the following: 1) NILDA, preferably imaging-based
+test results, consistent with MASH with stage F2 or F3 fibrosis; or 2) Historical liver biopsy
+demonstrating MASH with stage F2 or F3 fibrosis (and without evidence of concomitant,
+histologically active autoimmune liver disease). Rezdiffra is not recommended in patients
+with the following: compensated or decompensated cirrhosis, concomitant uncontrolled
+active liver diseases (e.g., autoimmune hepatitis, primary biliary cholangitis), or alcohol
+consumption > 20 grams/day (women) or > 30 grams/day (men), or symptomatic
+8 Pages - Cigna National Formulary Coverage - Policy:Hepatology – Rezdiffra Prior Authorization Policy
+gallstone-related conditions (e.g., acute cholecystitis). While some values for NILDAs (VCTE
+and MRE) are cited within the update, for choosing patients appropriate for treatment with
+Rezdiffra, they are not completely aligned with the MAESTRO-NASH trials, and the AASLD
+notes that clinicians may consider expanded non-invasive criteria in making treatment
+decisions.
+The updated guidance also addresses the efficacy and futility of Rezdiffra treatment based
+on the Week 52 data with Rezdiffra from MAESTRO-NASH.10 However, it is recognized that
+these recommendations may change when longer-term data before available. The decision
+to continue treatment beyond 12 months should be based on evidence of improvement,
+worsening, treatment failure, or disease stabilization. Although the guidance provides
+recommendations for continuing/re-evaluating treatment with Rezdiffra based on LSM
+values for VCTE or MRE, reliable evidence to correlate LSM data with histologic changes in
+liver fibrosis is lacking. Continuation of Rezdiffra in patients with significant fibrosis
+improvement is recommended. In patients with evidence of worsening of liver disease at
+Month 12, discontinuation of Rezdiffra should be considered. Worsening liver disease can
+be identified by clinical data suggestive of worsening liver disease including consistent
+increase in alanine aminotransferase or fibrosis progression as assessed by NILDA. In
+patients without clear evidence of liver disease improvement or worsening, the decision to
+continue therapy (pending longer-term data) should be based on holistic patient assessment
+considering baseline fibrosis status and potential benefit of slowing or stabilizing liver
+fibrosis even if no regression is noted; individual comorbidity profile associated with
+progressive liver disease; concomitant therapy including adherence and response to lifestyle
+interventions; changes in liver biochemical and NILDA parameters; and adverse effects (if
+any) during treatment with Rezdiffra.
+Other available guidelines do not address Rezdiffra. The AASLD (2023), American
+Association of Clinical Endocrinology (2022), and American Gastroenterological Association
+(AGA) [2021] provide guidelines and/or guidance on the overall management of NAFLD and
+NASH.4,6,7 The goal of liver-directed treatment is to reverse steatohepatitis and fibrosis, or
+to at least halt the progression of fibrosis.7 Importantly, the presence of steatosis serves
+largely as a biomarker or risk factor of steatohepatitis with fibrosis; however, the presence
+of steatosis does not necessarily imply severe disease. In general, in patients with NASH
+with ≥ F2 fibrosis, agents approved for other indications that have shown benefit for NASH
+in clinical trials should be considered under specific circumstances (e.g., diabetes,
+obesity).4,6,7 A healthy diet and regular exercise are the foundation of treatment. Weight
+loss of ≥ 10% is generally required to improve NASH fibrosis. Management of comorbid
+conditions (e.g., cardiovascular disease, obesity, diabetes) should be done in-line with the
+standard of care and encourage use of agents that have shown benefit in NASH (e.g.,
+liraglutide, semaglutide, pioglitazone, vitamin E).
+According to the AASLD, targeted screening of populations at increased risk for advanced
+liver disease is advised to identify and manage those with clinically significant fibrosis (stage
+≥ F2).2 The primary goal in the specialty care setting (gastroenterology, hepatology) is the
+identification of patients with “at-risk” NASH or advanced fibrosis. Such patients require
+further assessment and may benefit from targeted interventions. The AGA recommends
+that at-risk patients be screened for alcohol use and have liver tests as well as a complete
+blood count as part of the initial screening process.7 Results from standard laboratory tests
+can allow calculation of simple fibrosis scores using non-invasive tests for fibrosis (e.g.,
+Fibrosis-4 [FIB-4] or NAS). Patients with a FIB-4 of ≥ 1.3 to ≤ 2.67 are considered to be at
+indeterminate risk and should undergo an LSM, ultrasound is acceptable if VCTE (Fibroscan)
+is unavailable. Other methods such as bidimensional shear wave elastography or point
+8 Pages - Cigna National Formulary Coverage - Policy:Hepatology – Rezdiffra Prior Authorization Policy
+shear wave elastography can also be used to measure LSM. If the LSM by VCTE is ≥ 8 kPa
+to ≤ 12 kPa, patients are considered to be at indeterminate risk, and referral to a
+hepatologist for liver biopsy or MRE or monitoring with re-evaluation in 2 to 3 years is
+recommended. Of note, an LSM of ≥ 8.0 equates to clinically significant fibrosis (≥ F2); an
+LSM < 8.0 is considered low risk for clinically significant fibrosis and can be managed with
+repeat surveillance testing in 2 to 3 years. Patients with a FIB-4 > 2.67 are considered high
+risk and should be referred to a hepatologist. Additionally, patients with a LSM > 12 kPa or
+a liver biopsy showing F2 to F4 fibrosis are also considered high risk.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Rezdiffra. All
+approvals are provided for the duration noted below. In the clinical criteria, as appropriate,
+an asterisk (*) is noted next to the specified gender. In this context, the specified gender is
+defined as follows: males are defined as individuals with the biological traits of a male,
+regardless of the individual’s gender identity or gender expression; females are defined as
+individuals with the biological traits of a female, regardless of the individual’s gender
+identity or gender expression. Because of the specialized skills required for evaluation and
+diagnosis of patients treated with Rezdiffra as well as the monitoring required for adverse
+events and long-term efficacy, approval requires Rezdiffra to be prescribed by or in
+consultation with a physician who specializes in the condition being treated.
+Documentation: Documentation is required for use of Rezdiffra as noted in the criteria as
+[documentation required]. Documentation may include, but is not limited to, chart
+notes, laboratory results, medical test results, claims records, prescription receipts, and/or
+other information.
+• Rezdiffra™ (resmetirom tablets - Madrigal Pharmaceuticals)
+is(are) covered as medically necessary when the following criteria is(are) met for
+FDA-approved indication(s) or other uses with supportive evidence (if applicable):
+FDA-Approved Indication
+1. Metabolic Dysfunction-Associated Steatohepatitis (MASH)/Non-Alcoholic
+Steatohepatitis (NASH). Approve for 1 year if the patient meets the ONE of the
+following (A or B):
+A) Initial Therapy: Approve if the patient meets ALL of the following (i, ii, iii, iv, v, vi,
+and vii):
+i. Patient is ≥ 18 years of age; AND
+ii. Prior to treatment with Rezdiffra, the diagnosis of MASH/NASH is confirmed by
+ONE of the following (a or b):
+a) Patient has had a liver biopsy AND meets BOTH of the following [(1) and (2)]:
+(1)Liver biopsy has been performed within the 3 years preceding treatment
+with Rezdiffra [documentation required]; AND
+(2)Liver biopsy shows non-alcoholic fatty liver disease activity score of ≥ 4
+with a score of ≥ 1 in ALL of the following ([i], [ii], and [iii])
+[documentation required]:
+(i) Steatosis; AND
+(ii) Ballooning; AND
+(iii) Lobular inflammation; OR
+b) Patient has had ONE of the following imaging exams performed within the 6
+months preceding treatment with Rezdiffra [(1), (2), or (3)]
+[documentation required]:
+8 Pages - Cigna National Formulary Coverage - Policy:Hepatology – Rezdiffra Prior Authorization Policy
+(1)Elastography; OR
+Note: Examples of elastography include but are not limited to vibration-
+controlled transient elastography (e.g., FibroScan), transient
+elastography, magnetic resonance elastography, acoustic radiation force
+impulse imaging, shear wave elastography.
+(2)Computed tomography; OR
+(3)Magnetic resonance imaging; AND
+iii. Patient meets ONE of the following prior to treatment with Rezdiffra (a or b)
+[documentation required]:
+a) Patient has stage F2 fibrosis; OR
+b) Patient has stage F3 fibrosis; AND
+iv. According to the prescriber, the patient has THREE or more of the following
+metabolic risk factors that are managed according to standard of care (a, b, c, d,
+e):
+a) Central obesity;
+b) Hypertriglyceridemia;
+c) Reduced high-density lipoprotein cholesterol;
+d) Hypertension;
+e) Elevated fasting plasma glucose indicative of diabetes or pre-diabetes; AND
+v. According to the prescriber, patient meets ONE of the following (a or b):
+a) Female* patient: Alcohol consumption is < 20 grams/day; OR
+Note: One standard drink (or one alcoholic drink equivalent) contains roughly
+14 grams of pure alcohol, which is found in 12 ounces of regular beer, 5
+ounces of wine, or 1.5 ounces of distilled spirits.
+b) Male* patient: Alcohol consumption < 30 grams/day; AND
+Note: One standard drink (or one alcoholic drink equivalent) contains roughly
+14 grams of pure alcohol, which is found in 12 ounces of regular beer, 5
+ounces of wine, or 1.5 ounces of distilled spirits.
+vi. The medication will be used in combination with appropriate diet and exercise
+therapy; AND
+vii. The medication is prescribed by or in consultation with an endocrinologist,
+gastroenterologist, or hepatologist; OR
+B) Patient is Currently Receiving Rezdiffra: Approve if the patient meets ALL of the
+following (i, ii, iii, iv, v, and vi):
+Note: A patient who has received < 1 year of therapy or who is restarting therapy
+should be considered under criterion A (Initial Therapy).
+i. Patient has completed ≥ 1 year of therapy with Rezdiffra AND according to the
+prescriber, the patient has not had worsening of fibrosis or MASH/NASH; AND
+Note: This applies to a patient starting their second (or more) year of therapy
+with Rezdiffra (i.e., the patient has already completed 1 year or more of therapy
+with Rezdiffra).
+ii. According to the prescriber, patient has not progressed to stage F4 (cirrhosis);
+AND
+iii. According to the prescriber, metabolic risk factors are managed according to
+standard of care; AND
+iv. According to the prescriber, patient meets ONE of the following (a or b):
+a) Female* patient: Alcohol consumption is < 20 grams/day; OR
+Note: One standard drink (or one alcoholic drink equivalent) contains roughly
+14 grams of pure alcohol, which is found in 12 ounces of regular beer, 5
+ounces of wine, or 1.5 ounces of distilled spirits.
+b) Male* patient: Alcohol consumption < 30 grams/day; AND
+8 Pages - Cigna National Formulary Coverage - Policy:Hepatology – Rezdiffra Prior Authorization Policy
+Note: One standard drink (or one alcoholic drink equivalent) contains roughly
+14 grams of pure alcohol, which is found in 12 ounces of regular beer, 5
+ounces of wine, or 1.5 ounces of distilled spirits.
+v. The medication will be used in combination with appropriate diet and exercise
+therapy; AND
+vi. The medication is prescribed by or in consultation with an endocrinologist,
+gastroenterologist, or hepatologist.
+*Refer to the Policy Statement
+CONDITIONS NOT COVERED
+• Rezdiffra™ (resmetirom tablets - Madrigal Pharmaceuticals)
+is(are) considered not medically necessary for ANY other use(s) including the
+following (this list may not be all inclusive; criteria will be updated as newly
+published data are available):
+1. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD)/Non-
+Alcoholic Fatty Liver Disease (NAFLD). Resmetirom is indicated in patients with
+non-cirrhotic non-alcoholic steatohepatitis (NASH) with moderate to advanced liver
+fibrosis.1 MASLD/NAFLD and metabolic dysfunction-associated steatohepatitis
+(MASH)/NASH include the presence of steatosis; however, MASH/NASH additionally
+involves inflammation and injury to liver cells.2
+2. Metabolic Dysfunction-Associated Steatohepatitis (MASH)/Non-Alcoholic
+Steatohepatitis (NASH) with Cirrhosis. Resmetirom is indicated in patients with
+non-cirrhotic NASH with moderate to advanced liver fibrosis.1 The safety and
+effectiveness of Rezdiffra have not been established in patients with NASH cirrhosis.
+MEASTRO-NASH-OUTCOMES is an ongoing trial to assess the efficacy of Rezdiffra in
+adults with NASH with well-compensated cirrhosis (Child-Pugh A) [n = 700].8 Results
+are anticipated in 2025.
+REFERENCES
+1. Rezdiffra™ tablets [prescribing information]. West Conshohocken, PA: Madrigal
+Pharmaceuticals; March 2024.
+2. Rinella ME, Neuschwander-Tetri BA, Siddigui MS, et al. AASLD practice guidance on the
+clinical assessment and management of nonalcoholic fatty liver disease. Hepatology.
+2023;77:1797-1835.
+3. National Institute of Diabetes Digestive and Kidney Diseases. Nonalcoholic fatty liver
+disease (NAFLD) and NASH. Last reviewed April 2021. Available at:
+https://www.niddk.nih.gov/health-information/liver-disease/nafld-nash/definition-
+facts#:~:text=Experts%20estimate%20about%2024%25%20of,of%20U.S.%20adults%
+20have%20NASH. Accessed on: March 25, 2025.
+4. Cusi K, Isaacs S, Barb D, et al. American Association of Clinical Endocrinology clinical
+practice guideline for the diagnosis and management of nonalcoholic fatty liver disease
+in primary care and endocrinology settings. Co-sponsored by the American Association
+for the Study of Liver Diseases (AASLD). Endocrine Pract. 2022;28:528-562
+5. Harrison SA, Bedossa P, Guy CD, et al; for the MAESTRO-NASH Investigators. A Phase
+3, randomized, controlled trial of resmetirom in NASH with liver fibrosis. N Engl J Med.
+2024;390:497-509. Rinella ME, Neuschwander-Tetri BA, Siddigui MS, et al. AASLD
+8 Pages - Cigna National Formulary Coverage - Policy:Hepatology – Rezdiffra Prior Authorization Policy
+practice guidance on the clinical assessment and management of nonalcoholic fatty liver
+disease. Hepatology. 2023;77:1797-1835.
+6. Rinella ME, Neuschwander-Tetri BA, Siddigui MS, et al. AASLD practice guidance on the
+clinical assessment and management of nonalcoholic fatty liver disease. Hepatology.
+2023;77:1797-1835.
+7. Kanwal F, Shubrook JH, Adams LA, et al. Clinical care pathway for the risk stratification
+and management of patients with nonalcoholic fatty liver disease. Gastroenterol.
+2021;161:1657-1669.
+8. Madrigal Pharmaceuticals. A Phase 3 study to evaluate the effect of resmetirom on
+clinical outcomes in patients with well-compensated NASH cirrhosis (MAESTRO-NASH-
+OUTCOMES). In: ClinicalTrials.gov [Internet]. Bethesda (MD): National Library of
+Medicine (US). 2000- [cited 2024 March 19]. Available at:
+https://clinicaltrials.gov/study/NCT05500222?tab=table. NLM Identifier:
+NCT05500222.
+9. International diabetes foundation. The IDF consensus worldwide definition of the
+metabolic syndrome. Available at:
+https://idf.org/media/uploads/2023/05/attachments-30.pdf. Accessed on: March 20,
+2024.
+10. Chen VL, Morgan TR, Rotman Y, et al. Resmetirom therapy for metabolic dysfunction-
+associated steatotic liver disease: October 2024 updates to AASLD Practice Guidance.
+Hepatology. 2025;81(1):312-320.
+11. Lam BP, Barthalomew J, Bau S, et al. Focused recommendations for the management of
+metabolic dysfunction-associated steatohepatitis (MASH) by advanced practice providers
+in the United States. J Clin Gastroenterol. 2025;59(4):298-309.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 04/03//2024
+Selected Metabolic-Dysfunction Associated Steatohepatitis 05/08/2024
+Revision (MASH)/Non-Alcoholic Steatohepatitis (NASH), with
+Moderate to Advanced Liver Fibrosis.
+Initial Therapy. A requirement for documentation was added to the
+following criteria: Patient with a liver biopsy, liver biopsy has been
+performed within the 6 months preceding treatment with Rezdiffra
+[documentation required] AND liver biopsy shows non-alcoholic
+fatty liver disease activity score of ≥ 4 with a score of > 1 in
+steatosis, ballooning, and lobular inflammation [documentation
+required]. Patient that has had an imaging exam, elastography,
+computed tomography, or magnetic resonance imaging has been
+performed within the 3 months preceding treatment with Rezdiffra
+[documentation required]. Prior to treatment with Rezdiffra, patient
+has stage F2 fibrosis or F3 fibrosis [documentation required].
+Patient is Currently Taking Rezdiffra. Patient has not progressed to
+stage F4 (cirrhosis) was updated to state, according to the
+prescriber, patient has not progressed to stage F4 (cirrhosis).
+HISTORY (CONTINUED)
+Type of Summary of Changes Review
+Revision Date
+Selected Metabolic-Dysfunction Associated Steatohepatitis 12/04/2024
+Revision (MASH)/Non-Alcoholic Steatohepatitis (NASH), with
+Moderate to Advanced Liver Fibrosis.
+8 Pages - Cigna National Formulary Coverage - Policy:Hepatology – Rezdiffra Prior Authorization Policy
+Initial Therapy. The timeframe requirement for a patient with a liver
+biopsy was changed to be within the 3 years preceding treatment
+with Rezdiffra [documentation required], previously within the past 6
+months preceding treatment with Rezdiffra [documentation
+required].
+Patient is Currently Taking Rezdiffra. Criteria that the patient that
+has completed ≥ 1 year and < 2 years of therapy with Rezdiffra and
+has derived benefit from treatment with Rezdiffra as demonstrated
+by one of the following, according to the prescriber: 1) MASH/NASH
+resolution AND no worsening of fibrosis; OR No worsening of
+MASH/NASH AND improvement in fibrosis by ≥ 1 stage was removed
+from the policy. A patient that has completed ≥ 1 year of therapy
+with Rezdiffra is now reviewed under the same criterion that was
+previously applied for a patient that has completed ≥ 2 years of
+therapy with Rezdiffra. As revised, a patient that has completed ≥ 1
+year of therapy with Rezdiffra AND according to the prescriber has
+not had worsening of fibrosis or MASH/NASH may be approved if
+other criteria are met.
+Annual Metabolic Dysfunction-Associated Steatohepatitis 04/02/2025
+Revision (MASH)/Non-Alcoholic Steatohepatitis (NASH), with
+Moderate to Advanced Liver Fibrosis.
+Initial Therapy. The criterion that the liver biopsy shows non-
+alcoholic fatty liver disease activity score of ≥ 4 with a score of > 1
+in ALL of the following [documentation required]: Steatosis,
+ballooning, and lobular inflammation; was modified such that a score
+of ≥ 1 is required in ALL of the following [documentation required]:
+Steatosis, ballooning, and lobular inflammation. The timeframe
+within the criterion for an imaging exam was changed from within
+the 3 months preceding treatment with Rezdiffra to within the 6
+months preceding treatment with Rezdiffra.
+Selected Metabolic-Dysfunction Associated Steatohepatitis 06/25/2025
+Revision (MASH)/Non-Alcoholic Steatohepatitis (NASH). The condition
+for approval was updated to remove “with moderate to advanced
+liver fibrosis” to match the intent of the criteria. For initial therapy a
+patient is still required to demonstrate moderate or advanced
+fibrosis.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025
+The Cigna Group.
+8 Pages - Cigna National Formulary Coverage - Policy:Hepatology – Rezdiffra Prior Authorization Policy

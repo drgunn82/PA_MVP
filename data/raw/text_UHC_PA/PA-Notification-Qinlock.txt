@@ -1,0 +1,122 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1319-5
+Program Prior Authorization/Notification
+Medication Qinlock™ (ripretinib)
+P&T Approval Date 7/2020, 7/2021, 7/2022, 7/2023, 7/2024
+Effective Date 10/1/2024
+1. Background:
+Qinlock (ripretinib) is a kinase inhibitor indicated for the treatment of adult patients with
+advanced gastrointestinal stromal tumor (GIST) who have received prior treatment with 3 or
+more kinase inhibitors, including imatinib.
+The National Cancer Comprehensive Network (NCCN) recommends Qinlock in GIST as the
+preferred fourth-line therapy for gross residual disease (R2 resection), unresectable primary
+disease, tumor rupture, or recurrent/metastatic disease after progression on single agent therapy
+with imatinib, sunitinib, and regorafenib. NCCN also recommends Qinlock as single-agent
+therapy (preferred) with standard dosing for gross residual disease (R2 resection), unresectable
+primary disease, tumor rupture or recurrent/metastatic disease with limited progression or
+generalized (widespread, systemic) progression in patients with performance status 0-2 who are
+intolerant to sunitinib as second-line therapy after imatinib; for gross residual disease (R2
+resection), unresectable primary disease, tumor rupture or recurrent/ metastatic disease as an
+additional option after progression on avapritinib and dasatinib. NCCN also recommends
+Qinlock in cutaneous melanoma for metastatic or unresectable tumors with activating mutations
+of KIT as second-line or subsequent therapy for disease progression, intolerance, and/or
+projected risk of progression with BRAF-targeted therapy.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Qinlock will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Gastrointestinal Stromal Tumor (GIST)
+© 2024 UnitedHealthcare Services, Inc.
+1
+1. Initial Authorization
+a. Qinlock will be approved based on all of the following criteria:
+(1) Diagnosis of gastrointestinal stromal tumor (GIST)
+-AND-
+(2) One of the following:
+(a) Gross residual disease (R2 resection)
+(b) Unresectable primary disease
+(c) Tumor rupture
+(d) Recurrent/Metastatic
+-AND-
+(3) One of the following:
+(a) History of failure to all of the following:
+i. Imatinib (Gleevec)
+ii. Sunitinib (Sutent)
+iii. Regorafenib (Stivarga)
+-OR-
+(b) All of the following:
+i. Performance status 0-2
+ii. History of progression on imatinib (Gleevec)
+iii. History of intolerance to sunitinib (Sutent)
+-OR-
+(c) All of the following:
+i. PDGFRA exon 18 mutations that are insensitive to imatinib (Gleevec)
+(including PDGFRA D842V)
+ii. History of progression on avapritinib (Ayvakit)
+iii. History of progression on dasatinib (Sprycel)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Qinlock will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Qinlock therapy
+© 2024 UnitedHealthcare Services, Inc.
+2
+Authorization will be issued for 12 months.
+C. Cutaneous Melanoma
+1. Initial Authorization
+a. Qinlock will be approved based on all the following criteria:
+(1) Diagnosis of cutaneous melanoma
+-AND-
+(2) Disease is unresectable or metastatic
+-AND-
+(3) Positive for activating mutations of KIT
+-AND-
+(4) Disease progression, intolerance, and/or projected risk of progression with
+BRAF-targeted therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Qinlock will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Qinlock therapy
+Authorization will be issued for 12 months.
+D. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+© 2024 UnitedHealthcare Services, Inc.
+3
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Qinlock [package insert]. Waltham, MA: Deciphera Pharmaceuticals, LLC; October 2023.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+www.nccn.org. Accessed May 28, 2024.
+Program Prior Authorization/Notification – Qinlock™ (ripretinib)
+Change Control
+7/2020 New program.
+7/2021 Annual review. Updated criteria per NCCN guidelines. Updated
+references.
+7/2022 Annual review with no changes to criteria. Added state mandate
+disclaimer and updated references.
+7/2023 Annual review. Updated background and criteria for GIST tumors and
+added background and criteria for cutaneous melanoma per NCCN
+guidelines. Updated references.
+7/2024 Annual review. Updated disease type for GIST based on NCCN
+recommendations. Reformatted sections for GIST and cutaneous
+melanoma. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+4

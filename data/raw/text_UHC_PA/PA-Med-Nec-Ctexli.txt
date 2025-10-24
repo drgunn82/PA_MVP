@@ -1,0 +1,57 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2373-1
+Program Prior Authorization/Medical Necessity
+Medication Ctexli™ (chenodiol)
+P&T Approval Date 6/2025
+Effective Date 9/1/2025
+1. Background:
+Ctexli (chenodiol) is a bile acid indicated for treatment of cerebrotendinous xanthomatosis
+(CTX) in adults.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Ctexli will be approved based on all of the following criteria:
+a. Diagnosis of cerebrotendinous xanthomatosis (cholestanol storage disease)
+-AND-
+b. Disease is confirmed by the presence of pathogenic variant(s) in the CYP27A1 gene
+-AND-
+c. Prescribed by or in consultation with one of the following:
+(1) Endocrinologist
+(2) Geneticist
+(3) Neurologist
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Ctexli will be approved based on both of the following criteria:
+a. Documentation of positive clinical response to Ctexli therapy
+-AND-
+b. Prescribed by or in consultation with one of the following:
+(1) Endocrinologist
+(2) Geneticist
+(3) Neurologist
+© 2025 UnitedHealthcare Services, Inc.
+1
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. Reference:
+1. Ctexli [package insert]. Foster City, CA: Mirum Pharmaceuticals, Inc.; July 2024.
+2. Stelten BML, Dotti MT, Verrips A, Elibol B, Falik-Zaccai TC, Hanman K, Mignarri A, Sithole B,
+Steiner RD, Verma S, Yahalom G, Zubarioglu T, Mochel F, Federico A. Expert opinion on
+diagnosing, treating and managing patients with cerebrotendinous xanthomatosis (CTX): a modified
+Delphi study. Orphanet J Rare Dis. 2021;16(1):353. doi:10.1186/s13023-021-01980-5.
+3. DeBarber A, Kisanuki Y, Nobrega P, Himes R, Jayadev S, Bernat J, Prakash V, Gibson J, Larson A,
+Sgobbi P, Murphy E, Fedor B, Wong Po Foo C, Dutta R, Imperiale M, Garner W, Vig P, Perez S,
+Ramdhani R, Saute J, Duell PB. Evaluation of Chenodeoxycholic Acid Treatment in Adult Patients
+with Cerebrotendinous Xanthomatosis: A Randomized, Placebo-Controlled Phase 3 Study [abstract].
+Program Prior Authorization/Medical Necessity - Ctexli (chenodiol)
+Change Control
+6/2025 New program.
+© 2025 UnitedHealthcare Services, Inc.
+2

@@ -1,0 +1,58 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2347-1
+Program Prior Authorization/Medical Necessity
+Medication Xolremdi™ (mavorixafor)
+P&T Approval Date 8/2024
+Effective Date 10/15/2024
+1. Background:
+Xolremdi™ (mavorixafor) is a CXC chemokine receptor 4 antagonist indicated in patients 12
+years of age and older with WHIM syndrome (warts, hypogammaglobulinemia, infections and
+myelokathexis) to increase the number of circulating mature neutrophils and lymphocytes.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Xolremdi will be approved based on all of the following criteria:
+a. Diagnosis of WHIM (warts, hypogammaglobulinemia, infections and
+myelokathexis) syndrome
+-AND-
+b. Patient has a genotype-confirmed mutation of chemokine (C-X-C motif) receptor 4
+(CXCR4) consistent with WHIM phenotype
+-AND-
+c. Patient has an absolute neutrophil count (ANC) less than or equal to 500 cells /µL
+-AND-
+d. Prescribed by or in consultation with one of the following:
+(1) Allergist
+(2) Geneticist
+(3) Hematologist
+(4) Immunologist
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Xolremdi will be approved based on both of the following criteria:
+© 2024 UnitedHealthcare Services Inc.
+1
+a. Documentation of positive clinical response [e.g., improvement in absolute
+neutrophil counts (ANC), improvement in absolute lymphocyte counts (ALC),
+reduction in infections] to Xolremdi therapy
+-AND-
+e. Prescribed by or in consultation with one of the following:
+(1) Allergist
+(2) Geneticist
+(3) Hematologist
+(4) Immunologist
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Notification and Supply limits may be in place.
+4. References:
+1. Xolremdi [package insert]. Boston, MA: X4 Pharmaceuticals, Inc.; April 2024.
+Program Prior Authorization/Medical Necessity- Xolremdi™ (mavorixafor)
+Change Control
+8/2024 New program.
+© 2024 UnitedHealthcare Services Inc.
+2

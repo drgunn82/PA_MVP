@@ -1,0 +1,127 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2072-13
+Program Prior Authorization/Medical Necessity
+Medication Juxtapid® (lomitapide)
+P&T Approval Date 10/2015, 9/2016, 9/2017, 9/2018, 9/2019, 9/2020, 7/2021, 7/2022, 7/2023,
+2/2024, 2/2025
+Effective Date 5/1/2025
+1. Background:
+Juxtapid (lomitapide) is a microsomal triglyceride transfer protein inhibitor indicated as an
+adjunct to a low-fat diet and other lipid lowering treatments, including LDL apheresis where
+available, to reduce low-density lipoprotein cholesterol (LDL-C), total cholesterol (TC),
+apolipoprotein B (apo B), and non-high-density lipoprotein cholesterol (non-HDL-C) in patients
+with homozygous familial hypercholesterolemia (HoFH). The safety and efficacy of Juxtapid
+have not been established in patients with hypercholesterolemia who do not have HoFH,
+including those with heterozygous familial hypercholesterolemia (HeFH). The effect of
+Juxtapid on cardiovascular morbidity and mortality has not been determined.
+2. Coverage Criteriaa :
+A. Initial Authorization
+1. Juxtapid will be approved based on all of the following criteria:
+a. Diagnosis of homozygous familial hypercholesterolemia (HoFH) as confirmed by one of
+the following:
+(1) Submission of medical records (e.g., chart notes, laboratory values) confirming
+genetic confirmation of bi-allelic pathogenic/likely pathogenic variants on different
+chromosomes at the low-density lipoprotein receptor (LDLR), apolipoprotein B
+(APOB), proprotein convertase subtilisin kexin type 9 (PCSK9), or low-density
+lipoprotein receptor adaptor protein 1 (LDLRAP1) genes or ≥ 2 such variants at
+different loci
+-OR-
+(2) Both of the following:
+(a) Untreated low-density lipoprotein cholesterol (LDL-C) greater than 400 mg/dL
+-AND-
+(b) One of the following:
+i. Xanthoma before 10 years of age
+ii. Evidence of familial hypercholesterolemia in at least one parent
+© 2025 UnitedHealthcare Services, Inc.
+1
+-AND-
+b. Patient is on a low-fat diet
+-AND-
+c. Patient is receiving other lipid-lowering therapy (e.g., statin, ezetimibe, LDL apheresis)
+-AND-
+d. Prescribed by one of the following:
+(1) Cardiologist
+(2) Endocrinologist
+(3) Lipid specialist
+-AND-
+e. One of the following:
+(1) Both of the following:
+(a) History of intolerance, failure or contraindication to Repatha (evolocumab)
+-AND-
+(b) History of intolerance, failure or contraindication to Evkeeza (evinacumab)
+-OR-
+(2) Patient is currently on Juxtapid therapy
+-AND-
+f. Not used in combination with a proprotein convertase subtilisin/kexin type 9 (PCSK9)
+inhibitor [e.g., Praluent (alirocumab), Repatha (evolocumab)]
+-AND-
+g. Not used in combination with Evkeeza (evinacumab-dgnb)
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Juxtapid will be approved based on all of the following criteria:
+a. Patient is on a low-fat diet
+-AND-
+b. Patient continues to receive other lipid-lowering therapy (e.g., statin, LDL apheresis)
+© 2025 UnitedHealthcare Services, Inc.
+2
+-AND-
+c. Documentation of a positive clinical response to therapy from pre-treatment baseline
+-AND-
+d. Prescribed by one of the following:
+(1) Cardiologist
+(2) Endocrinologist
+(3) Lipid specialist
+-AND-
+e. Not used in combination with a proprotein convertase subtilisin/kexin type 9 (PCSK9)
+inhibitor [e.g., Praluent (alirocumab), Repatha (evolocumab)]
+-AND-
+f. Not used in combination with Evkeeza (evinacumab-dgnb)
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. Reference:
+1. Juxtapid [package insert]. Cambridge, MA: Amryt Pharmaceuticals; September 2020.
+2. Cuchel M, Bruckert E, Ginsberg HN, et al. Homozygous familial hypercholesterolaemia: new
+insights and guidance for clinicians to improve detection and clinical management. A position
+paper from the Consensus Panel on Familial Hypercholesterolaemia of the European
+Atherosclerosis Society. Eur Heart J. 2014; 35:2146-57.
+3. Cuchel M, Raal FJ, Hegele RA, et al. 2023 Update on European Atherosclerosis Society
+Consensus Statement on Homozygous Familial Hypercholesterolaemia: new treatments and
+clinical guidance. Eur Heart J. 2023;44(25):2277-2291. doi:10.1093/eurheartj/ehad197
+Program Prior Authorization/Medical Necessity - Juxtapid® (lomitapide)
+Change Control
+10/2015 New program.
+7/2016 Added Indiana and West Virginia coverage information.
+© 2025 UnitedHealthcare Services, Inc.
+3
+9/2016 Annual Review. Updated references.
+11/2016 Administrative change. Added California coverage information.
+9/2017 Annual review. Removed requirement of medical record submission
+for diagnosis documentation. Updated state mandate verbiage.
+9/2018 Annual review with no changes to coverage criteria. Updated reference.
+9/2019 Annual review. Removed criteria regarding combination therapy with
+Kynamro as Kynamro no longer on market.
+9/2020 Annual review with no changes to coverage criteria. Updated
+reference.
+7/2021 Added continuation of coverage to background and criteria. Added
+Evkeeza as step through agent. Updated reference.
+7/2022 Annual review. No updates to criteria.
+7/2023 Annual review. Updated background. Updated diet requirement, not
+used in combination with PCSK9, and removed submission of medical
+records. Removed genetic testing coverage footnote.
+2/2024 Updated diagnostic criteria per European Atherosclerosis Society
+guidance. Changed initial authorization period to 12 months. Updated
+references.
+2/2025 Updated diet requirement per label. Added requirement to not be used
+in combination with Evkeeza. Revised HoFH criteria to include more
+precise genetic terminology to account for genetic test result
+interpretation complexity as well as digenic mutations.
+© 2025 UnitedHealthcare Services, Inc.
+4

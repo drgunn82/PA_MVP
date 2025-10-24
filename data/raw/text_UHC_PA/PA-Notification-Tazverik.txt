@@ -1,0 +1,104 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1312-6
+Program Prior Authorization/Notification
+Medication Tazverik® (tazemetostat)
+P&T Approval Date 3/2020, 3/3021, 3/2022, 3/2023, 3/2024, 3/2025
+Effective Date 6/1/2025
+1. Background:
+Tazverik (tazemetostat) is a methyltransferase inhibitor indicated for the treatment of adults and
+pediatric patients aged 16 years and older with metastatic or locally advanced epithelioid sarcoma
+not eligible for complete resection, adult patients with relapsed or refractory follicular lymphoma
+whose tumors are positive for an EZH2 mutation as detected by an FDA-approved test and who
+have received at least 2 prior systemic therapies, or adult patients with relapsed or refractory
+follicular lymphoma who have no satisfactory alternative treatment options.
+These indications are approved under accelerated approval based on overall response rate and
+duration of response. Continued approval for these indications may be contingent upon
+verification and description of clinical benefit in a confirmatory trial(s).
+The National Cancer Comprehensive Network (NCCN) also recommends the use of Tazverik in
+classic follicular lymphoma as preferred second-line therapy irrespective of EZH2 mutation status
+for older or infirm patients, or third-line and subsequent therapy (if not previously given)
+irrespective of EZH2 mutation status in patients with indications for treatment who have
+relapsed/refractory disease.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Tazverik will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Epithelioid Sarcoma
+1. Initial Authorization
+© 2025 UnitedHealthcare Services, Inc.
+1
+a. Tazverik will be approved based on all of the following criteria:
+(1) Diagnosis of epithelioid sarcoma
+-AND-
+(2) Disease is one of the following
+(a) Metastatic
+(b) Locally advanced
+-AND-
+(3) Disease is not eligible for complete resection
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tazverik will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Tazverik therapy.
+Authorization will be issued for 12 months.
+C. Follicular Lymphoma
+1. Initial Authorization
+a. Tazverik will be approved based on both of the following criteria:
+(1) Diagnosis of relapsed or refractory follicular lymphoma
+-AND-
+(2) One of the following:
+(a) Subsequent therapy in EZH2 mutation positive disease after 2 prior therapies
+(b) Second-line therapy irrespective of EZH2 mutation status for older or infirm
+patients with indications for treatment (i.e., other therapy options are not
+expected to be tolerable)
+(c) Third-line and/or subsequent therapy (if not previously given) irrespective of
+EZH2 mutation status in patients with indications for treatment
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Tazverik will be approved based on the following criterion:
+© 2025 UnitedHealthcare Services, Inc.
+2
+(1) Patient does not show evidence of progressive disease while on Tazverik therapy.
+Authorization will be issued for 12 months.
+D. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category of
+Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Tazverik [package insert]. Cambridge, MA: Epizyme, Inc. August 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+https://www.nccn.org. Accessed February 12, 2025.
+Program Prior Authorization/Notification - Tazverik
+Change Control
+3/2020 New program.
+3/2021 Annual review. Added coverage criteria for new indication for
+follicular lymphoma. Updated references.
+3/2022 Annual review. Added unknown EZH2 mutation status to criteria per
+NCCN guidelines. Updated references.
+3/2023 Annual review with no changes to coverage criteria. Added state
+mandate footnote and updated references.
+3/2024 Annual review. Added NCCN recommendations to background section.
+Added criteria to relapsed/refractory follicular lymphoma based on
+NCCN recommendations. Updated references.
+3/2025 Annual review with no changes to coverage criteria. Updated
+references.
+© 2025 UnitedHealthcare Services, Inc.
+3

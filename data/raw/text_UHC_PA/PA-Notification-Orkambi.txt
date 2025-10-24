@@ -1,0 +1,68 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1160-13
+Program Prior Authorization/Notification
+Medication Orkambi® (lumacaftor/ivacaftor)
+P&T Approval Date 5/2015, 7/2016, 11/2016, 11/2017, 9/2018, 9/2019, 9/2020, 9/2021,
+9/2022, 10/2022, 6/2023, 6/2024, 6/2025
+Effective Date 9/1/2025
+1. Background:
+Orkambi is a combination of lumacaftor and ivacaftor, a cystic fibrosis transmembrane
+conductance regulator (CFTR) potentiator, indicated for the treatment of cystic fibrosis (CF) in
+patients aged 1 years and older who are homozygous for the F508del mutation in the CFTR
+gene. If the patient’s genotype is unknown, an FDA-cleared CF mutation test should be used to
+detect the presence of the F508del mutation on both alleles of the CFTR gene.1
+Limitations of Use:
+The efficacy and safety of Orkambi have not been established in patients with CF other than
+those homozygous for the F508del mutation.1
+Members will be required to meet the coverage criteria below.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Orkambi will be approved based upon all of the following criteria:
+a. Diagnosis of cystic fibrosis (CF)
+-AND-
+b. Documentation confirming the patient is homozygous for the F508del mutation in the
+CFTR gene.
+-AND-
+c. The patient is ≥ 1 years of age
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Orkambi will be approved based on the following criterion:
+a. Documentation of positive clinical response to Orkambi therapy (e.g., improved lung
+function, stable lung function)
+© 2025 UnitedHealthcare Services, Inc.
+1
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits, Medical Necessity may be in place.
+4. References:
+1. Orkambi [Package Insert]. Cambridge, MA: Vertex Pharmaceuticals, Inc.; December 2024.
+Program Prior Authorization/Notification - Orkambi®(lumacaftor/ivacaftor)
+Change Control
+5/2015 New Program
+7/2016 Annual Review. Updated reference.
+11/2016 Program updated modifying age restriction as label updated for
+pediatric use in patients age 6 and older. Updated reference.
+11/2017 Annual Review. No changes.
+9/2018 Program updated modifying age restriction as label updated for
+pediatric use in patients age 2 and older.
+9/2019 Annual review with no changes to clinical coverage criteria.
+9/2020 Annual review with no changes to clinical coverage criteria.
+9/2021 Annual review. Reauthorization updated from 24 months to 12 months.
+9/2022 Annual review with no changes to coverage criteria. Added state
+mandate footnote.
+10/2022 Updated background and criteria with expanded indication in patients
+aged 1 to 2 years. Updated reference.
+6/2023 Simplified reauthorization criteria. Updated reference.
+6/2024 Annual review. Increased initial authorization approval duration to 12
+months. Updated reference.
+6/2025 Annual review. No changes to coverage criteria. Updated reference.
+© 2025 UnitedHealthcare Services, Inc.
+2

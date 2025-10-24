@@ -1,0 +1,196 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2324-4
+Program Prior Authorization/Medical Necessity
+Medication Fabhalta® (iptacopan)
+P&T Approval Date 2/2024, 4/2024, 10/2024, 5/2025
+Effective Date 8/1/2025
+A. Background
+Fabhalta (iptacopan) is a complement factor B inhibitor, indicated for the treatment of adults
+with paroxysmal nocturnal hemoglobinuria (PNH); the reduction of proteinuria in adults with
+primary immunoglobulin A nephropathy (IgAN) at risk of rapid disease progression, generally
+a urine protein-to-creatinine ratio (UPCR) ≥1.5 g/g; and for the treatment of adults with
+complement 3 glomerulopathy (C3G), to reduce proteinuria.1
+B. Coverage Criteriaa:
+A. Paroxysmal nocturnal hemoglobinuria (PNH)
+1. Initial Authorization
+a. Fabhalta will be approved based on all of the following criteria:
+(1) Submission of medical records (e.g., chart notes, laboratory values, etc.)
+documenting the diagnosis of paroxysmal nocturnal hemoglobinuria (PNH) as
+confirmed by both of the following2,3,4,5:
+(a) Flow cytometry analysis confirming presence of PNH clones
+-AND-
+(b) Laboratory results, signs, and/or symptoms attributed to PNH (e.g.,
+abdominal pain, anemia, dyspnea, extreme fatigue, smooth muscle dystonia,
+unexplained/unusual thrombosis, hemolysis/hemoglobinuria, kidney
+disease, pulmonary hypertension, etc.)
+-AND-
+(2) One of the following:
+(a) Patient will not be prescribed Fabhalta in combination with another
+complement inhibitor used for the treatment of PNH (e.g., Empaveli,
+PiaSky, eculizumab, Ultomiris)
+-OR-
+(b) Patient is currently receiving another complement inhibitor (e.g., Empaveli,
+PiaSky, eculizumab, Ultomiris) which will be discontinued and Fabhalta
+© 2025 UnitedHealthcare Services Inc.
+1
+will be initiated in accordance with the United States Food and Drug
+Administration approved labeling
+-AND-
+(3) Prescribed by, or in consultation with one of the following:
+(a) Hematologist
+(b) Oncologist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Fabhalta will be approved based on all the following criteria:
+(1) Documentation of positive clinical response to Fabhalta therapy (e.g., increased
+or stabilization of hemoglobin levels, reduction in transfusions, improvement in
+hemolysis, decrease in LDH, increased reticulocyte count, etc.)
+-AND-
+(2) Patient is not receiving Fabhalta in combination with another complement
+inhibitor used for the treatment of PNH (e.g., Empaveli, PiaSky, eculizumab,
+Ultomiris)
+-AND-
+(3) Prescribed by, or in consultation with one of the following:
+(a) Hematologist
+(b) Oncologist
+Authorization will be issued for 12 months.
+B. Primary immunoglobulin A nephropathy (IgAN)
+1. Initial Authorization
+a. Fabhalta will be approved based on all the following criteria:
+(1) Diagnosis of primary immunoglobulin A nephropathy (IgAN) confirmed by
+renal biopsy
+-AND-
+(2) Patient is at risk of rapid disease progression [e.g., generally a urine protein-to-
+creatinine ratio (UPCR) greater than or equal to 1.5 g/g, or by other criteria such
+as clinical risk scoring using the International IgAN Prediction Tool]
+© 2025 UnitedHealthcare Services Inc.
+2
+-AND-
+(3) Used to reduce proteinuria
+-AND-
+(4) Estimated glomerular filtration rate (eGFR) ≥ 30 mL/min/1.73 m2
+-AND-
+(5) One of the following:
+(a) Patient is on a stabilized dose and receiving concomitant therapy with one
+of the following:
+i. Maximally tolerated angiotensin converting enzyme (ACE) inhibitor
+(e.g., captopril, enalapril)
+ii. Maximally tolerated angiotensin II receptor blocker (ARB) (e.g.,
+candesartan, valsartan)
+-OR-
+(b) Patient has an allergy, contraindication, or intolerance to ACE inhibitors and
+ARBs
+-AND-
+(6) One of the following:
+(a) Patient is on a stabilized dose and receiving concomitant therapy with a
+maximally tolerated sodium-glucose cotransporter-2 (SGLT2) inhibitor
+[e.g., Jardiance (empagliflozin)]
+-OR-
+(b) Patient has an allergy, contraindication, or intolerance to SGLT2 inhibitors
+-AND-
+(7) History of failure, contraindication or intolerance to a 30-day trial of a
+glucocorticoid (e.g., methylprednisolone, prednisone)
+-AND-
+(8) Prescribed by or in consultation with a nephrologist
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services Inc.
+3
+2. Reauthorization
+(1) Fabhalta will be approved based on the following criterion:
+(1) Documentation of positive clinical response to Fabhalta therapy demonstrated
+by a reduction in proteinuria
+Authorization will be issued for 12 months.
+C. Complement 3 glomerulopathy (C3G)
+1. Initial Authorization
+a. Fabhalta will be approved based on all the following criteria:
+(1) Diagnosis of complement 3 glomerulopathy (C3G) confirmed by all of the
+following:
+(a) Documentation of a kidney biopsy demonstrating characteristic findings of
+C3G
+-AND-
+(b) Glomerulonephritis has persisted ≥ 3 months in duration
+-AND-
+(c) One of the following:
+i. Serum complement 3 (C3) protein < 77 mg/dL (alternatively, less than
+0.85 x lower limit of the central laboratory normal range)
+ii. Other complement abnormalities are present [e.g., soluble membrane
+attack complex (sC5b-9), serum factor H, serum factor B, factor I,
+membrane cofactor protein (MCP, CD46), C3/C4/C5 nephritic factor
+(NeF)] which are suggestive of a C3 glomerulopathy
+-AND-
+(d) Presence of monoclonal gammopathy of undetermined significance
+(MGUS) has been excluded by measurement of serum free light chains or
+other investigative means based on standards of care
+-AND-
+(2) Disease is considered to be moderate to severe based on proteinuria ≥ 1.5 g/day
+and/or abnormal kidney function
+-AND-
+© 2025 UnitedHealthcare Services Inc.
+4
+(3) Used to reduce proteinuria
+-AND-
+(4) History of failure, contraindication or intolerance to a glucocorticoid (e.g.,
+methylprednisolone, prednisone)
+-AND-
+(5) One of the following:
+(a) Patient is on a stabilized dose and receiving concomitant therapy with one
+of the following:
+i. Maximally tolerated angiotensin converting enzyme (ACE) inhibitor
+(e.g., captopril, enalapril)
+ii. Maximally tolerated angiotensin II receptor blocker (ARB) (e.g.,
+candesartan, valsartan)
+-OR-
+(b) Patient has an allergy, contraindication, or intolerance to ACE inhibitors and
+ARBs
+-AND-
+(6) Patient has not undergone a solid-organ or cell transplant, including kidney
+transplant
+-AND-
+(7) Prescribed by or in consultation with a nephrologist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Fabhalta will be approved based on the following criterion:
+(1) Documentation of positive clinical response to Fabhalta therapy demonstrated
+by a reduction in proteinuria
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+© 2025 UnitedHealthcare Services Inc.
+5
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place
+4. References:
+1. Fabhalta [package insert]. East Hanover, New Jersey: Novartis Pharmaceuticals Corporation;
+March 2025.
+2. Parker C, Omine M, Richards S, et al. Diagnosis and management of paroxysmal nocturnal
+hemoglobinuria. Blood. 2005 Dec 1; 106(12): 3699–3709.
+3. Devalet B, Mullier F, Chatelain B, et al. Pathophysiology, diagnosis, and treatment of paroxysmal
+nocturnal hemoglobinuria: a review. Eur J Haematol. 2015 Sep;95(3):190-8.
+4. Sutherland DR, Keeney M, Illingworth A. Practical guidelines for the high-sensitivity detection
+and monitoring of paroxysmal nocturnal hemoglobinuria clones by flow cytometry. Cytometry B
+Clin Cytom. 2012 Jul;82(4):195-208.
+5. Röth A, Maciejewski J, Nishimura JI, et al. Screening and diagnostic clinical algorithm for
+paroxysmal nocturnal hemoglobinuria: Expert consensus. Eur J Haematol. 2018 Jul;101(1):3-11.
+6. Kidney Disease: Improving Global Outcomes (KDIGO) Glomerular Diseases Work Group.
+KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases. Kidney
+Int. 2021;100(4S):S1-S276. doi:10.1016/j.kint.2021.05.021
+7. Kopel, T. C3 glomerulopathies: Dense deposit disease and C3 glomerulonephritis. In: UpToDate,
+Lam, A (Ed), UpToDate, Waltham, MA, 2025.
+Program Prior Authorization/Medical Necessity - Fabhalta® (iptacopan)
+Change Control
+2/2024 New program.
+4/2024 Simplified criteria language for converting to new complement inhibitor
+therapy.
+10/2024 Updated background and included coverage criteria for primary
+immunoglobulin A nephropathy (IgAN). Updated list of examples for
+combination use requirement for PNH. Updated references.
+5/2025 Added new indication and criteria for C3 glomerulopathy (C3G).
+Replaced Soliris with eculizumab in list of examples of complement
+inhibitors. Updated background and references.
+© 2025 UnitedHealthcare Services Inc.
+6

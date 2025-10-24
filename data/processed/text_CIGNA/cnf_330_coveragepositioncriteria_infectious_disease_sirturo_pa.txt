@@ -1,0 +1,127 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Infectious Disease – Sirturo Prior Authorization Policy
+• Sirturo® (bedaquiline fumarate tablets – Janssen)
+REVIEW DATE: 07/16/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Sirturo, a diarylquinolone antimycobacterial, is indicated as part of a combination
+therapy in the treatment of pulmonary tuberculosis (TB) due to Mycobacterium
+tuberculosis resistant to at least rifampin and isoniazid in patients ≥ 5 years of age
+(weighing ≥ 15 kg).1 Reserve Sirturo for use when an effective treatment regimen
+cannot otherwise be provided.
+Limitations of use: Sirturo should not be used for the treatment of latent infections
+due to Mycobacterium tuberculosis, drug-sensitive TB, extra-pulmonary TB, and
+infections caused by non-tuberculous mycobacteria.
+The prescribing information notes the total duration of treatment with Sirturo to be
+24 weeks (adults and pediatric patients).1
+Guidelines
+Page 1 of 4 - Cigna National Formulary Coverage - Policy: Infectious Disease – Sirturo Prior Authorization Policy
+The World Health Organization issued an operational handbook (2023) with
+information on the choice and design of regimens for the treatment of drug-resistant
+TB, including multidrug- or rifampin-resistant TB and confirmed rifampicin-
+susceptible, isoniazid-resistant TB.2 Drug susceptibility tests are recommended to
+assist the prescriber in choosing the appropriate initial regimen. In addition, a
+surveillance system is recommended to determine the local prevalence of drug-
+resistant TB strains. There are different regimens that include Sirturo and other drugs
+(e.g., rifampicin, ethambutol, levofloxacin/moxifloxacin, pretomanid, linezolid,
+clofazimine).
+On December 31, 2024 the American Thoracic Society, the Centers for Disease
+Control and Prevention, the European Respiratory Society, and the Infectious Disease
+Society of America published an official practice guideline for the treatment of drug-
+susceptible and drug-resistant tuberculosis in which they recommended a 6-month
+treatment duration as opposed to previously recommended longer durations (up to
+15 months).4
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Sirturo. All
+approvals are provided for the duration noted below. In cases where approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Sirturo as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Sirturo to be prescribed by or in consultation with a physician who specializes in the
+condition being treated.
+• Sirturo® (bedaquiline fumarate tablets – Janssen)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Tuberculosis. Approve for 6 months if the patient meets ALL of the following (A,
+B, C, D, and E):
+A) Patient is ≥ 5 years of age; AND
+B) Patient weighs ≥ 15 kg; AND
+C) Patient has Mycobacterium tuberculosis resistant to rifampin and isoniazid;
+AND
+D) Sirturo is prescribed as part of a combination regimen with other anti-
+tuberculosis agents; AND
+E) The medication is prescribed by or in consultation with an infectious diseases
+specialist.
+CONDITIONS NOT COVERED
+3 Pages - Cigna National Formulary Coverage - Policy:Infectious Disease – Sirturo Prior Authorization Policy
+• Sirturo® (bedaquiline fumarate tablets – Janssen)
+is(are) considered not medically necessary for ANY other uses; criteria will
+be updated as new published data are available.
+REFERENCES
+1. Sirturo® tablets [prescribing information]. Titusville, NJ: Janssen; June 2024.
+2. World Health Organization – Global Tuberculosis Report. 2023. Available at:
+https://iris.who.int/bitstream/handle/10665/373828/9789240083851-eng.pdf?sequence=1. .
+Accessed on July 8, 2025.
+3. World Health Organization consolidated guidelines on tuberculosis. Module 4: Treatment - drug-
+resistant tuberculosis treatment. Geneva: World Health Organization. 2022. Available at:
+https://iris.who.int/bitstream/handle/10665/365308/9789240063129-eng.pdf?sequence=1.
+Accessed on July 8, 2025.
+4. Saukkonen JJ, Duarte R, Munsiff SS, et al. Updates on the treatment of drug-susceptible and drug-
+resistant tuberculosis: an official ATS/CDC/ERA/IDSA clinical practice guideline. Am J Respir Crit
+Care Med. 2025;211(1):15-33.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 12/06/2023
+Revision
+Early Annual Tuberculosis: The criterion, “Patient has multidrug-resistant 07/03/2024
+Revision tuberculosis” was changed to “Patient has Mycobacterium
+tuberculosis resistant to rifampin and isoniazid.”
+Sirturo received traditional approval from the FDA. The indication for
+use was changed from “Sirturo is indicated as part of a combination
+therapy in the treatment of pulmonary multidrug-resistant
+tuberculosis (TB) in patients ≥ 5 years of age (weighing ≥ 15 kg)” to
+“Situro is indicated as part of a combination therapy in the treatment
+of pulmonary tuberculosis (TB) due to Mycobacterium tuberculosis
+resistant to at least rifampin and isoniazidin patients ≥ 5 years of age
+(weighing ≥ 15 kg).”
+The limitation “The safety and efficacy of Sirturo in the treatment of
+patients infected with human immunodeficiency virus (HIV) with
+multidrug-resistant TB have not been established as clinical data are
+limited” has been removed from the policy.
+Annual Tuberculosis. The approved duration for this condition was changed 07/16/2025
+Revision to 6 months. Previously, it was 9 months.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Infectious Disease – Sirturo Prior Authorization Policy

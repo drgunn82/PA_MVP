@@ -1,0 +1,123 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2320-3
+Program Prior Authorization/Medical Necessity
+Medication * Omvoh™ (mirikizumab-mrkz)
+*This program applies to the subcutaneous formulation of Omvoh.
+P&T Approval Date 1/2024, 1/2025, 3/2025
+Effective Date 5/1/2025
+1. Background:
+Omvoh (mirikizumab-mrkz) is an interleukin-23 antagonist indicated for the treatment of
+moderately to severely active ulcerative colitis in adults and moderately to severely active Crohn's
+disease in adults.
+2. Coverage Criteriaa:
+A. Ulcerative Colitis (UC)
+1. Initial Authorization for Maintenance Dosing
+a. Omvoh will be approved based on all of the following criteria:
+(1) Diagnosis of moderately to severely active ulcerative colitis
+-AND-
+(2) One of the following:
+(a) Patient has been established on therapy with Omvoh under an active
+UnitedHealthcare medical benefit prior authorization for moderately to severely
+active ulcerative colitis
+-OR-
+(b) Both of the following:
+i. Patient is currently on Omvoh therapy for moderately to severely active
+ulcerative colitis as documented by claims history or submission of medical
+records (Document date and duration of therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from an Eli Lilly sponsored
+program (e.g., sample card which can be redeemed at a pharmacy for a free
+supply of medication) as a means to establish as a current user of Omvoh*
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+1
+(3) Patient is not receiving Omvoh in combination with another targeted
+immunomodulator [e.g., adalimumab, Cimzia (certolizumab), Enbrel
+(etanercept), Entyvio (vedolizumab), Olumiant (baricitinib), Orencia (abatacept),
+Rinvoq (upadacitinib), Simponi (golimumab), Skyrizi (risankizumab),
+ustekinumab, Tremfya (guselkumab), Xeljanz/Xeljanz XR (tofacitinib), Zeposia
+(ozanimod)]
+-AND-
+(4) Prescribed by or in consultation with a gastroenterologist
+* Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance from
+an Eli Lilly sponsored program shall be required to meet initial authorization criteria as if
+patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Omvoh will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Omvoh therapy
+-AND-
+(2) Patient is not receiving Omvoh in combination with another targeted
+immunomodulator [e.g., adalimumab, Cimzia (certolizumab), Enbrel
+(etanercept), Entyvio (vedolizumab), Olumiant (baricitinib), Orencia (abatacept),
+Rinvoq (upadacitinib), Simponi (golimumab), Skyrizi (risankizumab),
+ustekinumab, Tremfya (guselkumab), Xeljanz/Xeljanz XR (tofacitinib), Zeposia
+(ozanimod)]
+Authorization will be issued for 12 months.
+B. Crohn’s Disease (CD)
+1. Initial Authorization for Maintenance Dosing
+a. Omvoh will be approved based on all of the following criteria:
+(1) Diagnosis of moderately to severely active Crohn’s disease
+-AND-
+(2) One of the following:
+© 2025 UnitedHealthcare Services, Inc.
+2
+(a) Patient has been established on therapy with Omvoh under an active
+UnitedHealthcare medical benefit prior authorization for moderately to severely
+active Crohn’s disease
+-OR-
+(b) Both of the following:
+i. Patient is currently on Omvoh therapy for moderately to severely active
+Crohn’s disease as documented by claims history or submission of medical
+records (Document date and duration of therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from an Eli Lilly sponsored
+program (e.g., sample card which can be redeemed at a pharmacy for a free
+supply of medication) as a means to establish as a current user of Omvoh*
+-AND-
+(3) Patient is not receiving Omvoh in combination with another targeted
+immunomodulator [e.g., adalimumab, Cimzia (certolizumab), Enbrel
+(etanercept), Olumiant (baricitinib), Orencia (abatacept), Rinvoq (upadacitinib),
+Simponi (golimumab), Skyrizi (risankizumab-rzaa), ustekinumab, Xeljanz
+(tofacitinib)]
+-AND-
+(4) Prescribed by or in consultation with a gastroenterologist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Omvoh will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Omvoh therapy
+-AND-
+(2) Patient is not receiving Omvoh in combination with another targeted
+immunomodulator [e.g., adalimumab, Cimzia (certolizumab), Enbrel
+(etanercept), Olumiant (baricitinib), Orencia (abatacept), Rinvoq (upadacitinib),
+Simponi (golimumab), Skyrizi (risankizumab-rzaa), ustekinumab, Xeljanz
+(tofacitinib)]
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services, Inc.
+3
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+• The intravenous infusion of is typically covered under the medical benefit. Please refer to the
+UnitedHealthcare Drug Policy for Omvoh.
+4. Reference:
+1. Omvoh [package insert]. Indianapolis, IN: Eli Lilly and Company; January 2025.
+Program Prior Authorization/Medical Necessity - Omvoh (mirikizumab-mrkz)
+Change Control
+1/2024 New program
+1/2025 Annual review. Reworded criteria for established therapy through a
+medical prior authorization for clarity and not to change clinical intent.
+Updated examples with no change to clinical intent. Updated reference.
+3/2025 Added coverage criteria for Crohn’s disease. Updated background and
+references.
+© 2025 UnitedHealthcare Services, Inc.
+4

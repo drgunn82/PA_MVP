@@ -1,0 +1,240 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Hepatology – Livmarli Prior Authorization Policy
+• Livmarli™ (maralixibat oral solution and tablets − Mirum)
+REVIEW DATE: 07/30/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Livmarli, an ileal bile acid transporter (IBAT) inhibitor, is indicated for the treatment
+of:1
+• Cholestatic pruritus in patients ≥ 3 months of age with Alagille syndrome
+(ALGS).
+• Cholestatic pruritus in patients > 12 months of age with progressive familial
+intrahepatic cholestasis (PFIC).
+Disease Overview
+ALGS is a rare liver disease defined by genetic deletion or genetic pathogenic variants
+affecting bile acid transporters (e.g., deletion or variant of the JAG1 gene or NOTCH2
+gene).2-4 PFIC is a group of rare, autosomal recessive liver diseases defined by
+genetic pathogenic variants affecting bile acid transporters (e.g., variants of the
+ATP8B1 gene, ABCB11 gene, ABCB4 gene, TJP2 gene, NR1H4 gene, or MYO5B
+Page 1 of 6 - Cigna National Formulary Coverage - Policy: Hepatology - Livmarli Prior
+Authorization Policy
+gene).5-7 Progression of both diseases can cause liver fibrosis, cirrhosis, or end-stage
+liver disease and leads to death at an early age in life (infancy to adolescence).
+Cholestasis, jaundice, and pruritus are common symptoms in patients with PFIC and
+ALGS.2,5 Although the complete mechanism by which Livmarli improves pruritus in
+these patients is unknown, it may involve inhibition of the IBAT, which results in
+decreased reuptake of bile salts, as observed by a decrease in serum bile acids.1
+Cholestyramine, rifampicin, and ursodeoxycholic acid (ursodiol) have been used off-
+label for decades to alleviate symptoms related to PFIC and ALGS.7-9 Additionally,
+cholestyramine, fenofibrate, ursodeoxycholic acid, rifampicin, naltrexone, and
+sertraline are recommended in clinical practice guidelines from the European
+Association for the Study of the Liver (2024).10
+Clinical Efficacy
+The efficacy of Livmarli for ALGS was evaluated in one study that included an 18-
+week open-label treatment period, followed by a 4-week randomized, double-blind,
+placebo-controlled drug withdrawal period. 1 The study was conducted in 31 pediatric
+patients with ALGS (1 year to 15 years of age) with cholestasis and pruritus. All
+enrolled patients had a JAG1 genetic variant, elevated serum bile acid concentration,
+and presence of at least moderate pruritus at baseline. Approximately 90.3% of
+patients were receiving at least one medication to treat pruritus at study entry.
+Patients treated with Livmarli demonstrated greater improvement in pruritus
+compared to placebo. Safety and tolerability in infants less than 1 year of age was
+assessed in a 13-week, open label, phase II study of 12 patients. Livmarli was well-
+tolerated with treatment emergent adverse events, which were mostly Grade 1 and
+unrelated to therapy.
+The efficacy of Livmarli for PFIC was evaluated in one 26-week, randomized, placebo-
+controlled pivotal trial.1 Efficacy was evaluated in 64 patients (12 months to 17 years
+of age) with a clinical genetic confirmation of PFIC. Patients had to have an elevated
+serum bile acid concentration along with presence of moderate to severe pruritus at
+baseline. Most patients were on stable ursodeoxycholic acid (89.1%) or rifampicin
+(51.6%) therapy at baseline. Patients treated with Livmarli demonstrated greater
+improvement in pruritus compared with placebo.
+Safety
+Livmarli was not evaluated in patients with decompensated cirrhosis.1 Monitor for
+liver test abnormalities; permanently discontinue Livmarli if a patient progresses to
+portal hypertension or experiences a hepatic decompensation event (e.g., variceal
+hemorrhage, ascites, hepatic encephalopathy).
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Livmarli. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Livmarli as well as the
+Page 2 of 6 - Cigna National Formulary Coverage - Policy: Hepatology - Livmarli Prior
+Authorization Policy
+monitoring required for adverse events and long-term efficacy, approval requires
+Livmarli to be prescribed by or in consultation with a physician who specializes in the
+condition being treated.
+• Livmarli™ (maralixibat oral solution and tablets - Mirum)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Alagille Syndrome. Approve for the duration noted if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, iii, iv, v, vi and vii):
+i. Patient is ≥ 3 months of age; AND
+ii. According to the prescriber, the patient has moderate-to-severe pruritus;
+AND
+iii. Diagnosis of Alagille syndrome was confirmed by genetic testing
+demonstrating a JAG1 or NOTCH2 deletion or pathogenic variant; AND
+iv. Patient has a serum bile acid concentration above the upper limit of the
+normal reference range for the reporting laboratory; AND
+v. Patient has tried at least two systemic medications for Alagille syndrome,
+unless contraindicated; AND
+Note: Systemic medications for Alagille syndrome include cholestyramine,
+fenofibrate, naltrexone, rifampicin, sertraline, and ursodeoxycholic acid
+(ursodiol).
+vi. Patient does not have any of the following (a, b, or c):
+a) Cirrhosis; OR
+b) Portal hypertension; OR
+c) History of a hepatic decompensation event; AND
+Note: Examples of a hepatic decompensation event include variceal
+hemorrhage, ascites, and hepatic encephalopathy.
+vii. The medication is prescribed by or in consultation with a hepatologist,
+gastroenterologist, or a physician who specializes in Alagille syndrome; OR
+B) Patient is Currently Receiving Livmarli. Approve for 1 year if the patient meets
+ALL of the following (i, ii, and iii):
+i. Patient does not have any of the following (a, b, or c):
+a) Cirrhosis; OR
+b) Portal hypertension; OR
+c) History of a hepatic decompensation event; AND
+Note: Examples of a hepatic decompensation event include variceal
+hemorrhage, ascites, and hepatic encephalopathy.
+ii. Patient had response to therapy, as determined by the prescriber; AND
+Note: Examples of response to therapy include decrease in serum bile acids
+and decrease in pruritus.
+Page 3 of 6 - Cigna National Formulary Coverage - Policy: Hepatology - Livmarli Prior
+Authorization Policy
+iii. The medication is prescribed by or in consultation with a hepatologist,
+gastroenterologist, or a physician who specializes in Alagille syndrome.
+2. Progressive Familial Intrahepatic Cholestasis. Approve for the duration
+noted if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i, ii, iii, iv, v, vi and vii):
+i. Patient is ≥ 12 months of age; AND
+ii. According to the prescriber, the patient has moderate-to-severe pruritus;
+AND
+iii. Diagnosis of progressive familial intrahepatic cholestasis was confirmed by
+genetic testing demonstrating a pathogenic gene variant affiliated with
+progressive familial intrahepatic cholestasis; AND
+Note: Gene variants affiliated with progressive familial intrahepatic
+cholestasis include the ATP8B1 gene, ABCB11 gene, ABCB4 gene, TJP2
+gene, NR1H4 gene, and MYO5B gene.
+iv. Patient has a serum bile acid concentration above the upper limit of the
+normal reference range for the reporting laboratory; AND
+v. Patient has tried at least two systemic medications for progressive familial
+intrahepatic cholestasis, unless contraindicated; AND
+Note: Systemic medications for progressive familial intrahepatic
+cholestasis include cholestyramine, fenofibrate, naltrexone, rifampicin,
+sertraline, and ursodeoxycholic acid (ursodiol).
+vi. Patient does not have any of the following (a, b, or c):
+a) Cirrhosis; OR
+b) Portal hypertension; OR
+c) History of a hepatic decompensation event; AND
+Note: Examples of a hepatic decompensation event include variceal
+hemorrhage, ascites, and hepatic encephalopathy.
+vii. The medication is prescribed by or in consultation with a hepatologist,
+gastroenterologist, or a physician who specializes in progressive familial
+intrahepatic cholestasis; OR
+B) Patient is Currently Receiving Livmarli. Approve for 1 year if the patient meets
+ALL of the following (i, ii, and iii):
+i. Patient does not have any of the following (a, b, or c):
+a) Cirrhosis; OR
+b) Portal hypertension; OR
+c) History of a hepatic decompensation event; AND
+Note: Examples of a hepatic decompensation event include variceal
+hemorrhage, ascites, and hepatic encephalopathy.
+ii. Patient had response to therapy, as determined by the prescriber; AND
+Note: Examples of response to therapy include decrease in serum bile acids
+and decrease in pruritus.
+iii. The medication is prescribed by or in consultation with a hepatologist,
+gastroenterologist, or a physician who specializes in progressive familial
+intrahepatic cholestasis.
+Page 4 of 6 - Cigna National Formulary Coverage - Policy: Hepatology - Livmarli Prior
+Authorization Policy
+CONDITIONS NOT COVERED
+• Livmarli™ (maralixibat oral solution and tablets - Mirum)
+is(are) considered not medically necessary for ANY other use(s); criteria will
+be updated as new published data are available.
+REFERENCES
+1. Livmarli™ oral solution and tablets [prescribing information]. Foster City, CA: Mirum; April 2025.
+2. Alagille syndrome. National Organization for Rare Disorders. Updated 2024. Available at:
+https://rarediseases.org/rare-diseases/alagille-syndrome/. Accessed on July 22, 2025.
+3. Alagille syndrome. US National Library of Medicine. Available at:
+https://medlineplus.gov/genetics/condition/alagille-syndrome. Accessed on July 22, 2025.
+4. Treatment for Alagille syndrome. National Institute of Diabetes and Digestive and Kidney Diseases.
+US Department of Health and Human Services. Updated January 2019. Available at:
+https://www.niddk.nih.gov/health-information/liver-disease/alagille-syndrome/treatment.
+Accessed on July 22, 2025.
+5. Davit-Spraul, A, Gonzales, E, Baussan, C, et al. Progressive familial intrahepatic cholestasis.
+Orphanet J Rare Dis. 2009;4:1.
+6. Amirneni S, Haep N, Gad MA, et al. Molecular overview of progressive familial intrahepatic
+cholestasis. World J Gastroenterol. 2020 Dec 21;26(47):7470-7484.
+7. Gunaydin M, Bozkurter Cil AT. Progressive familial intrahepatic cholestasis: diagnosis,
+management, and treatment. Hepat Med. 2018 Sep 10;10:95-104.
+8. van der Woerd WL, Houwen RH, van de Graaf SF. Current and future therapies for inherited
+cholestatic liver diseases. World J Gastroenterol. 2017 Feb 7;23(5):763-775.
+9. Diaz-Frias J, Kondamudi NP. Alagille Syndrome. [Updated 2023 Aug 12]. In: StatPearls [Internet].
+Treasure Island (FL): StatPearls Publishing; 2023 Jan-. Available from:
+https://www.ncbi.nlm.nih.gov/books/NBK507827/. Accessed on July 22, 2025.
+10. European Association for the Study of the Liver. EASL Clinical Practice Guidelines on genetic
+cholestatic liver diseases. J Hepatol. 2024 Aug;81(2):303-325.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 10/18/2023
+Revision
+Selected Progressive Familial Intrahepatic Cholestasis: This condition 03/27/2024
+Revision and criteria for approval were added to the policy.
+Selected Alagille Syndrome: For diagnosis by genetic testing, the term 07/31/2024
+Revision “mutation” was rephrased to “pathogenic variant”.
+Progressive Familial Intrahepatic Cholestasis: For diagnosis by
+genetic testing, the term “mutation” was rephrased to “pathogenic
+variant”. Additionally, the criterion for age was changed from > 5
+years to > 12 months of age to align with FDA indication expansion
+for age.
+Annual No criteria changes. 10/16/2024
+Revision
+Early Annual Livmarli tablets was added to the policy. The same criteria apply as 07/30/2025
+Revision the oral solution.
+Alagille syndrome: Fenofibrate was added to the Note with
+examples of previous systemic medications tried prior to approval of
+Livmarli.
+Page 5 of 6 - Cigna National Formulary Coverage - Policy: Hepatology - Livmarli Prior
+Authorization Policy
+Progressive Familial Intrahepatic Cholestasis: Fenofibrate was
+added to the Note with examples of previous systemic medications
+tried prior to approval of Livmarli.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+Page 6 of 6 - Cigna National Formulary Coverage - Policy: Hepatology - Livmarli Prior
+Authorization Policy

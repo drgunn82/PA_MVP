@@ -1,0 +1,106 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1220-9
+Program Prior Authorization/Notification
+Medication Rydapt® (midostaurin)
+P&T Approval Date 6/2017, 6/2018, 6/2019, 6/2020, 6/2021, 6/2022, 6/2023, 6/2024. 6/2025
+Effective Date 9/1/2025
+1. Background:
+Rydapt® (midostaurin) is a kinase inhibitor indicated for the treatment of adult patients with
+newly diagnosed acute myeloid leukemia (AML) that is FLT3 mutation-positive, in combination
+with standard cytarabine and daunorubicin induction and cytarabine consolidation. Rydapt is not
+indicated as a single-agent induction therapy for the treatment of patients with AML.
+Rydapt is also indicated for aggressive systemic mastocytosis (ASM), systemic mastocytosis with
+associated hematological neoplasm (SM-AHN), or mast cell leukemia (MCL).
+The National Comprehensive Cancer Network (NCCN) also recommends Rydapt for treatment of
+myeloid/lymphoid neoplasms with eosinophilia and FGFR1 or FLT3 rearrangements.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Rydapt will be approved based on the following criterion:
+a. Member is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Acute Myeloid Leukemia (AML)
+1. Initial Authorization
+a. Rydapt will be approved based on all of the following criteria:
+(1) Diagnosis of acute myeloid leukemia (AML)
+-AND-
+© 2025 UnitedHealthcare Services Inc.
+1
+(2) AML is FLT3 mutation-positive
+-AND-
+(3) Rydapt will be used in combination with standard induction and consolidation
+therapy
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Rydapt will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Rydapt therapy
+Authorization will be issued for 12 months.
+C. Systemic Mastocytosis
+1. Initial Authorization
+a. Rydapt will be approved based on the following criterion:
+(1) Diagnosis of one of the following:
+(a) Aggressive systemic mastocytosis (ASM)
+(b) Systemic mastocytosis with associated hematologic neoplasm (SM-AHN)
+(c) Mast cell leukemia (MCL)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Rydapt will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Rydapt therapy
+Authorization will be issued for 12 months.
+D. Myeloid/Lymphoid Neoplasms
+1. Initial Authorization
+a. Rydapt will be approved based on both of the following criteria:
+(1) Diagnosis of lymphoid, myeloid, or mixed lineage neoplasms with eosinophilia
+-AND-
+© 2025 UnitedHealthcare Services Inc.
+2
+(2) One of the following:
+(a) Presence of an FGFR1 rearrangement
+(b) Presence of an FLT3 rearrangement
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Rydapt will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Rydapt therapy.
+Authorization will be issued for 12 months.
+E. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category
+of Evidence and Consensus of 1, 2A, or 2B
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Rydapt [package insert]. East Hanover, NJ: Novartis Pharmaceutical Corporation; May 2023.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+www.nccn.org. Accessed April 30. 2025.
+Program Prior Authorization/Notification - Rydapt (midostaurin)
+Change Control
+6/2017 New program.
+6/2018 Annual review with no changes to criteria. Updated reference.
+6/2019 Annual review with no changes to criteria. Updated reference.
+6/2020 Annual review with no changes to criteria. Updated reference.
+6/2021 Annual review. Added myeloid/lymphoid neoplasms criteria per NCCN
+guideline update. Updated references.
+6/2022 Annual review. Revised grammar in criteria with no changes to clinical
+intent. Updated references.
+© 2025 UnitedHealthcare Services Inc.
+3
+6/2023 Annual review with no changes to clinical criteria. Updated references
+and added state mandate footnote.
+6/2024 Annual review with no changes to clinical criteria. Updated references.
+6/2025 Annual review. Revised wording in criteria for myeloid/lymphoid
+neoplasms with no changes to clinical intent. Updated references.
+© 2025 UnitedHealthcare Services Inc.
+4

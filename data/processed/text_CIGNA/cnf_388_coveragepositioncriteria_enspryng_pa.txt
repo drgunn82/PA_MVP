@@ -1,0 +1,140 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Enspryng Prior Authorization Policy
+• Enspryng® (satralizumab-mwge subcutaneous injection –
+Genentech)
+REVIEW DATE: 04/02/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Enspryng, an interleukin-6 receptor antagonist, is indicated for the treatment of
+neuromyelitis optica spectrum disorder (NMOSD) in adults who are anti-
+aquaporin-4 antibody positive.1
+Disease Overview
+NMOSD is a rare, relapsing, autoimmune disorder of the brain and spinal cord with
+optic neuritis and/or myelitis as predominant characteristic symptoms.2 NMOSD
+often causes significant, permanent damage to vision and/or spinal cord function
+resulting in blindness or impaired mobility.3 Patients may experience pain, paralysis,
+loss of bowel and bladder control, loss of visual acuity, and uncontrolled motor
+functions. Complications can lead to death.
+Recommendations
+The Neuromyelitis Optica Study Group (NEMOS) published revised recommendations
+for the treatment of NMOSD in 2024.4 The standard of care for the treatment of
+NMOSD attacks (for both AQP4-IgG-positive and double-negative cases) are high-
+dose glucocorticoids and/or apheresis therapy. Long-term immunotherapy is
+recommended for patients with AQP4-IgG-positive NMOSD. NEMOS notes the first-
+Page 1 of 5 - Cigna National Formulary Coverage - Policy:Enspryng Prior Authorization Policy
+choice therapies for the treatment of AQP4-IgG-positive NMOSD are Enspryng,
+eculizumab intravenous infusion (Soliris®, biosimilars), Ultomiris® (ravulizumab-cwyz
+intravenous infusion), Uplizna® (inebilizumab-cdon intravenous infusion), and
+rituximab. The order of preference for these therapies is unclear and further
+comparative trials and real-world data are needed. The choice of treatment is
+dependent on several factors, including disease activity and severity, mode and onset
+of action, possibility to combine it with immunosuppressive drugs, effect on
+autoimmune and other comorbidities, gender (family planning issues), frequency and
+route of administration, side effect profile as well as patient and physician preference.
+In general, if a patient fails a first-choice treatment, another first-choice treatment
+should be tried; other options include use of a second-choice treatment (azathioprine,
+mycophenolate mofetil, low-dose oral glucocorticoids) or the addition of a second-
+choice treatment to the regimen.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Enspryng.
+All approvals are provided for the duration noted below. Because of the specialized
+skills required for evaluation and diagnosis of patients treated with Enspryng as well
+as the monitoring required for adverse events and long-term efficacy, approval
+requires Enspryng to be prescribed by or in consultation with a physician who
+specializes in the condition being treated.
+• Enspryng® (satralizumab-mwge subcutaneous injection –
+Genentech)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Neuromyelitis Optica Spectrum Disorder. Approve for the duration noted if
+the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 1 year if the patient meets ALL of the following (i,
+ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. Diagnosis was confirmed by a positive blood serum test for anti-aquaporin-
+4 antibody; AND
+iii. The medication is being prescribed by or in consultation with a neurologist;
+OR
+B) Patient is Currently Receiving Enspryng. Approve for 1 year if the patient
+meets ALL of the following (i, ii, iii, and iv):
+i. Patient is ≥ 18 years of age; AND
+ii. Diagnosis was confirmed by a positive blood serum test for anti-aquaporin-
+4 antibody; AND
+3 Pages - Cigna National Formulary Coverage - Policy:Enspryng Prior Authorization Policy
+iii. According to the prescriber, patient has had clinical benefit from the use of
+Enspryng; AND
+Note: Examples of clinical benefit include reduction in relapse rate,
+reduction in symptoms (e.g., pain, fatigue, motor function), and a slowing
+in progression of symptoms.
+iv. The medication is being prescribed by or in consultation with a neurologist.
+CONDITIONS NOT COVERED
+• Enspryng® (satralizumab-mwge subcutaneous injection –
+Genentech)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria will
+be updated as new published data are available):
+1. Concomitant Use with a Rituximab Product, eculizumab intravenous
+infusion (Soliris, biosimilars), Ultomiris (ravulizumab-cwyz intravenous
+infusion), or Uplizna (inebilizumab-cdon intravenous infusion). There is
+no evidence to support concomitant use of Enspryng with rituximab, eculizimab ,
+Ultomiris, or Uplizna.
+REFERENCES
+1. Enspryng® subcutaneous injection [prescribing information]. South San Francisco, CA: Genentech;
+March 2022.
+2. National Organization for Rare Disorders. Neuromyelitis Optica Spectrum Disorder. Updated July
+2022. Available at: https://rarediseases.org/rare-diseases/neuromyelitis-optica/. Accessed April
+5, 2024.
+3. Wingerchuk DM, Banwell B, Bennett JL, et al. International consensus diagnostic criteria for
+neuromyelitis optica spectrum disorders. Neurology. 2015;85(2):177-189.
+4. Kűmpfel T, Giglhuber K, Aktas O, et al. Update on the diagnosis and treatment of neuromyelitis
+optica spectrum disorders (NMOSD) – revised recommendations of the Neuromyelitis Optica Study
+Group (NEMOS). Part II: Attack therapy and long-term management. J Neurol. 2024;271:141-
+176.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 09/20/2023
+Revision
+Selected Neuromyelitis Optica Spectrum Disorder – Initial Therapy: 03/20/2024
+Revision Removed criterion that required prior use of two systemic therapies
+and criterion that patient has had a history of at least one relapse in
+the last 12 months or two relapses in the last 2 years. Enspryng is
+listed as a first-line treatment option in the Neuromyelitis Optica
+Study Group (NEMOS) recommendations for the treatment of
+Neuromyelitis Optica Spectrum Disorder (2024).
+3 Pages - Cigna National Formulary Coverage - Policy:Enspryng Prior Authorization Policy
+Early Annual Conditions Not Covered: Ultomiris (ravulizumab-cwyz intravenous 04/10/2024
+Revision infusion) received FDA approval for treatment of NMOSD and was
+added to the criterion “Concomitant Use with a Rituximab Product,
+Soliris (eculizumab intravenous infusion), or Uplizna (inebilizumab-
+cdon intravenous infusion)”.
+Annual Conditions Not Covered: Soliris (eculizumab intravenous infusion) 04/02/2025
+Revision was changed to add biosimilars; new verbiage reads “eculizumab
+intravenous infusion (Soliris, biosimilars)”
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. ©
+2025 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Enspryng Prior Authorization Policy

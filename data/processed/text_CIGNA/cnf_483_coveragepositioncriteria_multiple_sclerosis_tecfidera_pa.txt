@@ -1,0 +1,207 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Multiple Sclerosis (Oral – Fumarate) – Dimethyl Fumarate Prior
+Authorization Policy
+• Tecfidera® (dimethyl fumarate delayed-release capsules − Biogen,
+generic)
+REVIEW DATE: 07/23/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Dimethyl fumarate is indicated for the treatment of patients with relapsing forms of
+multiple sclerosis (MS) to include clinically isolated syndrome, relapsing remitting
+disease, and active secondary progressive MS in adults.1
+Disease Overview
+MS is a chronic, inflammatory, demyelinating, autoimmune disease of the central
+nervous system (CNS) that impacts almost 1,000,000 people in the US.2-4 The
+condition is marked by inflammation and demyelination, as well as degenerative
+alterations. Patients usually experience relapses and remissions in their neurological
+symptoms. For most patients, the onset of MS symptoms occurs when patients are
+20 to 40 years of age; however, children can get MS and new onset disease can
+Page 1 of 5 - Cigna National Formulary Coverage - Policy: Multiple Sclerosis (Oral – Fumarate) – Dimethyl
+Fumarate Prior Authorization Policy
+occur in older adults. The MS disease course is heterogeneous but has some
+patterns. Approximately 85% to 90% of patients have a relapsing pattern at onset.
+However, this transitions over time in patients who are untreated to a worsening
+with very few or no relapses or magnetic resonance imaging (MRI) activity
+(secondary progressive MS). Around 10% to 15% of patients have a steady
+progression of symptoms over time (primary progressive MS), marked by some
+clinical manifestations or by MRI activity. Primary progressive MS is generally
+diagnosed in patients on the upper level of the typical age range (e.g., almost 40
+years of age) and the distribution is equivalent among the two genders. Advances
+in the understanding of the MS disease process, as well as in MRI technology,
+spurned updated disease course descriptions in 2013,5 as well as in 2017.6 The
+revised disease courses are clinically isolated syndrome, relapsing remitting MS,
+primary progressive MS, and secondary progressive MS.2-6 Clinically isolated
+syndrome is now more recognized among the course descriptions of MS. It is the
+first clinical presentation of MS that displays characteristics of inflammatory
+demyelination that may possibly be MS but has yet to fulfill diagnostic criteria. It is
+notable that the other MS designations can be further characterized considering
+whether patients have active disease (or not active), as well as if disease is
+worsening or stable. Disability in MS is commonly graded on the deterioration of
+mobility per the Expanded Disability Status Scale (EDSS) an ordinal scale that
+ranges from 0 to 10, with higher scores indicating greater disability.
+Guidelines
+In September 2019, a consensus paper was updated by the MS Coalition that
+discusses the use of disease-modifying therapies in MS.2 Many options from
+various disease classes, involving different mechanisms of action and modes of
+administration, have shown benefits in patients with MS.
+Safety
+Progressive multifocal leukoencephalopathy has occurred in patients with MS
+treated with dimethyl fumarate, including a fatal case.1
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of dimethyl
+fumarate. All approvals are provided for the duration noted below. Because of the
+specialized skills required for evaluation and diagnosis of patients treated with
+dimethyl fumarate as well as the monitoring required for adverse events and
+efficacy, approval requires dimethyl fumarate to be prescribed by or in consultation
+with a physician who specializes in the condition being treated.
+• Tecfidera® (dimethyl fumarate delayed-release capsules - Biogen,
+generic)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+Page 2 of 5 - Cigna National Formulary Coverage - Policy: Multiple Sclerosis (Oral – Fumarate) – Dimethyl
+Fumarate Prior Authorization Policy
+FDA-Approved Indication
+1. Multiple Sclerosis. Approve for the duration noted below if the patient meets
+ONE of the following (A or B):
+A) Initial Therapy. Approve for 1 year if the patient meets BOTH of the following
+(i and ii):
+i. Patient has a relapsing form of multiple sclerosis; AND
+Note: Examples of relapsing forms of multiple sclerosis include clinically
+isolated syndrome, relapsing remitting disease, and active secondary
+progressive disease.
+ii. Medication is prescribed by or in consultation with a neurologist or a
+physician who specializes in the treatment of multiple sclerosis; OR
+B) Patient Has Been Receiving Dimethyl Fumarate for ≥ 1 Year. Approve for 1
+year if the patient meets ALL of the following (i, ii, and iii):
+i. Patient has a relapsing form of multiple sclerosis; AND
+Note: Examples of relapsing forms of multiple sclerosis include clinically
+isolated syndrome, relapsing remitting disease, and active secondary
+progressive disease.
+ii. Patient meets ONE of the following (a or b):
+a) Patient experienced a beneficial clinical response when assessed by at
+least one objective measure; OR
+Note: Examples include stabilization or reduced worsening in disease
+activity as evaluated by magnetic resonance imaging (MRI) [absence
+or a decrease in gadolinium enhancing lesions, decrease in the number
+of new or enlarging T2 lesions]; stabilization or reduced worsening on
+the Expanded Disability State Scale (EDSS) score; achievement in
+criteria for No Evidence of Disease Activity-3 (NEDA-3) or NEDA-4;
+improvement on the fatigue symptom and impact questionnaire-
+relapsing multiple sclerosis (FSIQ-RMS) scale; reduction or absence of
+relapses; improvement or maintenance on the six-minute walk test or
+12-Item Multiple Sclerosis Walking Scale; improvement on the Multiple
+Sclerosis Functional Composite (MSFC) score; and/or attenuation of
+brain volume loss; OR
+b) Patient experienced stabilization, slowed progression, or improvement
+in at least one symptom such as motor function, fatigue, vision,
+bowel/bladder function, spasticity, walking/gait, or
+pain/numbness/tingling sensation; AND
+iii. Medication is prescribed by or in consultation with a neurologist or a
+physician who specializes in the treatment of multiple sclerosis.
+CONDITIONS NOT COVERED
+• Tecfidera® (dimethyl fumarate delayed-release capsules - Biogen,
+generic)
+Page 3 of 5 - Cigna National Formulary Coverage - Policy: Multiple Sclerosis (Oral – Fumarate) – Dimethyl
+Fumarate Prior Authorization Policy
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Concurrent Use with Other Disease-Modifying Agents Used for Multiple
+Sclerosis. These agents are not indicated for use in combination (See Appendix
+for examples). Additional data are required to determine if use of disease-
+modifying multiple sclerosis agents in combination is safe and provides added
+efficacy.
+2. Non-Relapsing Forms of Multiple Sclerosis. The efficacy of dimethyl
+fumarate has not been established in patients with non-relapsing forms of
+multiple sclerosis.1
+Note: An example of a non-relapsing form of multiple sclerosis is primary
+progressive multiple sclerosis.
+REFERENCES
+1. Tecfidera® delayed-release capsules [prescribing information]. Cambridge, MA: Biogen; March
+2024.
+2. A Consensus Paper by the Multiple Sclerosis Coalition. The use of disease-modifying therapies in
+multiple sclerosis. September 2019.
+3. McGinley MP, Goldschmidt C, Rae-Grant AD. Diagnosis, and treatment of multiple sclerosis. A
+review. JAMA. 2021;325(8):765-779.
+4. No authors listed. Drugs for multiple sclerosis. Med Lett Drugs Ther. 2021;63(1620):42-48.
+5. Lublin FD, Reingold SC, Cohen JA, et al. Defining the clinical course of multiple sclerosis: the 2013
+revisions. Neurology. 2014;83:278-286.
+6. Thompson AJ, Banwell BL, Barkhof F, et al. Diagnosis of multiple sclerosis: 2017 revisions of the
+McDonald criteria. Lancet Neurol. 2018;17(2):162-173.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Update 08/10/2023: No criteria changes. To the Appendix, Briumvi and NA
+Tascenso ODT were added. Also, it was noted that Aubagio is
+available as a generic.
+Annual No criteria changes. 11/08/2023
+Revision
+Annual Ocrevus Zunovo was added to the Appendix. 10/09/2024
+Revision
+Early Annual Extavia was removed from the Appendix. The policy name was 07/23/2025
+Revision changed to add “Oral – Fumarate.”
+Page 4 of 5 - Cigna National Formulary Coverage - Policy: Multiple Sclerosis (Oral – Fumarate) – Dimethyl
+Fumarate Prior Authorization Policy
+APPENDIX
+Medication Mode of Administration
+Aubagio® (teriflunomide tablets, generic) Oral
+Avonex® (interferon beta-1a intramuscular injection) Injection (self-administered)
+Bafiertam® (monomethyl fumarate delayed-release capsules) Oral
+Betaseron® (interferon beta-1b subcutaneous injection) Injection (self-administered)
+Briumvi® (ublituximab-xiiy intravenous infusion) Intravenous infusion
+Copaxone® (glatiramer acetate subcutaneous injection, Injection (self-administered)
+generic)
+Gilenya® (fingolimod capsules, generic) Oral
+Glatopa® (glatiramer acetate subcutaneous injection) Injection (self-administered)
+Kesimpta® (ofatumumab subcutaneous injection) Injection (self-administered)
+Lemtrada® (alemtuzumab intravenous infusion) Intravenous infusion
+Mavenclad® (cladribine tablets) Oral
+Mayzent® (siponimod tablets) Oral
+Ocrevus® (ocrelizumab intravenous infusion) Intravenous infusion
+Ocrevus Zunovo™ (ocrelizumab and hyaluronidase-ocsq Subcutaneous injection (not self-
+subcutaneous injection) administered)
+Plegridy® (peginterferon beta-1a subcutaneous or Injection (self-administered)
+intramuscular injection)
+Ponvory® (ponesimod tablets) Oral
+Rebif® (interferon beta-1a subcutaneous injection) Injection (self-administered)
+Tascenso ODT® (fingolimod orally disintegrating tablets) Oral
+Tecfidera® (dimethyl fumarate delayed-release capsules, Oral
+generic)
+Tyruko® (natalizumab-sztn intravenous infusion) Intravenous infusion
+Tysabri® (natalizumab intravenous infusion) Intravenous infusion
+Vumerity® (diroximel fumarate delayed-release capsules) Oral
+Zeposia® (ozanimod capsules) Oral
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 5 of 5 - Cigna National Formulary Coverage - Policy: Multiple Sclerosis (Oral – Fumarate) – Dimethyl
+Fumarate Prior Authorization Policy

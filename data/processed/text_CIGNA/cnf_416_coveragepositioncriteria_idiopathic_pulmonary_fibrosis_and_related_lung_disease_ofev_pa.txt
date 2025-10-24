@@ -1,0 +1,298 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Idiopathic Pulmonary Fibrosis and Related Lung Disease – Ofev Prior
+Authorization Policy
+• Ofev® (nintedanib capsules − Boehringer Ingelheim)
+REVIEW DATE: 07/16/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Ofev, a kinase inhibitor, is indicated for the following uses:1
+• Idiopathic pulmonary fibrosis (IPF), treatment.
+• Interstitial lung diseases, chronic fibrosing with a progressive
+phenotype, treatment.
+• Interstitial lung disease associated with systemic sclerosis, to slow the
+rate of decline in pulmonary function.
+The safety and effectiveness of Ofev in pediatric patients have not been established.1
+Disease Overview
+IPF is a form of chronic interstitial lung pneumonia associated with histologic pattern
+of usual interstitial pneumonia (UIP).2 The condition is specific for patients that have
+clinical features and the histologic pattern of UIP or a classical high-resolution
+Page 1 of 7 - Cigna National Formulary Coverage - Policy: Idiopathic Pulmonary Fibrosis and Related Lung Disease –
+Ofev Prior Authorization Policy
+computed tomography (HRCT) scan for IPF. In this lung condition there is cellular
+proliferation, interstitial inflammation, fibrosis, or the combination of these findings,
+within the alveolar wall that is not due to infection or cancer.3 IPF is rather rare and
+the prevalence in the US ranges from 10 to 60 cases per 100,000. However, in one
+study, the prevalence was 494 cases per 100,000 in 2011 in adults > 65 years of
+age, which is higher than previous information. The disease mainly impacts older
+adults.2 Symptoms include a progressive dry cough and exertional dyspnea. Patients
+experience a high disease burden with hospital admissions. The clinical course varies
+among patients but the mean survival after symptom onset is usually 3 to 5 years.
+The cause is unknown but environmental and occupational hazards may play a role,
+as well as a history of smoking. Medical therapy is only modestly effective and mainly
+shows the rate of disease progression. Agents FDA-approved for IPF are Ofev and
+Esbriet® (pirfenidone capsules and film-coated tablets). Lung transplantation is a
+therapeutic option.
+Interstitial lung disease is a common manifestation of systemic sclerosis and is a
+leading cause of death.4-6 Among patients who have systemic sclerosis, up to one-
+half of patients may have interstitial lung disease.7 The estimate prevalence and
+annual incidence of systemic sclerosis-associated interstitial lung disease is 1.7 to
+4.2 and 0.1 to 0.4 per 100,000 individuals, respectively.7 However, it is notable that
+systemic sclerosis is a connective disease that it not limited to the lungs but impacts
+the skin, blood vessels, heart, kidneys, gastrointestinal tract, and musculoskeletal
+system. The condition displays great heterogeneity and can be challenging to treat.4
+When the disease affects the internal organs, significant morbidity and mortality may
+result. Mycophenolate, cyclophosphamide, and azathioprine are
+immunosuppressants that are utilized in the treatment of interstitial lung disease
+associated with systemic sclerosis. Corticosteroids are also used. Besides Ofev,
+Actemra® (tocilizumab subcutaneous injection) is also indicated for use in patients
+with systemic sclerosis-associated interstitial lung disease.
+Clinical Efficacy
+Idiopathic Pulmonary Fibrosis (IPF)
+The clinical efficacy of Ofev if patients with IPF was established in one Phase II study
+and two Phase III studies that were identical in design (n = 1,231).1,8,9 The trials
+were randomized, double-blind, placebo-controlled studies comparing treatment with
+Ofev 150 mg twice daily with placebo for 52 weeks. In the two Phase III studies,
+patients were ≥ 40 years of age and had a forced vital capacity (FVC) ≥ 50% of the
+predicted value. The diagnosis was confirmed by HRCT and, if available, surgical lung
+biopsy specimens were assessed. For all three studies, a statistically significant
+reduction in the annual rate of decline of FVC was observed in patients receiving Ofev
+compared with patients receiving placebo. Also, data shows that the proportion of
+patients that demonstrated categorical declines in lung function was lower for
+patients given Ofev compared with placebo. Acute IPF exacerbations were also
+reduced. Some information suggests that patients who have FVC < 50% of predicted
+may also have some benefits from therapy.10-13
+7 Pages - Cigna National Formulary Coverage - Policy: Idiopathic Pulmonary Fibrosis and Related Lung Disease –
+Ofev Prior Authorization Policy
+Interstitial Lung Diseases, Chronic Fibrosing with a Progressive Phenotype
+The efficacy of Ofev was assessed in patients ≥ 18 years of age with chronic fibrosis
+interstitial lung diseases with a progressive phenotype in a Phase III, double-blind,
+placebo-controlled trial (INBUILD) [n = 663].1,14,15 Patients received Ofev 150 mg
+BID or placebo for at least 52 weeks and the main endpoint was the annual rate in
+decline in FVC over 52 weeks. Patients who had a clinical diagnosis of chronic fibrosing
+interstitial lung disease were involved in the trial if they had relevant fibrosis (greater
+than 10% fibrotic features) and had clinical signs of progression (e.g., FVC decline ≥
+10%, recent FVC decline ≥ 5% but < 10% with worsening symptoms or imaging, or
+worsening symptoms and worsening imaging). Patients were required to have an FVC
+≥ 45% of predicted and a diffusing capacity of the lung for carbon monoxide of at
+least 30% and < 80% of predicted.
+Interstitial Lung Disease Associated with Systemic Sclerosis
+The efficacy of Ofev was established in SENSCIS, a randomized, double-blind,
+placebo-controlled Phase III trial in patients ≥ 18 years of age with systemic
+sclerosis-related interstitial lung disease (n = 576).1,5 Patients were randomized to
+Ofev or placebo for at least 52 weeks and up to 100 weeks. Patients had ≥ 10%
+fibrosis on a chest HRCT scan conducted within the previous 12 months and had an
+FVC ≥ 40% of predicted. The primary efficacy endpoint was the annual rate of decline
+in FVC over 52 weeks. The annual rate of decline of FVC over 52 weeks was
+significantly reduced by 41 mL in patients receiving Ofev vs. placebo (-52 mL for Ofev
+vs. -93 mL with placebo).
+Guidelines
+In 2015, the clinical practice guideline from the American Thoracic Society (ATS),
+European Respiratory Society (ERS), the Japanese Respiratory Society (JRS), and
+Latin American Thoracic Association (ALAT) on the treatment of IPF were updated.16
+Regarding Ofev, the guideline suggests use of this medication (conditional
+recommendation, moderate confidence in estimates of effect). The guideline notes
+that the data with Ofev focuses on patients with IPF who have mild to moderate
+impairment in pulmonary function tests. It is not known if the benefits would differ
+among patients with more severe impairment in pulmonary function testing or in
+patients who have other comorbidities.16 Updated recommendations by this group in
+2022 support use of Ofev in patients with IPF.17 Regarding the treatment of
+progressive pulmonary fibrosis, Ofev is a suggested treatment in patients who have
+failed standard management for fibrotic interstitial lung disease (e.g.,
+immunosuppressive treatment) other than IPF.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Ofev. All
+approvals are provided for the duration noted below. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Ofev, approval requires
+Ofev to be prescribed by or in consultation with a physician who specializes in the
+condition being treated.
+7 Pages - Cigna National Formulary Coverage - Policy: Idiopathic Pulmonary Fibrosis and Related Lung Disease –
+Ofev Prior Authorization Policy
+• Ofev® (nintedanib capsules - Boehringer Ingelheim)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Idiopathic Pulmonary Fibrosis. Approve for 1 year if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy. Approve if the patient meets ALL of the following (i, ii, iii, and
+iv):
+i. Patient is ≥ 18 years of age; AND
+ii. Forced vital capacity is ≥ 40% of the predicted value; AND
+iii. The diagnosis is confirmed by ONE of the following (a or b):
+a) Findings on high-resolution computed tomography indicate usual
+interstitial pneumonia; OR
+b) A surgical lung biopsy demonstrates usual interstitial pneumonia; AND
+iv. Medication is prescribed by or in consultation with a pulmonologist; OR
+B) Patient is Currently Receiving Ofev. Approve if the patient meets ALL of the
+following (i, ii and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has experienced a beneficial response to therapy over the last year
+while receiving Ofev; AND
+Note: For a patient who has received less than 1 year of therapy, response
+is from baseline prior to initiating Ofev. Examples of a beneficial response
+include a reduction in the anticipated decline in forced vital capacity, six-
+minute walk distance, and/or in the number or severity of idiopathic
+pulmonary fibrosis exacerbations.
+iii. Medication is prescribed by or in consultation with a pulmonologist.
+2. Interstitial Lung Diseases, Chronic Fibrosing with a Progressive
+Phenotype. Approve for 1 year if the patient meets ONE of the following (A or
+B):
+Note: Examples of conditions include hypersensitivity pneumonitis; idiopathic
+non-specific interstitial pneumonitis; idiopathic non-specific interstitial
+pneumonia; unclassifiable idiopathic interstitial pneumonia; autoimmune
+interstitial lung disease (e.g., rheumatoid arthritis interstitial lung disease);
+exposure-related interstitial lung disease; and mixed connective tissue disease
+interstitial lung disease. This is not associated with idiopathic pulmonary fibrosis
+(see indication above).
+A) Initial Therapy. Approve if the patient meets ALL of the following (i, ii, iii, iv,
+and v):
+i. Patient is ≥ 18 years of age; AND
+ii. Forced vital capacity is ≥ 40% of the predicted value; AND
+iii. According to the prescriber, the patient has fibrosing lung disease impacting
+more than 10% of lung volume on high-resolution computed tomography;
+AND
+7 Pages - Cigna National Formulary Coverage - Policy: Idiopathic Pulmonary Fibrosis and Related Lung Disease –
+Ofev Prior Authorization Policy
+iv. According to the prescriber, the patient has clinical signs of progression;
+AND
+Note: Examples of clinical signs of progression include a forced vital
+capacity decline ≥ 10% of the predicted value or forced vital capacity
+decline ≥ 5% to < 10% with worsening symptoms and/or worsening
+imaging.
+v. Medication is prescribed by or in consultation with a pulmonologist; OR
+B) Patient is Currently Receiving Ofev. Approve if the patient meets ALL of the
+following (i, ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has experienced a beneficial response to therapy over the last year
+while receiving Ofev; AND
+Note: For a patient who has received less than 1 year of therapy, response
+is from baseline prior to initiating Ofev. Examples of a beneficial response
+include a reduction in the anticipated decline in forced vital capacity, six-
+minute walk distance, and/or in the number or severity of interstitial lung
+disease-related exacerbations.
+iii. Medication is prescribed by or in consultation with a pulmonologist.
+3. Interstitial Lung Disease Associated with Systemic Sclerosis. Approve for
+1 year if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve if the patient meets ALL of the following (i, ii, iii, and
+iv):
+i. Patient is ≥ 18 years of age; AND
+ii. Forced vital capacity is ≥ 40% of the predicted value; AND
+iii. Diagnosis is confirmed by high-resolution computed tomography; AND
+iv. Medication is prescribed by or in consultation with a pulmonologist or a
+rheumatologist; OR
+B) Patient is Currently Receiving Ofev. Approve if the patient meets ALL of the
+following (i, ii, and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has experienced a beneficial response to therapy over the last year
+while receiving Ofev; AND
+Note: For a patient who has received less than 1 year of therapy, response
+is from baseline prior to initiating Ofev. Examples of a beneficial response
+include a reduction in the anticipated decline in forced vital capacity, six-
+minute walk distance, and/or in the number or severity of disease-related
+exacerbations.
+iii. Medication is prescribed by or in consultation with a pulmonologist or a
+rheumatologist.
+CONDITIONS NOT COVERED
+• Ofev® (nintedanib capsules - Boehringer Ingelheim)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+7 Pages - Cigna National Formulary Coverage - Policy: Idiopathic Pulmonary Fibrosis and Related Lung Disease –
+Ofev Prior Authorization Policy
+1. Ofev is Being Used Concomitantly with Esbriet (pirfenidone capsules).
+Esbriet is another medication indicated for IPF. The effectiveness and safety of
+concomitant use of Ofev with Esbriet have not been established. The 2015
+ATS/ERS/JRS/ALAT clinical practice guideline regarding the treatment of
+idiopathic pulmonary fibrosis (an update of the 2011 clinical practice guideline)
+does not recommend taking Ofev and Esbriet in combination.16 A small
+exploratory study was done in which patients with IPF receiving Ofev added on to
+Esbriet.18 Further research is needed to determine the utility of this combination
+regimen.
+REFERENCES
+1. Ofev® capsules [prescribing information]. Ridgefield, CT: Boehringer Ingelheim; May 2025.
+2. Lederer DJ, Martinez FJ. Idiopathic pulmonary fibrosis. N Engl J Med. 2018;378(19):1811-1823.
+3. Lynch JP, Huynh RH, Fishbein MC, et al. Idiopathic pulmonary fibrosis: epidemiology, clinical
+features, prognosis, and management. Semin Respir Crit Care Med. 2016;37:331-357.
+4. Jee AS, Corte TJ. Current and emerging drug therapies for connective tissue disease-interstitial lung
+disease (CTD-ILD). Drugs. 2019;79(14):1511-1528.
+5. Distler O, Highland KB, Gahlemann M, et al, for the SENSCIS Trial Investigators. Nintedanib for
+systemic sclerosis-associated interstitial lung disease. N Engl J Med. 2019;380(26):2518-2528.
+6. Kowal-Bielecka O, Fransen J, Avouac J, et al, for the EUSTAR Coauthors. Update of EULAR
+recommendations for the treatment of systemic sclerosis. Ann Rheum Dis. 2017;76:1327-1339.
+7. Bergamasco A, Hartmann N, Wallace L, Verpillat P. Epidemiology of systemic sclerosis and systemic
+sclerosis-associated interstitial lung disease. Clin Epidemiol. 2019;11:257-273.
+8. Richeldi L, du Bois RM, Raghu G, et al, for the INPULSIS Trial Investigators. Efficacy and safety of
+nintedanib in idiopathic pulmonary fibrosis. N Engl J Med. 2014;370(22):2071-2082.
+9. Richeldi L, Costabel U, Selman N, et al. Efficacy of a tyrosine kinase inhibitor in idiopathic pulmonary
+fibrosis. N Engl J Med. 2011;365(12):1079-1087.
+10. Wuyts WA, Kolb M, Stowasser S, et al. First data on efficacy and safety of nintedanib in patients
+with idiopathic pulmonary fibrosis and forced vital capacity of ≤ 50% of predicted value. Lung.
+2016;194:739-743.
+11. King CS, Nathan SD. POINT: Should all patients with idiopathic pulmonary fibrosis, even those with
+more than moderate impairment, be treated with nintedanib or pirfenidone? Yes. Chest.
+2016;150(2):273-275.
+12. Yoon HY, Park S, Kim DS, Song JW. Efficacy and safety of nintedanib in advanced idiopathic
+pulmonary fibrosis. Respir Res. 2018;19(1):203.
+13. Richeldi L, Crestani B, Azuma A, et al. Outcomes following decline in forced vital capacity in patients
+with idiopathic pulmonary fibrosis: results from the INPULSIS and INPULSIS-ON trials of nintedanib.
+Respir Med. 2019;156:20-25.
+14. Wells AU, Flaherty KR, Brown KK, et al, on behalf of the INBUILD trial investigators.’ Nintedanib in
+patients with progressive fibrosing interstitial lung diseases-subgroup analyses by interstitial lung
+disease diagnosis in the INBUILD trial: a randomized, double-blind, placebo-controlled, parallel-
+group trial. Lancet Respir Med. 2020;8(5):453-460.
+15. Flaherty KR, Wells AU, Cottin A, et al, for the INBUILD trial investigators. Nintedanib in progressive
+fibrosing interstitial lung diseases. N Engl J Med. 2019;381(18):1718-1727.
+16. Raghu G, Rochwerg B, Zhang Y, et al, on behalf of the ATS, ERS, JRS, and ALAT. An official
+ATS/ERS/JRS/ALAT clinical practice guideline: treatment of idiopathic pulmonary fibrosis. Executive
+summary. An update of the 2011 clinical practice guideline. Am J Respir Crit Care Med.
+2015;192(2):238-248.
+17. Raghu G, Remy-Jardin M, Richeldi L, et al, on behalf of the ATS, ERS, JRS, and ALAT. Idiopathic
+pulmonary fibrosis (an update) and progressive pulmonary fibrosis in adults. An official
+ATS/ERS/JRS/ALAT clinical practice guideline. Am J Respir Crit Care Med. 2022;205(9):e18-e47.
+18. Vancheri C, Kreuter M, Richeldi L, et al, INJOURNEY trial investigators. Nintedanib with add-on
+pirfenidone in idiopathic pulmonary fibrosis: results of the INJOURNEY trial. Am J Respir Crit Care
+Med. 2018;197(3):356-363.
+7 Pages - Cigna National Formulary Coverage - Policy: Idiopathic Pulmonary Fibrosis and Related Lung Disease –
+Ofev Prior Authorization Policy
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 06/28/2023
+Revision
+Annual No criteria changes. 07/10/2024
+Revision
+Annual No criteria changes. 07/16/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+7 Pages - Cigna National Formulary Coverage - Policy: Idiopathic Pulmonary Fibrosis and Related Lung Disease –
+Ofev Prior Authorization Policy

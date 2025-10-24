@@ -1,0 +1,129 @@
+STEP THERAPY POLICY
+POLICY: Calcium Channel Blockers – Verapamil Products Step Therapy Policy
+• Verelan® PM (verapamil extended-release PM capsules, controlled
+onset – Kremers/Lannett, generic)
+• verapamil immediate-release tablets (generic only)
+• verapamil extended-release tablets (generic only)
+• verapamil extended-release capsules (generic only)
+• verapamil sustained-release capsules (generic only)
+REVIEW DATE: 06/18/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+All of the available verapamil formulations are indicated for the treatment of
+hypertension.1,2 Verapamil immediate-release is also indicated for the treatment
+of angina and specific cardiac arrhythmias.1 Verapamil has also been used for off-
+label conditions, such as adjunctive treatment of hypertrophic cardiomyopathy and
+prophylaxis of migraine and cluster headaches.
+Verelan PM is an extended-release controlled onset (COER) formulations designed
+to release verapamil 4 to 5 hours after ingestion and should be administered once
+daily at bedtime.2 COER formulations result in a maximum plasma concentration of
+Page 1 of 3 - Cigna National Formulary Coverage - Policy:Calcium Channel Blockers – Verapamil Products Step
+Therapy Policy
+verapamil in the morning hours, approximately 11 hours after ingestion. It has
+been hypothesized that the COER verapamil formulations may be more safe and
+effective in patients with hypertension than other verapamil formulations because
+their concentrations during a 24-hour period are synchronized with biological
+rhythm (chronotherapy).4-6 In theory, these formulations may have an advantage
+over other sustained-/extended-release verapamil formulations as they would
+attenuate the increase in blood pressure, heart rate, cardiac ischemia, and
+catecholamines that naturally occur upon awakening and they would not cause
+hypotension during sleep. However, the role of verapamil as it relates to
+chronotherapy in the primary prevention of cardiovascular (CV) morbidity and
+mortality (e.g., myocardial infarction [MI], stroke) has not been demonstrated in
+controlled, comparative clinical trials.6,7 The Controlled ONset Verapamil
+InvestigatioN of Cardiovascular Endpoints (CONVINCE) trial, which was terminated
+two years early for commercial reasons, was conducted in part to determine if there
+is a difference in the incidence of fatal or nonfatal MI, fatal or nonfatal stroke, or
+CV-related death between extended-release controlled onset verapamil ±
+hydrochlorothiazide (HCTZ), HCTZ alone, atenolol alone, or HCTZ in combination
+with atenolol.8 The trial results did not provide evidence to support the concept of
+chronotherapeutics. Also, one small study comparing the effects of COER verapamil
+on the diurnal pattern of forearm vascular resistance in hypertensive and
+normotensive patients noted that COER verapamil minimized the diurnal pattern in
+forearm vascular resistance, but it did not hinder the early morning rate of blood
+pressure rise, despite being at peak concentration.9
+POLICY STATEMENT
+This program has been developed to encourage the use of a Step 1 Product prior to
+the use of a Step 2 Product. If the Step Therapy rule is not met for a Step 2
+Product at the point of service, coverage will be determined by the Step Therapy
+criteria below. All approvals are provided for 1 year in duration.
+Step 1: generic verapamil extended-release capsules, generic verapamil
+extended-release tablets, generic verapamil immediate-release tablets,
+generic verapamil sustained-release capsules
+Step 2: Verelan PM (brand and generic)
+Calcium Channel Blockers – Verapamil Products Step Therapy Policy
+product(s) is(are) covered as medically necessary when the following step
+therapy criteria is(are) met. Any other exception is considered not
+medically necessary.
+CRITERIA
+1. If the patient has tried one Step 1 Product, approve a Step 2 Product.
+3 Pages - Cigna National Formulary Coverage - Policy:Calcium Channel Blockers – Verapamil Products Step
+Therapy Policy
+REFERENCES
+1. Verapamil tablet [prescribing information]. Congers, NY: Chartwell; August 2023.
+2. Verelan® PM extended-release capsules controlled-onset [prescribing information]. Philadelphia,
+PA, and Gainesville, GA: Lannett/Recro/Alkermes; October 2019.
+3. Anwar YA, White WB. Chronotherapeutics for cardiovascular disease. Drugs. 1998;55:631-643.
+4. Smolensky MH, Portaluppi F. Chronopharmacology and chronotherapy of cardiovascular
+medications: relevance to prevention and treatment of coronary heart disease. Am Heart J.
+1999;137:S14-S24.
+5. Carter BL. Optimizing delivery systems to tailor pharmacotherapy to cardiovascular circadian
+events. Am J Health-Syst Pharm. 1998;55(Suppl 3):17-23.
+6. Conlin PR, Williams GH. Use of calcium channel blockers in hypertension. Adv Intern Med.
+1998;43:533-562.
+7. Black HR, Elliott WJ, Neaton JD, et al. Rationale and design for the Controlled Onset Verapamil
+Investigation of Cardiovascular Endpoints (CONVINCE) trial. Control Clin Trials. 1998;19(4):370-
+390.
+8. Black HR, Elliott WJ, Grandits G, et al. Principal results of the Controlled Onset Verapamil
+Investigation of Cardiovascular Endpoints (CONVINCE) trial. JAMA. 2003;289(16):2073-82.
+9. Nguyen BN, Parker RB, Noujedehi M, Sullivan JM, Johnson JA. Effects of COER-verapamil on
+circadian pattern of forearm vascular resistance and blood pressure. J Clin Pharmacol.
+2000;40(12 Pt 2):1480-1487.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Annual No criteria changes. 06/28/2023
+Revision
+Annual Calan (brand name product): Removed from Step 2 as it is no 06/26/2024
+Revision longer available.
+Selected Generic verapamil extended-release tablets and generic 02/26/2025
+Revision verapamil sustained-release capsules: Added to Step 1.
+Generic verapamil sustained-release tablets: This agent was
+removed from the policy (obsolete); previously it was in Step 1.
+Generic verapamil extended-release PM capsules: Moved
+from Step 1 to Step 2.
+Annual Calan SR (brand name product) and Verelan (brand name 06/18/2025
+Revision product): Removed from Step 2 of the policy as they are no
+longer available.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Calcium Channel Blockers – Verapamil Products Step
+Therapy Policy

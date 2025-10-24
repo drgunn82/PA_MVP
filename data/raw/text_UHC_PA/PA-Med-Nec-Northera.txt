@@ -1,0 +1,110 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2042-15
+Program Prior Authorization/Medical Necessity
+Medication Northera® (droxidopa)*
+P&T Approval Date 10/2014, 4/2015, 2/2016, 2/2017, 4/2017, 4/2018, 4/2019, 4/2020, 4/2021,
+4/2022, 4/2023, 4/2024, 4/2025
+Effective Date 7/1/2025
+1. Background:
+Northera (droxidopa)* is indicated for the treatment of orthostatic dizziness, lightheadedness,
+or the “feeling that you are about to black out” in adult patients with symptomatic neurogenic
+orthostatic hypotension (nOH) caused by primary autonomic failure (Parkinson’s disease [PD],
+multiple system atrophy, and pure autonomic failure), dopamine beta-hydroxylase deficiency,
+and non-diabetic autonomic neuropathy. Effectiveness beyond two weeks of treatment has not
+been established. The continued effectiveness of Northera* should be assessed periodically.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Northera* will be approved based on all of the following criteria
+a. Diagnosis of symptomatic neurogenic orthostatic hypotension (nOH) as defined by one
+of the following when an upright position is assumed or when using a head-up tilt-table
+testing at an angle of at least 60 degrees:
+(1) At least a 20 mm Hg fall in systolic pressure
+(2) At least a 10 mm Hg fall in diastolic pressure
+-AND-
+b. nOH caused by one of the following:
+(1) Primary autonomic failure (e.g., Parkinson’s disease, multiple system atrophy, and
+pure autonomic failure)
+(2) Dopamine beta-hydroxylase deficiency
+(3) Non-diabetic autonomic neuropathy
+-AND-
+c. Diagnostic evaluation has excluded other causes associated with orthostatic
+hypotension (e.g., congestive heart failure, fluid restriction, malignancy)
+-AND-
+d. The patient has tried at least two of the following non-pharmacologic interventions:
+© 2025 UnitedHealthcare Services Inc.
+1
+(1) Discontinuation of drugs which can cause orthostatic hypotension [e.g., diuretics,
+antihypertensive medications (primarily sympathetic blockers), anti-anginal drugs
+(nitrates), alpha-adrenergic antagonists, and antidepressants]
+(2) Raising the head of the bed 10 to 20 degrees
+(3) Compression garments to the lower extremities or abdomen
+(4) Physical maneuvers to improve venous return (e.g., regular modest-intensity
+exercise)
+(5) Increased salt and water intake, if appropriate
+(6) Avoiding precipitating factors (e.g., overexertion in hot weather, arising too
+quickly from supine to sitting or standing)
+-AND-
+e. No previous diagnosis of supine hypertension
+-AND-
+f. Prescribed by or in consultation with one of the following specialists:
+(1) Cardiologist
+(2) Neurologist
+(3) Nephrologist
+-AND-
+g. History of failure (after a trial of at least 30 days), contraindication or intolerance to
+both of the following medications:
+(1) fludrocortisone (generic Florinef)
+(2 midodrine (generic ProAmatine)
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Northera* will be approved based on the following criteria:
+a. Documentation of positive clinical response to Northera* therapy
+-AND-
+b. Physiological countermeasures for nOH continue to be employed
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+* Multi-source brand Northera may be excluded from coverage
+© 2025 UnitedHealthcare Services Inc.
+2
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class
+• Supply limits may be in place.
+4. References:
+1. Northera [package insert]. Deerfield IL: Lundbeck NA Ltd; July 2019.
+2. Fedorowski, A, Ricci, F, Hamrefors, V, et. al. Orthostatic Hypotension: Management of a
+Complex, But Common, Medical Problem. Circ Arrhythm Electrophysiol. 2022; 15: 212-29.
+3. Wieling, W, Kaufmann, H, Glaydon, VE, et. al. Diagnosis and treatment of orthostatic
+hypotension. Lancet Neurol. 2022; 21: 735-46.
+Program Prior Authorization/Medical Necessity – Northera*
+Change Control
+Date Change
+10/2014 New program.
+4/2015 Added definition of orthostatic hypotension; Separated diagnosis of
+NOH and the potential causes of NOH in the criteria; Modified to
+require 2 non-pharmacologic interventions; Modified to require a 30
+day trial of the alternative medications.
+2/2016 Annual review with no change to clinical intent. Updated references
+7/2016 Added Indiana and West Virginia coverage information.
+11/2016 Administrative change. Added California coverage information.
+2/2017 Administrative change. Updated references.
+4/2017 Removed medical record requirement. State mandate reference
+language updated.
+4/2018 Annual review. Updated references.
+4/2019 Annual review with administrative changes. Added statement regarding
+use of automated processes and updated references.
+4/2020 Annual review. Updated references.
+4/2021 Annual review. Noted that multi-source brand may be excluded from
+coverage.
+4/2022 Annual review. Updated references.
+4/2023 Annual review. No changes.
+4/2024 Annual review. Increased authorization periods to 12 month and
+updated references.
+4/2025 Annual review. Brands of Forinef and ProAmatine are no longer
+available – updated to list generic only.
+© 2025 UnitedHealthcare Services Inc.
+3

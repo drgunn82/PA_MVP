@@ -1,0 +1,61 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1248-8
+Program Prior Authorization/Notification
+Medication Palynziq™ (pegvaliase-pqpz)
+P&T Approval Date 7/2018, 7/2019, 7/2020, 7/2021, 7/2022, 7/2023, 7/2024, 6/2025
+Effective Date 9/1/2025
+1. Background:
+Palynziq is a phenylalanine-metabolizing enzyme indicated to reduce blood phenylalanine
+concentrations in adult patients with phenylketonuria who have uncontrolled blood phenylalanine
+concentrations greater than 600 micromol/L on existing management.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Palynziq will be approved based on all of the following criteria:
+a. Diagnosis of phenylketonuria (PKU)
+-AND-
+b. Patient has a blood phenylalanine concentration greater than 600 micromol/L
+-AND-
+c. Patient is actively on a phenylalanine-restricted diet
+-AND-
+d. Patient is not receiving Palynziq in combination with sapropterin dihydrochloride
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Palynziq will be approved based on all of the following criteria:
+a. Documentation of positive clinical response (e.g., blood phenylalanine concentration less
+than 600 micromol/L, 20% reduction in blood phenylalanine concentration from pre-
+treatment baseline)
+-AND-
+b. Patient is actively on a phenylalanine-restricted diet
+-AND-
+© 2025 UnitedHealthcare Services Inc.
+1
+c. Patient is not receiving Palynziq in combination with sapropterin dihydrochloride
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Medical Necessity and supply limits may also be in place.
+4. References:
+1. Palynziq [package insert]. Novato, CA: BioMarin Pharmaceutical Inc.; November 2020.
+2. Vockley et al. Phenylalanine hydroxylase deficiency: diagnosis and management guideline.
+American College of Medical Genetics and Genomics Practice Guidelines. Genetics in Medicine
+2014;16 (2):188-200.
+Program Prior Authorization/Notification - Palynziq (pegvaliase-pqpz)
+Change Control
+7/2018 New program
+7/2019 Annual review with no change to coverage criteria.
+7/2020 Annual review with no change to coverage criteria.
+7/2021 Annual review with no change to coverage criteria. Reference updated.
+7/2022 Annual review with no change to coverage criteria. Removed Brand name
+Kuvan. Added state mandate disclaimer.
+7/2023 Annual review with no change to coverage criteria.
+7/2024 Annual review. Simplified reauthorization criteria to standard
+documentation of positive clinical response language.
+6/2025 Annual review with no change to coverage criteria.
+© 2025 UnitedHealthcare Services Inc.
+2

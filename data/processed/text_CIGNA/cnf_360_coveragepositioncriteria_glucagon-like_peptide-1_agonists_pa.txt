@@ -1,0 +1,358 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Diabetes – Glucagon-Like Peptide-1 Agonists Prior Authorization Policy
+• Adlyxin® (lixisenatide subcutaneous injection – sanofi-aventis
+[obsolete 01/01/2023])
+• Bydureon BCise® (exenatide extended-release subcutaneous
+injection – AstraZeneca [obsolete 03/31/2025])
+• Byetta® (exenatide subcutaneous injection – AstraZeneca [brand
+obsolete 03/06/2025], generic)
+• Mounjaro® (tirzepatide subcutaneous injection − Eli Lilly)
+• Ozempic® (semaglutide subcutaneous injection – Novo Nordisk)
+• Rybelsus® (semaglutide tablets – Novo Nordisk)
+• Trulicity® (dulaglutide subcutaneous injection – Eli Lilly)
+• Victoza® (liraglutide subcutaneous injection – Novo Nordisk, generic)
+REVIEW DATE: 06/11/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+The glucagon-like peptide-1 (GLP-1) receptor agonists and the GLP-1/glucose-
+dependent insulinotropic polypeptide-1 (GIP) agonist addressed in this policy are
+indicated as adjuncts to diet and exercise to improve glycemic control in adults with
+type 2 diabetes.1-8 Liraglutide, Trulicity, and Bydureon BCise are additionally
+Page 1 of 9 - Cigna National Formulary Coverage - Policy: Diabetes – Glucagon-Like Peptide-1 Agonists Prior
+Authorization Policy
+indicated for type 2 diabetes in patients ≥ 10 years of age.3,7,8 Liraglutide, Ozempic,
+and Trulicity also have labeled indications related to cardiovascular (CV) risk
+reduction in adults with type 2 diabetes.5,7,8 Additionally, Ozempic is indicated to
+reduce the risk of sustained estimated glomerular filtration decline, end-stage kidney
+disease, and CV death in adults with type 2 diabetes and chronic kidney disease
+(CKD).5
+Guidelines
+According to the American Diabetes Association Standards of Care (2025),
+pharmacologic therapy be guided by person-centric treatment factors including
+comorbid conditions, as well as treatment goals, and preferences.9 Pharmacotherapy
+should be initiated at the time type 2 diabetes is diagnosed unless there are
+contraindications.
+In adults with type 2 diabetes and established atherosclerotic CV disease (ASCVD),
+heart failure (HF), and/or CKD, treatment should include agents that reduce CV or
+kidney disease risk.9 In individuals without ASCVD, HF, or CKD, the choice of therapy
+should be based on considerations of weight management, mitigation of metabolic-
+dysfunction associated liver disease (MASLD) or metabolic-dysfunction associated
+steatohepatitis (MASH) risk, and achievement and maintenance of individualized
+glycemic goals. In general, higher-efficacy approaches, including combination
+therapy, have a greater likelihood of achieving treatment goals. Weight management
+is a distinct treatment goal, along with glycemic management, as it has multifaceted
+benefits, including reduction of HbA , reduction in hepatic steatosis, and
+1c
+improvement in CV risk factors.
+GLP-1 agonists are broadly recognized not only for their glycemic effects but for other
+beneficial effects in patients with type 2 diabetes.9 Among patients with type 2
+diabetes with established ASCVD or indicators of high ASCVD risk, GLP-1 agonists
+with proven CV benefit (i.e., labeled indication of reducing CV disease events) or a
+sodium glucose co-transporter-2 (SGLT-2) inhibitor are preferred regardless of
+baseline metformin use.9 In individuals with type 2 diabetes with HF with preserved
+ejection fraction and obesity, a GLP-1 agonist with demonstrated benefits for both
+glycemic management and reduction of HF-related symptoms, irrespective of HbA
+1c
+is recommended (data are currently available with semaglutide [Wegovy®
+{semaglutide SC injection}] and tirzepatide [e.g., Mounjaro and Zepbound®
+{tirzepatide SC injection}]). In adults with type 2 diabetes and advanced CKD
+(estimated glomerular filtration rate < 30 mL/min), a GLP-1 agonist is preferred for
+glycemic management due to lower risk of hypoglycemia and for CV event reduction.
+Ozempic has a beneficial effect on ASCVD, mortality, and kidney outcomes among
+individuals with CKD, and therefore is a recommended first-line agent for individuals
+with CKD. Other GLP-1 agonists and Mounjaro may have CKD benefits, however, no
+dedicated kidney trials have been published.
+In patients without cardiorenal risk factors described above, the GLP-1 agonists are
+additionally recommended in patients based on glycemic needs.9 Metformin or other
+agents that provide adequate efficacy to achieve and maintain glycemic treatment
+goals are recommended. In general, higher efficacy approaches have a greater
+3 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Glucagon-Like Peptide-1 Agonists Prior
+Authorization Policy
+likelihood of achieving glycemic goals. The GLP-1 agonists, Ozempic and Trulicity
+[high dose] and the GLP-1/GIP agonist, Mounjaro, are among the agents considered
+to have “very high” efficacy for glucose lowering; the other GLP-1 agonists are
+considered to have “high” efficacy for glucose lowering.
+Many individuals with diabetes with obesity are at high risk for developing MASLD or
+MASH as well as MASH cirrhosis.9 In adults with type 2 diabetes, MASLD, and
+overweight or obesity, a GLP-1 agonist (i.e., liraglutide, semaglutide) or GLP-1/GIP
+agonist (i.e., tirzepatide) with potential benefits in MASH for glycemic management,
+in addition to healthy interventions for weight loss, is recommended. In adults with
+type 2 diabetes and MASH or those at high risk for liver fibrosis (based on non-
+invasive tests), pioglitazone, GLP-1 agonists, or a GLP-1/GIP agonist is preferred for
+glycemic management due to potential beneficial effects on MASH.
+Weight management is also a treatment goal in individuals with type 2 diabetes due
+to multiple benefits including improved glycemic control, reduction in hepatic
+steatosis, and improvement in CV risk factors.9 The choice of therapy for glycemic
+control should support weight management goals in those with obesity; Mounjaro
+and Ozempic are noted to have the highest efficacy in terms of glucose lowering and
+weight loss, followed by Trulicity, liraglutide, and Bydureon BCise. Additional weight
+management approaches, alone or in combination, should be used if needed to
+achieve an individual’s weight loss goals (i.e., intensive behavioral therapy, weight
+loss pharmacotherapy, or metabolic surgery).
+American Association of Clinical Endocrinologists statement on the comprehensive
+care for type 2 diabetes (2023) provides principles for the management of type 2
+diabetes.12 In patients with type 2 diabetes and established ASCVD or at high risk
+for ASCVD, GLP-1 agonists and SGLT-2 inhibitors are recommended. In a patient
+with type 2 diabetes and established ASCVD or are at high risk, a GLP-1 agonist with
+proven CV benefit (liraglutide, Ozempic, Trulicity) should be initiated as a first-line
+therapy independent of the glycemic goal or other antihyperglycemic treatments,
+including metformin; SGLT-2 inhibitors are an alternative. In patients with type 2
+diabetes and ASCVD or at high risk of ASCVD, use of a GLP-1 agonist is also
+recommended to reduce the risk of stroke. To reduce the risk of progression of
+diabetic kidney disease and CV disease in patients with type 2 diabetes, SGLT-2
+inhibitors are recommended; GLP-1 agonists are also an option to reduce progression
+of albuminuria, renal function decline, and ASCVD risk in individuals with type 2
+diabetes and diabetic kidney disease (Ozempic and Trulicity are cited). For patients
+with type 2 diabetes but without established or high risk for ASCVD, heart failure,
+stroke, or CKD, metformin should be the initial therapy unless contraindicated. In
+patients who are overweight or obese, the following therapies are recommended and
+listed in order of preference: Mounjaro, GLP-1 agonists, and SGLT-2 inhibitors. In
+patients with a history of hypoglycemia, at high risk of hypoglycemia, or at risk of
+severe complications from hypoglycemia, recommended therapies (in order of
+preference) are: GLP-1 agonists, SGLT-2 inhibitors, Mounjaro, thiazolidinediones,
+and dipeptidyl peptidase-4 inhibitors.
+3 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Glucagon-Like Peptide-1 Agonists Prior
+Authorization Policy
+Kidney Diseases Improving Global Outcomes 2024 guidelines for the clinical
+evaluation and management of CKD recommend a long-acting GLP-1 agonist
+(prioritizing agents with documented CV benefits) in adults with type 2 diabetes and
+CKD who have not achieved individualized glycemic targets despite use of metformin
+and an SGLT-2 inhibitors, or who are unable to take those medications.13
+A report of the American College of Cardiology and American Heart Association
+(2024) recommends GLP-1 agonists (liraglutide, Ozempic) and SGLT-2 inhibitors to
+reduce the risk of major adverse CV events in adults with type 2 diabetes and
+peripheral arterial disease.14
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of the GLP-1
+agonists and GLP-1/GIP agonist targeted in this policy. Of note, Saxenda® (liraglutide
+subcutaneous injection), Wegovy® (semaglutide subcutaneous injection), and
+Zepbound® (tirzepatide subcutaneous injection) are not indicated for the treatment
+of diabetes and are not targeted in this policy. All approvals are provided for the
+duration noted below.
+• Adlyxin, Byetta, exenatide (generic to Byetta), Mounjaro, Ozempic,
+Rybelsus: If criteria for previous use of an oral medication for diabetes (not
+including Rybelsus or single-entity metformin) in the past 130 days are not
+met at the point of service, OR if the patient is < 18 years of age, coverage
+will be determined by Prior Authorization criteria.
+• Bydureon BCise, Trulicity, Victoza, liraglutide: If criteria for previous use
+of an oral medication for diabetes (not including Rybelsus or single-entity
+metformin) in the past 130 days are not met at the point of service, OR if the
+patient is < 10 years of age, coverage will be determined by Prior Authorization
+criteria.
+• Adlyxin® (lixisenatide subcutaneous injection – sanofi-aventis
+[obsolete
+• 01/01/2023])
+• Bydureon BCise® (exenatide extended-release subcutaneous
+injection –
+• AstraZeneca [obsolete 03/31/2025])
+• Byetta® (exenatide subcutaneous injection – AstraZeneca [brand
+obsolete
+• 03/06/2025], generic)
+• Mounjaro® (tirzepatide subcutaneous injection ( Eli Lilly)
+• Ozempic® (semaglutide subcutaneous injection – Novo Nordisk)
+• Rybelsus® (semaglutide tablets – Novo Nordisk)
+• Trulicity® (dulaglutide subcutaneous injection – Eli Lilly)
+• Victoza® (liraglutide subcutaneous injection – Novo Nordisk, generic)
+3 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Glucagon-Like Peptide-1 Agonists Prior
+Authorization Policy
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Type 2 Diabetes Mellitus. Approve for 1 year if the patient meets ONE of the
+following (A or B):
+A) If the request is for Adlyxin, Byetta, exenatide (generic to Byetta), Mounjaro,
+Ozempic, Rybelsus: Approve if the patient is ≥ 18 years of age; OR
+B) If the request is for Bydureon BCise, Trulicity, Victoza, liraglutide: Approve if
+the patient is ≥ 10 years of age.
+CONDITIONS NOT COVERED
+• Adlyxin® (lixisenatide subcutaneous injection – sanofi-aventis
+[obsolete 01/01/2023])
+• Bydureon BCise® (exenatide extended-release subcutaneous
+injection – AstraZeneca [obsolete 03/31/2025])
+• Byetta® (exenatide subcutaneous injection – AstraZeneca [brand
+obsolete 03/06/2025], generic)
+• Mounjaro® (tirzepatide subcutaneous injection ( Eli Lilly)
+• Ozempic® (semaglutide subcutaneous injection – Novo Nordisk)
+• Rybelsus® (semaglutide tablets – Novo Nordisk)
+• Trulicity® (dulaglutide subcutaneous injection – Eli Lilly)
+• Victoza® (liraglutide subcutaneous injection – Novo Nordisk, generic)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+Coverage is not recommended in the following situations:
+1. Weight Loss Treatment. Saxenda (liraglutide subcutaneous injection) contains
+the same chemical entity as liraglutide (Victoza, generic) and is indicated at a
+higher dose for chronic weight management. Wegovy (semaglutide subcutaneous
+injection) contains the same chemical entity as Ozempic and is indicated at a
+higher dose for chronic weight management. Zepbound (tirzepatide
+subcutaneous injection) contains the same chemical entity as Mounjaro and is
+indicated at the same doses for chronic weight management. Endocrine Society
+guidelines for pharmacological management of obesity (2015) advise against off-
+label prescribing of medications such as GLP-1 receptor agonists for the sole
+purpose of producing weight loss.10 The American Gastroenterology Association
+guidelines for pharmacological interventions for adults with obesity only provide
+recommendations for the GLP-1 agonists approved for weight loss (i.e., Saxenda
+and Wegovy).11 The GLP-1 agonists and GLP-1/glucose-dependent insulinotropic
+3 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Glucagon-Like Peptide-1 Agonists Prior
+Authorization Policy
+polypeptide-1 agonist in this policy are not FDA-approved for weight loss in a
+patient who is overweight (body mass index [BMI] ≥ 27 kg/m2) or obese (BMI ≥
+30 kg/m2) without type 2 diabetes.
+Note: If the patient has type 2 diabetes, refer to FDA-Approved Indication.
+2. Type 1 Diabetes Mellitus. None of the GLP-1 agonists or GLP-1/ glucose-
+dependent insulinotropic polypeptide-1 agonist are indicated for patients with type
+1 diabetes.1-8 Addition of GLP-1 receptor agonists to insulin therapy resulted in
+small (0.2%) reductions in hemoglobin A among patients with type 1 diabetes
+1c
+compared with insulin alone.9
+3. Prediabetes/Diabetes Prevention. GLP-1 agonists and the GLP-1/ glucose-
+dependent insulinotropic polypeptide agonist are not indicated in a patient with
+elevated blood glucose who does not have type 2 diabetes. The American
+Diabetes Association Standards of Care (2025) recommend consideration of
+metformin for the prevention of type 2 diabetes in adults at high risk of type 2
+diabetes, and in individuals with prior gestational diabetes mellitus. First-line
+recommendations to prevent or delay type 2 diabetes are lifestyle and behavioral
+modification (e.g., nutrition, physical activity, sleep).9 Further, metformin has the
+longest history of safety data as a pharmacologic therapy for diabetes prevention.
+Note: If the patient has type 2 diabetes, refer to FDA-Approved Indication.
+4. Metabolic Syndrome. The GLP-1 agonists and the GLP-1/glucose-dependent
+insulinotropic polypeptide-1 agonist are not indicated in a patient with metabolic
+syndrome who does not have type 2 diabetes.
+Note: If the patient has type 2 diabetes, refer to FDA-Approved Indication.
+5. Concomitant Use with Glucagon-Like Peptide-1 (GLP-1) Agonists or GLP-
+1/ Glucose-Dependent Insulinotropic Polypeptide (GIP) Agonist. The
+GLP-1 agonists and the GLP-1/GIP agonist should not be combined with each other
+or with any other GLP-1 agonists or GLP-1/GIP agonist. There are other GLP-1
+and GLP-1/GIP products not included in this policy that are FDA-approved for
+weight loss and are not indicated for type 2 diabetes.
+Note: Examples of other GLP-1 agonists not included in this policy include but
+are not limited to Saxenda (liraglutide subcutaneous injection) and Wegovy
+(semaglutide subcutaneous injection). An example of a GLP-1/GIP agonist not
+included in this policy is Zepbound (tirzepatide subcutaneous injection).
+3 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Glucagon-Like Peptide-1 Agonists Prior
+Authorization Policy
+REFERENCES
+1. Adlyxin® subcutaneous injection [prescribing information]. Bridgewater, NJ: sanofi-aventis; May
+2025.
+2. Mounjaro® subcutaneous injection [prescribing information]. Indianapolis, IN: Lilly; May 2025.
+3. Bydureon BCise® subcutaneous injection [prescribing information]. Wilmington, DE: AstraZeneca;
+May 2025.
+4. Byetta® subcutaneous injection [prescribing information]. Wilmington, DE: AstraZeneca; May
+2025.
+5. Ozempic® subcutaneous injection [prescribing information]. Plainsboro, NJ: Novo Nordisk; January
+2025.
+6. Rybelsus® tablets [prescribing information]. Plainsboro, NJ: Novo Nordisk; December 2024.
+7. Trulicity® subcutaneous injection [prescribing information]. Indianapolis, IN: Lilly; May 2025.
+8. Victoza® subcutaneous injection [prescribing information]. Plainsboro, NJ: Novo Nordisk; May
+2025.
+9. American Diabetes Association. Standards of care in diabetes – 2025. Diabetes Care.
+2025;48(Suppl 1):S1-S352.
+10. Apovian CM, Aronne LJ, Bessesen DH, et al. Pharmacological management of obesity: An endocrine
+society clinical practice guideline. J Clin Endocrinol Metab. 2015;100(2):342-362.
+11. Grunvald E, Shah R, Hernaez R, et al. AGA clinical practice guideline on pharmacological
+interventions for adults with obesity. Gastroenterol. 2022;163:1198-1225.
+12. Samson SL, Vellanki P, Blonde L, et al. American Association of Clinical Endocrinology consensus
+statement: comprehensive type 2 diabetes management algorithm – 2023 update. Endocr Pract.
+2023;29:305-340.
+13. Kidney Diseases Improving Global Outcomes (KDIGO). KDIGO 2024 clinical practice guideline for
+the evaluation and management of chronic kidney disease. Kidney Int. 2024;105(4S):S117-S314.
+14. Gornik HL, Aronow HD, Goodney PP, et al. 2024
+ACC/AHA/AACVPR/APMA/ABC/SCAI/SVN/SVS/SIR/VESS guideline for the management of lower
+extremity peripheral arterial disease: a report of the American College of Cardiology/American
+Heart Association Joint Committee on clinical practice guidelines. Circulation. 2024;149(24):e1313-
+e1410.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Early Annual No criteria changes. 10/25/2023
+Revision
+Early Annual Bydureon: This product was removed from the policy (obsolete). 06/05/2024
+Revision Mounjaro: This product was added to the policy (previously a stand-
+alone policy).
+Automation: Existing automation for Mounjaro was added to the
+policy. A claim for Mounjaro will adjudicate if the patient meets the
+lookback for one oral medication for diabetes (not including Rybelsus
+or single-entity metformin) and if the patient is < 18 years of age. If
+one of these conditions is not met, the PA criteria will apply. Bydureon
+was removed from the automation (obsolete).
+Policy Statement: The policy statement was updated to include that
+Zepbound (tirzepatide subcutaneous injection) is not indicated for the
+treatment of diabetes and is not targeted in the policy.
+Type 2 Diabetes Mellitus: Existing criteria for Mounjaro was added
+to this approvable indication. Mounjaro is approved if the patient is ≥
+18 years of age. Bydureon was removed (obsolete).
+Concomitant Use with Glucagon-Like Peptide-1 (GLP-1)
+Agonists or GLP-1/ Glucose-Dependent Insulinotropic
+Polypeptide (GIP) Agonist: This criterion was added to Conditions
+Not Covered
+.
+3 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Glucagon-Like Peptide-1 Agonists Prior
+Authorization Policy
+Selected The following changes are effective 01/01/2025: 09/18/2025
+Revision Liraglutide (authorized generic to Victoza) was added to the policy. (effective
+Automation: Liraglutide (authorized generic to Victoza) was added 01/01/2025)
+to automation. A claim for liraglutide (authorized generic to Victoza)
+will adjudicate if the patient meets the lookback for one oral
+medication for diabetes (not including Rybelsus or single-entity
+metformin) and if the patient is ≥ 10 years of age. If one of these
+conditions is not met, the PA criteria will apply.
+Type 2 Diabetes Mellitus: Liraglutide (authorized generic to
+Victoza) was added to the list of agents that may be approved if the
+patient is ≥ 10 years of age.
+Selected Reference to the “authorized generic for Victoza” was removed. The 01/29/2025
+Revision authorized generic to Victoza is now a true generic, additionally
+another true generic to Victoza is available.
+Automation: “Authorized generic to Victoza” was removed from the
+automation language for liraglutide. The automation that was
+previously applied remains the same.
+Type 2 Diabetes Mellitus: “Authorized generic to Victoza” was
+removed from criteria for liraglutide.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Selected Exenatide (generic to Byetta) was added to the policy. 05/21/2025
+Revision Automation: Exenatide (generic to Byetta) was added to
+automation. A claim for exenatide (generic to Byetta) will adjudicate
+if the patient meets the lookback for one oral medication for diabetes
+(not including Rybelsus or single-entity metformin) and if the patient
+is ≥ 18 years of age. If one of these conditions is not met, the PA
+criteria will apply.
+Type 2 Diabetes Mellitus: Exenatide (generic to Byetta) was added
+to the list of agents that may be approved if the patient is ≥ 18 years
+of age.
+Annual No criteria changes 06/11/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and
+services are provided exclusively by or through such operating subsidiaries, including Cigna
+Health and Life Insurance Company, Connecticut General Life Insurance Company,
+Evernorth Behavioral Health, Inc., Cigna Health Management, Inc., and HMO or service
+company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Diabetes – Glucagon-Like Peptide-1 Agonists Prior
+Authorization Policy

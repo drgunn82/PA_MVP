@@ -1,0 +1,183 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER RX
+POLICY: Hepatology – Bylvay Drug Quantity Management Policy – Per Rx
+• Bylvay® (odevixibat capsules and oral pellets − Albireo)
+REVIEW DATE: 09/24/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Bylvay, an ileal bile acid transporter (IBAT) inhibitor, is indicated for the treatment
+of:
+• Pruritus in patients ≥ 3 months of age with progressive familial
+intrahepatic cholestasis (PFIC).1
+• Cholestatic pruritus in patients ≥ 12 months of age with Alagille syndrome
+(ALGS).1
+Dosing
+The recommended dosage of Bylvay for PFIC is 40 mcg/kg once daily (QD) in the
+morning with a meal.1 If there is no improvement in pruritus after 3 months, the
+dosage may be increased in 40 mcg/kg increments up to 120 mcg/kg QD, not to
+exceed a total daily dose of 6 mg QD. The recommended dosage of Bylvay for
+ALGS is 120 mcg/kg QD in the morning with a meal. Table 1 below shows the
+recommended weight-based total daily doses needed for the recommended dose.
+Page 1 of 5 - Cigna National Formulary Coverage - Policy:Hepatology – Bylvay Drug Quantity Management Policy
+– Per Rx
+Table 1. Recommended Weight-Based Total Daily Dosage.
+Body Weight ALGS* or PFIC PFIC ALGS or PFIC
+(kg) Total Daily Dose Total Daily Dose Total Daily Dose
+40 mcg/kg 80 mcg/kg 120 mcg/kg
+≤ 7.4 kg 200 mcg 400 mcg 600 mcg
+(1 x 200 mcg pellet) (2 x 200 mcg pellets) (3 x 200 mcg pellets OR
+1 x 600 mcg pellets)
+7.5 kg to 12.4 kg 400 mcg 800 mcg 1,200 mcg
+(2 x 200 mcg pellets) (4 x 200 mcg pellets) (6 x 200 mcg pellets OR
+2 x 600 mcg pellets)
+12.5 kg to 17.4 600mcg 1,200 mcg 1,800 mcg
+kg (3 x 200 mcg pellets OR (6 x 200 mcg pellets OR (9 x 200 mcg pellets OR
+1 x 600 mcg pellets) 2 x 600 mcg pellets) 3 x 600 mcg pellets)
+17.5 kg to 19.4 800 mcg 1,600 mcg 2,400 mcg
+kg (4 x 200 mcg pellets OR (8 x 200 mcg pellets OR (4 x 600 mcg pellets OR
+2 x 400 mcg capsules) 4 x 400 mcg capsules) 2 x 1,200 mcg capsules)
+19.5 kg to 25.4 800 mcg 1,600 mcg 2,400 mcg
+kg (2 x 400 mcg capsules) (4 x 400 mcg capsules) (2 x 1,200 mcg capsules)
+25.5 kg to 35.4 1,200 mcg 2,400 mcg 3,600 mcg
+kg (1 x 1,200 mcg capsule) (2 x 1,200 mcg capsules) (3 x 1,200 mcg capsules)
+35.5 kg to 45.4 1,600 mcg 3,200 mcg 4,800 mcg
+kg (4 x 400 mcg capsules) (8 x 400 mcg capsules) (4 x 1,200 mcg capsules)
+45.5 kg to 55.4 2,000 mcg 4,000 mcg 6,000 mcg
+kg (5 x 400 mcg capsules) (10 x 400 mcg capsules) (5 x 1,200 mcg capsules)
+≥ 55.5 kg 2,400 mcg 4,800 mcg PFIC
+(2 x 1,200 mcg capsules) (4 x 1,200 mcg capsules) 6,000 mcg
+(5 x 1,200 mcg capsules)
+ALGS
+7,200 mcg
+(6 x 1,200 mcg capsules)
+* Dose modification to manage adverse events.
+Availability
+Bylvay is available as a 400 mg and 1,200 mg capsules and 200 mg and 600 mg
+pellets in dispensing capsules.1 All dosage forms are supplied in bottles of 30
+capsules or pellets.
+Bylvay oral pellets are intended for use by patients < 19.5 kg.1 The capsules are
+intended for use by patients weighing ≥ 19.5 kg.
+The oral pellets should be placed in a small amount of food (up to 30 mL [2
+tablespoons] of apple sauce, oatmeal, banana or carrot puree, chocolate or rice
+pudding) and gently mixed until well dispersed.1 The oral capsules can either be
+swallowed whole with a glass of water, or may be opened, and sprinkled and mixed
+with a small amount of soft food.
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the dose
+consolidation, prevent stockpiling and waste, and address potential order entry
+error of Bylvay. If the Drug Quantity Management rule is not met for the requested
+5 Pages - Cigna National Formulary Coverage - Policy:Hepatology – Bylvay Drug Quantity Management Policy –
+Per Rx
+medication at the point of service, coverage will be determined by the Criteria
+below. All approvals are provided for 1 year in duration.
+Drug Quantity Limits
+Product Strength and Form Retail Home Delivery
+Maximum Maximum
+Quantity Quantity per
+per Rx Rx
+Bylvay® 200 mcg oral pellets (in dispensing 120 oral pellets 360 oral pellets
+(odevixibat capsules)
+capsules and 400 mcg capsules 150 capsules 450 capsules
+oral pellets) 600 mcg oral pellets (in dispensing 30 oral pellets 90 oral pellets
+capsules)
+1,200 mcg capsules 60 capsules 180 capsules
+Hepatology – Bylvay Drug Quantity Management Policy – Per Rx product(s)
+is(are) covered as medically necessary when the following criteria is(are)
+met. Any other exception is considered not medically necessary.
+CRITERIA
+Bylvay 200 mcg oral pellets (in dispensing capsules)
+1. If the patient’s daily dose is 80 mcg/kg/day and the patient weighs < 19.5 kg,
+approve the requested quantity not to exceed 240 oral pellets (in dispensing
+capsules) per dispensing at retail or 720 oral pellets (in dispensing capsules) per
+dispensing at home delivery.
+Note: This is a quantity sufficient for 80 mcg/kg/day dosing in patients who
+weigh < 19.5 kg and require a 1,600 mcg daily dose. For patients who weigh ≥
+19.5 kg and require a dose of 80 mcg/kg/day refer the patient to the 400 mcg
+capsules or 1,200 mcg capsules.
+2. If the patient’s daily dose is 120 mcg/kg/day and the patient weighs < 17.5 kg,
+approve the requested quantity not to exceed 270 oral pellets (in dispensing
+capsules) per dispensing at retail or 810 oral pellets (in dispensing capsules) per
+dispensing at home delivery.
+Note: This is a quantity sufficient for 120 mcg/kg/day per day dosing in patients
+who weigh < 17.5 kg and require an 1,800 mcg daily dose. For patients who
+weigh ≥ 17.5 kg and require a dose of 120 mcg/kg/day, refer the patient to the
+600 mcg pellets (in dispensing capsules) [weight ≥ 17.5 kg to < 19.5 kg] or
+1,200 mcg capsules (weight ≥ 19.5 kg).
+Bylvay 600 mcg oral pellets (in dispensing capsules)
+1. If the patient’s daily dose is 80 mcg/kg/day and the patient weighs < 17.5 kg,
+approve the requested quantity not to exceed 60 oral pellets (in dispensing
+capsules) per dispensing at retail or 180 oral pellets (in dispensing capsules) per
+dispensing at home delivery.
+5 Pages - Cigna National Formulary Coverage - Policy:Hepatology – Bylvay Drug Quantity Management Policy –
+Per Rx
+Note: This is a quantity sufficient for 80 mcg/kg/day dosing in patients who
+weigh < 17.5 kg and require a 1,200 mcg daily dose. For patients who weigh ≥
+17.5 kg and require a dose a dose of 80 mcg/kg/day, refer the patient to the
+200 mcg pellets (in dispensing capsules) [weight ≥ 17.5 kg to < 19.5 kg] or 400
+mcg capsules or 1,200 mcg capsules (weight ≥ 19.5 kg).
+2. If the patient’s daily dose is 120 mcg/kg/day and the patient weighs < 19.5 kg,
+approve the requested quantity not to exceed 120 oral pellets (in dispensing
+capsules) per dispensing at retail or 360 oral pellets (in dispensing capsules) per
+dispensing at home delivery.
+Note: This is a quantity sufficient for 120 mcg/kg/day dosing in patients who
+weigh < 19.5 kg and require a 2,400 mcg daily dose. For patients who weigh ≥
+19.5 kg and require a dose of 120 mcg/kg/day, refer the patient to the 1,200
+mcg capsules.
+Bylvay 400 mcg capsules
+1. If the patient’s daily dose is 80 mcg/kg/day and the patient weighs ≥ 19.5 kg,
+approve the requested quantity not to exceed 300 capsules per dispensing at
+retail or 900 capsules per dispensing at home delivery.
+Note: This is a quantity sufficient for 80 mcg/kg/day dosing up to a 4,000 mcg
+daily dose. For doses ≥ 4,000 mcg/day, refer the patient to the 1,200 mcg
+capsules.
+Bylvay 1,200 mcg capsules
+1. If the patient’s daily dose is 80 mcg/kg/day and the patient weighs ≥ 19.5 kg,
+approve the requested quantity not to exceed 120 capsules per dispensing at
+retail or 360 capsules per dispensing at home delivery.
+Note: This is a quantity sufficient for 80 mcg/kg/day dosing up to a 4,800 mcg
+daily dose.
+2. If the patient’s daily dose is 120 mcg/kg/day and the patient weighs ≥ 17.5 kg,
+approve the requested quantity not to exceed 180 capsules per dispensing at
+retail or 540 capsules per dispensing at home delivery.
+Note: This is a quantity sufficient for 120 mcg/kg per day up to the maximum
+daily dose of 7,200 mcg.
+REFERENCES
+1. Bylvay™ capsules and oral pellets [prescribing information]. Boston, MA: Albireo; June 2023.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Bylvay 1,200 mcg capsules: Criteria for patients taking a dose of 09/20/2023
+Revision 120 mcg/kg/day and weighing ≥ 17.5 kg were updated to approve
+the requested quantity, not to exceed 180 capsules per dispensing at
+retail or 540 capsules per dispensing at home delivery. Previously,
+5 Pages - Cigna National Formulary Coverage - Policy:Hepatology – Bylvay Drug Quantity Management Policy –
+Per Rx
+criteria approved for a quantity not to exceed 150 capsules per
+dispensing at retail or 450 capsules per dispensing at home delivery.
+Annual No criteria changes. 09/24/2024
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. ©
+2024 The Cigna Group.
+5 Pages - Cigna National Formulary Coverage - Policy:Hepatology – Bylvay Drug Quantity Management Policy –
+Per Rx

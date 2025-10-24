@@ -1,0 +1,120 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1385-4
+Program Prior Authorization/Notification
+Medication Vonjo (pacritinib)
+P&T Approval Date 5/2022, 7/2022, 7/2023, 7/2024
+Effective Date 10/1/2024
+1. Background:
+Vonjo (pacritinib) is a kinase inhibitor indicated for the treatment of adults with intermediate or
+high-risk primary or secondary (post-polycythemia vera or post-essential thrombocythemia)
+myelofibrosis (MF) with a platelet count below 50 × 109/L.
+The National Cancer Comprehensive Network (NCCN) recommends Vonjo in higher-risk MF
+if not a transplant candidate and platelets <50 × 109/L or platelets ≥50 x 109/L with presence of
+symptomatic splenomegaly and/or constitutional symptoms with or without a response or loss
+of response to one prior Janus kinase (JAK) inhibitor. NCCN also recommends Vonjo for the
+treatment of symptomatic lower-risk MF and platelets <50 × 109/L with or without a response
+or loss of response to ruxolitinib, peginterferon alfa-2a, momelotinib, or hydroxyurea. NCCN
+also recommends Vonjo in MF-associated anemia, and in accelerated/blast phase
+myeloproliferative neoplasms as conditioning therapy in transplant candidates for the
+improvement of splenomegaly and other disease-related symptoms, and as palliation of
+splenomegaly or other disease-related symptoms in combination with hypomethylating agents
+as bridging therapy prior to transplant, or if not a candidate for transplant.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Vonjo will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Myelofibrosis (MF)
+1. Initial Authorization
+© 2024 UnitedHealthcare Services, Inc.
+1
+a. Vonjo will be approved based on both of the following criteria:
+(1) One of the following diagnosis:
+(a) Primary myelofibrosis
+-OR-
+(b) Post-polycythemia vera myelofibrosis
+-OR-
+(c) Post-essential thrombocythemia myelofibrosis
+-OR-
+(d) Accelerated/blast phase myeloproliferative neoplasm
+-AND-
+(2) One of the following:
+(a) Both of the following:
+i. Patient has symptomatic lower-risk myelofibrosis
+-AND-
+ii. Patient has a platelet count < 50 x 109/L
+-OR-
+(b) All of the following:
+i. Patient has higher-risk myelofibrosis
+-AND-
+ii. Patient is not a transplant candidate or transplant not currently feasible
+-AND-
+iii. One of the following:
+• Patient has a platelet count < 50 x 109/L
+-OR-
+• Both of the following:
+© 2024 UnitedHealthcare Services, Inc.
+2
+Patient has symptomatic splenomegaly and/or constitutional
+o
+symptoms
+Patient has a platelet count ≥ 50 x 109/L
+o
+-OR-
+(c) Used for treatment of myelofibrosis-associated anemia
+-OR-
+(d) Used for splenomegaly and other disease-related symptoms in one of the
+following:
+i. Continued near the start of conditioning therapy of transplant candidates
+ii. Palliation in combination with hypomethylating agents (azacitidine or
+decitabine) as bridging therapy prior to transplant, or if not a candidate for
+transplant
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Vonjo will be approved based on the following criterion:
+(1) Documentation that patient has evidence of symptom improvement or
+reduction in spleen volume while on Vonjo
+Authorization will be issued for 12 months.
+C. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category
+of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+© 2024 UnitedHealthcare Services, Inc.
+3
+4. References:
+1. Vonjo [package insert]. Seattle, WA: CTI BioPharma Corp.; February 2022.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+https://www.nccn.org/professionals/drug_compendium/content/. Accessed May 28, 2024.
+Program Prior Authorization/Notification – Vonjo (pacritinib)
+Change Control
+5/2022 New program
+7/2022 Updated background with NCCN recommendations. Updated criteria to
+include that patient is not a transplant candidate. Added coverage
+criteria for platelets > 50 x 109/L and lower-risk MF. Added reference.
+7/2023 Annual review. Updated Myelofibrosis background and criteria per
+NCCN guidelines. Added state mandate footnote.
+7/2024 Annual review. Added accelerated/blast phase myeloproliferative
+neoplasm to list of MF subtypes. Updated criteria for low- and high-risk
+MF, MF-associated anemia, and splenomegaly and other disease-related
+symptoms per NCCN guidelines. Updated approval durations to 12
+months. Updated background.
+© 2024 UnitedHealthcare Services, Inc.
+4

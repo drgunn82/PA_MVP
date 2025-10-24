@@ -1,0 +1,87 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2282-4
+Program Prior Authorization/Medical Necessity
+Medication Radicava ORS® (edaravone)
+P&T Approval Date 7/2022, 7/2023, 7/2024, 3/2025
+Effective Date 6/1/2025
+1. Background:
+Radicava ORS® is indicated for the treatment of amyotrophic lateral sclerosis (ALS).1
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Radicava ORS will be approved based on one of the following criteria:
+a. Both of the following criteria:
+(1) Patient has been established on therapy with edaravone for amyotrophic lateral
+sclerosis under an active UnitedHealthcare medical benefit prior authorization
+-AND-
+(2) All of the following:
+(a) Diagnosis of ALS
+(b) Prescribed by, or in consultation with, a neurologist with expertise in the
+diagnosis of ALS
+(c) Patient is currently receiving edaravone therapy
+(d) Patient is not dependent on invasive ventilation
+-OR-
+b. All of the following criteria:
+(1) Submission of medical records (e.g., chart notes, previous medical history,
+diagnostic testing including: imaging, nerve conduction studies, laboratory
+values) to support the diagnosis of ALS
+-AND-
+(2) Prescribed by, or in consultation with, a neurologist with expertise in the
+diagnosis of ALS
+-AND-
+(3) Submission of the most recent ALS Functional Rating Scale-Revised
+© 2025 UnitedHealthcare Services, Inc.
+1
+(ALSFRS-R) score confirming that the patient has scores ≥ 2 in all items of the
+ALSFRS-R criteria at the start of treatment
+-AND-
+(4) Submission of medical records (e.g., chart notes, laboratory values) confirming
+that the patient has a % forced vital capacity (%FVC) ≥ 80% at the start of
+treatment
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Radicava ORS will be approved based on all of the following criteria:
+a. Diagnosis of ALS
+-AND-
+b. Prescribed by, or in consultation with, a neurologist with expertise in the diagnosis
+of ALS
+-AND-
+c. Patient is currently receiving Radicava ORS therapy
+-AND-
+d. Patient is not dependent on invasive ventilation
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Radicava ORS [package insert]. Jersey City, NJ: Mitsubishi Tanabe Pharma Corporation.
+November 2022.
+2. Subcommittee on Motor Neuron Diseases of World Federation of Neurology Research Group on
+Neuromuscular Diseases, El Escorial “Clinical Limits of ALS” Workshop Contributors. El
+© 2025 UnitedHealthcare Services, Inc.
+2
+Escorial World Federation of Neurology criteria for the diagnosis of amyotrophic lateral
+sclerosis. J Neurol Sci 1994; 124: 96–107.
+3. Takahashi F, Takei K, Tsuda K, Palumbo J. Post-hoc analysis of MCI186-17, the extension study
+to MCI186-16, the confirmatory double-blind, parallel-group, placebo-control006Ced study of
+edaravone in amyotrophic lateral sclerosis. Amyotrophic Lateral Sclerosis and Frontotemporal
+Degeneration. 2017;18(sup1):32-39.
+Program Prior Authorization/Medical Necessity – Radicava ORS® (edaravone)
+Change Control
+7/2022 New program.
+7/2023 Annual review with no changes to the coverage criteria.
+7/2024 Annual review. Clarified criteria for existing prior authorization for
+under the medical benefit. Updated initial authorization and
+reauthorization to 12 months.
+3/2025 Updated reference to Radicava IV to reflect that edaravone IV is
+available generically. Simplified diagnosis requirement. Updated
+invasive ventilation requirement with no change to clinical intent.
+Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+3

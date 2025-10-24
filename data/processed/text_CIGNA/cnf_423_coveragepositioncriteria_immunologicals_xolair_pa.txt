@@ -1,0 +1,524 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Immunologicals − Xolair Prior Authorization Policy
+• Xolair® (omalizumab subcutaneous injection − Genentech/Novartis)
+REVIEW DATE: 04/23/2025; selected revision 08/06/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Xolair, an anti-immunoglobulin (Ig)E monoclonal antibody, is indicated for the
+following uses:1
+• Asthma, in patients ≥ 6 years of age with moderate to severe persistent
+disease who have a positive skin test or in vitro reactivity to a perennial
+aeroallergen and whose symptoms are inadequately controlled with inhaled
+corticosteroids (ICSs). Xolair has been shown to decrease the incidence of
+asthma exacerbations in these patients. Limitations of Use: Xolair is not
+indicated for the relief of acute bronchospasm or status asthmaticus. It is also
+not indicated for the treatment of other allergic conditions.
+• Chronic rhinosinusitis with nasal polyps (CRSwNP), as add-on
+maintenance treatment in patients ≥ 18 years of age with an inadequate
+response to nasal corticosteroids.
+Page 1 of 13 - Cigna National Formulary Coverage - Policy: Immunologicals ( Xolair Prior Authorization Policy
+• Chronic spontaneous urticaria, in patients ≥ 12 years of age who remain
+symptomatic despite H antihistamine treatment. Limitation of Use: Xolair is
+1
+not indicated for the treatment of other forms of urticaria.
+• IgE-mediated food allergy, in patients ≥ 1 year of age, for the reduction of
+allergic reactions (Type I), including anaphylaxis, that may occur with
+accidental exposure to one or more foods. Xolair is to be used in conjunction
+with food allergen avoidance. Limitation of Use: Xolair is not indicated for the
+emergency treatment of allergic reactions, including anaphylaxis.
+Dosing of Xolair for the treatment of asthma or nasal polyps is based on body weight
+and the serum total IgE level measured before the start of treatment.1 Dosing for
+these indications is only provided for patients with a pretreatment serum IgE level ≥
+30 IU/mL. Dosing of Xolair in patients with chronic idiopathic urticaria is not
+dependent on serum IgE level or body weight.
+Clinical Efficacy
+Timing of efficacy assessments varied by indication across the numerous pivotal
+studies in which Xolair demonstrated benefit. In the majority of the asthma trials,
+efficacy with Xolair was assessed as early as 16 weeks.1-11 In chronic spontaneous
+urticaria, one of the studies included a 12-week double-blind treatment period, while
+the other was longer with 24 weeks of double-blind treatment.12,13 Across both
+studies evaluating Xolair in nasal polyps, efficacy was evaluated at Week 24.14
+Patients continued treatment with intranasal corticosteroids throughout the study.
+In the pivotal study of Xolair for food allergy, patients were required to have a positive
+skin prick test response to a food and to have a positive IgE test (blood test) to
+food.15 Patients were provided with an epinephrine auto-injector throughout the
+study.
+Guidelines
+Asthma Guidelines
+The Global Initiative for Asthma Global Strategy for Asthma Management and
+Prevention (2025) proposes a step-wise approach to asthma treatment.16 Xolair is
+listed as an option for add-on therapy in patients ≥ 6 years of age with severe allergic
+asthma. Severe asthma is defined as asthma that is uncontrolled despite adherence
+to optimized high-dose ICS/long-acting beta -agonist (LABA) therapy or that worsens
+2
+when high-dose treatment is decreased. Allergy-driven symptoms and childhood-
+onset asthma may predict a good asthma response to Xolair.
+According to the European Respiratory Society/American Thoracic Society guidelines
+(2014; updated in 2020), severe asthma is defined as asthma which requires
+treatment with a high-dose ICS in addition to a second controller medication (and/or
+systemic corticosteroids) to prevent it from becoming uncontrolled, or asthma which
+remains uncontrolled despite this therapy.17,18 Uncontrolled asthma is defined as
+asthma that worsens upon tapering of high-dose ICS or systemic corticosteroids or
+asthma that meets one of the following four criteria:
+1) Poor symptom control: Asthma Control Questionnaire consistently ≥ 1.5 or
+Asthma Control Test < 20;
+9 Pages - Cigna National Formulary Coverage - Policy:Immunologicals ( Xolair Prior Authorization Policy
+2) Frequent severe exacerbations: two or more bursts of systemic corticosteroids
+in the previous year;
+3) Serious exacerbations: at least one hospitalization, intensive care unit stay,
+or mechanical ventilation in the previous year;
+4) Airflow limitation: forced expiratory volume in 1 second (FEV ) < 80%
+1
+predicted after appropriate bronchodilator withholding.
+Chronic Rhinosinusitis with Nasal Polyps Guidelines
+The Joint Task Force on Practice Parameters (JTFPP) published a focused guideline
+update for the medical management of CRSwNP (2023), which updated
+recommendations regarding intranasal corticosteroids and biologic therapies.20
+Intranasal corticosteroids are recommended for the treatment of CRSwNP. Use of
+biologics (e.g., Xolair) are also recommended. However, in patients who derived a
+sufficient benefit from other therapies such as intranasal corticosteroids, surgery, or
+aspirin therapy after desensitization, biologics may not be preferred. Conversely,
+biologics may be preferred over other medical treatment options in patients who
+continue to have a high burden of disease despite receiving at least 4 weeks of
+treatment with an intranasal corticosteroid.
+The diagnosis of CRSwNP was not addressed in this focused guideline update.
+Previous guidelines have noted that the presence of two or more signs and symptoms
+of chronic rhinosinusitis (e.g., rhinorrhea, postnasal drainage, anosmia, nasal
+congestion, facial pain, headache, fever, cough, and purulent discharge) that persist
+for an extended period of time makes the diagnosis of chronic rhinosinusitis likely.21-
+24 However, this requires confirmation of sinonasal inflammation, which can either
+be done via direct visualization or computed tomography (CT) scan. Oral
+corticosteroids and surgical intervention were not specifically addressed in this
+update. Prior guidelines recommend short courses of oral corticosteroid as needed
+and consideration of surgical removal as an adjunct to medical therapy in patients
+with CRSwNP that is not responsive or is poorly responsive to medical therapy.21,22,24
+Chronic Spontaneous Urticaria Guidelines
+Guidelines for the definition, classification, diagnosis, and management of urticaria
+have been published by the European Academy of Allergy and Clinical
+Immunology/Global Allergy and Asthma European Network/European Dermatology
+Forum/Asia Pacific Association of Allergy, Asthma and Clinical Immunology (2022).19
+The American Academy of Dermatology was involved in the development of these
+guidelines and endorses their recommendations. Chronic spontaneous urticaria is
+defined as the appearance of wheals, angioedema, or both for > 6 weeks due to
+known or unknown causes. Signs and symptoms may be present daily/almost daily
+or have an intermittent recurrent course. Second generation H -antihistamines taken
+1
+regularly are the recommended first-line treatment for all types of urticaria following
+elimination of possible underlying causes. If standard doses do not eliminate urticaria
+signs and symptoms, the dose of the antihistamine should be increased up to 4-fold.
+If symptoms persist following 2 to 4 weeks of antihistamine therapy, the addition of
+Xolair may be considered. For patients with refractory chronic urticaria, the addition
+of Xolair may be considered. Short courses of rescue systemic corticosteroids are
+9 Pages - Cigna National Formulary Coverage - Policy:Immunologicals ( Xolair Prior Authorization Policy
+recommended for treatment of patients with acute exacerbations of chronic urticaria.
+However, guidelines recommend against the long-term use of systemic steroids.
+Food Allergy Guidelines
+Consensus-based guidance on the use and implementation of Xolair as food allergy
+treatment from the American Academy of Allergy, Asthma, and Immunology Adverse
+Reactions to Foods Committee (2025) note that Xolair is a potential treatment option
+which can be offered to patients with one or more IgE-mediated food allergies.25 All
+candidates for Xolair therapy for food allergy should have a total IgE level that allows
+for Xolair dosing (i.e., > 30 to < 1,850 IU/mL). It is also recommended that patients
+have evidence of sensitization determined via either (or both) a positive food-specific
+skin prick test or measurement of a serum-specific IgE level to a food that would
+indicate a high likelihood of having an IgE-mediated reaction within the context of
+the patient’s history. Both skin testing and specific IgE testing are not required as
+long as sensitization can be documented to one or more foods.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Xolair. All
+approvals are provided for the duration noted below. In cases where approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Xolair, as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Xolair to be prescribed by or in consultation with a physician who specializes in the
+condition being treated.
+• Xolair® (omalizumab subcutaneous injection - Genentech/Novartis)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Asthma. Approve Xolair for the duration noted if the patient meets ONE of the
+following (A or B):
+A) Initial Therapy. Approve for 4 months if the patient meets ALL of the
+following (i, ii, iii, iv, v, and vi):
+i. Patient is ≥ 6 years of age; AND
+ii. Patient has a baseline immunoglobulin E (IgE) level ≥ 30 IU/mL; AND
+Note: “Baseline” is defined as prior to receiving any treatment with Xolair
+or another monoclonal antibody therapy that may lower IgE levels (e.g.,
+Dupixent [dupilumab subcutaneous injection], Tezspire [tezepelumab-
+ekko subcutaneous injection]).
+9 Pages - Cigna National Formulary Coverage - Policy:Immunologicals ( Xolair Prior Authorization Policy
+iii. Patient has a baseline positive skin test or in vitro test (i.e., a blood test)
+for allergen-specific immunoglobulin E (IgE) for one or more perennial
+aeroallergens and/or for one or more seasonal aeroallergens; AND
+Note: “Baseline” is defined as prior to receiving any Xolair or another
+monoclonal antibody therapy that may interfere with allergen testing
+(e.g., Dupixent and Tezspire). Examples of perennial aeroallergens are
+house dust mite, animal dander, cockroach, feathers, and mold spores.
+Examples of seasonal aeroallergens are grass, pollen, and weeds.
+iv. Patient has received at least 3 consecutive months of combination therapy
+with BOTH of the following (a and b):
+a) An inhaled corticosteroid; AND
+b) At least one additional asthma controller or asthma maintenance
+medication; AND
+Note: Examples of additional asthma controller or asthma
+maintenance medications are inhaled long-acting beta -agonists,
+2
+inhaled long-acting muscarinic antagonists, and monoclonal antibody
+therapies for asthma (e.g., Xolair, Cinqair [reslizumab intravenous
+infusion], Dupixent, Fasenra [benralizumab subcutaneous injection],
+Nucala [mepolizumab subcutaneous injection], and Tezspire. Use of a
+combination inhaler containing both an inhaled corticosteroid and
+additional asthma controller/maintenance medication(s) would fulfil
+the requirement for both criteria a and b.
+v. Patient has asthma that is uncontrolled or was uncontrolled at baseline as
+defined by ONE of the following (a, b, c, d, or e):
+Note: “Baseline” is defined as prior to receiving Xolair or another
+monoclonal antibody therapy for asthma. Examples of monoclonal
+antibody therapies for asthma include Cinqair, Dupixent, Fasenra, Nucala,
+Tezspire, and Xolair.
+a) Patient experienced two or more asthma exacerbations requiring
+treatment with systemic corticosteroids in the previous year; OR
+b) Patient experienced one or more asthma exacerbation(s) requiring a
+hospitalization, an emergency department visit, or an urgent care visit
+in the previous year; OR
+c) Patient has a forced expiratory volume in 1 second (FEV ) < 80%
+1
+predicted; OR
+d) Patient has an FEV /forced vital capacity (FVC) < 0.80; OR
+1
+e) Patient has asthma that worsens upon tapering of oral corticosteroid
+therapy; AND
+vi. The medication is prescribed by or in consultation with an allergist,
+immunologist, or pulmonologist; OR
+B) Patient is Currently Receiving Xolair. Approve Xolair for 1 year if the patient
+meets ALL of the following (i, ii, and iii):
+i. Patient has already received at least 4 months of therapy with Xolair;
+AND
+Note: A patient who has received < 4 months of therapy or who is
+restarting therapy with Xolair should be considered under criterion 1A
+(Asthma, Initial Therapy).
+9 Pages - Cigna National Formulary Coverage - Policy:Immunologicals ( Xolair Prior Authorization Policy
+ii. Patient continues to receive therapy with one inhaled corticosteroid or one
+inhaled corticosteroid-containing combination inhaler; AND
+iii. Patient has responded to therapy as determined by the prescriber.
+Note: Examples of a response to Xolair therapy are decreased asthma
+exacerbations; decreased asthma symptoms; decreased hospitalizations,
+emergency department, urgent care, or medical clinic visits due to
+asthma; decreased reliever/rescue medication use; and improved lung
+function parameters.
+2. Chronic Rhinosinusitis with Nasal Polyps. Approve Xolair for the duration
+noted if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the
+following (i, ii, iii, iv, v, vi, and vii):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has chronic rhinosinusitis with nasal polyps as evidenced by direct
+examination, endoscopy, or sinus computed tomography (CT) scan; AND
+iii. Patient has experienced two or more of the following symptoms for at
+least 6 months: nasal congestion, nasal obstruction, nasal discharge,
+and/or reduction/loss of smell; AND
+iv. Patient has a baseline immunoglobulin E (IgE) level ≥ 30 IU/mL; AND
+Note: “Baseline” is defined as prior to receiving any treatment with Xolair
+or another monoclonal antibody therapy that may lower IgE levels (e.g.,
+Dupixent [dupilumab subcutaneous injection], Tezspire [tezepelumab-
+ekko subcutaneous injection]).
+v. Patient meets BOTH of the following (a and b):
+a) Patient has received at least 4 weeks of therapy with an intranasal
+corticosteroid; AND
+b) Patient will continue to receive therapy with an intranasal
+corticosteroid concomitantly with Xolair; AND
+vi. Patient meets ONE of the following (a, b, or c):
+a) Patient has received at least one course of treatment with a systemic
+corticosteroid for 5 days or more within the previous 2 years; OR
+b) Patient has a contraindication to systemic corticosteroid therapy; OR
+c) Patient has had prior surgery for nasal polyps; AND
+vii. The medication is prescribed by or in consultation with an allergist,
+immunologist, or an otolaryngologist (ear, nose, and throat [ENT]
+physician specialist); OR
+B) Patient is currently receiving Xolair. Approve for 1 year if the patient meets
+ALL of the following (i, ii, and iii):
+i. Patient has already received at least 6 months of therapy with Xolair;
+AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with Xolair should be considered under criterion 2A
+(Nasal Polyps, Initial Therapy).
+ii. Patient continues to receive therapy with an intranasal corticosteroid;
+AND
+iii. Patient has responded to Xolair therapy as determined by the prescriber.
+9 Pages - Cigna National Formulary Coverage - Policy:Immunologicals ( Xolair Prior Authorization Policy
+Note: Examples of a response to Xolair therapy are reduced nasal polyp
+size, improved nasal congestion, reduced sinus opacification, decreased
+sino-nasal symptoms, and/or improved sense of smell.
+3. Chronic Spontaneous Urticaria (Chronic Idiopathic Urticaria). Approve
+Xolair for the duration noted if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the
+following (i, ii, and iii):
+i. Patient is ≥ 12 years of age; AND
+ii. Patient has/had urticaria for > 6 weeks (prior to treatment with Xolair),
+with symptoms present > 3 days per week despite daily non-sedating H
+1
+antihistamine therapy with doses that have been titrated up to a
+maximum of four times the standard FDA-approved dose; AND
+Note: Examples of non-sedating H antihistamine therapy are cetirizine,
+1
+desloratadine, fexofenadine, levocetirizine, and loratadine.
+iii. The medication is prescribed by or in consultation with an allergist,
+immunologist, or dermatologist; OR
+B) Patient is Currently Receiving Xolair. Approve Xolair for 1 year if the patient
+meets BOTH of the following (i and ii):
+i. Patient has already received at least 6 months of therapy with Xolair;
+AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy with Xolair should be considered under criterion 3A
+(Chronic Spontaneous Urticaria, Initial Therapy).
+ii. Patient has experienced a beneficial clinical response, defined by ONE of
+the following (a, b, or c):
+a) Decreased itch severity; OR
+b) Decreased number of hives; OR
+c) Decreased size of hives.
+4. Immunoglobulin (Ig)E-Mediated Food Allergy. Approve Xolair for 1 year if
+the patient meets ALL of the following (A, B, C, D, E, F, and G):
+A) Patient is ≥ 1 year of age; AND
+B) Patient has a baseline immunoglobulin (Ig)E level ≥ 30 IU/mL; AND
+Note: “Baseline” is defined as prior to receiving any treatment with Xolair or
+another monoclonal antibody therapy that may lower IgE levels (e.g., Dupixent
+[dupilumab subcutaneous injection], Tezspire [tezepelumab-ekko
+subcutaneous injection]).
+C) Patient meets ONE of the following(i or ii):
+i. Patient has a positive skin prick test response to one or more foods; OR
+ii. Patient has a positive in vitro test (i.e., a blood test) for IgE to one or more
+foods; AND
+D) According to the prescriber, the patient has a history of an allergic reaction to
+a food that met each of the following (i, ii, and iii):
+i. Patient demonstrated signs and symptoms of a significant systemic allergic
+reaction; AND
+9 Pages - Cigna National Formulary Coverage - Policy:Immunologicals ( Xolair Prior Authorization Policy
+Note: Signs and symptoms of a significant systemic allergic reaction
+include hives, swelling, wheezing, hypotension, and gastrointestinal
+symptoms.
+ii. This reaction occurred within a short period of time following a known
+ingestion of the food; AND
+iii. The prescriber deemed this reaction significant enough to require a
+prescription for an epinephrine self-administered injectable or nasal
+product; AND
+Note: Examples of epinephrine self-administered injectable and nasal
+products include EpiPen, EpiPen Jr., Auvi-Q, generic epinephrine auto-
+injectors, and Neffy.
+E) Patient has been prescribed an epinephrine self-administered injectable or
+nasal product; AND
+Note: Examples of epinephrine self-administered injectable and nasal products
+include EpiPen, EpiPen Jr., Auvi-Q, generic epinephrine auto-injectors, and
+Neffy.
+F) According to the prescriber, Xolair will be used in conjunction with a food
+allergen-avoidant diet; AND
+G) The medication is prescribed by or in consultation with an allergist or
+immunologist.
+CONDITIONS NOT COVERED
+• Xolair® (omalizumab subcutaneous injection - Genentech/Novartis)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Atopic Dermatitis. One single-center, double-blind, placebo-controlled trial,
+Atopic Dermatitis Anti-IgE Pediatric Trial (ADAPT) evaluated the efficacy of Xolair
+in patients 4 to 19 years of age with severe atopic dermatitis (n = 62).26 After 24
+weeks of therapy, the difference in the objective Scoring Atopic Dermatitis
+[SCORAD] index with Xolair vs. placebo was -6.9 (P = 0.01). This was statistically
+significant; however, the clinical significance is unknown. Quality of life
+measurements were also improved with Xolair. Smaller studies have not shown
+benefit and case studies have yielded mixed results.26-28 Additional larger, well-
+designed clinical trials are needed to determine if Xolair has a role in the treatment
+of atopic dermatitis. Atopic dermatitis guidelines from the American Academy
+Dermatology (2023) note that there are insufficient data to make a
+recommendation regarding the use of Xolair.29
+2. Concurrent use of Xolair with another Monoclonal Antibody Therapy. The
+efficacy and safety of Xolair used in combination with other monoclonal antibody
+therapies have not been established. There are very limited case reports
+describing the combined use of Nucala and Xolair for severe asthma as well as
+off-label indications.30-35 One limited case series also reported the use of Xolair
+9 Pages - Cigna National Formulary Coverage - Policy:Immunologicals ( Xolair Prior Authorization Policy
+and Dupixent in patients with asthma or chronic idiopathic urticaria.36 Further
+investigation is warranted.
+Note: Monoclonal antibody therapies are Adbry® (tralokinumab-ldrm
+subcutaneous injection), Cinqair® (reslizumab intravenous infusion), Dupixent®
+(dupilumab subcutaneous injection), Ebglyss™ (lebrikizumab-lbkz SC injection),
+Fasenra® (benralizumab subcutaneous injection), Nemluvio® (nemolizumab-ilto
+SC injection), Nucala® (mepolizumab subcutaneous injection), or Teszpire®
+(tezepelumab-ekko subcutaneous injection).
+3. Eosinophilic Gastroenteritis, Eosinophilic Esophagitis, or Eosinophilic
+Colitis. There are limited and conflicting data from very small studies and case
+series on the use of Xolair for the treatment of eosinophilic gastrointestinal
+conditions.37 Guidelines for the diagnosis and management of eosinophilic
+esophagitis from the American College of Gastroenterology (2025) recommend
+against the use of Xolair in patients with this condition.
+4. Latex Allergy in Health Care Workers with Occupational Latex Allergy. A
+small European study assessed the effects of Xolair treatment in health care
+workers (n = 18) with occupational latex allergy.38 Xolair use in these patients
+resulted in a reduction in mean conjunctival challenge test scores as compared
+with placebo-treated patients after 16-weeks of therapy. Also, three patients who
+did not respond to Xolair treatment during the double-blind phase responded
+during the 16-week open-label phase. Thus, the overall ocular response rate for
+all patients in the open-label phase was 93.8% (n = 15/16). Also 11 of 15 patients
+in the open-label phase had a negative response to a latex glove challenge test
+(4 patients had a mild response). Well-controlled trials are needed.
+9 Pages - Cigna National Formulary Coverage - Policy:Immunologicals ( Xolair Prior Authorization Policy
+REFERENCES
+1. Xolair® subcutaneous injection [prescribing information]. South San Francisco, CA and East
+Hanover, NJ: Genentech and Novartis; February 2024.
+2. Busse W, Corren J, Lanier BQ, et al. Omalizumab, anti-IgE recombinant humanized monoclonal
+antibody, for the treatment of severe allergic asthma. J Allergy Clin Immunol. 2001;108(2):184-
+190.
+3. Finn A, Gross G, van Bavel J, et al. Omalizumab improves asthma-related quality of life in patients
+with severe allergic asthma. J Allergy Clin Immunol. 2003;111(2):278-284.
+4. Lanier BQ, Corren J, Lumry W, et al. Omalizumab is effective in the long-term control of severe
+allergic asthma. Ann Allergy Asthma Immunol. 2003;91:154-159.
+5. Bousquet J, Wenzel S, Holgate S, et al. Predicting response to omalizumab, an anti-IgE antibody,
+in patients with allergic asthma. Chest. 2004;125(4):1378-1386.
+6. Solèr M, Matz J, Townley R, et al. The anti-IgE antibody omalizumab reduces exacerbations and
+steroid requirement in allergic asthmatics. Eur Respir J. 2001;18:254-261.
+7. Buhl R, Solèr M, Matz J, et al. Omalizumab provides long-term control in patients with moderate-
+to-severe allergic asthma. Eur Respir J. 2002;20:73-78.
+8. Buhl R, Hanf G, Solèr M, et al. The anti-IgE antibody omalizumab improves asthma-related quality
+of life in patients with allergic asthma. Eur Respir J. 2002;20:1088-1094.
+9. Holgate S, Chuchalin A, Herbert J, et al. Efficacy and safety of a recombinant anti-immunoglobulin
+E antibody (omalizumab) in severe allergic asthma. Clin Exp Allergy. 2004;34:632-638.
+10. Kulus M, Hebert J, Garcia E, et al. Omalizumab in children with inadequately controlled severe
+allergic (IgE-mediated) asthma. Curr Med Res Opin. 2010;26:1285-1293.
+11. Milgrom H, Berger W, Nayak A, et al. Treatment of childhood asthma with anti-immunoglobulin E
+antibody (omalizumab). Pediatrics. 2001;108(2).
+12. Saini SS, Bindslev-Jensen C, Maurer M, et al. Efficacy and safety of omalizumab in patients with
+chronic idiopathic/spontaneous urticaria who remain symptomatic on H1 antihistamines: a
+randomized, placebo-controlled study. J Invest Dermatol. 2015;135:67-75.
+13. Maurer M, Rosen K, Hsieh HJ, et al. Omalizumab for the treatment of chronic idiopathic or
+spontaneous urticaria. N Engl J Med. 2013;368:924-935.
+14. Gevaert P, Omachi TA, Corren J, et al. Efficacy and safety of omalizumab in nasal polyposis; 2
+randomized phase 3 trials. J Allergy Clin Immunol. 2020;146(3):595-605.
+15. Wood RA, Togias A, Sicherer SH, et al. Omalizumab for the treatment of multiple food allergies. N
+Engl J Med. 2024;390(10):889-899..
+16. Global Initiative for Asthma. Global strategy for asthma management and prevention. Updated
+2025. Available at: http://www.ginasthma.org. Accessed on: July 22, 2025.
+17. Chung KF, Wenzel SE, Brozek JL, et al. International ERS/ATS guidelines on definition, evaluation
+and treatment of severe asthma. Eur Respir J. 2014;43:343-373.
+18. Holguin F, Cardet JC, Chung KF, et al. Management of severe asthma: a European Respiratory
+Society/American Thoracic Society Guideline. Eur Respir J. 2020;55:1900588.
+19. Zuberbier T, Abdul Latiff AH, Abuzakouk M, et al. The international
+EAACI/GA2LEN/EuroGuiDerm/APAAACI guideline for the definition, classification, diagnosis, and
+management of urticaria. Allergy. 2022;73:734-766.
+20. Rank MA, Chu DK, Bognanni A, et al. Joint Task Force on Practice Parameters GRADE guidelines for
+the medical management of chronic rhinosinusitis with nasal polyposis. J Allergy Clin Immunol.
+2023;151(2):386-398.
+21. Peters AT, Spector S, Hsu J, et al. Diagnosis and management of rhinosinusitis: a practice parameter
+update. Ann Allergy Asthma Immunol. 2014:347-385.
+22. Dykewicz MS, Wallace DV, Baroody F, et al. Treatment of seasonal allergic rhinitis: an evidenced-
+based focused 2017 guideline update. Ann Allergy Asthma Immunol. 2017;119(6):489-511.
+23. Joint Task Force on Practice Parameters: American Academy of Allergy, Asthma and Immunology
+and the American College of Allergy, Asthma and Immunology. Rhinitis 2020: a practice parameter
+update. J Allergy Clin Immunol. 2020;146:721-767.
+24. Rosenfeld RM, Piccirillo JF, Chandrasekhar SS, et al. Clinical practice guideline (update): adult
+sinusitis. Otolaryngol Head Neck Surg. 2015;152(2S):S1-S39.
+25. Anagnostou A, Bird JA, Chinthraja S, et al. The use and implementation of omalizumab as food
+allergy treatment: Consensus-based guidance and Work Group Report of the Adverse Reactions to
+9 Pages - Cigna National Formulary Coverage - Policy:Immunologicals ( Xolair Prior Authorization Policy
+Foods Committee of the American Academy of Allergy, Asthma & Immunology. J Allergy Clin
+Immunol. 2025;155(1):62-69.
+26. Chan S, Cornelius V, Cro S, et al. Treatment effect of omalizumab on severe pediatric atopic
+dermatitis: the ADAPT randomized clinical trial. JAMA Pediatr. 2019;174(1):29-37.
+27. Holm JG, Agner T, Sand C, et al. Omalizumab for atopic dermatitis: case series and a systematic
+review of the literature. Int J Dermatol. 2017;56(1):18-26.
+28. Wang HH, Li YC, Huang YC, et al. Efficacy of omalizumab in patients with atopic dermatitis: a
+systematic review and meta-analysis. J Allergy Clin Immunol. 2016;138(6):1719-1722.
+29. Davis DMR, Drucker AM, Alikhan A, et al. Guidelines of care for the management of atopic dermatitis
+in adults with phototherapy and systemic therapies. J Am Acad Dermatol. 2024;90(2):E43-E56.
+30. Baccelli A, Kocwin M, Parazzini EM, et al. Long-term outcomes of combination biologic therapy in
+uncontrolled severe asthma: a case study. J Asthma. 2023;60(5):1050-1053.
+31. Altman MC, Lenington J, Bronson S, et al. Combination omalizumab and mepolizumab therapy for
+refractory allergic bronchopulmonary aspergillosis. J Allergy Clin Immunol Pract. 2017;5(4):1137-
+1139.
+32. Han D, Lee JK. Severe asthma with eosinophilic gastroenteritis effectively managed by mepolizumab
+and omalizumab. Ann Allergy Asthma Immunol. 2018;121(6):742-743.
+33. Dedaj R, Unsel L. Case study: a combination of mepolizumab and omalizumab injections for severe
+asthma. J Asthma. 2019;56(5):473-474.
+34. Matsumoto T, Sakurai Y, Tashima N, et al. Dual biologics for severe asthma and atopic dermatitis:
+synopsis of two cases and literature review. Respirol Case Rep. 2023;12(1):e01266.
+35. Sezgin ME, Colak M, Caglayan O, et al. Efficacy and mepolizumab and omalizumab combination
+therapy in uncontrolled asthma. J Asthma. 2024;61(2):173-175.
+36. Gisondi P, Maurelli M, Costanzo A, et al. The combination of dupilumab with other monoclonal
+antibodies. Dermatol Ther (Heidelb). 2023;13(1):7-12.
+37. Dellon ES, Muir AB, Katzka DA, et al. ACG Clinical Guideline: Diagnosis and Management of
+Eosinophilic Esophagitis. Am J Gastroenterol. 2025;120(1):31-59.
+38. Leynadier F, Doudou O, Gaouar H, et al. Effect of omalizumab in health care workers with
+occupational latex allergy [letter]. J Allergy Clin Immunol. 2004;113(2):360-361.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Conditions Not Covered: Criteria were updated to clarify that use 03/22/2023
+Revision of Xolair with another monoclonal antibody therapy is specific to
+Cinqair, Fasenra, Nucala, Dupixent, Tezspire, and Adbry.
+Selected Chronic Rhinosinusitis with Nasal Polyps: Approval condition 02/14/2024
+Revision updated from “Nasal Polyps” to “Chronic Rhinosinusitis with Nasal
+Polyps”. Duration of the intranasal corticosteroid requirement was
+changed from 3 months to 4 weeks.
+Early Annual Immunoglobulin (IgE)-Mediated Food Allergy: New approval 03/06/2024
+Revision criteria for this indication were added. and
+Conditions Not Covered: “Peanut and Other Food Allergies” was 03/07/2024
+removed as a Condition Not Recommended for Approval.
+Annual Asthma: Leukotriene receptor antagonists were removed as an 03/05/2025
+Revision example of additional asthma controller or asthma maintenance
+medications.
+Immunoglobulin (IgE)-Mediated Food Allergy: Criteria were
+updated to require the patient to have either a positive skin prick test
+response OR a positive in vitro test (i.e., a blood test) for IgE to one
+or more foods. Previously, criteria required the patient to have both
+a positive skin prick test response and a positive in vitro test (i.e., a
+blood test) for IgE to one or more foods.
+Early Annual Chronic Spontaneous Urticaria (Chronic Idiopathic Urticaria): 04/23/2025
+Revision Approval condition was updated to “Chronic Spontaneous Urticaria
+9 Pages - Cigna National Formulary Coverage - Policy:Immunologicals ( Xolair Prior Authorization Policy
+(Chronic Idiopathic Urticaria)”. Previously, this approval condition was
+listed as “Chronic Idiopathic Urticaria (Chronic Spontaneous Urticaria).
+The approval duration for this condition was changed from 4 months
+to 6 months. Criteria for a patient currently receiving Xolair was
+updated to apply to a patient who has already received at least 6
+months of therapy with Xolair. Previously, these criteria applied to a
+patient who had received at least 4 months of therapy with Xolair.
+Criteria for a patient currently receiving Xolair was also updated to
+require that the patient has experienced a beneficial clinical response,
+defined as either decreased itch severity, decreased number of hives,
+or decreased size of hives. Previously, these criteria required the
+patient to have responded to therapy as determined by the prescriber.
+Selected Immunoglobulin (Ig)E-Mediated Food Allergy: Throughout the 08/06/2025
+Revision criteria, references to “epinephrine auto-injectors” were updated to
+“epinephrine self-administered injectable or nasal products”. Neffy
+was added as an example of an epinephrine self-administered
+injectable or nasal product.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025
+The Cigna Group.
+9 Pages - Cigna National Formulary Coverage - Policy:Immunologicals ( Xolair Prior Authorization Policy

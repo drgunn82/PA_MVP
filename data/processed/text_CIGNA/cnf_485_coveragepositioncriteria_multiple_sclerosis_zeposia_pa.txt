@@ -1,0 +1,333 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Multiple Sclerosis and Ulcerative Colitis (Oral – Sphingosine 1-Phosphate
+Receptor Modulator) – Zeposia Prior Authorization Policy
+• Zeposia® (ozanimod capsules – Celgene)
+REVIEW DATE: 07/23/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Zeposia, a sphingosine 1-phosphate receptor modulator, is indicated for the following
+uses:1
+• Relapsing forms of multiple sclerosis (MS), in adults, including clinically
+isolated syndrome, relapsing remitting disease, and active secondary
+progressive disease.
+• Ulcerative colitis (UC), in adults with moderately to severely active disease.
+Guidelines/Clinical Efficacy
+Published guidelines address recommended treatments for the following conditions:
+• Multiple sclerosis (MS): Zeposia is not currently addressed in MS guidelines.
+In September 2019, a consensus paper was updated by the MS Coalition that
+discusses the use of disease-modifying therapies in MS.2 Many options from
+Page 1 of 9 - Cigna National Formulary Coverage - Policy:Multiple Sclerosis and Ulcerative Colitis (Oral –
+Sphingosine 1-Phosphate Receptor Modulator) – Zeposia Prior Authorization Policy
+various pharmacologic classes, involving different mechanisms of action and
+modes of administration, have shown benefits in patients with MS.
+• Ulcerative colitis (UC): Zeposia is not currently addressed in UC guidelines.
+The American Gastroenterological Association (2020) and the American
+College of Gastroenterology (2019) have clinical practice guidelines on the
+management of moderate to severe UC and make recommendations for
+induction and maintenance of remission in adults.3,4 Both organizations
+endorse the use of biologic agents and give specific patient circumstances in
+the selection for induction and maintenance therapies. The 10-week induction
+pivotal trial for Zeposia included adults with moderately to severely active UC
+who had an inadequate response or were intolerant to any of the following
+agents: oral aminosalicylates, corticosteroids, immunomodulators (e.g., 6-
+mercaptopurine and azathioprine), or a biologic (e.g., tumor necrosis factor
+inhibitor, Entyvio® [vedolizumab intravenous infusion and subcutaneous
+injection]).1
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Zeposia. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Zeposia as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Zeposia to be prescribed by or in consultation with a physician who specializes in the
+condition being treated.
+• Zeposia® (ozanimod capsules – Celgene)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Multiple Sclerosis. Approve for the duration noted below if the patient meets
+ONE of the following (A or B):
+A) Initial Therapy. Approve for 1 year if the patient meets BOTH of the following
+(i and ii):
+i. Patient has a relapsing form of multiple sclerosis; AND
+Note: Examples of relapsing forms of multiple sclerosis include clinically
+isolated syndrome, relapsing remitting disease, and active secondary
+progressive disease.
+ii. The medication is prescribed by or in consultation with a neurologist or a
+physician who specializes in the treatment of multiple sclerosis; OR
+B) Patient is Currently Receiving Zeposia for ≥ 1 Year. Approve for 1 year if the
+patient meets ALL of the following (i, ii, and iii):
+i. Patient has a relapsing form of multiple sclerosis; AND
+5 Pages - Cigna National Formulary Coverage - Policy: Multiple Sclerosis and Ulcerative Colitis (Oral –
+Sphingosine 1-Phosphate Receptor Modulator) – Zeposia Prior Authorization Policy
+Note: Examples of relapsing forms of multiple sclerosis include clinically
+isolated syndrome, relapsing remitting disease, and active secondary
+progressive disease.
+ii. Patient meets ONE of the following (a or b):
+a) Patient experienced a beneficial clinical response when assessed by at
+least one objective measure; OR
+Note: Examples include stabilization or reduced worsening in disease
+activity as evaluated by magnetic resonance imaging (MRI) [absence or
+a decrease in gadolinium enhancing lesions, decrease in the number of
+new or enlarging T2 lesions]; stabilization or reduced worsening on the
+Expanded Disability State Scale (EDSS) score; achievement in criteria
+for No Evidence of Disease Activity-3 (NEDA-3) or NEDA-4;
+improvement on the fatigue symptom and impact questionnaire-
+relapsing multiple sclerosis (FSIQ-RMS) scale; reduction or absence of
+relapses; improvement or maintenance on the six-minute walk test or
+12-Item MS Walking Scale; improvement on the Multiple Sclerosis
+Functional Composite (MSFC) score; and/or attenuation of brain volume
+loss.
+b) Patient experienced stabilization, slowed progression, or improvement
+in at least one symptom such as motor function, fatigue, vision,
+bowel/bladder function, spasticity, walking/gait, or
+pain/numbness/tingling sensation; AND
+iii. The medication is prescribed by or in consultation with a neurologist or a
+physician who specializes in the treatment of multiple sclerosis.
+2. Ulcerative Colitis. Approve for the duration noted if the patient meets ONE of
+the following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following
+(i and ii):
+i. Patient is ≥ 18 years of age; AND
+ii. The medication is prescribed by or in consultation with a gastroenterologist;
+OR
+B) Patient is Currently Receiving Zeposia. Approve for 1 year if the patient meets
+BOTH of the following (i and ii):
+i. Patient has been established on therapy for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+ii. Patient meets at least ONE of the following (a or b):
+a) When assessed by at least one objective measure, patient experienced
+a beneficial clinical response from baseline (prior to initiating the
+requested drug); OR
+Note: Examples of assessment for inflammatory response include fecal
+markers (e.g., fecal calprotectin), serum markers (e.g., C-reactive
+protein), endoscopic assessment, and/or reduced dose of
+corticosteroids.
+b) Compared with baseline (prior to initiating the requested drug), patient
+experienced an improvement in at least one symptom, such as
+5 Pages - Cigna National Formulary Coverage - Policy: Multiple Sclerosis and Ulcerative Colitis (Oral –
+Sphingosine 1-Phosphate Receptor Modulator) – Zeposia Prior Authorization Policy
+decreased pain, fatigue, stool frequency, and/or decreased rectal
+bleeding.
+CONDITIONS NOT COVERED
+• Zeposia® (ozanimod capsules – Celgene)
+is(are) considered not medically necessary for ANY other use(s) including
+the following (this list may not be all inclusive; criteria will be updated as
+new published data are available):
+1. Concurrent Use with Other Disease-Modifying Agents Used for Multiple
+Sclerosis. These agents are not indicated for use in combination (see Appendix
+B for examples). Additional data are required to determine if use of disease-
+modifying multiple sclerosis agents in combination is safe and provides added
+efficacy.
+2. Non-Relapsing Forms of Multiple Sclerosis. The efficacy of Zeposia has not
+been established in patients with multiple sclerosis with non-relapsing forms of
+the disease.1
+Note: An example of a non-relapsing form of multiple sclerosis is primary
+progressive multiple sclerosis.
+3. Concurrent Use with a Biologic or with a Targeted Synthetic Oral Small
+Molecule Drug. This medication should not be administered in combination with
+another biologic or with a targeted synthetic oral small molecule drug used for an
+inflammatory condition (see Appendix A for examples). Combination therapy is
+generally not recommended due to a potentially higher rate of adverse events and
+lack of controlled clinical data supporting additive efficacy.
+4. Concurrent Use with Other Potent Immunosuppressants. In pivotal trials,
+patients who received Zeposia were not to receive concomitant treatment with
+non-corticosteroid immunosuppressive or immune-modulating therapies used for
+the treatment of ulcerative colitis. Combination therapy is generally not
+recommended due to a potential for a higher rate of adverse effects with
+combinations and lack of controlled clinical data supporting additive efficacy.1
+Note: Examples of non-corticosteroid immunosuppressive or immune-modulating
+therapies include 6-mercaptopurine, azathioprine, cyclosporine, and
+methotrexate.
+REFERENCES
+1. Zeposia® capsules [prescribing information]. Princeton, NJ: Celgene/Bristol Myers Squibb; August
+2024.
+2. A Consensus Paper by the Multiple Sclerosis Coalition. The use of disease-modifying therapies in
+multiple sclerosis. September 2019.
+3. Feuerstein JD, Isaac s KL, Schneider Y, et al. AGA clinical practice guidelines on the management
+of moderate to severe ulcerative colitis. Gastroenterology. 2020;158:1450-1461.
+5 Pages - Cigna National Formulary Coverage - Policy: Multiple Sclerosis and Ulcerative Colitis (Oral –
+Sphingosine 1-Phosphate Receptor Modulator) – Zeposia Prior Authorization Policy
+4. Rubin DT, Ananthakrishnan AN, Siegel CA, et al. American College of Gastroenterology clinical
+guideline: ulcerative colitis in adults. Am J Gastroenterol. 2019;114:384-413.
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Annual No criteria changes. 11/08/2023
+Revision
+Selected Conditions Not Covered: Concurrent use with a Biologic or with 09/11/2024
+Revision a Targeted Synthetic Oral Small Molecule Drug was changed to as
+listed (previously oral small molecule drug was listed as Disease-
+Modifying Antirheumatic Drug). Added Concurrent use with a
+Potent Immunosuppressant is not allowed.
+Annual Ulcerative Colitis: For Initial Therapy, it was added in a Note that 10/09/2024
+Revision trial of a mesalamine product does not count as meeting the
+requirement to try one systemic therapy.
+Multiple Sclerosis: Ocrevus Zunovo was added to Appendix B as
+an example of a disease-modifying medication used for multiple
+sclerosis.
+Early Annual The name of the policy was changed to add “Oral – Sphingosine 1- 07/23/2025
+Revision Phosphate Receptor Modulator”. In addition, the following changes
+were made:
+Multiple Sclerosis: Extavia was removed from Appendix B.
+Ulcerative Colitis: For Initial Therapy, the requirement that the
+patient has tried ONE systemic agent for ulcerative colitis was
+removed, along with the related Note. Appendix A was updated to
+note that biosimilars are available to Stelara, as well as an update
+to the list of indications.
+APPENDIX A
+Mechanism of Action Examples of Indications*
+Biologics
+Adalimumab SC Products (Humira®, Inhibition of TNF AS, CD, JIA, PsO, PsA, RA, UC
+biosimilars)
+Cimzia® (certolizumab pegol SC Inhibition of TNF AS, CD, nr-axSpA, PsO, PsA,
+injection) RA
+Etanercept SC Products (Enbrel®, Inhibition of TNF AS, JIA, PsO, PsA, RA
+biosimilars)
+Infliximab IV Products (Remicade®, Inhibition of TNF AS, CD, PsO, PsA, RA, UC
+biosimilars)
+Zymfentra® (infliximab-dyyb SC Inhibition of TNF CD, UC
+injection)
+Simponi®, Simponi Aria® (golimumab Inhibition of TNF SC formulation: AS, PsA, RA,
+SC injection, golimumab IV infusion) UC
+IV formulation: AS, PJIA,
+PsA, RA
+Tocilizumab Products (Actemra® IV, Inhibition of IL-6 SC formulation: PJIA, RA,
+biosimilar; Actemra SC, biosimilar) SJIA
+IV formulation: PJIA, RA,
+SJIA
+Kevzara® (sarilumab SC injection) Inhibition of IL-6 RA
+Orencia® (abatacept IV infusion, T-cell costimulation SC formulation: JIA, PSA, RA
+abatacept SC injection) modulator IV formulation: JIA, PsA, RA
+5 Pages - Cigna National Formulary Coverage - Policy: Multiple Sclerosis and Ulcerative Colitis (Oral –
+Sphingosine 1-Phosphate Receptor Modulator) – Zeposia Prior Authorization Policy
+Rituximab IV Products (Rituxan®, CD20-directed cytolytic RA
+biosimilars) antibody
+Kineret® (anakinra SC injection) Inhibition of IL-1 JIA^, RA
+Omvoh® (mirikizumab IV infusion, SC Inhibition of IL-23 CD, UC
+injection)
+Ustekinumab Products (Stelara® SC Inhibition of IL-12/23 SC formulation: CD, PsO,
+biosimilars; ustekinumab IV infusion) PsA, UC
+IV formulation: CD, UC
+Siliq® (brodalumab SC injection) Inhibition of IL-17 PsO
+Cosentyx® (secukinumab SC injection; Inhibition of IL-17A SC formulation: AS, ERA, nr-
+secukinumab IV infusion) axSpA, PsO, PsA
+IV formulation: AS, nr-
+axSpA, PsA
+Taltz® (ixekizumab SC injection) Inhibition of IL-17A AS, nr-axSpA, PsO, PsA
+Bimzelx® (bimekizumab-bkzx SC Inhibition of IL- PsO
+injection) 17A/17F
+Ilumya® (tildrakizumab-asmn SC Inhibition of IL-23 PsO
+injection)
+Skyrizi® (risankizumab-rzaa SC Inhibition of IL-23 SC formulation: CD, PSA,
+injection, risankizumab-rzaa IV infusion) PsO, UC
+IV formulation: CD, UC
+Tremfya® (guselkumab SC injection, Inhibition of IL-23 SC formulation: CD, PsA,
+guselkumab IV infusion) PsO, UC
+IV formulation: CD, UC
+Entyvio® (vedolizumab IV infusion, Integrin receptor CD, UC
+vedolizumab SC injection) antagonist
+5 Pages - Cigna National Formulary Coverage - Policy: Multiple Sclerosis and Ulcerative Colitis (Oral –
+Sphingosine 1-Phosphate Receptor Modulator) – Zeposia Prior Authorization Policy
+APPENDIX A (CONTINUED)
+Mechanism of Action Examples of Indications*
+Oral Therapies/Targeted Synthetic Oral Small Molecule Drugs
+Otezla® (apremilast tablets) Inhibition of PDE4 PsO, PsA
+Cibinqo™ (abrocitinib tablets) Inhibition of JAK AD
+pathways
+Olumiant® (baricitinib tablets) Inhibition of JAK RA, AA
+pathways
+Litfulo® (ritlecitinib capsules) Inhibition of JAK AA
+pathways
+Leqselvi® (deuruxolitinib tablets) Inhibition of JAK AA
+pathways
+Rinvoq® (upadacitinib extended-release Inhibition of JAK AD, AS, nr-axSpA, RA, PsA,
+tablets) pathways CD, UC
+Rinvoq® LQ (upadacitinib oral solution) Inhibition of JAK PsA, PJIA
+pathways
+Sotyktu® (deucravacitinib tablets) Inhibition of TYK2 PsO
+Xeljanz® (tofacitinib tablets/oral Inhibition of JAK RA, PJIA, PsA, UC
+solution) pathways
+Xeljanz® XR (tofacitinib extended- Inhibition of JAK RA, PsA, UC
+release tablets) pathways
+Zeposia® (ozanimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+Velsipity® (etrasimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+* Not an all-inclusive list of indications. Refer to the prescribing information for the respective agent for
+FDA-approved indications; SC – Subcutaneous; TNF – Tumor necrosis factor; AS – Ankylosing
+spondylitis; CD – Crohn’s disease; JIA – Juvenile idiopathic arthritis; PsO – Plaque psoriasis; PsA –
+Psoriatic arthritis; RA – Rheumatoid arthritis; UC – Ulcerative colitis; nr-axSpA – Non-radiographic axial
+spondyloarthritis; IV – Intravenous, PJIA – Polyarticular juvenile idiopathic arthritis; IL – Interleukin;
+SJIA – Systemic juvenile idiopathic arthritis; ^ Off-label use of Kineret in JIA supported in guidelines;
+ERA – Enthesitis-related arthritis; DMARD – Disease-modifying antirheumatic drug; PDE4 –
+Phosphodiesterase 4; JAK – Janus kinase; AD – Atopic dermatitis; AA – Alopecia areata; TYK2 – Tyrosine
+kinase 2.
+APPENDIX B
+Medication Mode of Administration
+Aubagio® (teriflunomide tablets, generic) Oral
+Avonex® (interferon beta-1a intramuscular injection) Injection (self-administered)
+Bafiertam® (monomethyl fumarate delayed-release capsules) Oral
+Betaseron® (interferon beta-1b subcutaneous injection) Injection (self-administered)
+Briumvi® (ublituximab-xiiy intravenous infusion) Intravenous infusion
+Copaxone® (glatiramer acetate subcutaneous injection, Injection (self-administered)
+generic)
+Gilenya® (fingolimod capsules, generic) Oral
+Glatopa® (glatiramer acetate subcutaneous injection) Injection (self-administered)
+Kesimpta® (ofatumumab subcutaneous injection) Injection (self-administered)
+Lemtrada® (alemtuzumab intravenous infusion) Intravenous infusion
+Mavenclad® (cladribine tablets) Oral
+Mayzent® (siponimod tablets) Oral
+Ocrevus® (ocrelizumab intravenous infusion) Intravenous infusion
+5 Pages - Cigna National Formulary Coverage - Policy: Multiple Sclerosis and Ulcerative Colitis (Oral –
+Sphingosine 1-Phosphate Receptor Modulator) – Zeposia Prior Authorization Policy
+Ocrevus Zunovo™ (ocrelizumab and hyaluronidase-ocsq Subcutaneous injection (not self-
+subcutaneous injection) administered)
+Plegridy® (peginterferon beta-1a subcutaneous or Injection (self-administered)
+intramuscular injection)
+Ponvory® (ponesimod tablets) Oral
+Rebif® (interferon beta-1a subcutaneous injection) Injection (self-administered)
+Tascenso ODT® (fingolimod orally disintegrating tablets) Oral
+Tecfidera® (dimethyl fumarate delayed-release capsules, Oral
+generic)
+Tyruko® (natalizumab-sztn intravenous infusion) Intravenous infusion
+Tysabri® (natalizumab intravenous infusion) Intravenous infusion
+Vumerity® (diroximel fumarate delayed-release capsules) Oral
+Zeposia® (ozanimod capsules) Oral
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+5 Pages - Cigna National Formulary Coverage - Policy: Multiple Sclerosis and Ulcerative Colitis (Oral –
+Sphingosine 1-Phosphate Receptor Modulator) – Zeposia Prior Authorization Policy

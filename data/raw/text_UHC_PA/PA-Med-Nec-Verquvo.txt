@@ -1,0 +1,94 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2239-5
+Program Prior Authorization/Medical Necessity
+Medication Verquvo® (vericiguat)
+P&T Approval Date 6/2021, 11/2021, 12/2022, 2/2024, 4/2025
+Effective Date 7/1/2025
+1. Background:
+Verquvo (vericiguat) is indicated to reduce the risk of cardiovascular death and heart failure
+(HF) hospitalization following a hospitalization for heart failure or the need for outpatient IV
+diuretics, in adults with symptomatic chronic HF and ejection fraction less than 45%. Verquvo
+has a boxed warning for embryo-fetal toxicity and should not be used during pregnancy.
+2. Coverage Criteria:
+A. Initial Therapy
+1. Verquvo will be approved based on all the following criteria:
+a. Diagnosis of heart failure
+-AND-
+b. Ejection fraction is less than 45 percent
+-AND-
+c. Heart failure is classified as one of the following:
+(1) New York Heart Association Class II
+(2) New York Heart Association Class III
+(3) New York Heart Association Class IV
+-AND-
+d. One of the following:
+(1) Hospitalization for heart failure within the past six months
+(2) Outpatient IV diuretics for heart failure within the past three months
+-AND-
+e. One of the following:
+(1) Patient is on a stabilized dose and receiving concomitant therapy with a
+maximally tolerated beta-blocker (e.g. bisoprolol, carvedilol, metoprolol)
+(2) Patient has a contraindication or intolerance to beta-blocker therapy
+© 2025 UnitedHealthcare Services, Inc.
+1
+-AND-
+f. One of the following:
+(1) Patient is on a stabilized dose and receiving concomitant therapy with one of the
+following:
+(a) angiotensin converting enzyme (ACE) inhibitor (e.g. captopril, enalapril)
+(b) angiotensin II receptor blocker (ARB) (e.g. candesartan, valsartan)
+(c) angiotensin receptor-neprilysin inhibitor (ARNI) (e.g. Entresto)
+-OR-
+(2) Patient has an allergy, contraindication, or intolerance to ACE inhibitors, ARBs,
+and ARNIs.
+-AND-
+g. One of the following:
+(1) Patient is on a stabilized dose and receiving concomitant therapy with a
+maximally tolerated aldosterone antagonist (e.g. eplerenone, spironolactone)
+(2) Patient has a contraindication or intolerance to aldosterone antagonist therapy
+-AND-
+h. One of the following:
+(1) Patient is on a stabilized dose and receiving concomitant therapy with Jardiance
+or Farxiga* (includes combination products containing empagliflozin or
+dapagliflozin*)
+(2) Patient has a contraindication or intolerance to SGLT2 inhibitor therapy
+-AND-
+i. Verquvo is prescribed by or in consultation with a cardiologist
+Authorization will be issued for 12 months
+B. Reauthorization
+1. Verquvo will be approved based on the following criterion:
+a. Documentation of positive clinical response to therapy
+Authorization will be issued for 12 months
+© 2025 UnitedHealthcare Services, Inc.
+2
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply Limits may be in place.
+• *Typically excluded from coverage
+4. References:
+1. Verquvo [package insert]. Rahway, NJ: Merck & Co., Inc; July 2023.
+2. Heidenreich, P. A., Bozkurt, B., Aguilar, D., et al. 2022 ACC/AHA/HFSA guideline for the
+management of heart failure. Journal of Cardiac Failure, 2022 28(5), e1-e167.
+3. Maddox TM, Januzzi JL Jr., Allen LA, Breathett K, Butler J, Davis LL, Fonarow GC, Ibrahim
+NE, Lindenfeld J, Masoudi FA, Motiwala SR, Oliveros E, Patterson JH, Walsh MN, Wasserman
+A, Yancy CW, Youmans QR. 2021 update to the 2017 ACC expert consensus decision pathway
+for optimization of heart failure treatment: answers to 10 pivotal issues about heart failure with
+reduced ejection fraction: a report of the American College of Cardiology Solution Set Oversight
+Committee. J Am Coll Cardiol 2021;77:772–810.
+4. Maddox TM, Januzzi JL Jr, Allen LA, Breathett K, Brouse S, ButlerJ, Davis LL, Fonarow GC,
+Ibrahim NE, Lindenfeld J, Masoudi FA, Motiwala SR, Oliveros E, Walsh MN, Wasserman A,
+Yancy CW, Youmans QR. 2024 ACCexpert consensus decision pathway for treatment of heart
+failure with reduced ejection fraction: a report of the American College of Cardiology
+SolutionSet Oversight Committee. J Am Coll Cardiol 2024;83(15):1444-1488.
+Program Prior Authorization/Medical Necessity - Verquvo (vericiquat)
+Change Control
+6/2021 New program.
+11/2021 Updated SGLT2 inhibitor requirement to include Jardiance and Farxiga.
+12/2022 Annual review. Updated references.
+2/2024 Annual review. Updated references.
+4/2025 Annual review. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+3

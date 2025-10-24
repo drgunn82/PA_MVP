@@ -1,0 +1,58 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1148-11
+Program Prior Authorization/Notification
+Medications Cerdelga® (eliglustat)
+P&T Approval Date 12/2014, 11/2015, 9/2016, 9/2017, 9/2018, 9/2019, 9/2020, 10/2021,
+10/2022, 10/2023, 10/2024
+Effective Date 1/1/2025
+1. Background:
+Cerdelga® (eliglustat) is a glucosylceramide synthase inhibitor indicated for the long-term
+treatment of adult patients with Gaucher disease type 1 who are CYP2D6 extensive metabolizers
+(EMs), intermediate metabolizers (IMs), or poor metabolizers (PMs) as detected by an FDA-
+cleared test. CYP2D6 ultra-rapid metabolizers may not achieve adequate concentrations of
+Cerdelga to achieve a therapeutic effect. A specific dosage cannot be recommended for
+CYP2D6 indeterminate metabolizers.1
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Cerdelga will be approved based on both of the following criteria:
+a. Diagnosis of Gaucher disease type 1
+-AND-
+b. Patient is one of the following as detected by an FDA-cleared test:
+(1) CYP2D6 extensive metabolizer
+(2) CYP2D6 intermediate metabolizer
+(3) CYP2D6 poor metabolizer
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Cerdelga will be approved based on the following criterion:
+a. Documentation of positive clinical response to Cerdelga therapy
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+© 2024 UnitedHealthcare Services, Inc.
+1
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program.
+• Supply limits may be in place.
+3. References:
+1. Cerdelga [package insert]. Genzyme Ireland, Ltd. Waterford, Ireland. January 2024.
+Program Prior Authorization/Notification - Cerdelga (eliglustat)
+Change Control
+12/2014 New program.
+11/2015 Annual review. Updated to align with Indication Section of FDA label.
+9/2016 Annual review. No changes to coverage criteria.
+9/2017 Annual review. No changes.
+9/2018 Annual review. No changes.
+9/2019 Annual review. No changes to coverage criteria. Updated background
+and references.
+9/2020 Annual review. No changes to coverage criteria.
+10/2021 Annual review. Updated reauthorization duration. Updated reference.
+10/2022 Annual review. No changes to coverage criteria. Added state mandate.
+Updated reference.
+10/2023 Annual review. No changes to coverage criteria. Updated reference.
+10/2024 Annual review. No changes to coverage criteria. Updated reference.
+© 2024 UnitedHealthcare Services, Inc.
+2

@@ -1,0 +1,110 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER RX
+POLICY: Bowel Agents – Lubiprostone Drug Quantity Management Policy – Per
+Rx
+• Amitiza® (lubiprostone capsules − Sucampo/Takeda, generic)
+REVIEW DATE: 06/02/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Lubiprostone (Amitiza, generic), a chloride channel activator, is indicated for the
+following uses:1
+• Chronic idiopathic constipation (CIC) in adults.
+• Opioid-induced constipation (OIC) in adults with chronic, non-cancer pain,
+including patients with chronic pain related to prior cancer or its treatment
+who do not require frequent (e.g., weekly) opioid dosage escalation.
+Limitation of Use: Effectiveness of lubiprostone in the treatment of OIC in
+patients taking diphenylheptane opioids (e.g., methadone) has not been
+established.
+• Irritable bowel syndrome with constipation (IBS-C) in women ≥ 18
+years old.
+Page 1 of 3 - Cigna National Formulary Coverage - Policy: Bowel Agents – Lubiprostone Drug Quantity
+Management Policy – Per Rx
+Dosing
+The recommended dose of lubiprostone for CIC and OIC is 24 mcg twice daily
+(BID).1 For IBS-C, the recommended dose is 8 mg BID. For patients with
+moderate and severe hepatic impairment, dose reductions are recommended (Table
+1).
+Table 1. Lubiprostone Hepatic Dosing Recomendations.1
+Hepatic Impairment CIC and OIC IBS-C
+Moderate Hepatic Impairment (Child-Pugh 16 mg BID* No adjustment necessary
+Class B)
+Severe Hepatic Impairment (Child-Pugh 8 mg BID* 8 mg QD*
+Class C)
+CIC – Chronic idiopathic constipation; OIC – Opioid-induced constipation; IBS-C – Irritable bowel
+syndrome with constipation; BID – Twice daily; * If the dose is tolerated and an adequate response has
+not been obtained after an appropriate interval, doses can then be escalated to full dosing with
+appropriate monitoring of patient response; QD – Once daily.
+Availability
+Lubiprostone (Amitiza, generic) is available as 8 mg and 24 mg capsules supplied in
+bottles of 60 capsules.1
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of lubiprostone (Amitiza, generic). If the Drug
+Quantity Management rule is not met for the requested medication at the point of
+service, coverage will be determined by the Criteria below. All approvals are
+provided for 1 year in duration.
+Drug Quantity Limits
+Product Strength and Retail Home Delivery
+Form Maximum Quantity Maximum Quantity
+per Rx per Rx
+Amitiza® 8 mg capsules 60 capsules 180 capsules
+(lubiprostone capsules, 24 mg capsules 60 capsules 180 capsules
+generic)
+EXCEPTIONS TO THE QUANTITY LIMITS LISTED ABOVE ARE COVERED AS MEDICALLY
+NECESSARY WHEN THE FOLLOWING CRITERIA ARE MET. ANY OTHER EXCEPTION IS
+CONSIDERED NOT MEDICALLY NECESSARY.
+CRITERIA
+Lubiprostone 8 mcg capsules (Amitiza, generic)
+1. If the patient requires a dose of 16 mcg twice daily, approve 120 capsules per
+dispensing at retail or 360 capsules per dispensing at home delivery.
+Lubiprostone 24 mcg capsules (Amitiza, generic)
+3 Pages - Cigna National Formulary Coverage - Policy:Bowel Agents – Lubiprostone Drug Quantity Management
+Policy – Per Rx
+No overrides recommended.
+REFERENCES
+1. Amitiza® capsules [prescribing information]. Bedminster, NJ and Lexington, MA:
+Sucampo/Takeda; November 2020.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Policy Name was updated from “Bowel Disease – Lubiprostone Drug 06/08/2023
+Revision Quantity Management Policy – Per Rx” to “Bowel Agents –
+Lubiprostone Drug Quantity Management Policy – Per Rx”.
+Policy was updated to reflect the existing quantity limits when a
+product is obtained via home delivery.
+No criteria changes.
+Annual No criteria changes. 06/19/2024
+Revision
+Annual No criteria changes. 06/02/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Bowel Agents – Lubiprostone Drug Quantity Management
+Policy – Per Rx

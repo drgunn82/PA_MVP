@@ -1,0 +1,58 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1258-7
+Program Prior Authorization/Notification
+Medications Galafold® (migalastat)
+P&T Approval Date 9/2018, 10/2019, 10/2020, 10/2021, 10/2022, 10/2023, 10/2024
+Effective Date 1/1/2025
+1. Background:
+Galafold (migalastat) is an alpha-galactosidase A (alpha-Gal A) pharmacological chaperone indicated
+for the treatment of adults with a confirmed diagnosis of Fabry disease and an amenable galactosidase
+alpha gene (GLA) variant based on in vitro assay data.
+This indication is approved under accelerated approval based on reduction in kidney interstitial
+capillary cell globotriaosylceramide (KIC GL-3) substrate. Continued approval for this indication
+may be contingent upon verification and description of clinical benefit in confirmatory trials.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Galafold will be approved based on all of the following criteria:
+a. Diagnosis of Fabry disease
+-AND-
+b. Patient has an amenable galactosidase alpha gene (GLA) variant based on in vitro assay data
+-AND-
+c. Patient is not receiving Galafold in combination with Fabrazyme (agalsidase beta) or Elfabrio
+(pegunigalsidase alfa-iwxj)
+Authorization will be issued for 12 months.
+B. Reauthorization
+1. Galafold will be approved based on both of the following criteria:
+a. Documentation of positive clinical response to Galafold therapy
+-AND-
+b. Patient is not receiving Galafold in combination with Fabrazyme (agalsidase beta) or Elfabrio
+(pegunigalsidase alfa-iwxj)
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+1
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Programs:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Galafold [package insert]. Philadelphia, PA: Amicus Therapeutics US, LLC; June 2024.
+Program Prior Authorization/Notification – Galafold (migalastat)
+Change Control
+9/2018 New program.
+10/2019 Annual review with no changes to clinical coverage criteria. Updated
+reference.
+10/2020 Annual review. No change to clinical coverage criteria. Reauthorization
+changed to 12 months. Reference updated.
+10/2021 Annual review with no change to clinical coverage criteria. Updated reference.
+10/2022 Annual review with no change to clinical coverage criteria. Added state
+mandate footnote.
+10/2023 Annual review. Added Elfabrio as a drug to not be used in combination.
+Updated reference.
+10/2024 Annual review with no change to clinical coverage criteria. Updated reference.
+© 2024 UnitedHealthcare Services, Inc.
+2

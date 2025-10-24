@@ -1,0 +1,206 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Lupus – Lupkynis Prior Authorization Policy
+• Lupkynis® (voclosporin capsules – Aurinia)
+REVIEW DATE: 03/19/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Lupkynis, a calcineurin inhibitor immunosuppressant, is indicated in combination with a
+background immunosuppressive therapy regimen for the treatment of active lupus
+nephritis in adults.1
+Limitations of Use: Lupkynis safety and efficacy have not been established in combination
+with cyclophosphamide and this combination is not recommended.1
+Guidelines
+Guidelines for the management of lupus nephritis from Kidney Disease: Improving Global
+Outcomes (KDIGO) [2024] recommend Benlysta or Lupkynis in combination with other
+medications plus glucocorticoids as initial treatment options for patients with active Class III
+or IV (± Class V) biopsy confirmed lupus nephritis (strong recommendation, moderate
+certainty of evidence).3 No preference is given between the treatment protocol options;
+however, the KDIGO guidelines do provide individual patient clinical factors to consider,
+including but not limited to, kidney function and histology, risk of disease flare, proteinuria,
+background suppression, and need for parenteral therapy.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Lupkynis. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+Page 1 of 6 - Cigna National Formulary Coverage - Policy: Lupus – Lupkynis Prior Authorization Policy
+required for evaluation and diagnosis of patients treated with Lupkynis as well as the
+monitoring required for adverse events and long-term efficacy, approval requires Lupkynis
+to be prescribed by or in consultation with a physician who specializes in the condition being
+treated.
+• Lupkynis® (voclosporin capsules – Aurinia)
+is(are) covered as medically necessary when the following criteria is(are) met for
+FDA-approved indication(s) or other uses with supportive evidence (if applicable):
+FDA-Approved Indication
+1. Lupus Nephritis. Approve for the duration noted if the patient meets ONE of the
+following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following (i, ii,
+iii, iv, and v):
+i. Patient is ≥ 18 years of age; AND
+ii. Diagnosis of lupus nephritis has been confirmed on biopsy; AND
+Note: For example, World Health Organization class III, IV, or V lupus nephritis.
+iii. The medication is being used concurrently with an immunosuppressive regimen;
+AND
+Note: Examples of an immunosuppressive regimen include mycophenolate
+mofetil or azathioprine with a systemic corticosteroid.
+iv. Patient has an estimated glomerular filtration rate (eGFR) > 45 mL/min/m2; AND
+v. The medication is prescribed by or in consultation with a nephrologist or
+rheumatologist.
+B) Patient is Currently Receiving Lupkynis. Approve for 1 year if the patient meets ALL
+of the following (i, ii, iii, and iv):
+i. Patient is ≥ 18 years of age; AND
+ii. The medication is being used concurrently with an immunosuppressive regimen;
+AND
+Note: Examples of an immunosuppressive regimen include mycophenolate
+mofetil or azathioprine with a systemic corticosteroid.
+iii. Patient has responded to Lupkynis, as determined by the prescriber; AND
+Note: Examples of a response include improvement in organ dysfunction,
+reduction in flares, reduction in corticosteroid dose, decrease of anti-double
+stranded DNA (anti-dsDNA) titer, and improvement in complement levels (i.e.,
+C3, C4).
+iv. The medication is prescribed by or in consultation with a nephrologist or
+rheumatologist.
+CONDITIONS NOT COVERED
+• Lupkynis® (voclosporin capsules – Aurinia)
+is(are) considered experimental, investigational or unproven for ANY other use(s)
+including the following (this list may not be all inclusive; criteria will be updated
+as new published data are available):
+1. Concurrent Use with Biologics or with Cyclophosphamide. Lupkynis has not been
+studied in combination with other biologics or cyclophosphamide.1 Safety and efficacy
+4 Pages - Cigna National Formulary Coverage - Policy: Lupus – Lupkynis Prior Authorization Policy
+have not been established with these combinations. See APPENDIX for examples of
+biologics that should not be taken in combination with Lupkynis.
+2. Plaque Psoriasis. In a Phase III trial, voclosporin was inferior to cyclosporine, which is
+an established therapy for plaque psoriasis.4 Numerous other FDA-approved therapies
+are available with established efficacy for plaque psoriasis.
+3. Coverage is not recommended for circumstances not listed in the Recommended
+Authorization Criteria. Criteria will be updated as new published data are available.
+REFERENCES
+1. Lupkynis® capsules [prescribing information]. Rockville, MD: Aurinia; December 2024.
+2. Fanouriakis A, Kostopoulou M, Andersen J, et al. EULAR recommendations for the
+management of systemic lupus erythematosus: 2023 update. Ann Rheum Dis.
+2024;83(1):15-29.
+3. Kidney Disease: Improving Global Outcomes (KDIGO) Lupus Nephritis Work Group.
+KDIGO 2024 Clinical Practice Guideline for the management of LUPUS NEPHRITIS.
+Kidney Int. 2024;105(1S): S1-S69.
+4. Li Y, Palmisano M, Sun D, Zhou Sl. Pharmacokinetic disposition difference between
+cyclosporine and voclosporin drives their distinct efficacy and safety profiles in clinical
+studies. Clin Pharmacol. 2020; 12:83-96.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Lupus Nephritis: For initial therapy, a requirement was 03/08/2023
+Revision added that the patient has biopsy-confirmed lupus
+nephritis. For initial therapy and a patient currently taking
+Lupkynis, the requirement that the patient be taking
+mycophenolate mofetil and a corticosteroid was changed
+to more generally require that the patient be taking an
+immunosuppressive regimen. Mycophenolate mofetil or
+azathioprine with a systemic corticosteroid were added as
+examples of immunosuppressive regimens. The exception
+for a patient who is not a candidate for mycophenolate
+mofetil and a systemic corticosteroid due to inadequate
+efficacy or significant intolerance with these medications
+was removed from the policy.
+Selected Lupus Nephritis: For initial therapy, the requirement 07/05/2023
+Revision that the “Patient has autoantibody-positive systemic lupus
+erythematosus (SLE), defined as positive for antinuclear
+antibodies (ANA) and/or anti-double-stranded DNA (anti-
+dsDNA) antibody” was removed from the policy.
+Annual No criteria changes. 03/13/2024
+Revision
+Annual Updated Appendix. 03/19/2025
+Revision
+A PPENDIX
+Mechanism of Examples of
+Action Indications*
+Biologics
+4 Pages - Cigna National Formulary Coverage - Policy: Lupus – Lupkynis Prior Authorization Policy
+Benlysta (belimumab SC injection, BLyS inhibitor SLE, lupus nephritis
+IV infusion)
+Saphnelo (anifrolumab-fnia IV IFN receptor SLE
+infusion) antagonist
+Adalimumab SC Products Inhibition of TNF AS, CD, JIA, PsO, PsA, RA,
+(Humira®, biosimilars) UC
+Cimzia® (certolizumab pegol SC Inhibition of TNF AS, CD, nr-axSpA, PsO,
+injection) PsA, RA
+Etanercept SC Products (Enbrel®, Inhibition of TNF AS, JIA, PsO, PsA, RA
+biosimilars)
+Infliximab IV Products Inhibition of TNF AS, CD, PsO, PsA, RA, UC
+(Remicade®, biosimilars)
+Zymfentra® (infliximab-dyyb SC Inhibition of TNF CD, UC
+injection)
+Simponi®, Simponi Aria® Inhibition of TNF SC formulation: AS, PsA,
+(golimumab SC injection, golimumab RA, UC
+IV infusion) IV formulation: AS, PJIA,
+PsA, RA
+Tocilizumab Products (Actemra® Inhibition of IL-6 SC formulation: PJIA, RA,
+IV, biosimilar; Actemra SC, SJIA
+biosimilar) IV formulation: PJIA, RA,
+SJIA
+Kevzara® (sarilumab SC injection) Inhibition of IL-6 RA
+Orencia® (abatacept IV infusion, T-cell costimulation SC formulation: JIA, PSA,
+abatacept SC injection) modulator RA
+IV formulation: JIA, PsA,
+RA
+Rituximab IV Products (Rituxan®, CD20-directed RA
+biosimilars) cytolytic antibody
+Kineret® (anakinra SC injection) Inhibition of IL-1 JIA^, RA
+Omvoh® (mirikizumab IV infusion, Inhibition of IL-23 UC
+SC injection)
+Stelara® (ustekinumab SC injection, Inhibition of IL- SC formulation: CD, PsO,
+ustekinumab IV infusion) 12/23 PsA, UC
+IV formulation: CD, UC
+Siliq® (brodalumab SC injection) Inhibition of IL-17 PsO
+Cosentyx® (secukinumab SC Inhibition of IL-17A SC formulation: AS, ERA,
+injection; secukinumab IV infusion) nr-axSpA, PsO, PsA
+IV formulation: AS, nr-
+axSpA, PsA
+Taltz® (ixekizumab SC injection) Inhibition of IL-17A AS, nr-axSpA, PsO, PsA
+Bimzelx® (bimekizumab-bkzx SC Inhibition of IL- PsO
+injection) 17A/17F
+Ilumya® (tildrakizumab-asmn SC Inhibition of IL-23 PsO
+injection)
+Skyrizi® (risankizumab-rzaa SC Inhibition of IL-23 SC formulation: CD, PSA,
+injection, risankizumab-rzaa IV PsO, UC
+infusion) IV formulation: CD, UC
+Tremfya® (guselkumab SC injection, Inhibition of IL-23 SC formulation: PsA, PsO,
+guselkumab IV infusion) UC
+IV formulation: UC
+4 Pages - Cigna National Formulary Coverage - Policy: Lupus – Lupkynis Prior Authorization Policy
+Entyvio® (vedolizumab IV infusion, Integrin receptor CD, UC
+vedolizumab SC injection) antagonist
+* Not an all-inclusive list of indication (e.g., oncology indications and rare inflammatory
+conditions are not listed). Refer to the prescribing information for the respective agent for
+FDA-approved indications; SC – Subcutaneous; IV – Intravenous; BLyS – B-lymphocyte
+stimulator-specific inhibitor; SLE – Systemic lupus erythematosus; IFN – Interferon; TNF –
+Tumor necrosis factor; AS – Ankylosing spondylitis; CD – Crohn’s disease; JIA – Juvenile
+idiopathic arthritis; PsO – Plaque psoriasis; PsA – Psoriatic arthritis; RA – Rheumatoid
+arthritis; UC – Ulcerative colitis; nr-axSpA – Non-radiographic axial spondyloarthritis; PJIA –
+Polyarticular juvenile idiopathic arthritis; IL – Interleukin; SJIA – Systemic juvenile
+idiopathic arthritis; ^ Off-label use of Kineret in JIA supported in guidelines; ERA –
+Enthesitis-related arthritis.
+"CIGNA COMPANIES" REFERS TO OPERATING SUBSIDIARIES OF THE CIGNA GROUP. ALL PRODUCTS AND
+SERVICES ARE PROVIDED EXCLUSIVELY BY OR THROUGH SUCH OPERATING SUBSIDIARIES, INCLUDING CIGNA
+HEALTH AND LIFE INSURANCE COMPANY, CONNECTICUT GENERAL LIFE INSURANCE COMPANY, EVERNORTH
+BEHAVIORAL HEALTH, INC., CIGNA HEALTH MANAGEMENT, INC., AND HMO OR SERVICE COMPANY
+SUBSIDIARIES OF THE CIGNA GROUP. © 2025 THE CIGNA GROUP.
+4 Pages - Cigna National Formulary Coverage - Policy: Lupus – Lupkynis Prior Authorization Policy

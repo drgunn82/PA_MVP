@@ -1,0 +1,209 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Antifungals – Posaconazole (Oral) Prior Authorization Policy
+• Noxafil® (posaconazole delayed-release tablets [generic], oral
+suspension [generic], PowderMix for delayed-release oral
+suspension − Merck)
+REVIEW DATE: 07/16/2025
+•
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Posaconazole, an azole antifungal, is indicated for the following uses:1
+• Prophylaxis of invasive Aspergillus and Candida infections in patients
+who are at high risk of developing these infections due to being severely
+immunocompromised, such as hematopoietic stem cell transplant (HSCT)
+recipients with graft-versus-host disease (GVHD) or those with hematologic
+malignancies with prolonged neutropenia from chemotherapy: delayed-
+release tablets, in adults and pediatric patients ≥ 2 years of age who weigh >
+40 kg; oral suspension, in adults and pediatric patients ≥ 13 years of age;
+Noxafil PowderMix for delayed-release oral suspension, in pediatric patients
+≥ 2 years of age who weigh ≤ 40 kg.
+• Treatment of invasive aspergillosis in adults and pediatric patients ≥ 13
+years of age (delayed-release tablets).
+Page 1 of 5 - Cigna National Formulary Coverage - Policy: Antifungals – Posaconazole (Oral) Prior Authorization
+Policy
+• Treatment of oropharyngeal candidiasis including oropharyngeal
+candidiasis refractory to itraconazole and/or fluconazole, in patients ≥ 13
+years of age (oral suspension).
+The duration of posaconazole therapy is varied. In a pivotal study, where
+posaconazole oral suspension was compared with fluconazole capsules as
+prophylaxis for the prevention of invasive fungal infections in allogeneic HSCT
+recipients with GVHD, the mean duration of posaconazole therapy was 80 days.1
+The recommended total duration of therapy for the treatment of invasive
+aspergillosis is 6 to 12 weeks. The duration of therapy for other indications varies
+and is based on recovery from neutropenia, degree of immunosuppression, and
+severity of underlying disease and clinical response.
+Guidelines
+The Infectious Diseases Society of America (IDSA) guidelines for aspergillosis
+(2016) recommend posaconazole for treatment and prophylaxis of invasive
+aspergillosis.2 The IDSA guidelines for candidiasis (2016) and the National
+Comprehensive Cancer Network (NCCN) Guidelines for the Prevention and
+Treatment of Cancer-Related Infections (version 1.2025 – June 20, 2025) note
+posaconazole as one of the drugs of choice for the treatment of fluconazole-
+refractory oropharyngeal candidiasis.3,5 The IDSA notes posaconazole as having
+high-quality evidence for prophylaxis of candidiasis.
+NCCN notes posaconazole is active against Candida and Aspergillus species, some
+Mucorales spp, some of the rarer molds, and against dimorphic fungi and C.
+neoformans. Posaconazole is noted as a treatment option for the prevention of
+fungal infections in patients with significant graft-versus-host disease (GVHD)
+[especially grade 3/4] who are receiving immunosuppressive therapy; treatment
+should continue until resolution of significant GVHD. Posaconazole is also a
+treatment option for these groups of patients with neutropenia: patients with
+myelodysplastic syndrome, patients with acute myeloid leukemia, and patients who
+are allogeneic hematopoietic cell transplant recipients; treatment should continue
+until resolution of neutropenia. NCCN also notes posaconazole as a treatment
+option for the treatment of the following infections: mouth and esophageal
+infections (e.g., oral thrush) refractory to fluconazole; invasive fusariosis;
+Scedosporium infections; and maintenance treatment of mucormycosis.5 In
+addition, posaconazole is a treatment option for patients with invasive, refractory
+infections who have intolerance to amphotericin B formulations.
+The guidelines for prevention and treatment of opportunistic infections in adults and
+adolescents with human immunodeficiency virus (HIV) infections (last updated April
+2025) note posaconazole as an option for treatment of patients with
+coccidioidomycosis, or histoplasmosis; and as chronic suppressive treatment of
+esophageal candidiasis.4
+Other Uses with Supportive Evidence
+The global guideline for the diagnosis and management of cryptococcosis (2024)
+note posaconazole as an alternative treatment option for patients with cryptococcal
+Page 2 of 5 - Cigna National Formulary Coverage - Policy: Antifungals – Posaconazole (Oral) Prior Authorization
+Polic
+meningitis.6 This is a moderate strength recommendation as posaconazole and
+other triazole drugs have not been formally studied in cryptococcosis.
+The global guideline for the diagnosis and management of mucormycosis (2019)
+also recommends posaconazole as an alternative treatment option for
+mucormycosis.7 Duration of therapy ranges from 1 week to almost 3 years, with a
+mean duration of approximately 6 months.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of
+Noxafil/posaconazole (oral). All approvals are provided for the duration noted below.
+In cases where the approval is authorized in months, 1 month is equal to 30 days.
+• Noxafil® (posaconazole delayed-release tablets [generic], oral
+suspension [generic], PowderMix for delayed-release oral suspension
+- Merck)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Aspergillus Infection – Prophylaxis. Approve for 6 months.
+2. Aspergillus Infection – Treatment. Approve for 6 months.
+3. Candida Infection (Systemic) – Prophylaxis. Approve for 6 months.
+4. Oropharyngeal Candidiasis – Treatment. Approve for 3 months.
+Other Uses with Supportive Evidence
+5. Esophageal Candidiasis in a Patient with Human Immunodeficiency
+Virus (HIV) Infection – Chronic Suppressive Treatment. Approve for 6
+months.
+6. Fungal Infection (Systemic) in a Patient With Cancer and Neutropenia –
+Prophylaxis. Approve for 6 months.
+Note: Examples of cancers predisposing neutropenic patients to risk of fungal
+infections include: myelodysplastic syndrome, acute myeloid leukemia,
+patients post-allogeneic hematopoietic cell transplant.
+7. Fungal Infection (Systemic) in a Patient with Graft-versus-Host Disease
+- Prophylaxis. Approve for 6 months.
+Page 3 of 5 - Cigna National Formulary Coverage - Policy: Antifungals – Posaconazole (Oral) Prior Authorization
+Polic
+8. Fungal Infection (Systemic) in a Patient with Human Immunodeficiency
+Virus Infection – Treatment. Approve for 6 months.
+9. Fusariosis, Invasive – Treatment. Approve for 3 months.
+10. Mouth and Esophageal Infection (Refractory to Other Azole
+Antifungals) – Treatment. Approve for 3 months.
+11. Mucormycosis – Maintenance Treatment. Approve for 12 months.
+12. Scedosporium Infection – Treatment. Approve for 3 months.
+13. Fungal Infection (Systemic) that is Susceptible to Posaconazole –
+Treatment. Approve for 3 months.
+14. Cryptococcal Meningitis – Treatment. Approve for 12 months.
+15. Patient is Currently Receiving Posaconazole. Approve for 3 months to
+complete the course of therapy.
+CONDITIONS NOT COVERED
+• Noxafil® (posaconazole delayed-release tablets [generic], oral
+suspension [generic], PowderMix for delayed-release oral suspension
+- Merck)
+is(are) considered not medically necessary for ANY other use(s); criteria
+will be updated as new published data are available.
+REFERENCES
+1. Noxafil® intravenous infusion, delayed-release tablets, oral suspension, and delayed-release oral
+suspension [prescribing information]. Whitehouse Station, NJ: Merck; September 2024
+2. Patterson TF, Thompson GR, Denning DW, et al. Practice guidelines for the diagnosis and
+management of aspergillosis: 2016 update by the Infectious Diseases Society of America. Clin
+Infect Dis. 2016;63(4):e1-e60.
+3. Pappas PG, Kauffman CA, Andes DR, et al. Clinical practice guidelines for the management of
+candidiasis: 2016 update by the Infectious Diseases Society of America. Clin Infect Dis.
+2016;62(4):e1-50.
+4. Panel on Opportunistic Infections in HIV-Infected Adults and Adolescents. Guidelines for the
+prevention and treatment of opportunistic infections in HIV-infected adults and adolescents:
+recommendations from the Centers for Disease Control and Prevention, the National Institutes of
+Health, and the HIV Medicine Association of the Infectious Diseases Society of America. Available
+at: https://clinicalinfo.hiv.gov/sites/default/files/guidelines/documents/adult-adolescent-
+oi/guidelines-adult-adolescent-oi.pdf. Last updated July 9, 2024. Accessed on July 25, 2024.
+5. The NCCN Prevention and Treatment of Cancer-Related Infections Clinical Practice Guidelines in
+Oncology (version 1.2025 – June 20, 2025). ©2025 National Comprehensive Cancer Network.
+Available at: http://www.nccn.org. Accessed on July 1, 2025.
+6. Cornely OA, Izquierdo AA, Arenz D, et al. Global guideline for the diagnosis and management of
+mucormycosis: an initiative of the European confederation of medical mycology in cooperation
+Page 4 of 5 - Cigna National Formulary Coverage - Policy: Antifungals – Posaconazole (Oral) Prior Authorization
+Polic
+with the mycoses study group education and research consortium. Lancet Infect Dis.
+2019;19(12): e405-421.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Policy name change: from Antifungals – Noxafil (Oral) PA to 07/26/2023
+Revision Antifungals – Posaconazole (Oral) PA.
+Fungal Infection in a Patient with Human Immunodeficiency
+Virus (HIV) Infection (e.g., Histoplasmosis,
+Coccidioidomycosis) – Treatment: The examples, histoplasmosis
+and coccidioidomycosis were removed.
+Fungal Infection (Systemic) in a Patient with Graft-versus-
+Host Disease – Prophylaxis: This condition of approval was added
+to the policy.
+Fungal Infection (Systemic) in a Patient with Cancer and
+Neutropenia – Prophylaxis: This indication was previously worded
+as “Fungal Infection (Systemic) in a Patient At Risk of Neutropenia –
+Prophylaxis” and was revised to align with National Comprehensive
+Cancer Network (NCCN) guidelines. Examples of cancers
+predisposing neutropenic patients to risk of fungal infections were
+added as a Note.
+Annual No criteria changes. 07/31/2024
+Revision
+Annual Aspergillus Infection – Treatment. The duration of approval for 07/16/2025
+Revision this condition was changed to 6 months. Previously, it was 3 months.
+Mucormycosis – Maintenance Treatment: The duration of
+approval for this condition was changed to 12 months. Previously, it
+was 6 months.
+Cryptococcal Meningitis – Treatment: New condition of approval
+was added to Other Uses with Supportive Evidence.
+Fungal Infection (Systemic) in a Patient with Human
+Immunodeficiency Virus Infection – Treatment: The duration
+of approval for this condition was changed to 6 months. Previously it
+was 3 months.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 5 of 5 - Cigna National Formulary Coverage - Policy: Antifungals – Posaconazole (Oral) Prior Authorization
+Polic

@@ -1,0 +1,121 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2154-8
+Program Prior Authorization/Medical Necessity
+Medication Hemlibra® (emicizumab-kxwh)
+P&T Approval Date 11/2018, 11/2019, 9/2020, 9/2021, 9/2022, 9/2023, 9/2024, 5/2025
+Effective Date 7/1/2025
+1. Background:
+Hemlibra (emicizumab-kxwh) is a bispecific factor IXa- and factor X-directed antibody indicated
+for routine prophylaxis to prevent or reduce the frequency of bleeding episodes in adult and
+pediatric patients ages newborn and older with hemophilia A (congenital factor VIII deficiency)
+with or without factor VIII inhibitors.
+2. Coverage Criteriaa:
+A. Hemophilia A With Inhibitors
+1. Initial Authorization
+a. Hemlibra will be approved based on all of the following criteria
+(1) Diagnosis of hemophilia A
+-AND-
+(2) Patient has developed high-titer factor VIII inhibitors ( > 5 Bethesda units [BU])
+-AND-
+(3) Prescribed for the prevention of bleeding episodes (i.e., routine prophylaxis)
+Authorization of therapy will be issued for 12 months.
+2. Reauthorization
+a. Documentation of positive clinical response to Hemlibra therapy
+Authorization will be issued for 12 months.
+B. Hemophilia A Without Inhibitors
+1. Initial Authorization
+a. Hemlibra will be approved based on both of the following criteria
+(1) One of the following:
+© 2025 UnitedHealthcare Services Inc.
+1
+(a) Both of the following:
+i. Diagnosis of severe hemophilia A
+-AND-
+ii. Documentation of endogenous factor VIII levels less than 1% of normal
+factor VIII (< 0.01 IU/mL)
+-OR-
+(b) Both of the following:
+i. One of the following
+1. Both of the following
+a. Diagnosis of moderate hemophilia A
+-AND-
+b. Documentation of endogenous factor VIII level >1% < 5% (greater
+than or equal to 0.01 IU/mL to less than 0.05 IU/mL)
+-OR-
+2. Both of the following
+a. Diagnosis of mild hemophilia A
+-AND-
+b. Documentation of endogenous factor VIII level > 5% (greater than
+or equal to 0.05 IU/mL)
+-AND-
+ii. Submission of medical records (e.g., chart notes, laboratory values)
+documenting a failure to meet clinical goals (e.g., continuation of
+spontaneous bleeds, inability to achieve appropriate trough level, previous
+history of inhibitors) after a trial of prophylactic factor VIII replacement
+products
+-OR-
+(c) All of the following:
+i. Patient is currently on Hemlibra therapy
+-AND-
+© 2025 UnitedHealthcare Services Inc.
+2
+ii. Diagnosis of hemophilia A
+-AND-
+iii. Patient has not received a manufacturer supplied sample at no cost in
+prescriber office, or any form of assistance from the Genentech Patient
+Foundation or the Genentech sponsored Hemlibra Co-pay Card program
+(e.g., sample card which can be redeemed at a pharmacy for a free supply
+of medication) as a means to establish as a current user of Hemlibra*
+-AND-
+(2) Hemlibra is prescribed for the prevention of bleeding episodes (i.e., routine
+prophylaxis)
+* Patients requesting initial authorization who were established on therapy via the receipt of a
+manufacturer supplied sample at no cost in the prescriber’s office or any form of assistance from
+the Genentech Patient Foundation or the Genentech Hemlibra Co-pay Card program shall be
+required to meet initial authorization criteria as if patient were new to therapy.
+Authorization of therapy will be issued for 12 months.
+2. Reauthorization
+a. Hemlibra will be approved based on the following criterion:
+(1) Documentation of positive clinical response to Hemlibra therapy
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+4. References:
+1. Hemlibra® [package insert]. South San Francisco, CA: Genentech, Inc., January 2024.
+2. Oldenburg, J, Mahlangu JN, Kim, B, et al. Emicizumab Prophylaxis in Hemophilia A with
+Inhibitors. N Engl J Med 2017; 377:809-818.
+3. Mahlangu J, Oldenburg J, Paz-Priel I, et al. Emicizumab Prophylaxis in Patients Who Have
+Hemophilia A without Inhibitors. N Engl J Med. 2018;379:811-22.
+© 2025 UnitedHealthcare Services Inc.
+3
+4. Blanchette VS, Key NS, Ljung LR, Manco-Johnson MJ, van Den Berg HM, Srivastava A, for the
+Subcommittee on Factor VIII, Factor IX and Rare Coagulation Disorders. Definitions in
+hemophilia: communication from the SSC of the ISTH. J Thromb Haemost 2014;12:1935–9.
+5. MASAC Recommendation on the Use and Management of Emicizumab-kxwh (Hemlibra®) for
+Hemophilia A with and without Inhibitors. MASAC Document #268, April 27, 2022.
+Program Prior Authorization/Medical Necessity - Hemlibra (emicizumab-kxwh)
+Change Control
+11/2018 New program
+11/2019 Annual review. No changes to clinical coverage criteria. Updated
+reference.
+9/2020 Annual review. No changes to clinical coverage criteria.
+9/2021 Annual review. No changes to clinical coverage criteria. Updated
+reference.
+9/2022 Annual review. Updated name of Genentech Access to Care Foundation
+to Genentech Patient Foundation with no change to clinical intent.
+Updated references.
+9/2023 Annual review. Modified physician attestation to prescriber attestation.
+Updated references.
+9/2024 Annual review. Updated list of examples of extended half-life factor
+VIII replacement products. Updated references.
+5/2025 Removed criteria that patient is not to receive extended half-life factor
+VIII replacement products for the treatment of breakthrough bleeding
+episodes.
+© 2025 UnitedHealthcare Services Inc.
+4

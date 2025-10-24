@@ -1,0 +1,46 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1464-1
+Program Prior Authorization/Notification
+Medication Yorvipath® (palopegteriparatide)
+P&T Approval Date 12/2024
+Effective Date 3/1/2025
+1. Background:
+Yorvipath® is a parathyroid hormone analog (PTH(1-34)) indicated for the treatment of
+hypoparathyroidism in adults.
+Limitations of Use:
+• Yorvipath was not studied for acute post-surgical hypoparathyroidism.
+• Titration scheme was only evaluated in adults who first achieved an albumin-corrected serum
+calcium of at least 7.8 mg/dL using calcium and active vitamin D treatment.
+2. Coverage Criteriaa:
+A. Initial Authorization
+1. Yorvipath will be approved based on all of the following criteria:
+a. Diagnosis of hypoparathyroidism
+-AND-
+b. Yorvipath is not being used to treat acute post-surgical hypoparathyroidism
+-AND-
+c. Patient has achieved an albumin-corrected serum calcium of at least 7.8 mg/dL
+using calcium and active vitamin D (e.g., calcitriol) treatment
+Authorization will be issued for 12 months
+B. Reauthorization
+1. Yorvipath will be approved based on the following criterion:
+a. Documentation of positive clinical response to Yorvipath therapy
+Authorization will be issued for 12 months
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+© 2024 UnitedHealthcare Services, Inc.
+1
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Medical Necessity may be in place
+4. References:
+1. Yorvipath® [package insert]. Princeton, NJ: Ascendis Pharma, Inc.; August 2024.
+Program Prior Authorization/Notification - Yorvipath (palopegteriparatide)
+Change Control
+12/2024 New program.
+© 2024 UnitedHealthcare Services, Inc.
+2

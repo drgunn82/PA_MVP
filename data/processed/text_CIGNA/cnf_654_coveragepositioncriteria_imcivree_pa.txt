@@ -1,0 +1,254 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Metabolic Disorders – Imcivree Prior Authorization Policy
+• Imcivree® (setmelanotide subcutaneous injection – Rhythm)
+REVIEW DATE: 01/08/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Imcivree, a melanocortin 4 receptor agonist, is indicated to reduce excess body
+weight and maintain weight reduction long term by reducing hunger and food intake
+and increasing energy expenditure in patients ≥ 2 years of age with monogenic or
+syndromic obesity due to:1
+• Proopiomelanocortin (POMC), proprotein convertase subtilisin/kexin
+type 1 (PCSK1), or leptin receptor (LEPR) deficiency, as determined by
+an FDA-approved test demonstrating variants in POMC, PCSK1, or LEPR genes
+that are interpreted as pathogenic, likely pathogenic, or of uncertain
+significance.
+• Bardet-Biedl Syndrome.
+As a limitation of use, Imcivree is not indicated for obesity due to suspected POMC,
+PCSK1, or LEPR deficiency with POMC, PCSK1, or LEPR variants classified as benign
+or likely benign.1 Imcivree is also not indicated for obesity not related to POMC,
+PCSK1, or LEPR deficiency or not related to Bardet-Biedl syndrome, including obesity
+associated with other genetic syndromes and general (polygenic) obesity.
+In the pivotal trial for Imcivree regarding obesity due to POMC deficiency
+(homozygous or compound heterozygous variants in POMC or PCSK1) or LEPR
+deficiency (homozygous or compound heterozygous variants in LEPR), obesity was
+Page 1 of 7 - Cigna National Formulary Coverage - Policy:Metabolic Disorders – Imcivree Prior Authorization Policy
+defined according to patient age.2 For patients 6 to < 18 years of age, obesity was
+defined as body weight ≥ 95th percentile for age on growth chart assessment. For
+patients ≥ 18 years of age, obesity was defined as a body mass index (BMI) ≥ 30
+kg/m2.
+The use of Imcivree in pediatric patients 2 to < 6 years of age is supported by a 1-
+year open-label study in 12 pediatric patients with POMC or LEPR deficiency or
+Bardet-Biedl Syndrome (patients with PCSK1 were eligible, but none were enrolled).1
+POMC and LEPR deficiency were confirmed by genetic testing demonstrating biallelic
+variants interpreted as pathogenic, likely pathogenic, or of undetermined
+significance; Bardet-Biedl Syndrome was diagnosed clinically with genetic
+confirmation. Obesity was defined as baseline BMI ≥ 97th percentile for age and sex
+and body weight ≥ 20 kg.
+Per the Imcivree prescribing information, select patients for treatment with Imcivree
+who have a clinical diagnosis of Bardet-Biedl syndrome.1 It is noted that in the pivotal
+trial, adults had a BMI ≥ 30 kg/m2 and pediatric patients had a weight ≥ 97th
+percentile using growth chart assessments. Patients were enrolled who had a clinical
+diagnosis of Bardet-Biedl syndrome. The clinical diagnosis was based on Beales
+criteria, which require that four primary features, or three primary and two secondary
+features, of Bardet-Biedl syndrome be met.3
+The percentage of body weight loss from baseline or percentage of baseline BMI for
+a patient with continued growth potential was assessed as the efficacy endpoints in
+the clinical trials. Patients with < 5% weight loss or < 5% of BMI loss were not
+considered to have a response to Imcivree (assessed at 1 year in patients with
+Bardet-Biedl syndrome and after 12 weeks in patients with POMC, PCSK1, or LEPR
+deficiency).
+Disease Overview
+Monogenic obesity is a rare and severe early-onset form of obesity.4 Unlike general
+obesity, environmental factors are much less impactful on obesity development in
+these patients. Fewer than 50 patients worldwide have been identified with POMC
+deficiency (POMC or PCSK1 mutations); the prevalence of LEPR deficiency is unknown
+but is expected to account for less than 3% of severe early-onset obesity. The true
+prevalence of these disorders is unknown and likely underestimated due to lack of
+provider awareness and genetic testing.2 Clinical presentation is mainly characterized
+by major hyperphagia and ravenous hunger.3 Patients with these disorders
+experience very rapid and early increase in weight, occurring within the first few days
+of life to early childhood. Lifestyle interventions may provide initial weight loss but
+are very difficult to maintain long-term in this population due to constant, insatiable
+hunger.5 Isolated case reports of bariatric surgery have demonstrated some efficacy
+but are generally regarded as disappointing relative to the general population, likely
+related to the underlying energy imbalance. Caution is urged before considering
+bariatric surgery in patients with monogenic obesity disorders.
+Bardet-Biedl syndrome is a rare genetic disease of obesity with an estimated
+prevalence of 1:100,000 individuals in Northern Europe and America, although the
+prevalence can be higher in certain consanguineous populations.6 It is generally
+5 Pages - Cigna National Formulary Coverage - Policy:Metabolic Disorders – Imcivree Prior Authorization Policy
+inherited in an autosomal recessive fashion. There are many gene mutations which
+are known to lead to the development of Bardet-Biedl syndrome. Additionally, an
+estimated 20% to 30% of patients with Bardet-Biedl syndrome do not have an
+identified genetic mutation. Diagnosis is based on the presence of characteristic
+clinical findings.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Imcivree. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Imcivree as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Imcivree to be prescribed by or in consultation with a physician who specializes in
+the condition being treated.
+• Imcivree® (setmelanotide subcutaneous injection – Rhythm)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Obesity Due to Proopiomelanocortin (POMC), Proprotein Convertase
+Subtilisin/Kexin Type 1 (PCSK1), or Leptin Receptor (LEPR) Deficiency.
+Approve for the duration noted if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 4 months if the patient meets ALL of the following
+(i, ii, iii, and iv):
+i. Patient is ≥ 2 years of age; AND
+ii. Patient meets BOTH of the following (a and b):
+a) Genetic testing demonstrates homozygous or compound heterozygous
+mutations in one of the following genes: POMC, PCSK1, or LEPR; AND
+b) The genetic variant is interpreted as pathogenic, likely pathogenic, or of
+uncertain significance; AND
+iii. Patient meets ONE of the following (a, b, or c):
+a) Patient is ≥ 18 years of age: Patient currently has a body mass index
+(BMI) ≥ 30 kg/m2; OR
+b) Patient is 6 to 17 years of age: Patient currently has a body weight ≥
+95th percentile for age on growth chart assessment; OR
+c) Patient is 2 to ≤ 5 years of age: Patient currently has a body weight ≥
+97th percentile for age on growth chart assessment; AND
+iv. The medication is prescribed by or in consultation with an endocrinologist,
+a geneticist, or a physician who specializes in metabolic disorders.
+B) Patient is Currently Receiving Imcivree. Approve for 1 year if the patient meets
+ALL of the following (i, ii, iii, and iv):
+5 Pages - Cigna National Formulary Coverage - Policy:Metabolic Disorders – Imcivree Prior Authorization Policy
+Note: For a patient who has not completed at least 4 months of Imcivree
+therapy, refer to Initial Therapy criteria.
+i. Patient is ≥ 2 years of age; AND
+ii. Patient meets BOTH of the following (a and b):
+a) Genetic testing demonstrates homozygous or compound heterozygous
+mutations in one of the following genes: POMC, PCSK1, or LEPR; AND
+b) The genetic variant is interpreted as pathogenic, likely pathogenic, or of
+uncertain significance; AND
+iii. Patient meets ONE of the following (a or b):
+a) Patient has lost ≥ 5% of baseline body weight since initiating Imcivree
+therapy; OR
+b) Patient meets both of the following [(1) and (2)]:
+(1) Patient has continued growth potential; AND
+(2) Patient has lost ≥ 5% of baseline BMI since initiating Imcivree
+therapy; AND
+iv. The medication is prescribed by or in consultation with an endocrinologist,
+a geneticist, or a physician who specializes in metabolic disorders.
+2. Obesity Due to Bardet-Biedl Syndrome. Approve for 1 year if the patient
+meets ONE of the following (A or B):
+A) Initial Therapy. Approve if the patient meets ALL of the following (i, ii, iii, and
+iv):
+i. Patient is ≥ 2 years of age; AND
+ii. Patient has a clinical diagnosis of Bardet-Biedl Syndrome by meeting ONE
+of the following (a or b):
+a) Patient has at least FOUR of the following primary features of Bardet-
+Biedl Syndrome: rod-cone dystrophy, polydactyly, obesity, learning
+disability, renal anomalies, or male hypogonadism; OR
+b) Patient meets BOTH of the following [(1) and (2)]:
+(1) Patient has at least THREE of the following primary features of
+Bardet-Biedl Syndrome: rod-cone dystrophy, polydactyly, obesity,
+learning disability, renal anomalies, or male hypogonadism; AND
+(2) Patient has at least TWO of the following secondary features of
+Bardet-Biedl Syndrome: speech disorder/delay,
+strabismus/cataracts/astigmatism, brachydactyly/syndactyly,
+developmental delay, polyuria/polydipsia (nephrogenic diabetes
+insipidus), ataxia/poor coordination/imbalance, mild spasticity,
+diabetes mellitus, dental crowding/hypodontia/small roots/high
+arched palate, left ventricular hypertrophy/congenital heart disease,
+or hepatic fibrosis; AND
+iii. Patient meets ONE of the following (a or b):
+a) Patient is ≥ 18 years of age: Patient currently has a body mass index
+(BMI) ≥ 30 kg/m2; OR
+b) Patient is < 18 years of age: Patient currently has a body weight ≥ 97th
+percentile for age on growth chart assessment; AND
+iv. The medication is prescribed by or in consultation with an endocrinologist,
+a geneticist, or a physician who specializes in metabolic disorders.
+5 Pages - Cigna National Formulary Coverage - Policy:Metabolic Disorders – Imcivree Prior Authorization Policy
+B) Patient is Currently Receiving Imcivree. Approve if the patient meets ALL of
+the following (i, ii, and iii):
+Note: For a patient who has not completed at least 1 year of Imcivree therapy,
+refer to Initial Therapy criteria.
+i. Patient is ≥ 2 years of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has lost ≥ 5% of baseline body weight since initiating Imcivree
+therapy; OR
+b) Patient meets both of the following [(1) and (2)]:
+(1) Patient is < 18 years of age; AND
+(2) Patient has lost ≥ 5% of baseline BMI since initiating Imcivree
+therapy; AND
+iii. The medication is prescribed by or in consultation with an endocrinologist,
+a geneticist, or a physician who specializes in metabolic disorders.
+CONDITIONS NOT COVERED
+• Imcivree® (setmelanotide subcutaneous injection – Rhythm)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria will
+be updated as new published data are available):
+1. Other Genetic Obesity Syndromes. Imcivree is not indicated for genetic
+obesity syndromes other than POMC-, PCSK1-, or LEPR-deficient obesity or
+Bardet-Biedl syndrome. A Phase III trial included six patients with Alström
+syndrome, none of the six patients met the primary endpoint (≥ 10% weight loss
+after 52 weeks of Imcivree).7
+Note: Examples of genetic obesity syndromes include Prader-Willi syndrome and
+Alström syndrome.
+2. General Obesity. Imcivree is not indicated in this setting and there are no
+clinical data to support its use.1
+REFERENCES
+1. Imcivree® subcutaneous injection [prescribing information]. Boston, MA: Rhythm; December 2024.
+2. Clément K, van den Akker E, Argente J, et al; setmelanotide POMC and LEPR Phase 3 Trial
+Investigators. Efficacy and safety of setmelanotide, an MC4R agonist, in individuals with severe
+obesity due to LEPR or POMC deficiency: single-arm, open-label, multicentre, phase 3 trials. Lancet
+Diabetes Endocrinol. 2020 Dec;8(12):960-970.
+3. Haws RM, Gordon G, Han JC, et al. The efficacy and safety of setmelanotide in individuals with
+Bardet-Biedl syndrome or Alström syndrome: Phase 3 trial design. Contemp Clin Trials Commun.
+2021 May 3;22:100780.
+4. Huvenne H, Dubern B, Clément K, Poitou C. Rare genetic forms of obesity: clinical approach and
+current treatments in 2016. Obes Facts. 2016;9(3):158-73.
+5. Poitou C, Mosbah H, Clément K. Mechanisms in endocrinology: update on treatments for patients
+with genetic obesity. Eur J Endocrinol. 2020;183(5):R149-R166.
+6. Bardet-Biedl syndrome. National Organization of Rare Disorders. Updated July 2022. Available at:
+https://rarediseases.org/rare-diseases/bardet-biedl-syndrome/ Accessed on January 3, 2025.
+5 Pages - Cigna National Formulary Coverage - Policy:Metabolic Disorders – Imcivree Prior Authorization Policy
+7. Haqq AM, Chung WK, Dolfus H, et al. Efficacy and safety of setmelanotide, a melanocortin-4
+receptor agonist, in patients with Bardet-Biedl syndrome and Alström syndrome: a multicentre,
+randomised, double-blind, placebo-controlled, phase 3 trial with an open-label period. Lancet
+Diabetes Endocrinol. 2022;10(12):859-868.
+8. Argente J, Verge CF, Okorie U, et al. Setmelanotide in patients aged 2-5 years with rare MC4R
+pathway-associated obesity (VENTURE): a 1-year open-label, multicenter, phase 3 trial. Lancet
+Diabetes Endocrinol. 2025;13(1):29-37.
+5 Pages - Cigna National Formulary Coverage - Policy:Metabolic Disorders – Imcivree Prior Authorization Policy
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 01/10/2024
+Revision
+Annual Obesity Due to Proopiomelanocortin (POMC), Proprotein 01/08/2025
+Revision Convertase Subtilisin/Kexin Type 1 (PCSK1), or Leptin
+Receptor (LEPR) Deficiency.
+Initial Therapy. The age criterion was updated to ≥ 2 years of age
+(previously ≥ 6 years of age). A criterion was added that for a patient
+that is 2 to ≤ 5 years of age, the patient currently has a body weight
+≥ 97th percentile for age on growth chart assessment.
+Patient is Currently Receiving Imcivree. The age criterion was updated
+to ≥ 2 years of age (previously ≥ 6 years of age).
+Obesity Due to Bardet-Biedl Syndrome.
+Initial Therapy. The age criterion was updated to ≥ 2 years of age
+(previously ≥ 6 years of age).
+Patient is Currently Receiving Imcivree. The age criterion was updated
+to ≥ 2 years of age (previously ≥ 6 years of age).
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2024 The Cigna
+Group.
+5 Pages - Cigna National Formulary Coverage - Policy:Metabolic Disorders – Imcivree Prior Authorization Policy

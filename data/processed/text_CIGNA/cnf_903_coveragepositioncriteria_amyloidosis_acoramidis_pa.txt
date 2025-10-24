@@ -1,0 +1,155 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Amyloidosis – Acoramidis Prior Authorization Policy
+• Attruby (acoramidis tablets – Bridgebio)
+REVIEW DATE: 12/04/2024
+•
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Attruby, a transthyretin (TTR) stabilizer, is indicated for the treatment of the
+cardiomyopathy of wild-type or variant TRR-mediated amyloidosis (ATTR-
+CM) to reduce cardiovascular death and cardiovascular-related hospitalization in
+adults.1 Studies excluded patients with New York Heart Association class IV
+disease.2
+Disease Overview
+ATTR-CM is a progressive, debilitating, and life-threatening disease that may go
+unrecognized and result in late-stage diagnosis.3,4 ATTR can be caused by an
+acquired wild-type variant or be an inherited variant that alters the structure and
+function of TTR. Genetic testing of the TTR gene is done to differentiate patients
+with the wild-type vs. a genetic variant. Although patients with ATTR may present
+with a variety of symptoms, neuropathy or cardiomyopathy are often the most
+prominent symptoms. Patients may also present with a mixed phenotype and
+exhibit signs of both neuropathy and cardiomyopathy. In ATTR-CM, the stability of
+the TTR tetramer is altered, resulting in misfolding of the TTR protein. This leads to
+accumulation of amyloid in the body, most commonly the myocardium and
+peripheral nerves. As a result of amyloid deposits in cardiac tissue and causes the
+heart muscle becomes stiff and rigid. Although the clinical course varies, patients
+Page 1 of 4 - Cigna National Formulary Coverage - Policy:Amyloidosis – Acoramidis Prior Authorization Policy
+typically exhibit heart failure with preserved ejection fraction. However, some
+patients may present with right-sided heart failure, atrial fibrillation, aortic stenosis
+and complete heart block, angina, or cardiogenic shock.
+Guidelines
+Attruby is currently not addressed in guidelines. The American Heart Association
+(AHA) scientific statement for the evolving diagnosis and management of cardiac
+amyloidosis (2020) recognizes tafamidis as a treatment for ATTR-CM.5 They note
+that the benefit of tafamidis has not been observed in patients with NYHA class IV
+symptoms. Additionally, although combination use of tafamidis with Onpattro®
+(patisiran lipid complex intravenous infusion) or Tegsedi® (inotersen subcutaneous
+injection) is appealing to target both TTR silencing and stabilization for the
+remaining synthesized protein, this approach lacks data and may be cost-
+prohibitive. Tafamidis should generally be considered the agent of choice in ATTR-
+CM in patients with reasonable expected survival according to a position statement
+of the European Society of Cardiology (ESC) working group on myocardial and
+pericardial disease (2021).6 The working group notes that tafamidis is the only
+drug that has shown efficacy in a randomized trial in patients with ATTR-CM and
+should be considered in patients with reasonable expected survival. The American
+College of Cardiology (ACC) expert consensus decision pathway on comprehensive
+multidisciplinary care for patients with cardiac amyloidosis (2023) make similar
+comments and recommendations to the AHA and ESC regarding tafamidis.7
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Attruby. All
+approvals are provided for the duration noted below. Because of the specialized
+skills required for evaluation and diagnosis of patients treated with Attruby as well
+as the monitoring required for adverse events and long-term efficacy, initial
+approval requires the agent to be prescribed by or in consultation with a physician
+who specializes in the condition being treated.
+• Attruby (acoramidis tablets – Bridgebio)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Cardiomyopathy of Wild-Type or Hereditary Transthyretin-Mediated
+Amyloidosis (ATTR-CM). Approve for 1 year if the patient meets ALL of the
+following (A, B, C, D, and E):
+Note: Variant Transthyretin Amyloidosis is also known as Hereditary
+Transthyretin Amyloidosis.
+A) Patient is ≥ 18 years of age; AND
+2 Pages - Cigna National Formulary Coverage - Policy:Amyloidosis – Acoramidis Prior Authorization Policy
+B) The diagnosis was confirmed by ONE of the following (i, ii, or iii):
+i. A technetium pyrophosphate scan (i.e., nuclear scintigraphy); OR
+ii. A tissue biopsy with confirmatory transthyretin (TTR) amyloid typing by
+mass spectrometry, immunoelectron microscopy or
+immunohistochemistry; OR
+iii. Patient had genetic testing which, according to the prescriber, identified a
+transthyretin (TTR) pathogenic variant; AND
+Note: Examples of TTR variants include Val122Ile variant and Thr60Ala
+variant. If the patient has wild-type amyloidosis, this is not a TTR
+pathogenic variant.
+C) Diagnostic cardiac imaging has demonstrated cardiac involvement; AND
+Note: Examples of cardiac imaging include echocardiogram and cardiac
+magnetic imaging. Examples of cardiac involvement on imaging include
+increased thickness of the ventricular wall or interventricular septum.
+D) Patient has heart failure, but does not have New York Heart Association class
+IV disease; AND
+E) The medication is prescribed by or in consultation with a cardiologist or a
+physician who specializes in the treatment of amyloidosis.
+CONDITIONS NOT COVERED
+• Attruby (acoramidis tablets – Bridgebio)
+is(are) considered experimental, investigational or unproven for ANY other
+use(s) including the following (this list may not be all inclusive; criteria will
+be updated as new published data are available):
+1. Concurrent use with other medications indicated for the treatment of
+polyneuropathy of hereditary transthyretin-mediated amyloidosis or
+transthyretin-mediated amyloidosis-cardiomyopathy (e.g., Amvuttra
+[vutrisiran subcutaneous injection], Onpattro [patisiran intravenous
+infusion], Tegsedi [inotersen subcutaneous injection], Wainua
+[eplontersen subcutaneous injection], or a tafamidis product).
+The requested medication should not be administered in combination with other
+medications indicated for polyneuropathy of hereditary transthyretin-mediated
+amyloidosis or transthyretin-mediated amyloidosis-cardiomyopathy.
+Combination therapy is generally not recommended due to a lack of controlled
+clinical trial data supporting additive efficacy.
+2. Polyneuropathy of Hereditary Transthyretin–Mediated Amyloidosis
+(hATTR). Attruby is not indicated for treatment of symptoms of
+polyneuropathy associated with hATTR.1
+Note: For patients with hATTR and cardiomyopathy or mixed phenotype
+(concurrent cardiomyopathy and polyneuropathy), refer to FDA-Approved
+Indication, above.
+2 Pages - Cigna National Formulary Coverage - Policy:Amyloidosis – Acoramidis Prior Authorization Policy
+REFERENCES
+1. Attruby tablets [prescribing information]. Palo Alto, CA: BridgeBio; November 2024.
+2. Gillmore JD, Judge DP, Cappelli F, et al. Efficacy and safety of acoramidis in transthyretin amyloid
+cardiomyopathy. NEJM. 2024;390(2):132-142.
+3. National Library of Medicine, StatPearls. Transthyretin Amyloid Cardiomyopathy (ATTR-CM).
+Available at. https://www.ncbi.nlm.nih.gov/books/NBK574531/. Accessed November 11, 2024.
+4. Vaishnav J, Brown E, Sharma K. Advances in the diagnosis and treatment of transthyretin
+amyloid cardiomyopathy. Prog Cardiovase Dis. 2024;82:113-124.
+5. Kittleson MM, Maurer MS, Ambardekar AV, et al; on behalf of the American Heart Association
+Heart Failure and Transplantation Committee of the Council on Clinical Cardiology. AHA scientific
+statement: cardiac amyloidosis: evolving diagnosis and management. Circulation.
+2020;142:e7-e22.
+6. Garcia-Pavia P, Rapezzi C, Adler Y, et al. Diagnosis and treatment of cardiac amyloidosis: a
+position statement of the ESC working group on myocardial and pericardial disease. Eur Heart J.
+2021;42:1554-1568.
+7. Kittleson M, Ruberg FL, Ambardekar AV, et al. A report of the American College of Cardiology
+Solution Set Oversight Committee. 2023 ACC expert consensus decision pathway on
+comprehensive multidisciplinary care for the patient with cardiac amyloidosis. JACC.
+2023;81(11):1076-1126.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+New Policy -- 12/04/2024
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group. © 2025 The Cigna
+Group.
+2 Pages - Cigna National Formulary Coverage - Policy:Amyloidosis – Acoramidis Prior Authorization Policy

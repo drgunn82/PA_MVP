@@ -1,0 +1,247 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Cardiology – Camzyos Prior Authorization Policy
+• Camzyos® (mavacamten capsules − MyoKardia/Bristol Myers
+Squibb)
+REVIEW DATE: 06/11/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Camzyos, a cardiac myosin inhibitor, is indicated for the treatment of symptomatic
+New York Heart Association Class (NYHA) II to III obstructive hypertrophic
+cardiomyopathy in adults to improve functional capacity and symptoms.
+Disease Overview
+Hypertrophic cardiomyopathy is a complex myocardial disorder in which the walls of
+the heart muscle, more specifically the left ventricle, are thickened or
+hypertrophied.2-5 The condition is inherited in an autosomal dominant pattern. The
+estimated prevalence is one in 200 to 500 adults. Patients of any age can be
+impacted. However, many patients may be undiagnosed or asymptomatic.
+Diagnoses is usually by echocardiographic or magnetic resonance imaging which
+reveals a hypertrophied, nondilated left ventricle without another identifiable
+cardiac, systemic, metabolic or syndromic disease. The left ventricle becomes stiff,
+Page 1 of 6 - Cigna National Formulary Coverage - Policy: Cardiology – Camzyos Prior Authorization Policy
+which makes it more difficult for the heart to normally expand and fill with blood.
+The amount of blood that the left ventricle can hold and pump throughout the body
+is reduced; the hypertrophied heart muscle may also pump with too much force.
+Many patients with hypertrophic cardiomyopathy have obstructive disease in which
+the path for blood flow out of the heart can narrow and the output to the rest of the
+body may be restricted which is referred to as left ventricular outflow tract
+obstruction. This forces the heart to pump harder to overcome the obstructive
+forces. Symptoms that are commonly present with hypertrophic cardiomyopathy
+include shortness of breath, palpitations, light headedness, chest pain, fatigue, and
+exercise intolerance. Many patients have heart failure, as well as atrial fibrillation
+or other ventricular arrhythmias. Sudden death may also result. Hypertrophic
+cardiomyopathy is due to enhanced interactions between two cardiac proteins, actin
+and myosin. Camzyos works by reducing the number of intersections formed
+between actin and myosin which leads to more optimized heart relaxation and
+filling; lessened heart muscle workload during contractions; and improved efficiency
+in energy utilized for each heartbeat. Before approval of Camzyos, treatment for
+obstructive hypertrophic cardiomyopathy focused on symptomatic relief with
+medications such as beta blockers, non-dihydropyridine calcium channel blockers
+(CCBs), and disopyramide. Septal reduction therapy is an option.
+Clinical Efficacy
+EXPLORER-HCM was a randomized, double-blind, placebo-controlled, parallel-group
+trial that evaluated Camzyos in over 250 patients with symptomatic NYHA Class II
+or III obstructive hypertrophic cardiomyopathy.1,2 Patients had a left ventricular
+ejection fraction ≥ 55% and a left ventricular outflow tract peak gradient ≥ 50
+mmHg (at rest or with provocation [Valsalva maneuver or post exercise]).
+Unexplained left ventricular hypertrophy was present with maximal left ventricular
+wall thickness of ≥ 15 mm or ≥ 13 mm if the patient had familial hypertrophic
+cardiomyopathy.2 Approximately 75% of patients were receiving beta blockers and
+17% of patients were on CCBs for symptoms. The primary composite functional
+endpoint, evaluated at 30 weeks, was defined as the proportion of patients who
+achieved either improvement of mixed venous oxygen tension/peak oxygen
+consumption (pVO ) by ≥ 1.5 mL/kg/min plus improvement in NYHA class by at
+2
+least one or improvement of pVO by ≥ 3.0 mL/kg/min plus no worsening in NYHA
+2
+class. A greater proportion of patients receiving Camzyos met this composite
+endpoint compared with patients given placebo (37% vs. 17%, respectively; P =
+0.0005). Regarding secondary endpoints, Camzyos led to greater improvements
+compared with placebo in measures assessing left ventricular outflow tract (LVOT)
+obstruction, functional capacity, and health status. These parameters were
+assessed by change from baseline through Week 30 in post-exercise LVOT peak
+gradient, change in pVO , proportion of patients with improvement in NYHA class,
+2
+Kansas City Cardiomyopathy Questionnaire-23 (KCCQ-23) Clinical Summary Score
+(CSS), and Hypertrophic Cardiomyopathy Symptoms Questionnaire (HCMSQ)
+Shortness of Breath domain score.1,2 At Week 30, there were also reductions in N-
+terminal pro B-type natriuretic peptide and high-sensitivity cardiac troponin I levels
+from baseline.2 Other data are also available.6
+Guidelines
+Page 2 of 6 - Cigna National Formulary Coverage - Policy: Cardiology – Camzyos Prior Authorization Policy
+Guidelines have not incorporated Camzyos.
+• Hypertrophic Cardiomyopathy: In 2020, the American Heart Association
+and the American College of Cardiology published guidelines for the diagnosis
+and treatment of patients with hypertrophic cardiomyopathy.7 For
+symptomatic patients with obstructive hypertrophic cardiomyopathy
+attributable to LVOT obstruction, nonvasodilating beta blockers are
+recommended to be titrated to effectiveness or maximally tolerated doses. In
+patients for whom beta blockers are not effective or not tolerated,
+substitution with nondihydropyridine CCBs (e.g., verapamil, diltiazem) is
+recommended. If the patient continues to have persistent severe symptoms
+despite beta blocker therapy or CCBs, adding disopyramide in combination
+with one of the other drugs is recommended. Also, septal reduction therapy,
+performed at experienced centers, is an option for selected patients. One of
+the other key steps in managing symptomatic, obstructive hypertrophic
+cardiomyopathy is to eliminate medication that may promote outflow tract
+obstruction like pure vasodilators (e.g., dihydropyridine CCBs, angiotensin
+converting enzyme inhibitors, angiotensin receptor blockers) and high-dose
+diuretics. Low-dose diuretics, when added to other first-line medications,
+may be useful for patients with persistent dyspnea or congestive symptoms.
+Safety
+Camzyos has a Boxed Warning regarding the risk of heart failure.1 The agent may
+cause heart failure due to systolic dysfunction. Echocardiogram assessment of left
+ventricular ejection fraction is required before and during Camzyos use. Initiation in
+patients with a left ventricular ejection fraction < 55% is not recommended.
+Therapy should be interrupted if left ventricular ejection fraction is less than 50% or
+if worsening clinical status occurs. Certain cytochrome P450 inhibitors and inducers
+are contraindicated in patients receiving Camzyos due to an increased risk of heart
+failure. Camzyos is available only through a restricted program called the Camzyos
+Risk Evaluation and Mitigation Strategy (REMS) program. Notable requirements
+include the following:
+• Prescribers must be certified by enrolling in the Camzyos REMS program.
+• Patients must enroll in the Camzyos REMS program and comply with ongoing
+monitoring requirements.
+• Pharmacies must be certified by enrolling in the Camzyos REMS program and
+must only dispense to patients who are authorized to receive Camzyos.
+• Wholesalers and distributors must only distribute the medication to certified
+pharmacies.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Camzyos. All
+approvals are provided for the duration noted below. In cases where the approval is
+authorized in months, 1 month is equal to 30 days. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Camzyos as well as the
+monitoring required for adverse events and long-term efficacy, approval requires
+Camzyos to be prescribed by a physician who specializes in the condition being
+treated.
+Page 3 of 6 - Cigna National Formulary Coverage - Policy: Cardiology – Camzyos Prior Authorization Policy
+• Camzyos® (mavacamten capsules - MyoKardia/Bristol Myers Squibb)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indication
+1. Obstructive Hypertrophic Cardiomyopathy. Approve for the duration noted
+below if the patient meets ONE of the following (A or B):
+A) Initial Therapy. Approve for 8 months if the patient meets ALL of the following
+(i, ii, iii, iv, v, and vi):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient meets BOTH of the following (a and b):
+a) Patient has at least one symptom associated with obstructive
+hypertrophic cardiomyopathy; AND
+Note: Examples of symptoms include shortness of breath, chest pain,
+lightheadedness, fainting, fatigue, and reduced ability to perform
+physical exercise.
+b) Patient has New York Heart Association Class II or III symptoms of heart
+failure; AND
+Note: Class II signifies mild symptoms with moderate physical activity
+and some exercise limitations whereas Class III denotes noticeable
+symptoms with minimal physical activity and patients are only
+comfortable at rest.
+iii. Patient with left ventricular hypertrophy meets ONE of the following (a or
+b):
+a) Patient has maximal left ventricular wall thickness ≥ 15 mm; OR
+b) Patient has familial hypertrophic cardiomyopathy with a maximal left
+ventricular wall thickness ≥ 13 mm; AND
+iv. Patient has a peak left ventricular outflow tract gradient ≥ 50 mmHg (at
+rest or after provocation [Valsalva maneuver or post exercise]); AND
+v. Patient has a left ventricular ejection fraction of ≥ 55%; AND
+vi. The medication is prescribed by a cardiologist; OR
+B) Patient Currently Receiving Camzyos. Approve for 1 year if the patient meets
+ALL of the following (i, ii, iii, iv, v, and vi):
+i. Patient has been established on therapy for at least 8 months; AND
+Note: A patient who has received < 8 months of therapy or who is
+restarting therapy is reviewed under criterion A (Initial Therapy).
+ii. Patient is ≥ 18 years of age; AND
+iii. Patient meets BOTH of the following (a and b):
+a) Currently or prior to starting therapy, patient has or has experienced at
+least one symptom associated with obstructive hypertrophic
+cardiomyopathy; AND
+Note: Examples of symptoms include shortness of breath, chest pain,
+lightheadedness, fainting, fatigue, and reduced ability to perform
+physical exercise.
+Page 4 of 6 - Cigna National Formulary Coverage - Policy: Cardiology – Camzyos Prior Authorization Policy
+b) Currently or prior to starting therapy, patient is in or was in New York
+Heart Association Class II or III heart failure; AND
+Note: Class II signifies mild symptoms with moderate physical activity
+and some exercise limitations whereas Class III denotes noticeable
+symptoms with minimal physical activity and patients are only
+comfortable at rest.
+iv. Patient has a current left ventricular ejection fraction of ≥ 50%; AND
+v. Patient meets ONE of the following (a or b):
+a) Patient experienced a beneficial clinical response when assessed by at
+least one objective measure; OR
+Note: Examples include improved peak oxygen consumption/mixed
+venous oxygen tension; decreases in left ventricular outflow tract
+gradient; reductions in N-terminal pro-B-type natriuretic peptide levels;
+decreased high-sensitivity cardiac troponin I levels; reduced ventricular
+mass index; and/or a reduction in maximum left atrial volume index.
+b) Patient experienced stabilization or improvement in at least one
+symptom related to obstructive hypertrophic cardiomyopathy; AND
+Note: Examples of symptoms include shortness of breath, chest pain,
+lightheadedness, fainting, fatigue, ability to perform physical exercise,
+and/or favorable changes in the Kansas City Cardiomyopathy
+Questionnaire-23 (KCCQ-23) Clinical Summary Score (CSS) or
+Hypertrophic Cardiomyopathy Symptom Questionnaire (HCMSQ)
+Shortness of Breath domain scores.
+vi. The medication is prescribed by a cardiologist.
+CONDITIONS NOT COVERED
+• Camzyos® (mavacamten capsules - MyoKardia/Bristol Myers Squibb)
+is(are) considered not medically necessary for ANY other use(s); criteria will
+be updated as new published data are available.
+REFERENCES
+1. Camzyos® capsules [prescribing information]. Princeton, NJ: MyoKardia/Bristol Myers Squibb;
+April 2025.
+2. Olivotto I, Oreziak A, Barriales-Villa R, et al, for the EXPLORER-HCM study investigators.
+Mavacamten for treatment of symptomatic obstructive hypertrophic cardiomyopathy (EXPLORER-
+HCM): a randomized, double-blind, placebo-controlled, phase 3 trial. Lancet.
+2020;396(10253):759-769.
+3. Maron BJ. Clinical course and management of hypertrophic cardiomyopathy. N Engl J Med.
+2018;379(7):655-668.
+4. Ommen SR, Semsarian C. Hypertrophic cardiomyopathy: a practical approach to guideline
+directed management. Lancet. 2021;398(10316):2102-2108.
+5. Burstein Waldman CY, Owens A. A plain language summary of the EXPLORER-HCM study:
+mavacamten for obstructive hypertrophic cardiomyopathy. Future Cardiol. 2021;17(7):1269-1275.
+6. Keam SJ. Mavacamten: first approval. Drugs. 2022;82:1127-1135.
+7. Ommen SR, Mital S, Burke MA, et al. 2020 AHA/ACC guideline for the diagnosis and treatment of
+patients with hypertrophic cardiomyopathy. J Am Coll Cardiol. 2020;76(25):e159-240.
+Page 5 of 6 - Cigna National Formulary Coverage - Policy: Cardiology – Camzyos Prior Authorization Policy
+HISTORY
+Type of Summary of Changes Review Date
+Revision
+Annual No criteria changes. 05/17/2023
+Revision
+Annual No criteria changes. 06/05/2024
+Revision
+Annual No criteria changes. 06/11/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 6 of 6 - Cigna National Formulary Coverage - Policy: Cardiology – Camzyos Prior Authorization Policy

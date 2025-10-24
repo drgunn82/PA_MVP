@@ -1,0 +1,143 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1237-9
+Program Prior Authorization/Notification
+Medication Calquence® (acalabrutinib)
+P&T Approval Date 12/2017, 12/2018, 12/2019, 4/2020, 5/2021, 5/2022, 5/2023, 5/2024,
+3/2025
+Effective Date 6/1/2025
+1. Background:
+Calquence (acalabrutinib) is a kinase inhibitor indicated:
+• In combination with bendamustine and rituximab for the treatment of adult patients with
+previously untreated mantle cell lymphoma (MCL) who are ineligible for autologous
+hematopoietic stem cell transplantation (HSCT).
+• For the treatment of adult patients with MCL who have received at least one prior therapy.
+• For the treatment of adult patients with chronic lymphocytic leukemia (CLL) or small
+lymphocytic lymphoma (SLL).
+The National Comprehensive Cancer Network (NCCN) recommends the use of Calquence for the
+treatment of B-cell lymphomas, including splenic and nodal marginal zone lymphoma, extranodal
+marginal zone lymphoma (EMZL) of the stomach, extranodal marginal zone lymphoma of
+nongastric sites (noncutaneous), and Waldenström macroglobulinemia/lymphoplasmacytic
+lymphoma.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the notification
+criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Calquence will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Mantle Cell Lymphoma (MCL)
+1. Initial Authorization
+a. Calquence will be approved based on the following criteria:
+© 2025 UnitedHealthcare Services, Inc.
+1
+(1) Both of the following:
+(a) Diagnosis of mantle cell lymphoma (MCL)
+-AND-
+(b) One of the following:
+i. All of the following:
+• Patient has not received prior therapy (e.g., bortezomib, rituximab) for
+MCL
+• Patient is ineligible for autologous hematopoietic stem cell
+transplantation (HSCT)
+• Used in combination with bendamustine and rituximab
+-OR-
+ii. Patient has received at least one prior therapy for MCL (e.g., bortezomib,
+rituximab)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Calquence will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Calquence therapy
+Authorization will be issued for 12 months.
+C. Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+1. Initial Authorization
+a. Calquence will be approved based on the following criterion:
+(1) Diagnosis of chronic lymphocytic leukemia/small lymphocytic lymphoma
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Calquence will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Calquence therapy
+Authorization will be issued for 12 months.
+D. B-Cell Lymphomas
+© 2025 UnitedHealthcare Services, Inc.
+2
+1. Initial Authorization
+a. Calquence will be approved based on the following criteria:
+(1) Diagnosis of one of the following:
+(a) Nodal Marginal Zone Lymphoma
+(b) Extranodal Marginal Zone Lymphoma (EMZL) of the stomach
+(c) Splenic Marginal Zone Lymphoma
+(d) Extranodal Marginal Zone Lymphoma of Nongastric Sites (Non-cutaneous)
+-AND-
+(2) Disease is recurrent, relapsed, refractory, or progressive
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Calquence will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Calquence therapy
+Authorization will be issued for 12 months.
+E. Waldenström Macroglobulinemia / Lymphoplasmacytic Lymphoma
+1. Initial Authorization
+a. Calquence will be approved based on the following criteria:
+(1) Both of the following:
+(a) Diagnosis of Waldenström Macroglobulinemia / Lymphoplasmacytic
+Lymphoma
+-AND-
+(b) One of the following:
+i. Patient did not respond to primary therapy
+ii. Disease is relapsed or progressive
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Calquence will be approved based on the following criterion:
+© 2025 UnitedHealthcare Services, Inc.
+3
+(1) Patient does not show evidence of progressive disease while on Calquence therapy
+Authorization will be issued for 12 months.
+F. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category
+of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim
+logic. Use of automated approval and re-approval processes varies by program and/or
+therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Calquence [package insert]. Wilmington, DE: AstraZeneca Pharmaceuticals LP. January 2025.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+https://www.nccn.org/professionals/drug_compendium/content/. Accessed February 12, 2025.
+Program Prior Authorization/Notification – Calquence (acalabrutinib)
+Change Control
+12/2017 New program
+12/2018 Annual review. Added criteria for Chronic Lymphocytic
+Leukemia/Small Lymphocytic Lymphoma.
+12/2019 Annual review. No changes to coverage criteria.
+4/2020 Updated criteria to reflect FDA label change for CLL/SLL. Added
+NCCN recommended regimens standard language.
+5/2021 Annual review. Added criteria for B-cell lymphomas and Waldenström
+Macroglobulinemia according to NCCN guidelines.
+5/2022 Annual review with no change to clinical criteria. Updated background
+and reference.
+5/2023 Annual review. Changed classification of Gastric MALT lymphoma to
+Extranodal marginal zone lymphoma (EMZL) of the stomach and
+Nongastric MALT Lymphoma (Noncutaneous) to Extranodal Marginal
+Zone Lymphoma of Nongastric Sites (Noncutaneous) per NCCN
+guidelines. Added state mandate. Removed Imbruvica criteria. Updated
+background and references.
+© 2025 UnitedHealthcare Services, Inc.
+4
+5/2024 Annual review with no change to clinical criteria. Updated reference.
+3/2025 Updated criteria to reflect FDA indication for patients with previously
+untreated MCL who are ineligible for HSCT. Updated background and
+references.
+© 2025 UnitedHealthcare Services, Inc.
+5

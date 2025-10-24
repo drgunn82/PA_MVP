@@ -1,0 +1,801 @@
+DRUG QUANTITY MANAGEMENT POLICY – PER DAYS
+POLICY: Inflammatory Conditions – Adalimumab Products Drug Quantity
+Management Policy – Per Days
+• Abrilada™ (adalimumab-afzb subcutaneous injection – Pfizer)
+• adalimumab-aacf subcutaneous injection (Fresenius Kabi)
+• adalimumab-aaty subcutaneous injection (Celltrion)
+• adalimumab-adaz subcutaneous injection (Sandoz/Novartis)
+• adalimumab-adbm subcutaneous injection (Boehringer
+Ingelheim)
+• adalimumab-fkjp subcutaneous injection (Mylan)
+• adalimumab-ryvk subcutaneous injection (Teva/Alvotech)
+• Amjevita™ (adalimumab-atto subcutaneous injection – Amgen)
+• CDV Humira® (adalimumab subcutaneous injection – Cordavis)
+• CDV Hyrimoz® (adalimumab-adaz subcutaneous injection –
+Cordavis)
+• Cyltezo® (adalimumab-adbm subcutaneous injection –
+Boehringer Ingelheim)
+• Hadlima™ (adalimumab-bwwd subcutaneous injection –
+Organon/Samsung Bioepis)
+• Hulio® (adalimumab-fkjp subcutaneous injection – Mylan)
+• Humira® (adalimumab subcutaneous injection – AbbVie)
+• Hyrimoz® (adalimumab-adaz subcutaneous injection –
+Sandoz/Novartis)
+• Idacio® (adalimumab-aacf subcutaneous injection – Fresenius Kabi)
+• Simlandi® (adalimumab-ryvk subcutaneous injection –
+Alvotech/Teva)
+• Yuflyma® (adalimumab-aaty subcutaneous injection – Celltrion)
+• Yusimry™ (adalimumab-aqvh subcutaneous injection – Coherus)
+REVIEW DATE: 05/07/2025; selected revision 07/02/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+Page 1 of 15 - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Adalimumab Products
+Drug Quantity Management Policy – Per Days
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Adalimumab products are tumor necrosis factor inhibitors (TNFis) approved for the
+following:1
+• Ankylosing spondylitis, for reducing signs and symptoms in adults with
+active disease.
+• Crohn’s disease, for treatment of moderately to severely active disease in
+patients ≥ 6 years of age.
+• Hidradenitis suppurativa, for treatment of moderate to severe disease in
+patients ≥ 12 years of age.
+• Juvenile idiopathic arthritis, ± methotrexate for reducing signs and
+symptoms of moderately to severely active polyarticular disease in patients ≥
+2 years of age.
+• Plaque psoriasis, for treatment of adults with moderate to severe chronic
+disease who are candidates for systemic therapy or phototherapy and when
+other systemic therapies are medically less appropriate.
+• Psoriatic arthritis, ± non-biologic disease-modifying antirheumatic drugs
+(DMARDs), for reducing the signs and symptoms, inhibiting the progression
+of structural damage, and improving physical function in adults with active
+disease.
+• Rheumatoid arthritis, ± methotrexate or other non-biologic DMARDS to
+reduce the signs and symptoms, induce major clinical response, inhibit the
+progression of structural damage, and improve physical function in adults
+with moderately to severely active disease.
+• Ulcerative colitis, for treatment of moderately to severely active disease in
+patients ≥ 5 years of age. However, efficacy has not been established in
+patients with ulcerative colitis who have lost response or were intolerant to
+another TNFi.
+• Uveitis, in patients ≥ 2 years of age with noninfectious intermediate,
+posterior, and panuveitis.
+Of note, FDA-approved indications for the adalimumab biosimilars to Humira may
+differ from the indications listed above.2-10
+Dosing
+Table 1. FDA-Approved Dosing of Adalimumab.1-10
+15 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Adalimumab Products Drug
+Quantity Management Policy – Per Days
+FDA- Dosing
+Approved
+Indication
+Ankylosing 40 mg SC once every other week
+spondylitis
+Crohn’s Adults and pediatric patients weighing ≥ 40 kg (88 lbs): Initial dose of 160 mg SC
+disease (either given in 1 day or split over 2 consecutive days), then 80 mg SC on Day 15,
+followed by 40 mg SC once every other week starting on Day 29.
+Pediatric patients weighing 17 kg (37 lbs) to < 40 kg (88 lbs): Initial dose of 80 mg
+SC on Day 1, then 40 mg SC on Day 15, followed 20 mg SC once every other week
+starting on Day 29.
+Hidradenitis Adults and adolescents weighing ≥ 60 kg (132 lbs): Initial dose of 160 mg SC (either
+suppurativa given in 1 day or split over 2 consecutive days), then 80 mg SC on Day 15, followed
+by 40 mg SC QW or 80 mg SC once every other week starting on Day 29.
+Adolescents weighing 30 kg to < 60 kg: 80 mg SC on Day 1, followed by 40 mg SC
+every other week starting on Day 8.
+Juvenile Dose is based on patient weight:
+idiopathic • 10 kg (22 lbs) to < 15 kg (33 lbs): 10 mg SC once every other week
+arthritis • 15 kg (33 lbs) to < 30 kg (66 lbs): 20 mg SC once every other week
+• ≥ 30 kg (66 lbs): 40 mg SC once every other week
+Plaque Initial dose of 80 mg SC, followed by 40 mg SC every other week starting 1 week
+psoriasis after the initial dose.
+Psoriatic 40 mg SC once every other week
+arthritis
+Rheumatoid 40 mg SC once every other week
+arthritis • Some patients not taking concomitant MTX may derive additional benefit from
+increasing the dosage to 40 mg SC QW or 80 mg SC once every other week.
+Ulcerative Adults: Initial dose of 160 mg SC (either given in 1 day or split over 2 consecutive
+colitis days), then 80 mg SC on Day 15, followed by 40 mg SC once every other week
+starting on Day 29. Discontinue in patients without evidence of clinical remission by
+8 weeks (Day 57).
+Pediatric patients weighing ≥ 40 kg (88 lbs):
+Initial dose of 160 mg SC (either given in 1 day or split over 2 consecutive days),
+then 80 mg SC on Day 8 and 80 mg SC on Day 15, followed by 80 mg SC every
+other week or 40 mg SC QW starting on Day 29.
+Pediatric patients weighing 20 kg (44 lbs) to < 40 kg (88 lbs): Initial dose of 80
+mg SC on Day 1, then 40 mg SC on Day 8 and 40 mg SC on Day 15, followed by
+40 mg SC every other week or 20 mg SC QW starting on Day 29.
+Uveitis Adults: Initial dose of 80 mg SC, followed by 40 mg SC every other week starting
+1 week after the initial dose.
+Pediatric patients: Dose is based on patient weight:
+• 10 kg (22 lbs) to < 15 kg (33 lbs): 10 mg SC once every other week
+• 15 kg (33 lbs) to < 30 kg (66 lbs): 20 mg SC once every other week
+≥ 30 kg (66 lbs): 40 mg SC once every other week
+SC – Subcutaneous; NA – Not applicable; CD – Crohn’s disease; UC – Ulcerative colitis; HS – Hidradenitis
+suppurativa; QW – Once weekly; MTX – Methotrexate.
+Adalimumab has also demonstrated efficacy for treatment of several off-label
+indications such as Behcet’s disease, pyoderma gangrenosum, sarcoidosis, scleritis
+or sterile corneal ulceration, and spondyloarthritis (subtypes other than ankylosing
+spondylitis).2 A loading dose may be required for these indications and a
+maintenance dose of 40 mg administered once every other week is generally
+effective for most patients.
+Availability
+15 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Adalimumab Products Drug
+Quantity Management Policy – Per Days
+Refer to Table 2 for the available strengths and dosage forms of adalimumab
+products.1-10
+Table 2. FDA-Approved Adalimumab Products.1-10
+Dosage Form/
+Strength a r im u H a r im u H V D C a d a lir b A a t iv e j m A b a m u m ila d A – m b d a o z e t ly C a m ild a H b a m u m ila d A - p j k f b a m u m ila d A - o ilu H z a d a z o m ir y H z o m ir y H V D C b a m u m ila d A - f c a a o ic a d I b a m u m ila d A - k v y r id n a lm iS b a m u m ila d A - y t a a a m y lf u Y y r m is u Y
+40 mg/0.4 mL √ √ √ √ √ √ √ √ √ √ √ √
+s n e 40 mg/0.8 mL √ √ √ √ √ √ N √ A N √ A √ √ N √ A √
+P 80 mg/0.8 mL √
+√ √ √ √ √ √ √ √ √
+NA
+10 mg/0.1 mL √
+√ √ √ √
+NA
+10 mg/0.2 mL √ √ √ √ √
+√ √
+NA NA NA NA NA
+20 mg/0.2 mL √
+√ √ √ √ √ √ √ √ √
+S
+NA
+F 20 mg/0.4 mL √ √ √ √
+P √ √ √ √
+NA NA NA NA
+40 mg/0.4 mL √ √ √ √ √ √ √ √ √ √ √ √
+40 mg/0.8 mL √ √ √ √
+√ √ √ √ √ √ √ √
+NA NA NA NA
+80 mg/0.8 mL √ √ √ √ √ √ √ √
+√
+NA NA NA NA NA NA NA NA
+la
+iV 40 mg/0.8 mLβ N
+√
+A N
+√
+A N
+√
+A N
+√
+A N
+√
+A
+4 x 40 mg/0.4 mL √ √ √ √ √ √
+√
+pens NA NA NA NA NA NA
+4 x 40 mg/0.8 mL √ √
+√ √
+pens NA NA
+6 x 40 mg/0.4 mL √ √ √
+√
+pens NA NA NA
+6 x 40 mg/0.8 mL √ √
+√ √
+pens NA NA
+3 x 80 mg/0.8 mL √ √ √
+√ √ √ √ √
+pens NA NA NA
+* 4 x 80 mg/0.8 mL √
+s
+k pens NA
+c
+a 1 x 80 mg/0.8 mL
+P √ √ √
+r e t
+p
+m
+e
+g
+n
+/ 0
+a
+.
+n
+4
+d
+m
+2
+L
+x
+p
+4
+e
+0
+n s
+√
+NA
+√ √
+NA NA
+r
+a 3 x 80 mg/0.8 mL
+t √ √ √
+S pens and 1 x 40
+NA NA NA
+mg/0.4 mL
+4 x 40 mg/0.4 mL √ √
+PFS NA NA
+6 x 40 mg/0.4 mL √ √
+PFS NA NA
+3 x 80 mg/0.8 mL √ √ √ √ √
+√
+PFS NA NA NA NA NA
+1 x 80 mg/0.8 mL
+√ √ √ √ √
+PFS and 1 x 40 √
+NA NA NA NA NA
+mg/0.4 mL PFS
+Ω These products are FDA-approved, but may or may not be currently available; α Adalimumab products may be FDA-
+approved for additional strengths/package sizes not noted here. This table reflects the availability of the products as of
+15 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Adalimumab Products Drug
+Quantity Management Policy – Per Days
+the date on this policy; PFS – Prefilled syringe; β Institutional use only; * Starter packs may have different names depending
+on the individual product’s FDA-approved indications.
+15 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Adalimumab Products Drug
+Quantity Management Policy – Per Days
+POLICY STATEMENT
+This Drug Quantity Management program has been developed to promote the safe,
+effective, and economic use of adalimumab products and to manage potential
+premature dose escalation. If the Drug Quantity Management rule is not met for
+the requested medication at the point of service, coverage will be determined by
+the Criteria below. Approvals are provided for 1 year in duration, unless otherwise
+noted below. “One-time” approvals are provided for 30 days in duration, unless
+otherwise noted below. Of note, all adalimumab products of the same strength
+(i.e., pens, prefilled syringes, vials) accumulate toward the total quantity limit.
+Drug Quantity Limits
+Product Strength and Form Retail Home Delivery
+Maximum Quantity Maximum Quantity
+Humira® 40 mg/0.4 mL pens 2 pens per 28 days 6 pens per 84 days
+(adalimumab SC 40 mg/0.8 mL pens 2 pens per 28 days 6 pens per 84 days
+injection) 80 mg/0.8 mL pens 2 pens per 28 days 6 pens per 84 days
+10 mg/0.1 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+CDV Humira® syringes
+(adalimumab SC 20 mg/0.2 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+injection) syringes
+40 mg/0.4 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+syringes
+40 mg/0.8 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+syringes
+Starter Packs
+CD, UC, or HS Starter Pack: 6 pens per 365 days
+6 x 40 mg/0.8 mL pens
+(obsolete 7/31/23)
+CD, UC, or HS Starter Pack: 3 pens per 365 days
+3 x 80 mg/0.8mL pens
+Pediatric CD Starter Pack: 2 syringes per 365 days
+1 x 80 mg/0.8 mL prefilled
+syringe and 1 x 40 mg/0.4
+mL prefilled syringe
+(obsolete 10/20/23)
+Pediatric CD Starter Pack: 3 syringes per 365 days
+3 x 80 mg/0.8 mL prefilled
+syringes (obsolete
+10/31/23)
+Pediatric UC Starter Pack: 4 pens per 365 days
+4 x 80 mg/0.8 mL pens
+(obsolete 04/03/24)
+Psoriasis, Uveitis, or 3 pens per 365 days
+Adolescent HS Starter
+Pack: 1 x 80 mg/0.8 mL
+pen and 2 x 40 mg/0.4 mL
+pens
+Psoriasis, Uveitis, or 4 pens per 365 days
+Adolescent HS Starter
+Pack: 4 x 40 mg/0.8 mL
+pens (obsolete 5/31/23)
+Abrilada™ 40 mg/0.8 mL pens 2 pens per 28 days 6 pens per 84 days
+15 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Adalimumab Products Drug
+Quantity Management Policy – Per Days
+(adalimumab-afzb 20 mg/0.4 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+SC injection) syringes
+40 mg/0.8 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+syringes
+Amjevita™ 40 mg/0.4 mL pens 2 pens per 28 days 6 pens per 84 days
+(adalimumab-atto 40 mg/0.8 mL pens 2 pens per 28 days 6 pens per 84 days
+SC injection) 80 mg/0.8 mL pens 2 pens per 28 days 6 pens per 84 days
+10 mg/0.2 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+syringes
+20 mg/0.2 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+syringes
+20 mg/0.4 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+syringes
+40 mg/0.4 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+syringes
+40 mg/0.8 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+syringes
+Drug Quantity Limits (continued)
+Product Strength and Form Retail Home Delivery
+Maximum Quantity Maximum Quantity
+Cyltezo® 40 mg/0.4 ml pens 2 pens per 28 days 6 pens per 84 days
+(adalimumab-adbm 40 mg/0.8 mL pens 2 pens per 28 days 6 pens per 84 days
+SC injection) 10 mg/0.2 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+syringes
+adalimumab-adbm 20 mg/0.4 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+SC injection syringes
+40 mg/0.4 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+syringes
+40 mg/0.8 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+syringes
+Starter Packs
+Psoriasis or Uveitis Starter 4 pens per 365 days
+Pack: 4 x 40 mg/0.4 mL
+pens
+Psoriasis or Uveitis Starter 4 pens per 365 days
+Pack: 4 x 40 mg/0.8 mL
+pens
+CD, UC, or HS Starter 6 pens per 365 days
+Pack: 6 x 40 mg/0.4 mL
+pens
+CD, UC, or HS Starter Pack: 6 pens per 365 days
+6 x 40 mg/0.8 mL pens
+Hadlima™ 40 mg/0.4 mL pens 2 pens per 28 days 6 pens per 84 days
+(adalimumab-bwwd 40 mg/0.8 mL pens 2 pens per 28 days 6 pens per 84 days
+SC injection) 40 mg/0.4 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+syringes
+40 mg/0.8 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+syringes
+Hulio® 40 mg/0.8 mL pens 2 pens per 28 days 6 pens per 84 days
+(adalimumab-fkjp
+20 mg/0.4 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+SC injection)
+syringe
+adalimumab-fkjp 40 mg/0.8 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+SC injection syringes
+Hyrimoz® 40 mg/0.4 mL pens 2 pens per 28 days 6 pens per 84 days
+40 mg/0.8 mL pens 2 pens per 28 days 6 pens per 84 days
+15 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Adalimumab Products Drug
+Quantity Management Policy – Per Days
+(adalimumab-adaz 80 mg/0.8 mL pens 2 pens per 28 days 6 pens per 84 days
+SC injection) 10 mg/0.1 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+syringes
+adalimumab-adaz 20 mg/0.2 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+SC injection syringes
+40 mg/0.4 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+CDV Hyrimoz® syringes
+(adalimumab-adaz 40 mg/0.8 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+SC injection) syringes
+Starter Packs
+CD, UC, or HS Starter Pack: 3 pens per 365 days
+3 x 80 mg/0.8mL pens
+Psoriasis Starter Pack: 1 x 3 pens per 365 days
+80 mg/0.8 mL pen and 2 x
+40 mg/0.4 mL pens
+Pediatric CD Starter Pack: 3 syringes per 365 days
+3 x 80 mg/0.8 mL prefilled
+syringes
+Pediatric CD Starter Pack: 2 syringes per 365 days
+1 x 80 mg/0.8 mL prefilled
+syringe and 1 x 40 mg/0.4
+mL prefilled syringe
+Idacio® 40 mg/0.8 mL pens 2 pens per 28 days 6 pens per 84 days
+(adalimumab-aacf 40 mg/0.8 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+SC injection) syringes
+Starter Packs
+adalimumab-aacf CD or UC Starter Pack: 6 x 6 pens per 365 days
+SC injection 40 mg/0.8 mL pens
+Psoriasis Starter Pack: 4 x 4 pens per 365 days
+40 mg/0.8 mL pens
+Drug Quantity Limits (continued)
+Product Strength and Form Retail Home Delivery
+Maximum Quantity Maximum Quantity
+Simlandi® 40 mg/0.4 mL pens 2 pens per 28 days 6 pens per 84 days
+(adalimumab-ryvk 80 mg/0.8 mL pens 2 pens per 28 days 6 pens per 84 days
+SC injection) 20 mg/0.2 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+syringe
+adalimumab-ryvk 40 mg/0.4 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+SC injection syringe
+80 mg/0.8 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+syringe
+Yuflyma® 40 mg/0.4 mL pens 2 pens per 28 days 6 pens per 84 days
+(adalimumab-aaty 80 mg/0.8 mL pens 2 pens per 28 days 6 syringes per 84 days
+SC injection) 20 mg/0.2 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+syringes
+adalimumab-aaty 40 mg/0.4 mL prefilled 2 syringes per 28 days 6 syringes per 84 days
+SC injection syringes
+Starter Packs
+CD, UC, or HS Starter Pack: 3 syringes per 365 days
+3 x 80 mg/0.8 mL pens
+Yusimry™ 40 mg/0.8 mL pens 2 pens per 28 days 6 pens per 84 days
+(adalimumab-aqvh
+SC injection)
+SC – Subcutaneous; CD – Crohn’s disease; UC – Ulcerative colitis; HS – Hidradenitis suppurativa.
+15 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Adalimumab Products Drug
+Quantity Management Policy – Per Days
+EXCEPTIONS TO THE QUANTITY LIMITS LISTED ABOVE ARE COVERED AS MEDICALLY
+NECESSARY WHEN THE FOLLOWING CRITERIA ARE MET. ANY OTHER EXCEPTION IS
+CONSIDERED NOT MEDICALLY NECESSARY.
+CRITERIA
+Adalimumab 10 mg prefilled syringes
+No overrides recommended.
+Note: There are 20 mg, 40 mg, and 80 mg pens/syringes available if the patient
+requires a higher dose.
+Adalimumab 20 mg prefilled syringes
+1. Approve 4 syringes per 28 days at retail or 12 syringes per 84 days at home
+delivery, if the patient meets ALL of the following (A, B, and C):
+A) Adalimumab is being used to treat ulcerative colitis; AND
+B) Patient is 5 to 17 years of age; AND
+C) Patient weighs between 20 kg (44 lbs) and < 40 kg (88 lbs).
+Adalimumab 40 mg pens and prefilled syringes (NOT starter packages)
+1. If the patient has been receiving adalimumab 40 mg every other week for 12
+weeks or longer and the dose of adalimumab is now being increased to 40 mg
+once weekly or 80 mg once every other week, approve 4 pens/syringes per 28
+days at retail or 12 pens/syringes per 84 days at home delivery.
+2. If the patient has been receiving 40 mg once weekly or 80 mg once every other
+week dosing, approve 4 pens/syringes per 28 days at retail or 12 pens/syringes
+per 84 days at home delivery.
+3. If the patient is initiating treatment or requires additional induction dosing, as
+verified by the absence of claims for adalimumab in the past 130 days, approve
+a one-time override for 8 additional pens/syringes at retail or home delivery.
+Note: This override also applies if the patient has recently received
+initiation/induction dosing and now requires an override to finish induction
+dosing or begin maintenance dosing. At retail, the approval quantity should be
+the number of adalimumab 40 mg pens/syringes the patient has received in the
+past 28 days plus 8 pens/syringes. At home delivery, the approval quantity
+should be the number of adalimumab 40 mg pens/syringes the patient has
+received in the past 84 days plus 8 pens/syringes.
+15 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Adalimumab Products Drug
+Quantity Management Policy – Per Days
+4. Approve 4 pens/syringes per 28 days retail or 12 pens/syringes per 84 days at
+home delivery, if the patient meets ALL of the following (A, B, and C):
+A) Adalimumab is being used to treat hidradenitis suppurativa; AND
+B) Patient is ≥ 12 years of age; AND
+C) Patient weighs ≥ 60 kg (132 lbs).
+5. Approve 4 pens/syringes per 28 days at retail or 12 pens/syringes per 84 days
+at home delivery, if the patient meets ALL of the following (A, B, and C):
+A) Adalimumab is being used to treat ulcerative colitis; AND
+B) Patient is 5 to 17 years of age; AND
+C) Patient weighs ≥ 40 kg (88 lbs).
+Adalimumab 80 mg pens (NOT starter packages)
+1. Approve a one-time override for 3 additional pens at retail or home delivery, if
+the patient meets BOTH of the following (A and B):
+A) The patient is initiating treatment or requires additional induction dosing for
+ulcerative colitis, as verified by the absence of claims for adalimumab in the
+past 130 days; AND
+B) Patient is ≥ 18 years of age.
+Note: This override also applies if the patient has recently received
+initiation/induction dosing and now requires an override to finish induction
+dosing or begin maintenance dosing. At retail, the approval quantity should be
+the number of adalimumab 80 mg pens/syringes the patient has received in the
+past 28 days plus 3 pens. At home delivery, the approval quantity should be
+the number of adalimumab 80 mg pens/syringes the patient has received in the
+past 84 days plus 3 pens.
+2. Approve a one-time override for 4 additional pens at retail or 8 additional pens
+at home delivery, if the patient meets ALL of the following (A, B, and C):
+A) The patient is initiating treatment or requires additional induction dosing for
+ulcerative colitis, as verified by the absence of claims for adalimumab in the
+past 130 days; AND
+B) Patient is 5 to 17 years of age; AND
+C) Patient weighs ≥ 40 kg (88 lbs).
+Note: This override also applies if the patient has recently received
+initiation/induction dosing and now requires an override to finish induction
+dosing or begin maintenance dosing. At retail, the approval quantity should be
+the number of adalimumab 80 mg pens/syringes the patient has received in the
+past 28 days plus 4 pens. At home delivery, the approval quantity should be
+the number of adalimumab 80 mg pens/syringes the patient has received in the
+past 84 days plus 8 pens.
+3. Approve a one-time override for 3 additional pens at retail or 7 additional pens
+at home delivery, if the patient meets BOTH of the following (A and B):
+A) The patient is initiating treatment or requires additional induction dosing for
+hidradenitis suppurativa, as verified by the absence of claims for adalimumab
+in the past 130 days; AND
+B) Patient meets ONE of the following (i or ii):
+15 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Adalimumab Products Drug
+Quantity Management Policy – Per Days
+i. Patient is ≥ 18 years of age; OR
+ii. Patient is ≥ 12 to 17 years of age and weighs ≥ 60 kg (132 lbs).
+Note: This override also applies if the patient has recently received
+initiation/induction dosing and now requires an override to finish induction
+dosing or begin maintenance dosing. At retail, the approval quantity should be
+the number of adalimumab 80 mg pens/syringes the patient has received in the
+past 28 days plus 3 pens. At home delivery, the approval quantity should be
+the number of adalimumab 80 mg pens/syringes the patient has received in the
+past 84 days plus 7 pens.
+4. Approve a one-time override for 3 additional pens at retail or home delivery, if
+the patient meets BOTH of the following (A and B):
+A) The patient is initiating treatment or requires additional induction dosing for
+Crohn’s disease, as verified by the absence of claims for adalimumab in the
+past 130 days; AND
+B) Patient meets ONE of the following (i or ii):
+i. Patient is ≥ 18 years of age; OR
+ii. Patient is 6 to 17 years of age and weighs ≥ 40 kg (88 lbs).
+Note: This override also applies if the patient has recently received
+initiation/induction dosing and now requires an override to finish induction
+dosing or begin maintenance dosing. At retail, the approval quantity should be
+the number of adalimumab 80 mg pens/syringes the patient has received in the
+past 28 days plus 3 pens. At home delivery, the approval quantity should be
+the number of adalimumab 80 mg pens/syringes the patient has received in the
+past 84 days plus 3 pens.
+Starter Pack of 4 x 40 mg pens
+1. If the patient requires additional induction dosing, as verified by the absence of
+claims for adalimumab in the past 130 days, approve a one-time override for 4
+additional pens (1 Starter Pack) at retail or home delivery.
+Note: The approval quantity should be the number of adalimumab 40 mg pens
+(Starter Pack) the patient has received in the past 365 days plus 4 pens.
+Starter Pack of 6 x 40 mg pens
+1. If the patient requires additional induction dosing, as verified by the absence of
+claims for adalimumab in the past 130 days, approve a one-time override for 6
+additional pens (1 Starter Pack) at retail or home delivery.
+Note: The approval quantity should be the number of adalimumab 40 mg pens
+(Starter Pack) the patient has received in the past 365 days plus 6 pens.
+Starter Pack of 3 x 80 mg pens
+1. If the patient requires additional induction dosing, as verified by the absence of
+claims for adalimumab in the past 130 days, approve a one-time override for 3
+additional pens (1 Starter Pack) at retail or home delivery.
+Note: The approval quantity should be the number of adalimumab 80 mg pens
+(Starter Pack) the patient has received in the past 365 days plus 3 pens.
+Starter Pack of 4 x 80 mg pens
+15 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Adalimumab Products Drug
+Quantity Management Policy – Per Days
+1. If the patient requires additional induction dosing, as verified by the absence of
+claims for adalimumab in the past 130 days, approve a one-time override for 4
+additional pens (1 Starter Pack) at retail or home delivery.
+Note: The approval quantity should be the number of adalimumab 80 mg pens
+(Starter pack) the patient has received in the past 365 days plus 4 pens.
+Starter Pack of 1 x 80 mg prefilled pen and 2 x 40 mg prefilled pens
+1. If the patient requires additional induction dosing, as verified by the absence of
+claims for adalimumab in the past 130 days, approve a one-time override for 3
+additional pens (1 x 80 mg pen and 2 x 40 mg pens [1 Starter Pack]) at retail or
+home delivery.
+Note: The approval quantity should be the number of adalimumab 40 mg and
+80 mg pens (Starter Pack) the patient has received in the past 365 days plus 3
+pens.
+Starter Pack of 3 x 80 mg pens and 1 x 40 mg pens
+1. If the patient requires additional induction dosing, as verified by the absence of
+claims for adalimumab in the past 130 days, approve a one-time override for 4
+additional pens (3 x 80 mg pens and 1 x 40 mg pen [1 Starter Pack]) at retail or
+home delivery.
+Note: The approval quantity should be the number of adalimumab 40 mg and
+80 mg pens (Starter Pack) the patient has received in the past 365 days plus 4
+pens.
+Starter Pack of 3 x 80 mg prefilled syringes
+1. If the patient requires additional induction dosing, as verified by the absence of
+claims for adalimumab in the past 130 days, approve a one-time override for 3
+additional syringes (1 Starter Pack) at retail or home delivery.
+Note: The approval quantity should be the number of adalimumab 80 mg
+syringes (Starter Pack) the patient has received in the past 365 days plus 3
+syringes.
+Starter Pack of 1 x 80 mg prefilled syringe and 1 x 40 mg prefilled syringe
+1. If the patient requires additional induction dosing, as verified by the absence of
+claims for adalimumab in the past 130 days, approve a one-time override for 2
+additional syringes (1 x 80 mg and 1 x 40 mg syringe [1 Starter Pack]) at retail
+or home delivery.
+Note: The approval quantity should be the number of adalimumab 40 mg and
+80 mg syringes (Starter Pack) the patient has received in the past 365 days plus
+2 syringes.
+REFERENCES
+1. Humira® subcutaneous injection [prescribing information]. North Chicago, IL: AbbVie; February
+2024.
+2. Amjevita™ subcutaneous injection [prescribing information]. Thousand Oaks, CA: Amgen; April
+2025.
+3. Abrilada™ subcutaneous injection [prescribing information]. New York, NY: Pfizer; January 2025.
+15 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Adalimumab Products Drug
+Quantity Management Policy – Per Days
+4. Cyltezo® subcutaneous injection [prescribing information]. Ridgefield, CT: Boehringer Ingelheim;
+April 2024.
+5. Hadlima™ subcutaneous injection [prescribing information]. Jersey City, NJ: Organon/Samsung
+Bioepis; June 2024.
+6. Hulio® subcutaneous injection [prescribing information]. Morgantown, WV: Mylan; February
+2025.
+7. Hyrimoz® subcutaneous injection [prescribing information]. Princeton, NJ: Sandoz; June 2024.
+8. Idacio® subcutaneous injection [prescribing information]. Lake Zurich, IL: Fresenius Kabi;
+October 2024.
+9. Yuflyma® subcutaneous injection [prescribing information]. Jersey City, NJ: Celltrion; January
+2024.
+10. Yusimry™ subcutaneous injection [prescribing information]. Redwood City, CA: Coherus;
+September 2023.
+11. Simlandi® subcutaneous injection [prescribing information]. Leesburg, VA: Alvotech; February
+2025.
+History
+Type of Summary of Changes Review
+Revision Date
+Early Annual Pediatric Crohn’s Disease Starter Pack (3 x 40 mg/0.8 mL 07/05/2023
+Revision prefilled syringes): Product was removed from policy (obsolete for
+more than 3 years).
+Pediatric Crohn’s Disease Starter Pack (6 x 40 mg/0.8 mL
+prefilled syringes): Product was removed from policy (obsolete for
+more than 3 years).
+Abrilada 40 mg pens and 10 mg, 20 mg, and 40 mg prefilled
+syringes: New quantity limits were added to the policy. The same
+overrides apply to Abrilada products as have previously applied to the
+Humira products.
+Cyltezo 40 mg pens; 10 mg, 20 mg, 40 mg prefilled syringes;
+and Starter Packs of 4 x 40 mg pens and 6 x 40 mg pens: New
+quantity limits were added to the policy. The same overrides apply to
+Cyltezo products as have previously applied to the Humira products.
+Hadlima 40 mg pens and 40 mg prefilled syringes: New quantity
+limits were added to the policy. The same overrides apply to Hadlima
+products as have previously applied to the Humira products.
+Hulio and adalimumab-fkjp SC injection 40 mg pens and 20 mg
+and 40 mg prefilled syringes: New quantity limits were added to
+the policy. The same overrides apply to Hulio/adalimumab-fkjp
+products as have previously applied to the Humira products.
+Hyrimoz and adalimumab-adaz SC injection 40 mg and 80 mg
+pens; 10 mg, 20 mg, 40 mg, and 80 mg prefilled syringes and
+Starter Packs of 3 x 80 mg pens, 3 x 80 mg prefilled syringes,
+4 x 40 mg pens, 3 x 80 mg pens with 1 x 40 mg pen, 1 x 80 mg
+pen with 2 x 40 mg pens, and 1 x 80 mg prefilled syringe with
+1 x 40 mg prefilled syringe : New quantity limits were added to
+the policy. The same overrides apply to Hyrimoz products as have
+previously applied to the Humira products.
+Idacio 40 mg pens; 40 mg prefilled syringes; and Starter Packs
+of 6 x 40 mg pens and 4 x 40 mg pens: New quantity limits were
+15 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Adalimumab Products Drug
+Quantity Management Policy – Per Days
+added to the policy. The same overrides apply to Idacio products as
+have previously applied to the Humira products.
+Yuflyma 40 mg pens: New quantity limits were added to the policy.
+The same overrides apply to Yuflyma products as have previously
+applied to the Humira products.
+Yusimry 40 mg pens: New quantity limits were added to the policy.
+The same overrides apply to Yusimry products as have previously
+applied to the Humira products.
+Adalimumab 40 mg pens and prefilled syringes (NOT starter
+packages): Override criteria were updated to approve an additional
+quantity if the patient has been receiving adalimumab 40 mg every
+other week for 12 weeks or longer and the dose is now being
+increased. Previously, this criteria did not include a time frame and
+approved an additional quantity if the patient had been receiving
+adalimumab 40 mg every other week for any period of time.
+Additionally, override criteria were updated to approve an additional
+quantity if the patient has been receiving 40 mg once weekly or 80
+mg once every other week. Previously, this criteria approved an
+additional quantity if the patient had been started and stabilized on 40
+mg once weekly or 80 mg once every other week.
+History (continued)
+Type of Summary of Changes Review
+Revision Date
+Early Annual Adalimumab-adbm SC injection: Adalimumab-adbm added to the 01/03/2024
+Revision policy. The existing quantity limits and overrides that apply to
+Cyltezo apply to adalimumab-adbm.
+Amjevita 40 mg/0.4 mL pens, 80 mg/0.8 mL pens, 20 mg/0.2
+mL prefilled syringes, 40 mg/0.4 mL prefilled syringes: New
+dosage forms of Amjevita added to the policy. The same quantity
+limits and overrides apply to Amjevita products as have previously
+applied to the Humira products.
+Yuflyma 80 mg/0.8 mL pens, 40 mg/0.4 mL prefilled syringes,
+Crohn’s Disease/Ulcerative Colitis/Hidradenitis Suppurativa
+Starter Pack (3 x 80 mg/0.8 mL pens): New dosage forms of
+Yuflyma added to the policy. The same quantity limits and overrides
+apply to Yusimry products as have previously applied to the Humira
+products.
+Update 03/29/2024: No criteria changes. Yuflyma 20 mg/0.2 mL prefilled NA
+syringes were added to the policy. Same quantity limits and overrides
+apply to Yuflyma as have previously applied to the Humira products.
+Selected Simlandi 40 mg/0.4 mL autoinjectors: Simlandi 40 mg/0.4 mL 04/19/2024
+Revision auto-injectors added to the policy. The same quantity limits and
+overrides apply to Simlandi products as have previously applied to the
+Humira products.
+Selected Cyltezo and adalimumab-adbm SC injection 40 mg/0.4 mL 05/22/2024
+Revision pens, 40 mg/0.4 mL prefilled syringes, and Starter Packs of 4
+x 40 mg/0.4 mL pens and 6 x 40 mg/0.4 mL pens: New quantity
+limits were added to the policy. The same quantity limits and
+overrides apply to Cyltezo and adlimumab-adbm products as have
+previously applied to the Humira products.
+15 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Adalimumab Products Drug
+Quantity Management Policy – Per Days
+History (continued)
+Type of Summary of Changes Review
+Revision Date
+Annual The policy statement was updated to clarify that “one-time” approvals 02/05/2025
+Revision are provided for 30 days in duration, unless otherwise noted in the
+policy.
+The policy statement was clarified to note that all adalimumab
+products of the same strength (i.e., pens, prefilled syringes, vials)
+accumulate toward the total quantity limit. Previously, the statement
+noted that all package sizes of adalimumab accumulate toward the
+limit as they all contain the same pen or syringe products.
+Abrilada 10 mg/0.2 mL prefilled syringes: Product was removed
+from the policy (obsolete).
+Hyrimoz Crohn’s Disease, Ulcerative Colitis, or Hidradenitis
+Supperativa Starter Pack (3 x 80 mg/0.8mL pens and 1 x 40
+mg/0.4 mL pens): Product was removed from the policy (obsolete).
+Hyrimoz Starter Packs of 40 mg/0.4 mL pens: Product was
+removed from the policy (obsolete).
+Simlandi 20 mg/0.2 mL, 40 mg/0.4 mL, and 80 mg/0.8 mL
+prefilled syringes: New dosage forms of Simlandi were added to
+the policy. The same quantity limits and overrides apply to Simlandi
+products as have previously applied to the Humira products.
+Adalimumab-aacf SC injection: Adalimumab-aacf added to the
+policy. The existing quantity limits and overrides that apply to Idacio
+apply to adalimumab-aacf.
+Adalimumab-aaty SC injection: Adalimumab-aaty added to the
+policy. The existing quantity limits and overrides that apply to
+Yuflyma apply to adalimumab-aaty.
+Adalimumab-ryvk SC injection: Adalimumab-ryvk added to the
+policy. The existing quantity limits and overrides that apply to
+Simlandi apply to adalimumab-ryvk.
+CDV Humira (adalimumab SC injection): CDV Humira added to
+the policy. The existing quantity limits and overrides that apply to
+Humira apply to CDV Humira.
+CDV Hyrimoz (adalimumab-adaz SC injection): CDV Hyrimoz
+added to the policy. The existing quantity limits and overrides that
+apply to Hyrimoz apply to CDV Hyrimoz.
+Throughout the override criteria, approvals for the “requested
+quantity, not to exceed” were clarified to approve the specific amount
+already listed in criteria.
+Throughout the override criteria, the Notes were updated to clarify
+how to determine the total approval quantities.
+15 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Adalimumab Products Drug
+Quantity Management Policy – Per Days
+HISTORY (CONTINUED)
+Type of Summary of Changes Review
+Revision Date
+Early Annual Simlandi 80 mg/0.8 mL pens: New dosage form of Simlandi was 05/07/2025
+Revision added to the policy. The same quantity limits and overrides apply to
+Simlandi products as have previously applied to other adalimumab
+products.
+Adalimumab-adaz 10 mg/0.1 mL prefilled syringes: New
+dosage form of adalimumab-adaz was added to the policy. The same
+quantity limits and overrides apply to adalimumab-adaz products as
+have previously applied to other adalimumab products.
+Adalimumab-aaty Crohn’s Disease, Ulcerative Colitis,
+Hidradenitis Suppurativa Starter Pack (3 x 80 mg/0.8 mL
+pens): New dosage form of adalimumab-aaty was added to the
+policy. The same quantity limits and overrides apply to adalimumab-
+adaz products as have previously applied to other adalimumab
+products.
+Hyrimoz/CDV Hyrimoz/adalimumab-adaz 10 mg/0.2 mL, 20
+mg/0.4 mL, and 80 mg/0.8 mL prefilled syringes: The quantity
+limits for these products were removed from the policy as they are
+not available.
+Adalimumab 80 mg pens (NOT Starter Packages):
+• Existing override criteria for initiating treatment or additional
+induction dosing for hidradenitis suppurativa was updated to
+approve a one-time override for 3 additional pens at retail or 7
+additional pens at home delivery. Previously, these criteria
+approved a one-time override for 4 additional pens at retail or 8
+additional pens at home delivery.
+• New override criteria were added to approve a one-time override for
+3 additional pens at retail or home delivery if the patient is initiating
+treatment or requires additional induction dosing for Crohn’s
+disease, as verified by the absence of claims for adalimumab in the
+past 130 days AND if the patient is ≥ 18 years of age or is 6 to 17
+years of age and weighs ≥ 40 kg.
+Update 06/03/2025: No criteria changes. NA
+Adalimumab 40 mg pens and prefilled syringes (NOT starter
+packages) and adalimumab 80 mg pens (NOT starter
+packages): Notes were clarified to state that overrides for a patient
+who is initiating treatment or requires additional induction dosing also
+apply if the patient has recently received initiation/induction dosing
+and now requires an override to finish induction dosing or begin
+maintenance dosing.
+Selected Adalimumab 80 mg pens (NOT Starter Packages): New override 07/02/2025
+Revision criteria were added to approve a one-time override for 3 additional
+pens at retail or home delivery if the patient is initiating treatment or
+requires additional induction dosing for ulcerative colitis, as verified by
+the absence of claims for adalimumab in the past 130 days AND the
+patient is ≥ 18 years of age.
+NA – Not applicable.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc.,
+and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+15 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Adalimumab Products Drug
+Quantity Management Policy – Per Days

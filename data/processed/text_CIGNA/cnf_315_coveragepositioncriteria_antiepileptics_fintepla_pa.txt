@@ -1,0 +1,205 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Antiseizure Medications – Fintepla Prior Authorization Policy
+• Fintepla® (fenfluramine oral solution – Zogenix)
+REVIEW DATE: 04/23/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Fintepla, a serotonin 5-hydroxytryptamine subtype 2 (5-HT ) agonist, is indicated in
+2
+patients ≥ 2 years of age for the treatment of seizures associated with:1.
+• Dravet syndrome.
+• Lennox-Gastaut syndrome.
+Disease Overview
+Dravet syndrome is a rare genetic epileptic encephalopathy (dysfunction of the brain)
+marked with frequent and/or prolonged seizures.2,3 It is estimated that 1 out of
+15,700 infants born in the US are affected with Dravet syndrome. The seizures
+generally begin in the first year of life in an otherwise healthy infant. Affected
+individuals can develop many seizure types: myoclonic, tonic-clonic, absence,
+atypical absence, atonic, focal aware or impaired awareness (previously called partial
+seizures), and status epilepticus.3 As the seizures continue, most of the children
+Page 1 of 5: Cigna National Formulary Coverage - Policy: Antiseizure Medications - Fintepla Prior
+Authorization Policy
+develop some level of developmental disability and other conditions associated with
+the syndrome. Two or more antiseizure medications (ASMs) are often needed to
+control the seizures; most of the seizures are refractory to medications. The goals of
+treatment are cessation of prolonged convulsions, reductions in overall seizure
+frequency, and minimization of treatment side effects.4,5 Some patients respond to
+the ketogenic diet and/or vagus nerve stimulation.
+Lennox-Gastaut syndrome, a severe epileptic and developmental encephalopathy, is
+associated with a high rate of morbidity and mortality.6,7 Lennox-Gastaut syndrome
+most often begins between 3 and 5 years of age.6-9 Affected children experience
+several different types of seizures, most commonly atonic seizures (sudden loss of
+muscle tone and limpness) and tonic seizures.6,9 The three main forms of treatment
+of Lennox-Gastaut syndrome are ASMs, dietary therapy (typically the ketogenic diet),
+and device/surgery (e.g., vagus nerve stimulation, corpus callostomy).9 None of the
+therapies are effective in all cases of Lennox-Gastaut syndrome and the disorder has
+proven particularly resistant to most therapeutic options.
+Guidelines
+Dravet Syndrome
+At this time, there are three drugs approved for the treatment of seizures associated
+with Dravet syndrome: Diacomit® (stiripentol capsules, powder for oral suspension),
+Epidiolex® (cannabidiol oral solution), and Fintepla.1,10 An expert panel considers
+valproic acid to be the first-line treatment for Dravet syndrome.4 Clobazam,
+Diacomit, and Fintepla can be considered as either first- or second-line ASMs.
+Cannabidiol was supported either as first‐ or second‐line treatment. There was
+modest consensus among caregivers, but no consensus among physicians to support
+topiramate as first‐, second‐, or third‐line therapy. The Dravet Foundation states that
+Diacomit, Epidiolex, and Fintepla are considered first-line agents for the treatment of
+Dravet syndrome.2 If control is still inadequate, other therapies to consider are
+clonazepam, levetiracetam, and zonisamide.2,4 Sodium channel blockers (e.g.,
+carbamazepine, oxcarbazepine, lamotrigine, and phenytoin) can worsen seizures in
+Dravet syndrome. Additionally, vigabatrin and tiagabine may increase the frequency
+of myoclonic seizures and should be avoided.
+Lennox-Gastaut Syndrome
+Currently, the FDA-approved drugs for this condition are Fintepla, clobazam,
+clonazepam, rufinamide, Epidiolex, felbamate, lamotrigine, and topiramate.8 To
+address the lack of treatment algorithm, the Lennox-Gastaut syndrome Special
+Interest Group of the Pediatric Epilepsy Research Consortium (PERC) formed a core
+working group focused on ASM selection in this patient population (2025). Despite
+the lack of specific FDA labeling for Lennox-Gastaut syndrome, valproic acid remains
+a mainstay in treatment.8,9 Valproic acid is considered a first-line pharmacological
+therapy but should be avoided in women of childbearing potential due to potential
+teratogenic effects.8 Clobazam is recommended as a first-line option, particularly for
+managing disabling drop seizures, while it may be considered a second-line option in
+other cases. Cannabidiol may be considered a second-line therapy, specifically when
+combined with clobazam; otherwise, it is generally listed as a third-line treatment.
+Page 2 of 5: Cigna National Formulary Coverage - Policy: Antiseizure Medications - Fintepla Prior
+Authorization Policy
+Lamotrigine is considered a second-line therapy when used alongside valproate to
+enhance therapeutic synergy or in patients at risk of cognitive and behavioral side
+effects; otherwise, it can be utilized as a third- or fourth-line therapy depending on
+individual patient profiles. Rufinamide is a second-line option, particularly in cases
+where valproate or clobazam must be avoided, though it may be used as a third- or
+fourth-line option if these medications are tolerated. Topiramate can be considered
+from second- to fourth-line therapy, depending on the patient’s cognitive profile, as
+well as the suitability and availability of other ASMs. Additional later-line options
+include levetiracetam, brivaracetam, Fycompa® (perampanel tablet, oral
+suspension), zonisamide, fenfluramine, and felbamate. In managing Lennox-Gastaut
+syndrome, monotherapy is rarely effective, which necessitates the use of combination
+therapy with two or three ASMs with varying mechanisms of action. However, where
+possible, no more than two ASMs should be used concomitantly; use of multiple ASMs
+raise the risk of side effects and/or drug-drug interactions. In addition to
+pharmacological options, non-pharmacological therapies offer significant benefits in
+managing Lennox-Gastaut syndrome and include neuromodulation, resective
+surgery, corpus callosotomy, and the ketogenic diet.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Fintepla. All
+approvals are provided for the duration noted below. Because of the specialized skills
+required for evaluation and diagnosis of patients treated with Fintepla as well as the
+monitoring required for adverse events and long-term efficacy, initial approval
+requires Fintepla to be prescribed by or in consultation with a physician who
+specializes in the condition being treated.
+• Fintepla® (fenfluramine oral solution – Zogenix)
+is(are) covered as medically necessary when the following criteria is(are)
+met for FDA-approved indication(s) or other uses with supportive evidence
+(if applicable):
+FDA-Approved Indications
+1. Dravet Syndrome. Approve if the patient meets ONE the following (A or B):
+A) Initial Therapy. Approve for 1 year if the patient meets ALL of the following (i,
+ii, and iii):
+i. Patient is ≥ 2 years of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has tried or is concomitantly receiving at least two other
+antiseizure medications; OR
+Note: Examples of other antiseizure medications include valproic acid,
+topiramate, clonazepam, levetiracetam, zonisamide.
+b) Patient has tried or is concomitantly receiving one of clobazam, Epidiolex
+or Diacomit; AND
+iii. Fintepla is prescribed by or consultation with a neurologist; OR
+Page 3 of 5: Cigna National Formulary Coverage - Policy: Antiseizure Medications - Fintepla Prior
+Authorization Policy
+B) Patient is Currently Receiving Fintepla. Approve for 1 year if the patient is
+responding to therapy (e.g., reduced seizure severity, frequency, and/or
+duration) as determined by the prescriber.
+2. Lennox-Gastaut Syndrome. Approve if the patient meets ONE of the following
+(A or B):
+A) Initial Therapy. Approve for 1 year if the patient meets ALL of the following (i,
+ii, and iii):
+i. Patient is ≥ 2 years of age; AND
+ii. Patient has tried or is concomitantly receiving at least two other antiseizure
+medications; AND
+Note: Examples of other antiseizure medications include clobazam,
+Epidiolex, felbamate, lamotrigine, rufinamide, topiramate, valproic acid,
+levetiracetam, zonisamide, Fycompa, vigabatrin.
+iii. The medication is prescribed by or in consultation with a neurologist; OR
+B) Patient is Currently Receiving Fintepla. Approve for 1 year if the patient is
+responding to therapy (e.g., reduced seizure severity, frequency, and/or
+duration) as determined by the prescriber.
+CONDITIONS NOT COVERED
+• Fintepla® (fenfluramine oral solution – Zogenix)
+is(are) considered not medically necessary for ANY other use(s); criteria will
+be updated as new published data are available.
+REFERENCES
+1. Fintepla® oral solution [prescribing information]. Emeryville, CA: Zogenix; April 2025.
+2. Dravet Foundation – Dravet Syndrome. Available at: https://www.dravetfoundation.org/what-is-
+dravet-syndrome/. Accessed on April 21, 2025.
+3. Shafer PO. Epilepsy Foundation – Dravet Syndrome. Updated August 2020. Available at:
+http://www.epilepsy.com/learn/types-epilepsy-syndromes/dravet-syndrome. Accessed on April 21,
+2025.
+4. Wirrell EC, Hood V, Knupp KG, et al. International consensus on diagnosis and management of
+Dravet syndrome. Epilepsia. 2022;63(7):1761-1777.
+5. Knupp KG1, Wirrell EC. Treatment Strategies for Dravet Syndrome. CNS Drugs. 2018;32(4):335-
+350.
+6. Sirven JI, Shafer PO. Epilepsy Foundation – Lennox-Gastaut Syndrome. Updated February 2020.
+Available at: https://www.epilepsy.com/learn/types-epilepsy-syndromes/lennox-gastaut-
+syndrome-lgs. Accessed on April 21, 2025.
+7. Cross JH, Auvin S, Falip M, et al. Expert opinion on the management of Lennox-Gastaut syndrome:
+treatment algorithms and practical considerations. Front Neurol. 2017;8:505.
+8. Samanta D, Bhalla S, Bhatia S, et al. Antiseizure medications for Lennox-Gastaut Syndrome:
+Comprehensive review and proposed consensus treatment algorithm. Epilepsy Behav.
+2025;164:110261.
+9. Wheless JW. National Organization for Rare Diseases (NORD) – Lennox-Gastaut syndrome. Updated
+May 20, 2024. Available at: https://rarediseases.org/rare-diseases/lennox-gastaut-
+syndrome/#standard-therapies. Accessed on April 21, 2025.
+10. Diacomit® capsules, powder for oral suspension [prescribing information]. Redwood City, CA:
+Bicodex; July 2022.
+Page 4 of 5: Cigna National Formulary Coverage - Policy: Antiseizure Medications - Fintepla Prior
+Authorization Policy
+11. Lennox-Gastaut Syndrome Foundation – Lennox-Gastaut Syndrome. Updated October 25, 2024.
+Available at: https://www.lgsfoundation.org/about-lgs-2/what-is-lennox-gastaut-syndrome/.
+Accessed on April 21, 2025.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual The policy name was changed from Antiepileptics – Fintepla Prior 04/19/2023
+Revision Authorization Policy to Antiseizure Medications – Fintepla Prior
+Authorization Policy.
+Throughout the criteria, reference to antiepileptic medications was
+changed to antiseizure medications.
+Annual No criteria changes. 04/19/2024
+Revision
+Annual No criteria changes. 04/23/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance
+Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health
+Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna
+Group.
+Page 5 of 5: Cigna National Formulary Coverage - Policy: Antiseizure Medications - Fintepla Prior
+Authorization Policy

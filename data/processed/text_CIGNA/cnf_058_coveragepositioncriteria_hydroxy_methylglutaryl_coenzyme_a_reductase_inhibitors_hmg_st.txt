@@ -1,0 +1,203 @@
+STEP THERAPY POLICY
+POLICY: Hydroxy-Methylglutaryl-Coenzyme A Reductase Inhibitors Step
+Therapy Policy
+• Altoprev® (lovastatin extended-release tablets – Covis)
+• Atorvaliq® (atorvastatin oral suspension – CMP)
+• Caduet® (atorvastatin/amlodipine tablets – Pfizer, generic)
+• Crestor® (rosuvastatin tablets – AstraZeneca, generic)
+• Ezallor Sprinkle™ (rosuvastatin capsules – Sun)
+• Flolipid® (simvastatin oral suspension – Salerno/Rosemont)
+• fluvastatin capsules (generic only)
+• Lescol® XL (fluvastatin extended-release tablets – Novartis,
+generic)
+• Lipitor® (atorvastatin tablets – Pfizer, generic)
+• Livalo® (pitavastatin tablets – Lily/Kowa, generic)
+• lovastatin tablets (generic only)
+• pravastatin tablets (generic only)
+• Roszet® (rosuvastatin and ezetimibe tablets – Althera)
+• Rosuvastatin and ezetimibe tablets – SCOV3 LLC
+• Vytorin® (ezetimibe/simvastatin tablets – Organon, generic)
+• Zocor® (simvastatin tablets – Organon, generic)
+• Zypitamag® (pitavastatin magnesium tablets – Medicure)
+REVIEW DATE: 06/18/2025
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE DISCRETION IN MAKING INDIVIDUAL
+COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON SPECIFIC CIRCUMSTANCES,
+REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE WITH THE RELEVANT CRITERIA
+OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR PROCEDURE CODE(S). REIMBURSEMENT IS
+NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE NOT COVERED UNDER THIS COVERAGE POLICY
+(SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE MOST APPROPRIATE CODES AS OF THE EFFECTIVE
+DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE
+COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH
+BENEFIT PLANS. COVERAGE POLICIES ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT
+GUIDELINES. IN CERTAIN MARKETS, DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER
+COVERAGE DETERMINATIONS.
+Page 1 of 5 - Cigna National Formulary Coverage - Policy:Hydroxy-Methylglutaryl-Coenzyme A Reductase
+Inhibitors Step Therapy Policy
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Available single-entity hydroxy-methylglutaryl-coenzyme A (HMG-CoA) reductase
+inhibitors (HMGs) include lovastatin, simvastatin, atorvastatin, pravastatin,
+fluvastatin, fluvastatin extended-release, pitavastatin, rosuvastatin, Altoprev,
+Ezallor Sprinkle, and Zypitamag; combination products are available as well.1-14 All
+of the HMGs are indicated as an adjunct to diet for patients with primary
+hypercholesterolemia and/or mixed dyslipidemia (to impact lipid parameters
+such as to reduce elevated total cholesterol [total-C] and low-density lipoproprotein
+cholesterol [LDL-C]). Several agents have additional indications, including those
+related to improvement in cardiovascular (CV) outcomes. Flolipid (simvastatin oral
+suspension) is available and it has the same indications as simvastatin tablets.15
+Atorvaliq is an oral suspension that has the same indications as atorvastatin
+tablets.16 Ezallor Sprinkle has administration options for patients who cannot
+swallow an intact capsule whole.3 The contents can be opened and sprinkled over
+soft food (e.g., applesauce, pudding). Also, Ezallor Sprinkle capsules can be
+opened and administered by a nasogastric tube.
+Guidelines
+In November 2013, the American College of Cardiology and the American
+Heart Association published guidelines on the treatment of blood cholesterol to
+reduce atherosclerotic cardiovascular disease (ASCVD) risk in adults17 with an
+update published in 2019.18 The guideline emphasizes the appropriate intensity of
+statin therapy to reduce cardiovascular risk. No statin is preferred, but instead,
+statins with related doses are categorized as “high-intensity” (lowers low-density
+lipoprotein cholesterol [LDL-C] by approximately ≥ 50%), moderate-intensity
+(lowers LDL-C by approximately 30% to < 50%), and low-intensity (lowers LDL-C
+by < 30%). Only atorvastatin and rosuvastatin are categorized as acceptable
+“high-intensity” statin therapies. According to the guidelines, clinical trial evidence
+clearly shows that ASCVD events are reduced by using the maximum-tolerated
+statin intensity in groups shown to benefit (e.g., those at risk). There is relatively
+less evidence for non-statin medications in reducing ASCVD risk. Table 1
+categorizes the different statin regimens as high-, moderate-, and low-intensity.
+Refer to the guideline for the most appropriate intensity for the individual patient.
+Table 1. High-, Moderate-, and Low-Intensity Statin Therapy.17,18*
+High-Intensity Statin Moderate-Intensity Statin Low-Intensity Statin
+Therapy Therapy Therapy
+Daily dose lowers LDL-C on Daily dose lowers LDL-C on Daily dose lowers LDL-C on
+average by approximately ≥ average by approximately 30% average by < 30%.
+50%. to 50%.
+Atorvastatin (40 mg†) to 80 mg Atorvastatin 10 mg (20 mg) Simvastatin 10 mg
+Rosuvastatin 20 mg (40 mg) Rosuvastatin (5 mg) 10 mg Pravastatin 10 mg to 20 mg
+Simvastatin 20 mg to 40 mg‡ Lovastatin 20 mg
+Pravastatin 40 mg (80 mg) Fluvastatin 20 mg to 40 mg
+Lovastatin 40 mg Livalo 1 mg
+Fluvastatin extended-release 80
+mg
+Fluvastatin 40 mg BID
+5 Pages - Cigna National Formulary Coverage - Policy:Hydroxy-Methylglutaryl-Coenzyme A Reductase Inhibitors
+Step Therapy Policy
+Pitavastatin 2 mg to 4 mg
+* Used in the randomized controlled trials reviewed by the expert panel. Of note, individual responses
+to statin therapy varied in the randomized controlled trials and should be expected to vary in clinical
+practice. There might be a biologic basis for a less-than-average response; LDL-C – Low-density
+lipoprotein cholesterol; † Evidence from one randomized controlled trial only and down titration is
+recommended if the patient is unable to tolerate atorvastatin 80 mg; ‡ Although simvastatin 80 mg was
+assessed in randomized controlled trials, initiation of simvastatin 80 mg or titration to 80 mg is not
+recommended by the FDA due to the increased risk of myopathy, including rhabdomyolysis; BID – Twice
+daily.
+POLICY STATEMENT
+This program has been developed to encourage the use of a Step 1 Product prior to
+the use of a Step 2 Product. If the Step Therapy rule is not met for a Step 2
+Product at the point of service, coverage will be determined by the Step Therapy
+criteria below. All approvals are provided for 1 year in duration.
+Note: When compliance with the Affordable Care Act, Health Resources and
+Services Administration Guidelines, and Public Health Services Act section 2713 is
+required and the conditions for coverage listed under the Criteria are not met,
+approval is granted when the requested single-entity drug is used for the primary
+prevention of cardiovascular disease (CVD) in an adult aged 40 to 75 years who has
+one or more CVD risk factors (i.e., dyslipidemia, diabetes, hypertension, or
+smoking) and an estimated 10-year CVD event risk of 10% or greater and who
+does NOT have a history of (or signs or symptoms of) CVD and, according to the
+prescriber, the alternative Step 1 Products would not be as medically appropriate
+for the patient as the requested single-entity drug.
+Step 1: atorvastatin, atorvastatin/amlodipine, ezetimibe/simvastatin, fluvastatin,
+fluvastatin extended-release, lovastatin, pravastatin, pitavastatin,
+rosuvastatin, simvastatin
+Step 2: Altoprev, Atorvaliq, Caduet, Crestor, Ezallor Sprinkle, Flolipid, Lescol XL,
+Lipitor, Livalo, Pravachol, ezetimibe and rosuvastatin (brand product),
+Roszet, Vytorin, Zocor, Zypitamag
+Hydroxy-Methylglutaryl-Coenzyme A Reductase Inhibitors Step Therapy
+Policy product(s) is(are) covered as medically necessary when the
+following step therapy criteria is(are) met. Any other exception is
+considered not medically necessary.
+CRITERIA
+1. If the patient has tried one Step 1 Product, approve a Step 2 Product.
+2. If the patient cannot swallow or has difficulty swallowing tablets or capsules,
+approve Atorvaliq, Flolipid, or Ezallor Sprinkle.
+5 Pages - Cigna National Formulary Coverage - Policy:Hydroxy-Methylglutaryl-Coenzyme A Reductase Inhibitors
+Step Therapy Policy
+REFERENCES
+1. Lovastatin tablets [prescribing information]. Baltimore, MD/Goa, India: Lupin/BluePoint;
+September 2021.
+2. Crestor® tablets [prescribing information]. Wilmington, DE: AstraZeneca; July 2023.
+3. Zypitamag® tablets [prescribing information]. Princeton, NJ: Medicure; January 2024.
+4. Ezallor™ Sprinkle capsules [prescribing information]. Cranbury, NJ: Sun; March 2024.
+5. Zocor® tablets [prescribing information]. Jersey City, NJ: Organon; August 2023.
+6. Lipitor® tablets [prescribing information]. New York, NY: Pfizer, April 2024.
+7. Lescol® XL extended-release tablets [prescribing information]. East Hanover, NJ: Novartis;
+November 2023.
+8. Altoprev® extended-release tablets [prescribing information]. Zug, Switzerland: Covis; April
+2024.
+9. Pravachol® tablets [prescribing information]. Princeton, NJ: Bristol-Myers Squibb; May 2022.
+10. Livalo® tablets [prescribing information]. Montgomery, AL: Kowa; March 2024.
+11. Vytorin® tablets [prescribing information]. Jersey City, NJ: Organon; March 2024.
+12. Caduet® tablets [prescribing information]. New York, NY: Pfizer; May 2024.
+13. Roszet® tablets [prescribing information]. Morristown, NJ: Althera; March 2021.
+14. Rosuvastatin and ezetimibe tablets [prescribing information]. Wilmington, DE: SCOV3 LLC;
+August 2021.
+15. Flolipid® oral suspension [prescribing information]. Brooksville, FL: Salerno/Rosemont;
+September 2020.
+16. Atorvaliq® oral suspension [prescribing information]. Farmville, NC: CMP; February 2023.
+17. Stone NJ, Robinson J, Lichtenstein AH, et al. 2013 ACC/AHA guidance on the treatment of blood
+cholesterol to reduce atherosclerotic cardiovascular risk in adults: a report of the American
+College of Cardiology/American Heart Association Task Force on Practice guidelines. Circulation.
+2014;129(25 Suppl 2):S1-45.
+18. Grundy SM, Stone NJ, Bailey AL, et al.
+ACC/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA guideline on the
+management of blood cholesterol. A report of the American College of Cardiology/American Heart
+Association Task Force on Clinical Practice Guidelines. Circulation. 2019;139:e1082-e1143.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Policy Statement: The following note was added to the Policy 06/14/2023
+Revision Statement. Note: When compliance with the Affordable Care Act,
+Health Resources and Services Administration Guidelines, and Public
+Health Service Act section 2713 is required and the conditions for
+coverage listed under the Criteria are not met, approval is granted
+when the requested drug is used for the primary prevention of
+cardiovascular disease (CVD) in an adult aged 40 to 75 years who
+has one or more CVD risk factors (i.e., dyslipidemia, diabetes,
+hypertension, or smoking) and an estimated 10-year CVD event risk
+of 10% or greater and who does NOT have a history of (or signs or
+symptoms of) CVD and, according to the prescriber, the alternative
+Step 1 Products would not be as medically appropriate for the
+patient as the requested drug.
+Selected Pitavastatin (generic): Added as a Step 1 Product. There were 11/08/2023
+Revision no other changes to the criteria.
+Annual Ezetimibe and atorvastatin tablets (generic product) and 06/26/2024
+Revision Lescol: Removed from Step 2 as these products are no longer
+available.
+5 Pages - Cigna National Formulary Coverage - Policy:Hydroxy-Methylglutaryl-Coenzyme A Reductase Inhibitors
+Step Therapy Policy
+Update 07/08/2024: No criteria changes. In the listing of the products on NA
+the first page, it was added that fluvastatin capsules are available
+as generic only (Lescol [brand product] was removed).
+Annual No criteria changes. 06/18/2025
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are provided
+exclusively by or through such operating subsidiaries, including Cigna Health and Life Insurance Company,
+Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc., Cigna Health Management, Inc., and
+HMO or service company subsidiaries of The Cigna Group.© 2025 The Cigna Group.
+5 Pages - Cigna National Formulary Coverage - Policy:Hydroxy-Methylglutaryl-Coenzyme A Reductase Inhibitors
+Step Therapy Policy

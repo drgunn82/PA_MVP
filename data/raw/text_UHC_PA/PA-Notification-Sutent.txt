@@ -1,0 +1,236 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1101-15
+Program Prior Authorization/Notification
+Medication Sutent® (sunitinib malate)
+P&T Approval Date 8/2008, 6/2009, 6/2010, 9/2010, 12/2010, 9/2011, 8/2012, 7/2013, 8/2014,
+8/2015, 6/2016, 7/2016, 7/2017, 3/2018, 3/2019, 3/2020, 3/2021, 3/2022,
+3/2023, 3/2024, 3/2025
+Effective Date 6/1/2025
+1. Background:
+Sutent® (sunitinib malate) is a tyrosine kinase inhibitor indicated for the treatment of
+gastrointestinal stromal tumor (GIST) after disease progression on or intolerance to Gleevec®
+(imatinib mesylate); treatment of advanced renal cell carcinoma (RCC); adjuvant treatment of
+adult patients at high risk of recurrent RCC following nephrectomy; and treatment of
+progressive, well-differentiated pancreatic neuroendocrine tumors (pNET) in patients with
+unresectable locally advanced or metastatic disease.
+The National Cancer Comprehensive Network (NCCN) recommends use of Sutent for
+medullary, follicular, oncocytic, or papillary thyroid carcinoma; chordoma; meningiomas;
+thymic carcinoma; and treatment of myeloid/lymphoid neoplasms with eosinophilia and FMS-
+like tyrosine kinase 3 (FLT3) rearrangement. NCCN also approves the use of Sutent for other
+soft tissue sarcomas: alveolar soft part sarcoma (ASPS), angiosarcoma, solitary fibrous
+tumor/hemangiopericytoma, and extraskeletal myxoid chondrosarcoma.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or under
+some circumstances. Some states also mandate usage of other Compendium references. Where such
+mandates apply, they supersede language in the benefit document or in the notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Sutent will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Gastrointestinal Stromal Tumor (GIST)
+1. Initial Authorization
+a. Sutent will be approved based on both of the following criteria:
+© 2025 UnitedHealthcare Services, Inc.
+1
+(1) Diagnosis of gastrointestinal stromal tumor (GIST)
+-AND-
+(2) One of the following:
+(a) History of disease progression on, contraindication, or intolerance to Gleevec
+(imatinib), Stivarga (regorafenib), or standard dose Qinlock (ripretinib)
+-OR-
+(b) SDH-deficient GIST
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Sutent will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Sutent therapy
+Authorization will be issued for 12 months.
+C. Renal Cell Carcinoma (RCC)
+1. Initial Authorization
+a. Sutent will be approved based on both of the following criteria:
+(1) Diagnosis of renal cell carcinoma (RCC)
+-AND-
+(2) One of the following:
+(a) Disease has relapsed
+-OR-
+(b) Disease is advanced
+-OR-
+(c) Both of the following:
+i. Used in adjuvant setting
+ii. Patient has a high risk of recurrence following nephrectomy
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services, Inc.
+2
+2. Reauthorization
+a. Sutent will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Sutent therapy
+Authorization will be issued for 12 months.
+D. Neuroendocrine and Adrenal Tumors
+1. Initial Authorization
+a. Sutent will be approved based on the following criterion:
+(1) Diagnosis of progressive pancreatic neuroendocrine tumors (pNET)
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Sutent will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Sutent therapy
+Authorization will be issued for 12 months.
+E. Soft Tissue Sarcoma
+1. Initial Authorization
+a. Sutent will be approved based on the following criterion:
+(1) Diagnosis of one of the following:
+(a) Alveolar soft part sarcoma (ASPS)
+(b) Angiosarcoma
+(c) Solitary fibrous tumor / hemangiopericytoma
+(d) Extraskeletal myxoid chondrosarcoma
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Sutent will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Sutent therapy
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services, Inc.
+3
+F. Thyroid Carcinoma
+1. Initial Authorization
+a. Sutent will be approved based on one of the following criteria:
+(1) All of the following:
+(a) Diagnosis of one of the following:
+i. Follicular carcinoma
+ii. Oncocytic carcinoma
+iii. Papillary carcinoma
+-AND-
+(b) One of the following:
+i. Unresectable locoreginal recurrent disease
+ii. Persistent disease
+ii. Metastatic disease
+-AND-
+(c) One of the following:
+i. Patient has symptomatic disease
+ii. Patient has progressive disease
+-AND-
+(d) Disease is refractory to radioactive iodine treatment
+-OR-
+(2) All of the following:
+(a) Diagnosis of medullary thyroid carcinoma
+-AND-
+(b) One of the following
+i. Patient has progressive disease
+ii. Patient has symptomatic metastatic disease
+-AND-
+(c) One of the following:
+© 2025 UnitedHealthcare Services, Inc.
+4
+i. Clinical trials or preferred systemic therapy options are not available or
+appropriate
+ii. There is progression on preferred systemic therapy options [e.g. Caprelsa
+(vandetanib), Cometriq (cabozantinib)]
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Sutent will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Sutent therapy
+Authorization will be issued for 12 months.
+G. Chordoma
+1. Initial Therapy
+a. Sutent will be approved based on the following criterion:
+(1) Diagnosis of recurrent chordoma
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Sutent will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Sutent therapy
+Authorization will be issued for 12 months.
+H. Central Nervous System Cancer
+1. Initial Therapy
+a. Sutent will be approved based on all of the following criteria:
+(1) Diagnosis of surgically inaccessible meningiomas
+-AND-
+(2) One of the following:
+(a) Disease is recurrent
+(b) Disease is progressive
+-AND-
+© 2025 UnitedHealthcare Services, Inc.
+5
+(3) Further radiation is not possible
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Sutent will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Sutent therapy
+Authorization will be issued for 12 months.
+I. Thymic Carcinoma
+1. Initial Therapy
+a. Sutent will be approved based on the following criteria:
+(1) Diagnosis of thymic carcinoma
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Sutent will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Sutent therapy
+Authorization will be issued for 12 months.
+J. Myeloid/Lymphoid Neoplasms
+1. Initial Authorization
+a. Sutent will be approved based on both of the following criteria:
+(1) Diagnosis of lymphoid, myeloid, or mixed lineage neoplasms with eosinophilia
+-AND-
+(2) Patient has a FMS-like tyrosine kinase 3 (FLT3) rearrangement in chronic or blast
+phase
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Sutent will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Sutent therapy
+© 2025 UnitedHealthcare Services, Inc.
+6
+Authorization will be issued for 12 months.
+K. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category of
+Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Sutent [package insert]. New York, NY: Pfizer Labs; August 2021.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+www.nccn.org. Accessed January 30, 2025..
+Program Prior Authorization/Notification - Sutent® (sunitinib malate)
+Change Control
+8/2014 Annual review with updated criteria for thyroid carcinoma. Expanded
+disease description for RCC. Updated Background and References.
+9/2014 Administrative change - Tried/Failed exemption for State of New Jersey
+removed.
+8/2015 Annual review. Updated thyroid cancer and lung neuroendocrine tumor
+criteria. Added new criteria for meningiomas and thymic carcinoma.
+Updated background and references.
+6/2016 Annual review. Updated thyroid cancer criteria to include persistent
+disease. Updated background and references.
+7/2016 Updated thyroid and thymic cancer criteria.
+7/2017 Annual review. Updated background and criteria removing off label
+criteria for lung neuroendocrine tumors as no longer recommended by
+NCCN. Updated reference.
+3/2018 Updated background and criteria to include new labeled indication of
+adjuvant therapy for high risk RCC following nephrectomy. Updated
+references.
+© 2025 UnitedHealthcare Services, Inc.
+7
+3/2019 Annual review with no changes to coverage criteria. Updated references.
+3/2020 Annual review. Added general NCCN recommendations for use criteria.
+Updated reference.
+3/2021 Annual review. Added NCCN recommendation for Myeloid/Lymphoid
+Neoplasms to background and updated treatment criteria. References
+updated.
+3/2022 Annual review. Updated renal cell and neuroendocrine carcinoma criteria
+per NCCN guidelines. Updated references.
+3/2023 Annual review. Updated Myeloid/Lymphoid and Thymic cancer criteria
+per NCCN guidelines. Updated reference. Added state mandate footnote.
+3/2024 Annual review. Updated GIST, neuroendocrine/adrenal tumors, and
+thyroid carcinoma per NCCN recommendations.
+3/2025 Annual review. Updated soft tissue sarcoma to include coverage for
+extraskeletal myxoid chondrosarcoma per NCCN guidelines. Updated
+references.
+© 2025 UnitedHealthcare Services, Inc.
+8

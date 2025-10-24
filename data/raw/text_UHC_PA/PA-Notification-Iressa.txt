@@ -1,0 +1,97 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1161-10
+Program Prior Authorization/Notification
+Medication Iressa® (gefitinib)
+P&T Approval Date 10/2015, 9/2016, 9/2017, 9/2018, 9/2019, 9/2020, 10/2021, 10/2022,
+10/2023, 10/2024
+Effective Date 1/1/2025
+1. Background:
+Iressa® (gefitinib) is a tyrosine kinase inhibitor indicated as first-line treatment of patients with
+metastatic non-small cell lung cancer (NSCLC) whose tumors have epidermal growth factor
+receptor (EGFR) exon 19 deletions or exon 21 (L858R) substitution mutations.1 The National
+Cancer Comprehensive Network (NCCN) also recommends the use of Iressa in patients with
+NSCLC with EGFR S768I, L861Q, and/or G719X mutation positive tumors as well as patients
+with NSCLC with a known sensitizing EGFR mutation and associated brain metastases.2
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Iressa will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Non-Small Cell Lung Cancer (NSCLC)
+1. Initial Authorization
+a. Iressa will be approved based on both of the following criteria:
+(1) Diagnosis of metastatic non-small cell lung cancer (NSCLC)
+-AND-
+(2) One of the following:
+© 2024 UnitedHealthcare Services, Inc.
+1
+(a) Tumors are positive for epidermal growth factor receptor (EGFR)
+exon 19 deletions
+(b) Tumors are positive for exon 21 (L858R) substitution mutations
+(c) Tumors are positive for a known sensitizing EGFR mutation (e.g., exon
+20 S768I mutation, exon 18 G719X mutation, exon 21 L861Q mutation).
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Iressa will be approved based on the following criterion:
+(1) Documentation of positive clinical response to Iressa therapy
+Authorization will be issued for 12 months.
+C. Central Nervous System (CNS) Cancers
+1. Initial Authorization
+a. Iressa will be approved based on both of the following criteria:
+(1) Diagnosis of central nervous system (CNS) cancer with metastatic lesions
+-AND-
+(2) Iressa is active against primary (NSCLC) tumor with a known EGFR sensitizing
+mutation
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Iressa will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Iressa therapy
+Authorization will be issued for 12 months.
+D. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+© 2024 UnitedHealthcare Services, Inc.
+2
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Iressa [package insert]. AstraZeneca Pharmaceuticals LP: Wilmington DE; February 2023.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+https://www.nccn.org/compendia-templates/compendia/drugs-and-biologics-compendia.
+Accessed September 11, 2024.
+Program Prior Authorization/Notification - Iressa (gefitinib)
+Change Control
+10/2015 New program.
+9/2016 Annual review. Updated criteria for NSCLC. Updated background and
+references.
+9/2107 Annual review. No changes to the criteria.
+9/2018 Annual review. Added coverage for CNS metastases. Updated
+background and references.
+9/2019 Annual review. Updated references. Added general NCCN
+recommended review criteria.
+9/2020 Annual review. Updated criteria for CNS cancers according to NCCN.
+Updated references.
+10/2021 Annual review. No changes to coverage criteria. Updated references.
+10/2022 Annual review. No changes to coverage criteria. Added state mandate.
+Updated references.
+10/2023 Annual review. Updated background and list of examples of sensitizing
+EGFR mutations per NCCN recommendations. Updated references.
+10/2024 Annual review. No changes to coverage criteria. Updated references.
+© 2024 UnitedHealthcare Services, Inc.
+3

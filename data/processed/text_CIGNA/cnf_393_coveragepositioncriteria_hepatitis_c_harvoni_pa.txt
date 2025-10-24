@@ -1,0 +1,293 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Hepatitis C – Harvoni Prior Authorization Policy
+• Harvoni® (ledipasvir/sofosbuvir tablets and oral pellets − Gilead)
+• ledipasvir/sofosbuvir tablets (authorized generic to Harvoni 90
+mg/400 mg tablets– Asegua)
+REVIEW DATE: 09/11/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Ledipasvir/sofosbuvir is a fixed-dose combination of ledipasvir, a hepatitis C virus (HCV)
+NS5A inhibitor, and sofosbuvir, an HCV nucleotide analog NS5B polymerase inhibitor. It is
+indicated for the treatment of chronic HCV infection in patients ≥ 3 years of age in the
+following instances:1
+• Genotype 1, 4, 5, or 6 infections with or without compensated cirrhosis; and
+• Genotype 1 infection with decompensated cirrhosis, in combination with ribavirin;
+and
+• Genotype 1 or 4 infection who are liver transplant recipients with or without
+compensated cirrhosis, in combination with ribavirin.
+Dosing
+In adults, the recommended dose of ledipasvir/sofosbuvir is one tablet taken orally once
+daily with or without food.1 The recommended dose of ledipasvir/sofosbuvir tablets or
+pellets in pediatric patients ≥ 3 years of age is based on weight. The ledipasvir/sofosbuvir
+pellets can be taken in pediatric patients who cannot swallow the tablet formulation. Table 1
+below provides the recommended duration of therapy with ledipasvir/sofosbuvir. The
+ledipasvir/sofosbuvir authorized generic is only available in the 90 mg/400 mg strength
+tablet; Harvoni is additionally available as a lower strength tablet (45 mg/200 mg) as well
+as oral pellets (45 mg/200 mg and 33.75 mg/150 mg).
+Page 1 of 8 - Cigna National Formulary Coverage - Policy:Hepatitis C – Harvoni Prior Authorization Policy
+Table 1. Recommended Treatment Duration for ledipasvir/sofosbuvir in Patients ≥
+3 Years of Age with Chronic HCV Genotype 1, 4, 5, or 6.1
+Patient Population Duration of Treatment
+Genotype 1 – Treatment-naïve with or ledipasvir/sofosbuvir 12 weeks*
+without compensated (Child Pugh A)
+cirrhosis
+Genotype 1 – Treatment-experienced** ledipasvir/sofosbuvir 12 weeks
+without cirrhosis
+Genotype 1 – Treatment-experienced** with ledipasvir/sofosbuvir 24 weeks†
+compensated (Child Pugh A) cirrhosis
+Genotype 1 – Treatment-naïve and ledipasvir/sofosbuvir + ribavirin‡ 12 weeks
+treatment-experienced** with
+decompensated (Child-Pugh B or C)
+cirrhosis.
+Genotype 1 or 4 – Transplant recipients ledipasvir/sofosbuvir + ribavirin§ 12 weeks
+without cirrhosis, or with compensated
+(Child-Pugh A) cirrhosis
+Genotype 4, 5, or 6 – Treatment-naïve and ledipasvir/sofosbuvir12 weeks
+treatment-experienced**, with or without
+compensated (Child-Pugh A) cirrhosis
+HCV – Hepatitis C virus; * Harvoni for 8 weeks can be considered in treatment-naïve
+patients without cirrhosis who have pretreatment HCV RNA < 6 million IU/mL; **
+Treatment-experienced patients who have failed treatment with either peginterferon alfa +
+ribavirin or a hepatitis C virus protease inhibitor + peginterferon + ribavirin; † Harvoni for
+12 weeks can be considered in treatment-experienced patients with cirrhosis who are
+eligible for ribavirin. The daily dose of ribavirin is weight-based (1,000 mg for patients < 75
+kg and 1,200 mg for those ≥ 75 kg) administered in two divided doses. ‡ In patients with
+decompensated cirrhosis, the starting dosage of ribavirin is 600 mg and can be titrated up
+to 1,000 mg for patients < 75 kg and 1,200 mg for those ≥ 75 kg in two divided doses with
+food. If the starting dosage of ribavirin is not well tolerated, the dosage should be reduced
+as clinically indicated based on hemoglobin levels. § The daily dosage of ribavirin is weight-
+based (1,000 mg for patients < 75 kg and 1,200 mg for those ≥ 75 kg) administered orally
+in two divided doses with food.
+Guidelines
+The American Association for the Study of Liver Diseases/Infectious Diseases Society of
+America have simplified recommendations for the management of chronic HCV in adults
+(December 19, 2023).2 In treatment-naïve adults without cirrhosis, the recommended
+regimens are Mavyret® (glecaprevir/pibrentasvir tablets and oral pellets) for 8 weeks or
+Epclusa® (sofosbuvir/velpatasvir tablets [generic] and oral pellets) for 12 weeks. In
+treatment-naïve adults with compensated cirrhosis, the recommended regimens are
+Mavyret for 8 weeks (genotypes 1 through 6) or sofosbuvir/velpatasvir for 12 weeks
+(genotypes 1, 2, 4, 5, or 6; patients with genotype 3 require baseline NS5A resistance-
+associated substitution testing and those without Y93H can be treated with 12 weeks of
+Epclusa). Additional genotype-specific and/or special circumstance-specific
+recommendations are also provided for patients falling outside of these parameters.
+Ledipasvir/sofosbuvir continues to be recommended in various situations as outlined below
+in Table 2.
+Table 2. AASLD Recommendations for Harvoni.2
+5 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Harvoni Prior Authorization Policy
+DAA Duration FDA AASLD Level of Evidence
+Approved
+(Y/N)
+Genotype 1, 4, 5, and 6 Chronic HCV Treatment-Naïve Adults – Recommended
+ledipasvir/sofosbuvir 12 weeks (± Y Class I, Level A
+compensated Class IIa, Level B (Genotype
+cirrhosis) 4 compensated cirrhosis,
+Not recommended for Genotype 5/6 ± compensated
+genotype 6e if cirrhosis)
+subtype is known.
+ledipasvir/sofosbuvir 8 weeks (HIV- Y Class I, Level B
+uninfected, HCV RNA
+< 6 million IU/mL, no
+cirrhosis, absence of
+genotype 4r)
+Genotype 1, 4, 5, or 6 Chronic HCV, Decompensated Cirrhosis Adults Ribavirin
+Eligible – Recommended
+ledipasvir/sofosbuvir 12 weeks Y Class I, Level A
++ ribavirin
+Genotype 1, 4, 5, or 6 Chronic HCV, Decompensated Cirrhosis Adults Ribavirin
+Ineligible – Recommended
+ledipasvir/sofosbuvir 24 weeks N Class I, Level A
+Genotype 1, 4, 5, or 6 Chronic HCV, Decompensated Cirrhosis Adults Prior
+Sovaldi or NSA Failure – Recommended
+ledipasvir/sofosbuvir 24 weeks N Class II, Level C
++ ribavirin
+Genotype 1, 4, 5, or 6 Recurrent HCV Post-Liver Transplant, No Cirrhosis,
+Treatment-Naïve or Treatment-Experienced – Recommended
+ledipasvir/sofosbuvir 12 weeks Y Class I, Level B
+Genotype 1, 4, 5, or 6 Recurrent HCV Post-Liver Transplant, Compensated
+Cirrhosis, Treatment-Naïve or Treatment-Experienced – Recommended
+ledipasvir/sofosbuvir 12 weeks Y Class I, Level A
+Genotype 1, 4, 5, or 6 Recurrent HCV Post-Liver Transplant, Decompensated
+Cirrhosis, Treatment-Naïve or Treatment-Experienced – Recommended
+ledipasvir/sofosbuvir 12 to 24 weeks Y Class I, Level B
++ ribavirin
+Genotype 1, 4, 5, or 6 Kidney Transplant Treatment-Naïve or DAA-Experienced ±
+Compensated Cirrhosis, Adults – Recommended
+ledipasvir/sofosbuvir 12 weeks N Class I, Level A
+Genotype 1, 4, 5, or 6 Treatment-Naïve Adolescents ≥ 3 years, ± Compensated
+Cirrhosis – Recommended
+ledipasvir/sofosbuvir 12 weeks Y Class I, Level B
+Table 2 (continued). AASLD Recommendations for Harvoni.2
+DAA Duration FDA AASLD Level of Evidence
+Approved
+(Y/N)
+Genotype 1, 4, 5, or 6 Treatment-Experienced (Interferon + Protease Inhibitor)
+Adolescents ≥ 3 years, ± Compensated Cirrhosis – Recommended
+ledipasvir/sofosbuvir 12 weeks (genotype Y Class I, Level C
+1 no cirrhosis)
+5 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Harvoni Prior Authorization Policy
+ledipasvir/sofosbuvir 24 weeks (genotype Y Class I, Level C
+1 compensated
+cirrhosis)
+ledipasvir/sofosbuvir 12 weeks (genotypes Y Class I, Level C
+4, 5, or 6 ±
+compensated
+cirrhosis)
+AASLD – American Association for the Study of Liver Diseases; DAA – Direct-acting
+antiviral; Y – Yes; N – No; HCV – Hepatitis C virus; HIV – Human immunodeficiency virus.
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of
+ledipasvir/sofosbuvir. All approvals are provided for the duration noted below. Because of
+the specialized skills required for evaluation and diagnosis of patients treated with
+ledipasvir/sofosbuvir as well as the monitoring required for adverse events and long-term
+efficacy, approval requires ledipasvir/sofosbuvir to be prescribed by or in consultation with a
+physician who specializes in the condition being treated.
+• Harvoni® (ledipasvir/sofosbuvir tablets and oral pellets − Gilead)
+• ledipasvir/sofosbuvir tablets (authorized generic to Harvoni 90 mg/400 mg tablets–
+Asegua)
+is(are) covered as medically necessary when the following criteria is(are) met for FDA-
+approved indication(s) or other uses with supportive evidence (if applicable):
+FDA-Approved Indications
+1. Chronic Hepatitis C Virus (HCV), Genotype 1. Approve for the duration noted if the
+patient meets ALL of the following (A, B, and C):
+A) Patient is ≥ 3 years of age; AND
+B) Patient meets ONE of the following (i, ii or iii):
+i. Approve for 8 weeks if the patient meets ALL of the following (a, b, c, d, and e):
+a) Patient is treatment-naïve; AND
+b) Patient does not have cirrhosis; AND
+c) Patient does not have human immunodeficiency virus (HIV); AND
+Note: Patients with HIV should be reviewed using the same criteria as
+patients without HIV, using Criteria ii or iii below.
+d) Patient is not awaiting liver transplantation; AND
+Note: Patients awaiting liver transplantation should be reviewed using
+Criteria ii or iii below.
+e) Baseline HCV RNA is < 6 million IU/mL; OR
+ii. Approve for 12 weeks if the patient meets ONE the following (a, b, or c):
+a) Patient is treatment-naïve AND does not meet criterion Bi above; OR
+Note: Treatment-naïve includes patients with or without HIV who are
+treatment-naïve with compensated [Child-Pugh A] cirrhosis regardless of
+baseline HCV RNA, or treatment-naïve patients with or without HIV without
+cirrhosis and baseline HCV RNA ≥ 6 million IU/mL. This would also include
+treatment-naïve patients awaiting transplant with compensated [Child-Pugh
+A] cirrhosis regardless of baseline HCV RNA or treatment-naïve patients
+awaiting transplant without cirrhosis and baseline HCV RNA ≥ 6 million
+IU/mL).
+b) Patient has previously been treated for HCV and does not have cirrhosis; OR
+5 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Harvoni Prior Authorization Policy
+Note: For patients with compensated cirrhosis [Child-Pugh A] see criterion
+Biii below, for patients with decompensated cirrhosis [Child-Pugh B or C] see
+criterion Biic below.
+c) Patient is treatment-naïve or has previously been treated for HCV and meets
+ALL of the following [(1), (2), and (3)]:
+(1)Patient has decompensated (Child-Pugh B or C) cirrhosis; AND
+(2)Patient is ribavirin eligible; AND
+Note: For ribavirin ineligible patients with decompensated cirrhosis, see
+criterion Biiib below.
+(3)The medication will be prescribed in combination with ribavirin; OR
+iii. Approve for 24 weeks if the patient meets ONE of the following (a or b):
+a) Patient has previously been treated for HCV and has compensated (Child-
+Pugh A) cirrhosis; OR
+b) Patient is treatment-naïve or has previously been treated for HCV and the
+patient meets BOTH of the following [(1) and (2)]:
+(1)Patient has decompensated cirrhosis (Child-Pugh B or C); AND
+(2)Patient is ribavirin ineligible, according to the prescriber; AND
+C) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+2. Chronic Hepatitis C Virus (HCV), Genotypes 4, 5, OR 6. Approve for 12 weeks if
+the patient meets BOTH of the following (A and B):
+A) Patient is ≥ 3 years of age; AND
+B) The medication is prescribed by or in consultation with a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+3. Recurrent Hepatitis C Virus (HCV) Post-Liver Transplantation, Genotypes 1 OR
+4. Approve for 12 weeks if the patient meets ALL of the following (A, B, C and D):
+A) Patient is ≥ 3 years of age; AND
+B) Patient has recurrent HCV after a liver transplantation; AND
+C) The medication will be prescribed in combination with ribavirin; AND
+D) The medication is prescribed by or in consultation with one of the following
+prescribers who is affiliated with a transplant center: a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+Other Uses with Supportive Evidence
+4. Recurrent Hepatitis C Virus (HCV) Post-Liver Transplantation, Genotypes 5 OR
+6. Approve for 12 weeks if the patient meets ALL of the following (A, B, C and D):
+A) Patient is ≥ 18 years of age; AND
+B) Patient has recurrent HCV after a liver transplantation; AND
+C) The medication will be prescribed in combination with ribavirin; AND
+D) The medication is prescribed by or in consultation with one of the following
+prescribers who is affiliated with a transplant center: a gastroenterologist,
+hepatologist, infectious diseases physician, or a liver transplant physician.
+5. Hepatitis C Virus (HCV) in Kidney Transplant Recipients, Genotypes 1 or 4.
+Approve for 12 weeks if the patient meets ALL of the following (A, B, and C):
+A) Patient is ≥ 18 years of age; AND
+B) Patient is a kidney transplant recipient with HCV; AND
+C) The medication is prescribed by or in consultation with one of the following
+prescribers who is affiliated with a transplant center: a gastroenterologist,
+5 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Harvoni Prior Authorization Policy
+hepatologist, infectious diseases physician, nephrologist, liver transplant physician,
+or a renal transplant physician.
+6. Patient Has Been Started on ledipasvir/sofosbuvir. Approve ledipasvir/sofosbuvir
+for an indication or condition addressed as an approval in the Recommended
+Authorization Criteria section (FDA-Approved Indications or Other Uses with Supportive
+Evidence). Approve for the duration described above to complete a course of therapy
+(e.g., a patient who should receive 12 weeks and has received 3 weeks, should be
+approved for 9 weeks to complete their 12-week course).
+CONDITIONS NOT COVERED
+• Harvoni® (ledipasvir/sofosbuvir tablets and oral pellets (Gilead)
+• ledipasvir/sofosbuvir tablets (authorized generic to Harvoni 90 mg/400 mg
+tablets– Asegua)
+is(are) considered experimental, investigational, or unproven for ANY other use(s)
+including the following (this list may not be all inclusive; criteria will be updated
+as new published data are available):
+1. Hepatitis C Virus (HCV) [any genotype], Combination with Any Other Direct-
+Acting Antivirals (DAAs) Not Including Ribavirin. Ledipasvir/sofosbuvir provides a
+complete antiviral regimen. Ledipasvir/sofosbuvir is not recommended to be used with
+other products containing sofosbuvir.
+2. Pediatric Patient (Age < 3 years). The safety and efficacy of ledipasvir/sofosbuvir
+have not been established in pediatric patients < 3 years of age.1
+3. Retreatment with ledipasvir/sofosbuvir in Patients Who Have Previously
+Received ledipasvir/sofosbuvir (e.g., retreatment in prior null responders, prior
+partial responders, prior relapse patients, patients who have not completed a
+course of therapy due to an adverse reaction or for other reasons). There are
+other direct-acting antivirals indicated for patients who have previously been treated
+with ledipasvir/sofosbuvir.
+REFERENCES
+1. Harvoni® tablets and oral pellets [prescribing information]. Foster City, CA: Gilead;
+March 2020.
+2. American Association for the Study of Liver Diseases and the Infectious Diseases Society
+of America. Testing, managing, and treating hepatitis C. Available at:
+http://www.hcvguidelines.org. Updated December 19, 2023. Accessed on August 19,
+2024.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual No criteria changes. 09/13/2023
+Revision
+Selected Conditions Not Covered 02/28/2024
+Revision : Life Expectancy Less Than 12 Months Due to Non-
+Liver Related Comorbidities. This condition was removed.
+5 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Harvoni Prior Authorization Policy
+Annual No criteria changes. 09/11/2024
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and
+services are provided exclusively by or through such operating subsidiaries, including Cigna
+Health and Life Insurance Company, Connecticut General Life Insurance Company,
+Evernorth Behavioral Health, Inc., Cigna Health Management, Inc., and HMO or service
+company subsidiaries of The Cigna Group. © 2024 The Cigna Group.
+5 Pages - Cigna National Formulary Coverage - Policy:Hepatitis C – Harvoni Prior Authorization Policy

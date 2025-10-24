@@ -1,0 +1,100 @@
+PREFERRED STEP THERAPY POLICY
+POLICY: Bowel Agents – Opioid-Induced Constipation Preferred Step Therapy
+Policy
+• Movantik® (naloxegol tablets – Valinor)
+• Relistor® (methylnaltrexone bromide tablets and injection –
+Salix/Progenics)
+• Symproic® (naldemedine tablets – Shionogi/BioDelivery Sciences)
+REVIEW DATE: 11/13/2024
+INSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR PLAN
+DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE BASED. FOR
+EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC ADDRESSED IN A COVERAGE
+POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES THE INFORMATION IN THE
+COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE, BENEFITS ARE ULTIMATELY
+DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS IN EACH SPECIFIC INSTANCE
+REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON THE DATE OF SERVICE; 2) ANY
+APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING COVERAGE POLICIES AND; 4) THE
+SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED ON ITS OWN MERITS. MEDICAL
+DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT AND HAVE DISCRETION IN MAKING INDIVIDUAL COVERAGE
+DETERMINATIONS. COVERAGE POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES
+ARE NOT RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS,
+DELEGATED VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Movantik, Relistor (tablets and injection), and Symproic are indicated for the
+treatment of opioid-induced constipation (OIC) in adults with chronic non-cancer
+pain, including patients with chronic pain related to prior cancer or its treatment
+who do not require frequent (e.g., weekly) opioid dosage escalation.1-3
+Additionally, Relistor injection (not tablets) is indicated for the treatment of OIC in
+adults with advanced illness or pain caused by active cancer who require
+opioid dosage escalation for palliative care.2 Movantik, Relistor, and Symproic
+are mu-opioid receptor antagonists that act peripherally in tissues such as the
+gastrointestinal tract, thereby decreasing the constipating effects of opioids.
+Guidelines
+The American Gastroenterological Association (AGA) published a guideline and
+technical review on opioid-induced constipation in 2019.4,5 In patients with
+laxative-refractory OIC, the AGA recommends Symproic or Movantik and suggests
+Relistor (tablets or injection).4 The technical review notes that the quality of
+Page 1 of 3 - Cigna National Formulary Coverage - Policy:Bowel Agents – Opioid-Induced Constipation Preferred
+Step Therapy Policy
+evidence was rated down for Relistor due in part to the short duration of the trials
+(4 weeks, followed by as-needed dosing for 8 weeks).5
+An additional guideline from the American Academy of Pain Medicine (AAPM) [2017]
+notes that peripherally-acting mu-opioid receptor antagonists, including Movantik
+and Relistor, have demonstrated efficacy in reducing OIC.6 The AAPM guideline was
+written prior to the approval of Symproic.
+POLICY STATEMENT
+This program has been developed to encourage the use of two Step 1 Products
+prior to the use of a Step 2 Product. If the Preferred Step Therapy rule is not met
+for a Step 2 Product at the point of service, coverage will be determined by the
+Preferred Step Therapy criteria below. All approvals are provided for 1 year in
+duration.
+Note: Amitiza® (lubiprostone capsules) is not targeted in this Policy.
+Step 1: Movantik, Symproic
+Step 2: Relistor tablets, Relistor injection
+Bowel Agents – Opioid-Induced Constipation Preferred Step Therapy Policy
+product(s) is(are) covered as medically necessary when the following
+preferred step therapy criteria is(are) met. Any other exception is
+considered not medically necessary.
+CRITERIA
+1. If the patient has tried TWO Step 1 Products, approve a Step 2 Product.
+2. If Relistor injection is being prescribed for the treatment of opioid-induced
+constipation in an adult patient with advanced illness who is receiving palliative
+care, approve.
+REFERENCES
+1. Movantik® tablets [prescribing information]. Wilmington, DE: Valinor; March 2023.
+2. Relistor® tablets and injection [prescribing information]. Bridgewater, NJ: Salix; May 2024.
+3. Symproic® tablets [prescribing information]. Raleigh, NC: Shionogi/BioDelivery Sciences;
+December 2022.
+4. Crockett S, Greer KB, Heidelbaugh JJ, et al., on behalf of the American Gastroenterological
+Association Institute Clinical Guidelines Committee. American Gastroenterological Association
+Institute Guideline on the Medical Management of Opioid-Induced Constipation. Gastroenterology.
+2019;156(1):218-226.
+5. Hanson B, Siddique SM, Scarlett Y, Sultan S, on behalf of the American Gastroenterological
+Association Institute Clinical Guidelines Committee. American Gastroenterological Association
+3 Pages - Cigna National Formulary Coverage - Policy:Bowel Agents – Opioid-Induced Constipation Preferred
+Step Therapy Policy
+Institute Technical Review on the Medical Management of Opioid-Induced Constipation.
+Gastroenterology. 2019;156(1):229-253.e5.
+6. Müller-Lissner S, Bassotti G, Coffin B, et al. Opioid-induced constipation and bowel dysfunction: a
+clinical guideline. Pain Medicine. 2017;18:1837-1863.
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Title: “Bowel Disease” was updated to “Bowel Agents.” No criteria 11/15/2023
+Revision changes.
+Annual No criteria changes. 11/13/2024
+Revision
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group. ©
+2024 The Cigna Group.
+3 Pages - Cigna National Formulary Coverage - Policy:Bowel Agents – Opioid-Induced Constipation Preferred
+Step Therapy Policy

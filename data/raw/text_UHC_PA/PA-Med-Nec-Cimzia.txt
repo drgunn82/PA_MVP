@@ -1,0 +1,403 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 2195-9
+Program Prior Authorization/Medical Necessity
+Medication Cimzia® (certolizumab)
+P&T Approval Date 5/2020, 5/2021, 6/2021, 12/2021, 5/2022, 5/2023, 7/2023, 10/2024,
+11/2024
+Effective Date 2/1/2025
+1. Background:
+Cimzia (certolizumab) is a tumor necrosis factor (TNF) blocker indicated for reducing signs
+and symptoms of Crohn's disease (CD) and maintaining clinical response in adult patients
+with moderately to severely active disease who have had an inadequate response to
+conventional therapy. Cimzia is also indicated for the treatment of adults with moderately to
+severely active rheumatoid arthritis (RA), treatment of adult patients with active psoriatic
+arthritis (PsA), treatment of adults with active ankylosing spondylitis (SpA), treatment of
+adults with moderate to severe plaque psoriasis (PS) who are candidates for systemic therapy
+or phototherapy, for the treatment of adults with active non-radiographic axial
+spondyloarthritis (nr-axSpA), with objective signs of inflammation, and for the treatment of
+active polyarticular juvenile idiopathic arthritis (pJIA) in patients 2 years of age and older.
+2. Coverage Criteriaa:
+A. Crohn’s Disease (CD)
+1. Initial Authorization
+a. Cimzia will be approved based on all of the following criteria:
+(1) Diagnosis of moderately to severely active Crohn’s disease
+-AND-
+(2) One of the following:
+(a) History of failure to one of the following conventional therapies at
+maximally indicated doses, unless contraindicated or clinically significant
+adverse effects are experienced (document drug, date, and duration of trial):
+i. Corticosteroids (e.g., prednisone, methylprednisolone, budesonide)
+ii. 6-mercaptopurine (Purinethol)
+iii. Azathioprine (Imuran)
+iv. Methotrexate (Rheumatrex, Trexall)
+-OR-
+(b) Patient has been previously treated with a targeted immunomodulator FDA-
+approved for the treatment of Crohn’s disease as documented by claims
+© 2024 UnitedHealthcare Services, Inc.
+1
+history or submission of medical records (Document drug, date, and duration
+of therapy) [e.g., adalimumab, Stelara (ustekinumb), Skyrizi (risankizumab)].
+-OR-
+(c) Both of the following:
+i. Patient is currently on Cimzia therapy as documented by claims history or
+submission of medical records (Document date and duration of therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from the UCB sponsored
+CIMplicity® program (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a
+current user of Cimzia*
+-AND-
+(3) Patient is not receiving Cimzia in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Simponi (golimumab), Orencia
+(abatacept), adalimumab, Xeljanz (tofacitinib), Olumiant (baricitinib),
+Rinvoq (upadacitinib), Stelara (ustekinumab), Skyrizi (risankizumab)]
+-AND-
+(4) Prescribed by or in consultation with a gastroenterologist
+* Patients requesting initial authorization who were established on therapy via the receipt
+of a manufacturer supplied sample at no cost in the prescriber’s office or any form of
+assistance from the UCB sponsored CIMplicity® program shall be required to meet
+initial authorization criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Cimzia will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Cimzia therapy
+-AND-
+(2) Patient is not receiving Cimzia in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Simponi (golimumab), Orencia
+(abatacept), adalimumab, Xeljanz (tofacitinib), Olumiant (baricitinib),
+Rinvoq (upadacitinib), Stelara (ustekinumab), Skyrizi (risankizumab)]
+Authorization will be issued for 12 months.
+© 2024 UnitedHealthcare Services, Inc.
+2
+B. Rheumatoid Arthritis (RA)
+1. Initial Authorization
+a. Cimzia will be approved based on all of the following criteria:
+(1) Diagnosis of moderately to severely active rheumatoid arthritis
+-AND-
+(2) One of the following:
+(a) History of failure to a 3 month trial of one non-biologic disease modifying
+anti-rheumatic drug (DMARD) [e.g., methotrexate, leflunomide,
+sulfasalazine, hydroxychloroquine] at maximally indicated doses, unless
+contraindicated or clinically significant adverse effects are experienced
+(document drug, date, and duration of trial)b
+-OR-
+(b) Patient has been previously treated with a targeted immunomodulator FDA-
+approved for the treatment of rheumatoid arthritis as documented by claims
+history or submission of medical records (Document drug, date, and duration
+of therapy) [e.g., Enbrel (etanercept), Simponi (golimumab), Orencia
+(abatacept), adalimumab, Xeljanz (tofacitinib), Olumiant (baricitinib),
+Rinvoq (upadacitinib)]
+-OR-
+(c) Both of the following:
+i. Patient is currently on Cimzia therapy as documented by claims history or
+submission of medical records (Document date and duration of therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from the UCB sponsored
+CIMplicity® program (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a
+current user of Cimzia*
+-AND-
+(3) Patient is not receiving Cimzia in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Simponi (golimumab), Orencia
+(abatacept), adalimumab, Xeljanz (tofacitinib), Olumiant (baricitinib),
+Rinvoq (upadacitinib)]
+-AND-
+© 2024 UnitedHealthcare Services, Inc.
+3
+(4) Prescribed by or in consultation with a rheumatologist
+* Patients requesting initial authorization who were established on therapy via the receipt
+of a manufacturer supplied sample at no cost in the prescriber’s office or any form of
+assistance from the UCB sponsored CIMplicity® program shall be required to meet
+initial authorization criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Cimzia will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Cimzia therapy
+-AND-
+(2) Patient is not receiving Cimzia in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Simponi (golimumab), Orencia
+(abatacept), adalimumab, Xeljanz (tofacitinib), Olumiant (baricitinib),
+Rinvoq (upadacitinib)]
+Authorization will be issued for 12 months.
+C. Psoriatic Arthritis (PsA)
+1. Initial Authorization
+a. Cimzia will be approved based on all of the following criteria:
+(1) Diagnosis of active psoriatic arthritis
+-AND-
+(2) One of the following:
+(a) History of failure to a 3 month trial of methotrexate at maximally indicated
+dose, unless contraindicated or clinically significant adverse effects are
+experienced (document date and duration of trial)b
+-OR-
+(b) Patient has been previously treated with a targeted immunomodulator
+FDA-approved for the treatment of psoriatic arthritis as documented by
+claims history or submission of medical records (Document drug, date,
+and duration of therapy) [e.g., Enbrel (etanercept), adalimumab, Simponi
+(golimumab), Orencia (abatacept), Stelara (ustekinumab), Skyrizi
+(risankizumab), Tremfya (guselkumab), Cosentyx (secukinumab), Taltz
+(ixekizumab), Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq
+(upadacitinib), Otezla (apremilast)]
+© 2024 UnitedHealthcare Services, Inc.
+4
+-OR-
+(c) Both of the following:
+i. Patient is currently on Cimzia therapy as documented by claims history or
+submission of medical records (Document date and duration of therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from the UCB sponsored
+CIMplicity® program (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a
+current user of Cimzia*
+-AND-
+(3) Patient is not receiving Cimzia in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), adalimumab, Simponi
+(golimumab), Orencia (abatacept), Stelara (ustekinumab), Skyrizi
+(risankizumab), Tremfya (guselkumab), Cosentyx (secukinumab), Taltz
+(ixekizumab), Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq
+(upadacitinib), Otezla (apremilast)]
+-AND-
+(4) Prescribed by or in consultation with one of the following:
+(a) Rheumatologist
+(b) Dermatologist
+* Patients requesting initial authorization who were established on therapy via the receipt
+of a manufacturer supplied sample at no cost in the prescriber’s office or any form of
+assistance from the UCB sponsored CIMplicity® program shall be required to meet
+initial authorization criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Cimzia will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Cimzia therapy
+-AND-
+(2) Patient is not receiving Cimzia in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), adalimumab, Simponi
+(golimumab), Orencia (abatacept), Stelara (ustekinumab), Skyrizi
+(risankizumab), Tremfya (guselkumab), Cosentyx (secukinumab), Taltz
+© 2024 UnitedHealthcare Services, Inc.
+5
+(ixekizumab), Xeljanz (tofacitinib), Olumiant (baricitinib), Rinvoq
+(upadacitinib), Otezla (apremilast)]
+Authorization will be issued for 12 months.
+D. Ankylosing Spondylitis (AS) and non-radiographic Axial Spondyloarthritis (nr-
+axSpA)
+1. Initial Authorization
+a. Cimzia will be approved based on all of the following criteria:
+(1) Diagnosis of active ankylosing spondylitis or non-radiographic axial
+spondyloarthritis
+-AND-
+(2) One of the following:
+(a) History of failure to two NSAIDs (e.g., ibuprofen, naproxen) at maximally
+indicated doses, each used for at least 4 weeks, unless contraindicated or
+clinically significant adverse effects are experienced (document drug, date,
+and duration of trials)
+-OR-
+(b) Patient has been previously treated with a targeted immunomodulator
+FDA-approved for the treatment of ankylosing spondylitis as documented
+by claims history or submission of medical records (Document drug,
+date, and duration of therapy) [e.g., adalimumab, Simponi (golimumab),
+Xeljanz/Xeljanz XR (tofacitinib), Rinvoq (upadacitinib)].
+-OR-
+(c) Both of the following:
+i. Patient is currently on Cimzia therapy as documented by claims history or
+submission of medical records (Document date and duration of therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from the UCB sponsored
+CIMplicity® program (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a
+current user of Cimzia*
+-AND-
+(3) Patient is not receiving Cimzia in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Simponi (golimumab), Orencia
+© 2024 UnitedHealthcare Services, Inc.
+6
+(abatacept), adalimumab, Xeljanz (tofacitinib), Olumiant (baricitinib),
+Rinvoq (upadacitinib)]
+-AND-
+(4) Prescribed by or in consultation with a rheumatologist
+* Patients requesting initial authorization who were established on therapy via the receipt
+of a manufacturer supplied sample at no cost in the prescriber’s office or any form of
+assistance from the UCB sponsored CIMplicity® program shall be required to meet
+initial authorization criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Cimzia will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Cimzia therapy
+-AND-
+(2) Patient is not receiving Cimzia in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Simponi (golimumab), Orencia
+(abatacept), adalimumab, Xeljanz (tofacitinib), Olumiant (baricitinib),
+Rinvoq (upadacitinib)]
+Authorization will be issued for 12 months.
+E. Plaque Psoriasis (PS)
+1. Initial Authorization
+a. Cimzia will be approved based on all of the following criteria:
+(1) Diagnosis of moderate to severe plaque psoriasis
+-AND-
+(2) One of the following:
+(a) All of the following:
+i. Greater than or equal to 3% body surface area involvement, palmoplantar,
+facial, genital involvement, or severe scalp psoriasis
+-AND-
+ii. History of failure to one of the following topical therapies, unless
+contraindicated or clinically significant adverse effects are experienced
+(document drug, date, and duration of trial):
+© 2024 UnitedHealthcare Services, Inc.
+7
+a. Corticosteroids (e.g., betamethasone, clobetasol, desonide)
+b. Vitamin D analogs (e.g., calcitriol, calcipotriene)
+c. Tazarotene
+d. Calcineurin inhibitors (e.g., tacrolimus, pimecrolimus)
+e. Anthralin
+f. Coal tar
+-AND-
+iii. History of failure to a 3 month trial of methotrexate at maximally
+indicated dose, unless contraindicated or clinically significant adverse
+effects are experienced (document date and duration of trial)b
+-OR-
+(b) Patient has been previously treated with a targeted immunomodulator
+FDA-approved for the treatment of plaque psoriasis as documented by
+claims history or submission of medical records (Document drug, date,
+and duration of therapy) [e.g., adalimumab, Otezla (apremilast), Skyrizi
+(risankizumab), Stelara (ustekinumab), Tremfya (guselkumab)].
+-OR-
+(c) Both of the following:
+i. Patient is currently on Cimzia therapy as documented by claims history or
+submission of medical records (Document date and duration of therapy):
+-AND-
+ii. Patient has not received a manufacturer supplied sample at no cost in the
+prescriber’s office, or any form of assistance from the UCB sponsored
+CIMplicity® program (e.g., sample card which can be redeemed at a
+pharmacy for a free supply of medication) as a means to establish as a
+current user of Cimzia*
+-AND-
+(3) Patient is not receiving Cimzia in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Simponi (golimumab), Orencia
+(abatacept), adalimumab, Stelara (ustekinumab), Skyrizi (risankizumab),
+Tremfya (guselkumab), Cosentyx (secukinumab), Taltz (ixekizumab), Siliq
+(brodalumab), Ilumya (tildrakizumab), Xeljanz (tofacitinib), Olumiant
+(baricitinib), Rinvoq (upadacitinib), Otezla (apremilast)]
+-AND-
+(4) Prescribed by or in consultation with a dermatologist
+© 2024 UnitedHealthcare Services, Inc.
+8
+* Patients requesting initial authorization who were established on therapy via the receipt
+of a manufacturer supplied sample at no cost in the prescriber’s office or any form of
+assistance from the UCB sponsored CIMplicity® program shall be required to meet
+initial authorization criteria as if patient were new to therapy.
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Cimzia will be approved based on all of the following criteria:
+(1) Documentation of positive clinical response to Cimzia therapy
+-AND-
+(2) Patient is not receiving Cimzia in combination with another targeted
+immunomodulator [e.g., Enbrel (etanercept), Simponi (golimumab), Orencia
+(abatacept), adalimumab, Stelara (ustekinumab), Skyrizi (risankizumab),
+Tremfya (guselkumab), Cosentyx (secukinumab), Taltz (ixekizumab), Siliq
+(brodalumab), Ilumya (tildrakizumab), Xeljanz (tofacitinib), Olumiant
+(baricitinib), Rinvoq (upadacitinib), Otezla (apremilast)]
+Authorization will be issued for 12 months.
+F. Polyarticular Juvenile Idiopathic Arthritis (pJIA)
+1. Initial Authorization
+a. Cimzia will be approved based on all of the following criteria:
+(1) Diagnosis of active polyarticular juvenile idiopathic arthritis
+-AND-
+(2) Patient is not receiving Cimzia in combination with another targeted
+immunomodulator [e.g., adalimumab, Enbrel (etanercept), Simponi
+(golimumab), Orencia (abatacept), Xeljanz (tofacitinib), Olumiant
+(baricitinib), Rinvoq (upadacitinib)]
+-AND-
+(3) Prescribed by or in consultation with a rheumatologist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Cimzia will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Cimzia therapy
+© 2024 UnitedHealthcare Services, Inc.
+9
+-AND-
+(2) Patient is not receiving Cimzia in combination with another targeted
+immunomodulator [e.g., adalimumab, Enbrel (etanercept), Simponi
+(golimumab), Orencia (abatacept), Xeljanz (tofacitinib), Olumiant
+(baricitinib), Rinvoq (upadacitinib)]
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+b For Connecticut, Kentucky and Mississippi business only a 30-day trial will be required.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Cimzia [package insert]. Smyrna, GA: UCB, Inc; December 2022.
+2. Ward MM, Deodhar, A, Gensler, LS, et al. 2019 Update of the American College of
+Rheumatology/Spondylitis Association of America/Spondyloarthritis Research and Treatment
+Network Recommendations for the Treatment of Ankylosing Spondylitis and Nonradiographic
+Axial Spondyloarthritis. Arthritis & Rheumatology. 2019; 71(10): 1599-1613.
+3. Yu, DT, van Tubergen A. Treatment of axial spondyloarthritis (ankylosing spondylitis and
+nonradiographic axial spondyloarthritis) in adults. Sieper, J (Ed). UpToDate. Waltham, MA:
+UpToDate Inc. http://www.uptodate.com (Accessed on October 10, 2019.)
+4. Singh, JA, Guyatt, G, et al. 2018 American College of Rheumatology/National Psoriasis
+Foundation Guideline for the Treatment of Psoriatic Arthritis. Arthritis & Rheumatology. 2019;
+71(1): 5-32.
+5. Menter A, Gottlieb A, Feldman SR, et al. Guidelines of care for the management of psoriasis and
+psoriatic arthritis: Section 1. Overview of psoriasis and guidelines of care for the treatment of
+psoriasis with biologics. J Am Acad Dermatol 2008; 58(5):826-50.
+6. Gottlieb A, Korman NJ, Gordon KB, et al. Guidelines of care for the management of psoriasis
+and psoriatic arthritis. Psoriatic arthritis: Overview and guidelines of care for treatment with an
+emphasis on the biologics. J Am Acad Dermatol 2008;58(5):851-64.
+7. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and
+psoriatic arthritis. Section 3. Guidelines of care for the management and treatment of psoriasis
+with topical therapies. J Am Acad Dermatol 2009;60(4):643-59.
+8. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and
+psoriatic arthritis. Guidelines of care for the treatment of psoriasis with phototherapy and
+photochemotherapy. J Am Acad Dermatol 2010;62(1):114-35.
+9. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and
+psoriatic arthritis. Guidelines of care for the management and treatment of psoriasis with
+traditional systemic agents. J Am Acad Dermatol 2009;61(3):451-85.
+© 2024 UnitedHealthcare Services, Inc.
+10
+10. Nast A, et al; European S3-Guidelines on the systemic treatment of psoriasis vulgaris – update
+2015 – short version – EFF in cooperation with EADV and IPC, J Eur Acad Derm Venereol
+2015;29:2277-94.
+11. Menter A, Korman NJ, Elmets CA,Feldman SR, Gelfand JM, Gordon KB, Guidelines of care for
+the management of psoriasis and psoriatic arthritis: section 6. Guidelines of care for the treatment
+of psoriasis and psoriatic arthritis: case-based presentations and evidence-based conclusions. J
+Am Acad Dermatol. 2011 Jul;65(1):137-74.
+12. Gossec L, et al; European League Against Rheumatism (EULAR) recommendations for the
+management of psoriatic arthritis with pharmacological therapies: 2015 update, Ann Rheum Dis
+2016;75:499-510.
+13. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management
+and treatment of psoriasis with biologics. J Am Acad Dermatol. 2019;80:1029-72.
+14. Fraenkel L, Bathon JM, et al; 2021 American College of Rheumatology Guideline for the
+Treatment of Rheumatoid Arthritis. Arthritis Care Res (Hoboken). 2021 Jul;73(7):924-939.
+Program Prior Authorization/Medical Necessity - Cimzia (certolizumab)
+Change Control
+5/2020 New Program
+5/2021 Annual review. Removed preceding month requirement from failure
+criteria. Removed prescriber requirement from reauthorization criteria.
+Removed drug documentation where only one drug is required.
+Reference updated.
+6/2021 Added coverage criteria for patients previously treated with a biologic
+DMARD. Added clarification that submission of medical records is
+required documenting previous or current therapy with a biologic
+DMARD in order to bypass step through non-biologic therapies if claim
+history not available.
+12/2021 Updated conventional DMARD bypass language for rheumatoid arthritis,
+psoriatic arthritis and psoriasis with no change to clinical intent. Updated
+CT/KY footnote.
+5/2022 Added targeted synthetic DMARD to bypass criteria for AS. Added
+Rinvoq and Xeljanz as a JAK inhibitor example where applicable. Added
+Mississippi to state mandate.
+5/2023 Annual review. Updated drug examples to mirror other pharmacy
+programs. Updated reference.
+7/2023 Updated not receiving in combination language to targeted
+immunomodulator and updated examples.
+10/2024 Annual review. Updated state mandate footnote and reference.
+11/2024 Added coverage criteria for pJIA. Updated background and reference.
+© 2024 UnitedHealthcare Services, Inc.
+11

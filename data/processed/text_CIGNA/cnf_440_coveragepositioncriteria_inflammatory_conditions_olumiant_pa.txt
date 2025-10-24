@@ -1,0 +1,333 @@
+PRIOR AUTHORIZATION POLICY
+POLICY: Inflammatory Conditions – Olumiant Prior Authorization Policy
+• Olumiant® (baricitinib tablets – Lilly)
+REVIEW DATE: 04/23/2025
+I NSTRUCTIONS FOR USE
+THE FOLLOWING COVERAGE POLICY APPLIES TO HEALTH BENEFIT PLANS ADMINISTERED BY CIGNA COMPANIES. CERTAIN CIGNA
+COMPANIES AND/OR LINES OF BUSINESS ONLY PROVIDE UTILIZATION REVIEW SERVICES TO CLIENTS AND DO NOT MAKE COVERAGE
+DETERMINATIONS. REFERENCES TO STANDARD BENEFIT PLAN LANGUAGE AND COVERAGE DETERMINATIONS DO NOT APPLY TO THOSE
+CLIENTS. COVERAGE POLICIES ARE INTENDED TO PROVIDE GUIDANCE IN INTERPRETING CERTAIN STANDARD BENEFIT PLANS
+ADMINISTERED BY CIGNA COMPANIES. PLEASE NOTE, THE TERMS OF A CUSTOMER'S PARTICULAR BENEFIT PLAN DOCUMENT [GROUP
+SERVICE AGREEMENT, EVIDENCE OF COVERAGE, CERTIFICATE OF COVERAGE, SUMMARY PLAN DESCRIPTION (SPD) OR SIMILAR
+PLAN DOCUMENT] MAY DIFFER SIGNIFICANTLY FROM THE STANDARD BENEFIT PLANS UPON WHICH THESE COVERAGE POLICIES ARE
+BASED. FOR EXAMPLE, A CUSTOMER'S BENEFIT PLAN DOCUMENT MAY CONTAIN A SPECIFIC EXCLUSION RELATED TO A TOPIC
+ADDRESSED IN A COVERAGE POLICY. IN THE EVENT OF A CONFLICT, A CUSTOMER'S BENEFIT PLAN DOCUMENT ALWAYS SUPERSEDES
+THE INFORMATION IN THE COVERAGE POLICIES. IN THE ABSENCE OF A CONTROLLING FEDERAL OR STATE COVERAGE MANDATE,
+BENEFITS ARE ULTIMATELY DETERMINED BY THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT. COVERAGE DETERMINATIONS
+IN EACH SPECIFIC INSTANCE REQUIRE CONSIDERATION OF 1) THE TERMS OF THE APPLICABLE BENEFIT PLAN DOCUMENT IN EFFECT ON
+THE DATE OF SERVICE; 2) ANY APPLICABLE LAWS/REGULATIONS; 3) ANY RELEVANT COLLATERAL SOURCE MATERIALS INCLUDING
+COVERAGE POLICIES AND; 4) THE SPECIFIC FACTS OF THE PARTICULAR SITUATION. EACH COVERAGE REQUEST SHOULD BE REVIEWED
+ON ITS OWN MERITS. MEDICAL DIRECTORS ARE EXPECTED TO EXERCISE CLINICAL JUDGMENT WHERE APPROPRIATE AND HAVE
+DISCRETION IN MAKING INDIVIDUAL COVERAGE DETERMINATIONS. WHERE COVERAGE FOR CARE OR SERVICES DOES NOT DEPEND ON
+SPECIFIC CIRCUMSTANCES, REIMBURSEMENT WILL ONLY BE PROVIDED IF A REQUESTED SERVICE(S) IS SUBMITTED IN ACCORDANCE
+WITH THE RELEVANT CRITERIA OUTLINED IN THE APPLICABLE COVERAGE POLICY, INCLUDING COVERED DIAGNOSIS AND/OR
+PROCEDURE CODE(S). REIMBURSEMENT IS NOT ALLOWED FOR SERVICES WHEN BILLED FOR CONDITIONS OR DIAGNOSES THAT ARE
+NOT COVERED UNDER THIS COVERAGE POLICY (SEE "CODING INFORMATION" BELOW). WHEN BILLING, PROVIDERS MUST USE THE
+MOST APPROPRIATE CODES AS OF THE EFFECTIVE DATE OF THE SUBMISSION. CLAIMS SUBMITTED FOR SERVICES THAT ARE NOT
+ACCOMPANIED BY COVERED CODE(S) UNDER THE APPLICABLE COVERAGE POLICY WILL BE DENIED AS NOT COVERED. COVERAGE
+POLICIES RELATE EXCLUSIVELY TO THE ADMINISTRATION OF HEALTH BENEFIT PLANS. COVERAGE POLICIES ARE NOT
+RECOMMENDATIONS FOR TREATMENT AND SHOULD NEVER BE USED AS TREATMENT GUIDELINES. IN CERTAIN MARKETS, DELEGATED
+VENDOR GUIDELINES MAY BE USED TO SUPPORT MEDICAL NECESSITY AND OTHER COVERAGE DETERMINATIONS.
+CIGNA NATIONAL FORMULARY COVERAGE:
+OVERVIEW
+Olumiant, an inhibitor of the Janus kinases (JAK) pathways, is indicated for the following
+uses:1
+• Alopecia Areata, in adults with severe disease.
+• Coronavirus Disease 2019 (COVID-19), for hospitalized adults requiring
+supplemental oxygen, non-invasive or invasive mechanical ventilation, or
+extracorporeal membrane oxygenation (ECMO). For COVID-19, the dose is 4 mg
+once daily for 14 days or until hospital discharge, whichever comes first. Of note, this
+policy does not target this indication.
+• Rheumatoid Arthritis, in adults with moderate to severe active disease have had
+an inadequate response to one or more tumor necrosis factor inhibitors. Olumiant is
+not recommended for use in combination with other JAK inhibitors, or in combination
+with biologics or potent immunosuppressants such as azathioprine or cyclosporine.
+Guidelines
+Olumiant is addressed in the following guidelines:
+Page 1 of 8 - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Olumiant Prior
+Authorization Policy
+• Alopecia Areata: An international expert opinion on treatments for alopecia areata
+(2020) lists JAK inhibitors among the therapies for treatment of extensive hair loss.
+First-line treatments for adults include high- or super-high potency topical
+corticosteroids and/or systemic corticosteroids. Steroid-sparing therapies to mitigate
+the risk associated with prolonged use of corticosteroids include cyclosporine,
+methotrexate, and azathioprine.
+• COVID-19: The Infectious Diseases Society of America (IDSA) has developed
+treatment guidelines for the management of COVID-19 and address the use of
+Olumiant.3 Olumiant is recommended for hospitalized patients with COVID-19 for a
+duration of 14 days or until discharge from the hospital.
+• Rheumatoid Arthritis: Guidelines from the American College of Rheumatology
+(2021) recommend addition of a biologic or a targeted synthetic disease-modifying
+antirheumatic drug (DMARD) for a patient taking the maximum tolerated dose of
+methotrexate who is not at target.2
+POLICY STATEMENT
+Prior Authorization is recommended for prescription benefit coverage of Olumiant. The
+intent of this policy is to provide recommendations for appropriate uses; the acute
+treatment of COVID-19 in hospitalized patients is not addressed in this policy. All approvals
+are provided for the duration noted below. In cases where the approval is authorized in
+months, 1 month is equal to 30 days. Because of the specialized skills required for
+evaluation and diagnosis of patients treated with Olumiant as well as the monitoring
+required for adverse events and long-term efficacy, initial approval for certain indications
+requires Olumiant to be prescribed by or in consultation with a physician who specializes in
+the condition being treated.
+• Olumiant® (baricitinib tablets – Lilly)
+is(are) covered as medically necessary when the following criteria is(are) met for
+FDA-approved indication(s) or other uses with supportive evidence (if applicable):
+FDA-Approved Indications
+1. Alopecia Areata. Approve for the duration noted if the patient meets ONE of the
+following (A or B):
+Note: Alopecia universalis and alopecia totalis are subtypes of alopecia areata.
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following (i, ii,
+iii, iv, and v):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient has a current episode of alopecia areata lasting for ≥ 6 months; AND
+iii. Patient has ≥ 50% scalp hair loss; AND
+iv. Patient has tried at least ONE of the following for alopecia areata (a or b):
+a) Conventional systemic therapy; OR
+Note: Examples of conventional systemic therapies include corticosteroids,
+methotrexate, and cyclosporine. An exception to the requirement for a trial of
+one conventional systemic agent can be made if the patient has already tried
+Leqselvi (deuruxolitinib tablets) or Litfulo (ritlecitinib capsules).
+b) High- or super-high potency topical corticosteroid; AND
+v. The medication is prescribed by or in consultation with a dermatologist; OR
+B) Patient is Currently Receiving Olumiant. Approve for 1 year if the patient meets ALL
+of the following (i, ii, iii, and iv):
+i. Patient is ≥ 18 years of age; AND
+5 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Olumiant Prior Authorization
+Policy
+ii. Patient has been established on the requested drug for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is restarting
+therapy with the requested drug is reviewed under criterion A (Initial Therapy).
+iii. Patient experienced a beneficial clinical response, defined as improvement from
+baseline (prior to initiating Olumiant) in extent and density of scalp hair loss;
+AND
+iv. According to the prescriber, the patient continues to require systemic therapy for
+treatment of alopecia areata.
+Note: International consensus states that systemic treatment is best
+discontinued once complete regrowth has been achieved and maintained for 6
+months or when regrowth is sufficient to be managed topically.
+2. Rheumatoid Arthritis. Approve for the duration noted if the patient meets ONE of the
+following (A or B):
+A) Initial Therapy. Approve for 6 months if the patient meets ALL of the following (i, ii,
+and iii):
+i. Patient is ≥ 18 years of age; AND
+ii. Patient meets ONE of the following (a or b):
+a) Patient has had a 3-month trial of at least ONE tumor necrosis factor
+inhibitor; OR
+b) Patient has tried at least one tumor necrosis factor inhibitor but was unable to
+tolerate a 3-month trial; AND
+Note: Refer to Appendix for examples of tumor necrosis factor inhibitors used
+for rheumatoid arthritis. Conventional synthetic disease-modifying
+antirheumatic drugs (DMARDs) such as methotrexate, leflunomide,
+hydroxychloroquine, and sulfasalazine do not count.
+iii. The medication is prescribed by or in consultation with a rheumatologist; OR
+B) Patient is Currently Receiving Olumiant. Approve for 1 year if the patient meets
+BOTH of the following (i and ii):
+i. Patient has been established on the requested drug for at least 6 months; AND
+Note: A patient who has received < 6 months of therapy or who is restarting
+therapy with the requested drug is reviewed under criterion A (Initial Therapy).
+ii. Patient meets ONE of the following (a or b):
+a) Patient experienced a beneficial clinical response when assessed by at least
+one objective measure; OR
+Note: Examples of standardized and validated objective measures of disease
+activity include Clinical Disease Activity Index (CDAI), Disease Activity Score
+(DAS) 28 using erythrocyte sedimentation rate (ESR) or C-reactive protein
+(CRP), Patient Activity Scale (PAS)-II, Rapid Assessment of Patient Index
+Data 3 (RAPID-3), and/or Simplified Disease Activity Index (SDAI).
+b) Patient experienced an improvement in at least one symptom, such as
+decreased joint pain, morning stiffness, or fatigue; improved function or
+activities of daily living; decreased soft tissue swelling in joints or tendon
+sheaths.
+CONDITIONS NOT COVERED
+• Olumiant® (baricitinib tablets – Lilly)
+is(are) considered not medically necessary for ANY other use(s) including the
+following (this list may not be all inclusive; criteria will be updated as newly
+published data are available):
+5 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Olumiant Prior Authorization
+Policy
+1. Concurrent Use with a Biologic or with a Targeted Synthetic Oral Small
+Molecule Drug. This medication should not be administered in combination with
+another biologic or with a targeted synthetic oral small molecule drug used for an
+inflammatory condition (see Appendix for examples). Combination therapy is generally
+not recommended due to a potentially higher rate of adverse events and lack of
+controlled clinical data supporting additive efficacy.
+Note: This does NOT exclude the use of conventional synthetic DMARDs (e.g.,
+methotrexate, leflunomide, hydroxychloroquine, or sulfasalazine) in combination with
+this medication.
+2. Concurrent Use with a Biologic Immunomodulator. Olumiant is not recommended
+in combination with biologic immunomodulators.1
+Note: Examples include Adbry (tralokinumab-ldrm subcutaneous injection), Cinqair
+(reslizumab intravenous), Dupixent (dupilumab subcutaneous injection), Ebglyss
+(lebrikizumab-lbkz subcutaneous injection), Nemluvio (nemolizumab-ilto subcutaneous
+injection), Fasenra (benralizumab subcutaneous injection), Nucala (mepolizumab
+subcutaneous injection), Tezspire (tezepelumab-ekko subcutaneous injection), and
+Xolair (omalizumab subcutaneous injection).
+3. Concurrent Use with Topical Janus Kinase Inhibitors (JAKis). Olumiant should not
+be administered in combination with a topical JAKi [e.g., Opzelura (ruxolitinib) cream)]
+used for Atopic Dermatitis. Combination therapy is generally not recommended due to
+the potential for a higher rate of adverse effects and lack of evidence for additive
+efficacy.
+4. Concurrent use with Other Potent Immunosuppressants (e.g., azathioprine,
+cyclosporine).1 Co-administration with other potent immunosuppressive drugs has the
+risk of added immunosuppression and has not been evaluated in rheumatoid arthritis.
+Note: This does NOT exclude the use of Olumiant with methotrexate; Olumiant has
+been evaluated with background methotrexate or in combinations with conventional
+synthetic DMARDs containing methotrexate.
+5. COVID-19 (Coronavirus Disease 2019). Olumiant is only indicated in hospitalized
+adults with COVID-19 requiring supplemental oxygen, non-invasive or invasive
+mechanical ventilation, or extracorporeal membrane oxygenation (ECMO).1 For COVID-
+19, the dose is 4 mg once daily for 14 days or until hospital discharge, whichever comes
+first.
+6. Coverage is not recommended for circumstances not listed in the Recommended
+Authorization Criteria. Criteria will be updated as newly published data are available.
+REFERENCES
+1. Olumiant® tablets [prescribing information]. Indianapolis, IN: Lilly; June 2022.
+2. Fraenkel L, Bathon JM, England BR, et al. 2021 American College of Rheumatology
+guideline for the treatment of rheumatoid arthritis. Arthritis Rheumatol.
+2021;73(7):1108-1123.
+3. Bhimraj A, Morgan RL, Shumaker AH, et al. Infectious Diseases Society of America
+Guidelines on the treatment and management of patients with COVID-19. Updated
+August 12, 2024. Available at: https://www.idsociety.org/COVID19guidelines. Accessed
+April 02, 2025.
+5 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Olumiant Prior Authorization
+Policy
+HISTORY
+Type of Summary of Changes Review
+Revision Date
+Annual Alopecia Areata: Removed examples of other types of 06/28/2023
+Revision alopecia from criteria.
+Conditions Not Covered
+: Updated to state not recommended for concurrent use
+with biologic immunomodulators or topical JAKis.
+Selected Alopecia Areata: Listed alopecia universalis and alopecia 07/26/2023
+Revision totalis as subtypes of alopecia areata. Updated criteria for
+trial of systemic therapy to more specifically state
+conventional systemic therapy while allowing an exception if
+the patient has already tried Litfulo.
+Annual No criteria changes. 07/24/2024
+Revision
+Selected Alopecia Areata: Updated the exception to the 08/21/2024
+Revision requirement of a trial of one conventional systemic agent to
+include a previous trial of Leqselvi. Previously, only Litfulo
+was listed as the exception. Additionally, for the option
+previous trial of a topical corticosteroid, specified trial to
+consist of a high- or super-high potency topical
+corticosteroid.
+Selected Conditions Not Covered 09/11/2024
+Revision : Concurrent use with a Biologic or with a Targeted
+Synthetic Oral Small Molecule Drug was changed to as listed
+(previously oral small molecule drug was listed as Disease-
+Modifying Antirheumatic Drug).
+Early Annual Updated policy statement to indicate that the acute 04/23/2025
+Revision treatment of COVID-19 in hospitalized patients is not
+addressed in this policy. Also removed the following
+statement, “All requests for use of Olumiant in a hospitalized
+patient with COVID-19 will be forwarded to the Medical
+Director. Of note, this includes requests for cytokine release
+syndrome associated with COVID-19.”
+COVID-19 (Coronavirus Disease 2019) – Hospitalized
+Patient: Removed condition of approval.
+Conditions Not Covered: Treatment of COVID-19 in a
+non-hospitalized patient was changed to more generally
+state COVID-19.
+Additionally, Ebglyss and Nemluvio were added as examples
+of biologic immunomodulators which are not allowed
+concurrently with Olumiant.
+5 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Olumiant Prior Authorization
+Policy
+APPENDIX
+Mechanism of Action Examples of Indications*
+Biologics
+Adalimumab SC Products Inhibition of TNF AS, CD, JIA, PsO, PsA, RA,
+(Humira®, biosimilars) UC
+Cimzia® (certolizumab pegol SC Inhibition of TNF AS, CD, nr-axSpA, PsO,
+injection) PsA, RA
+Etanercept SC Products (Enbrel®, Inhibition of TNF AS, JIA, PsO, PsA, RA
+biosimilars)
+Infliximab IV Products Inhibition of TNF AS, CD, PsO, PsA, RA, UC
+(Remicade®, biosimilars)
+Zymfentra® (infliximab-dyyb SC Inhibition of TNF CD, UC
+injection)
+Simponi®, Simponi Aria® Inhibition of TNF SC formulation: AS, PsA,
+(golimumab SC injection, golimumab RA, UC
+IV infusion) IV formulation: AS, PJIA,
+PsA, RA
+Tocilizumab Products (Actemra® Inhibition of IL-6 SC formulation: PJIA, RA,
+IV, biosimilar; Actemra SC, SJIA
+biosimilar) IV formulation: PJIA, RA,
+SJIA
+Kevzara® (sarilumab SC injection) Inhibition of IL-6 RA
+Orencia® (abatacept IV infusion, T-cell costimulation SC formulation: JIA, PSA,
+abatacept SC injection) modulator RA
+IV formulation: JIA, PsA,
+RA
+Rituximab IV Products (Rituxan®, CD20-directed RA
+biosimilars) cytolytic antibody
+Kineret® (anakinra SC injection) Inhibition of IL-1 JIA^, RA
+Omvoh® (mirikizumab IV infusion, Inhibition of IL-23 CD, UC
+SC injection)
+Ustekinumab Products (Stelara® Inhibition of IL- SC formulation: CD, PsO,
+IV, biosimilars; Stelara SC, 12/23 PsA, UC
+biosimilars) IV formulation: CD, UC
+Siliq® (brodalumab SC injection) Inhibition of IL-17 PsO
+Cosentyx® (secukinumab SC Inhibition of IL-17A SC formulation: AS, ERA,
+injection; secukinumab IV infusion) nr-axSpA, PsO, PsA
+IV formulation: AS, nr-
+axSpA, PsA
+Taltz® (ixekizumab SC injection) Inhibition of IL-17A AS, nr-axSpA, PsO, PsA
+Bimzelx® (bimekizumab-bkzx SC Inhibition of IL- PsO, nr-axSpA, PsO, PsA
+injection) 17A/17F
+Ilumya® (tildrakizumab-asmn SC Inhibition of IL-23 PsO
+injection)
+Skyrizi® (risankizumab-rzaa SC Inhibition of IL-23 SC formulation: CD, PSA,
+injection, risankizumab-rzaa IV PsO, UC
+infusion) IV formulation: CD, UC
+Tremfya® (guselkumab SC injection, Inhibition of IL-23 SC formulation: CD, PsA,
+guselkumab IV infusion) PsO, UC
+IV formulation: CD, UC
+5 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Olumiant Prior Authorization
+Policy
+Entyvio® (vedolizumab IV infusion, Integrin receptor CD, UC
+vedolizumab SC injection) antagonist
+Oral Therapies/Targeted Synthetic Oral Small Molecule Drugs
+Otezla® (apremilast tablets) Inhibition of PDE4 PsO, PsA
+Cibinqo™ (abrocitinib tablets) Inhibition of JAK AD
+pathways
+Olumiant® (baricitinib tablets) Inhibition of JAK RA, AA
+pathways
+Litfulo® (ritlecitinib capsules) Inhibition of JAK AA
+pathways
+Leqselvi® (deuruxolitinib tablets) Inhibition of JAK AA
+pathways
+Rinvoq® (upadacitinib extended- Inhibition of JAK AD, AS, nr-axSpA, RA,
+release tablets) pathways PsA, UC
+Rinvoq® LQ (upadacitinib oral Inhibition of JAK PsA, PJIA
+solution) pathways
+Sotyktu® (deucravacitinib tablets) Inhibition of TYK2 PsO
+Xeljanz® (tofacitinib tablets/oral Inhibition of JAK RA, PJIA, PsA, UC
+solution) pathways
+Xeljanz® XR (tofacitinib extended- Inhibition of JAK RA, PsA, UC
+release tablets) pathways
+Zeposia® (ozanimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+Velsipity® (etrasimod tablets) Sphingosine 1 UC
+phosphate receptor
+modulator
+* Not an all-inclusive list of indications. Refer to the prescribing information for the
+respective agent for FDA-approved indications; SC – Subcutaneous; TNF – Tumor necrosis
+factor; AS – Ankylosing spondylitis; CD – Crohn’s disease; JIA – Juvenile idiopathic arthritis;
+PsO – Plaque psoriasis; PsA – Psoriatic arthritis; RA – Rheumatoid arthritis; UC – Ulcerative
+colitis; nr-axSpA – Non-radiographic axial spondyloarthritis; IV – Intravenous, PJIA –
+Polyarticular juvenile idiopathic arthritis; IL – Interleukin; SJIA – Systemic juvenile
+idiopathic arthritis; ^ Off-label use of Kineret in JIA supported in guidelines; ERA –
+Enthesitis-related arthritis; DMARD – Disease-modifying antirheumatic drug; PDE4 –
+Phosphodiesterase 4; JAK – Janus kinase; AD – Atopic dermatitis; AA – Alopecia areata;
+TYK2 – Tyrosine kinase 2.
+"Cigna Companies" refers to operating subsidiaries of The Cigna Group. All products and services are
+provided exclusively by or through such operating subsidiaries, including Cigna Health and Life
+Insurance Company, Connecticut General Life Insurance Company, Evernorth Behavioral Health, Inc.,
+Cigna Health Management, Inc., and HMO or service company subsidiaries of The Cigna Group.© 2025
+The Cigna Group.
+5 Pages - Cigna National Formulary Coverage - Policy:Inflammatory Conditions – Olumiant Prior Authorization
+Policy

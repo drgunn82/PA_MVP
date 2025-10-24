@@ -1,0 +1,88 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2024 P 1228-8
+Program Prior Authorization/Notification
+Medication Idhifa® (enasidenib)
+P&T Approval Date 9/1/2017, 9/2018, 9/2019, 9/2020, 9/2021, 9/2022, 9/2023, 9/2024
+Effective Date 11/17/2024
+1. Background:
+Idhifa® (enasidenib) is an isocitrate dehydrogenase-2 inhibitor indicated for the treatment of
+adult patients with relapsed or refractory acute myeloid leukemia (AML) with an isocitrate
+dehydrogenase-2 (IDH2) mutation as detected by an FDA-approved test. The National Cancer
+Comprehensive Network (NCCN) also recommends the use of Idhifa as a single agent, or in
+combination with azacitidine, in patients with IDH2-mutated AML for treatment induction when
+not a candidate for intensive induction therapy, as follow-up after induction therapy following
+response to previous lower intensity therapy with the same regimen, or as consolidation therapy
+as continuation of low-intensity regimen used for induction.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the
+notification criteria.
+2. Coverage Criteria:
+A. Patients less than 19 years of age
+1. Idhifa will be approved based on the following criterion:
+a. Member is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Acute Myeloid Leukemia (AML)
+1. Initial Authorization
+a. Idhifa will be approved based on all of the following criteria:
+(1) Diagnosis of acute myeloid leukemia (AML)
+-AND-
+(2) AML is IDH2 mutation-positive
+© 2024 UnitedHealthcare Services Inc.
+1
+-AND-
+(3) One of the following:
+(a) Disease is relapsed or refractory
+-OR-
+(b) Used as low-intensity treatment induction when not a candidate for
+intensive induction therapy
+-OR-
+(c) Used for consolidation therapy as continuation of low-intensity regimen
+used for induction
+-OR-
+(d) Used as follow-up after induction therapy following response to previous
+lower intensity therapy with the same regimen
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Idhifa will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Idhifa therapy
+Authorization will be issued for 12 months.
+C. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a
+Category of Evidence and Consensus of 1, 2A, or 2B
+Authorization will be issued for 12 months.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+© 2024 UnitedHealthcare Services Inc.
+2
+4. References:
+1. Idhifa [package insert]. Cambridge, MA: Celgene Corporation; December 2023.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+www.nccn.org. Accessed July 26, 2024.
+Program Prior Authorization/Notification - Idhifa (enasidenib)
+Change Control
+9/2017 New program.
+9/2018 Annual review. Updated background and criteria to include off label
+NCCN recommended utilization. Updated reference.
+9/2019 Annual review with no changes to clinical coverage criteria. Updated
+reference. Added general NCCN recommended review criteria.
+9/2020 Annual review with no changes to clinical coverage criteria. Updated
+reference.
+9/2021 Annual review with no changes to coverage criteria. References
+updated.
+9/2022 Annual review. Updated criteria based on latest NCCN
+recommendations. Updated reference.
+9/2023 Annual review. Updated criteria based on latest NCCN
+recommendations. Updated reference.
+9/2024 Annual review. Updated AML criteria based on NCCN
+recommendations.
+© 2024 UnitedHealthcare Services Inc.
+3

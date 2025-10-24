@@ -1,0 +1,82 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 2137-10
+Program Prior Authorization/Medical Necessity
+Medication Ingrezza® (valbenazine)
+P&T Approval Date 11/2017, 11/2018, 11/2019, 11/2020, 6/2021, 6/2022, 6/2023, 10/2023,
+4/2024, 4/2025
+Effective Date 7/1/2025
+1. Background
+Ingrezza is a vesicular monoamine transporter 2 (VMAT2) inhibitor indicated for the
+treatment of adults with tardive dyskinesia and chorea associated with Huntington’s disease.1
+2. Coverage Criteriaa:
+A. Tardive Dyskinesia
+1. Initial Authorization
+a. Ingrezza will be approved based on all of the following criteria:
+(1) Diagnosis of moderate to severe tardive dyskinesia
+-AND-
+(2) One of the following:
+(a) Patient has persistent symptoms of tardive dyskinesia despite a trial of dose
+reduction, tapering, or discontinuation of the offending medication
+-OR-
+(b) Patient is not a candidate for a trial of dose reduction, tapering, or
+discontinuation of the offending medication
+-AND-
+(3) Prescribed by or in consultation with one of the following:
+(a) Neurologist
+(b) Psychiatrist
+Authorization will be issued for 12 months.
+1. Reauthorization
+a. Documentation of positive clinical response to Ingrezza therapy
+© 2025 UnitedHealthcare Services Inc.
+1
+Authorization will be issued for 12 months.
+B. Chorea associated with Huntington’s disease
+1. Initial Authorization
+a. Ingrezza will be approved based on both of the following criteria:
+(1) Diagnosis of chorea associated with Huntington's disease
+-AND-
+(2) Prescribed by or in consultation with one of the following:
+(a) Neurologist
+(b) Psychiatrist
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Documentation of positive clinical response to Ingrezza therapy
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Ingrezza [packate insert]. San Diego, CA: Neurocrine Biosciences, Inc.; February 2025.
+2. Hauser RA, Factor SA, Marder SR, et al. Kinect 3: A phase 3 randomized, double-blind,
+placebo-controlled trial of valbenazine for tardive dyskinesia. American Journal of
+Psychiatry. May 2017. 174:5.
+Program Prior Authorization/Medical Necessity - Ingrezza (valbenazine)
+Change Control
+11/2017 New program
+11/2018 Annual review. No changes to clinical coverage criteria. Updated
+reference.
+11/2019 Annual review. No changes to clinical coverage criteria. Updated
+© 2025 UnitedHealthcare Services Inc.
+2
+reference.
+11/2020 Annual review. Updated references.
+6/2021 Added Ingrezza exclusion statement. Removed continuation of therapy
+allowance from coverage criteria. Updated reference.
+6/2022 Annual review. No changes.
+6/2023 Annual review. Updated criteria to include extended-release Austedo
+formulation. Updated reference.
+10/2023 Added criteria for chorea associated with Huntington's disease.
+Updated background and reference.
+4/2024 Removed notation that Ingrezza is typically excluded. Removed
+failure, contraindication, or intolerance to Austedo/Austedo XR from
+criteria.
+4/2025 Annual review with no change to clinical criteria. References updated.
+© 2025 UnitedHealthcare Services Inc.
+3

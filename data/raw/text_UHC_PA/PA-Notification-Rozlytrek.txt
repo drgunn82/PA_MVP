@@ -1,0 +1,102 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1297-7
+Program Prior Authorization/Notification
+Medication Rozlytrek™ (entrectinib)
+P&T Approval Date 10/2019, 10/2020, 10/2021, 10/2022, 1/2023, 1/2024, 1/2025
+Effective Date 4/1/2025
+1. Background:
+Rozlytrek (entrectinib) is a kinase inhibitor indicated for the treatment of:
+• Adult patients with ROS1-positive metastatic non-small cell lung cancer (NSCLC).
+• Adult and pediatric patients 1 month of age and older with solid tumors that:
+have a neurotrophic tyrosine receptor kinase (NTRK) gene fusion without a known
+o
+acquired resistance mutation,
+are metastatic or where surgical resection is likely to result in severe morbidity, and
+o
+have progressed following treatment or have no satisfactory alternative therapy.
+o
+This indication is approved under accelerated approval based on tumor response rate and durability
+of response. Continued approval for this indication may be contingent upon verification and
+description of clinical benefit in the confirmatory trials.
+Coverage Information:
+Members will be required to meet the criteria below for coverage. For members under the age of
+19 years, the prescription will automatically process without a coverage review.
+Some states mandate benefit coverage for off-label use of medications for some diagnoses or
+under some circumstances. Some states also mandate usage of other Compendium references.
+Where such mandates apply, they supersede language in the benefit document or in the notification
+criteria.
+2. Coverage Criteriaa:
+A. Patients less than 19 years of age
+1. Rozlytrek will be approved based on the following criterion:
+a. Patient is less than 19 years of age
+Authorization will be issued for 12 months.
+B. Non-Small Cell Lung Cancer (NSCLC)
+1. Initial Authorization
+a. Rozlytrek will be approved based on all of the following criteria:
+(1) Diagnosis of metastatic non-small cell lung cancer (NSCLC)
+© 2025 UnitedHealthcare Services, Inc.
+1
+-AND-
+(2) Disease is ROS1-positive
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Rozlytrek will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Rozlytrek therapy
+Authorization will be issued for 12 months.
+C. Solid Tumors
+1. Initial Authorization
+a. Rozlytrek will be approved based on all of the following criteria:
+(1) Presence of solid tumors (e.g., sarcoma, NSCLC, salivary, breast, thyroid,
+colorectal, neuroendocrine, pancreatic, gynecological, cholangiocarcinoma, etc.)
+-AND-
+(2) Disease is positive for neurotrophic receptor tyrosine kinase (NTRK) gene fusion
+(e.g., ETV6-NTRK3, TPM3-NTRK1, LMNA-NTRK1, etc.)
+-AND-
+(3) Disease is without a known acquired resistance mutation [e.g., TRKA G595R
+substitution, TRKA G667C substitution, or other recurrent kinase domain (solvent
+front and xDFG) mutations]
+-AND-
+(4) Disease is one of the following:
+(a) Metastatic
+(b) Unresectable
+Authorization will be issued for 12 months.
+2. Reauthorization
+a. Rozlytrek will be approved based on the following criterion:
+(1) Patient does not show evidence of progressive disease while on Rozlytrek therapy
+Authorization will be issued for 12 months.
+© 2025 UnitedHealthcare Services, Inc.
+2
+D. NCCN Recommended Regimens
+The drug has been recognized for treatment of the cancer indication by The National
+Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium with a Category of
+Evidence and Consensus of 1, 2A, or 2B.
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific benefit
+plan coverage may also impact coverage criteria. Other policies and utilization management
+programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-authorization
+based solely on previous claim/medication history, diagnosis codes (ICD-10) and/or claim logic.
+Use of automated approval and re-approval processes varies by program and/or therapeutic class.
+• Supply limits may be in place.
+4. References:
+1. Rozlytrek [package insert]. Genentech USA, Inc.: South San Francisco, CA; January 2024.
+2. The NCCN Drugs and Biologics Compendium (NCCN Compendium™). Available at
+http://www.nccn.org/professionals/drug_compendium/content/contents.asp. Accessed November
+27, 2024.
+Program Prior Authorization/Notification - Rozlytrek (entrectinib)
+Change Control
+10/2019 New program.
+10/2020 Annual review. No changes to clinical criteria.
+10/2021 Annual review with no changes to clinical criteria. Updated references.
+10/2022 Annual review with no changes to clinical criteria. Added state mandate
+footnote. Updated references.
+1/2023 Removed criteria requiring previous treatment progression or no alternative
+therapy based on first line recommendations per NCCN for certain cancers.
+Updated reference.
+1/2024 Annual review with update to background. No changes to clinical criteria.
+Updated references.
+1/2025 Annual review with no changes to clinical criteria. Updated references.
+© 2025 UnitedHealthcare Services, Inc.
+3

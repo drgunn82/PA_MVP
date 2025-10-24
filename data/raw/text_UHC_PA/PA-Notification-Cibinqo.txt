@@ -1,0 +1,69 @@
+UnitedHealthcare Pharmacy
+Clinical Pharmacy Programs
+Program Number 2025 P 1382-4
+Program Prior Authorization/Notification
+Medication Cibinqo™ (abrocitinib) tablets
+P&T Approval Date 3/2022, 3/2023, 3/2024, 4/2025
+Effective Date 5/16/2025
+1. Background:
+Cibinqo is a Janus kinase (JAK) inhibitor indicated for the treatment of adults and pediatric
+patients 12 years of age and older with refractory, moderate to severe atopic dermatitis whose
+disease is not adequately controlled with other systemic drug products, including biologics, or
+when use of those therapies is inadvisable.
+Limitation of Use:
+Cibinqo is not recommended in combination with other JAK inhibitors, biologic
+immunomodulators, or with other immunosuppressants.
+2. Coverage Criteriaa:
+A. Atopic Dermatitis
+1. Initial Authorization
+a. Cibinqo will be approved based on all of the following criteria:
+(1) Diagnosis of moderate-to-severe chronic atopic dermatitis
+-AND-
+(2) History of failure, contraindication, or intolerance to at least one systemic drug
+product for the treatment of atopic dermatitis
+-AND-
+(3) Patient is not receiving Cibinqo in combination with any of the following:
+(a) Biologic immunomodulator [e.g., Adbry (tralokinumab-ldrm), Dupixent
+(dupilumab), Ebglyss (lebrikizumab-lbkz), Nemluvio (nemolizumab-ilto)]
+(b) Janus kinase inhibitor [e.g., Olumiant (baricitinib), Opzelura (topical
+ruxolitinib), Rinvoq (upadacitinib), Xeljanz/XR (tofacitinib)]
+(c) Potent immunosuppressant (e.g., azathioprine, cyclosporine, mycophenolate
+mofetil)
+Authorization will be issued for 12 months.
+2. Reauthorization
+© 2025 UnitedHealthcare Services, Inc.
+1
+a. Cibinqo will be approved based on both of the following criteria:
+(1) Documentation of positive clinical response to Cibinqo therapy
+-AND-
+(2) Patient is not receiving Cibinqo in combination with any of the following:
+(a) Biologic immunomodulator [e.g., Adbry (tralokinumab-ldrm), Dupixent
+(dupilumab), Ebglyss (lebrikizumab-lbkz), Nemluvio (nemolizumab-ilto)]
+(b) Janus kinase inhibitor [e.g., Olumiant (baricitinib), Opzelura (topical
+ruxolitinib), Rinvoq (upadacitinib), Xeljanz/XR (tofacitinib)]
+(c) Potent immunosuppressant (e.g., azathioprine, cyclosporine, mycophenolate
+mofetil)
+Authorization will be issued for 12 months.
+a State mandates may apply. Any federal regulatory requirements and the member specific
+benefit plan coverage may also impact coverage criteria. Other policies and utilization
+management programs may apply.
+3. Additional Clinical Rules:
+• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re-
+authorization based solely on previous claim/medication history, diagnosis codes (ICD-10)
+and/or claim logic. Use of automated approval and re-approval processes varies by program
+and/or therapeutic class.
+• Supply limits, Medical Necessity, and/or Step Therapy may be in place.
+4. References:
+1. Cibinqo [package insert]. New York, NY: Pfizer Inc.; December 2023.
+Program Prior Authorization/Notification – Cibinqo (abrocitinib)
+Change Control
+3/2022 New program
+3/2023 Annual review. Updated background and criteria to reflect expanded
+indication for patients 12 years of age and older. Updated reference.
+Added state mandate footnote.
+3/2024 Annual review. Removed age requirement from criteria. Updated
+reference.
+4/2025 Annual review with no changes to coverage criteria. Updated examples
+with no change to clinical intent.
+© 2025 UnitedHealthcare Services, Inc.
+2
