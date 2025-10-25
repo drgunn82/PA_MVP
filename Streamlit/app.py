@@ -13,7 +13,7 @@ if not OPENAI_API_KEY:
     st.stop()
 
 # --- CONFIGURATION ---
-DB_PATH = r"C:\Users\Vincent Lin\OneDrive\Desktop\MVP_PA_Policies\data\db\chroma_UHC"
+DB_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "db", "chroma_UHC")
 COLLECTION_NAME = "pa_policies"
 EMBEDDING_MODEL = "text-embedding-3-small"
 LLM_MODEL = "gpt-4o"
