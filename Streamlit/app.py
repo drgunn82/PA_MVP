@@ -1,15 +1,14 @@
 import streamlit as st
-from chromadb import PersistentClient
-from openai import OpenAI
-from dotenv import load_dotenv
 import os
+from dotenv import load_dotenv
+from openai import OpenAI
 
-# --- LOAD ENVIRONMENT VARIABLES ---
-load_dotenv()  # Load .env file from the project root
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+# --- LOAD ENV VARIABLES ---
+load_dotenv()  # works locally
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY") or st.secrets.get("OPENAI_API_KEY")
 
 if not OPENAI_API_KEY:
-    st.error("❌ OPENAI_API_KEY not found. Please create a .env file with your API key.")
+    st.error("❌ No OpenAI API key found. Please check your .env (local) or Streamlit Secrets (cloud).")
     st.stop()
 
 # --- CONFIGURATION ---
