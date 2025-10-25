@@ -2,6 +2,7 @@ import streamlit as st
 import os
 from dotenv import load_dotenv
 from openai import OpenAI
+from chromadb import PersistentClient
 
 # --- LOAD ENV VARIABLES ---
 load_dotenv()  # works locally
